@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:0,ARD HD
+https://mcdn.daserste.de/daserste/de/profile7/playlist.m3u8
+#EXTINF:0,ZDF HD
+https://zdf1314-lh.akamaihd.net/i/de14_v1@392878/index_3096_av-p.m3u8?sd=6&set-segment-duration=quality&rebase=on
+#EXTINF:0,WDR HD
+https://wdrfsgeo-lh.akamaihd.net/i/wdrfs_geogeblockt@530016/index_3776_av-p.m3u8?sd=10&b=0-&rebase=on
+#EXTINF:0,3-SAT HD
+http://zdf0910-lh.akamaihd.net/i/dach10_v1@392872/index_1496_av-p.m3u8?sd=6&b=1496&set-segment-duration=quality&rebase=on
+#EXTINF:0,BR-HD
+https://brlive-lh.akamaihd.net/i/bfsnord_germany@119898/index_3776_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,KiKa HD
+https://kikade-lh.akamaihd.net/i/livetvkika_de@450035/index_3776_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,Welt der Wunder TV
+https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/index_2_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,Prosieben HD
+http://46.4.79.153/q1/tracks-v1a1/mono.m3u8?token=Rh45MoyoC3
+#EXTINF:0,Kabel 1 HD
+http://62.210.81.11/q5/tracks-v1a1/mono.m3u8?token=Rh45MoyoC3
+#EXTINF:0,SAT 1 HD
+http://62.210.81.11/q6/tracks-v1a1/mono.m3u8?token=Rh45MoyoC3
+#EXTINF:0,Prosieben maxx
+http://62.210.81.11/q2/tracks-v1a1/mono.m3u8?token=Rh45MoyoC3
+#EXTINF:0,Tele5
+http://62.210.81.11/q3/tracks-v1a1/mono.m3u8?token=Rh45MoyoC3
+#EXTINF:0,Sky Sport News
+https://eventhlshttps-i.akamaihd.net/hls/live/263645/ssn-hd-https/indexvideo-3400.m3u8
+
+
