@@ -1,0 +1,1 @@
+name= Star HD http://master.cystreams.com:25461/live/greek/macedonia/40.ts tvg-logo="http://greektv.pbworks.com/f/STAR.png",STAR
