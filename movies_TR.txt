@@ -1,0 +1,27 @@
+name= Saban Oglu Saban url= "https://vcdn-puhutv.akamaized.net/4142/hls/playlist.m3u8?hdnea=st=1571247415~exp=1571249215~acl=/*~hmac=9b87b3be97712bdeca3aefe00a7670e5b13c11b077f3d7647817c49da9ea9288" logo= "https://i.ytimg.com/vi/ZDoLID8feBU/maxresdefault.jpg"
+name= Hababam Sınıfı Sınıfta Kaldı url= "https://vcdn-puhutv.akamaized.net/2597/hls/playlist.m3u8?hdnea=st=1571247680~exp=1571249480~acl=/*~hmac=1bc7c4d4e12d90c2e24b5b60b779884dbf943fe6b7b4617e273bbe8d0f5a0deb" logo= "https://upload.wikimedia.org/wikipedia/tr/5/52/Hababam_S%C4%B1n%C4%B1f%C4%B1_S%C4%B1n%C4%B1fta_Kald%C4%B1.jpg"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
