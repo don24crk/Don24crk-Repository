@@ -1,5 +1,0 @@
-name= ATV HD url= "https://blutv-beta.akamaized.net/atvhd/atvhd.smil/playlist.m3u8" logo= "https://pbs.twimg.com/profile_images/748515146356629504/7x_gxi_G.jpg"
-
-
-
-
