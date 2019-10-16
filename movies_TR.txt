@@ -1,0 +1,27 @@
+name= Şabanoğlu Şaban Şaban Oğlu Şaban= "https://vcdn-puhutv.akamaized.net/4142/hls/playlist.m3u8?hdnea=st=1571242996~exp=1571244796~acl=/*~hmac=6efd76ad3e27b3ab974697f9530b028726b57c2a400dae086b375d8cae4a9daa" logo= "https://i.ytimg.com/vi/ZDoLID8feBU/maxresdefault.jpg"
+name= Hababam Sınıfı Sınıfta Kaldı= "https://vcdn-puhutv.akamaized.net/2597/hls/playlist.m3u8?hdnea=st=1571243251~exp=1571245051~acl=/*~hmac=353dca5f13d8a4067b313675165c9e4bc30fcac45257ecb7c9f881d8dc4ce155" logo= "https://upload.wikimedia.org/wikipedia/tr/5/52/Hababam_S%C4%B1n%C4%B1f%C4%B1_S%C4%B1n%C4%B1fta_Kald%C4%B1.jpg"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
