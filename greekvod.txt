@@ -1,0 +1,34 @@
+name= voice20191013.mp4 url= "http://videostream.skai.gr/GrCyTargeting/voice/voice20191013.mp4.m3u8" logo= "http://media.skaitv.gr/images/450/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/psyxagwgia_2/1920x1080_voice.jpg"
+name= voice20191011-jdhye.mp4 url= "http://videostream.skai.gr/GrCyTargeting/voice/voice20191011-jdhye.mp4.m3u8" logo= "http://media.skaitv.gr/images/450/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/psyxagwgia_2/1920x1080_voice.jpg"
+name= voice20191006.mp4 url= "http://videostream.skai.gr/GrCyTargeting/voice/voice20191006.mp4.m3u8" logo= "http://media.skaitv.gr/images/450/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/psyxagwgia_2/1920x1080_voice.jpg"
+name= voice20191004.mp4 url= "http://videostream.skai.gr/GrCyTargeting/voice/voice20191004.mp4.m3u8" logo= "http://media.skaitv.gr/images/450/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/psyxagwgia_2/1920x1080_voice.jpg"
+name= TO PIO LAMPRO ASTERI url= "https://lh3.googleusercontent.com/VMdFV_-ebNixKETgHiuz5diEGJBq5LnJC5T5RhPmuoHDCIgk_HchwcX0cdUtNv0H3IrOInuMIH3tQl_70uDkziphl67uXNjXce8e9KcNYQDoDD1UUTUJQ4OT8XSlvolEpz8CvshAJQ=m18" logo= "http://greek-movies.com/icon/movie/topiolamproasteri.jpg"
+name= evelin20190929.mp4 url= "http://videostream.skai.gr/GrCyTargeting/voice/evelin20190929.mp4.m3u8" logo= "http://media.skaitv.gr/images/450/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/psyxagwgia_2/1920x1080_voice.jpg"
+name= krites20190927.mp4 url= "http://videostream.skai.gr/GrCyTargeting/voice/krites20190927.mp4.m3u8" logo= "http://media.skaitv.gr/images/450/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/psyxagwgia_2/1920x1080_voice.jpg"
+name= geiamas20191012.mp4 url= "http://videostream.skai.gr/201910/video/geiamas20191012.mp4.m3u8" logo= "http://media.skaitv.gr/images/450/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/psyxagwgia_2/1920x1080_papadopoulos2.jpg"
+name= geiamas20191005.mp4 url= "http://videostream.skai.gr/201910/video/geiamas20191005.mp4.m3u8" logo= "http://media.skaitv.gr/images/450/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/psyxagwgia_2/1920x1080_papadopoulos2.jpg"
+name= e00eeee98658adbcac99df15d5bed107.mp4 url= "https://sl1.sigmatv.com/media2/paradosiaki_vradia/21570186099021/e00eeee98658adbcac99df15d5bed107.mp4" logo= "https://sl1.sigmatv.com/view/?id=21570186099021&vid=jpg"
+name= 00bc32a43a25b9de7d0b05cd7237ea03.mp4 url= "https://sl1.sigmatv.com/media2/paradosiaki_vradia/31571032770270/00bc32a43a25b9de7d0b05cd7237ea03.mp4" logo= "https://sl1.sigmatv.com/view/?id=31571032770270&vid=jpg"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
