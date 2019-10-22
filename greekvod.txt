@@ -1,0 +1,35 @@
+name= voice20191013.mp4 url= "http://videostream.skai.gr/GrCyTargeting/voice/voice20191013.mp4.m3u8" logo= "http://media.skaitv.gr/images/450/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/psyxagwgia_2/1920x1080_voice.jpg"
+name= voice20191011-jdhye.mp4 url= "http://videostream.skai.gr/GrCyTargeting/voice/voice20191011-jdhye.mp4.m3u8" logo= "http://media.skaitv.gr/images/450/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/psyxagwgia_2/1920x1080_voice.jpg"
+name= voice20191006.mp4 url= "http://videostream.skai.gr/GrCyTargeting/voice/voice20191006.mp4.m3u8" logo= "http://media.skaitv.gr/images/450/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/psyxagwgia_2/1920x1080_voice.jpg"
+name= voice20191004.mp4 url= "http://videostream.skai.gr/GrCyTargeting/voice/voice20191004.mp4.m3u8" logo= "http://media.skaitv.gr/images/450/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/psyxagwgia_2/1920x1080_voice.jpg"
+name= TO PIO LAMPRO ASTERI url= "https://lh3.googleusercontent.com/VMdFV_-ebNixKETgHiuz5diEGJBq5LnJC5T5RhPmuoHDCIgk_HchwcX0cdUtNv0H3IrOInuMIH3tQl_70uDkziphl67uXNjXce8e9KcNYQDoDD1UUTUJQ4OT8XSlvolEpz8CvshAJQ=m18" logo= "http://greek-movies.com/icon/movie/topiolamproasteri.jpg"
+name= evelin20190929.mp4 url= "http://videostream.skai.gr/GrCyTargeting/voice/evelin20190929.mp4.m3u8" logo= "http://media.skaitv.gr/images/450/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/psyxagwgia_2/1920x1080_voice.jpg"
+name= krites20190927.mp4 url= "http://videostream.skai.gr/GrCyTargeting/voice/krites20190927.mp4.m3u8" logo= "http://media.skaitv.gr/images/450/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/psyxagwgia_2/1920x1080_voice.jpg"
+name= geiamas20191012.mp4 url= "http://videostream.skai.gr/201910/video/geiamas20191012.mp4.m3u8" logo= "http://media.skaitv.gr/images/450/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/psyxagwgia_2/1920x1080_papadopoulos2.jpg"
+name= geiamas20191005.mp4 url= "http://videostream.skai.gr/201910/video/geiamas20191005.mp4.m3u8" logo= "http://media.skaitv.gr/images/450/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/psyxagwgia_2/1920x1080_papadopoulos2.jpg"
+name= geiamas20191018.mp4 url= "http://videostream.skai.gr/201910/video/geiamas20191018.mp4.m3u8" logo= "http://media.skaitv.gr/images/450/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/psyxagwgia_2/1920x1080_papadopoulos2.jpg"
+name= voice20191020.mp4 url= "http://videostream.skai.gr/GrCyTargeting/voice/voice20191020_hdjrl.mp4.m3u8" logo= "http://media.skaitv.gr/images/450/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/psyxagwgia_2/1920x1080_voice.jpg"
+name= oxto20191021sfgsvfsd.mp4 url= "http://videostream.skai.gr/201910/video/seires/oxto20191021sfgsvfsd.mp4.m3u8" logo= "http://media.skaitv.gr/images/1170/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/seires/1920x1080_8lexeis-b_1.jpg"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
