@@ -1,5 +1,5 @@
 name= Saban Oglu Saban url= "https://ds108.v-s.mobi/tT4-b4-HkHvrM0ficWZymIHq8yE2Hl4iZLagbBaly4E/360p.mp4" logo= "https://i.ytimg.com/vi/ZDoLID8feBU/maxresdefault.jpg"
-name= Ejder Kalesi url= "https://ds152.v-s.mobi/tT4-b4-HkHvrM0ficWZymGB10QXJ26dCT2Qleo-45Nw/360p.mp4" logo= "https://img.jetcdn.co/uploads/jposter/3602.jpg"
+name= Kemal Sunal Polizei url= "https://istr.izlesene.com/data/videos/10064/10064013-360.mp4/chunklist.m3u8?token=3X1jbySJ9oosOLK7yrhGIw&ts=1571955626" logo= "https://i.ytimg.com/vi/RPBofKLiBzU/hqdefault.jpg"
 name= Öfkenin Yumruğu url= "https://ds219.v-s.mobi/vbHVluWthTuGx5UsotYZkjzAWlCU-9E4dxJSEfDJ0sI/360p.mp4" logo= "https://img.jetcdn.co/uploads/resimler/2012/03/ofkenin-yumrugu-turkce-dublaj-izle.jpg"
 name= Ejder’in Dönüşü url= "https://ds210.v-s.mobi/vbHVluWthTuGx5UsotYZksU_ylTx42tB3tYEPRVffHI/360p.mp4" logo= "https://img.jetcdn.co/uploads/resimler/2012/03/ejderin-donusu-turkce-dublaj-izle.jpg"
 name= Ölüm Oyunu url= "https://ds138.v-s.mobi/vbHVluWthTuGx5UsotYZks7DqMPibpVKdX8hTRdwKfk/360p.mp4" logo= "https://img.jetcdn.co/uploads/resimler/2012/03/olum-oyunu-turkce-dublaj-izle-e1520760766518.jpg"
