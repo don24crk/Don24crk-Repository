@@ -6,7 +6,9 @@ name= Ölüm Oyunu url= "https://ds138.v-s.mobi/vbHVluWthTuGx5UsotYZks7DqMPibpVK
 name= Hababam Sınıfı Sınıfta Kaldı url= "https://ds79.v-s.mobi/yUF2v7pHlRckuMBaK9CZ9JcXurBb-3nqLh3COKTVuKk/360p.mp4" logo= "https://upload.wikimedia.org/wikipedia/tr/5/52/Hababam_S%C4%B1n%C4%B1f%C4%B1_S%C4%B1n%C4%B1fta_Kald%C4%B1.jpg"
 name= büyük patron url= "https://ds86.v-s.mobi/JWGaMBp6aScshmY_wzIjta7-qaQ2EwbwXRtjLTpyg20/360p.mp4" logo= "https://www.netfullfilmizle.com/wp-content/uploads/buyuk-patron-the-big-boss-125x160.jpg"
 name= Ip Man 3 türkiye dublaj url= "https://ds219.v-s.mobi/rzHZ5ucrWkbM3UYPIaoiXYqPbLyC3UOiyVdr0Vebnnc/360p.mp4" logo= "https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/IpMan3.jpg/220px-IpMan3.jpg"
-
+name= Filmler",BAK YEşIL YEşIL - HD FILM url= "https://dl.podsync.net/download/16Q6tPfGG/pN3pHGeSF3U.mp4" logo= "https://i.ytimg.com/vi/pN3pHGeSF3U/default.jpg"
+name= Filmler",CAN YAMAN KIMDIR? url= "https://dl.podsync.net/download/16Q6tPfGG/2ZloYxsvVHE.mp4" logo= "https://i.ytimg.com/vi/2ZloYxsvVHE/default.jpg"
+name= BüYüK YEMIN - HD FILM url= "https://dl.podsync.net/download/16Q6tPfGG/1hWY2_OqJIM.mp4" logo= "https://i.ytimg.com/vi/1hWY2_OqJIM/default.jpg"
 
 
 
