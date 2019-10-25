@@ -6,10 +6,10 @@ name= TO PIO LAMPRO ASTERI url= "https://lh3.googleusercontent.com/VMdFV_-ebNixK
 name= Αγαπώ τη μαμά σου url= "plugin://plugin.video.youtube/?action=play_video&videoid=RA0EtvJNG1g" logo= "https://m.media-amazon.com/images/M/MV5BZjUxZjAzOTQtNjVlNy00YjE2LTkzMzEtMWQyN2U1N2ViZmEyXkEyXkFqcGdeQXVyNjAxNjM2MjQ@._V1_UY1200_CR434,0,630,1200_AL_.jpg"
 name= Ρόζ url= "plugin://plugin.video.youtube/?action=play_video&videoid=I2_L-EjaUkQ" logo= "https://i.ytimg.com/vi/I2_L-EjaUkQ/hqdefault.jpg"
 name= Η Δε Γυνή Να Φοβήται Τον Άντρα - Μ.Κοντού, Γ.Κωνσταντίνου url= "plugin://plugin.video.youtube/?action=play_video&videoid=vCt1BMKPcm8" logo= "http://s.enet.gr/resources/2010-10/kom-thumb-large.jpg"
-name= Το Κορίτσι του Λούνα Παρκ - Αλ.Βουγιουκλάκη url= "plugin://plugin.video.youtube/?action=play_video&videoid=dmLn0msWh7o" logo= "https://m.media-amazon.com/images/M/MV5BODRhMzQ2NDktZGU0YS00MWQ3LWFiY2YtZWNkNjBhMGQ0YWQ0XkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_.jpg"
-name= Ενας Ζόρικος Δεκανέας - Χατζηχρήστος url= "plugin://plugin.video.youtube/?action=play_video&videoid=giWmp6JV-MI" logo= "http://greek-movies.com/icon/movie/%CE%88%CE%BD%CE%B1%CF%82%CE%B6%CF%8C%CF%81%CE%B9%CE%BA%CE%BF%CF%82%CE%B4%CE%B5%CE%BA%CE%B1%CE%BD%CE%AD%CE%B1%CF%821964.jpg"
-name= Μια φορά Και Ένα Μωρό url= "plugin://plugin.video.youtube/?action=play_video&videoid=cnDvzRYl4w8" logo= "https://m.media-amazon.com/images/M/MV5BOGM5NzBmOGUtZjRkNy00OWYxLTkxZGMtZGNjZTZmOTAxZjc5XkEyXkFqcGdeQXVyMzQ3Nzk5MTU@._V1_.jpg"
-name= Βασικά Καλησπέρα Σας - Στάθης Ψάλτης url= "plugin://plugin.video.youtube/?action=play_video&videoid=K2qeGozWy80" logo= "https://upload.wikimedia.org/wikipedia/el/2/2e/%CE%92%CE%B1%CF%83%CE%B9%CE%BA%CE%AC..._%CE%9A%CE%B1%CE%BB%CE%B7%CF%83%CF%80%CE%AD%CF%81%CE%B1_%CF%83%CE%B1%CF%82_%28%CE%B5%CE%BE%CF%8E%CF%86%CF%85%CE%BB%CE%BB%CE%BF%29.jpg"
+name= Ένα αστείο κορίτσι url= "https://clipwatching.com/qtp8xb20mw8x/1970+ENA+ASTEIO+KORITSI+DVDRIP.mp4" logo= "http://yk.steki.com/icon/movie/%CE%95%CE%9D%CE%91%CE%91%CE%A3%CE%A4%CE%95%CE%99%CE%9F%CE%9A%CE%9F%CE%A1%CE%99%CE%A4%CE%A3%CE%991970.jpg"
+name= Ο Τετραπέρατος (1966) Κώστας Χατζηχρήστος url= "plugin://plugin.video.youtube/?action=play_video&videoid=j6bhyb_qFi8" logo= "http://greek-movies.com/icon/movie/%CE%9F%CF%84%CE%B5%CF%84%CF%81%CE%B1%CF%80%CE%AD%CF%81%CE%B1%CF%84%CE%BF%CF%821966.jpg"
+name= Το κορίτσι του λούνα πάρκ url= "https://clipwatching.com/np4o5tp2ijrz/1968+TO+KORITSI+TOY+LOYNA+PARK+DVDRIP.mp4" logo= "http://greek-movies.com/icon/movie/tokoritsitoulounapark.jpg"
+name= Βασικά Καλησπέρα Σας - Στάθης Ψάλτης url= "https://clipwatching.com/rswlxq1x1znw/Βασικά_Καλησπέρα_σας_γνωστό_και_ως_Οι_ραδιοπειρατές_(1982).avi" logo= "https://upload.wikimedia.org/wikipedia/el/2/2e/%CE%92%CE%B1%CF%83%CE%B9%CE%BA%CE%AC..._%CE%9A%CE%B1%CE%BB%CE%B7%CF%83%CF%80%CE%AD%CF%81%CE%B1_%CF%83%CE%B1%CF%82_%28%CE%B5%CE%BE%CF%8E%CF%86%CF%85%CE%BB%CE%BB%CE%BF%29.jpg"
 
 
 
