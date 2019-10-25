@@ -1,5 +1,5 @@
-name= Star HD url= "https://starlivegr-a.akamaized.net/dc-0/live/hls/p/713821/e/1_fp7fyi3j/sd/6000/t/zU1DgUiAbwqZs-azHg7gRg/index-s32.m3u8&disable_polymer=true" logo= "http://greektv.pbworks.com/f/STAR.png"
-name= Ant1 url= "https://antennalivesp-lh.akamaihd.net/i/live_1@715138/master.m3u8" logo= "http://greektv.pbworks.com/f/ANT1.png"
+name= Star HD url= "https://cdnapisec.kaltura.com/p/713821/sp/0/playManifest/entryId/1_fp7fyi3j/format/applehttp/protocol/https/flavorParamId/0/manifest.m3u8&disable_polymer=true" logo= "http://greektv.pbworks.com/f/STAR.png"
+name= Ant1 url= "https://antennalivesp-lh.akamaihd.net/i/live_1@715138/master.m3u8&disable_polymer=true" logo= "http://greektv.pbworks.com/f/ANT1.png"
 name= OpenTV url= "https://liveopen.siliconweb.com/openTvLive/stream2a/playlist.m3u8" logo= "https://i.imgur.com/c9hgL1c.jpg"
 name= SkaiTV url= "plugin://plugin.video.youtube/play/?video_id=C68Wa2nx5LM&disable_polymer=true" logo= "http://www.skaitv.gr/devapi/assets/skai-logo-new.jpg"
 name= CinefilGR url= "http://web.onair-radio.eu:1935/cinefil/cinefil/master.m3u8" logo= "http://i.imgur.com/bh1iOFz.png"
@@ -18,7 +18,7 @@ name= Astra HD url= "https://live.gointernet.gr:7342/hls/astratv/astratv.m3u8" l
 name= x-tv url= "https://live.cast-control.eu:443/xalastratv/xalastratv/playlist.m3u8" logo= "http://i.imgur.com/LgQBtTh.jpg"
 name= Tilemousiki url= "http://wpso.com:1936/hls/music1.m3u8" logo= "http://i.imgur.com/piGhf3m.png"
 name= Art Sportzone url= "rtmp://tv3.streampulse.eu:1935/tilesport/movie1" logo= "http://greektv.pbworks.com/f/ART.png"
-name= AlphaTV url= "https://alphalive-i.akamaihd.net/hls/live/682300/live/master.m3u8&disable_polymer=true" logo= "http://greektv.pbworks.com/f/ALPHA.png"
+name= AlphaTV url= "https://alphalive-i.akamaihd.net/hls/live/682300/live/low/prog_index.m3u8&disable_polymer=true" logo= "http://greektv.pbworks.com/f/ALPHA.png"
 name= Ert3 url= "plugin://plugin.video.youtube/play/?video_id=TNVdb0tT0PM&disable_polymer=true" logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/EPT3_logo_%282015%29.svg/1200px-EPT3_logo_%282015%29.svg.png"
 
 
