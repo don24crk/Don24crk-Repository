@@ -1,4 +1,5 @@
-name= Star HD url= "http://sl0.ddns.me:8000/HLlum4fs5Z/2omBcBFaAb/155665" logo= "http://greektv.pbworks.com/f/STAR.png"
+name= Star HD url= "http://35.228.212.52:25461/HLlum4fs5Z/2omBcBFaAb/155665?token=HkQLUxZRRl5BCAoNVAMIVltTBVAAVFVYUAxYUwZXD1YAUlBXAwkBB1cTHhcQRUtXWV9oWlcVWQhWDA9VBk8UERYDEW0MXUZeQQMBB1IDChAUEENaXlJBA1IMDlEBWgFTUVFPEBVQAEZZEwABUAEAEBQQUktHUhFXAlVmB1YVXwcARFlcEFUISEFeXGoHVFRTVlYVCREHQRVBUEoTEVlYEQkKTxAHUBAWAkVXF1kTCwQIARUfEVQMTA1NSxoRWRQgIERPEABBEAENQltaDRMDEExBFR8RXhBmEVxKF0EGVwkAFEEIRwlGSEFcU008UlZcVldUR1pYDUpBAxtSEU8UCQoICkYKSzsUClUQD0EDDQMNARVO
+" logo= "http://greektv.pbworks.com/f/STAR.png"
 name= Ant1 url= "https://antennalivesp-lh.akamaihd.net/i/live_1@715138/master.m3u8" logo= "http://greektv.pbworks.com/f/ANT1.png"
 name= OpenTV url= "https://liveopen.siliconweb.com/openTvLive/stream2a/playlist.m3u8" logo= "https://i.imgur.com/c9hgL1c.jpg"
 name= SkaiTV url= "http://sl0.ddns.me:8000/HLlum4fs5Z/2omBcBFaAb/198756" logo= "http://www.skaitv.gr/devapi/assets/skai-logo-new.jpg"
