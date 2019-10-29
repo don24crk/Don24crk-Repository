@@ -1,7 +1,7 @@
 name= Star HD url= "https://starlivegr-a.akamaized.net/dc-1/live/hls/p/713821/e/1_fp7fyi3j/sd/6000/t/t3YaLZhXAS25NBYJNUtjpQ/index-s32.m3u8" logo= "http://greektv.pbworks.com/f/STAR.png"
 name= Ant1 url= "https://antennalivesp-lh.akamaihd.net/i/live_1@715138/index_1500_av-p.m3u8?sd=10&rebase=on" logo= "http://greektv.pbworks.com/f/ANT1.png"
 name= OpenTV url= "https://liveopen.siliconweb.com/openTvLive/stream2a/playlist.m3u8" logo= "https://i.imgur.com/c9hgL1c.jpg"
-name= SkaiTV url= "plugin://plugin.video.youtube/play/?video_id=hKbgcWI_ASQ?enablejsapi=1&version=3&playerapiid=ytplayer
+name= SkaiTV url= "plugin://plugin.video.youtube/play/?video_id=hKbgcWI_ASQ?enablejsapi=1
 " logo= "http://www.skaitv.gr/devapi/assets/skai-logo-new.jpg"
 name= CinefilGR url= "http://web.onair-radio.eu:1935/cinefil/cinefil/master.m3u8" logo= "http://i.imgur.com/bh1iOFz.png"
 name= Ert1 HD url= "plugin://plugin.video.youtube/play/?video_id=YFONjt_PwRI" logo= "http://greektv.pbworks.com/f/1433976522/ERT1.png"
