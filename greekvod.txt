@@ -10,7 +10,7 @@ name= Ένα αστείο κορίτσι url= "https://s19.clipwatching.com/zx5x
 name= Ο Τετραπέρατος (1966) Κώστας Χατζηχρήστος url= "plugin://plugin.video.youtube/?action=play_video&videoid=j6bhyb_qFi8" logo= "http://greek-movies.com/icon/movie/%CE%9F%CF%84%CE%B5%CF%84%CF%81%CE%B1%CF%80%CE%AD%CF%81%CE%B1%CF%84%CE%BF%CF%821966.jpg"
 name= Το κορίτσι του λούνα πάρκ url= "https://s70.clipwatching.com/zx5x2fijdv2txcne43as3gp3rub7rczsesxwega2cfqhoxzlvau2ylz6u3ca/v.mp4" logo= "http://greek-movies.com/icon/movie/tokoritsitoulounapark.jpg"
 name= Βασικά Καλησπέρα Σας - Στάθης Ψάλτης url= "plugin://plugin.video.youtube/?action=play_video&videoid=3H5M8EeVvgY" logo= "https://upload.wikimedia.org/wikipedia/el/2/2e/%CE%92%CE%B1%CF%83%CE%B9%CE%BA%CE%AC..._%CE%9A%CE%B1%CE%BB%CE%B7%CF%83%CF%80%CE%AD%CF%81%CE%B1_%CF%83%CE%B1%CF%82_%28%CE%B5%CE%BE%CF%8E%CF%86%CF%85%CE%BB%CE%BB%CE%BF%29.jpg"
-
+name= Alter Ego 2007 Greek movie url= "plugin://plugin.video.youtube/?action=play_video&videoid=CAUCwpuOEAw" logo= "https://d1k5w7mbrh6vq5.cloudfront.net/images/cache/70/05/58/700558c47e1f52242297bf9705cd8a90.jpg"
 
 
 
