@@ -1,5 +1,5 @@
-name= Hannah Montana - Der Film url= "https://srv104.hollywood.to/5k7x6rak2mvfjuw5lxbyzusjyw53dorxeycqsfx7jmkyezh4cmoesapcyvsa/normal.mp4" logo= "http://tainio-mania.co/uploads/mini/posterentrypage/9c/fa63df4db5b636aa06205ce7463f7b.jpg"
-name= Hannah Montana: The Movie - Χάνα Μοντάνα: Η Ταινία url= "http://nd.vidce.net/vldeo/2015/tt1114677GR.mp4" logo= "http://tainio-mania.co/uploads/mini/posterentrypage/9c/fa63df4db5b636aa06205ce7463f7b.jpg"
+name= Hannah Montana - Der Film url= "https://n7485.disk.ly/stream/543v08mekno0.mp4?k9=N37yZGqaH3yp2LXbu-g4Fg&vct=543v08mekno0&iq=0&so=046j5vp7wywm&ut=5c5193bd8334bec53fae93dafb2eea3a&ol=6bcd2efef8b112868581198a0f554eaa&jj=59967&yu=l&xj=59967&io=1572807864&zp=fcd1f386f7d924b3f04302ad32346353&hq=PopRcTtIOc0y0kzMasIgKVGBQzXFiUh&kl=0&op=1&jk=streamkiste.tv&uj=1&qw=1" logo= "http://tainio-mania.co/uploads/mini/posterentrypage/9c/fa63df4db5b636aa06205ce7463f7b.jpg"
+name= Hannah Montana: The Movie - Χάνα Μοντάνα: Η Ταινία url= "plugin://plugin.video.youtube/play/?video_id=en2RN6aZ2FU" logo= "http://tainio-mania.co/uploads/mini/posterentrypage/9c/fa63df4db5b636aa06205ce7463f7b.jpg"
 
 
 
