@@ -1,6 +1,8 @@
 name= Halloween at Aunt Ethel's url= "https://ohmorefilewow.verystream.net/stream/fP97ZFXEBtd/tIp3lp07CxD8Z-gS/lLc2oPHNtP6tR0s1T85NhcTaHvZDmbXwAY22XJYiusmGMYnadyRhRsxhEns-Cu35MVD6tndrpZ5QVpLAjEp0Gxm43OTUEV6LYEMSzbuoaYsFX6m0VKpD8K24gsE7XfBlyWck4cIhDv6Dhoe27dArcdyI3q7lgMD1uKtiKBN5kthVpS79IecQ0tPQhAcJtfrdCcIGgV7UCQJyq-M2jzKrUvmfj-I5RtVWDAZ5k0BNP0N6Y-zMsot-L3l0JB5SZC1pMlNzer_UoBkPJ0lOP7kvlDlH5ZS1p9m7cmz-uHLZFIQ7NOCkPF4IZZiPzkZfT7au5a1YZwxZDRwTifNjRRss1TIwlgj3yAFLBmtqYFADW0_N9nAdNKuzh8vjv7mP09jmy7NAOGXYOWag53n9MJh3tWLPSaDrbtx913XhC9DEM4ImPHFbbXLLn9E4c6WXEcLtPQUihPBVREap9mJBfKe1g5SyoLyDnIbP5kb65F9Hbj4/Halloween.Suesses.oder.Saures.GERMAN.2019.UNCUT.AC3.BDRip.x264-UNiVERSUM" logo= "https://m.media-amazon.com/images/M/MV5BOWMzOGQzMTctMjY1NS00OGY0LTkyNGItY2U1NmUwNTM4ZDI2XkEyXkFqcGdeQXVyMzEyMzg4MDc@._V1_.jpg"
 name= Halloween: Left for Dead url= "plugin://plugin.video.youtube/play/?video_id=oZ0L7o6ILgE" logo= "https://images-na.ssl-images-amazon.com/images/I/81ZX3yDYGVL._SY445_.jpg"
 name= Halloween: 25 Years of Terror url= "plugin://plugin.video.youtube/play/?video_id=9ylO9A5wu_s" logo= "https://images-na.ssl-images-amazon.com/images/I/51wsEHq1r6L._SY445_.jpg"
+name= Halloween Massaker url= "plugin://plugin.video.youtube/play/?video_id=d7cr7v_xkKM" logo= "https://pmd.bilder.netzkino.de/bilder/wordpress//Halloween_Massaker_img_all.jpg"
+
 
 
 
