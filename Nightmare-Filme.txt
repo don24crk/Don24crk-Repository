@@ -1,6 +1,6 @@
 name= Nightmare on Elm Street - Mörderische Träume  url= "https://node--celia.vivo.sx/vod/3IOtOfzfD4UOkDDdHkqhug/1573096048/0001787670" logo= "https://skcdn.tv/cover/46a8e3765957ea1d78fb07dcdf00fa273.jpg"
 name= Nightmare 2 - Die Rache url= "https://node--andrea.vivo.sx/vod/X-B6x33_sCQOQzk2Ek7dtA/1573094864/0046086499" logo= "https://skcdn.tv/cover/ab767a25fd291ef27c48fb7c87f85f883.jpg"
-name= Nightmare 3 - Freddy lebt url= "https://str22.vidoza.net/x4lfvoenwnzpvjumxbkeixct7unn5j6o2lbwhluuiwvbamsifvz2vwm4efra/v.mp4" logo= "https://skcdn.tv/cover/21cc05760a615b7c2862e188f092726e3.jpg"
+name= Nightmare 3 - Freddy lebt url= "https://vs096.vshare.eu:182/d/baemnhyn7hnroluvs2deam5sdshwztu2nmul5co6u2sdgbuhqftd2an7/vid.mp4" logo= "https://skcdn.tv/cover/21cc05760a615b7c2862e188f092726e3.jpg"
 name= A Nightmare on Elm Street 4: The Dream Master url= "https://node--celia.vivo.sx/vod/zfJwr8oN42psXyxWmCyLrg/1573095769/0001789755" logo= "https://skcdn.tv/cover/add563344ee068f359566153e5c12a473.jpg"
 name= Nightmare on Elm Street 5 - Das Trauma url= "https://node--liana.vivo.sx/vod/idjND5PEhDB7Vr5INp5fTw/1573095889/0000013710" logo= "https://skcdn.tv/cover/731cffda8c9281a059c10ca540e890933.jpg"
 name= Freddy's Finale - Nightmare on Elm Street 6 url= "https://node--andrea.vivo.sx/vod/eGZFDP3IIIDdHIB2HAFT4w/1573095959/0000077193" logo= "https://skcdn.tv/cover/fa61974cf8c49ebe5d7d4fd4d37975103.jpg"
