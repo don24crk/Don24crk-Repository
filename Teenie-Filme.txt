@@ -1,4 +1,4 @@
-name= Teenie Filme Playlist url= "plugin://plugin.video.youtube/play/?playlist_id=PLb04dvHextKt0Cfst4i7OS5Hb4L0IIwKg" logo= "http://tainio-mania.co/uploads/mini/posterentrypage/9c/fa63df4db5b636aa06205ce7463f7b.jpg"
+name= Teenie Filme Playlist url= "plugin://plugin.video.youtube/play/?playlist_id=PLb04dvHextKt0Cfst4i7OS5Hb4L0IIwKg" logo= "https://i.ibb.co/t2j8f9q/icon.png"
 
 
 
