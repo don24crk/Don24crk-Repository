@@ -1,4 +1,4 @@
-name= Nightmare on Elm Street - Mörderische Träume  url= "https://node--celia.vivo.sx/vod/3IOtOfzfD4UOkDDdHkqhug/1573096048/0001787670" logo= "https://skcdn.tv/cover/46a8e3765957ea1d78fb07dcdf00fa273.jpg"
+name= Nightmare on Elm Street - Mörderische Träume  url= "http://cdn32.my.mail.ru/hv/68599544.mp4?slave[]=s%3Ahttp%3A%2F%2Fvideo-cephrgw2.i%3A9090%2Fvideo4%2F68599544-hv&p=f&expire_at=1573599600&touch=1570750993&reg=202&sign=03910632cc71d55af5fd57a0d88c38f0402d890b" logo= "https://skcdn.tv/cover/46a8e3765957ea1d78fb07dcdf00fa273.jpg"
 name= Nightmare 2 - Die Rache url= "https://node--andrea.vivo.sx/vod/X-B6x33_sCQOQzk2Ek7dtA/1573094864/0046086499" logo= "https://skcdn.tv/cover/ab767a25fd291ef27c48fb7c87f85f883.jpg"
 name= Nightmare 3 - Freddy lebt url= "https://vs096.vshare.eu:182/d/baemnhyn7hnroluvs2deam5sdshwztu2nmul5co6u2sdgbuhqftd2an7/vid.mp4" logo= "https://skcdn.tv/cover/21cc05760a615b7c2862e188f092726e3.jpg"
 name= A Nightmare on Elm Street 4: The Dream Master url= "https://node--celia.vivo.sx/vod/zfJwr8oN42psXyxWmCyLrg/1573095769/0001789755" logo= "https://skcdn.tv/cover/add563344ee068f359566153e5c12a473.jpg"
