@@ -1,4 +1,7 @@
 name= Teenie Filme Playlist url= "plugin://plugin.video.youtube/play/?playlist_id=PLb04dvHextKt0Cfst4i7OS5Hb4L0IIwKg&order=DEFAULT&play=1" logo= "https://i.ibb.co/t2j8f9q/icon.png"
+name= Ferris Macht Blau  url= "https://www99.uptostream.com/13l5c0i0e41/720/0/video.mp4&play=1" logo= "https://streamworld.co/images/posters/5870.jpg"
+
+
 
 
 
