@@ -1,7 +1,7 @@
 name= Crouching Tiger, Hidden Dragon: Sword of Destiny   url= "https://www68.uptostream.com/144oz3o4e21/480/0/video.mp4" logo= "https://de.web.img2.acsta.net/c_215_290/pictures/16/01/20/18/39/460712.jpg"
 name= Revenge of the Warrior  url= "https://www8.uptostream.com/144tgvrab06/360/0/video.mp4" logo= "https://de.web.img3.acsta.net/c_215_290/medias/nmedia/18/63/36/51/19423056.jpg"
 name= Ip Man 3  url= "https://www63.uptostream.com/144ufm389af/360/0/video.mp4" logo= "https://images-na.ssl-images-amazon.com/images/I/91DvuP4iFhL._SL1500_.jpg"
-name= Ip Man Zero  url= "plugin://plugin.video.youtube/play/?video_id=K5LPGJcMMSQ" logo= "https://www.amazon.de/Ip-Man-Zero/dp/B006T2JNOC"
+name= Ip Man Zero  url= "plugin://plugin.video.youtube/play/?video_id=K5LPGJcMMSQ" logo= "https://images-na.ssl-images-amazon.com/images/I/81Vek1DXk8L._AC_UL320_SR276,320_.jpg"
 name= Bruce Lee - Todesgrüße aus Shanghai url= "plugin://plugin.video.youtube/play/?video_id=muoynz0gvFk" logo= "https://images-na.ssl-images-amazon.com/images/I/81RyBlulBnL._SX342_.jpg"
 name= Ip Man 2 url= "plugin://plugin.video.youtube/play/?video_id=pdlGntKCHEc" logo= "https://images-na.ssl-images-amazon.com/images/I/71l23ILr4BL._SL1084_.jpg"
 name= Bruce Lee - Die Todeskralle Schlägt Wieder Zu url= "plugin://plugin.video.youtube/play/?video_id=GQJeZgGtZbo" logo= "https://images-na.ssl-images-amazon.com/images/I/71vmoVnXhfL._SX342_.jpg"
