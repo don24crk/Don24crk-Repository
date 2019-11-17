@@ -1,12 +1,12 @@
-name= Nightmare on Elm Street - Mörderische Träume  url= "http://cdn32.my.mail.ru/hv/68599544.mp4?slave[]=s%3Ahttp%3A%2F%2Fvideo-cephrgw2.i%3A9090%2Fvideo4%2F68599544-hv&p=f&expire_at=1573599600&touch=1570750993&reg=202&sign=03910632cc71d55af5fd57a0d88c38f0402d890b" logo= "https://skcdn.tv/cover/46a8e3765957ea1d78fb07dcdf00fa273.jpg"
-name= Nightmare 2 - Die Rache url= "https://node--andrea.vivo.sx/vod/X-B6x33_sCQOQzk2Ek7dtA/1573094864/0046086499" logo= "https://skcdn.tv/cover/ab767a25fd291ef27c48fb7c87f85f883.jpg"
-name= Nightmare 3 - Freddy lebt url= "https://vs096.vshare.eu:182/d/baemnhyn7hnroluvs2deam5sdshwztu2nmul5co6u2sdgbuhqftd2an7/vid.mp4" logo= "https://skcdn.tv/cover/21cc05760a615b7c2862e188f092726e3.jpg"
-name= A Nightmare on Elm Street 4: The Dream Master url= "https://node--celia.vivo.sx/vod/zfJwr8oN42psXyxWmCyLrg/1573095769/0001789755" logo= "https://skcdn.tv/cover/add563344ee068f359566153e5c12a473.jpg"
-name= Nightmare on Elm Street 5 - Das Trauma url= "https://node--liana.vivo.sx/vod/idjND5PEhDB7Vr5INp5fTw/1573095889/0000013710" logo= "https://skcdn.tv/cover/731cffda8c9281a059c10ca540e890933.jpg"
-name= Freddy's Finale - Nightmare on Elm Street 6 url= "https://node--andrea.vivo.sx/vod/eGZFDP3IIIDdHIB2HAFT4w/1573095959/0000077193" logo= "https://skcdn.tv/cover/fa61974cf8c49ebe5d7d4fd4d37975103.jpg"
-name= Freddy's New Nightmare url= "https://node--andrea.vivo.sx/vod/wauQaHdczNpma12VKywYeQ/1573096725/0046089193" logo= "https://skcdn.tv/cover/9f949290beaa830b63ed69894fc060763.jpg"
-name= Freddy Vs. Jason url= "https://str03.vidoza.net/x4lfrv2cwjzpvjumxbueisksveklehoiny2kaq7a5kkqwo7r5enq6drquzfa/v.mp4" logo= "https://skcdn.tv/cover/253165caca8846069bdcbb50f535393c3.jpg"
-name= A Nightmare on Elm Street url= "https://n-fabre.betterstream.co/abrplayback/19/43/ac3767976402af6a369f7b8f83e79a5708d41232bc6e7a5ad67f1d5dd8578c05d16c0d9b1d7ee4efc12b32032f8449735fad56ca2a3cdb613d1ab47fffb57e926ffae4f979fe7eb541a6ec2bf963c1cb28625977039cccb80d36adb4525654fe3abbf0505a9cc9ebec50283bc2133ae27b2f1ca08e4a8b8c2b200bb531a10a50/abr.m3u8?q=3&token=2c67dac58bf857508020ac997396d7cd" logo= "https://skcdn.tv/cover/29abe51958562364bcd7e356126e4d0a3.jpg"
+name= Nightmare on Elm Street - Mörderische Träume  url= "https://str17.vidoza.net/x4lf6herwnzpvjumxbkeiak37eaxix6vxrg2i5t4jt3x5on5y2upnb6q2cdq/v.mp4" logo= "https://skcdn.tv/cover/46a8e3765957ea1d78fb07dcdf00fa273.jpg"
+name= Nightmare 2 - Die Rache url= "https://str21.vidoza.net/x4lf5k4qqvzpvjumxciewuiv526jwmasaqjg637j5ummd4bxau7qahzj6u3q/v.mp4" logo= "https://skcdn.tv/cover/ab767a25fd291ef27c48fb7c87f85f883.jpg"
+name= Nightmare 3 - Freddy lebt url= "https://vs096.vshare.eu:182/d/baemnhyn7hnroluvs2deam5sdshwztu2nmul5co6u2sdgbuhu4ibbf56/vid.mp4" logo= "https://skcdn.tv/cover/21cc05760a615b7c2862e188f092726e3.jpg"
+name= A Nightmare on Elm Street 4: The Dream Master url= "https://vs096.vshare.eu:182/d/baega7yn7hnroluvtcdbimhraukwio454mocaa32i3d6ah3vx2r4uouq/vid.mp4" logo= "https://skcdn.tv/cover/add563344ee068f359566153e5c12a473.jpg"
+name= Nightmare on Elm Street 5 - Das Trauma url= "https://str22.vidoza.net/x4lfzd2hwjzpvjumxbueicsp5anxzpfpikwwcjxyvloyjfpwwdpjbzaazq2q/v.mp4" logo= "https://skcdn.tv/cover/731cffda8c9281a059c10ca540e890933.jpg"
+name= Freddy's Finale - Nightmare on Elm Street 6 url= "https://str17.vidoza.net/x4lfzckhwjzpvjumxbueiqcuunc7tzijakpbsqj6occnnj7ddd5bkb55dfoa/v.mp4" logo= "https://skcdn.tv/cover/fa61974cf8c49ebe5d7d4fd4d37975103.jpg"
+name= Freddy's New Nightmare url= "https://str18.vidoza.net/x4lfyi2hwjzpvjumxbueidcd6jv4xnbiyl6c2r4e7qzydf3fnrrbwopqoqia/v.mp4" logo= "https://skcdn.tv/cover/9f949290beaa830b63ed69894fc060763.jpg"
+name= Freddy Vs. Jason url= "https://str03.vidoza.net/x4lfrv2cwjzpvjumxbueisksveklehoiny2kaq7a5kkqwo7r5e62mnwpedaa/v.mp4" logo= "https://skcdn.tv/cover/253165caca8846069bdcbb50f535393c3.jpg"
+name= A Nightmare on Elm Street url= "https://str21.vidoza.net/x4lfdszqsjzpvjumxc3euvit7tua5zmhobvifmb53tvsyviyecw56zlqf7oa/v.mp4" logo= "https://skcdn.tv/cover/29abe51958562364bcd7e356126e4d0a3.jpg"
 
 
 
