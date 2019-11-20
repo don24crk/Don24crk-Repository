@@ -2,7 +2,7 @@ name= RTL HD url= "https://11.denemeulan.com/rtl/index.m3u8" logo= "https://uplo
 name= RTL2 HD url= "https://11.denemeulan.com/rtl2/index.m3u8" logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/1200px-RTLZWEI_Logo_2019.svg.png"
 name= Vox url= "https://11.denemeulan.com/vox/index.m3u8" logo= "https://upload.wikimedia.org/wikipedia/de/a/ac/VOX_Logo.png"
 name= NTV url= "https://11.denemeulan.com/ntv/index.m3u8" logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/N-tv_logo-september2017.svg/2000px-N-tv_logo-september2017.svg.png"
-name= SuperRTL url= "https://11.denemeulan.com/super/index.m3u8" logo= "https://www.jobrad.org/images/large-width-high-dpi/logos/referenzen/super-rtl.png"
+name= SuperRTL url= "https://11.denemeulan.com/super/index.m3u8" logo= "https://i.ytimg.com/vi/x_mDRmv5Sqw/maxresdefault.jpg"
 name= RTLNitro HD url= "https://11.denemeulan.com/nitro/index.m3u8" logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/RTL_Nitro_logo.svg/2000px-RTL_Nitro_logo.svg.png"
 name= Pro7 HD url= "https://wer11.wertvlive.com/d1/video.m3u8?token=Rh45MoyoC3" logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ProSieben_Logo_2015.svg/1200px-ProSieben_Logo_2015.svg.png"
 name= Kabel1 url= "https://wer11.wertvlive.com/d5/video.m3u8?token=Rh45MoyoC3" logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Kabel_eins_Logo_2015.svg/1200px-Kabel_eins_Logo_2015.svg.png"
@@ -15,8 +15,8 @@ name= Ard url= "https://dasersteuni-vh.akamaihd.net/i/de/2019/11/08/b7cc6208-314
 
 1_549449,512-1_549449,640-1_549449,1280-1_549449,1920-1_549449,.mp4.csmil/master.m3u8" logo= "https://upload.wikimedia.org/wikipedia/commons/7/7b/ARD_logo.png"
 name= Zdf url= "https://zdf-hls-01.akamaized.net/hls/live/2002460/de/high/master.m3u8" logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ZDF_logo.svg/2000px-ZDF_logo.svg.png"
-name= Wdr url= "https://wdrfsgeo-lh.akamaihd.net/i/wdrfs_geogeblockt@530016/master.m3u8?b=0-" logo= "https://upload.wikimedia.org/wikipedia/commons/9/9b/WDR_Dachmarke.svg"
-name= Arte HD url= "https://artelive-lh.akamaihd.net/i/artelive_de@393591/master.m3u8" logo= "https://upload.wikimedia.org/wikipedia/commons/6/6e/Arte_HD_Logo.svg"
+name= Wdr url= "https://wdrfsgeo-lh.akamaihd.net/i/wdrfs_geogeblockt@530016/master.m3u8?b=0-" logo= "https://upload.wikimedia.org/wikipedia/commons/5/5f/WDR_Fernsehen_HD_Logo_2016.png"
+name= Arte HD url= "https://artelive-lh.akamaihd.net/i/artelive_de@393591/master.m3u8" logo= "https://klauswinningersbeat.files.wordpress.com/2018/03/arte-logo.png"
 name= 3Sat url= "https://zdfhls18-i.akamaihd.net/hls/live/744751/dach/high/master.m3u8" logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/1200px-3sat_2019.svg.png"
 
 
