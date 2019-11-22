@@ -20,6 +20,8 @@ name= Arte HD url= "https://artelive-lh.akamaihd.net/i/artelive_de@393591/master
 name= 3Sat url= "https://zdfhls18-i.akamaihd.net/hls/live/744751/dach/high/master.m3u8" logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/1200px-3sat_2019.svg.png"
 name= Skysport1 url= "http://line2.protv.cc:8000/00:1A:79:AE:64:B4/dOxQzbM2W0/44589" logo= "https://senderlogos.images.dvbdata.com/302x190_w/621.png"
 name= ZeeOne url= "http://line2.protv.cc:8000/00:1A:79:AE:64:B4/dOxQzbM2W0/12422" logo= "https://upload.wikimedia.org/wikipedia/de/thumb/6/68/Zee.One_Logo_2018.png/1200px-Zee.One_Logo_2018.png"
+name= Kika url= "http://185.254.160.4:8000/play/a00j/index.m3u8" logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Kika_2012.svg/1200px-Kika_2012.svg.png"
+
 
 
 
