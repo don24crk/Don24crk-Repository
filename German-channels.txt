@@ -1,4 +1,4 @@
-name= RTL HD url= "plugin://plugin.video.f4mTester/?url=http://www.bozhd.eu:8000/lokman3/3lokman/20686&amp;streamtype=TSDOWNLOADER&amp;name=RTL HD" logo= "https://upload.wikimedia.org/wikipedia/commons/3/3a/RTL_Logo_ab_dem_1._September_2017.png"
+name= RTL HD url= "plugin://plugin.video.f4mTester/?url=http://www.bozhd.eu:8000/lokman3/3lokman/20686.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTL HD" logo= "https://upload.wikimedia.org/wikipedia/commons/3/3a/RTL_Logo_ab_dem_1._September_2017.png"
 name= RTL2 HD url= "http://line2.protv.cc:8000/00:1A:79:AE:64:B4/dOxQzbM2W0/12473" logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/1200px-RTLZWEI_Logo_2019.svg.png"
 name= Vox url= "http://line2.protv.cc:8000/00:1A:79:AE:64:B4/dOxQzbM2W0/44568" logo= "https://upload.wikimedia.org/wikipedia/de/a/ac/VOX_Logo.png"
 name= NTV url= "https://1.denemeulan.com/ntv/tracks-v1a1/mono.m3u8" logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/N-tv_logo-september2017.svg/2000px-N-tv_logo-september2017.svg.png"
