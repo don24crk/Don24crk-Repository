@@ -1,5 +1,5 @@
 name= Star HD url= "http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/35616.m3u8" logo= "http://greektv.pbworks.com/f/STAR.png"
-name= Ant1 url= "http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/14487" logo= "http://greektv.pbworks.com/f/ANT1.png"
+name= Ant1 url= "http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/14487.ts" logo= "http://greektv.pbworks.com/f/ANT1.png"
 name= OpenTV url= "https://liveopen.siliconweb.com/openTvLive/stream2a/playlist.m3u8" logo= "https://i.imgur.com/c9hgL1c.jpg"
 name= SkaiTV url= "http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/14489.m3u8" logo= "http://www.skaitv.gr/devapi/assets/skai-logo-new.jpg"
 name= CinefilGR url= "http://web.onair-radio.eu:1935/cinefil/cinefil/master.m3u8" logo= "http://i.imgur.com/bh1iOFz.png"
