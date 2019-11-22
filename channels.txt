@@ -1,4 +1,4 @@
-name= Star HD url= "http://1sn.ns1.name:8800/live/5Pa1bZUvQg/CWDbFUArny/35616.m3u8" logo= "http://greektv.pbworks.com/f/STAR.png"
+name= Star HD url= "http://1sn.1sn.name:18800/live/5Pa1bZUvQg/CWDbFUArny/35616.m3u8" logo= "http://greektv.pbworks.com/f/STAR.png"
 name= Ant1 url= "https://antennalivesp-lh.akamaihd.net/i/live_1@715138/master.m3u8" logo= "http://greektv.pbworks.com/f/ANT1.png"
 name= OpenTV url= "https://liveopen.siliconweb.com/openTvLive/stream2a/playlist.m3u8" logo= "https://i.imgur.com/c9hgL1c.jpg"
 name= SkaiTV url= "http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/14489.m3u8" logo= "http://www.skaitv.gr/devapi/assets/skai-logo-new.jpg"
