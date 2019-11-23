@@ -1,5 +1,5 @@
 name= Star HD url= "plugin://plugin.video.star.gr/?action=live&amp;title=STAR+TV" logo= "http://greektv.pbworks.com/f/STAR.png"
-name= Ant1 url= "plugin://plugin.video.Davor/?url=https%3A%2F%2Fantennalivesp-lh.akamaihd.net%2Fi%2Flive_1%40715138%2Findex_1500_av-p.m3u8&amp;mode=12" logo= "http://greektv.pbworks.com/f/ANT1.png"
+name= Ant1 url= "plugin://plugin.video.Davor/?url=https%3A%2F%2Fantennalivesp-lh.akamaihd.net%2Fi%2Flive_1%40715138%2Findex_1500_av-p.m3u8" logo= "http://greektv.pbworks.com/f/ANT1.png"
 name= OpenTV url= "https://liveopen.siliconweb.com/openTvLive/stream2a/chunklist.m3u8" logo= "https://i.imgur.com/c9hgL1c.jpg"
 name= SkaiTV url= "plugin://plugin.video.PavooTv/?url=plugin%3A%2F%2Fplugin.video.f4mTester%2F%3Fstreamtype%3DTSDOWNLOADER%3Bname%3DPavooTv%3Burl%3Dhttp%3A%2F%2Fclient-proiptv.com%3A8080%2F2Zlpsy37S7%2FCAv5ESzQ3B%2F11369&amp;mode=12" logo= "http://www.skaitv.gr/devapi/assets/skai-logo-new.jpg"
 name= FinosFilms url= "plugin://plugin.video.youtube/play/?playlist_id=PLeOYAl6-eHMzm_-nZBl2nuc-eN859y4Zj&time_continue=2&v=kfKPHQ350qY&feature=emb_logo&ORDER=DEFAULT&play=1" logo= "https://seeklogo.com/images/F/Finos_Film-logo-184768E779-seeklogo.com.gif"
