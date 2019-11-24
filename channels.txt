@@ -26,7 +26,7 @@ name= Wzra Kids url= "http://wpso.com:1936/hls/kidshd.m3u8" logo= "https://yt3.g
 name= SmileTV url= "http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/35617.m3u8" logo= "https://yt3.ggpht.com/a/AGF-l7_KPcXl1HsJZeIBRXQ4yveS2X2ueLih7zK4_Q=s900-c-k-c0xffffffff-no-rj-mo"
 name= marousi80s url= "http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/41401.m3u8" logo= "https://upload.wikimedia.org/wikipedia/commons/5/50/Greece_National_Football_Team.svg"
 name= madtv url= "http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/14475.m3u8" logo= "https://www.logolynx.com/images/logolynx/e9/e9dbaff7973718a1692e00e466a803eb.jpeg"
-name= seferlis url= "http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/41399.m3u8" logo= "https://trikalavoice.gr/wp-content/uploads/2019/09/markos-seferlis-500-710x401.jpg"
+name= seferlis url= "plugin://plugin.video.youtube/play/?playlist_id=1gEdNL1YjxM" logo= "https://trikalavoice.gr/wp-content/uploads/2019/09/markos-seferlis-500-710x401.jpg"
 
 
 
