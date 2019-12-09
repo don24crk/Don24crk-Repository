@@ -29,7 +29,7 @@ name= HALK TV url= "http://blutv-beta.akamaized.net/halktv/halktv.smil/chunklist
 name= GS TV url= "https://stream-03.dc3.dailymotion.com/sec(n8BFLKZUAaWLhKM8EMx7xTgCeQsNC9p3vfBFGhn1DWg)/dm/3/xne3bf/s/live-0.m3u8" logo= "https://i.milliyet.com.tr/Skorer600x298/2016/02/03/fft226_mf6580379.Jpeg"
 name= DREAM TURK HD url= "http://live.netd.com.tr/S1/HLS_LIVE/dreamturktv/1500/prog_index.m3u8" logo= "https://dreamq.dogannet.tv/images/100/800x450/571f37e3980ea80bc034ee2b"
 name= POWER TURK  HD url= "http://mggwfglv.rocketcdn.com/powerturkhd.smil/chunklist_b2650000_sltur.m3u8" logo= "https://cdn.powergroup.com.tr/powerapp/channels/big/powerTurk.png?v=271"
-name= 360 TV HD url= "https://ecanlitv1.etvserver.com/live_sd/tv360/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvOS8yMDE5IDY6MzY6NTggUE0maGFzaF92YWx1ZT0vOHZzdCtLQzRGUWdGRlBTNklKY0NRPT0mdmFsaWRtaW51dGVzPTEwJmlwPTM3LjIwMS4xODUuMTIw" logo= "https://upload.wikimedia.org/wikipedia/commons/c/c3/360_tv.png"
+name= 360 TV HD url= "http://mn-nl.mncdn.com/360tv_live/smil:360tv.smil/playlist.m3u8" logo= "https://upload.wikimedia.org/wikipedia/commons/c/c3/360_tv.png"
 name= A2 TV HD url= "http://blutv-beta.akamaized.net/a2/a2.smil/chunklist_b1096000_sltur.m3u8" logo= "https://image.yenisafak.com/resim/imagecrop/2016/12/27/02/03/resized_007d2-7caab791a2canliizle.jpg"
 name= 24 TV HD url= "http://blutv-beta.akamaized.net/24hd/24hd.smil/chunklist_b1096000_sltur.m3u8" logo= "https://yt3.ggpht.com/a/AGF-l79O33I-HSOgbUWp5jO5jjQgyeMOvsOuXsy8aA=s900-c-k-c0xffffffff-no-rj-mo"
 name= BeiN Sports 1 HD url= "https://mmm.sport7.biz/lba/123/g5/beinsport1tur.m3u8" logo= "https://d2po7v53a8yrck.cloudfront.net/static/2/Open/Canada_1282/Source/88250/beinsports1hd_400x400.png"
