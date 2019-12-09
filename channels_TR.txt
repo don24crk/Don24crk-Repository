@@ -26,7 +26,7 @@ name= TRT MÜZIK url= "https://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/ma
 name= TRT TÜRK url= "http://blutv-beta.akamaized.net/trtturkhd/trtturkhd.smil/chunklist_b1096000_sltur.m3u8" logo= "https://www.canlitvplayer.com/media/images/tvlogo/f8f5aeca-6987-4690-a047-ba0ef4dc7e82_trt-turk-tv-player.png"
 name= TRT WORLD url= "https://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8" logo= "https://www.screenafrica.com/wp-content/uploads/2018/11/TRT-world-696x398.png"
 name= HALK TV url= "http://blutv-beta.akamaized.net/halktv/halktv.smil/chunklist_b1096000_sltur.m3u8" logo= "https://static.birgun.net/resim/haber-detay-resim/2018/08/29/halk-tv-de-kriz-503896-5.jpg"
-name= GS TV url= "https://stream-03.dc3.dailymotion.com/sec(n8BFLKZUAaWLhKM8EMx7xTgCeQsNC9p3vfBFGhn1DWg)/dm/3/xne3bf/s/live-0.m3u8" logo= "https://i.milliyet.com.tr/Skorer600x298/2016/02/03/fft226_mf6580379.Jpeg"
+name= GS TV url= "https://mn-nl.mncdn.com/gstv_live/smil:gstv.smil/playlist.m3u8?st=QgMz6WbZrI49I9femKuBsw&e=1575926056" logo= "https://i.milliyet.com.tr/Skorer600x298/2016/02/03/fft226_mf6580379.Jpeg"
 name= DREAM TURK HD url= "http://live.netd.com.tr/S1/HLS_LIVE/dreamturktv/1500/prog_index.m3u8" logo= "https://dreamq.dogannet.tv/images/100/800x450/571f37e3980ea80bc034ee2b"
 name= POWER TURK  HD url= "http://mggwfglv.rocketcdn.com/powerturkhd.smil/chunklist_b2650000_sltur.m3u8" logo= "https://cdn.powergroup.com.tr/powerapp/channels/big/powerTurk.png?v=271"
 name= 360 TV HD url= "http://mn-nl.mncdn.com/360tv_live/smil:360tv.smil/playlist.m3u8" logo= "https://upload.wikimedia.org/wikipedia/commons/c/c3/360_tv.png"
