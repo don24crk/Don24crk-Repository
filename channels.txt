@@ -23,9 +23,6 @@ name= Art Sportzone url= "rtmp://tv3.streampulse.eu:1935/tilesport/movie1" logo=
 name= AlphaTV url= "https://alphalive-i.akamaihd.net/hls/live/682300/live/master.m3u8" logo= "http://greektv.pbworks.com/f/ALPHA.png"
 name= Ert3 url= "plugin://plugin.video.youtube/play/?video_id=TNVdb0tT0PM" logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/EPT3_logo_%282015%29.svg/1200px-EPT3_logo_%282015%29.svg.png"
 name= Wzra Kids url= "http://wpso.com:1936/hls/kidshd.m3u8" logo= "https://yt3.ggpht.com/a/AGF-l7_KPcXl1HsJZeIBRXQ4yveS2X2ueLih7zK4_Q=s900-c-k-c0xffffffff-no-rj-mo"
-name= SmileTV url= "http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/35617.m3u8" logo= "https://yt3.ggpht.com/a/AGF-l7_KPcXl1HsJZeIBRXQ4yveS2X2ueLih7zK4_Q=s900-c-k-c0xffffffff-no-rj-mo"
-name= marousi80s url= "http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/41401.m3u8" logo= "https://upload.wikimedia.org/wikipedia/commons/5/50/Greece_National_Football_Team.svg"
-name= madtv url= "http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/14475.m3u8" logo= "https://www.logolynx.com/images/logolynx/e9/e9dbaff7973718a1692e00e466a803eb.jpeg"
 name= Seferlis TV url= "plugin://plugin.video.youtube/play/?playlist_id=PLb04dvHextKt1fXvtonDehvFADx3YkWbA&ORDER=DEFAULT&play=1" logo= "https://trikalavoice.gr/wp-content/uploads/2019/09/markos-seferlis-500-710x401.jpg"
 
 
