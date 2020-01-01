@@ -7,7 +7,7 @@ name= Fan url= "https://www26.uptostream.com/1b1ij096046/360/0/video.mp4" logo= 
 name= Raees url= "https://www43.uptostream.com/1b1i9fleda8/360/0/video.mp4" logo= "https://cdn.pinkvilla.com/files/styles/contentpreview/public/Did-Ritesh-Sidwani-just-CONFIRM-a-sequel-to-ShahRukhKhan%27s-Raees-.jpg?itok=6L_VmT8Y"
 name= Zero url= "https://www42.uptostream.com/1b1l99x1846/360/0/video.mp4" logo= "https://cdn.cineplex.de/_imageserver/340f360188.jpg"
 name= Race2 url= "https://www63.uptostream.com/1b1ioxuf603/360/0/video.mp4" logo= "https://upload.wikimedia.org/wikipedia/en/thumb/8/84/Race_2_Poster.jpg/220px-Race_2_Poster.jpg"
-name= Mit Gottes Hilfe  url= "https://www95.uptostream.com/1b1ixsc6642/720/0/video.mp4" logo= "https://img4-film.spielfilm.de/3003986-208680/mit-gottes-hilfe.jpg"
+name= Mit Gottes Hilfe  url= "plugin://plugin.video.youtube/play/?video_id=-wPYwG3r58A" logo= "https://img4-film.spielfilm.de/3003986-208680/mit-gottes-hilfe.jpg"
 name= Dear Zindagi - Liebesbrief an das Leben  url= "https://node--celia.vivo.sx/vod/RheiJLb73dyL-xpc0yuyFQ/1577500322/0000000610" logo= "https://images-na.ssl-images-amazon.com/images/I/81dAn1USD4L._SY445_.jpg"
 name= Don - Das Spiel beginnt url= "plugin://plugin.video.youtube/play/?video_id=aGEi0hSztyE" logo= "https://images-na.ssl-images-amazon.com/images/I/61nRnQkmDpL._SY445_.jpg"
 name= Don 2 - Das Spiel geht weiter url= "plugin://plugin.video.youtube/play/?video_id=Ma574jNVnhM" logo= "https://www.critic.de/images/don-2-das-spiel-geht-weiter-poster-7272e.jpg"
@@ -25,6 +25,8 @@ name= Paheli  url= "https://fvs.io/redirector?token=KzZwV3drcHJvU0U2eGJ1UUMwd0pX
 name= Chennai Express url= "https://nlw01.hlssrv.com/hls_serve_mp4/Wu15rWuzWWHTppmrt2BV.mp4" logo= "https://images-na.ssl-images-amazon.com/images/I/71bxMDRiq8L._SL1200_.jpg"
 name= Ra One url= "https://node--andrea.vivo.sx/vod/9IzvXFUQyjL9Z5yc6ZA7vg/1577570299/0000019007" logo= "https://www.india-store.de/images/thumbnail/produkte/medium/old_images/13963_0.jpg"
 name= Hum kisi se kum nahin - Der Chaosdoktor  url= "plugin://plugin.video.youtube/play/?video_id=gFAE2SkGGJk" logo= "https://images-na.ssl-images-amazon.com/images/I/51XOjVhCK2L._SY445_.jpg"
+name= Maya Memsaab url= "plugin://plugin.video.youtube/play/?video_id=V-ctyugUECI" logo= "https://images-na.ssl-images-amazon.com/images/I/51%2B57w5o86L._SY445_.jpg"
+name= Bang Bang url= "plugin://plugin.video.youtube/play/?video_id=qhbw89vx9-c" logo= "https://de.web.img3.acsta.net/pictures/15/08/17/11/21/558299.jpg"
 
 
 
