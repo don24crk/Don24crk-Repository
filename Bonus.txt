@@ -4,7 +4,7 @@ name= Never Sleep Again - The Elm Street Legacy 2010 GERMAN Doku url= "plugin://
 name= Es 2 - Kapitel 2 url= "https://s-delivery6.mxdcontent.net/v/fd024fb371a41a70ec09402db4e44438.mp4?s=q3gks6aK99ZhnHs31qVwQw&e=1576127377&ref=qz4olwau6&ab" logo= "https://www.thrillandkill.com/wordpress/wp-content/uploads/2019/09/Es-Kapitel-2-cover.jpg"
 name= Wishmaster 2 - Das Böse stirbt Nie url= "plugin://plugin.video.youtube/play/?video_id=9r2GpE_C4-Y" logo= "https://images-na.ssl-images-amazon.com/images/I/91wI40EhIyL._SX300_.jpg"
 name= Wishmaster 3 - Der Höllenstein url= "plugin://plugin.video.youtube/play/?video_id=XyYCm3BAVgc" logo= "https://images-na.ssl-images-amazon.com/images/I/A1xD-xXLavL._SY445_.jpg"
-name= Wishmaster 4 - Die Prophezeiung erfüllt sich url= "https://fs133.gounlimited.to/tea5uajohx2qzxfffntib4rc4ufx52tiaiylpjr743otn7eazn7rdvw7a35a/v.mp4" logo= "https://images-na.ssl-images-amazon.com/images/I/517TQ9HSNVL._SY445_.jpg"
+name= Wishmaster 4 - Die Prophezeiung erfüllt sich url= "https://my.mail.ru/video/embed/4282201180022507160?wmode=transparent&autoplay=1" logo= "https://images-na.ssl-images-amazon.com/images/I/517TQ9HSNVL._SY445_.jpg"
 
 
 
