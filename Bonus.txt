@@ -5,6 +5,8 @@ name= Es 2 - Kapitel 2 url= "https://s-delivery6.mxdcontent.net/v/fd024fb371a41a
 name= Wishmaster 2 - Das Böse stirbt Nie url= "plugin://plugin.video.youtube/play/?video_id=9r2GpE_C4-Y" logo= "https://images-na.ssl-images-amazon.com/images/I/91wI40EhIyL._SX300_.jpg"
 name= Wishmaster 3 - Der Höllenstein url= "plugin://plugin.video.youtube/play/?video_id=XyYCm3BAVgc" logo= "https://images-na.ssl-images-amazon.com/images/I/A1xD-xXLavL._SY445_.jpg"
 name= Wishmaster 4 - Die Prophezeiung erfüllt sich url= "https://fs133.gounlimited.to/tea5uajohx2qzxfffntib4rc4ufx52tiaiylpjr743otn7eazn7q7x67a35a/v.mp4" logo= "https://images-na.ssl-images-amazon.com/images/I/517TQ9HSNVL._SY445_.jpg"
+name= Samstag der 14te url= "plugin://plugin.video.youtube/play/?video_id=AajR4gb1Org" logo= "https://images-na.ssl-images-amazon.com/images/I/71DB4x95wJL._SY445_.jpg"
+name= Blutige Schreie url= "plugin://plugin.video.youtube/play/?video_id=j6IqXGs81ew" logo= "https://images-na.ssl-images-amazon.com/images/I/51Z3lCal-KL._RI_SX300_.jpg"
 
 
 
