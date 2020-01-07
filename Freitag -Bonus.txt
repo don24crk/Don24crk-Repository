@@ -1,5 +1,5 @@
 name= His Name Was Jason 30 Jahre Freitag der 13 HD url= "https://www1024.o0-3.com/token=oJmf4TukH3TlINiOAbX1Rg/1578435673/37.201.0.0/96/9/a0/1f2c5ed56d9a3c8cb15cd07a4c766a09-360p.mp4" logo= "https://images-na.ssl-images-amazon.com/images/I/71JX-95nqFL._SY445_.jpg"
-name= Sleepaway Camp II: Unhappy Campers HD url= "https://my.mail.ru/video/embed/4282201180022510107" logo= "https://images-na.ssl-images-amazon.com/images/I/91wsP8n%2BRmL._SX342_.jpg"
+name= Sleepaway Camp II: Unhappy Campers HD url= "plugin://plugin.video.youtube/play/?video_id=vlWM2tNlJbc" logo= "https://images-na.ssl-images-amazon.com/images/I/91wsP8n%2BRmL._SX342_.jpg"
 
 
 
