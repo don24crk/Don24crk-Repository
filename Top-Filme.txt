@@ -1,5 +1,5 @@
 name= TopfilmeMix 2020 auf Deutsch url= "plugin://plugin.video.youtube/play/?playlist_id=PLb04dvHextKs1Whny32DvCni9LCxUWI0C&order=$default&play=1" logo= "https://i.ibb.co/Hg0ggpy/mmlogo.jpg"
-name= Supergirl 1984 auf Deutsch url= "https://tmm9vg.svid.li/hls/dnzpfvv3zdg4a3gyvdcx7pdxse4fe6wsl746yvysu,thmy7bwrpob2rujkbja,3hmy7bwrpon2isnkcwq,.urlset/master.m3u8" logo= "https://i.ebayimg.com/images/g/D3UAAOSwSbxbP24j/s-l300.jpg"
+
 
 
 
