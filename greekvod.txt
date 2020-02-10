@@ -2,7 +2,6 @@ name= Ειμαρμενη url= "plugin://plugin.video.youtube/?action=play_video&
 name= Η παιχνιδιάρα (1967)  url= "plugin://plugin.video.youtube/?action=play_video&videoid=jmOYgZdCAOI" logo= "https://i.ytimg.com/vi/jmOYgZdCAOI/hqdefault.jpg"
 name= ΟΤΑΝ ΛΕΙΠΕΙ Η ΓΑΤΑ  url= "plugin://plugin.video.youtube/?action=play_video&videoid=03znOpzTpfA" logo= "https://i.ytimg.com/vi/03znOpzTpfA/hqdefault.jpg"
 name= Ο ΤΕΛΕΥΤΑΙΟΣ ΑΝΤΡΑΣ 1981  url= "plugin://plugin.video.youtube/?action=play_video&videoid=w3B5PfPR618" logo= "https://i.ytimg.com/vi/w3B5PfPR618/hqdefault.jpg"
-name= TO PIO LAMPRO ASTERI url= "plugin://plugin.video.youtube/?action=play_video&videoid=BEyZctLbUb4" logo= "http://greek-movies.com/icon/movie/topiolamproasteri.jpg"
 name= Αγαπώ τη μαμά σου url= "plugin://plugin.video.youtube/?action=play_video&videoid=RA0EtvJNG1g" logo= "https://m.media-amazon.com/images/M/MV5BZjUxZjAzOTQtNjVlNy00YjE2LTkzMzEtMWQyN2U1N2ViZmEyXkEyXkFqcGdeQXVyNjAxNjM2MjQ@._V1_UY1200_CR434,0,630,1200_AL_.jpg"
 name= Ρόζ url= "plugin://plugin.video.youtube/?action=play_video&videoid=I2_L-EjaUkQ" logo= "https://i.ytimg.com/vi/I2_L-EjaUkQ/hqdefault.jpg"
 name= Ο Τετραπέρατος (1966) Κώστας Χατζηχρήστος url= "plugin://plugin.video.youtube/?action=play_video&videoid=j6bhyb_qFi8" logo= "http://greek-movies.com/icon/movie/%CE%9F%CF%84%CE%B5%CF%84%CF%81%CE%B1%CF%80%CE%AD%CF%81%CE%B1%CF%84%CE%BF%CF%821966.jpg"
