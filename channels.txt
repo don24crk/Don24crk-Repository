@@ -2,9 +2,9 @@ name= Star HD url= "https://starlive1.siliconweb.com/dc-1/live/hls/p/713821/e/1_
 name= Ant1 url= "https://antennalivesp-lh.akamaihd.net/i/live_1@715138/master.m3u8" logo= "http://greektv.pbworks.com/f/ANT1.png"
 name= OpenTV url= "https://liveopen.siliconweb.com/openTvLive/stream2a/chunklist.m3u8" logo= "https://i.imgur.com/c9hgL1c.jpg"
 name= SkaiTV url= "plugin://plugin.video.skai.gr/?action=play&amp;url=http%3A%2F%2Fwww.skaitv.gr%2Flive&amp;title=Live+TV" logo= "https://www.athensmagazine.gr/photos/w_800px/articles/201901/skai_logo.jpg"
-name= FinosFilms url= "plugin://plugin.video.youtube/play/?playlist_id=PLeOYAl6-eHMzm_-nZBl2nuc-eN859y4Zj&time_continue=2&v=kfKPHQ350qY&feature=emb_logo&ORDER=DEFAULT&play=1" logo= "https://seeklogo.com/images/F/Finos_Film-logo-184768E779-seeklogo.com.gif"
-name= greek 60ies url= "plugin://plugin.video.youtube/play/?playlist_id=PLyw9iycu--LsmH6sWLa3h0ivadVSI4M9W&ORDER=DEFAULT&play=1 " logo= "http://i.imgur.com/bh1iOFz.png"
-name= greek  movies mix url= "plugin://plugin.video.youtube/play/?playlist_id=PL8ej6jKVl29H7-4lJZ5e2hxZat8Yv-QrC&ORDER=DEFAULT&play=1 " logo= "http://i.imgur.com/bh1iOFz.png"
+name= FinosFilms url= "plugin://plugin.video.youtube/play/?playlist_id=PLeOYAl6-eHMzm_-nZBl2nuc-eN859y4Zj&time_continue=2&v=kfKPHQ350qY&feature=emb_logo&order=$default&play=1" logo= "https://seeklogo.com/images/F/Finos_Film-logo-184768E779-seeklogo.com.gif"
+name= greek 60ies url= "plugin://plugin.video.youtube/play/?playlist_id=PLyw9iycu--LsmH6sWLa3h0ivadVSI4M9W&order=$default&play=1 " logo= "http://i.imgur.com/bh1iOFz.png"
+name= greek  movies mix url= "plugin://plugin.video.youtube/play/?playlist_id=PL8ej6jKVl29H7-4lJZ5e2hxZat8Yv-QrC&order=$default&play=1" logo= "http://i.imgur.com/bh1iOFz.png"
 name= Ert1 HD url= "https://ert-live.siliconweb.com/media/ert_1/ert_1.m3u8" logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/EPT1_logo_%282015%29.svg/1200px-EPT1_logo_%282015%29.svg.png"
 name= ErtWorld HD url= "plugin://plugin.video.ert.gr/?action=play&amp;url=https%3A%2F%2Fwebtv.ert.gr%2Fertworld-live%2F" logo= "https://upload.wikimedia.org/wikipedia/en/thumb/9/93/ERT_World.svg/1200px-ERT_World.svg.png"
 name= Ert2 url= "https://ert-live.siliconweb.com/media/ert_2/ert_2.m3u8" logo= "http://greektv.pbworks.com/f/1433976520/ERT2.png"
@@ -23,7 +23,7 @@ name= Art Sportzone url= "rtmp://tv3.streampulse.eu:1935/tilesport/movie1" logo=
 name= AlphaTV url= "https://alphalive-i.akamaihd.net/hls/live/682300/live/master.m3u8" logo= "http://greektv.pbworks.com/f/ALPHA.png"
 name= Ert3 url= "plugin://plugin.video.ert.gr/?action=play&amp;url=https%3A%2F%2Fwebtv.ert.gr%2Fert3-live%2F" logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/EPT3_logo_%282015%29.svg/1200px-EPT3_logo_%282015%29.svg.png"
 name= Wzra Kids url= "http://wpso.com:1936/hls/kidshd.m3u8" logo= "https://yt3.ggpht.com/a/AGF-l7_KPcXl1HsJZeIBRXQ4yveS2X2ueLih7zK4_Q=s900-c-k-c0xffffffff-no-rj-mo"
-name= Seferlis TV url= "plugin://plugin.video.youtube/play/?playlist_id=PLb04dvHextKt1fXvtonDehvFADx3YkWbA&ORDER=DEFAULT&play=1" logo= "https://trikalavoice.gr/wp-content/uploads/2019/09/markos-seferlis-500-710x401.jpg"
+name= Seferlis TV url= "plugin://plugin.video.youtube/play/?playlist_id=PLb04dvHextKt1fXvtonDehvFADx3YkWbA&order=$default&play=1" logo= "https://trikalavoice.gr/wp-content/uploads/2019/09/markos-seferlis-500-710x401.jpg"
 
 
 
