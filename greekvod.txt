@@ -5,10 +5,7 @@ name= Ο ΤΕΛΕΥΤΑΙΟΣ ΑΝΤΡΑΣ 1981  url= "plugin://plugin.video.you
 name= TO PIO LAMPRO ASTERI url= "plugin://plugin.video.youtube/?action=play_video&videoid=BEyZctLbUb4" logo= "http://greek-movies.com/icon/movie/topiolamproasteri.jpg"
 name= Αγαπώ τη μαμά σου url= "plugin://plugin.video.youtube/?action=play_video&videoid=RA0EtvJNG1g" logo= "https://m.media-amazon.com/images/M/MV5BZjUxZjAzOTQtNjVlNy00YjE2LTkzMzEtMWQyN2U1N2ViZmEyXkEyXkFqcGdeQXVyNjAxNjM2MjQ@._V1_UY1200_CR434,0,630,1200_AL_.jpg"
 name= Ρόζ url= "plugin://plugin.video.youtube/?action=play_video&videoid=I2_L-EjaUkQ" logo= "https://i.ytimg.com/vi/I2_L-EjaUkQ/hqdefault.jpg"
-name= 1960 TA KITRINA GANTIA DVDRIP url= "plugin://plugin.video.youtube/?action=play_video&videoid=T5e5OjDIXto" logo= "http://greek-movies.com/icon/movie/takitrinagantia.jpg"
-name= ΜΟΝΤΕΡΝΑ ΣΤΑΧΤΟΠΟΥΤΑ (1965) url= "plugin://plugin.video.youtube/?action=play_video&videoid=S9keGy9nzdk" logo= "https://i.ytimg.com/vi/9dWqdmL6lqY/maxresdefault.jpg"
 name= Ο Τετραπέρατος (1966) Κώστας Χατζηχρήστος url= "plugin://plugin.video.youtube/?action=play_video&videoid=j6bhyb_qFi8" logo= "http://greek-movies.com/icon/movie/%CE%9F%CF%84%CE%B5%CF%84%CF%81%CE%B1%CF%80%CE%AD%CF%81%CE%B1%CF%84%CE%BF%CF%821966.jpg"
-name= Η δασκάλα με τα ξανθά μαλλιά url= "plugin://plugin.video.youtube/?action=play_video&videoid=fUqX9qHAvpg" logo= "https://m.media-amazon.com/images/M/MV5BMDk2MzY4NTAtOTgxYy00NTNhLWIzZmUtOGQ3ZTY5MjE5ZTI4XkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_UY268_CR1,0,182,268_AL_.jpg"
 name= Βασικά Καλησπέρα Σας - Στάθης Ψάλτης url= "plugin://plugin.video.youtube/?action=play_video&videoid=3H5M8EeVvgY" logo= "https://upload.wikimedia.org/wikipedia/el/2/2e/%CE%92%CE%B1%CF%83%CE%B9%CE%BA%CE%AC..._%CE%9A%CE%B1%CE%BB%CE%B7%CF%83%CF%80%CE%AD%CF%81%CE%B1_%CF%83%CE%B1%CF%82_%28%CE%B5%CE%BE%CF%8E%CF%86%CF%85%CE%BB%CE%BB%CE%BF%29.jpg"
 name= Alter Ego 2007 Greek movie url= "plugin://plugin.video.youtube/?action=play_video&videoid=CAUCwpuOEAw" logo= "https://d1k5w7mbrh6vq5.cloudfront.net/images/cache/70/05/58/700558c47e1f52242297bf9705cd8a90.jpg"
 
