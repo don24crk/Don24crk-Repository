@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addons>
+    <addon id="repository.twilight0.libs" name="Twilight0 Libs Repository" version="1.0.0" provider-name="Twilight0">
+        <extension point="xbmc.addon.repository" name="Twilight0 Libs Repository">
+            <info compressed="false">http://raw.githubusercontent.com/Twilight0/repo.twilight0.libs/master/_zips/addons.xml</info>
+            <checksum>http://raw.githubusercontent.com/Twilight0/repo.twilight0.libs/master/_zips/addons.xml.md5</checksum>
+            <datadir zip="true">http://raw.githubusercontent.com/Twilight0/repo.twilight0.libs/master/_zips/</datadir>
+            <hashes>false</hashes>
+        </extension>
+        <extension point="xbmc.addon.metadata">
+            <summary>Repository for library addons</summary>
+            <description>Repository for library addons</description>
+            <platform>all</platform>
+    </extension>
+</addon>
+
+<addon id="plugin.video.AliveGR" name="AliveGR" version="2.1.0" provider-name="Twilight0">
+    <requires>
+        <import addon="xbmc.python" version="2.26.0"/>
+        <import addon="resource.images.alivegr.artwork" version="3.0.5"/>
+        <import addon="resource.images.alivegr.logos" version="1.0.2"/>
+<!--        <import addon="script.module.youtube.dl" version="18.619.0" optional="true"/>-->
+        <import addon="script.module.resolveurl" version="5.0.37" optional="true"/>
+        <import addon="script.module.streamlink.base" version="2020.01.28"/>
+        <import addon="script.module.tulip" version="2.5.5"/>
+        <import addon="plugin.video.youtube" version="6.6.0"/>
+        <import addon="script.module.pyxbmct" version="1.2.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="main.py">
+        <provides>video audio image executable</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <reuselanguageinvoker>false</reuselanguageinvoker>
+        <summary lang="en">AliveGR addon for Kodi media center</summary>
+        <description lang="en_GB">AliveGR is an addon allowing streaming content available mostly in Greek language.</description>
+        <disclaimer lang="en_GB">AliveGR's author does not host, stream or distribute any of the content displayed inside this software and cannot be held responsible for the quality or availability of the listed streams.
+On demand content is scraped from various websites and is freely available on the internet on public domains. This software acts only as a search engine.
+Kindly note that AliveGR is not an official part of the media player you are running, and therefore not to be mentioned within official support channels, this addon has nothing to do with the media player itself, nor it’s intended use, it is simply a third party plugin which has been added to your system and it is provided "as is" with no warranty.</disclaimer>
+        <summary lang="el_GR">AliveGR, Μικροεφαρμογή για το Kodi κέντρου πολυμέσων</summary>
+        <description lang="el_GR">Το πρόσθετο AliveGR επιτρέπει την θέαση ροών με περιεχόμενο κυρίως εις την Ελληνική γλώσσα.</description>
+        <disclaimer lang="el_GR">Ο δημιουργός του AliveGR δεν φιλοξενεί ή παρέχει οποιοδήποτε από τα απεικονιζόμενα πολυμέσα και περιεχόμένο εντός του μενού του και δεν μπορεί να θεωρηθεί υπεύθυνος για την ποιότητα ή την διαθεσιμότητα των ροών.
+Το περιεχόμενο αναπαραγωγής κατά βούληση φιλτράρεται από διάφορες ιστοσελίδες ελεύθερα διαθέσιμες στο διαδίκτυο σε δημόσιους ιστότοπους. Το παρόν λογισμικό ενεργεί μόνο ως μηχανή αναζήτησης.
+� αρακαλώ προσέξτε ότι το AliveGR δεν είναι επίσημο κομμάτι του Kodi αναπαραγωγέα πολυμέσων ή της καθορισμένης χρήσης του, είναι απλά μία μικροεφαρμογή που προστέθηκε στο σύστημά σας και που παρέχεται "όπως είναι" χωρίς εγγύηση.</disclaimer>
+        <language>en el</language>
+        <license>GNU GPL, version 2</license>
+        <forum>https://bitbucket.org/thgiliwt/plugin.video.alivegr/issues</forum>
+        <source>https://bitbucket.org/thgiliwt/plugin.video.alivegr</source>
+        <website>https://alivegr.net/</website>
+        <size>584908</size>
+        <news>+ [B]2.1.X[/B] [COLOR green]16-02-2020[/COLOR]
+- Added pseudo-live youtube-based play items
+- Inform user when unofficial streams are disabled
+- Fixed youtube api keys setup wizard
+- Disabled iptv setup action (will be re-enabled in a future release)
+- Cartoon items can now be disabled from showing up on main indexers
+
+
++ [B]2.0.X[/B] [COLOR red](30-01-2020 -> 10-02-2020)[/COLOR]
+- Complete Python 3 support (Kodi ver.19+)
+- Rework of several modules and functions
+- Removed donation links from welcome message
+- Re-added several menu items in kids section, including the addition of a new one
+- Changed the way alternative/unofficial live/vod streams are enabled
+- Removed openload streamlink plugin and accompanying settings
+- Removed resolving capability on youtube externally
+- Added several plugins for streamlink to resolve videos from official sources
+- Added the ability to pin live channels
+- Added a new menu item to view and send logs
+- Added an option to pick a stream randomly
+- Revamped search functionality
+- Simplified some settings items
+- Removed progress dialogs
+- New random movie pick (50ies, 60ies, 70ies, 80ies, kids)
+  > Ability to select from a random one or multiple ones as pseudo live playlist
+- Several bug fixes</news>
+        <assets>
+            <icon>resources/media/icon.png</icon>
+            <fanart>resources/media/fanart.jpg</fanart>
+            <!--<screenshot>resources/alivegr-1.jpg</screenshot>-->
+        </assets>
+    </extension>
+</addon>
+
+<addon id="repository.anxdpanic" name="anxdpanic Add-on Repository" version="0.9.8" provider-name="anxdpanic">
+    <requires>
+        <import addon="xbmc.python" version="2.20.0"/>
+    </requires>
+
+	<extension point="xbmc.addon.repository" name="anxdpanic Add-on Repository">
+        <info compressed="false">https://raw.githubusercontent.com/anxdpanic/_repository/master/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/anxdpanic/_repository/master/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/anxdpanic/_repository/master/zips/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Install add-ons from anxdpanic's repository.</summary>
+		<description>Install add-ons from anxdpanic's repository.</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+
+<addon id="repository.atlas" name="Atlas repository" version="1.4" provider-name="NP">
+    <extension point="xbmc.addon.repository" name="Atlas repository">
+        <info compressed="false">https://grecotm.club/grrepo/atlas/addons.xml</info>
+        <checksum>https://grecotm.club/grrepo/atlas/addons.xml.md5</checksum>
+        <datadir zip="true">https://grecotm.club/grrepo/atlas/zip</datadir>
+        <hashes>false</hashes>
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/jsergio123/zips/master/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/jsergio123/zips/master/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/jsergio123/zips/master/</datadir>
+        </dir>
+        <dir>
+            <info compressed="false">https://github.com/tvaddonsco/tva-resolvers-repo/raw/master/addons.xml</info>
+            <checksum>https://github.com/tvaddonsco/tva-resolvers-repo/raw/master/addons.xml.md5</checksum>
+            <datadir zip="true">https://github.com/tvaddonsco/tva-resolvers-repo/raw/master/zips/</datadir>
+        </dir>
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/Twilight0/repo.twilight0.libs/master/_zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/Twilight0/repo.twilight0.libs/master/_zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/Twilight0/repo.twilight0.libs/master/_zips/</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Atlas repository</summary>
+        <description></description>
+        <platform>all</platform>
+    </extension>
+</addon>
+
+<addon id="repository.axbmcuser" name="axbmcuser REPO" version="1.1.8" provider-name="axbmcuser">
+	<requires>
+		<import addon="xbmc.addon" version="12.0.0"/>
+	</requires>
+	<extension point="xbmc.addon.repository" name="axbmcuser REPO">
+		<dir minversion="16.9.0">
+			<info compressed="false">https://github.com/axbmcuser/_repo/raw/master/krypton/addons.xml</info>
+			<checksum>https://github.com/axbmcuser/_repo/raw/master/krypton/addons.xml.md5</checksum>
+			<datadir zip="true">https://github.com/axbmcuser/_repo/raw/master/krypton</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="17.9.0">
+			<info compressed="false">https://github.com/axbmcuser/_repo/raw/master/leia/addons.xml</info>
+			<checksum>https://github.com/axbmcuser/_repo/raw/master/leia/addons.xml.md5</checksum>
+			<datadir zip="true">https://github.com/axbmcuser/_repo/raw/master/leia</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="18.9.0">
+			<info compressed="false">https://github.com/axbmcuser/_repo/raw/master/matrix/addons.xml</info>
+			<checksum>https://github.com/axbmcuser/_repo/raw/master/matrix/addons.xml.md5</checksum>
+			<datadir zip="true">https://github.com/axbmcuser/_repo/raw/master/matrix</datadir>
+			<hashes>false</hashes>
+		</dir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">This repository contains KODI addons from user "axbmcuser".</summary>
+		<description lang="en">This repository contains KODI addons from user "axbmcuser".</description>
+		<platform>all</platform>
+		<license/>
+		<forum>http://forum.kodi.tv/showthread.php?tid=242892</forum>
+		<website/>
+		<email/>
+		<source/>
+		<news>[B]1.1.8[/B] (2019-11-17)
+- New repo icon (higher resolution)
+
+[B]1.1.7[/B] (2019-08-24)
+- Cleanup (Bye Jarvis)
+
+[B]1.1.6[/B] (2019-08-24)
+- Added KODI 19 (Matrix) repo
+
+[B]1.1.5[/B] (2017-01-16)
+- Minor cleanup
+
+[B]1.1.4[/B] (2017-01-16)
+- Now supporting KODI 18 (Leia)
+
+[B]1.1.3[/B] (2016-08-03)
+- Minor cleanup
+
+[B]1.1.2[/B] (2016-07-23)
+- Changes for KODI 17 (Krypton): Repo is multi-dir based again (for now)
+		</news>
+		<assets>
+			<icon>resources/icon.png</icon>
+		</assets>
+	</extension>
+</addon>
+
+<addon id="repository.back-to" name="back-to repository" version="5.0.0" provider-name="back-to">
+  <extension point="xbmc.addon.repository" name="back-to">
+    <info compressed="true">https://raw.githubusercontent.com/back-to/repo/master/addons.xml</info>
+    <checksum>https://raw.githubusercontent.com/back-to/repo/master/addons.xml.md5</checksum>
+    <datadir zip="true">https://raw.githubusercontent.com/back-to/repo/master/</datadir>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>back-to repository</summary>
+    <description>back-to repository</description>
+    <platform>all</platform>
+    <source>https://github.com/back-to/repo</source>
+    <news>
+    5.0.0
+    - back-to repository
+    </news>
+    <assets>
+        <icon>icon.png</icon>
+    </assets>
+  </extension>
+</addon>
+
+<addon id="repository.bugatsinho" name="Bugatsinho repository" version="2.1" provider-name="Bugatsinho">
+    <extension point="xbmc.addon.repository" name="Bugatsinho repository">
+        <info compressed="false">https://raw.githubusercontent.com/bugatsinho/bugatsinho.github.io/master/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/bugatsinho/bugatsinho.github.io/master/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/bugatsinho/bugatsinho.github.io/master/_zips</datadir>
+        <hashes>false</hashes>
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/jsergio123/zips/master/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/jsergio123/zips/master/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/jsergio123/zips/master/</datadir>
+        </dir>
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/Twilight0/repo.twilight0.libs/master/_zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/Twilight0/repo.twilight0.libs/master/_zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/Twilight0/repo.twilight0.libs/master/_zips/</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Bugatsinho repository</summary>
+        <description>This repository contains Greek, Spanish and other addons! Read first each addon's description!</description>
+        <platform>all</platform>
+    </extension>
+</addon>
+
+<addon id="repository.frenchdj" name="frenchdj repository" version="0.0.2" provider-name="frenchdj">
+	<extension point="xbmc.addon.repository" name="frenchdj Add-on Repository">
+		<info compressed="false">https://raw.githubusercontent.com/frenchdj/repository.frenchdj/master/_repo/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/frenchdj/repository.frenchdj/master/_repo/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/frenchdj/repository.frenchdj/master/_repo/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>frenchdj repository</summary>
+		<description>frenchdj addons repository</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
+
+    <addon id="repository.helly" name="HellyRepo" version="0.2.4" provider-name="Ivo Helwegen">
+        <extension point="xbmc.addon.repository" name="HellyRepo">
+            <dir minversion="15.0.0">
+                <info compressed="false">https://raw.githubusercontent.com/Helly1206/_repo/isengard/addons.xml</info>
+                <checksum>https://raw.githubusercontent.com/Helly1206/_repo/isengard/addons.xml.md5</checksum>
+                <datadir zip="true">https://raw.githubusercontent.com/Helly1206/_repo/isengard/</datadir>
+                <hashes>false</hashes>
+            </dir>
+            <dir minversion="15.9.0">
+                <info compressed="false">https://raw.githubusercontent.com/Helly1206/_repo/jarvis/addons.xml</info>
+                <checksum>https://raw.githubusercontent.com/Helly1206/_repo/jarvis/addons.xml.md5</checksum>
+                <datadir zip="true">https://raw.githubusercontent.com/Helly1206/_repo/jarvis/</datadir>
+                <hashes>false</hashes>
+            </dir>
+            <dir minversion="16.9.0">
+                <info compressed="false">https://raw.githubusercontent.com/Helly1206/_repo/krypton/addons.xml</info>
+                <checksum>https://raw.githubusercontent.com/Helly1206/_repo/krypton/addons.xml.md5</checksum>
+                <datadir zip="true">https://raw.githubusercontent.com/Helly1206/_repo/krypton/</datadir>
+                <hashes>false</hashes>
+            </dir>
+        </extension>
+        <extension point="xbmc.addon.metadata">
+            <summary>The repository contains addons and scripts to be used with kodi.</summary>
+            <description>HellyRepo is a repository that contains addons and scripts to be used with kodi.</description>
+            <platform>all</platform>
+    </extension>
+</addon>
+
+    <addon id="repository.thgiliwt" name="Thgiliwt Repository" version="1.8" provider-name="Thgiliwt">
+        <extension point="xbmc.addon.repository" name="Thgiliwt Repository">
+            <info compressed="false">https://bitbucket.org/thgiliwt/repo.thgiliwt/raw/HEAD/_thgiliwt/addons.xml</info>
+            <checksum>https://bitbucket.org/thgiliwt/repo.thgiliwt/raw/HEAD/_thgiliwt/addons.xml.md5</checksum>
+            <datadir zip="true">https://bitbucket.org/thgiliwt/repo.thgiliwt/raw/HEAD/_thgiliwt/</datadir>
+            <hashes>false</hashes>
+            <dir>
+                <info compressed="false">https://raw.githubusercontent.com/Twilight0/repo.twilight0/master/_zips/addons.xml</info>
+                <checksum>https://raw.githubusercontent.com/Twilight0/repo.twilight0/master/_zips/addons.xml.md5</checksum>
+                <datadir zip="true">https://raw.githubusercontent.com/Twilight0/repo.twilight0/master/_zips/</datadir>
+            </dir>
+            <dir>
+                <info compressed="false">https://raw.githubusercontent.com/Twilight0/repo.twilight0.libs/master/_zips/addons.xml</info>
+                <checksum>https://raw.githubusercontent.com/Twilight0/repo.twilight0.libs/master/_zips/addons.xml.md5</checksum>
+                <datadir zip="true">https://raw.githubusercontent.com/Twilight0/repo.twilight0.libs/master/_zips/</datadir>
+            </dir>
+            <dir>
+                <info compressed="false">https://raw.githubusercontent.com/jsergio123/zips/master/addons.xml</info>
+                <checksum>https://raw.githubusercontent.com/jsergio123/zips/master/addons.xml.md5</checksum>
+                <datadir zip="true">https://raw.githubusercontent.com/jsergio123/zips/master/</datadir>
+            </dir>
+        </extension>
+        <extension point="xbmc.addon.metadata">
+            <summary>Thgiliwt's repository</summary>
+            <description>Repository for AliveGR and other add-ons</description>
+            <platform>all</platform>
+        </extension>
+    </addon>
+
+    <addon id="repository.threshold84" name="Threshold84 Addon Repository" version="1.0.0" provider-name="Threshold84">
+        <extension point="xbmc.addon.repository" name="Threshold84 Addon Repository">
+            <info compressed="false">http://raw.githubusercontent.com/Threshold84/repo.threshold84/_zips/addons.xml</info>
+            <checksum>http://raw.githubusercontent.com/Threshold84/repo.threshold84/_zips/addons.xml.md5</checksum>
+            <datadir zip="true">http://raw.githubusercontent.com/Threshold84/repo.threshold84/_zips/</datadir>
+            <hashes>false</hashes>
+        </extension>
+        <extension point="xbmc.addon.metadata">
+            <summary>Repository for various add-ons</summary>
+            <description></description>
+            <platform>all</platform>
+    </extension>
+</addon>
+
+    <addon id="repository.twilight0" name="Twilight0 Addon Repository" version="1.1.0" provider-name="Twilight0">
+        <extension point="xbmc.addon.repository" name="Twilight0 Addon Repository">
+            <info compressed="false">http://raw.githubusercontent.com/Twilight0/repo.twilight0/master/_zips/addons.xml</info>
+            <checksum>http://raw.githubusercontent.com/Twilight0/repo.twilight0/master/_zips/addons.xml.md5</checksum>
+            <datadir zip="true">http://raw.githubusercontent.com/Twilight0/repo.twilight0/master/_zips/</datadir>
+            <hashes>false</hashes>
+            <dir>
+                <info compressed="false">https://raw.githubusercontent.com/Twilight0/repo.twilight0.libs/master/_zips/addons.xml</info>
+                <checksum>https://raw.githubusercontent.com/Twilight0/repo.twilight0.libs/master/_zips/addons.xml.md5</checksum>
+                <datadir zip="true">https://raw.githubusercontent.com/Twilight0/repo.twilight0.libs/master/_zips/</datadir>
+            </dir>
+        </extension>
+        <extension point="xbmc.addon.metadata">
+            <summary>Repository for various of my add-ons</summary>
+            <description>Repository for various of my add-ons</description>
+            <platform>all</platform>
+    </extension>
+</addon>
+
+<addon id="repository.ytplugin" name="Youtube Addon Repo" version="1.0" provider-name="Jeffrey Frasure">
+	<extension point="xbmc.addon.repository" name="Youtube Addon Repository">
+		<info compressed="false">https://github.com/jdf76/repository/raw/master/addons.xml</info>
+		<checksum>https://github.com/jdf76/repository/raw/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://github.com/jdf76/repository/raw/master/zips</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Install Kodis Youtube Addons</summary>
+                <description>Download and install addons from the Kodi Youtube group. This plugin is not official from Google.</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+
+<addon id="repository.zachmorris" name="Zach Morris Add-ons" version="1.0.0" provider-name="zachmorris">
+    <extension point="xbmc.addon.repository" name="Zach Morris Add-ons">
+        <info compressed="true">https://github.com/zach-morris/repository.zachmorris/raw/master/addons.xml</info>
+        <checksum>https://github.com/zach-morris/repository.zachmorris/raw/master/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/zach-morris/repository.zachmorris/master/</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Zach Morris Add-ons</summary>
+        <platform>all</platform>
+    </extension>
+</addon>
+
+<addon id="resource.images.alivegr.artwork" name="AliveGR Artwork" version="3.0.5" provider-name="Twilight0">
+	<extension point="kodi.resource.images" compile="false" type="AliveGR" />
+	<requires>
+		<import addon="kodi.resource" version="1.0.0"/>
+	</requires>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">AliveGR's main artwork</summary>
+		<description lang="en">Artwork is distributed separately to allow easier maintenance and consume less bandwidth</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+
+<addon id="resource.images.alivegr.logos" name="AliveGR TV Logos" version="1.0.2" provider-name="Twilight0">
+	<extension point="kodi.resource.images" compile="false" type="AliveGR" />
+	<requires>
+		<import addon="kodi.resource" version="1.0.0"/>
+	</requires>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">AliveGR's TV channels logos</summary>
+		<description lang="en">Logos are provided separately to allow easier distribution</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+</addons>
