@@ -2,6 +2,7 @@ name= Halloween at Aunt Ethel's url= "https://ohmorefilewow.verystream.net/strea
 name= Halloween: Left for Dead url= "plugin://plugin.video.youtube/play/?video_id=oZ0L7o6ILgE" logo= "https://images-na.ssl-images-amazon.com/images/I/81ZX3yDYGVL._SY445_.jpg"
 name= Halloween: 25 Years of Terror url= "plugin://plugin.video.youtube/play/?video_id=9ylO9A5wu_s" logo= "https://images-na.ssl-images-amazon.com/images/I/51wsEHq1r6L._SY445_.jpg"
 name= Halloween Massaker url= "plugin://plugin.video.youtube/play/?video_id=d7cr7v_xkKM" logo= "https://pmd.bilder.netzkino.de/bilder/wordpress//Halloween_Massaker_img_all.jpg"
+name= H3: Halloween Horror Hostel url= "plugin://plugin.video.xstream/?site=kinox_to&amp;function=parseMovieEntrySite&amp;title=H3%3A+Halloween+Horror+Hostel&amp;sUrl=https%3A%2F%2Fkinoz.to%2FStream%2FH3_Halloween_Horror_Hostel.html&amp;MovieTitle=H3%3A+Halloween+Horror+Hostel&amp;mediaType=movie&amp;playMode=play" logo= "https://04.static-maxdome.de/getAssetImage/objId:73875/type:poster/width:204/height:295/imageId:73873.jpg"
 
 
 
