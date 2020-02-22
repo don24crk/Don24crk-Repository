@@ -1,12 +1,12 @@
-name= Nightmare on Elm Street - Mörderische Träume  url= "https://s165.clipwatching.com/zx5x7vcd5z2txcne4zccldpp3j454ibwmdj33z2r4mcfyvbihuo6ymhujuna/v.mp4"
+name= Nightmare on Elm Street - Mörderische Träume  url= "https://s165.clipwatching.com/zx5x7vcd5z2txcne4zccldpp3j454ibwmdj33z2r4mcfyvbihuo6ymhujuna/v.mp4" logo= "https://images-na.ssl-images-amazon.com/images/I/81uvRprIaxL._SY445_.jpg"
 name= Nightmare 2 - Die Rache url= "https://s185.clipwatching.com/zx5x4b325z2txcne4zcsltxa2w5gnlqtrkpfm7xch4rilv474fv4sqrdizqa/v.mp4" logo= "https://skcdn.tv/cover/ab767a25fd291ef27c48fb7c87f85f883.jpg"
-name= Nightmare 3 - Freddy lebt url= "https://nxload.com/embed/7oelj0vryMxs"
-name= A Nightmare on Elm Street 4: The Dream Master url= "https://s220.clipwatching.com/zx5x2oyj5z2txcne4zdslh73zsqywkw44oawxgf4rytlv2zdryjithlw7u7a/v.mp4"
-name= Nightmare on Elm Street 5 - Das Trauma url= "https://s160.clipwatching.com/zx5x4l4o7b2txcne4z6sjapkztvewjvnj62wjuc3oc3gar7zegyutgttrq7q/v.mp4"
-name= Freddy's Finale - Nightmare on Elm Street 6 url= "https://nxload.com/embed/wg1G7j6XVGI"
-name= Freddy's New Nightmare url= "https://s155.clipwatching.com/zx5xruv57b2txcne4z7cje77qbtdy4z3lk2eqyzhaqyfc7wc53jyyxfh25vq/v.mp4"
-name= Freddy Vs. Jason url= "https://s455.clipwatching.com/zx5x4g357v2txcne4y7sjrh4zdrd3ycfnh3gkgxtmjjqdyjcr3rswmo5p4xq/v.mp4"
-name= A Nightmare on Elm Street url= "https://s48.clipwatching.com/zx5x47mh7n2txcne4zfcjep2ryjkvfdhtjuawer2chtyqtwvrguk7wiqzujq/v.mp4"
+name= Nightmare 3 - Freddy lebt url= "https://nxload.com/embed/7oelj0vryMxs" logo= "https://images-na.ssl-images-amazon.com/images/I/91YjxnpaAKL._SY445_.jpg"
+name= A Nightmare on Elm Street 4: The Dream Master url= "https://s220.clipwatching.com/zx5x2oyj5z2txcne4zdslh73zsqywkw44oawxgf4rytlv2zdryjithlw7u7a/v.mp4" logo= "https://images-na.ssl-images-amazon.com/images/I/91jQ2pAW9TL._RI_.jpg"
+name= Nightmare on Elm Street 5 - Das Trauma url= "https://s160.clipwatching.com/zx5x4l4o7b2txcne4z6sjapkztvewjvnj62wjuc3oc3gar7zegyutgttrq7q/v.mp4" logo= "https://www.echolog.de/wp-content/uploads/elmstreet5.jpg"
+name= Freddy's Finale - Nightmare on Elm Street 6 url= "https://nxload.com/embed/wg1G7j6XVGI" logo= "https://de.web.img3.acsta.net/medias/nmedia/18/83/36/17/19684950.jpg"
+name= Freddy's New Nightmare url= "https://s155.clipwatching.com/zx5xruv57b2txcne4z7cje77qbtdy4z3lk2eqyzhaqyfc7wc53jyyxfh25vq/v.mp4" logo= "https://de.web.img2.acsta.net/medias/nmedia/18/83/83/90/19710947.jpg"
+name= Freddy Vs. Jason url= "https://s455.clipwatching.com/zx5x4g357v2txcne4y7sjrh4zdrd3ycfnh3gkgxtmjjqdyjcr3rswmo5p4xq/v.mp4" logo= "https://www.pretz-media.at/media/images/popup/Mb_Freddy-vs-Jason_2D-FSK.jpg"
+name= A Nightmare on Elm Street url= "https://s48.clipwatching.com/zx5x47mh7n2txcne4zfcjep2ryjkvfdhtjuawer2chtyqtwvrguk7wiqzujq/v.mp4" logo= "https://media1.jpc.de/image/w600/front/0/5051890018816.jpg"
 
 
 
