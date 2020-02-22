@@ -1,12 +1,12 @@
-name= Nightmare on Elm Street - Mörderische Träume  url= "http://cdn32.my.mail.ru/hv/68599544.mp4?slave[]=s%3Ahttp%3A%2F%2Fvideo-cephrgw1.i%3A9090%2Fvideo4%2F68599544-hv&p=f&expire_at=1582416000&touch=1570750993&reg=202&sign=b6a068267dfa793cb02a9fcdfe8a71865e7276b5"
-name= Nightmare 2 - Die Rache url= "http://cdn29.my.mail.ru/v/65893428.mp4?slave[]=s%3Ahttp%3A%2F%2Fvideo-cephgw1.i%3A8003%2Frados3%2F65893428-v&p=f&expire_at=1582416000&touch=1536070018&reg=202&sign=c3c89945d9c95c1e8879895018373006bfc904b0" logo= "https://skcdn.tv/cover/ab767a25fd291ef27c48fb7c87f85f883.jpg"
-name= Nightmare 3 - Freddy lebt url= "http://cdn41.my.mail.ru/v/65893650.mp4?slave[]=s%3Ahttp%3A%2F%2Fvideo-cephgw3.i%3A8003%2Frados3%2F65893650-v&p=f&expire_at=1582416000&touch=1536071701&reg=202&sign=42e4cf2495aed4571a58f3651758f327e75de742"
-name= A Nightmare on Elm Street 4: The Dream Master url= "cdn29.my.mail.ru/hv/68583033.mp4?slave[]=s%3Ahttp%3A%2F%2Fvideo-cephrgw1.i%3A9090%2Fvideo4%2F68583033-hv&p=f&expire_at=1582416000&touch=1570491231&reg=202&sign=8dc393552978b9c8372ea1154b56084e6bf96dbb"
-name= Nightmare on Elm Street 5 - Das Trauma url= "cdn42.my.mail.ru/hv/68621337.mp4?slave[]=s%3Ahttp%3A%2F%2Fvideo-cephrgw2.i%3A9090%2Fvideo4%2F68621337-hv&p=f&expire_at=1582416000&touch=1571087122&reg=202&sign=640e4341d929234297d7e754cdf7501ec4a3f194"
-name= Freddy's Finale - Nightmare on Elm Street 6 url= "cdn32.my.mail.ru/hv/68634380.mp4?slave[]=s%3Ahttp%3A%2F%2Fvideo-cephrgw1.i%3A9090%2Fvideo4%2F68634380-hv&p=f&expire_at=1582416000&touch=1571264873&reg=202&sign=daebba2d9d3729669df75da897c89fc345f141fd"
-name= Freddy's New Nightmare url= "https://str18.vidoza.net/x4lfyi2hwjzpvjumxbueidcd6jv4xnbiyl6c2r4e7qzydf3fnwpuogq6raaa/v.mp4"
-name= Freddy Vs. Jason url= "cdn31.my.mail.ru/hv/66112667.mp4?slave[]=s%3Ahttp%3A%2F%2Fvideo-cephgw3.i%3A8003%2Frados3%2F66112667-hv&p=f&expire_at=1582416000&touch=1538670622&reg=202&sign=3861e34be239e530837cee1476984d03c71549ae" logo= "https://skcdn.tv/cover/253165caca8846069bdcbb50f535393c3.jpg"
-name= A Nightmare on Elm Street url= "https://cdn.clonefile.icu/drive/index.php?id=Rbt2G%2BLYYa2VGhVKl1ix0Ae4%2Fcw6ZCg7%2BorMA4ieMXu7ItAUCLPxYwU0kxLih9pHPV8iob8D6dT7AaWjHHHIGPm9t%2F7WN%2Fi%2BjKkwDmJuzs73PDmlauAsM5D15zYWkuyPObqC8JcOKZlHal%2FoB1e9rVS0hWkfpkhyzy64%2BMx%2FO%2FFBI1CiOdwpOFY0%2FqJD7TiGFIogu4NyE7SEh0k7FCPHrK&ref=https%3A%2F%2Fplayerhost.net%2F&res=default"
+name= Nightmare on Elm Street - Mörderische Träume  url= "https://s165.clipwatching.com/zx5x7vcd5z2txcne4zccldpp3j454ibwmdj33z2r4mcfyvbihuo6ymhujuna/v.mp4"
+name= Nightmare 2 - Die Rache url= "https://s185.clipwatching.com/zx5x4b325z2txcne4zcsltxa2w5gnlqtrkpfm7xch4rilv474fv4sqrdizqa/v.mp4" logo= "https://skcdn.tv/cover/ab767a25fd291ef27c48fb7c87f85f883.jpg"
+name= Nightmare 3 - Freddy lebt url= "https://nxload.com/embed/7oelj0vryMxs"
+name= A Nightmare on Elm Street 4: The Dream Master url= "https://s220.clipwatching.com/zx5x2oyj5z2txcne4zdslh73zsqywkw44oawxgf4rytlv2zdryjithlw7u7a/v.mp4"
+name= Nightmare on Elm Street 5 - Das Trauma url= "https://s160.clipwatching.com/zx5x4l4o7b2txcne4z6sjapkztvewjvnj62wjuc3oc3gar7zegyutgttrq7q/v.mp4"
+name= Freddy's Finale - Nightmare on Elm Street 6 url= "https://nxload.com/embed/wg1G7j6XVGI"
+name= Freddy's New Nightmare url= "https://s155.clipwatching.com/zx5xruv57b2txcne4z7cje77qbtdy4z3lk2eqyzhaqyfc7wc53jyyxfh25vq/v.mp4"
+name= Freddy Vs. Jason url= "https://s455.clipwatching.com/zx5x4g357v2txcne4y7sjrh4zdrd3ycfnh3gkgxtmjjqdyjcr3rswmo5p4xq/v.mp4"
+name= A Nightmare on Elm Street url= "https://s48.clipwatching.com/zx5x47mh7n2txcne4zfcjep2ryjkvfdhtjuawer2chtyqtwvrguk7wiqzujq/v.mp4"
 
 
 
