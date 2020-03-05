@@ -3,7 +3,7 @@ name= Ant1 url= "plugin://script.module.limitless-swiftstreamz/play/36/1621/play
 name= OpenTV url= "https://liveopen.siliconweb.com/openTvLive/stream2a/chunklist.m3u8" logo= "https://i.imgur.com/c9hgL1c.jpg"
 name= SkaiTV url= "plugin://script.module.limitless-swiftstreamz/play/36/1619/play.pvr" logo= "https://www.athensmagazine.gr/photos/w_800px/articles/201901/skai_logo.jpg"
 name= FinosFilms url= "plugin://plugin.video.youtube/play/?playlist_id=PLeOYAl6-eHMzm_-nZBl2nuc-eN859y4Zj&time_continue=2&v=kfKPHQ350qY&feature=emb_logo&order=$default&play=1" logo= "https://seeklogo.com/images/F/Finos_Film-logo-184768E779-seeklogo.com.gif"
-name= greek 60ies url= "plugin://plugin.video.youtube/play/?playlist_id=PLyw9iycu--LsmH6sWLa3h0ivadVSI4M9W&order=$default&play=1 " logo= "http://i.imgur.com/bh1iOFz.png"
+name= greek 60ies url= "plugin://plugin.video.youtube/play/?playlist_id=PLTvJm7kIF8bRI3r8oF8m3Q9u9t5NOlEFl&order=$default&play=1 " logo= "http://i.imgur.com/bh1iOFz.png"
 name= greek  movies mix url= "plugin://plugin.video.youtube/play/?playlist_id=PLu9sXb9Ba3w1BqlGNlymXBWSaEgjwfT06&order=$default&play=1" logo= "http://i.imgur.com/bh1iOFz.png"
 name= Ert1 HD url= "https://ert-live.siliconweb.com/media/ert_1/ert_1.m3u8" logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/EPT1_logo_%282015%29.svg/1200px-EPT1_logo_%282015%29.svg.png"
 name= ErtWorld HD url= "plugin://plugin.video.ert.gr/?action=play&amp;url=https%3A%2F%2Fwebtv.ert.gr%2Fertworld-live%2F" logo= "https://upload.wikimedia.org/wikipedia/en/thumb/9/93/ERT_World.svg/1200px-ERT_World.svg.png"
