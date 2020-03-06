@@ -8,8 +8,11 @@ name= Bruce Lee - Die Todeskralle Schlägt Wieder Zu url= "plugin://plugin.video
 name= The Big Boss url= "plugin://plugin.video.xstream/?site=hdfilme&amp;function=showHosters&amp;title=Die+Todesfaust+des+Cheng+Li&amp;sName=Die+Todesfaust+des+Cheng+Li+&amp;thumb=https%3A%2F%2Fcdn.hdfilme.cc%2Fimg%2F6891ae59375ef966ef317582d4355c4a.jpg%7CUser-Agent%3DMozilla%2F5.0+%28Windows+NT+6.1%3B+Win64%3B+x64%3B+rv%3A63.0%29+Gecko%2F20100101+Firefox%2F63.0&amp;mediaType=movie&amp;sThumbnail=https%3A%2F%2Fcdn.hdfilme.cc%2Fimg%2F6891ae59375ef966ef317582d4355c4a.jpg%7CUser-Agent%3DMozilla%2F5.0+%28Windows+NT+6.1%3B+Win64%3B+x64%3B+rv%3A63.0%29+Gecko%2F20100101+Firefox%2F63.0&amp;entryUrl=https%3A%2F%2Fhdfilme.cc%2Ffilme-die-todesfaust-des-cheng-li-1971-6585-stream&amp;MovieTitle=Die+Todesfaust+des+Cheng+Li&amp;playMode=play" logo= "https://images-na.ssl-images-amazon.com/images/I/51Hao9I0gjL._SY445_.jpg"
 name= Goodbye, Bruce Lee url= "plugin://plugin.video.xstream/?site=streamking&amp;function=showHosters&amp;title=Goodbye%2C+Bruce+Lee&amp;mediaType=movie&amp;MovieTitle=Goodbye%2C+Bruce+Lee&amp;thumb=https%3A%2F%2Fstreamking.eu%2Fuploads%2Fvideo_thumb%2F1486.jpg%7CUser-Agent%3DMozilla%2F5.0+%28Windows+NT+6.1%3B+Win64%3B+x64%3B+rv%3A63.0%29+Gecko%2F20100101+Firefox%2F63.0&amp;entryUrl=https%3A%2F%2Fstreamking.eu%2Fwatch%2Fgoodbye-bruce-lee-1486.html&amp;playMode=play" logo= "https://images-na.ssl-images-amazon.com/images/I/51EEQYW1VNL._SY445_.jpg"
 name= Return of the Warrior url= "plugin://plugin.video.xstream/?site=streamking&amp;function=showHosters&amp;title=Return+of+the+Warrior&amp;mediaType=movie&amp;MovieTitle=Return+of+the+Warrior&amp;thumb=https%3A%2F%2Fstreamking.eu%2Fuploads%2Fvideo_thumb%2F3850.jpg%7CUser-Agent%3DMozilla%2F5.0+%28Windows+NT+6.1%3B+Win64%3B+x64%3B+rv%3A63.0%29+Gecko%2F20100101+Firefox%2F63.0&amp;entryUrl=https%3A%2F%2Fstreamking.eu%2Fwatch%2Freturn-of-the-warrior-3850.html&amp;playMode=play" logo= "https://images-na.ssl-images-amazon.com/images/I/81UoF22ZZ6L._SX342_.jpg"
-name= Der Mann mit der Todeskralle (1974)
-https://www1424.o0-3.com/token=Kd-hdQqkQdyiV0sSSd_w8w/1583547469/37.201.0.0/104/5/08/cd3e860cf59f39f47ee94d9fa1fdb085-360p.mp4 logo= "https://de.web.img2.acsta.net/c_215_290/medias/nmedia/18/76/15/36/19279291.jpg"
+name= Der Mann mit der Todeskralle (1974) "https://www1424.o0-3.com/token=Kd-hdQqkQdyiV0sSSd_w8w/1583547469/37.201.0.0/104/5/08/cd3e860cf59f39f47ee94d9fa1fdb085-360p.mp4" logo= "https://de.web.img2.acsta.net/c_215_290/medias/nmedia/18/76/15/36/19279291.jpg"
+
+
+
+
 
 
 
