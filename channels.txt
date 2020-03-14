@@ -7,7 +7,7 @@ name= greek 60ies url= "plugin://plugin.video.youtube/play/?playlist_id=PLSmwlcw
 name= Madtv url= "plugin://plugin.video.youtube/play/?video_id=nhSwlWhdips" logo= "https://ogaegreece.com/wp-content/uploads/2012/12/mad-logo-pink.png"
 name= Ert1 HD url= "https://ert-live.siliconweb.com/media/ert_1/ert_1.m3u8" logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/EPT1_logo_%282015%29.svg/1200px-EPT1_logo_%282015%29.svg.png"
 name= ErtWorld HD url= "https://ert-live.siliconweb.com/media/ert_world/ert_world.m3u8" logo= "https://upload.wikimedia.org/wikipedia/en/thumb/9/93/ERT_World.svg/1200px-ERT_World.svg.png"
-name= Ert2 url= "https://ert-live.siliconweb.com/media/ert_2/ert_2.m3u8" logo= "http://greektv.pbworks.com/f/1433976520/ERT2.png"
+name= Ert2 url= "https://ert-live.siliconweb.com/media/ert_2/ert_2.m3u8" logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/EPT2_logo_%282015%29.svg/1200px-EPT2_logo_%282015%29.svg.png"
 name= Ertsports url= "https://ert-live.siliconweb.com/media/ert_sports/ert_sportshigh.m3u8" logo= "https://i.imgur.com/mZKxIBA.jpg"
 name= Ertplay1 url= "https://ert-live.siliconweb.com/media/ert_play_1/ert_play_1.m3u8" logo= "https://i.imgur.com/KAvruUQ.jpg"
 name= Ertplay2 url= "https://ert-live.siliconweb.com/media/ert_play_2/ert_play_2.m3u8" logo= "https://i.imgur.com/GJmKqyS.jpg"
