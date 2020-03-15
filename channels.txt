@@ -1,4 +1,4 @@
-name= Star HD url= "https://starlive1.siliconweb.com/dc-1/live/hls/p/713821/e/1_fp7fyi3j/sd/6000/t/m6tDJyVBZE6_Pj9-lABbHQ/index-s32.m3u8" logo= "http://greektv.pbworks.com/f/STAR.png"
+name= Star HD url= "plugin://plugin.video.AliveGR/?action=play&amp;url=https%3A%2F%2Fcdnapisec.kaltura.com%2Fp%2F713821%2Fsp%2F0%2FplayManifest%2FentryId%2F1_fp7fyi3j%2Fformat%2Fapplehttp%2Fprotocol%2Fhttps%2FflavorParamId%2F0%2Fmanifest.m3u8&amp;title=STAR+%282%29&amp;image=C%3A%5CUsers%5CELIAS+K%5CAppData%5CRoaming%5CKodi%5Caddons%5Cresource.images.alivegr.logos%5Cresources%5Clogos%5CSTAR.png&amp;plot=Official+stream%2C+broadcasts+only+on+first+party+productions+-+%CE%95%CF%80%CE%AF%CF%83%CE%B7%CE%BC%CE%B7+%CF%81%CE%BF%CE%AE%2C+%CE%B5%CE%BA%CF%80%CE%AD%CE%BC%CF%80%CE%B5%CE%B9+%CE%BC%CF%8C%CE%BD%CE%BF+%CF%83%CE%B5+%CF%80%CE%B1%CF%81%CE%B1%CE%B3%CF%89%CE%B3%CE%AD%CF%82+%CE%BC%CE%B5+%CE%B4%CE%B9%CE%BA%CE%AC+%CF%84%CE%BF%CF%85%CF%82+%CE%B4%CE%B9%CE%BA%CE%B1%CE%B9%CF%8E%CE%BC%CE%B1%CF%84%CE%B1&amp;genre=Panhellenic" logo= "http://greektv.pbworks.com/f/STAR.png"
 name= Ant1 url= "plugin://script.module.limitless-swiftstreamz/play/36/1621/play.pvr" logo= "http://greektv.pbworks.com/f/ANT1.png"
 name= OpenTV url= "https://liveopen.siliconweb.com/openTvLive/stream2a/chunklist.m3u8" logo= "https://i.imgur.com/c9hgL1c.jpg"
 name= SkaiTV url= "https://livestreaming.skai.gr/hls/live/1009402/15a83ddd/playlist.m3u8" logo= "https://www.athensmagazine.gr/photos/w_800px/articles/201901/skai_logo.jpg"
@@ -26,6 +26,13 @@ name= BoobaTV url= "plugin://plugin.video.youtube/play/?video_id=QougB4t6TWU" lo
 name= Seferlis TV url= "plugin://plugin.video.youtube/play/?playlist_id=PLb04dvHextKt1fXvtonDehvFADx3YkWbA&order=$default&play=1" logo= "https://trikalavoice.gr/wp-content/uploads/2019/09/markos-seferlis-500-710x401.jpg"
 name= Ote Cinema 4 url= "plugin://script.module.limitless-swiftstreamz/play/36/1642/play.pvr" logo= "https://3.bp.blogspot.com/-BKzOOiaWt_I/VQwwKeT4V3I/AAAAAAAAWD0/5eidoaaysus/s1600/ema4.jpg"
 name= BarazaTV url= "https://eco.streams.ovh:443/BarazaTV/BarazaTV/playlist.m3u8" logo= "https://barazaradio.com/wp-content/uploads/2019/10/0c64fa98a658268e86a9125a82ee7615.png"
+name= AstraTV url= "plugin://plugin.video.AliveGR/?action=play&amp;url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUC_05V6bdX034GP6UdqWbF5Q%2Flive&amp;title=ASTRA+TV&amp;image=C%3A%5CUsers%5CELIAS+K%5CAppData%5CRoaming%5CKodi%5Caddons%5Cresource.images.alivegr.logos%5Cresources%5Clogos%5CASTRA+TV.png&amp;plot=No+information+available&amp;genre=Regional" logo= "https://lh3.googleusercontent.com/proxy/1dk1jFsdUGWkiluKxhgZ8ci-yEDR8_EGgQpHbxElLqojBVWl3FV7TZgkusDkJk0PU_Ucki-DYDQCnxOCD57rXIEs4Mf40iqTT9hFlXhoQaTwmsS6nqu1pVRS6xo"
+name= AliveGr Greek Movies 60ies url= "plugin://plugin.video.AliveGR/?action=play&amp;url=alivegr%3A%2F%2Fsixties&amp;title=AliveGR+%2760&amp;image=C%3A%5CUsers%5CELIAS+K%5CAppData%5CRoaming%5CKodi%5Caddons%5Cresource.images.alivegr.logos%5Cresources%5Clogos%5CGREEK+CINEMA+60.png&amp;plot=Random+movie+selection&amp;genre=AliveGR%27s+movies" logo= "logo= "http://i.imgur.com/bh1iOFz.png""
+name= AliveGr Greek Movies 70ies url= "plugin://plugin.video.AliveGR/?action=play&amp;url=alivegr%3A%2F%2Fseventies&amp;title=AliveGR+%2770&amp;image=C%3A%5CUsers%5CELIAS+K%5CAppData%5CRoaming%5CKodi%5Caddons%5Cresource.images.alivegr.logos%5Cresources%5Clogos%5CGREEK+CINEMA+70.png&amp;plot=Random+movie+selection&amp;genre=AliveGR%27s+movies" logo= "http://i.imgur.com/bh1iOFz.png"
+name= AliveGr Greek Movies 80ies url= "plugin://plugin.video.AliveGR/?action=play&amp;url=alivegr%3A%2F%2Feighties&amp;title=AliveGR+%2780&amp;image=C%3A%5CUsers%5CELIAS+K%5CAppData%5CRoaming%5CKodi%5Caddons%5Cresource.images.alivegr.logos%5Cresources%5Clogos%5CGREEK+CINEMA+80.png&amp;plot=Random+movie+selection&amp;genre=AliveGR%27s+movies" logo= "http://i.imgur.com/bh1iOFz.png"
+
+
+
 
 
 
