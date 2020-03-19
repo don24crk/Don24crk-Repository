@@ -1,4 +1,4 @@
-name= Star HD url= "plugin://plugin.video.wagasworld/?url=https%3A%2F%2Fcdnapisec.kaltura.com%2Fp%2F713821%2Fsp%2F0%2FplayManifest%2FentryId%2F1_fp7fyi3j%2Fformat%2Fapplehttp%2Fprotocol%2Fhttps%2FflavorParamId%2F0%2Fmanifest.m3u8&amp;mode=12" logo= "http://greektv.pbworks.com/f/STAR.png"
+name= Star HD url= "plugin://plugin.video.wagasworld/?url=https%3A%2F%2Fcdnapisec.kaltura.com%2Fp%2F713821%2Fsp%2F0%2FplayManifest%2FentryId%2F1_fp7fyi3j%2Fformat%2Fapplehttp%2Fprotocol%2Fhttps%2FflavorParamId%2F0%2Fmanifest.m3u8" logo= "http://greektv.pbworks.com/f/STAR.png"
 name= Ant1 url= "plugin://script.module.limitless-swiftstreamz/play/36/1621/play.pvr" logo= "http://greektv.pbworks.com/f/ANT1.png"
 name= OpenTV url= "https://liveopen.siliconweb.com/openTvLive/stream2a/chunklist.m3u8" logo= "https://i.imgur.com/c9hgL1c.jpg"
 name= SkaiTV url= "https://livestreaming.skai.gr/hls/live/1009402/15a83ddd/playlist.m3u8" logo= "https://www.athensmagazine.gr/photos/w_800px/articles/201901/skai_logo.jpg"
