@@ -13,7 +13,7 @@ name= Ertplay1 url= "https://ert-live.siliconweb.com/media/ert_play_1/ert_play_1
 name= Ertplay2 url= "https://ert-live.siliconweb.com/media/ert_play_2/ert_play_2.m3u8" logo= "https://i.imgur.com/GJmKqyS.jpg"
 name= Ertplay3 url= "https://ert-live.siliconweb.com/media/ert_play_3/ert_play_3.m3u8" logo= "https://i.imgur.com/fKuzNRN.jpg"
 name= Ertplay4 url= "https://ert-live.siliconweb.com/media/ert_play_4/ert_play_4.m3u8" logo= "https://i.imgur.com/U9hxRNa.jpg"
-name= MpaxaloTV url= "https://itv.streams.ovh/mpaxalotv/mpaxalotv/playlist.m3u8" logo= "http://i.imgur.com/cF6mgTb.png"
+name= Mpaxalo-TV url= "https://itv.streams.ovh/mpaxalotv/mpaxalotv/playlist.m3u8" logo= "http://i.imgur.com/cF6mgTb.png"
 name= ZouglaTV url= "https://zouglacam-mdc-secure.akamaized.net/zouglastream/radio_backup8/playlist.m3u8" logo= "https://www.eliamep.gr/wp-content/uploads/2011/05/zougla.gr-logo.png"
 name= SigmaCy url= "http://81.21.47.74/hls/live.m3u8" logo= "http://i.imgur.com/BMvgdlc.png"
 name= Cinemania HD url= "http://bit.ly/2rp95bt" logo= "https://s2.dmcdn.net/v/1cRo51EDN7VXlMUEx/x1080"
