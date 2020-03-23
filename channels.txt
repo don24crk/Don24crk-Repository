@@ -19,7 +19,6 @@ name= SigmaCy url= "http://81.21.47.74/hls/live.m3u8" logo= "http://i.imgur.com/
 name= Cinemania HD url= "http://bit.ly/2rp95bt" logo= "https://s2.dmcdn.net/v/1cRo51EDN7VXlMUEx/x1080"
 name= x-tv url= "https://live.cast-control.eu:443/xalastratv/xalastratv/playlist.m3u8" logo= "http://i.imgur.com/LgQBtTh.jpg"
 name= Tilemousiki url= "http://wpso.com:1936/hls/music1.m3u8" logo= "http://i.imgur.com/piGhf3m.png"
-name= Art Sportzone url= "rtmp://tv3.streampulse.eu:1935/tilesport/movie1" logo= "http://greektv.pbworks.com/f/ART.png"
 name= AlphaTV url= "plugin://script.module.limitless-swiftstreamz/play/36/1620/play.pvr" logo= "http://greektv.pbworks.com/f/ALPHA.png"
 name= Ert3 url= "plugin://script.module.limitless-swiftstreamz/play/36/1618/play.pvr" logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/EPT3_logo_%282015%29.svg/1200px-EPT3_logo_%282015%29.svg.png"
 name= KidsTV url= "http://wpso.com:1936/hls/kidshd.m3u8" logo= "https://vignette.wikia.nocookie.net/channels/images/4/46/Kids_Tv_Logo_%282%29.png/revision/latest/top-crop/width/220/height/220?cb=20180714082236"
