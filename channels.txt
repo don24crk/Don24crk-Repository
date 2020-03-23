@@ -22,7 +22,7 @@ name= Tilemousiki url= "http://wpso.com:1936/hls/music1.m3u8" logo= "http://i.im
 name= Art Sportzone url= "rtmp://tv3.streampulse.eu:1935/tilesport/movie1" logo= "http://greektv.pbworks.com/f/ART.png"
 name= AlphaTV url= "plugin://script.module.limitless-swiftstreamz/play/36/1620/play.pvr" logo= "http://greektv.pbworks.com/f/ALPHA.png"
 name= Ert3 url= "plugin://script.module.limitless-swiftstreamz/play/36/1618/play.pvr" logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/EPT3_logo_%282015%29.svg/1200px-EPT3_logo_%282015%29.svg.png"
-name= BoobaTV url= "https://bit.ly/33LBUzx" logo= "https://yt3.ggpht.com/a/AGF-l7-iItZoGe0QTRAFueuJpkhsAMBv6EZ3nB8xJA=s900-c-k-c0xffffffff-no-rj-mo"
+name= BoobaTV url= "https://bit.ly/2J8Cqht" logo= "https://yt3.ggpht.com/a/AGF-l7-iItZoGe0QTRAFueuJpkhsAMBv6EZ3nB8xJA=s900-c-k-c0xffffffff-no-rj-mo"
 name= Seferlis TV url= "plugin://plugin.video.youtube/play/?playlist_id=PLb04dvHextKt1fXvtonDehvFADx3YkWbA&order=$default&play=1" logo= "https://trikalavoice.gr/wp-content/uploads/2019/09/markos-seferlis-500-710x401.jpg"
 name= Ote Cinema 4 url= "plugin://script.module.limitless-swiftstreamz/play/36/1642/play.pvr" logo= "https://3.bp.blogspot.com/-BKzOOiaWt_I/VQwwKeT4V3I/AAAAAAAAWD0/5eidoaaysus/s1600/ema4.jpg"
 name= BarazaTV url= "https://eco.streams.ovh:443/BarazaTV/BarazaTV/playlist.m3u8" logo= "https://barazaradio.com/wp-content/uploads/2019/10/0c64fa98a658268e86a9125a82ee7615.png"
