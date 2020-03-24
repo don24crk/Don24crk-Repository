@@ -8,6 +8,8 @@ name= Ο Τετραπέρατος (1966) Κώστας Χατζηχρήστος u
 name= Βασικά Καλησπέρα Σας - Στάθης Ψάλτης url= "plugin://plugin.video.youtube/?action=play_video&videoid=3H5M8EeVvgY" logo= "https://upload.wikimedia.org/wikipedia/el/2/2e/%CE%92%CE%B1%CF%83%CE%B9%CE%BA%CE%AC..._%CE%9A%CE%B1%CE%BB%CE%B7%CF%83%CF%80%CE%AD%CF%81%CE%B1_%CF%83%CE%B1%CF%82_%28%CE%B5%CE%BE%CF%8E%CF%86%CF%85%CE%BB%CE%BB%CE%BF%29.jpg"
 name= Alter Ego 2007 Greek movie url= "plugin://plugin.video.youtube/?action=play_video&videoid=CAUCwpuOEAw" logo= "https://d1k5w7mbrh6vq5.cloudfront.net/images/cache/70/05/58/700558c47e1f52242297bf9705cd8a90.jpg"
 name= ta-kitrina-gantia-1960 url= "https://storage.wetube.club/videos/_YPTuniqid_5e0e8d54d49b67.68536597_HD.mp4?token=eyJzYWx0IjoiaHR0cHM6XC9cL3dldHViZS5jbHViXC8iLCJ0b2tlblRpbWVPdXQiOjIxNjAwLCJmaWxlbmFtZSI6Il9ZUFR1bmlxaWRfNWUwZThkNTRkNDliNjcuNjg1MzY1OTdfSEQiLCJ0aW1lIjoxNTg1MDkwNDg5fQ==" logo= "https://m.media-amazon.com/images/M/MV5BMDA5YjUxYWItNWJiZC00ZWM4LTg0YjUtOGQzMWU3N2I5MTk5XkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_.jpg"
+name= h aliki sto nautiko-1964 url= "https://storage.wetube.club/videos/_YPTuniqid_5e19ba5d489713.14262230_HD.mp4?token=eyJzYWx0IjoiaHR0cHM6XC9cL3dldHViZS5jbHViXC8iLCJ0b2tlblRpbWVPdXQiOjIxNjAwLCJmaWxlbmFtZSI6Il9ZUFR1bmlxaWRfNWUxOWJhNWQ0ODk3MTMuMTQyNjIyMzBfSEQiLCJ0aW1lIjoxNTg1MDg4MjQxfQ==" logo= https://lh3.googleusercontent.com/proxy/RDRT8bST2NF68jct3ggsuJnNk-vY7VfHZGhiW5Blv-EdoSDlCSyGX87EIL6D7uKVvFuS6ddQ3Os8LYjEi3T1GvaUHlc-zK27_Nbx8_SeeFGjX0-nPl0qTREYQ6q6"
+
 
 
 
