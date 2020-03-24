@@ -17,7 +17,7 @@ name= Der Mann mit der Todeskralle (1974) url= "https://bit.ly/2Jafhv9" logo= "h
 images-amazon.com/images/I/81ho-mL2GZL._SY500_.jpg"
 name= The Legend of Bruce Lee(2008) Teil1 url= "https://virgo.nxload.com/hls/52dvQCqGBfNPhrfA3VOYNw-ALoZ8rqGMaVWXAaFfDxCrs8UCo7wBTzYlSiYWeB4dILelI465SFTkaJ1B4OGmmbaVCeKVxD7vDGfxb4u12B,,.urlset/master.m3u8" logo= "https://m.media-amazon.com/images/M/MV5BMTYwMzA4MDIyNF5BMl5BanBnXkFtZTgwMjc1NTk1MDE@._V1_.jpg"
 name= The Legend of Bruce Lee(2008) Teil2 url= "https://virgo.nxload.com/hls/1csT47V3xdQPhyUZOEfUF8-NVmNxHods0lc4vi78QVA0fOuWKNScVszcfpU7IUVk9Gnx7kMjVFkImV8qExqgWfwJCAlLaDQYusTpk9INmN,,.urlset/master.m3u8" logo= "https://m.media-amazon.com/images/M/MV5BMTYwMzA4MDIyNF5BMl5BanBnXkFtZTgwMjc1NTk1MDE@._V1_.jpg"
-name= Bruce Lee - Seine Erben nehmen Rache url= "https://fibre.hlssrv.com/hls_serve/ImBSHiBi7qKX0ZD0Je0_dA/1585069785/wPo9QCtJgkZK4nqr6k1y/pl2.m3u8" logo= "https://www.schnittberichte.com/pics/SBs/200/266006/cover.jpg"
+name= Bruce Lee - Seine Erben nehmen Rache url= "plugin://plugin.video.youtube/play/?video_id=E6JbtYli_uc" logo= "https://www.schnittberichte.com/pics/SBs/200/266006/cover.jpg"
 
 
 
