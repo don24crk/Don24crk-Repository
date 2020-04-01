@@ -1,7 +1,7 @@
 name= Star HD url= "https://usb.bozztv.com/ssh101/tfgstar/tfgstar/index.m3u8" logo= "http://greektv.pbworks.com/f/STAR.png"
 name= Ant1 url= "plugin://script.module.limitless-swiftstreamz/play/36/1621/play.pvr" logo= "http://greektv.pbworks.com/f/ANT1.png"
 name= OpenTV url= "https://liveopencloud.siliconweb.com/1/RnNyN1ZZdUhqUURT/cm5TOVdl/hls/live/playlist.m3u8" logo= "https://i.imgur.com/c9hgL1c.jpg"
-name= SkaiTV url= "http://104.218.60.145:83/Delmacostello/8023634654/379487" logo= "https://www.athensmagazine.gr/photos/w_800px/articles/201901/skai_logo.jpg"ttp%3A%2
+name= SkaiTV url= "http://104.218.60.145:83/Delmacostello/8023634654/379487.ts" logo= "https://www.athensmagazine.gr/photos/w_800px/articles/201901/skai_logo.jpg"ttp%3A%2
 name= FinosFilms url= "plugin://plugin.video.youtube/play/?playlist_id=PLeOYAl6-eHMzm_-nZBl2nuc-eN859y4Zj&time_continue=2&v=kfKPHQ350qY&feature=emb_logo&order=$default&play=1" logo= "https://seeklogo.com/images/F/Finos_Film-logo-184768E779-seeklogo.com.gif"
 name= greek 60ies url= "plugin://plugin.video.youtube/play/?playlist_id=PLSmwlcwtVccaoJWQcToz2p1sRB8fsQ7ji&order=$default&play=1 " logo= "http://i.imgur.com/bh1iOFz.png"
 name= Madtv url= "plugin://plugin.video.youtube/play/?video_id=nhSwlWhdips" logo= "https://ogaegreece.com/wp-content/uploads/2012/12/mad-logo-pink.png"
@@ -21,7 +21,7 @@ name= x-tv url= "https://live.cast-control.eu:443/xalastratv/xalastratv/playlist
 name= Tilemousiki url= "http://wpso.com:1936/hls/music1.m3u8" logo= "http://i.imgur.com/piGhf3m.png"
 name= AlphaTV url= "plugin://script.module.limitless-swiftstreamz/play/36/1620/play.pvr" logo= "http://greektv.pbworks.com/f/ALPHA.png"
 name= Ert3 url= "plugin://script.module.limitless-swiftstreamz/play/36/1618/play.pvr" logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/EPT3_logo_%282015%29.svg/1200px-EPT3_logo_%282015%29.svg.png"
-name= SmileTV url= "http://104.218.60.145:83/Delmacostello/8023634654/379486" logo= "https://www.vipoland.com/wp-content/uploads/Smile.jpg"
+name= SmileTV url= "http://104.218.60.145:83/Delmacostello/8023634654/379486.ts" logo= "https://www.vipoland.com/wp-content/uploads/Smile.jpg"
 name= Seferlis TV url= "plugin://plugin.video.youtube/play/?playlist_id=PLb04dvHextKt1fXvtonDehvFADx3YkWbA&order=$default&play=1" logo= "https://trikalavoice.gr/wp-content/uploads/2019/09/markos-seferlis-500-710x401.jpg"
 name= Greek Cinema url= "https://usb1.ninacdn.com/ssh101/Galaxygrtv/Galaxygrtv/playlist.m3u8" logo= "http://i.imgur.com/bh1iOFz.png"
 name= BarazaTV url= "https://eco.streams.ovh:443/BarazaTV/BarazaTV/playlist.m3u8" logo= "https://barazaradio.com/wp-content/uploads/2019/10/0c64fa98a658268e86a9125a82ee7615.png"
