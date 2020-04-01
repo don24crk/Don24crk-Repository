@@ -21,7 +21,7 @@ name= x-tv url= "https://live.cast-control.eu:443/xalastratv/xalastratv/playlist
 name= Tilemousiki url= "http://wpso.com:1936/hls/music1.m3u8" logo= "http://i.imgur.com/piGhf3m.png"
 name= AlphaTV url= "plugin://script.module.limitless-swiftstreamz/play/36/1620/play.pvr" logo= "http://greektv.pbworks.com/f/ALPHA.png"
 name= Ert3 url= "plugin://script.module.limitless-swiftstreamz/play/36/1618/play.pvr" logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/EPT3_logo_%282015%29.svg/1200px-EPT3_logo_%282015%29.svg.png"
-name= KidsTV url= "wpso.com:1936/hls/kidshd.m3u8" logo= "https://kidstvofficial.files.wordpress.com/2015/07/kids_tv_final_1920_1080_png.png"
+name= KidsTV url= "http://wpso.com:1936/hls/kidshd.m3u8" logo= "https://kidstvofficial.files.wordpress.com/2015/07/kids_tv_final_1920_1080_png.png"
 name= Seferlis TV url= "plugin://plugin.video.youtube/play/?playlist_id=PLb04dvHextKt1fXvtonDehvFADx3YkWbA&order=$default&play=1" logo= "https://trikalavoice.gr/wp-content/uploads/2019/09/markos-seferlis-500-710x401.jpg"
 name= Greek Cinema url= "https://usb1.ninacdn.com/ssh101/Galaxygrtv/Galaxygrtv/playlist.m3u8" logo= "http://i.imgur.com/bh1iOFz.png"
 name= BarazaTV url= "https://eco.streams.ovh:443/BarazaTV/BarazaTV/playlist.m3u8" logo= "https://barazaradio.com/wp-content/uploads/2019/10/0c64fa98a658268e86a9125a82ee7615.png"
