@@ -1,7 +1,7 @@
 name= Star HD url= "plugin://plugin.video.star.gr/?action=play&amp;url=https%3A%2F%2Fusb.bozztv.com%2Fssh101%2Ftfgstar%2Ftfgstar%2Fchunklist.m3u8%3Fnimblesessionid%3D6476036&amp;title=StarTV" logo= "http://greektv.pbworks.com/f/STAR.png"
 name= Ant1 url= "https://antennalivesp-lh.akamaihd.net/i/live_1@715138/index_1500_av-p.m3u8?sd=10&rebase=on" logo= "http://greektv.pbworks.com/f/ANT1.png"
 name= OpenTV url= "https://liveopencloud.siliconweb.com/1/RnNyN1ZZdUhqUURT/cm5TOVdl/hls/live/playlist.m3u8" logo= "https://i.imgur.com/c9hgL1c.jpg"
-name= SkaiTV url= "https://bit.ly/2wSjxwI" logo= "https://www.athensmagazine.gr/photos/w_800px/articles/201901/skai_logo.jpg"ttp%3A%2
+name= SkaiTV url= "plugin://plugin.video.youtube/play/?video_id=CmqbY_Gzsdo&feature=emb_title" logo= "https://www.athensmagazine.gr/photos/w_800px/articles/201901/skai_logo.jpg"ttp%3A%2
 name= FinosFilms url= "plugin://plugin.video.youtube/play/?playlist_id=PLeOYAl6-eHMzm_-nZBl2nuc-eN859y4Zj&time_continue=2&v=kfKPHQ350qY&feature=emb_logo&order=$default&play=1" logo= "https://seeklogo.com/images/F/Finos_Film-logo-184768E779-seeklogo.com.gif"
 name= greek 60ies url= "plugin://plugin.video.youtube/play/?playlist_id=PLSmwlcwtVccaoJWQcToz2p1sRB8fsQ7ji&order=$default&play=1 " logo= "http://i.imgur.com/bh1iOFz.png"
 name= Madtv url= "plugin://plugin.video.youtube/play/?video_id=nhSwlWhdips" logo= "https://ogaegreece.com/wp-content/uploads/2012/12/mad-logo-pink.png"
