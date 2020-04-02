@@ -1,4 +1,4 @@
-name= Star HD url= "https://usb.bozztv.com/ssh101/tfgstar/tfgstar/index.m3u8" logo= "http://greektv.pbworks.com/f/STAR.png"
+name= Star HD url= "https://usb.bozztv.com/ssh101/55115dsadw21/55115dsadw21/playlist.m3u8" logo= "http://greektv.pbworks.com/f/STAR.png"
 name= Ant1 url= "https://antennalivesp-lh.akamaihd.net/i/live_1@715138/index_1500_av-p.m3u8?sd=10&rebase=on" logo= "http://greektv.pbworks.com/f/ANT1.png"
 name= OpenTV url= "https://liveopencloud.siliconweb.com/1/RnNyN1ZZdUhqUURT/cm5TOVdl/hls/live/playlist.m3u8" logo= "https://i.imgur.com/c9hgL1c.jpg"
 name= SkaiTV url= "plugin://plugin.video.youtube/play/?video_id=CmqbY_Gzsdo&feature=emb_title" logo= "https://www.athensmagazine.gr/photos/w_800px/articles/201901/skai_logo.jpg"ttp%3A%2
