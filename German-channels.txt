@@ -1,13 +1,13 @@
-name= RTL HD url= "plugin://plugin.video.tvnow.de?action=playLive&vod_url=3426990" logo= "https://upload.wikimedia.org/wikipedia/commons/3/3a/RTL_Logo_ab_dem_1._September_2017.png"
-name= RTLplus url= "plugin://plugin.video.tvnow.de?action=playLive&vod_url=3398211" logo= "http://sgkodi.de/TV/logo/de/rtl_plus_hd.png"
-name= RTL Crime url= "plugin://plugin.video.tvnow.de?action=playLive&vod_url=3398300" logo= "http://sgkodi.de/TV/logo/de/rtl_crime_hd.png"
-name= RTL2 HD url= "plugin://plugin.video.tvnow.de?action=playLive&vod_url=3399790" logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/1200px-RTLZWEI_Logo_2019.svg.png"
-name= Vox url= "plugin://plugin.video.tvnow.de?action=playLive&vod_url=3427557" logo= "https://upload.wikimedia.org/wikipedia/de/a/ac/VOX_Logo.png"
-name= Vox UP url= "plugin://plugin.video.tvnow.de?action=playLive&vod_url=3665919" logo= "http://sgkodi.de/TV/logo/de/vox_up.png"
+name= RTL HD url= "plugin://script.module.limitless-swiftstreamz/play/26/1289/play.pvr" logo= "https://upload.wikimedia.org/wikipedia/commons/3/3a/RTL_Logo_ab_dem_1._September_2017.png"
+name= DISNEY CHANNEL DE url= "plugin://script.module.limitless-swiftstreamz/play/26/1328/play.pvr" logo= "https://upload.wikimedia.org/wikipedia/de/0/03/Disney-Channel-Logo-2014.png"
+name= RTL Crime url= "plugin://script.module.limitless-swiftstreamz/play/26/1294/play.pvr" logo= "http://sgkodi.de/TV/logo/de/rtl_crime_hd.png"
+name= RTL2 HD url= "plugin://script.module.limitless-swiftstreamz/play/26/1290/play.pvr" logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/1200px-RTLZWEI_Logo_2019.svg.png"
+name= Vox url= "plugin://script.module.limitless-swiftstreamz/play/26/1304/play.pvr" logo= "https://upload.wikimedia.org/wikipedia/de/a/ac/VOX_Logo.png"
+name= ZEE ONE url= "plugin://script.module.limitless-swiftstreamz/play/26/1771/play.pvr" logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Zee_One_Logo_2015.png/220px-Zee_One_Logo_2015.png"
 name= N24DOKU url= "plugin://plugin.video.joyn/?video_id=n24-de&stream_type=LIVE&mode=play_video" logo= "http://sgkodi.de/TV/logo/de/n24_doku.png"
 name= WeltTV url= "plugin://plugin.video.joyn/?video_id=n24-de&stream_type=LIVE&mode=play_video" logo= "http://sgkodi.de/TV/logo/de/welt_hd.png"
-name= SuperRTL url= "plugin://plugin.video.tvnow.de?action=playLive&vod_url=3398253" logo= "https://i.ytimg.com/vi/x_mDRmv5Sqw/maxresdefault.jpg"
-name= RTLNitro HD url= plugin://plugin.video.tvnow.de?action=playLive&vod_url=3398069" logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/RTL_Nitro_logo.svg/2000px-RTL_Nitro_logo.svg.png"
+name= SuperRTL url= "plugin://script.module.limitless-swiftstreamz/play/26/1291/play.pvr" logo= "https://i.ytimg.com/vi/x_mDRmv5Sqw/maxresdefault.jpg"
+name= RTLNitro HD url= "plugin://script.module.limitless-swiftstreamz/play/26/1292/play.pvr" logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/RTL_Nitro_logo.svg/2000px-RTL_Nitro_logo.svg.png"
 name= Pro7 HD url= "plugin://plugin.video.joyn/?video_id=prosieben-de&stream_type=LIVE&mode=play_video" logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ProSieben_Logo_2015.svg/1200px-ProSieben_Logo_2015.svg.png"
 name= Kabel1 url= "plugin://plugin.video.joyn/?video_id=kabeleins-de&stream_type=LIVE&mode=play_video" logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Kabel_eins_Logo_2015.svg/1200px-Kabel_eins_Logo_2015.svg.png"
 name= Sat1 url= "plugin://plugin.video.joyn/?video_id=sat1-de&stream_type=LIVE&mode=play_video" logo= "https://upload.wikimedia.org/wikipedia/commons/f/f8/Neues_Sat._1_Logo_transparent.png"
@@ -26,7 +26,7 @@ name= 3Sat url= "https://zdfhls18-i.akamaihd.net/hls/live/744751/dach/high/maste
 name= K1CLA url= "plugin://plugin.video.joyn/?movie_id=&amp;block_id=&amp;tv_show_id=&amp;stream_type=LIVE&amp;season_id=&amp;client_data=%7B%22genre%22%3A+%5B%5D%2C+%22brand%22%3A+%22%22%2C+%22channelId%22%3A+%22kabeleinsclassics-de-hd%22%2C+%22videoId%22%3A+null%2C+%22startTime%22%3A+0%7D&amp;compilation_id=&amp;title=%5BB%5DKabel+Eins+CLASSICS+HD%5B%2FB%5D+-+The+Snow+Walker+-+Wettlauf+mit+dem+Tod&amp;fav_type=&amp;video_id=kabeleinsclassics-de-
 hd&amp;channel_id=&amp;mode=play_video" logo= "http://sgkodi.de/TV/logo/de/kabel1_classics_hd.png"
 name= MTV url= "https://unilivemtveu-lh.akamaihd.net/i/mtvde_1@134922/index_3500_av-p.m3u8" logo= "http://sgkodi.de/TV/logo/de/mtv_hd.png"
-name= Kika url= "http://185.254.160.4:8000/play/a00j/index.m3u8" logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Kika_2012.svg/1200px-Kika_2012.svg.png"
+name= Kika url= "plugin://plugin.video.joyn/?movie_id=&amp;block_id=&amp;tv_show_id=&amp;stream_type=LIVE&amp;season_id=&amp;client_data=%7B%22genre%22%3A+%5B%5D%2C+%22brand%22%3A+%22%22%2C+%22channelId%22%3A+%22kika-de-hd%22%2C+%22videoId%22%3A+null%2C+%22startTime%22%3A+0%7D&amp;viewtype=&amp;compilation_id=&amp;title=%5BB%5DKiKA+HD%5B%2FB%5D+-+Die+H%C3%A4schenschule&amp;fav_type=&amp;video_id=kika-de-hd&amp;channel_id=&amp;mode=play_video&amp;channel_path=" logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Kika_2012.svg/1200px-Kika_2012.svg.png"
 
 
 
