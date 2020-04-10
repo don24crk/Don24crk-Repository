@@ -5,7 +5,7 @@ name= RTL2 HD url= "plugin://script.module.limitless-swiftstreamz/play/26/1290/p
 name= Vox url= "plugin://script.module.limitless-swiftstreamz/play/26/1304/play.pvr" logo= "https://upload.wikimedia.org/wikipedia/de/a/ac/VOX_Logo.png"
 name= ZEE ONE url= "plugin://script.module.limitless-swiftstreamz/play/26/1771/play.pvr" logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Zee_One_Logo_2015.png/220px-Zee_One_Logo_2015.png"
 name= N24DOKU url= "plugin://plugin.video.joyn/?video_id=n24-de&stream_type=LIVE&mode=play_video" logo= "http://sgkodi.de/TV/logo/de/n24_doku.png"
-name= WeltTV url= "plugin://plugin.video.joyn/?video_id=n24-de&stream_type=LIVE&mode=play_video" logo= "http://sgkodi.de/TV/logo/de/welt_hd.png"
+name= WeltTV url= "http://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/index_1_av-b.m3u8" logo= "http://sgkodi.de/TV/logo/de/welt_hd.png"
 name= SuperRTL url= "plugin://script.module.limitless-swiftstreamz/play/26/1291/play.pvr" logo= "https://i.ytimg.com/vi/x_mDRmv5Sqw/maxresdefault.jpg"
 name= RTLNitro HD url= "plugin://script.module.limitless-swiftstreamz/play/26/1292/play.pvr" logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/RTL_Nitro_logo.svg/2000px-RTL_Nitro_logo.svg.png"
 name= Pro7 HD url= "plugin://plugin.video.joyn/?video_id=prosieben-de&stream_type=LIVE&mode=play_video" logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ProSieben_Logo_2015.svg/1200px-ProSieben_Logo_2015.svg.png"
