@@ -1,27 +1,29 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="GREEK WORLD RADIO" tvg-id="GREEK WORLD RADIO" group-title="GREEK WORLD RADIO" 
+#EXTINF:1, GREEK WORLD RADIO 
 https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://5.189.142.165:8140/listen.pls?sid=1&t=.m3u
-#EXTINF:-1 tvg-name="Sohos FM 88.7" tvg-id="Sohos FM 88.7" group-title="Sohos FM 88.7" 
+#EXTINF:1, Sohos FM 88.7
 https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://37.59.32.115:2046/listen.pls?sid=1&t=.m3u
-#EXTINF:-1 tvg-name="RADIO PIERIA" tvg-id="RADIO PIERIA" group-title="RADIO PIERIA" 
+#EXTINF:1, RADIO PIERIA 
 https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://s6.onweb.gr:8018/listen.pls&t=.m3u
-#EXTINF:-1 tvg-name="Radio Play 91.5 Fm Stereo (Gr Xanthi)" tvg-id="Radio Play 91.5 Fm Stereo (Gr Xanthi)" group-title="Radio Play 91.5 Fm Stereo (Gr Xanthi)" 
+#EXTINF:1, Radio Play 91.5 Fm Stereo (Gr Xanthi) 
 https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://s6.onweb.gr:8058/listen.pls&t=.pls
-#EXTINF:-1 tvg-name="RADIO PHLIO 93.4 VOLOS" tvg-id="RADIO PHLIO 93.4 VOLOS" group-title="RADIO PHLIO 93.4 VOLOS" 
+#EXTINF:1, RADIO PHLIO 93.4 VOLOS 
 https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://87.98.216.129:4060/listen.pls?sid=1&t=.m3u
-#EXTINF:-1 tvg-name="www.269fm.com" tvg-id="www.269fm.com" group-title="www.269fm.com" 
+#EXTINF:1, www.269fm.com
 https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://176.9.123.140:8006/listen.pls?sid=1&t=.m3u
-#EXTINF:-1 tvg-name="GR LAIKA" tvg-id="GR LAIKA" group-title="GR LAIKA" 
+#EXTINF:1, GR LAIKA
 https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://111.gr:8078/listen.pls?sid=1&t=.m3u
-#EXTINF:-1 tvg-name="RADIO LEHOVO 971 GREECE" tvg-id="RADIO LEHOVO 971 GREECE" group-title="RADIO LEHOVO 971 GREECE" 
+#EXTINF:1, RADIO LEHOVO 971 GREECE
 https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://s4.onweb.gr:8468/listen.pls&t=.m3u
-#EXTINF:-1 tvg-name="ELLINIKI RADIOFONIA MANA ELLADA" tvg-id="ELLINIKI RADIOFONIA MANA ELLADA" group-title="ELLINIKI RADIOFONIA MANA ELLADA" 
+#EXTINF:1, ELLINIKI RADIOFONIA MANA ELLADA 
 https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://95.217.48.54:9066/listen.pls?sid=1&t=.m3u
-#EXTINF:-1 tvg-name="STOXOS FM 99" tvg-id="STOXOS FM 99" group-title="STOXOS FM 99" 
+#EXTINF:1, STOXOS FM 99
 https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://s3.onweb.gr:8016/listen.pls&t=.m3u
-#EXTINF:-1 tvg-name="GR Ellinikos" tvg-id="GR Ellinikos" group-title="GR Ellinikos" 
+#EXTINF:1, GR Ellinikos
 https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://94.130.40.158:8060/listen.pls?sid=1&t=.m3u
-#EXTINF:-1 tvg-name="FASARIAWEBRADIO-HELLAS" tvg-id="FASARIAWEBRADIO-HELLAS" group-title="FASARIAWEBRADIO-HELLAS" 
+#EXTINF:1, FASARIAWEBRADIO-HELLAS
 https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://94.130.40.158:8060/listen.pls?sid=1&t=.m3u
-#EXTINF:-1 tvg-name="skai 103.fm" tvg-id="skai 103.fm" group-title="skai 103.fm" 
+#EXTINF:1, skai 103.fm
 http://liveradio.skai.gr/skaihd/skai/playlist.m3u8
+#EXTINF:1, Thessaloniki fm
+http://eu7.fastcast4u.com:6156/stream?type=http&nocache=68243
