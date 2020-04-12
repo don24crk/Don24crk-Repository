@@ -1,28 +1,28 @@
 #EXTM3U
-#EXTINF:1, GREEK WORLD RADIO 
-https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://5.189.142.165:8140/listen.pls?sid=1&t=.m3u
-#EXTINF:1, Sohos FM 88.7
-https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://37.59.32.115:2046/listen.pls?sid=1&t=.m3u
-#EXTINF:1, RADIO PIERIA 
-https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://s6.onweb.gr:8018/listen.pls&t=.m3u
-#EXTINF:1, Radio Play 91.5 Fm Stereo (Gr Xanthi) 
-https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://s6.onweb.gr:8058/listen.pls&t=.pls
-#EXTINF:1, RADIO PHLIO 93.4 VOLOS 
-https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://87.98.216.129:4060/listen.pls?sid=1&t=.m3u
-#EXTINF:1, www.269fm.com
-https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://176.9.123.140:8006/listen.pls?sid=1&t=.m3u
-#EXTINF:1, GR LAIKA
-https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://111.gr:8078/listen.pls?sid=1&t=.m3u
-#EXTINF:1, RADIO LEHOVO 971 GREECE
-https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://s4.onweb.gr:8468/listen.pls&t=.m3u
-#EXTINF:1, ELLINIKI RADIOFONIA MANA ELLADA 
-https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://95.217.48.54:9066/listen.pls?sid=1&t=.m3u
-#EXTINF:1, STOXOS FM 99
-https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://s3.onweb.gr:8016/listen.pls&t=.m3u
-#EXTINF:1, GR Ellinikos
-https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://94.130.40.158:8060/listen.pls?sid=1&t=.m3u
-#EXTINF:1, FASARIAWEBRADIO-HELLAS
-https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://94.130.40.158:8060/listen.pls?sid=1&t=.m3u
+#EXTINF:1, lampsi radio
+http://lampsifmlive.mdc.akamaized.net/strmLampsi/userLampsi/playlist.m3u8
+#EXTINF:1, enlefko fm
+https://stream.radiojar.com/enlefko877
+#EXTINF:1, melodia 99.2 
+https://stream.radiojar.com/melodia992
+#EXTINF:1, Galaxy FM
+http://galaxy.live24.gr/galaxy9292
+#EXTINF:1, ΕΛΛΗΝΑΔΙΚΟ FM 
+http://ellinadikofm.gr:8020/;stream/1
+#EXTINF:1, Kiss FM
+http://kissfm.live24.gr/kissfmathens
+#EXTINF:1, kalamariafm.gr
+http://sc.greekstream.net/;.mp3
+#EXTINF:1, Music 89.2
+http://stream.radiojar.com/k0hua7u1yk5tv
+#EXTINF:1, Antenna Νότιας Ελλάδας 97.2
+http://eco.onestreaming.com:8510/;
+#EXTINF:1, Radio Enosi
+http://live.ellinikos.gr:8010/973.mp3
+#EXTINF:1, 96.5 FM
+http://jayradio.eu:9972/;
+#EXTINF:1, Κοσμοράδιο
+https://cosmoradio.gr/stream1
 #EXTINF:1, skai 103.fm
 http://liveradio.skai.gr/skaihd/skai/playlist.m3u8
 #EXTINF:1, Thessaloniki fm
