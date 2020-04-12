@@ -1,0 +1,34 @@
+name= Chilling Adventures of Sabrina Kapitel eins: Familientreffen url= "https://virgo.nxload.com/hls/5QgliNtMIfdkMrhzMayi6R-oc8oK1sqQuD2laYS5JvePj0lihhzObO9RNKWkPzAkEhQli7BWLywqoeYHTj9vt4l0wRTlFL01Fc9hXGpxu5,,.urlset/master.m3u8" logo= "https://m.media-amazon.com/images/M/MV5BNDJjYzk0ZTktNzQ1ZC00MmQ0LTk1NTYtNmMwMGE4NDM5ZjAyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg"
+name= Chilling Adventures of Sabrina Kapitel zwei: Die satanische Taufe url= "https://aurora.nxload.com/hls/7S9azBztmmbtk7Y7KvYCMM-3D3tmIGA6tsOXhrNpUZ8qFXpH2MiNj1iG6A9u8MEnexYNOrmGv6nprZ7iz30Xmo8m8oH1bePRJXE8LMJ3mYU,,.urlset/master.m3u8" logo= "https://m.media-amazon.com/images/M/MV5BNDJjYzk0ZTktNzQ1ZC00MmQ0LTk1NTYtNmMwMGE4NDM5ZjAyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg"
+name= Chilling Adventures of Sabrina Kapitel drei: Die Anhörung der Sabrina Spellman url= "https://virgo.nxload.com/hls/5S7ciJL1AZke3oyHu1ayxz-2QvRcdy9VebtEm45eKBHHc6K6j3xF9SEXHiG5MWFfU9kI6ZqQ98VHd5g5m2gLl44ERH2zeaamjGfrZJtwKm5,,.urlset/master.m3u8" logo= "https://m.media-amazon.com/images/M/MV5BNDJjYzk0ZTktNzQ1ZC00MmQ0LTk1NTYtNmMwMGE4NDM5ZjAyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg"
+name= Chilling Adventures of Sabrina Kapitel Kapitel vier: Hexenakademie url= "https://chromite.nxload.com/hls/5GSXzgqecQ9oGoaaE8Z7wr-3CXtXB7tAcxVeUysBvh13FAxSzQ0EgaSSpaBfYSIBW1WD4wRCJEf4dSpz9hmQSMqanC0kKsl8D6xs2xErDRw,,.urlset/master.m3u8" logo= "https://m.media-amazon.com/images/M/MV5BNDJjYzk0ZTktNzQ1ZC00MmQ0LTk1NTYtNmMwMGE4NDM5ZjAyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg"
+name= Chilling Adventures of Sabrina Kapitel fünf: Träume im Hexenhaus url= "https://virgo.nxload.com/hls/4QByXVGkQWl4h405H8Lc4M-2WsXHRXEYyJ8xKPnDQX8ZmjdsMl3spZzgAsMmItJYMukQ91YPpwLP3cEDNyT7IfVF9GvDLUPXMjrIrQv6qC4,,.urlset/master.m3u8" logo= "https://m.media-amazon.com/images/M/MV5BNDJjYzk0ZTktNzQ1ZC00MmQ0LTk1NTYtNmMwMGE4NDM5ZjAyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg"
+name= Chilling Adventures of Sabrina Kapitel sechs: Ein Exorzismus in Greendale url= "https://virgo.nxload.com/hls/grzpmehWbbbz8qnzA5wuV-2yTjX0B92JvhwGb6gjbgcYh2TUKKHvtXxstWalw3Mt9viAPDtll0UBLDDJ6V3QnmOvqKscWX7L98pMa3h2n3,,.urlset/master.m3u8" logo= "https://m.media-amazon.com/images/M/MV5BNDJjYzk0ZTktNzQ1ZC00MmQ0LTk1NTYtNmMwMGE4NDM5ZjAyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg"
+name= Chilling Adventures of Sabrina Kapitel sieben: Fest des Festmahls url= "https://virgo.nxload.com/hls/2ewo3BAHATfiCKEkz6xzcR-2NKeYuwuGwJE2U7bvblUhDfqn5ryILmGdCk5X45tTlqUMO6GwMuKAWOEOLTOEWWjOBMO7zvkewgLuKpmNGr0,,.urlset/master.m3u8" logo= "https://m.media-amazon.com/images/M/MV5BNDJjYzk0ZTktNzQ1ZC00MmQ0LTk1NTYtNmMwMGE4NDM5ZjAyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg"
+name= Chilling Adventures of Sabrina Kapitel acht: Die Beerdigung  url= "https://virgo.nxload.com/hls/2kwu2IrCoiezEgokCtQdIz-1cX3NgbGEmN4RGDzJPeUMn3SF7elVT7PB4xpKvBY0fGzV1OfPIwPjpnlAELFRb0LuVb9DJNbhBPBKlPgb65U,,.urlset/master.m3u8" logo= "https://m.media-amazon.com/images/M/MV5BNDJjYzk0ZTktNzQ1ZC00MmQ0LTk1NTYtNmMwMGE4NDM5ZjAyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg"
+name= Chilling Adventures of Sabrina Kapitel neun: Der zurückgekehrte Mann url= "https://aurora.nxload.com/hls/57eqgXqBVR87mEP67xQr1s-30llG3nKh4CELjVuxkmwJrgrZd002nHOIZxHtKXyEPUkzxHcOEH3xxKYi53FCrmxfl2ppLoGfVYyNm326n8O,,.urlset/master.m3u8" logo= "https://m.media-amazon.com/images/M/MV5BNDJjYzk0ZTktNzQ1ZC00MmQ0LTk1NTYtNmMwMGE4NDM5ZjAyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg"
+name= Chilling Adventures of Sabrina Kapitel zehn: Hexenstunde url= "https://aurora.nxload.com/hls/57eqgXqBVR87mEP67xQr1s-30llG3nKh4CELjVuxkmwJrgrZd002nHOIZxHtKXyEPUkzxHcOEH3xxKYi53FCrmxfl2ppLoGfVYyNm326n8O,,.urlset/master.m3u8" logo= "https://m.media-amazon.com/images/M/MV5BNDJjYzk0ZTktNzQ1ZC00MmQ0LTk1NTYtNmMwMGE4NDM5ZjAyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
