@@ -6,4 +6,7 @@ name= Knives Out - Mord ist Familiensache url= "https://draco.nxload.com/hls/1HL
 name= Ready or Not url= "https://cassiopeia.nxload.com/hls/3cGeUnQLRN3Zny5mM1tcDE-3OxPfgdTb0RcspUW3MpDqsYV8K2DMEI6iOmERi0UVDPNIn8jXVtCDU010Xvip54govQxNxWAzMGt27SOjIwW,,.urlset/master.m3u8" logo= "https://bilder.bild.de/fotos/sehen-sie-den-trailer-zu-ready-or-not-64779096/Bild/1.bild.jpg"
 name= Jumanji: The Next Level url= "https://blackeye.nxload.com/hls/5aK3mSCnH0ziggWAkOIvQO-ey695nP9vBM8XyTIDtBZfnDuKgLBLvuUsGRYOjmASeknrBPbIgubiMTalY1bPf12aSc9WulCCg0R75UgJAJ,,.urlset/master.m3u8" logo= "https://www.movienewsletters.net/media/slider/1200x444/275172.jpg"
 name= 3 from Hell url= "https://virgo.nxload.com/hls/4HAcY00EyL1uohOxlzw9VF-2u6YjdqMHas6X4uf4aj72y9RCihLFPzPqTB50VpA02P2CaRHqckdBut4tixsHOTfnYKe1gP67n4fIiWxd8lK,,.urlset/master.m3u8" logo= "https://www.filme.de/wp-content/uploads/2019/11/3-from-hell-review-artikelbild.jpg"
+"https://www.movienewsletters.net/media/slider/1200x444/275172.jpg"
+name= Bushido - Zeiten ändern sich url= "https://archive.org/download/BushidoZeitenAendernDich/Bushido%20-%20Zeiten%20%C3%A4ndern%20dich.mp4" logo= "https://images-na.ssl-images-amazon.com/images/I/91F-UqJH4PL._RI_.jpg"
+
 
