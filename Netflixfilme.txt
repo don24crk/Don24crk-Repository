@@ -9,3 +9,10 @@ name= Tig url= "https://blackeye.nxload.com/hls/2peEf12RWTNgWAQ25ZqLal-3O4GkXHsT
 name= Die zwei Päpste url= "https://chromite.nxload.com/hls/7lgrIObqLIgxYkM6Jtsxur-gLc18Jn8MinZmCGYpIzMKfaClNMhmNiiXF5yjHhlyqkyOWPaNf0XBXPHd87Aczlpeza5U69kbdPFDkoyDfH,,.urlset/master.m3u8" logo= "https://cf.katholisch.de/two_popes_netflix.jpg"
 name= Fractured url= "https://chromite.nxload.com/hls/31B3HX1w31Ni7P94EumB2e-Mb6S2FBla3ZVWcRf3frVRZ5jtZsIqWe6IbPQrm9jvB3B232tjx41s,kxtHhGgvhAnbysaA5wtDvrHe3GZoOR,HDyTxv9XAMw7MjiAB74Lw2IC81vJ0d,.urlset/master.m3u8" logo= "https://occ-0-2773-2774.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABW1yyGD82CRWWs4tqsb2G_F2BwDUfTzCWqrV5M2nW1ECWLw_GnnUQ1ylOEVHECneToC3bAP5ahrtZtHDsaLyAt9W47XrkHrTmvbhbht0UMnYfneXOPqS8n1KFSyI.jpg?r=7a2"
 name= Die Geldwäscherei url= "https://valhalla.nxload.com/hls/qd0wHeqN9aLJeRNiHwawN-yDPmWypuk2JdPBXV3cfwOWPrSeg95lCOoBsJn9swW886UORkrLQF,AvlWehxGJ3rvUv6mfmMmyG80LbaUZL,0eQFxO4rJ0hcFHYuE7OBKZJJoZT2DX,.urlset/master.m3u8" logo= "https://detektor.fm/wp-content/uploads/2019/10/the-laundromatnetflix.jpg"
+name= Passengers url= "https://virgo.nxload.com/hls/7JjyIdJjFoGIQbR5gLYata-Hl3SGA22TVpi0KU2NjAy0U4stSd1keMCkMxbZoZDCUHVcUxjqO5XNCFFveLDOisTQ5rIxkDJvAVyPOvxCi,,.urlset/master.m3u8" logo= "https://de.web.img3.acsta.net/pictures/16/11/16/11/26/015592.jpg"
+name= A Quiet Place url= "https://blackeye.nxload.com/hls/2962gxebaITEfsxecj0RqJ-2Kv77rhDcqE9yBo7nVJRY4OfG2vgyGY2tH6lp5U7TFSStLnbQZLJpXLpnQzSDsmhiYBDo8KQ8lJC0bFbzl,,.urlset/master.m3u8" logo= "https://de.web.img2.acsta.net/pictures/18/02/15/11/26/3778033.jpg"
+name= The Big Sick url= "https://virgo.nxload.com/hls/FiprbHPuamfNOTPS4Ehpb-mCecC1BXgqm0pXvOiVdfchnpYjUjFAPS4aCEpDzUY7q54dfzUqlFR2DjZgmKjjLnuudoEKAZi6HwJY87HK,,.urlset/master.m3u8" logo= "https://images-na.ssl-images-amazon.com/images/I/91tlYtlgTDL._SY355_.jpg"
+name= HERRliche Zeiten url= "https://aurora.nxload.com/hls/5XSQvp967Rb17PzV86Tt7J-WHAZQmrsyuXLJWNFUErHtR8VvJmJq8ZHzLyHYbe32xbwLvHjN8sJO1NmP0fueEjZy2EJjNVvivq78N8tiT,,.urlset/master.m3u8" logo= "https://de.web.img3.acsta.net/pictures/18/03/22/16/45/2049633.jpg"
+
+
+
