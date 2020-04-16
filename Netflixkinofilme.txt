@@ -10,7 +10,7 @@ name= 3 from Hell url= "https://virgo.nxload.com/hls/4HAcY00EyL1uohOxlzw9VF-2u6Y
 name= Bushido - Zeiten ändern sich url= "https://archive.org/download/BushidoZeitenAendernDich/Bushido%20-%20Zeiten%20%C3%A4ndern%20dich.mp4" logo= "https://images-na.ssl-images-amazon.com/images/I/91F-UqJH4PL._RI_.jpg"
 name= Mega Monster Movie url= "https://tadpole.nxload.com/hls/3ZQwqdFctTXGjSsBzP134e-TgnWVLrXrXCi0CT2MXoKjsoFZc1Ulpb0DVeYsKTb7wpP9P216Q3bae77QUbkENdsuYjFpAxleivzw9iO20,,.urlset/master.m3u8" logo= "https://images.justwatch.com/backdrop/11139396/s1440/Mega-Monster-Movie"
 name= Superhero Movie url= "https://cassiopeia.nxload.com/hls/43OoqjVyxSWwh8KACcPBil-Df5G1Pv9qHEsrH7CjJoaYm1eNXM9poLb4FvuIvaBi4DNilp7MZHZrrtyHVsbM3G89IWpXVITqUHKvcdj3j,,.urlset/master.m3u8" logo= "https://m.media-amazon.com/images/S/aiv-image/jp/universum-UNIVERSUMFILM_SUPERHEROMOVIE_AMAZON-Full-Image-de-DE-bb412a22-92fb-4864-b5d1-33862c30d251_RGB_SD._SX342_SY600_.jpg"
-name= American Pie: Wie ein Heisser Apfelkuchen url= "https://nlw06.hlssrv.com/hls_serve/gxiMRaHipECZapSh7ea3XA/1587060703/xpvZ3XCl1RbIcI7MIILT/pl2.m3u8" logo= "https://www.fairmondo.de/system/images/008/432/157/original/video_140021.jpg?1492381340"
+name= American Pie: Wie ein Heisser Apfelkuchen url= "https://s-delivery12.mxdcontent.net/v/ae0e7abfdf037c54b1261857600a15ef.mp4?s=Ckv2F0FGdfYLArFKs7EhLg&e=1587090859" logo= "https://www.fairmondo.de/system/images/008/432/157/original/video_140021.jpg?1492381340"
 name= Party Animals... Wilder geht's nicht! url= "https://chromite.nxload.com/hls/2Yjl1v3hfnDR5M5QCgUYcP-dsiy0FWYcnVE7dwOhyq1YduwK6xICm0x7L2N6rgzwIfLG7xjty910wFXh6DAuuTZ5Am3RfY0gzfsTcpwf4,,.urlset/master.m3u8" logo= "https://www.constantin-film.de/uploads/2019/05/party-animals-420x594.jpg?v=1576774115"
 
 
