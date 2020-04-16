@@ -12,6 +12,8 @@ name= Mega Monster Movie url= "https://tadpole.nxload.com/hls/3ZQwqdFctTXGjSsBzP
 name= Superhero Movie url= "https://cassiopeia.nxload.com/hls/43OoqjVyxSWwh8KACcPBil-Df5G1Pv9qHEsrH7CjJoaYm1eNXM9poLb4FvuIvaBi4DNilp7MZHZrrtyHVsbM3G89IWpXVITqUHKvcdj3j,,.urlset/master.m3u8" logo= "https://m.media-amazon.com/images/S/aiv-image/jp/universum-UNIVERSUMFILM_SUPERHEROMOVIE_AMAZON-Full-Image-de-DE-bb412a22-92fb-4864-b5d1-33862c30d251_RGB_SD._SX342_SY600_.jpg"
 name= American Pie: Wie ein Heisser Apfelkuchen url= "https://s-delivery12.mxdcontent.net/v/ae0e7abfdf037c54b1261857600a15ef.mp4?s=Ckv2F0FGdfYLArFKs7EhLg&e=1587090859" logo= "https://www.fairmondo.de/system/images/008/432/157/original/video_140021.jpg?1492381340"
 name= Party Animals... Wilder geht's nicht! url= "https://chromite.nxload.com/hls/2Yjl1v3hfnDR5M5QCgUYcP-dsiy0FWYcnVE7dwOhyq1YduwK6xICm0x7L2N6rgzwIfLG7xjty910wFXh6DAuuTZ5Am3RfY0gzfsTcpwf4,,.urlset/master.m3u8" logo= "https://www.constantin-film.de/uploads/2019/05/party-animals-420x594.jpg?v=1576774115"
+name= Coyote Ugly url= "https://s-delivery21.mxdcontent.net/v/db8745270ccf587e3456dc125442f569.mp4?s=UA_wmEu3CTMZFaQ097p8tg&e=1587091141" logo= "https://media1.jpc.de/image/w600/front/0/8717418150860.jpg"
+
 
 
 
