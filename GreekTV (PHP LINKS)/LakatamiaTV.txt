@@ -1,11 +1,7 @@
-#EXTINF:0 group-title="Ert1",Ert1
-https://raw.githubusercontent.com/don24crk/Don24crk-Repository/master/GreekTV%20(PHP%20LINKS)/Ert1.php
-#EXTINF:0 group-title="Ert2",Ert2
-https://raw.githubusercontent.com/don24crk/Don24crk-Repository/master/GreekTV%20(PHP%20LINKS)/Ert2.php
-#EXTINF:0 group-title="Ert3",Ert3
-https://raw.githubusercontent.com/don24crk/Don24crk-Repository/master/GreekTV%20(PHP%20LINKS)/Ert3.php
-#EXTINF:0 group-title="Ertworld",Ertworld
-https://raw.githubusercontent.com/don24crk/Don24crk-Repository/master/GreekTV%20(PHP%20LINKS)/Ertworld.html
+name= Ert1 url= " https://raw.githubusercontent.com/don24crk/Don24crk-Repository/master/GreekTV%20(PHP%20LINKS)/Ert1.php"   logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/EPT1_logo_%282015%29.svg/1200px-EPT1_logo_%282015%29.svg.png" fanart= "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/EPT1_logo_%282015%29.svg/1200px-EPT1_logo_%282015%29.svg.png"
+name= Ert2 url= " https://raw.githubusercontent.com/don24crk/Don24crk-Repository/master/GreekTV%20(PHP%20LINKS)/Ert2.php"   logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/EPT2_logo_%282015%29.svg/1200px-EPT2_logo_%282015%29.svg.png" fanart= "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/EPT2_logo_%282015%29.svg/1200px-EPT2_logo_%282015%29.svg.png"
+name= Ert3 url= " https://raw.githubusercontent.com/don24crk/Don24crk-Repository/master/GreekTV%20(PHP%20LINKS)/Ert3.php"   logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/EPT3_logo_%282015%29.svg/1200px-EPT3_logo_%282015%29.svg.png" fanart= "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/EPT3_logo_%282015%29.svg/1200px-EPT3_logo_%282015%29.svg.png"
+name= Ertworld url= " https://raw.githubusercontent.com/don24crk/Don24crk-Repository/master/GreekTV%20(PHP%20LINKS)/Ertworld.php"   logo= "https://upload.wikimedia.org/wikipedia/en/thumb/9/93/ERT_World.svg/1200px-ERT_World.svg.png" fanart= "https://upload.wikimedia.org/wikipedia/en/thumb/9/93/ERT_World.svg/1200px-ERT_World.svg.png"
 #EXTINF:0 group-title="Ant1",Ant1
 https://raw.githubusercontent.com/don24crk/Don24crk-Repository/master/GreekTV%20(PHP%20LINKS)/Ant1.html
 #EXTINF:0 group-title="Star",Star
