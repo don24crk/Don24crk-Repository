@@ -1,5 +1,0 @@
-#EXTM3U
-#EXTINF:0 group-title="Ert1",National Channel
-http://url.to.your.personal.webserver/bbcnews.php
-#EXTINF:0 group-title="News",CNN
-http://url.to.your.personal.webserver/cnn.php
