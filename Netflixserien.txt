@@ -24,6 +24,37 @@ name= Die Goldbergs Staffel 7 Verbindungsbrüder url= "https://cassiopeia.nxload
 name= Die Goldbergs Staffel 7 Junge Liebe  url= "https://blackeye.nxload.com/hls/4hWjtdsou0s4awOppTCiXY-2deL97mUMyNHg86AW0UuiUw3M15P4dBvO0nf42a9a9ZCRzTHZgA1UB0tiMsBJJAdQxeXpYf2ZPALEjGzFld0,,.urlset/master.m3u8" logo= "https://i.ytimg.com/vi/93o8y1tMiAc/maxresdefault.jpg"
 name= Die Goldbergs Staffel 7 Rocky Horror-Halloween  url= "https://blackeye.nxload.com/hls/7AltRTFfMvXUkatA0MrRSM-8ftoFsmVKoaA5VFbzJJtU9lmGZyDTzCyeCGW4VsRmXhr2jIV1zllEKtRnIqWr75edihoAwUiDa1EpTOYFb8,,.urlset/master.m3u8" logo= "https://i.ytimg.com/vi/93o8y1tMiAc/maxresdefault.jpg"
 name= Die Goldbergs Staffel 7 Die Nachbarschaftswache  url= "https://blackeye.nxload.com/hls/7AltRTFfMvXUkatA0MrRSM-8ftoFsmVKoaA5VFbzJJtU9lmGZyDTzCyeCGW4VsRmXhr2jIV1zllEKtRnIqWr75edihoAwUiDa1EpTOYFb8,,.urlset/master.m3u8" logo= "https://i.ytimg.com/vi/93o8y1tMiAc/maxresdefault.jpg"
+name= Die Conners Einfach weitermachen  url= "https://delivery-node-masruq.voe-network.net/a4l7ooloejls5mwfufocdtfrpjxbm6bgmnpjwsw2l5luif2wboz5fj26dy3q/v.mp4" logo= "https://images-na.ssl-images-amazon.com/images/I/91afdMFh9CL._RI_.jpg"
+name= Die Conners Tangled Up In Blue  url= "https://delivery-node-minnah.voe-network.net/a4l7optoejls5mwfufocdsfwmbo5slnlo4bmcwtffxr3achkul7sbscjr45a/v.mp4" logo= "https://images-na.ssl-images-amazon.com/images/I/91afdMFh9CL._RI_.jpg"
+name= Die Conners Halloween politisch korrekt  url= "https://delivery-node-masruq.voe-network.net/a4l7p7laejls5mwfufocdxpbpizw4znnw4dqh6stpgrhfbfoiv5zsmmkmd7q/v.mp4" logo= "https://images-na.ssl-images-amazon.com/images/I/91afdMFh9CL._RI_.jpg"
+name= Die Conners Trauerarbeit  url= "https://delivery-node-minnah.voe-network.net/a4l7op3oejls5mwfufocdhxcgmmzbkffapbyojfy5bq4ffr35kxjpgukbs4q/v.mp4" logo= "https://images-na.ssl-images-amazon.com/images/I/91afdMFh9CL._RI_.jpg"
+name= Die Conners Wunder  url= "https://delivery-node-habbab.voe-network.net/a4l7opdoejls5mwfufocdrxgmajv6qkd6j57es4dty3mtktluosoi67vserq/v.mp4" logo= "https://images-na.ssl-images-amazon.com/images/I/91afdMFh9CL._RI_.jpg"
+name= Die Conners Verantwortung  url= "https://delivery-node-habbab.voe-network.net/a4l7om3oejls5mwfufocdwnwomlcpssjkvh35zpu4n4o2kfce3qmutnuml7a/v.mp4" logo= "https://images-na.ssl-images-amazon.com/images/I/91afdMFh9CL._RI_.jpg"
+name= Die Conners Alphatiere  url= "https://delivery-node-masruq.voe-network.net/a4l7oploejls5mwfufocdh5fgj7nc2777d5gjcuax7dnxwbvqzu4e5vx7ywq/v.mp4" logo= "https://images-na.ssl-images-amazon.com/images/I/91afdMFh9CL._RI_.jpg"
+name= Die Conners Schwesterherzen  url= "https://delivery-node-habbab.voe-network.net/a4l7omloejls5mwfufocdqxgnundf3o4ok4nl53ucuep4nevyyqrqt6zedrq/v.mp4" logo= "https://images-na.ssl-images-amazon.com/images/I/91afdMFh9CL._RI_.jpg"
+name= Die Conners Schmerzensgeld  url= "https://delivery-node-masruq.voe-network.net/a4l7ontoejls5mwfufocde5tgptgwgcqncvdkorpk4qh7oifrjbyrtp56jxa/v.mp4" logo= "https://images-na.ssl-images-amazon.com/images/I/91afdMFh9CL._RI_.jpg"
+name= Die Conners Vaterfreuden  url= "https://delivery-node-habbab.voe-network.net/a4l7on3oejls5mwfufocdxvkh37xutmwnui7zkzrmq57jpwpbcle7rjw2dnq/v.mp4" logo= "https://images-na.ssl-images-amazon.com/images/I/91afdMFh9CL._RI_.jpg"
+name= Die Conners Wir machen weiter  url= "https://delivery-node-minnah.voe-network.net/a4l7ondoejls5mwfufocdev2m3uzia5ounq7zcpanwbuggol4m43uj3bztga/v.mp4" logo= "https://images-na.ssl-images-amazon.com/images/I/91afdMFh9CL._RI_.jpg"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
