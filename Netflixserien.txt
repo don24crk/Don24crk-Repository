@@ -73,6 +73,85 @@ name= S5- 60 Minuten url= "https://draco.nxload.com/hls/TFb3rONTM914XCnf2gQhI-7s
 name= S5- Vollnarkose url= "https://draco.nxload.com/hls/7RzH9wmjYxKtlPfyi2jyCx-drpzkOc7XxXgd2jiy2fTsg6jjZBRqwnLjvN4GYnv4RPoAx8KEoIFRlfGFmdFJ6RuAkLGRC9d8UOFx0MucX,,.urlset/master.m3u8" logo= "https://bilder.fernsehserien.de/sendung/hr/v2359.png"
 name= S5- Rauchende Colts url= "https://draco.nxload.com/hls/623NOSUMknT2YtLIEKWrrj-ONqGBnlvt2N7as0WGD04UrE1SoRQ5cgZqWGaZhxblypVRDb5OSJqFA5UyQmW7VRaNaY5aiFmbVan961vks,,.urlset/master.m3u8" logo= "https://bilder.fernsehserien.de/sendung/hr/v2359.png"
 name= S5- Schwesterherz url= "https://draco.nxload.com/hls/2cjBGTJ3YTH7w5DrzXvP9W-hEyRKyif8Siz02fLtyACV9pEHKaqnCvClcinhB9Um9Z80cLIb05xNbLAY4duHvX5V29Lf0DtHqGboG2UBY,,.urlset/master.m3u8" logo= "https://bilder.fernsehserien.de/sendung/hr/v2359.png"
+name= S6- Schutzgeld url= "https://draco.nxload.com/hls/5okl5cJQOEJt9rJtZmvHFY-OsgtYEzJCPW5DPJbZ6YfkKK56z1IOl32RucVmG0Tp6nRZswexUnFzihaHTKNMZjE5RGHCYXqqGGZs05u7t,,.urlset/master.m3u8" logo= "https://bilder.fernsehserien.de/sendung/hr/v2359.png"
+name= S6- Lautloser Tod url= "https://blackeye.nxload.com/hls/2U6k5Ylyc86fcOk71f10n2-hCBUOXs5gD37Lk9zRpkioh2vE2j4z3pChwQJcJWhJnbuawSf6vYLVqC9tJ3piig0AKBOQIKcTGhKJnZSA3,,.urlset/master.m3u8" logo= "https://bilder.fernsehserien.de/sendung/hr/v2359.png"
+name= S6- Gedächtnisschwund url= "https://blackeye.nxload.com/hls/5DniEQb71ox97rZDtYh5dZ-qB2mBxTjGC446ddAk2ga456vyHbKcnmftd99sR0CDgwRW3aDgE2x7n6gAzhyQU6pVCIfiX9ZeILJUpQ6vZ,,.urlset/master.m3u8" logo= "https://bilder.fernsehserien.de/sendung/hr/v2359.png"
+name= S6- Die Elster url= "https://blackeye.nxload.com/hls/6cJ4wnKk1ERBde3hmQKScA-hKhUQGnVuNji6NGMnLYWy9QCo3kNY3wV4kKiz01yIMvARt9MDKRkMZAGFmoHU8plYKONT94bnrJvw8MrM1,,.urlset/master.m3u8" logo= "https://bilder.fernsehserien.de/sendung/hr/v2359.png"
+name= S6- Stirb langsam url= "https://draco.nxload.com/hls/5NBpNjyhb6s2n0BCt6GN0x-Rc6Wxu6tU9z0dByQrbg7i0Jr1g0x3HUuNf74A1VvaSeTPhrAlztiOESiv5yGpFst7B2Vm3uO2Mig2QApqV,,.urlset/master.m3u8" logo= "https://bilder.fernsehserien.de/sendung/hr/v2359.png"
+name= S6- Unter Verdacht url= "https://draco.nxload.com/hls/651JnIsCV5r1cqps5lkjZ-XwNMWr7i5bkwBCVgj6PvsuYLmO9XFVJaPxKHdoaBKheLoXzM3CRc6ejK828dW74oUUZZY1IzgCEacH7fqL,,.urlset/master.m3u8" logo= "https://bilder.fernsehserien.de/sendung/hr/v2359.png"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
