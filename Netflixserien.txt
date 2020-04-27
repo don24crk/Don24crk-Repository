@@ -35,6 +35,69 @@ name= Die Conners Schwesterherzen  url= "https://delivery-node-habbab.voe-networ
 name= Die Conners Schmerzensgeld  url= "https://delivery-node-masruq.voe-network.net/a4l7ontoejls5mwfufocde5tgptgwgcqncvdkorpk4qh7oifrjbyrtp56jxa/v.mp4" logo= "https://images-na.ssl-images-amazon.com/images/I/91afdMFh9CL._RI_.jpg"
 name= Die Conners Vaterfreuden  url= "https://delivery-node-habbab.voe-network.net/a4l7on3oejls5mwfufocdxvkh37xutmwnui7zkzrmq57jpwpbcle7rjw2dnq/v.mp4" logo= "https://images-na.ssl-images-amazon.com/images/I/91afdMFh9CL._RI_.jpg"
 name= Die Conners Wir machen weiter  url= "https://delivery-node-minnah.voe-network.net/a4l7ondoejls5mwfufocdev2m3uzia5ounq7zcpanwbuggol4m43uj3bztga/v.mp4" logo= "https://images-na.ssl-images-amazon.com/images/I/91afdMFh9CL._RI_.jpg"
+name= S1- Dreckiges Geld url= "https://draco.nxload.com/hls/7SD7oaAC5kymroDqxbWvFN-c5xDUmsV8WNoHXyLeeKzvsH18nMLuFsDoTHfUmovZTNRIWCgpKRd8VXcAJ0DUOyeUpPqLxKvjY9n7SrPqL,,.urlset/master.m3u8" logo= "https://images-na.ssl-images-amazon.com/images/I/91J6OGjwA8L._SL1500_.jpg"
+name= S1- Tod durch Erpressung url= "https://draco.nxload.com/hls/5L0N4yS8iYyCrK7wc3ntPV-HXS5bHg01hg1twLL0ViwZ7bvBi5QeUxuAsoA9pyIMo7pFValOQ6BOj6MxUIWMM9WDINHhvtl9ZslideZXz,,.urlset/master.m3u8" logo= "https://images-na.ssl-images-amazon.com/images/I/91J6OGjwA8L._SL1500_.jpg"
+name= S1- Waffenbrüder url= "https://draco.nxload.com/hls/7jUZ2hVa20P5ePV4brwSQx-oYOcKnv9mhklCRrHwU6iPmszq8gjhyE8MqMz6xHL8BdTpZYS3EWLQn3rHSUmu5mPff8nAmIlMZ2WoOvcXe,,.urlset/master.m3u8" logo= "https://images-na.ssl-images-amazon.com/images/I/91J6OGjwA8L._SL1500_.jpg"
+name= S1- Das Duell url= "https://draco.nxload.com/hls/2KyJkAtYOeD8GUoKC2uBcU-L3zK2f7yKPX5vXYHPqYhLaLJpNuAXA782pURoLcmRZ5DTUQAlWTviUl33QLg3XssNJ3IOu1qpkL7AGiM47,,.urlset/master.m3u8" logo= "https://images-na.ssl-images-amazon.com/images/I/91J6OGjwA8L._SL1500_.jpg"
+name= S1- Harlekin url= "https://tadpole.nxload.com/hls/454p3ao1TbSwxHN3jwScnT-cPj1fwoLPzaTQSTcWGgrhgw5BdlivT87U9GPh1d5aZGyNNNJApAIk7dhbuk83HdDeZTcDi62tlO2rbuTdb,,.urlset/master.m3u8" logo= "https://images-na.ssl-images-amazon.com/images/I/91J6OGjwA8L._SL1500_.jpg"
+name= S1- Die Schatten Rasputins url= "https://draco.nxload.com/hls/40JY8JOyKES3ViSFYoprvp-3VCynSnh92h6cZbwFyvwu4cmNRqN9n56Rsk2H2Q9kPDimtXwBEvUNVwH84l0wA9p77hiwiZW0GuDnYps54,,.urlset/master.m3u8" logo= "https://images-na.ssl-images-amazon.com/images/I/91J6OGjwA8L._SL1500_.jpg"
+name= S2- Tödliche Begegnung url= "https://draco.nxload.com/hls/Osky0g5QGMlTxR28aMFKs-oVRd0MhJnretodYsq8CChLGGrEFIJ6192Ojlaa5N8tJyM8DG8CiC4u9kSQzWGBKPBMbpJM2tEpvgo8k0Jd,,.urlset/master.m3u8" logo= "https://media1.jpc.de/image/w600/front/0/0828767663890.jpg"
+name= S2- Freifall url= "https://draco.nxload.com/hls/2gL5ETWFhrXD6PRKiERIFU-XMlh375jFjp1Dg36MUS0H5TPyUspzABEHI9xYlZFnBDlXdPDb9eSxlef8MrwJgLoP3e3JapteYwTviCCyw,,.urlset/master.m3u8" logo= "https://media1.jpc.de/image/w600/front/0/0828767663890.jpg"
+name= S2- Yakuza url= "https://blackeye.nxload.com/hls/6poMVDJM29ZB1EKf7l2rj8-SNYO9nCLm3WETfYe6xC1TFXQgIWfG2NWVZgJsBtKyN6BYLPpMgFStXfV9ZNrZiYceBe1dWp1qVkEw0bbZv,,.urlset/master.m3u8" logo= "https://media1.jpc.de/image/w600/front/0/0828767663890.jpg"
+name= S2- Das Lindenbergbaby url= "https://draco.nxload.com/hls/69EuhyQTlkQbHPxAUJc4Jk-Nh7l4QDYfkp28cPfKhjFUqVxZAC9xf0qjH8jB5PEzMNzRarsiEpmqWvHfiRFxJKsZyhTz4g0aKHPmHtW1h,,.urlset/master.m3u8" logo= "https://media1.jpc.de/image/w600/front/0/0828767663890.jpg"
+name= S2- In der Zange – Teil 1 url= "https://draco.nxload.com/hls/3K0bGvL9A8rrVOjq9JlON7-lKkN3KxwaAgqRw870IPhL86iVFceBGusP09kNbak4DRDy7uFrxScjbDdMeImpzsslkkoJp5hXQILoP7pP4,,.urlset/master.m3u8" logo= "https://media1.jpc.de/image/w600/front/0/0828767663890.jpg"
+name= S2- In der Zange – Teil 2 url= "https://draco.nxload.com/hls/5pC8wFvzCIJpBsg2AT8m76-WVQKrHzgEXiwyb3BVXMkBfzK89oAvlv0HrZKD9wVTI1UEiu6nMdAddpugJ3ExLNDpXgOytVUkBVWpd2Vad,,.urlset/master.m3u8" logo= "https://media1.jpc.de/image/w600/front/0/0828767663890.jpg"
+name= S2- Absturz url= "https://draco.nxload.com/hls/3lGeSNdI2RKP9KuSM9lVdI-gRqg6i9eNg6qs7SR2btQqrh4D31uzQ3fJOTJj2HS6staGUdSFu0IZCSo8LS0eDmJ1p2EQTGtbyUUvNVzOa,,.urlset/master.m3u8" logo= "https://media1.jpc.de/image/w600/front/0/0828767663890.jpg"
+name= S2- Absturz url= "https://firestorm.nxload.com/hls/5LRWozHnxfgCd0VZ4ykyNQ-d8rPVcchX9GtlIMaiNfUHtyx8P9ttrM8x1L9nv6Ige1R7a0AooJOXZy8CX4Ob2zceIbHdScWfNaD9AdpVV,,.urlset/master.m3u8" logo= "https://media1.jpc.de/image/w600/front/0/0828767663890.jpg"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
