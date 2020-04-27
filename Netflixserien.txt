@@ -48,7 +48,74 @@ name= S2- Das Lindenbergbaby url= "https://draco.nxload.com/hls/69EuhyQTlkQbHPxA
 name= S2- In der Zange – Teil 1 url= "https://draco.nxload.com/hls/3K0bGvL9A8rrVOjq9JlON7-lKkN3KxwaAgqRw870IPhL86iVFceBGusP09kNbak4DRDy7uFrxScjbDdMeImpzsslkkoJp5hXQILoP7pP4,,.urlset/master.m3u8" logo= "https://media1.jpc.de/image/w600/front/0/0828767663890.jpg"
 name= S2- In der Zange – Teil 2 url= "https://draco.nxload.com/hls/5pC8wFvzCIJpBsg2AT8m76-WVQKrHzgEXiwyb3BVXMkBfzK89oAvlv0HrZKD9wVTI1UEiu6nMdAddpugJ3ExLNDpXgOytVUkBVWpd2Vad,,.urlset/master.m3u8" logo= "https://media1.jpc.de/image/w600/front/0/0828767663890.jpg"
 name= S2- Absturz url= "https://draco.nxload.com/hls/3lGeSNdI2RKP9KuSM9lVdI-gRqg6i9eNg6qs7SR2btQqrh4D31uzQ3fJOTJj2HS6staGUdSFu0IZCSo8LS0eDmJ1p2EQTGtbyUUvNVzOa,,.urlset/master.m3u8" logo= "https://media1.jpc.de/image/w600/front/0/0828767663890.jpg"
-name= S2- Absturz url= "https://firestorm.nxload.com/hls/5LRWozHnxfgCd0VZ4ykyNQ-d8rPVcchX9GtlIMaiNfUHtyx8P9ttrM8x1L9nv6Ige1R7a0AooJOXZy8CX4Ob2zceIbHdScWfNaD9AdpVV,,.urlset/master.m3u8" logo= "https://media1.jpc.de/image/w600/front/0/0828767663890.jpg"
+name= S2- Todesengel url= "https://firestorm.nxload.com/hls/5LRWozHnxfgCd0VZ4ykyNQ-d8rPVcchX9GtlIMaiNfUHtyx8P9ttrM8x1L9nv6Ige1R7a0AooJOXZy8CX4Ob2zceIbHdScWfNaD9AdpVV,,.urlset/master.m3u8" logo= "https://media1.jpc.de/image/w600/front/0/0828767663890.jpg"
+name= S3- Schmutzige Geschäfte url= "https://draco.nxload.com/hls/24ILIxiT4oIAQHX4V0XWly-a0Gpvjau6VbYjt8DDj94g8grdQ7AkHjzcn0tQrHjJ6jrSPdtK6205NQDdm3hbuuaUBkHN1rVG7A7EY5SQO,,.urlset/master.m3u8" logo= "https://www.vodster.de/db/seasons/109211-3.jpg"
+name= S3- Feierabend url= "https://draco.nxload.com/hls/2Sk6d68fn4di3iuBOH4SsJ-eH48Q1Jp0k0BFEMgy3uC7z3exhqcvz3iK6Qq3iuD0QUuFuieFR8yZpt8OoeATT4PChaOpP2cUlcfi8EjWJ,,.urlset/master.m3u8" logo= "https://www.vodster.de/db/seasons/109211-3.jpg"
+name= S3- Schöne Ferien Teil 1 url= "https://blackeye.nxload.com/hls/7GYPla6t5wBMXAOaKryp7i-jmkiyNiiFfE7V3bb8N387LyShk2Zfl9Z6IAeX8MtmPw8oy7FvtdwntssLsozNLgz944rpQ2QBQRp5BDxih,,.urlset/master.m3u8" logo= "https://www.vodster.de/db/seasons/109211-3.jpg"
+name= S3- Schöne Ferien Teil 2 url= "https://blackeye.nxload.com/hls/4B8Wn9qxQTBD6tuG8A3UnF-8gVM5ZEHcmrgp6uDgqMsOYG0JtATdBQPa4tBrlMc1RIjcYwu19hyjpVI2LVQs5kIKvQrroguwNBUYcIgSM,,.urlset/master.m3u8" logo= "https://www.vodster.de/db/seasons/109211-3.jpg"
+name= S3- Mayday url= "https://draco.nxload.com/hls/5MmtNzOwqJHYF2ECoBwrCa-724pOUJPrFgGn14ZDrJKnD2ocH0UsgZ81itNz7jDS5GaQd55uEe91UteLfTdyycVnUR3ORaj1ZtSaHFidG,,.urlset/master.m3u8" logo= "https://www.vodster.de/db/seasons/109211-3.jpg"
+name= S3- Handyman url= "https://node--olivia.vivo.sx/vod/I05HExP8pev6MnomB5H2GQ/1588027066/0036705838" logo= "https://www.vodster.de/db/seasons/109211-3.jpg"
+name= S3- Flash url= "https://draco.nxload.com/hls/mj6wdAw3ZtKgF270HdjBM-YmQpUZc4NNj6iSO4COnVmmcfmK3TWJ2onFBFrqBFEnCJ2W6q6V2Obcc2jbpb5QQMXzTvYWjgrWgS6Rg4lk,,.urlset/master.m3u8" logo= "https://www.vodster.de/db/seasons/109211-3.jpg"
+name= S3- Der Rattenfänger url= "https://draco.nxload.com/hls/6jzkJfPPrpmtJT10PTtL1U-3Peb34AmeFyRjL7KpmJZvOWze2YrU32WUdMU1Xt7xPZu6q8cuf843XEPSxrVlhuCwL40SytUxmw2WmZlIh,,.urlset/master.m3u8" logo= "https://www.vodster.de/db/seasons/109211-3.jpg"
+name= S3- Happy Birthday url= "https://blackeye.nxload.com/hls/mHqGAdvWhL6xjeCqfNgym-W7h9jSQSW5f4ASzfhxthjsSBcD0qjB89W3QRWKDZRPV1eUlpRylSTErKM72PWk7mdISzE1cX8OOZV7KmMS,,.urlset/master.m3u8" logo= "https://www.vodster.de/db/seasons/109211-3.jpg"
+name= S3- Das Wunderkind url= "https://draco.nxload.com/hls/5byN5CGcLnYyAoUhHvCyDi-ob8e3ljAMXLU9Gn5ObYmeOsY0Qv1ji57NEN6jC5rvoZC1PSIuqqi36mnbLxRJ2mgzamlvLu3nJzpIim6Hl,,.urlset/master.m3u8" logo= "https://www.vodster.de/db/seasons/109211-3.jpg"
+name= S3- Vatertag url= "https://draco.nxload.com/hls/10nLCNJe97sKv6keett30e-gIPFvcWdE7wgbUyC8kjNfAzvyLmYjuW6iGhM8cW1wPmzS4oz0IhYjcB7ZZkry006psMIeGDFraMHqUYb8A,,.urlset/master.m3u8" logo= "https://www.vodster.de/db/seasons/109211-3.jpg"
+name= S3- Der Hoffnarr url= "https://draco.nxload.com/hls/7TC29Vu4F6Cd646ANnBmP0-LFWqyXmwo9fHWBMgBpIerxpbL5p9bqO7JhMMLG9w7kGlM916RLnh2zMlUBa64SZOm2i2VB0stBHMcH3StV,,.urlset/master.m3u8" logo= "https://www.vodster.de/db/seasons/109211-3.jpg"
+name= S4- In der Höhle des Löwen url= "https://draco.nxload.com/hls/4Hxo1ZEBmPh2v0Np58g8HD-BUieHoUFRxULOU6h0BTNAx06Dlu9cmOSSIo6LFtNu0vJLTKWfO6ZD9FX1XGTmbZW8PQfInSrcA1VlGoPzx,,.urlset/master.m3u8" logo= "https://images-na.ssl-images-amazon.com/images/I/51fKy%2BDm5EL._SY445_.jpg"
+name= S4- Hetzjagd url= "https://draco.nxload.com/hls/4q5tNyPuYotUZRO7WhJ46R-POmQKg7VlNoIWtbC9y0a6jRubnjyNKAdTRVTzfyeW8TBasnzjDx5jvM0Jmfk1EHTx5wcZpcTTMqoZTjSKJ,,.urlset/master.m3u8" logo= "https://images-na.ssl-images-amazon.com/images/I/51fKy%2BDm5EL._SY445_.jpg"
+name= S4- Knast url= "https://draco.nxload.com/hls/1gymSMRGEcpR0gMEA83ZDG-lrOmAiw20cuwIMnWVW40qecdOhQhsxuWiWOJmN2Hl2O1p8YbWZx51Ji0pFvIb08q5shHDI6ryu4hscb2mT,,.urlset/master.m3u8" logo= "https://images-na.ssl-images-amazon.com/images/I/51fKy%2BDm5EL._SY445_.jpg"
+name= S4- Aasgeier url= "https://node--liana.vivo.sx/vod/5HWIVQvlX1-_1ufBXwJd6A/1588027780/0044641395" logo= "https://images-na.ssl-images-amazon.com/images/I/51fKy%2BDm5EL._SY445_.jpg"
+name= S4- Kölsch Connection – Teil 1 url= "https://blackeye.nxload.com/hls/11cf5oX2gZbjwHa1TvaLau-pj07ZXPGfBQRf4KBKcHSMKC2CE7IPgVXStNSBxEKjyxnktldoAeqEcGX78M4IDmkyI5rV9aoC9aihA3KpQ,,.urlset/master.m3u8" logo= "https://images-na.ssl-images-amazon.com/images/I/51fKy%2BDm5EL._SY445_.jpg"
+name= S4- Kölsch Connection – Teil 2 url= "https://draco.nxload.com/hls/3npzY7fnnFNyxPLxOj2ndM-epSPhID9mhHTKwsdUId8zFsRiYeigYKLs2Tms8DRhKaSJhtcQ23StqidmaFQwGDWv0eWGD3NoXKAeSn5yS,,.urlset/master.m3u8" logo= "https://images-na.ssl-images-amazon.com/images/I/51fKy%2BDm5EL._SY445_.jpg"
+name= S5- Die Falle url= "https://draco.nxload.com/hls/1prrRTT9XlYrv2V5TdK4Xe-ESxuSajAEDGdcIFqw7gnCSDRiiqnRKVBYeDdlJXvZj5U57jvr0UZgMLfJtVZynFJHaVioE5zro6UEqcKiQ,,.urlset/master.m3u8" logo= "https://bilder.fernsehserien.de/sendung/hr/v2359.png"
+name= S5- Unsichtbarer Feind url= "https://draco.nxload.com/hls/SZd8BKkQba3kPCWItADXt-8OyJBKRl2pNCWHMIO4qp3MLF6cX9hLtOKutnHiPWSJGZfKUzuQTuYBHEYKeFlA5uKE8ofKt22LYb1E9pRk,,.urlset/master.m3u8" logo= "https://bilder.fernsehserien.de/sendung/hr/v2359.png"
+name= S5- 60 Minuten url= "https://draco.nxload.com/hls/TFb3rONTM914XCnf2gQhI-7sWf5xefyaKY6HakDwaZKWEwk0qTu2AfvFZAPgv8N9DxxUWi3G3wEwtlLDvwaVU2tPOw4m5qfYlBR9XY6l,,.urlset/master.m3u8" logo= "https://bilder.fernsehserien.de/sendung/hr/v2359.png"
+name= S5- Vollnarkose url= "https://draco.nxload.com/hls/7RzH9wmjYxKtlPfyi2jyCx-drpzkOc7XxXgd2jiy2fTsg6jjZBRqwnLjvN4GYnv4RPoAx8KEoIFRlfGFmdFJ6RuAkLGRC9d8UOFx0MucX,,.urlset/master.m3u8" logo= "https://bilder.fernsehserien.de/sendung/hr/v2359.png"
+name= S5- Rauchende Colts url= "https://draco.nxload.com/hls/623NOSUMknT2YtLIEKWrrj-ONqGBnlvt2N7as0WGD04UrE1SoRQ5cgZqWGaZhxblypVRDb5OSJqFA5UyQmW7VRaNaY5aiFmbVan961vks,,.urlset/master.m3u8" logo= "https://bilder.fernsehserien.de/sendung/hr/v2359.png"
+name= S5- Schwesterherz url= "https://draco.nxload.com/hls/2cjBGTJ3YTH7w5DrzXvP9W-hEyRKyif8Siz02fLtyACV9pEHKaqnCvClcinhB9Um9Z80cLIb05xNbLAY4duHvX5V29Lf0DtHqGboG2UBY,,.urlset/master.m3u8" logo= "https://bilder.fernsehserien.de/sendung/hr/v2359.png"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
