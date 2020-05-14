@@ -36,7 +36,7 @@ name= BeiN Sports 2 HD url= "http://ch.canlitvlive.io/bein-sports-haber/live.m3u
 name= KRAL' WORLD HD url= "https://c3.afaki.cf/web/1/www.24detv.de/c3/1589483487/mIjrGjTbDbz1MZK720abnQ/10429.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0" logo= "https://www.parsatv.com/index_files/channels/kralworld.jpg"
 name= Sinema TV 1 HD url= "https://c6.filmsefi.com/web/1/www.24detv.de/c1/1589482240/_jd7hN8SfRI9zrC3C1LxNw/11081.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0" logo= "https://d.haberciniz.biz/news/797389.jpg"
 name= Aspor HD url= "https://hdtvler1.etvserver.com/live_sd/aspor/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNC8yMDIwIDU6Mjc6MzEgUE0maGFzaF92YWx1ZT1TUTAzalA0c0ZMNisremJJcWFNNUtBPT0mdmFsaWRtaW51dGVzPTU=|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0" logo= "https://iaaspr.tmgrup.com.tr/c51c76/806/378/0/19/640/319?u=https://iaspr.tmgrup.com.tr/2018/06/07/aspor-mobil-uygulamasi-yenilendi-1528363896108.jpg"
-name= FB TV url= "https://hdtvler1.etvserver.com/live_sd/aspor/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNC8yMDIwIDU6Mjc6MzEgUE0maGFzaF92YWx1ZT1TUTAzalA0c0ZMNisremJJcWFNNUtBPT0mdmFsaWRtaW51dGVzPTU=|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0" logo= "https://s1.dmcdn.net/v/7O7Ya1T4Z3uFG_FfS/x1080"
+name= FB TV url= "http://ch.canlitvlive.io/fbtv/live.m3u8?tkn=E7ti8UxhAMyDDG-WeWQW1A&tms=1589494381|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0" logo= "https://s1.dmcdn.net/v/7O7Ya1T4Z3uFG_FfS/x1080"
 
 
 
