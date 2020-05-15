@@ -1,4 +1,13 @@
-name= ATV HD url= "https://life.tvizlehd.com/atv360.m3u8?tkn=-qJIPRYJRa9JbG6MCoZqMw&tms=1589488848|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0" logo= "https://pbs.twimg.com/profile_images/748515146356629504/7x_gxi_G.jpg"
+<regex>
+  <name>Atv</name>
+  <expres>'flash', src: '(.*?)'\W</expres>
+  <page>https://yayin.canlitvizleme.net/embed.php?live=https://yayin.canlitvizleme.net/yayin-122.m3u8?width=650&amp;height=380&amp;channel=122&amp;autoplay=true</page>
+  <referer>www.canlitvizleme.net/</referer>
+</regex>
+</item
+<item>
+<title>Atv</title>        
+<link>$doregex[m3u8] playpath=$doregex[https://yayin.canlitvizleme.net/embed.php] swfUrl=$doregex[http://releases.flowplayer.org/7.2.7/flowplayerhls.swf] live=1 pageUrl=https://yayin.canlitvizleme.net/yayin-122.m3u8</link>(Windows NT 6.3; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0" logo= "https://pbs.twimg.com/profile_images/748515146356629504/7x_gxi_G.jpg"
 name= Kanal D 1 url= "https://media.duhnet.tv/S2/HLS_LIVE/kanaldnp/track_4_1250/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0" logo= "https://media.cdnandroid.com/5c/a2/62/ee/7d/imagen-kanal-d-0big.jpg"
 name= Kanal D 2 url= "https://media.duhnet.tv/S2/HLS_LIVE/kanaldnp/track_4_1250/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0" logo= "https://media.cdnandroid.com/5c/a2/62/ee/7d/imagen-kanal-d-0big.jpg"
 name= HABERTURK url= "https://s-tream.antensiz.tv/haberturk/live.m3u8?t=2KraVaMemi7U3rNHoht2-w&e=1589486000|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0" logo= "https://im.haberturk.com/assets/images/canli-yayin-gorsel.jpg"
