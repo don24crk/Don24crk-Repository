@@ -1,0 +1,27 @@
+#EXTINF:-1 tvg-name="batman vs robin" tvg-id="batman vs robin" group-title="batman vs robin" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/Bat_vs_robin_cover.jpg/220px-Bat_vs_robin_cover.jpg",batman vs robin
+https://nlw03.hlssrv.com/v2/schema/a2s4BQIH0xcY9q3xAZns/med.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
+#EXTINF:-1 tvg-name="Batman: Under the Red Hood" tvg-id="Batman: Under the Red Hood" group-title="Batman: Under the Red Hood" tvg-logo="https://hdfilme.su/i/a1879336453279449957.jpg",Batman: Under the Red Hood
+https://str14.vidoza.net/x4lfsudj5bzpvjumxavecw2e7alzv66sxnkhaen4l46yxueqshqzzqpcqxnq/v.mp4|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
+#EXTINF:-1 tvg-name="Batman.The.Dark.Knight.Returns.Teil.1.German" tvg-id="Batman.The.Dark.Knight.Returns.Teil.1.German" group-title="Batman.The.Dark.Knight.Returns.Teil.1.German" tvg-logo="https://streamworld.co/images/posters/220.jpg",Batman.The.Dark.Knight.Returns.Teil.1.German
+https://node--olivia.vivo.sx/vod/HqHm4J8sCjCMP97CRR7TWw/1591068880/0000098253|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
+#EXTINF:-1 tvg-name="Batman: Hush" tvg-id="Batman: Hush" group-title="Batman: Hush" tvg-logo="https://streamworld.co/images/posters/6862.jpg",Batman: Hush
+https://chromite.nxload.com/hls/2lAYPG8ROcAGbkrNPclTeG-1CAORWPV1SmROdmFHn8B0iBvRjnSXr55lVMxHgAtQthwoQxKqaUm9Ffhb9tbtQRmbPpW1vzfj6xif8gFzC,,.urlset/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
+#EXTINF:-1 tvg-name="Batman: Return of the Caped Crusaders " tvg-id="Batman: Return of the Caped Crusaders " group-title="Batman: Return of the Caped Crusaders " tvg-logo="https://streamworld.co/images/posters/2968.jpg",Batman: Return of the Caped Crusaders 
+https://www94.uptostream.com/24p5ie6b013/720/0/video.mp4|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
+#EXTINF:-1 tvg-name="Batman: The Killing Joke " tvg-id="Batman: The Killing Joke " group-title="Batman: The Killing Joke " tvg-logo="https://streamworld.co/images/posters/1261.jpg",Batman: The Killing Joke 
+https://node--olivia.vivo.sx/vod/8wlEs1r4VDCSfUnjSJO7Bg/1591070713/0000063372|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
+#EXTINF:-1 tvg-name="Justice League: Crisis on Two Earths (2010)" tvg-id="Justice League: Crisis on Two Earths (2010)" group-title="Justice League: Crisis on Two Earths (2010)" tvg-logo="https://kinomax.to/uploads/posts/2019-10/thumbs/1571750321.jpg",Justice League: Crisis on Two Earths (2010)
+https://thevideos.ga/stream3e1e0180bc669642b7be1ee8e3723f8c.mp4|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
+#EXTINF:-1 tvg-name="Batman Ninja " tvg-id="Batman Ninja " group-title="Batman Ninja " tvg-logo="https://hdfilme.su/i/a60084478592923268.jpg",Batman Ninja 
+https://node--liana.vivo.sx/vod/wEHaizXhlZaqQlswTpQhCQ/1591070993/0000146998|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
+#EXTINF:-1 tvg-name="Batman vs. Two-Face " tvg-id="Batman vs. Two-Face " group-title="Batman vs. Two-Face " tvg-logo="https://streamworld.co/images/posters/4405.jpg",Batman vs. Two-Face 
+https://node--andrea.vivo.sx/vod/evRr1CAdAaozCTLEqyXvUA/1591071250/0000091037|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
+#EXTINF:-1 tvg-name="Superman/Batman: Public Enemies" tvg-id="Superman/Batman: Public Enemies" group-title="Superman/Batman: Public Enemies" tvg-logo="https://skcdn.tv/cover/f12231fe7463b77260d8779e5080d2d83.jpg",Superman/Batman: Public Enemies
+https://virgo.nxload.com/hls/1lsRjHvigBwzgeanSMcFuA-FoACCExtc1qjNmLF4ZlDVF6KcyMxbhOKYTzZJ72W4WWIywsIAFVfPCQ3ypT0qtgGutjOCz7yXbgBf65eaX,,.urlset/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
+#EXTINF:-1 tvg-name="Son of Batman" tvg-id="Son of Batman" group-title="Son of Batman" tvg-logo="https://skcdn.tv/cover/e27d16af7a2a8999c0261fe771b404ac3.jpg",Son of Batman
+https://virgo.nxload.com/hls/2ZdXZJlTyuRuG0K3v7Nb9H-W4Bfy68GgBO4gJrXhWcjgwlN9uCEzgDVZ4TCu7egPmpOFVeTysrEUIMbClqbJUmIQygljPspd3I5satf8n,,.urlset/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
+#EXTINF:-1 tvg-name="Batman: Gotham Knight" tvg-id="Batman: Gotham Knight" group-title="Batman: Gotham Knight" tvg-logo="https://skcdn.tv/cover/dc87ba15c894ba3e463c136eaf9fb8eb3.jpg",Batman: Gotham Knight
+https://fibre.hlssrv.com/hls_serve/KZsfF5VhKUh41V-Eq_bIQA/1591062041/TOnsRvBFM87Bw5vjKADM/pl2.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
+#EXTINF:-1 tvg-name="Batman of the Future - Der Joker kommt zurück" tvg-id="Batman of the Future - Der Joker kommt zurück" group-title="Batman of the Future - Der Joker kommt zurück" tvg-logo="https://skcdn.tv/cover/c912a496879141ab2f78dd2290d540993.jpg",Batman of the Future - Der Joker kommt zurück
+https://chromite.nxload.com/hls/GmyWaGaQziScN6JCXZhky-iLmLSWOWLkgHiSygu9fDxjsGEL4yk2uVbSJbq901pg03uAhfZL8TLWHrZDVe9sc81e43VNfqz2LOP8iYiG,,.urlset/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
+
