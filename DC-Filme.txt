@@ -11,3 +11,16 @@ name= Superman/Batman: Public Enemies url= "https://virgo.nxload.com/hls/1lsRjHv
 name= Son of Batman url= "https://virgo.nxload.com/hls/2ZdXZJlTyuRuG0K3v7Nb9H-W4Bfy68GgBO4gJrXhWcjgwlN9uCEzgDVZ4TCu7egPmpOFVeTysrEUIMbClqbJUmIQygljPspd3I5satf8n,,.urlset/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0" logo= "https://skcdn.tv/cover/e27d16af7a2a8999c0261fe771b404ac3.jpg"
 name= Batman: Gotham Knight url= "https://node--andrea.vivo.sx/vod/7wk1H_2lT_UeQgg4aegVWA/1591076147/0024754904|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0" logo= "https://skcdn.tv/cover/dc87ba15c894ba3e463c136eaf9fb8eb3.jpg"
 name= Batman of the Future - Der Joker kommt zurück url= "https://chromite.nxload.com/hls/GmyWaGaQziScN6JCXZhky-iLmLSWOWLkgHiSygu9fDxjsGEL4yk2uVbSJbq901pg03uAhfZL8TLWHrZDVe9sc81e43VNfqz2LOP8iYiG,,.urlset/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0" logo= "https://skcdn.tv/cover/c912a496879141ab2f78dd2290d540993.jpg"
+name= The Death and Return of Superman(2011) url= "https://virgo.nxload.com/hls/2eVHnkN68Cb09JmgayImef-CHW2nJyJvneFdgSY1oP7zezZZXflxUDNoQlD0rcOQ01T7Woxcjf8vfGhnglOEgp7qEn9YSF4AaPXDlYehj,,.urlset/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0" logo= "https://images-na.ssl-images-amazon.com/images/I/81vLc3GiXXL.jpg"
+name= Reign of the Supermen(2019) url= "https://blackeye.nxload.com/hls/383WXLAN0eP7BA9UXnJogx-2TsbkoUq5R5K7SEkQxwWmBLaE5UPjsIKxFFYBh5bTXMp0Tk29Kbx6uyaMLZc4oMqAixPLQM64Jem23UyT4,,.urlset/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0" logo= "https://blob.cede.ch/catalog/16421000/16421096_1_92.jpg"
+name= Justice League Dark(2017) url= "https://skysnow.nxload.com/hls/6V2YyRQPrqbS6eL9CXy8jJ-SPhsIbaQCY6pVFWQtEIzG5yJWpAI5yOcO65V3105kyZmVzetdSl3kextRe3bnstFvLWooQDYkPDlvMbLmL,,.urlset/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0" logo= "https://de.web.img3.acsta.net/c_215_290/pictures/17/02/20/13/23/173338.jpg"
+name= All-Star Superman(2011) url= "https://node--celia.vivo.sx/vod/gDshJw_kARalwpkDoXH7MQ/1591129637/0050770785|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0" logo= "https://de.web.img2.acsta.net/c_215_290/medias/nmedia/18/83/41/03/19689433.jpg"
+name= Superman/Batman: Apocalypse(2010) url= "https://node--celia.vivo.sx/vod/gDshJw_kARalwpkDoXH7MQ/1591129637/0050770785|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0" logo= "https://de.web.img2.acsta.net/c_215_290/medias/nmedia/18/86/62/32/19851185.jpg"
+
+
+
+
+
+
+
+
