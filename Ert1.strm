@@ -1,27 +1,17 @@
 
+<item>
+<title>single channel</title>
+<link>http://www.anacon.org/app/chans/gr/ert1s2$doregex[https://s1.cystream.net/live/ert1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni83LzIwMjAgMTowMTowNyBQTSZoYXNoX3ZhbHVlPWRYeTZLb2pyamZCSU1iaFJvam5GakE9PSZ2YWxpZG1pbnV0ZXM9MjA=]</link>
 
-$curl = curl_init('https://s1.cystream.net/live/ert1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni83LzIwMjAgMTowMTowNyBQTSZoYXNoX3ZhbHVlPWRYeTZLb2pyamZCSU1iaFJvam5GakE9PSZ2YWxpZG1pbnV0ZXM9MjA=');
-curl_setopt($curl, CURLOPT_RETURNTRANSFER, TRUE);
+<regex>
+<name>stream</name>
+<expres><=!=[=C=D=A=T=A=[<p><iframe src="(.*?)"]=]=></expres>
+<page>http://www.anacon.org/app/grtv.php</page>
+</regex>
 
-$page = curl_exec($curl);
-$stream_name = "ert1";
-
-if(curl_errno($curl)) // check for execution errors
-{
-    echo 'Scraper error: ' . curl_error($curl);
-    exit;
-}
-
-curl_close($curl);
-
-$regex = '/token=(.*?)"/';
-if ( preg_match($regex, $page, $match) )
-    $stream_url =  "https://s1.cystream.net/live/ert1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni83LzIwMjAgMTowMTowNyBQTSZoYXNoX3ZhbHVlPWRYeTZLb2pyamZCSU1iaFJvam5GakE9PSZ2YWxpZG1pbnV0ZXM9MjA==".$match[1];
-else ($stream_url =  "error");
-
-header('Content-Type: application/octet-stream');
-echo "#EXTM3U\n";
-echo "#EXTINF:-1," . $stream_name . "\n";
-echo $stream_url;
-
-?>
+<regex>
+<name>play</name>
+<expres><=!=[=C=D=A=T=A=[source:"(http.*?m3u8.*?)"]=]=></expres>
+<page>$doregex[stream]</page>
+</regex>
+</item>
