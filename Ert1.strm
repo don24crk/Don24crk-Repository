@@ -1,6 +1,6 @@
 ?php
 
-$curl = curl_init('https://s1.cystream.net/live/ert1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni83LzIwMjAgMTowMTowNyBQTSZoYXNoX3ZhbHVlPWRYeTZLb2pyamZCSU1iaFJvam5GakE9PSZ2YWxpZG1pbnV0ZXM9MjA=' ert1.php);
+$curl = curl_init('https://s1.cystream.net/live/ert1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni83LzIwMjAgMTowMTowNyBQTSZoYXNoX3ZhbHVlPWRYeTZLb2pyamZCSU1iaFJvam5GakE9PSZ2YWxpZG1pbnV0ZXM9MjA=');
 curl_setopt($curl, CURLOPT_RETURNTRANSFER, TRUE);
 
 $page = curl_exec($curl);
