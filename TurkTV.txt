@@ -1,0 +1,48 @@
+name= 1NTVSPOR HD url= "plugin://plugin.video.f4mTester/?url=http://46.105.233.106:8686/hls/ntvspor/playlist.m3u8&amp;streamtype=HLSRETRY&amp;name=1NTVSPOR" logo= "https://cdn.ntvspor.net//C/I//156/ntven3_X6XHV.jpg?&w=940&mode=carve"
+name= 2beINSPORTS HD 1 url= "plugin://plugin.video.f4mTester/?url=http://46.105.233.106:8686/hls/ntvspor/playlist.m3u8&amp;streamtype=HLSRETRY&amp;name=2beINSPORTS" logo= "https://i.pinimg.com/originals/81/b1/14/81b11469a9a91ddb6eb389fb341c1944.png"
+name= ATV HD url= "plugin://plugin.video.f4mTester/?url=http://streams.livetv.az/turk/atv_turk_sd/playlist.m3u8&amp;streamtype=HLSRETRY&amp;name=ATV HD" logo= "https://pbs.twimg.com/profile_images/1224014668009824258/h7ZuDhVH_400x400.jpg"
+name= A SPOR HD url= "plugin://plugin.video.f4mTester/?url=http://mn-nl.mncdn.com/blutv_aspor/smil:aspor_hd.smil/chunklist_b2064000.m3u8&amp;streamtype=HLSRETRY&amp;name=A SPOR HD" logo= "https://image.yenisafak.com/resim/imagecrop/2017/12/11/11/36/resized_5e52a-ae9e4169asporcanli.jpg"
+name= A2 HD url= "plugin://plugin.video.f4mTester/?url=http://mn-nl.mncdn.com/blutv_a2/smil:a2_hd.smil/chunklist_b2064000.m3u8&amp;streamtype=HLSRETRY&amp;name=A2 HD" logo= "https://pbs.twimg.com/media/C8g0HPTWsAAT7ox.jpg"
+name= Star HD url= "plugin://plugin.video.f4mTester/?url=http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8&amp;streamtype=HLSRETRY&amp;name=Star HD " logo= "https://upload.wikimedia.org/wikipedia/en/4/46/Star_TV_logosu.png"
+name= NTV HD url= "plugin://plugin.video.f4mTester/?url=http://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8&amp;streamtype=HLSRETRY&amp;name=NTV HD" logo= "https://www.uydufrekanslari.gen.tr/images/Ntv-Hd-Frekans-82.png"
+name= KanalD HD url= "plugin://plugin.video.f4mTester/?url=http://mn-nl.mncdn.com/blutv_kanald/smil:kanald_hd.smil/chunklist_b3128000.m3u8&amp;streamtype=HLSRETRY&amp;name=KanalD HD" logo= "https://i.kanald.com.tr/i/kanald/70/1200x630/5b8c55b5e94fb71488087b88.jpg"
+name= SHOW TV HD url= "plugin://plugin.video.f4mTester/?url=http://mn-nl.mncdn.com/blutv_showtv/smil:show_hd.smil/chunklist_b3128000.m3u8&amp;streamtype=HLSRETRY&amp;name=SHOW TV HD" logo= "https://m.showtv.com.tr/assets/images/other/showtv_social_media.jpg"
+name= FOX TV HD url= "plugin://plugin.video.f4mTester/?url=http://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_hd.smil/chunklist_b3128000.m3u8&amp;streamtype=HLSRETRY&amp;name=FOX TV HD= "https://foxtv-static2.ercdn.net/img/FOXLogo.jpg"
+name= TV8 HD url= "plugin://plugin.video.f4mTester/?url=http://mn-nl.mncdn.com/blutv_tv8/smil:tv8_hd.smil/chunklist_b3128000.m3u8&amp;streamtype=HLSRETRY&amp;name=TV8 HD" logo= "https://www.canlitvizlemeli.com/uploads/kanal/28010tv8-canli-yayin.jpg"
+name= TRT1 HD url= "plugin://plugin.video.f4mTester/?url=https://mn-nl.mncdn.com/blutv_trt1/smil:trt1_hd.smil/chunklist_b3128000.m3u8&amp;streamtype=HLSRETRY&amp;name=TRT1 HD" logo= "https://www.trt.net.tr/canliyayinlogolar/trt_1_canli_logo.jpg"
+name= TRT Spor HD url= "plugin://plugin.video.f4mTester/?url=https://mn-nl.mncdn.com/blutv_trtspor/smil:trtspor_hd.smil/chunklist_b2064000.m3u8&amp;streamtype=HLSRETRY&amp;name=TRT Spor HD" logo= "https://www.trtspor.com.tr/resimler/140000/140528.jpg"
+name= LIG TV HD url= "plugin://plugin.video.f4mTester/?url=http://46.105.233.106:8686/ntvspor.ts&amp;streamtype=HLSRETRY&amp;name=LIG TV HD" logo= "https://images-eu.ssl-images-amazon.com/images/I/41hoqpwDdfL.png"
+name= TLC HD url= "plugin://plugin.video.f4mTester/?url=http://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8&amp;streamtype=HLSRETRY&amp;name=TLC HD" logo= "https://www.infosat.de/sites/default/files/styles/580x390/adaptive-image/public/news/tlc_hd-655x440_1.jpg?itok=U5esLBWT"
+name= SINEMA TV HD url= "plugin://plugin.video.f4mTester/?url=http://sinevid.camdvr.org:1935/live/sinevid/playlist.m3u8&amp;streamtype=HLSRETRY&amp;name=SINEMA TV HD" logo= "https://sinematv.com.tr/content/logo/SINEMATV-GRI.png?v=1.0.0.68"
+name= YESILCAM TV HD url= "plugin://plugin.video.f4mTester/?url=http://sbntv.kesintisizyayin.com:29020/sbntv/sbntv/chunklist.m3u8&amp;streamtype=HLSRETRY&amp;name=YESILCAM TV HD" logo= "https://www.24detv.de/cdn/images/11102.jpg"
+name= CNNTURK HD url= "plugin://plugin.video.f4mTester/?url=http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8&amp;streamtype=HLSRETRY&amp;name=CNNTURK HD" logo= "https://i2.cnnturk.com/i/cnnturk/75/400x333/5a683c7861361f1d94d8e493.jpg"
+name= TEVE2 HD url= "plugin://plugin.video.f4mTester/?url=http://mn-nl.mncdn.com/blutv_teve2/smil:teve2_hd.smil/chunklist_b2064000.m3u8&amp;streamtype=HLSRETRY&amp;name=TEVE2 HD" logo= "https://i.pinimg.com/originals/60/a1/00/60a100b9dc9c5bab1ed9c7442ea6acd0.png"
+name= Beyaz TV HD url= "plugin://plugin.video.f4mTester/?url=http://mn-nl.mncdn.com/blutv_beyaztv/smil:beyaztv_hd.smil/chunklist_b2064000.m3u8&amp;streamtype=HLSRETRY&amp;name=Beyaz TV HD" logo= "https://s1.dmcdn.net/v/GVBh61T4Z2_Vl38RY/x1080"
+name= Tivibu Spor HD url= "plugin://plugin.video.f4mTester/?url=http://zu2or9hg.rocketcdn.com/konf/mob/web16009.isml/QualityLevels(1564000)/manifest(format=m3u8-aapl).m3u8&amp;streamtype=HLSRETRY&amp;name=Tivibu Spor HD" logo= "https://pbs.twimg.com/profile_images/965553168930230273/v5t7J_3I_400x400.jpg"
+name= HABERTURK HD url= "plugin://plugin.video.f4mTester/?url=http://mn-nl.mncdn.com/blutv_haberturk/smil:haberturk_hd.smil/chunklist_b2064000.m3u8&amp;streamtype=HLSRETRY&amp;name=HABERTURK HD" logo= "https://i.ytimg.com/vi/deKH0pQ7-rg/maxresdefault.jpg"
+name= D MAX HD url= "plugin://plugin.video.f4mTester/?url=https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist_b1828000_sltur.m3u8&amp;streamtype=HLSRETRY&amp;name=D MAX HD" logo= "https://www.canlitvizlemeli.com/uploads/kanal/30065dmax-canli.png"
+name= TV 8.5 HD url= "plugin://plugin.video.f4mTester/?url=http://mn-nl.mncdn.com/blutv_tv8_5/smil:tv8_5_hd.smil/chunklist_b3128000.m3u8&amp;streamtype=HLSRETRY&amp;name=TV 8.5 HD" logo= "https://www.haberoran.com/files/uploads/news/default/26-nisan-carsamba-tv-eff9539d4cb9c7959f38.png"
+name= FX HD url= "plugin://plugin.video.f4mTester/?url=http://mn-nl.mncdn.com/blutv_fx/fx_hd.smil/chunklist_b2064000.m3u8&amp;streamtype=HLSRETRY&amp;name=FX HD" logo= "https://pbs.twimg.com/profile_images/1057549699480215555/d5FwPRDH.jpg"
+name= KANAL 7 HD url= "plugin://plugin.video.f4mTester/?url=http://mn-nl.mncdn.com/blutv_kanal7/smil:kanal7_hd.smil/chunklist_b2064000.m3u8&amp;streamtype=HLSRETRY&amp;name=KANAL 7 HD" logo= "https://izle7-image.kanal7-cdn.com/assets/img/kanal7-logo_new.jpg"
+name= TV24 HD url= "plugin://plugin.video.f4mTester/?url=http://mn-nl.mncdn.com/blutv_kanal24/smil:kanal24_hd.smil/chunklist_b2064000.m3u8&amp;streamtype=HLSRETRY&amp;name=TV24 HD" logo= "https://www.persoenlich.com/media/cache/top/sites/default/files/tv24logo_positiv_jpg_web.jpg"
+name= 360 TV HD url= "plugin://plugin.video.f4mTester/?url=http://mn-nl.mncdn.com/360tv_live/smil:360tv.smil/chunklist_b864000.m3u8&amp;streamtype=HLSRETRY&amp;name=360 TV HD" logo= "https://www.ecanlitvizle.live/logo/360-tv-izle.png"
+name= HALK TV HD url= "plugin://plugin.video.f4mTester/?url=http://mn-nl.mncdn.com/blutv_halktv/smil:halktv_sd.smil/chunklist_b2064000.m3u8&amp;streamtype=HLSRETRY&amp;name=HALK TV HD" logo= "https://upload.wikimedia.org/wikipedia/commons/7/70/HalkTVLogo.jpg"
+name= KRAL TV HD url= "plugin://plugin.video.f4mTester/?url=http://mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8&amp;streamtype=HLSRETRY&amp;name=KRAL TV HD" logo= "https://i.ytimg.com/vi/88tf0H1ycDU/maxresdefault.jpg"
+name= KRAL POP HD url= "plugin://plugin.video.f4mTester/?url=http://bqgsd19q.rocketcdn.com/kralpop_720/chunklist.m3u8&amp;streamtype=HLSRETRY&amp;name=KRAL POP HD" logo= "https://i.ytimg.com/vi/dEHMR7Qpthw/maxresdefault.jpg"
+name= UCANKUS TV HD url= "plugin://plugin.video.f4mTester/?url=http://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8&amp;streamtype=HLSRETRY&amp;name=UCANKUS TV HD" logo= "https://cdn.ucankus.com/img/lsakgfjsadwlkgshjklgshkjdghnskjghsdhg.jpeg"
+name= TRT HABER HD url= "plugin://plugin.video.f4mTester/?url=http://mn-nl.mncdn.com/blutv_trthaber/smil:trthaber_hd.smil/chunklist_b3128000.m3u8&amp;streamtype=HLSRETRY&amp;name=TRT HABER HD" logo= "https://www.trthaber.com//m/static/images/logo/footer-logo.png"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
