@@ -1,1 +1,1 @@
-name= German TV url= "plugin://plugin.video.sgk_live-portal/?fanart=C%3a%5cUsers%5cELIAS%20K%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.sgk_live-portal%5cfanart.jpg&amp;mode=1&amp;name=%5bCOLORdeepskyblue%5d1.%5b%2fCOLOR%5d%20%5bB%5dGerman%5b%2fB%5d&amp;url=https%3a%2f%2fbit.ly%2f2VVa804" logo= "https://live.staticflickr.com/3828/8839769897_4c23580706_b.jpg"
+name= German TV url= "plugin://plugin.video.sgk_live-portal/?url=https%3A%2F%2Fmcdn.daserste.de%2Fdaserste%2Fde%2Fmaster_3744.m3u8" logo= "https://live.staticflickr.com/3828/8839769897_4c23580706_b.jpg"
