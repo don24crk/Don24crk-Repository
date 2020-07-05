@@ -1,1 +1,1 @@
-name= German TV url= "plugin://plugin.video.joyn/?block_id&amp;channel_id&amp;channel_path&amp;client_data&amp;compilation_id&amp;fav_type&amp;mode=channels&amp;movie_id&amp;season_id&amp;stream_type=LIVE&amp;title=Live%20TV&amp;tv_show_id&amp;video_id&amp;viewtype" logo= "https://live.staticflickr.com/3828/8839769897_4c23580706_b.jpg"
+name= German TV url= "plugin://plugin.video.joyn_app/fetch/id=410:d50d6f558ab31ad3169c8afa1930f7b3/type=LiveLane" logo= "https://live.staticflickr.com/3828/8839769897_4c23580706_b.jpg"
