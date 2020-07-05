@@ -1,1 +1,7 @@
-name= German TV url= "https://mcdn.daserste.de/daserste/de/master_3744.m3u8" logo= "https://live.staticflickr.com/3828/8839769897_4c23580706_b.jpg"
+name= Ard url= "https://mcdn.daserste.de/daserste/de/master.m3u8" logo= "https://live.staticflickr.com/3828/8839769897_4c23580706_b.jpg"
+name= Zdf url= "https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8" logo= "https://live.staticflickr.com/3828/8839769897_4c23580706_b.jpg"
+name= Wdr url= "http://wdrfsgeo-lh.akamaihd.net/i/wdrfs_geogeblockt@530016/master.m3u8" logo= "https://live.staticflickr.com/3828/8839769897_4c23580706_b.jpg"
+name= 3sat url= "https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8" logo= "https://live.staticflickr.com/3828/8839769897_4c23580706_b.jpg"
+name= arte url= "https://artelive-lh.akamaihd.net/i/artelive_de@393591/master.m3u8" logo= "https://live.staticflickr.com/3828/8839769897_4c23580706_b.jpg"
+name= kika url= "https://kikade-lh.akamaihd.net/i/livetvkika_de@450035/master.m3u8" logo= "https://live.staticflickr.com/3828/8839769897_4c23580706_b.jpg"
+name= tagesschau24 url= "http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8" logo= "https://live.staticflickr.com/3828/8839769897_4c23580706_b.jpg"
