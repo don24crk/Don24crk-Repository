@@ -1,1 +1,1 @@
-name= German TV url= "plugin://plugin.video.sgk_live-portal/?url=https%3A%2F%2Fmcdn.daserste.de%2Fdaserste%2Fde%2Fmaster_3744.m3u8" logo= "https://live.staticflickr.com/3828/8839769897_4c23580706_b.jpg"
+name= German TV url= "https://mcdn.daserste.de/daserste/de/master_3744.m3u8" logo= "https://live.staticflickr.com/3828/8839769897_4c23580706_b.jpg"
