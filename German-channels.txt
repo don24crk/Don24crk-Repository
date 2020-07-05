@@ -1,1 +1,1 @@
-name= German TV url= "plugin://plugin.video.zappntv/category/livestream&quot;,return" logo= "https://live.staticflickr.com/3828/8839769897_4c23580706_b.jpg"
+name= German TV url= "plugin://plugin.video.zappntv/category/livestream/kabel eins" logo= "https://live.staticflickr.com/3828/8839769897_4c23580706_b.jpg"
