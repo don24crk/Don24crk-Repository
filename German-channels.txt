@@ -21,6 +21,7 @@ name= RTLnitro url= "http://cloudcdn.tk/live/uL5ixc2MCg/lQZZqjLn8y/14048.m3u8" l
 name= SuperRTL url= "https://wer22.wertvlive.com/hls/150022.m3u8" logo= "https://live.staticflickr.com/3828/8839769897_4c23580706_b.jpg"
 name= MTV url= "http://unilivemtveu-lh.akamaihd.net/i/mtvde_1@134922/master.m3u8" logo= "https://live.staticflickr.com/3828/8839769897_4c23580706_b.jpg"
 name= 13TH Street url= "http://clientportal.link/live/muhametGas/mRhXrK398/14060.m3u8" logo= "https://live.staticflickr.com/3828/8839769897_4c23580706_b.jpg"
+name= Welt der Wunder url= "http://wowza-1.weltderwunder.net:1935/live/weltderwunder/playlist.m3u8" logo= "https://live.staticflickr.com/3828/8839769897_4c23580706_b.jpg"
 
 
 
