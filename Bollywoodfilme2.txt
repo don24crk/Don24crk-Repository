@@ -18,6 +18,20 @@ name= Liebe lieber indisch url= "https://bit.ly/2CGcDgU|User-Agent=Mozilla/5.0 (
 name= Slumdog Millionär url= "https://bit.ly/30gD8Bk|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:78.0) Gecko/20100101 Firefox/78.0" logo= "https://images-na.ssl-images-amazon.com/images/I/71e%2BiQEHxtL._SX355_.jpg"
 name= Mein Herz schlägt indisch url= "https://bit.ly/2CAlb8Q|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:78.0) Gecko/20100101 Firefox/78.0" logo= "https://images-na.ssl-images-amazon.com/images/I/51IlpcrpUIL._SY445_.jpg"
 name= Mission Azaad - der indische Zorro url= "https://bit.ly/3j0Kodr|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:78.0) Gecko/20100101 Firefox/78.0" logo= "https://images-na.ssl-images-amazon.com/images/I/51Ui-HGZSRL._SY445_.jpg"
+name= Sternenkind – Koi Mil Gaya url= "https://bit.ly/30iJYq4|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:78.0) Gecko/20100101 Firefox/78.0" logo= "https://images-na.ssl-images-amazon.com/images/I/71qtf-ouU0L._SL1215_.jpg"
+name= Krrish url= "plugin://plugin.video.xstream/?site=alleserien_com&amp;function=showHosters&amp;title=Krrish%2C+der+Sternenheld&amp;sName=Krrish%2C+der+Sternenheld%5C&amp;thumb=https%3A%2F%2Falleserien.com%2Fuploads%2Ffilmcover%2Fkrrish-der-sternenheld.jpg%5C%7CUser-Agent%3DMozilla%2F5.0+%28Windows+NT+6.1%3B+Win64%3B+x64%3B+rv%3A63.0%29+Gecko%2F20100101+Firefox%2F63.&amp;mediaType=movie&amp;sThumbnail=https%3A%2F%2Falleserien.com%2Fuploads%2Ffilmcover%2Fkrrish-der-sternenheld.jpg%5C%7CUser-Agent%3DMozilla%2F5.0+%28Windows+NT+6.1%3B+Win64%3B+x64%3B+rv%3A63.0%29+Gecko%2F20100101+Firefox%2F63.0&amp;entryUrl=https%3A%2F%2Falleserien.com%2Fkrrish-der-sternenheld-filme-stream-hd-deutsch-zusehen&amp;MovieTitle=Krrish%2C+der+Sternenheld&amp;playMode=play" logo= "https://images-na.ssl-images-amazon.com/images/I/61k7N4ZABtL._SY445_.jpg"
+name= Krrish 3 url= "plugin://plugin.video.xstream/?site=alleserien_com&amp;function=showHosters&amp;title=Krrish+3&amp;sName=Krrish+3%5C&amp;thumb=https%3A%2F%2Falleserien.com%2Fuploads%2Ffilmcover%2Fkrrish-3.jpg%5C%7CUser-Agent%3DMozilla%2F5.0+%28Windows+NT+6.1%3B+Win64%3B+x64%3B+rv%3A63.0%29+Gecko%2F20100101+Firefox%2F63.&amp;mediaType=movie&amp;sThumbnail=https%3A%2F%2Falleserien.com%2Fuploads%2Ffilmcover%2Fkrrish-3.jpg%5C%7CUser-Agent%3DMozilla%2F5.0+%28Windows+NT+6.1%3B+Win64%3B+x64%3B+rv%3A63.0%29+Gecko%2F20100101+Firefox%2F63.0&amp;entryUrl=https%3A%2F%2Falleserien.com%2Fkrrish-3-filme-stream-hd-deutsch-zusehen&amp;MovieTitle=Krrish+3&amp;playMode=play" logo= "https://images-na.ssl-images-amazon.com/images/I/91f0wMWp4FL._SX300_.jpg"
+name= Mandy url= "plugin://plugin.video.xstream/?site=alleserien_com&amp;function=showHosters&amp;title=Mandy&amp;sName=Mandy%5C&amp;thumb=https%3A%2F%2Falleserien.com%2Fuploads%2Ffilmcover%2Fmandy.jpg%5C%7CUser-Agent%3DMozilla%2F5.0+%28Windows+NT+6.1%3B+Win64%3B+x64%3B+rv%3A63.0%29+Gecko%2F20100101+Firefox%2F63.&amp;mediaType=movie&amp;sThumbnail=https%3A%2F%2Falleserien.com%2Fuploads%2Ffilmcover%2Fmandy.jpg%5C%7CUser-Agent%3DMozilla%2F5.0+%28Windows+NT+6.1%3B+Win64%3B+x64%3B+rv%3A63.0%29+Gecko%2F20100101+Firefox%2F63.0&amp;entryUrl=https%3A%2F%2Falleserien.com%2Fmandy-filme-stream-hd-deutsch-zusehen&amp;MovieTitle=Mandy&amp;playMode=play" logo= "https://images-na.ssl-images-amazon.com/images/I/81HPwVGzEZL._SX342_.jpg"
+
+
+
+
+
+
+
+
+
+
 
 
 
