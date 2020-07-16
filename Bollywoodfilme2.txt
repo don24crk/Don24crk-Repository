@@ -25,7 +25,7 @@ name= Mandy url= "plugin://plugin.video.xstream/?site=alleserien_com&amp;functio
 name= Josh - Mein Herz Gehört dir url= "https://bit.ly/3j8Qto5|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:78.0) Gecko/20100101 Firefox/78.0" logo= "https://www.moviejones.de/facebook/bilder/filme/025/25313_p.jpg"
 name= Anjaam - Heute Liebe Morgen Hass url= "https://bit.ly/32myVPv|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:78.0) Gecko/20100101 Firefox/78.0" logo= "https://images-na.ssl-images-amazon.com/images/I/51TC08F878L._SY445_.jpg"
 name= Bazigaar - Betrogene Liebe url= "https://bit.ly/3eyoxq9|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:78.0) Gecko/20100101 Firefox/78.0" logo= "https://images-na.ssl-images-amazon.com/images/I/31DGYNMQPFL.jpg"
-
+name= Eine Reise für die Liebe url= "https://bit.ly/3eIdafC|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:78.0) Gecko/20100101 Firefox/78.0" logo= "https://images-na.ssl-images-amazon.com/images/I/71tEB-CAjhL._SL1200_.jpg"
 
 
 
