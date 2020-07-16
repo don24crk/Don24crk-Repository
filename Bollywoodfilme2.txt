@@ -24,6 +24,7 @@ name= Krrish 3 url= "plugin://plugin.video.xstream/?site=alleserien_com&amp;func
 name= Mandy url= "plugin://plugin.video.xstream/?site=alleserien_com&amp;function=showHosters&amp;title=Mandy&amp;sName=Mandy%5C&amp;thumb=https%3A%2F%2Falleserien.com%2Fuploads%2Ffilmcover%2Fmandy.jpg%5C%7CUser-Agent%3DMozilla%2F5.0+%28Windows+NT+6.1%3B+Win64%3B+x64%3B+rv%3A63.0%29+Gecko%2F20100101+Firefox%2F63.&amp;mediaType=movie&amp;sThumbnail=https%3A%2F%2Falleserien.com%2Fuploads%2Ffilmcover%2Fmandy.jpg%5C%7CUser-Agent%3DMozilla%2F5.0+%28Windows+NT+6.1%3B+Win64%3B+x64%3B+rv%3A63.0%29+Gecko%2F20100101+Firefox%2F63.0&amp;entryUrl=https%3A%2F%2Falleserien.com%2Fmandy-filme-stream-hd-deutsch-zusehen&amp;MovieTitle=Mandy&amp;playMode=play" logo= "https://images-na.ssl-images-amazon.com/images/I/81HPwVGzEZL._SX342_.jpg"
 name= Josh - Mein Herz Gehört dir url= "https://bit.ly/3j8Qto5|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:78.0) Gecko/20100101 Firefox/78.0" logo= "https://www.moviejones.de/facebook/bilder/filme/025/25313_p.jpg"
 name= Anjaam - Heute Liebe Morgen Hass url= "https://bit.ly/32myVPv|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:78.0) Gecko/20100101 Firefox/78.0" logo= "https://images-na.ssl-images-amazon.com/images/I/51TC08F878L._SY445_.jpg"
+name= Bazigaar - Betrogene Liebe url= "https://bit.ly/3eyoxq9|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:78.0) Gecko/20100101 Firefox/78.0" logo= "https://images-na.ssl-images-amazon.com/images/I/31DGYNMQPFL.jpg"
 
 
 
