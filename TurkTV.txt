@@ -6,7 +6,7 @@ name= A2 HD url= "https://trkvz-live.ercdn.net/a2tv/a2tv_720p.m3u8?st=zgMkYUa3Uc
 name= Star HD url= "https://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8" logo= "https://upload.wikimedia.org/wikipedia/en/4/46/Star_TV_logosu.png"
 name= NTV HD url= "https://nt4p9nef.rocketcdn.com/ntvhd.stream_360p/chunklist.m3u8" logo= "https://www.uydufrekanslari.gen.tr/images/Ntv-Hd-Frekans-82.png"
 name= KanalD HD url= "http://ch.canlitvlive.io/kanald/live.m3u8?tkn=wQY8cQIBMklW2sPFF4X-hQ&tms=1600982299" logo= "https://i.kanald.com.tr/i/kanald/70/1200x630/5b8c55b5e94fb71488087b88.jpg"
-name= SHOW TV HD url= "https://ciner-live.ercdn.net/showturk/showturk_576p.m3u8?e=1600968296&st=ipNNPNdP8sCuWipwDqonXg&tv=1" logo= "https://m.showtv.com.tr/assets/images/other/showtv_social_media.jpg"
+name= SHOW TV HD url= "https://59c7ea6bec1c6.streamlock.net/live/showtv.stream/chunklist_w481034691.m3u8" logo= "https://m.showtv.com.tr/assets/images/other/showtv_social_media.jpg"
 name= FOX TV HD url= "https://foxtv-live-ad.ercdn.net/foxtv/foxtv_480p.m3u8?e=1601008463&st=eUHM29OOXfMnGohMGtdUfQ logo= "https://foxtv-static2.ercdn.net/img/FOXLogo.jpg"
 name= TV8 HD url= "https://59c7ea6bec1c6.streamlock.net/live/tv8.stream/chunklist_w1615319803.m3u8?hash=57876f435eb0c41e742b7582f8c2d06c" logo= https://www.canlitvizlemeli.com/uploads/kanal/28010tv8-canli-yayin.jpg"
 name= TRT1 HD url= "https://tv-trt1.live.trt.com.tr/master.m3u8" logo= "https://www.trt.net.tr/canliyayinlogolar/trt_1_canli_logo.jpg"
