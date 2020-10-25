@@ -6,4 +6,6 @@ name= Die Rache der Putzfrauen  url= "https://pmd.netzkino-seite.netzkino.de/Gre
 name= Beauty in the Broken – Folge deinem Herzen  url= "https://pmd.netzkino-seite.netzkino.de/CLA_Exklusiv/Beauty_in_the_Broken_-_Folge_deinem_Herzen.mp4" logo= "https://i.ytimg.com/vi/2stHOc9Zf0s/maxresdefault.jpg"
 name= Hellraiser IV – Bloodline url= "https://pmd.netzkino-seite.netzkino.de/Great_Movies_NK60/Hellraiser_IV_-_Bloodline.mp4" logo= "https://images-na.ssl-images-amazon.com/images/I/51utm7CoSbL._SY445_.jpg"
 name= Nine Dead url= "https://pmd.netzkino-seite.netzkino.de/CLA/Nine_Dead.mp4" logo= "https://i.pinimg.com/564x/0e/29/fc/0e29fcf43a0c84a5a7eceec763aded59.jpg"
-name= Halloween – Süßes oder Saures url= "https://pmd.netzkino-seite.netzkino.de/Great_Movies_NKS/Halloween_-_Suesses_oder_Saures.mp4" logo= "https://de.web.img3.acsta.net/c_215_290/pictures/19/10/28/09/39/3606755.jpg"
+name= Frauds – Ein schräger Vogel url= "https://pmd.netzkino-seite.netzkino.de/Screenmedia_NK/Frauds_-_Ein_schraeger_Vogel.mp4" logo= "https://i.ytimg.com/vi/JZEKwyJ4XSI/maxresdefault.jpg"
+name= Hell Fest url= "https://hv20ue.svid.li/hls/dnzpskajzdg4a3gyvdfh7lzrqwotq3jd7qg6oevsrd45xlgfuqj3murjf74a/index-v1-a1.m3u8" logo= "https://de.web.img3.acsta.net/pictures/19/08/28/15/29/3677502.jpg"
+
