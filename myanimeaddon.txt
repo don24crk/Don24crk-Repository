@@ -48,30 +48,78 @@ name= Eureka 7 ep15 human behavior url= "https://virgo.nxload.com/hls/6XwrK5poih
 
 
 
-name= Naka no Hito Genome  ep1 url= "https://delivery-node-ghannam.voe-network.net/6oarmxnawq33cszcrzdnflzq4ed5vmuwlrd7ea342oqscsvlp2dljiobgfiq/v.mp4|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0" logo= "https://cdn.anime4you.one/covers/2310200202101013643.jpg"
-name= Naka no Hito Genome  ep2 url= "https://delivery-node-moghadam.voe-network.net/6oarmxvawq33cszcrzdnfklx52mwx6wzhukrnhgg6pqh6slcaqcadpuclykq/v.mp4|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0" logo= "https://cdn.anime4you.one/covers/2310200202101013643.jpg"
-name= Naka no Hito Genome  ep3 url= "https://delivery-node-ghannam.voe-network.net/6oarmxfawq33cszcrzdnf3zmvf7dejxt4le5qlt6hr74liojab77gpzuklrq/v.mp4|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0" logo= "https://cdn.anime4you.one/covers/2310200202101013643.jpg"
-name= Naka no Hito Genome  ep4 url= "https://delivery-node-moghadam.voe-network.net/6oarmx5awq33cszcrzdnfy3wwt3rox6dptr5eru6yi5upmow5f2saooneeha/v.mp4|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0" logo= "https://cdn.anime4you.one/covers/2310200202101013643.jpg"
-name= Naka no Hito Genome  ep5 url= "https://delivery-node-handal.voe-network.net/6oarmy5awq33cszcrzdnfodt54u3gsnu26yiqa3zok3ymg7ci3oswwu7rcmq/v.mp4|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0" logo= "https://cdn.anime4you.one/covers/2310200202101013643.jpg"
-name= Naka no Hito Genome  ep6 url= "https://delivery-node-moghadam.voe-network.net/6oarmwfawq33cszcrzdnfibtvacucuktd3sp7mkz2jyuzswmndoplemsnpja/v.mp4|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0" logo= "https://cdn.anime4you.one/covers/2310200202101013643.jpg"
-name= Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?  ep1 url= "https://delivery-node-shalhoub.voe-network.net/6oarni52wq33cszcrzdnfll6wowgyts3hro4xtifqkxp5zhra7bwlbozsfma/v.mp4|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0" logo= "https://cdn.anime4you.one/covers/2909200404090911646.jpg"
-name= Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?  ep2 url= "https://delivery-node-essa.voe-network.net/6oarnhf2wq33cszcrzdnfmrav4bnxsb2tyezvwd3o57vkt7xgsoteg2xoozq/v.mp4|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0" logo= "https://cdn.anime4you.one/covers/2909200404090911646.jpg"
-name= Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?  ep3 url= "https://delivery-node-ghannam.voe-network.net/6oarngf2wq33cszcrzdnf3ts5xxd5mszugaofx6dl2rwfwjryyuj5rzhxd4q/v.mp4|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0" logo= "https://cdn.anime4you.one/covers/2909200404090911646.jpg"
-name= Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?  ep4 url= "https://delivery-node-masruq.voe-network.net/6oarnhv2wq33cszcrzdnfld7wpncoxw42artn3dws2wgimcgawjcf2qhrqtq/v.mp4|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0" logo= "https://cdn.anime4you.one/covers/2909200404090911646.jpg"
-name= Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?  ep5 url= "https://delivery-node-hajjar.voe-network.net/6oarnh52wq33cszcrzdnfmrcvihlyz2ujksgzfntenokpf6k36jf2kagtd4q/v.mp4|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0" logo= "https://cdn.anime4you.one/covers/2909200404090911646.jpg"
-name= Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?  ep6 url= "https://delivery-node-masruq.voe-network.net/6oarnhn2wq33cszcrzdnfkbr5kpwtysaky6v5kpsvdwozzd7xsibblqegxia/v.mp4|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0" logo= "https://cdn.anime4you.one/covers/2909200404090911646.jpg"
-name= Shuumatsu no Izetta ep1 url= "https://delivery-node-ghannam.voe-network.net/6oarm3vzwq33cszcrzdnfiduxmmqbgbadobs2murlpxsiwsufyrqitbkhbpa/v.mp4|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0" logo= "https://cdn.anime4you.one/covers/2909200303090911506.jpg"
-name= Shuumatsu no Izetta ep2 url= "https://delivery-node-masruq.voe-network.net/6oarn2nywq33cszcrzdnfyt75fkagh4gugl7m5nuzjuiunm3wbgy2wmlffaq/v.mp4|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0" logo= "https://cdn.anime4you.one/covers/2909200303090911506.jpg"
-name= Shuumatsu no Izetta ep3 url= "https://delivery-node-qureshi.voe-network.net/6oarnrf2wq33cszcrzdnfnjqwamtpybdflgdiwod5qihcoyzpzseb7m57rkq/v.mp4|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0" logo= "https://cdn.anime4you.one/covers/2909200303090911506.jpg"
-name= Shuumatsu no Izetta ep4 url= "https://delivery-node-hajjar.voe-network.net/6oarnff2wq33cszcrzdnfiba5y4djskkloxpgrxywqsdk7fhj3pn6zbivucq/v.mp4|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0" logo= "https://cdn.anime4you.one/covers/2909200303090911506.jpg"
-name= Shuumatsu no Izetta ep5 url= "https://delivery-node-kaliq.voe-network.net/6oarnt5zwq33cszcrzdnf2bwxxpepkeso2hvm7rifo727aodgi3vpwcx2uta/v.mp4|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0" logo= "https://cdn.anime4you.one/covers/2909200303090911506.jpg"
-name= Shuumatsu no Izetta ep6 url= "https://delivery-node-sumnah.voe-network.net/6oarm553wq33cszcrzdnfozb4diprji77ycy6mlmuwyacwbdlofqvsikb5na/v.mp4|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0" logo= "https://cdn.anime4you.one/covers/2909200303090911506.jpg"
-name= Asagao to Kase-san ep1 url= "https://node--andrea.vivo.sx/vod/bRZ2cv45qRtgo0_e47DtKQ/1603834302/0064243368|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0" logo= "https://cdn.anime4you.one/covers/kase-san.jpg"
-name= detektiv conan ep97 url= "https://delivery-node-fatima.voe-network.net/6oarm64gwq33cszcrzd5fkduxkrhxlqfalbnjvucc53dchmhqzf473lutwjq/v.mp4|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0" logo= "https://cdn.anime4you.one/covers/201018030310101721.jpg"
-name= detektiv conan ep98 url= "https://delivery-node-essa.voe-network.net/6oarm5mgwq33cszcrzd5fnbw5uysltp7h5sukeprpercbjdvt6btx7m5azqa/v.mp4|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0" logo= "https://cdn.anime4you.one/covers/201018030310101721.jpg"
-name= detektiv conan ep99 url= "https://delivery-node-adiva.voe-network.net/6oark44gwq33cszcrzd5flz6x5rm7ldae4s3ng4gxalcwvx56cxe4ph7hvxa/v.mp4|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0" logo= "https://cdn.anime4you.one/covers/201018030310101721.jpg"
-name= detektiv conan ep103 url= "https://delivery-node-masruq.voe-network.net/6oarm4mgwq33cszcrzd5fobo5cbd743tyylmfam3pa3odcctux53qvtdq2ma/v.mp4|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0" logo= "https://cdn.anime4you.one/covers/201018030310101721.jpg"
-name= detektiv conan ep104 url= "https://delivery-node-masruq.voe-network.net/6oarm4ugwq33cszcrzd5fpzdwd2rgr3psdy7lwli2hydxi66b3imqf4u5ona/v.mp4|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0" logo= "https://cdn.anime4you.one/covers/201018030310101721.jpg"
+name= Star Blazers: Space Battleship Yamato 2199 (2013)  ep1 der gesandte von iscandar url= "https://hoag.nxload.com/hls/3AfgAQLW1a3VCpcmXzsG07-BZSZ21ml5JRQ5F8Gj9X9N2QHxQI00aZtT3j4ZzCZZxqFwfsKBuFq1ZMQxdZ8EyjYgNCF8PJFM5kioLl6O/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0" logo= "https://skcdn.tv/cover/0e182e7728f9d8cb7aca6a49461867403.jpg"
+name= Star Blazers: Space Battleship Yamato 2199 (2013)  ep2 unser ziel ist das sternenmeer url= "https://tadpole.nxload.com/hls/2vwWhSDh251oCcAEEiuQK5-1NEnIuLFbp4v6mcP4pfVGoAtXlMkR1pdctNrHagFFNXa5zwvz6dwYp3nN7Ve57nYMMmFmNYweeBcKwi5p/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0" logo= "https://skcdn.tv/cover/0e182e7728f9d8cb7aca6a49461867403.jpg"
+name= Star Blazers: Space Battleship Yamato 2199 (2013)  ep3 flucht aus der sphäre des jupiter url= "https://vilea.evosrv.com/EvoStreams/FNtrYcUkgGAx2eFbW4YJ.mkv.mp4?md5=G3rSKRkOIpqpDi-JIMnlwg&expires=1603908811|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0" logo= "https://skcdn.tv/cover/0e182e7728f9d8cb7aca6a49461867403.jpg"
+name= Star Blazers: Space Battleship Yamato 2199 (2013)  ep4 grabstein auf dem eisfeld url= "https://aurora.nxload.com/hls/6iMp6XzgbvHhjolTC6k3GY-8agyvwsJESQruo4uA5R98u8kGwW8wm33T66HvtjkIGJ9NzFVNbr1QWc8gf0lCirWSfMlAo8I1L2XYgnjd/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0" logo= "https://skcdn.tv/cover/0e182e7728f9d8cb7aca6a49461867403.jpg"
+name= Star Blazers: Space Battleship Yamato 2199 (2013)  ep5 falle ohne toten winkel url= "https://hoag.nxload.com/hls/3wGsWx12F0Ry6l2wcfPUHT-ApgO84NC0u0XrG2o6JqvzEdzhGfob1HME6n4xR41GKneD9LlRc4tqyHXv4r3Of1M3atYZtgBnOPinUyOb/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0" logo= "https://skcdn.tv/cover/0e182e7728f9d8cb7aca6a49461867403.jpg"
+name= Star Blazers: Space Battleship Yamato 2199 (2013)  ep6 abendsonne auf dem pluto url= "https://vilea.evosrv.com/EvoStreams/taZ1fz3r9HMflwgGUxPC.mkv.mp4?md5=VQBlRtlN-y8PXY4qdXO0eg&expires=1603909289|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0" logo= "https://skcdn.tv/cover/0e182e7728f9d8cb7aca6a49461867403.jpg"
+name= Star Blazers: Space Battleship Yamato 2199 (2013)  ep7 abschied vom sonnensystem url= "https://sunflower.nxload.com/hls/6ClcBUZs2cegO9TxouvacY-VkWEvwJgJJc7LDSazCxbfgRH7nygMUCbZez9vBVVLPUIM405654a4hTotJ6MmP3VY5zVSDbuMm9VPQS1/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0" logo= "https://skcdn.tv/cover/0e182e7728f9d8cb7aca6a49461867403.jpg"
+name= Star Blazers: Space Battleship Yamato 2199 (2013)  ep8 ein wunsch an die sterne url= "https://virgo.nxload.com/hls/3qr72nqN87gRLPnoGSbVom-3wWxL1t2p591YvCcpYvEV9TPgTvab2xnT2iX6kqEydduXUXMSZzSC6hgpPrcOx7eVPCet5vNMflfwQ7M9/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0" logo= "https://skcdn.tv/cover/0e182e7728f9d8cb7aca6a49461867403.jpg"
+name= Star Blazers: Space Battleship Yamato 2199 (2013)  ep9 die gefangene puppe url= "https://mania.evosrv.com/EvoStreams/xwDttsgtRaIOGqpnRqz3.mkv.mp4?md5=G2PvGXlBvsnDk64aWk2LpA&expires=1603909619|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0" logo= "https://skcdn.tv/cover/0e182e7728f9d8cb7aca6a49461867403.jpg"
+name= Star Blazers: Space Battleship Yamato 2199 (2013)  ep10 der friedhof des universums url= "https://hoag.nxload.com/hls/4SQWpZdAwIZtVcA6NNIjJ9-1KOKMHrkpzxwjBc7mvzT6bgsv4c9NEw1uD1WM3a5jXs0ZGXHdWHSBsDKDYAtPL2zWFMylYhI3RrQWk0cX/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0" logo= "https://skcdn.tv/cover/0e182e7728f9d8cb7aca6a49461867403.jpg"
+name= Star Blazers: Space Battleship Yamato 2199 (2013)  ep11 die welt, die ich einst sah url= "https://sunflower.nxload.com/hls/oOiv5zQ6Z5ePdds2129Cp-BPhRmDUJBxIHmgp9PHgyRykwMz8CNlWnSIOcCNyihNMiqP0gCHxP12bYyO2NTfTd7Ck0JTxe1USNc2FvU/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0" logo= "https://skcdn.tv/cover/0e182e7728f9d8cb7aca6a49461867403.jpg"
+name= Star Blazers: Space Battleship Yamato 2199 (2013)  ep12 was jenseits davon liegt url= "https://lera.evosrv.com/EvoStreams/cojSXCOitDiPgVd5zfBd.mkv.mp4?md5=NqKEM2ssYWhWyvveIaw8UA&expires=1603910012|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0" logo= "https://skcdn.tv/cover/0e182e7728f9d8cb7aca6a49461867403.jpg"
+name= Star Blazers: Space Battleship Yamato 2199 (2013)  ep13 der wolf aus einer anderen dimension url= "https://virgo.nxload.com/hls/4wiiR5aszgzostzE4kVGb9-10jCwNsuScsmDKcv0JU70dwLSv74ylZUJxwXzsTgVc8lBxD9RObYVKC5c0Qzjk1pNs0JppFsqCTnycgst/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0" logo= "https://skcdn.tv/cover/0e182e7728f9d8cb7aca6a49461867403.jpg"
+name= Star Blazers: Space Battleship Yamato 2199 (2013)  ep14 das flüstern der hexe url= "https://lera.evosrv.com/EvoStreams/fT8m5X7NGVFYNog3pCv8.mkv.mp4?md5=Bw-L9kX3Z9K2_Ea907OYMA&expires=1603910223|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0" logo= "https://skcdn.tv/cover/0e182e7728f9d8cb7aca6a49461867403.jpg"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
