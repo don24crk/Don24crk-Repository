@@ -21,6 +21,8 @@ name= Detektiv Conan - Zero der Vollstrecker(2018) url= "https://hoag.nxload.com
 name= Detektiv Conan - Die saphirblaue Faust(2019) url= "https://sunflower.nxload.com/hls/23Re5UIx97dO7R2bb6Cwz0-3Fx0ifSKWos4zkGHTe2eKmJ0J1NQhwtXEag6ZeSjotjeR4YfBMbqiM7NWppdmx7Z5avcKHPuTaicC4xtw/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0" logo= "https://skcdn.tv/cover/d73d7ac542fcf353943c532b4b63c37a3.jpg"
 name= Detektiv Conan - Das Verschwinden des Conan Edogawa(2014) url= "https://fvs.io/redirector?token=elhFc1lpdHF0QU1YbUt6MDJoTWQ3TVdrdmNWYTRlVGNhYVRXR1MvT2xGaVR5d0ZxcVVWYjdyVzV0U2pKdElmNGNCY1dHc2FESTYwemNPUzYxL3RmTjNhNWxBei9yRWM1eTJRRDlZNVVIM3lkMmIxeFE2N2tkeERYNG5uN2h4VS9tK01QY0ZqRTNFaTMxaUFqTHZCZ0FwSnYzTU5mbkZBV0FnPT06WVFWc3gyZXlxNGRkNXdTbjFBWmtlQT09|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0" logo= "https://skcdn.tv/cover/b628e2e7a821ebc373797a835bc50c2e3.jpg"
 name= Detektiv Conan - Episode ONE - Der geschrumpfte Meisterdetektiv(2016) url= "https://chromite.nxload.com/hls/4MVaHIQUv2u5UdJ6Agcfv4-91hrmkaTTtasuXGtue8shW3hbWAT2pWPUGIxuBJzd6M3DuQlOQwCIcL61A6KcSBVt0yirH9ouNBR7Jprt/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0" logo= "https://skcdn.tv/cover/738be7e6383f1d2825a7ec6be0d0a0053.jpg"
+name= Flag - The Movie(1990) url= "https://tadpole.nxload.com/hls/6bnTFQG4oABUrdqw2NL7DP-3HVz0qVHmEN5v5qtLRiUcXhU9hD2dT5iVMrbQE4QWUeW30mrwnHiBNb567T96BjJoTHgYEuRnDKy3ni1R/index-v1-a1.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0" logo= "https://skcdn.tv/cover/5de08d171cbc830166866d84846366163.jpg"
+
 
 
 
