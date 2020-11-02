@@ -10,7 +10,6 @@ name= The Birth of the Dragon url= "plugin://plugin.video.xstream/?site=filmpala
 name= Die Todesfaust des chengli url= "https://bit.ly/326pkeE|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0" logo= "https://skcdn.tv/cover/d73580ad1d51deb7a9727c584a23f9983.jpg"
 name= Der Mann mit der Todeskralle url= "https://bit.ly/3jReSOa|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0" logo= "https://skcdn.tv/cover/721f42e63508b0e11e8d8bab645631913.jpg"
 name= Die legende des Drachen url= "https://bit.ly/35VOUUJ|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0" logo= "https://filmpalast.to/files/movies/450/bruce-lee-die-legende-des-drachen.jpg"
-name= Goodbye, Bruce Lee - Sein letztes Spiel mit dem Tod (1975)
- url= "https://bit.ly/35ZUo0z|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0" logo= "https://s.cine.to/cover/00073061.jpg"
+name= Goodbye, Bruce Lee - Sein letztes Spiel mit dem Tod (1975) url= "https://bit.ly/35ZUo0z|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0" logo= "https://s.cine.to/cover/00073061.jpg"
 
 
