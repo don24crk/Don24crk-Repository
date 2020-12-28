@@ -4,6 +4,28 @@ name= X-Men: New Mutants url= "plugin://plugin.video.xstream/?site=kinox_to&amp;
 name= The Christmas Chronicles url= "plugin://plugin.video.xstream/?site=filmpalast_to&amp;function=showHosters&amp;title=The+Christmas+Chronicles&amp;sName=The+Christmas+Chronicles&amp;thumb=https%3A%2F%2Ffilmpalast.to%2Ffiles%2Fmovies%2F315%2Fthe-christmas-chronicles.jpg&amp;mediaType=movie&amp;sThumbnail=https%3A%2F%2Ffilmpalast.to%2Ffiles%2Fmovies%2F315%2Fthe-christmas-chronicles.jpg&amp;entryUrl=https%3A%2F%2Ffilmpalast.to%2Fstream%2Fthe-christmas-chronicles&amp;MovieTitle=The+Christmas+Chronicles&amp;playMode=play" logo= "https://citizenz.de/wp-content/uploads/2018/11/%C2%A9Netflix-The-Christmas-Chronicles-Kritik-The-Christmas-Chronicles-Netflix.jpg"
 name= The Christmas Chronicles teil 2 url= "plugin://plugin.video.xstream/?site=kinox_to&amp;function=parseMovieEntrySite&amp;title=The+Christmas+Chronicles%3A+Teil+zwei&amp;sUrl=https%3A%2F%2Fkinos.to%2FStream%2FThe_Christmas_Chronicles_Teil_zwei.html&amp;MovieTitle=The+Christmas+Chronicles%3A+Teil+zwei&amp;mediaType=movie&amp;playMode=play" logo= "https://m.media-amazon.com/images/I/A1dVzD5HAxL._SS500_.jpg"
 name= Eine Wüste Bescherung url= "plugin://plugin.video.xstream/?site=hd-streams_org&amp;function=showHosters&amp;title=Eine+W%C3%BCste+Bescherung&amp;entryUrl=https%3A%2F%2Fhd-streams.org%2Fmovies%2Feine-wuste-bescherung-1998&amp;sName=%3Cb%3EEine%3C%2Fb%3E+%3Cb%3EW%C3%BCste%3C%2Fb%3E+%3Cb%3EBescherung%3C%2Fb%3E+&amp;MovieTitle=Eine+W%C3%BCste+Bescherung&amp;thumb=https%3A%2F%2Fhd-streams.org%2F%2Fstorage%2Fimage%2Fmovie%2F2020%2F80c4e863b7a87a634eecae0ed85dd45f_360x540.jpg&amp;mediaType=movie&amp;playMode=play" logo= "https://assets.cdn.moviepilot.de/files/f4469700bb017165abe740d2396bbc1dd9f688ec08808646fa798b8a9381/limit/500/1000/eine-w_ste-bescherung-poster.jpg"
+name= Project Power url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F905cfb34a4&amp;mode=play_link" logo= "https://de.web.img3.acsta.net/pictures/20/07/15/19/21/4865389.jpg"
+name= A Star is Born url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2Fdb16280e5e&amp;mode=play_link" logo= "https://images-na.ssl-images-amazon.com/images/I/9110FMyaUZL.jpg"
+name= Knock Knock url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2Fb90d2f2638&amp;mode=play_link" logo= "https://wieistderfilm.de/wp-content/uploads/2016/05/Knock-Knock-245x345.jpg"
+name= Der Prinz Aus Zamunda url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2Fece8084352&amp;mode=play_link" logo= "https://images-na.ssl-images-amazon.com/images/I/81%2BGDISObyL._SL1183_.jpg"
+name= Catch me if u can url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F3fda3506dd&amp;mode=play_link" logo= "https://images-na.ssl-images-amazon.com/images/I/81V%2Bb69u3xL._SL1500_.jpg"
+name= Matrix url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2Ff6544e0741&amp;mode=play_link" logo= "https://images-na.ssl-images-amazon.com/images/I/71D8%2BNFLZmL._SL1500_.jpg"
+name= Das Streben nach Glück url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F7cd33ad01d&amp;mode=play_link" logo= "https://images-na.ssl-images-amazon.com/images/I/51C-gwVMzFL._SY445_.jpg"
+name= Bridge of Spies - Der Unterhändler url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2Fa3c08a4911&amp;mode=play_link" logo= "https://images-na.ssl-images-amazon.com/images/I/81yHuTNcgpL._SL1500_.jpg"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
