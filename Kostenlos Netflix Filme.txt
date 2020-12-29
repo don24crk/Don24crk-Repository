@@ -12,6 +12,72 @@ name= Catch me if u can url= "plugin://plugin.video.smr_link_tester/?link=https%
 name= Matrix url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2Ff6544e0741&amp;mode=play_link" logo= "https://images-na.ssl-images-amazon.com/images/I/71D8%2BNFLZmL._SL1500_.jpg"
 name= Das Streben nach Glück url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F7cd33ad01d&amp;mode=play_link" logo= "https://images-na.ssl-images-amazon.com/images/I/51C-gwVMzFL._SY445_.jpg"
 name= Bridge of Spies - Der Unterhändler url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2Fa3c08a4911&amp;mode=play_link" logo= "https://images-na.ssl-images-amazon.com/images/I/81yHuTNcgpL._SL1500_.jpg"
+name= The Green Mile url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2Fe10d138f79&amp;mode=play_link" logo= "https://images-na.ssl-images-amazon.com/images/I/61X04eT-vYL._SL1200_.jpg"
+name= Titanic url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F34bc625be4&amp;mode=play_link" logo= "https://images-na.ssl-images-amazon.com/images/I/51G3DHMV3AL._SY445_.jpg"
+name= Wonder Woman url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F16096d55b7&amp;mode=play_link" logo= "https://www.filmtoast.de/wp-content/uploads/Wonder_Woman_2017_BD_Cover-798x1024.jpg"
+name= Wonder Woman 2009 url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F4ff011a294&amp;mode=play_link" logo= "https://static.wikia.nocookie.net/dcmovies/images/a/a6/WonderWoman2009.jpg/revision/latest?cb=20090328181557"
+name= Wonder Woman Bloodlines url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2Fa279af370e&amp;mode=play_link" logo= "https://m.media-amazon.com/images/M/MV5BZTkyNmMzMTEtZTNjMC00NTg4LWJlNTktZDdmNzE1M2YxN2E4XkEyXkFqcGdeQXVyNzU3NjUxMzE@._V1_.jpg"
+name= 8 Mile url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F0fc5610d99&amp;mode=play_link" logo= "https://upload.wikimedia.org/wikipedia/en/8/8b/Eight_mile_ver2.jpg"
+name= Fack ju Göhte url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F351e4f9660&amp;mode=play_link" logo= "https://filmspleen.files.wordpress.com/2014/05/fack-ju-gc3b6hte-poster.jpg"
+name= Fack ju Göhte 2 url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F7b119d769a&amp;mode=play_link" logo= "https://media1.jpc.de/image/w600/front/0/4011976334385.jpg"
+name= Fack ju Göhte 3 url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F14bad440ad&amp;mode=play_link" logo= "https://i.weltbild.de/p/fack-ju-goehte-3-205263618.jpg?v=5&wp=_ads-scroller-mobile"
+name= Türkisch für Anfänger url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F70098262b8&amp;mode=play_link" logo= "https://www.constantin-film.de/uploads/2012/03/81UBQZDrMrL._SL1181_-420x593.jpg?v=1558054527"
+name= Nightlife url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F554bf8590b&amp;mode=play_link" logo= "https://de.web.img2.acsta.net/pictures/20/01/10/11/17/4174790.jpg"
+name= Das Perfekte Geheimnis url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F0ff07bdd9c&amp;mode=play_link" logo= "https://images-na.ssl-images-amazon.com/images/I/81wgR4eicuL._SL1500_.jpg"
+name= Kidnapping Stella url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F9caafac582&amp;mode=play_link" logo= "https://de.web.img2.acsta.net/pictures/19/09/03/18/52/2458010.jpg"
+name= Die Goldfische url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F765e27bf36&amp;mode=play_link" logo= "https://de.web.img2.acsta.net/pictures/18/12/19/11/30/0872980.jpg"
+name= Er ist wieder da url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F063d7d4053&amp;mode=play_link" logo= "https://media1.jpc.de/image/w600/front/0/4011976892984.jpg"
+name= V Wie Vendetta url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F5f6d355fc7&amp;mode=play_link" logo= "https://images-na.ssl-images-amazon.com/images/I/51VcLuzmGpL.jpg"
+name= Equilibrium url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F2e723c59c0&amp;mode=play_link" logo= "https://images-na.ssl-images-amazon.com/images/I/51K2WVH130L._SY445_.jpg"
+name= Crying Freeman url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F13f0dc0cc7&amp;mode=play_link" logo= "https://images-na.ssl-images-amazon.com/images/I/91ayBlF73ML._SL1500_.jpg"
+name= Iron Man url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F11e3ba7e54&amp;mode=play_link" logo= "https://upload.wikimedia.org/wikipedia/en/0/00/Iron_Man_poster.jpg"
+name= Der Unglaubliche Hulk url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2Fb3148a90e0&amp;mode=play_link" logo= "https://de.web.img3.acsta.net/medias/nmedia/18/66/54/35/18938457.jpg"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
