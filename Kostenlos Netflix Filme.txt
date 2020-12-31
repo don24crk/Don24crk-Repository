@@ -32,6 +32,24 @@ name= Equilibrium url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%
 name= Crying Freeman url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F13f0dc0cc7&amp;mode=play_link" logo= "https://images-na.ssl-images-amazon.com/images/I/91ayBlF73ML._SL1500_.jpg"
 name= Iron Man url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F11e3ba7e54&amp;mode=play_link" logo= "https://upload.wikimedia.org/wikipedia/en/0/00/Iron_Man_poster.jpg"
 name= Der Unglaubliche Hulk url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2Fb3148a90e0&amp;mode=play_link" logo= "https://de.web.img3.acsta.net/medias/nmedia/18/66/54/35/18938457.jpg"
+name= Der Soldat James Ryan url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F25d78d77cb&amp;mode=play_link" logo= "https://images-na.ssl-images-amazon.com/images/I/515V0WXZF4L.jpg"
+name= Superbad url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F3db694cb73&amp;mode=play_link" logo= "https://upload.wikimedia.org/wikipedia/en/8/8b/Superbad_Poster.png"
+name= Deathwish url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2Fembed%2Fb62736b737&amp;mode=play_link" logo= "https://blu-ray-rezensionen.net/wp-content/uploads/2018/08/Death-Wish-4K-UHD-Blu-ray-Review-Cover.jpg"
+name= Star Wars: Episode IX - Der Aufstieg Skywalkers url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F517276bcdf&amp;mode=play_link" logo= "https://blu-ray-rezensionen.net/wp-content/uploads/2020/04/star_wars_der_aufstieg_skywalkers_4k_uhd_blu_ray_review_cover.jpg"
+name= Soul url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2Fa1c1538602&amp;mode=play_link" logo= "https://images-na.ssl-images-amazon.com/images/I/71Cpdkzc-TL._AC_SY741_.jpg"
+name= JoJo Rabbit url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2Ffa8f09a04e&amp;mode=play_link" logo= "https://images-na.ssl-images-amazon.com/images/I/91d8hc6VhPL._SL1500_.jpg"
+name= Lindenberg! Mach dein Ding! url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2Fdb94c82f66&amp;mode=play_link" logo= "https://i.weltbild.de/p/lindenberg-mach-dein-ding-305527289.jpg?v=1&wp=_ads-scroller-mobile"
+
+
+
+
+
+
+
+
+
+
+
 
 
 
