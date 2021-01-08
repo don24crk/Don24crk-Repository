@@ -4,7 +4,7 @@ name= Miley Cyrus - Wonder World Tour (Live at the O2) (1080p HD) url= "plugin:/
 name= Hannah Montana - Konzert (Radio Disney Totally 10 Birthday Celebration 2006) url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvidoza.net%2Frh0744dzyq2w.html&amp;mode=play_link" logo= "https://i.ytimg.com/vi/u4wExQx5vLQ/hqdefault.jpg"
 name= Miley Cyrus - Gypsy Heart Tour (Full concert) url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvidoza.net%2Fpysgxdbrg9c5.html&amp;mode=play_link" logo= "https://i.ytimg.com/vi/4ZQ2pyPzhqg/maxresdefault.jpg"
 name= Miley Cyrus at Primavera Sound Festival 2019 url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvidoza.net%2Fhzajkc8kdmg0.html&amp;mode=play_link" logo= "https://i.ytimg.com/vi/gX4xV6LpKcY/maxresdefault.jpg"
-name= Miley Cyrus Live at Rock in Rio Lisbon - Full Show url= "plugin://plugin.video.smr_link_tester/?link=Miley+Cyrus+Live+at+Rock+in+Rio+Lisbon+-+Full+Show&amp;mode=play_link" logo= "https://i.ytimg.com/vi/aA3J5VS63Z8/maxresdefault.jpg"
+name= Miley Cyrus Live at Rock in Rio Lisbon - Full Show url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvidoza.net%2F3n83uni5d2gp.html&amp;mode=play_link" logo= "https://i.ytimg.com/vi/aA3J5VS63Z8/maxresdefault.jpg"
 
 
 
