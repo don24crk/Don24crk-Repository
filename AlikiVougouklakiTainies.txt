@@ -11,5 +11,5 @@ name= The wood came out of Paradise  url= "plugin://plugin.video.smr_link_tester
 name= A Funny Girl (1970)  url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fwww.ok.ru%2Fvideo%2F1398985591381&amp;mode=play_link" logo= "https://greek-movies.com/icon/movie/%CE%95%CE%9D%CE%91%CE%91%CE%A3%CE%A4%CE%95%CE%99%CE%9F%CE%9A%CE%9F%CE%A1%CE%99%CE%A4%CE%A3%CE%991970.jpg"
 name= Alice the Dictator (H) 1972  url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fok.ru%2Fvideo%2F1067094248034&amp;mode=play_link" logo= "https://1.bp.blogspot.com/-Fs0UIzuHt2k/Xa6TwoSdmBI/AAAAAAAAD4c/RN5_VkG8btkqNuRITf0pQuoOiKo0F5K0gCNcBGAsYHQ/s1600/5800b848b29a9c8c51d7cdf4c2421316.jpg"
 name= Our Love (1968) url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fok.ru%2Fvideo%2F1006558120546&amp;mode=play_link" logo= "https://www.e-katastima.com/datafiles/2324.jpg"
-name= The girl of the amusement park url= "https://streamtape.com/e/QWJ6ZmmbW8fJJy|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0" logo= "https://greek-movies.com/icon/movie/tokoritsitoulounapark.jpg"
+name= The girl of the amusement park url= https://ok.ru/video/1658096716343|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0" logo= "https://www.filmy.gr/wp-content/uploads/2020/07/The-Girl-of-the-Funfair-50.jpg"
 
