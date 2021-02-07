@@ -29,6 +29,11 @@ name= TRTMÜZIK HD url= "https://tv-trtmuzik.live.trt.com.tr/master.m3u8|User-Ag
 name= TRT HABER HD url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D2sGacFx5A4w&amp;mode=play_link" logo= "https://www.trthaber.com//m/static/images/logo/footer-logo.png"
 name= TGRT Haber TV HD url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dn_vXQWPIMYo&amp;mode=play_link" logo= "https://i.ytimg.com/vi/n_vXQWPIMYo/maxresdefault.jpg"
 name= HalkTV HD url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D4_FMqcXALII&amp;mode=play_link" logo= "https://i.ytimg.com/vi/4_FMqcXALII/maxresdefault.jpg"
+name= ShowMAX HD url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DQGKEr90CdLg&amp;mode=play_link" logo= "https://i.ytimg.com/vi/QGKEr90CdLg/maxresdefault.jpg"
+
+
+
+
 
 
 
