@@ -41,6 +41,9 @@ name= JoJo Rabbit url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%
 name= Lindenberg! Mach dein Ding! url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2Fdb94c82f66&amp;mode=play_link" logo= "https://i.weltbild.de/p/lindenberg-mach-dein-ding-305527289.jpg?v=1&wp=_ads-scroller-mobile"
 name= Freaky - Körpertausch mit Blutrausch url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvidoza.net%2Fn7ub1pxo3nta.html&amp;mode=play_link" logo= "https://streamworld.co/images/posters/9562.jpg"
 name= Permission url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2Fa4993eb1a0&amp;mode=play_link" logo= "https://filmpalast.to/files/movies/450/permission.jpg"
+name= Der Feind im eigenen Bett url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2Fa4993eb1a0&amp;mode=play_link" logo= "https://images-na.ssl-images-amazon.com/images/I/71PAZIXPORL._RI_.jpg"
+name= Hard Candy url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F7bc3b09048&amp;mode=play_link" logo= "https://skcdn.tv/cover/0e74ee795d32b99b3172ea23f6cce0b33.jpg"
+
 
 
 
