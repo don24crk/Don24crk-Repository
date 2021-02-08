@@ -43,6 +43,7 @@ name= Freaky - Körpertausch mit Blutrausch url= "plugin://plugin.video.smr_link
 name= Permission url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2Fa4993eb1a0&amp;mode=play_link" logo= "https://filmpalast.to/files/movies/450/permission.jpg"
 name= Der Feind im eigenen Bett url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F9703b456a8&amp;mode=play_link" logo= "https://images-na.ssl-images-amazon.com/images/I/71PAZIXPORL._RI_.jpg"
 name= Hard Candy url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F7bc3b09048&amp;mode=play_link" logo= "https://skcdn.tv/cover/0e74ee795d32b99b3172ea23f6cce0b33.jpg"
+name= Ferris macht blau url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F6f27488774&amp;mode=play_link" logo= "https://skcdn.tv/cover/bff9b4744efd543d95ebf78fd8b9c3df3.jpg"
 
 
 
