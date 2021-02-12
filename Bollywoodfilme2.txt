@@ -30,7 +30,7 @@ name= Fanaa - Im Sturm der Liebe url= "plugin://plugin.video.smr_link_tester/?li
 name= Darr url= "plugin://plugin.video.link__tester/?link=https%3A%2F%2Fvivo.sx%2Fembed%2F9760a80737&amp;mode=play_link" logo= "https://images-na.ssl-images-amazon.com/images/I/91JxGSdIBDL._SL1500_.jpg"
 name= Anjaam - Heute Liebe morgen Rache url= "plugin://plugin.video.link__tester/?link=https%3A%2F%2Fvidoza.net%2Fhzpha28fw99e.html&amp;mode=play_link" logo= "https://images-na.ssl-images-amazon.com/images/I/51GA9DC6W1L._SY445_.jpg"
 name= Baazigar url= "plugin://plugin.video.link__tester/?link=https%3A%2F%2Fvidoza.net%2F53dmcfyrx0ls.html&amp;mode=play_link" logo= "https://images-na.ssl-images-amazon.com/images/I/71lrQg46CyL._RI_.jpg"
-name= Josh url= "plugin://plugin.video.link__tester/?link=https%3A%2F%2Fvidoza.net%2Fbdidfxawls3l.html&amp;mode=play_link" logo= "https://images-na.ssl-images-amazon.com/images/I/71UkGrti4FL._SL1000_.jpg"
+name= Josh url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvidoza.net%2Fd047lsfx05mp.html&amp;mode=play_link" logo= "https://images-na.ssl-images-amazon.com/images/I/71UkGrti4FL._SL1000_.jpg"
 name= Eine Reise für die Liebe url= "plugin://plugin.video.link__tester/?link=https%3A%2F%2Fvidoza.net%2F5wjf6ili9fh6.html&amp;mode=play_link" logo= "https://images-na.ssl-images-amazon.com/images/I/71tEB-CAjhL._SL1200_.jpg"
 
 
