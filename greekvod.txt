@@ -1,5 +1,5 @@
 name= Halvai 5-0 (2020) url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fcloudvideo.tv%2Fyvgbytl8lid8&amp;mode=play_link" logo= "https://tainio-mania.online/uploads/mini/posterentrypage/dc/c8a47ad7cb00f15a89d474ce5f88a4.jpg"
-name= Η Αρχόντισσα κι ο Αλήτης (1968) url= "http://nd.vidce.net/d/CJ9eBDCgYBth5XyECO0uMQ/1609114542/video/2015/tt0182730.mp4" logo= "https://tainio-mania.online/uploads/mini/posterentrypage/d5/8c94c3d960a51ad0f7a64be2802f95.jpg"
+name= Η Αρχόντισσα κι ο Αλήτης (1968) url= "http://nd.vidce.net/d/9kPIXuoGkTBByN9QuYpopQ/1613234576/video/2015/tt0182730.mp4|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0" logo= "https://tainio-mania.online/uploads/mini/posterentrypage/d5/8c94c3d960a51ad0f7a64be2802f95.jpg"
 name= greek drama  url= "http://nd.vidce.net/d/dSQC6bejzG1RJfn9aKaXnQ/1609114016/video/2015/km8890989.mp4" logo= "http://finosfilm.com/site/images/logo.png"
 name= greek drama 2 url= "http://nd.vidce.net/d/LeZRygRLSqbbU-aaXX0t5Q/1609114138/video/2015/km4567908.mp4" logo= "http://finosfilm.com/site/images/logo.png"
 name= 45 Τετραγωνικά (2010) url= "https://nd.vidce.net/d/7yTb21KN4tFRHX2XeB1Dcw/1609116075/video/2015/tt1572962.mp4" logo= "https://tainio-mania.online/uploads/mini/posterentrypage/5d/c621749df07f12a20d17ef8f0d11dd.jpg"
