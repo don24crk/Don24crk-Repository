@@ -1,4 +1,4 @@
-name= Mr. Iglesias Pilot url= "plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F53ce06b3a1&amp;mode=play_link" logo= "https://www.imfernsehen.de/gfx/pics/Mr-Iglesias-Feiert-Am-21-Juni-Auf-Netflix-Premiere.jpg"
+name= Mr.Iglesias.S01E01.GERMAN url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F7440a72201&amp;mode=play_link" logo= "https://www.imfernsehen.de/gfx/pics/Mr-Iglesias-Feiert-Am-21-Juni-Auf-Netflix-Premiere.jpg"
 name= Mr.Iglesias.S01E02.GERMAN url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F3a71356f10&amp;mode=play_link" logo= "https://www.imfernsehen.de/gfx/pics/Mr-Iglesias-Feiert-Am-21-Juni-Auf-Netflix-Premiere.jpg"
 name= Mr.Iglesias.S01E03.GERMAN url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2Fa60aeb895c&amp;mode=play_link" logo= "https://www.imfernsehen.de/gfx/pics/Mr-Iglesias-Feiert-Am-21-Juni-Auf-Netflix-Premiere.jpg"
 name= Mr.Iglesias.S01E04.GERMAN url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F0bbae3b0dd&amp;mode=play_link" logo= "https://www.imfernsehen.de/gfx/pics/Mr-Iglesias-Feiert-Am-21-Juni-Auf-Netflix-Premiere.jpg"
