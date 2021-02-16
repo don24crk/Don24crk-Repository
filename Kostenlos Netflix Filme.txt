@@ -44,6 +44,43 @@ name= Permission url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2
 name= Der Feind im eigenen Bett url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F9703b456a8&amp;mode=play_link" logo= "https://images-na.ssl-images-amazon.com/images/I/71PAZIXPORL._RI_.jpg"
 name= Hard Candy url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F7bc3b09048&amp;mode=play_link" logo= "https://skcdn.tv/cover/0e74ee795d32b99b3172ea23f6cce0b33.jpg"
 name= Ferris macht blau url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F6f27488774&amp;mode=play_link" logo= "https://skcdn.tv/cover/bff9b4744efd543d95ebf78fd8b9c3df3.jpg"
+name= Der Zufrühkommer url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F7ad587f021&amp;mode=play_link" logo= "https://de.web.img3.acsta.net/pictures/14/08/06/15/34/153333.jpg"
+name= Turn Me On url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F7e4704bc4b&amp;mode=play_link" logo= "https://www.programmkino.de/wp-content/uploads/2013/07/filmplakat-turn-me-on.jpg"
+name= Die To-Do Liste url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F6ee5b13bc4&amp;mode=play_link" logo= "https://images-na.ssl-images-amazon.com/images/I/71EIfIU0eCL._RI_.jpg"
+name= 18-Year-Old Virgin url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F44567d1a1d&amp;mode=play_link" logo= "https://images-na.ssl-images-amazon.com/images/I/516GQedcWWL._SY445_.jpg"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
