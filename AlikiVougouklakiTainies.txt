@@ -15,6 +15,9 @@ name= The girl of the amusement park url= "plugin://plugin.video.smr_link_tester
 name= The brightest star url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fok.ru%2Fvideo%2F1650942741238&amp;mode=play_link" logo= "https://images-na.ssl-images-amazon.com/images/I/714oHeQkm%2BL._AC_SL1024_.jpg"
 name= The Teacher with Blond Hair  url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fok.ru%2Fvideo%2F1006379272802&amp;mode=play_link" logo= "https://upload.wikimedia.org/wikipedia/el/d/d8/Wiki_cinema_i_daskala.jpg"
 name= The Daughter of the Sun url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fok.ru%2Fvideo%2F1011366038114&amp;mode=play_link" logo= "https://m.media-amazon.com/images/M/MV5BMzI3NzcwNjgtMTIxMy00ODQ5LWE1ZjQtMGFiNmM0YzRhZDZhXkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_.jpg"
+name= ΑΛΙΚΗ ΒΟΥΓΙΟΥΚΛΑΚΗ-interview url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DBx-f3JAglAA&amp;mode=play_link" logo= "https://i.ytimg.com/vi/JqO4jtsSsXQ/hqdefault.jpg"
+
+
 
 
 
