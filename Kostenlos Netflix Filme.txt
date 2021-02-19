@@ -48,6 +48,8 @@ name= Der Zufrühkommer url= "plugin://plugin.video.smr_link_tester/?link=https%
 name= Turn Me On url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F7e4704bc4b&amp;mode=play_link" logo= "https://www.programmkino.de/wp-content/uploads/2013/07/filmplakat-turn-me-on.jpg"
 name= Die To-Do Liste url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F6ee5b13bc4&amp;mode=play_link" logo= "https://images-na.ssl-images-amazon.com/images/I/71EIfIU0eCL._RI_.jpg"
 name= 18-Year-Old Virgin url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F44567d1a1d&amp;mode=play_link" logo= "https://images-na.ssl-images-amazon.com/images/I/516GQedcWWL._SY445_.jpg"
+name= Wonder Woman 1984 url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F99db35b940&amp;mode=play_link" logo= "https://www.sky.de/static/img/crm_kundencenter/sky_21-02_ww84_text_s_verfuegbar_v2.jpg?impolicy=p_cm01_optional_images_s"
+
 
 
 
