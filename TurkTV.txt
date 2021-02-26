@@ -8,7 +8,7 @@ name= NTV HD url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fwww
 name= KanalD HD url= "https://media.duhnet.tvhttps://kdlive.duhnet.tv/S2/HLS_LIVE/kanaldnp/playlist.m3u8|User-Agent=VLC" logo= "https://i.kanald.com.tr/i/kanald/70/1200x630/5b8c55b5e94fb71488087b88.jpg"
 name= SHOW TV HD url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DinOugVa_NYA&amp;mode=play_link" logo= "https://m.showtv.com.tr/assets/images/other/showtv_social_media.jpg"
 name= FOX TV HD url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%kv_hci_lb4k&amp;mode=play_link" logo= "https://foxtv-static2.ercdn.net/img/FOXLogo.jpg"
-name= TV8 HD url= "https://59c7ea6bec1c6.streamlock.net/live/tv8.stream/chunklist_w1615319803.m3u8?hash=57876f435eb0c41e742b7582f8c2d06c|User-Agent=VLC" logo= https://www.canlitvizlemeli.com/uploads/kanal/28010tv8-canli-yayin.jpg"
+name= TV8 HD url= "https://live.kavuntv.com/tv8.m3u8?anahtar=_xxwjgo8Dw4JIsV0U9949w&sure=1614377080&ip=37.201.186.170|User-Agent=VLC" logo= "https://www.canlitvizlemeli.com/uploads/kanal/28010tv8-canli-yayin.jpg"
 name= TRT1 HD url= "https://tv-trt1.live.trt.com.tr/master.m3u8|User-Agent=VLC" logo= "https://www.trt.net.tr/canliyayinlogolar/trt_1_canli_logo.jpg"
 name= TLC HD url= "http://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8|User-Agent=VLC" logo= "https://www.infosat.de/sites/default/files/styles/580x390/adaptive-image/public/news/tlc_hd-655x440_1.jpg?itok=U5esLBWT"
 name= CNNTURK HD url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DX_EWYemclKA&amp;mode=play_link" logo= "https://i2.cnnturk.com/i/cnnturk/75/400x333/5a683c7861361f1d94d8e493.jpg"
