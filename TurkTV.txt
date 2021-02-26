@@ -1,13 +1,13 @@
 name= GSTV HD url= "https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b2328000_sltur.m3u8|User-Agent=VLC" logo= "https://i4.hurimg.com/i/hurriyet/75/600x338/5b0559505d1c2e1c0c4550ff.jpg"
 name= ATV Avrupa url= "plugin://plugin.video.f4mTester/?url=https://streams.livetv.az/turk/atv_turk_sd/chunks.m3u8&amp;streamtype=HLS&amp;name=atv avrupa" logo= "https://i.tmgrup.com.tr/aav/site/v2/i/imaj_atvavrupa_yeni.jpg"
-name= ATV HD url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Ds4aKRcNTJZA&amp;mode=play_link" logo= "https://pbs.twimg.com/profile_images/1224014668009824258/h7ZuDhVH_400x400.jpg"
-name= A SPOR HD url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DplReta6W5rw&amp;mode=play_link" logo= "https://image.yenisafak.com/resim/imagecrop/2017/12/11/11/36/resized_5e52a-ae9e4169asporcanli.jpg"
+name= ATV HD url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%s4aKRcNTJZA&amp;mode=play_link" logo= "https://pbs.twimg.com/profile_images/1224014668009824258/h7ZuDhVH_400x400.jpg"
+name= A SPOR HD url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%Pwiw4UTlRx0&amp;mode=play_link" logo= "https://image.yenisafak.com/resim/imagecrop/2017/12/11/11/36/resized_5e52a-ae9e4169asporcanli.jpg"
 name= A2 HD url= "https://trkvz-live.ercdn.net/a2tv/a2tv.m3u8?st=KrWD3oirytS58Uo2fjPYKQ&e=1611888175&SessionID=io2phjcikgfuvtru4bloj1kf&StreamGroup=canli-yayin&Site=&DeviceGroup=web&referrerSiteId=0fe2a405-8afa-4238-b429-e5f96aec3a5c|User-Agent=VLC" logo= "https://pbs.twimg.com/media/C8g0HPTWsAAT7ox.jpg"
 name= Star HD url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DAPbEMxrFjXo&amp;mode=play_link" logo= "https://www.startv.com.tr/assets/images/content/logopic.jpg?v=1"
 name= NTV HD url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DXEJM4Hcgd3M&amp;mode=play_link" logo= "https://www.uydufrekanslari.gen.tr/images/Ntv-Hd-Frekans-82.png"
 name= KanalD HD url= "https://lotus.tvizlehd.com/kanald.m3u8?tkn=DcjmsiYKOH7dlNssh9nhuQ&tms=1611859086&hst=www.canlitv.legal|User-Agent=VLC" logo= "https://i.kanald.com.tr/i/kanald/70/1200x630/5b8c55b5e94fb71488087b88.jpg"
 name= SHOW TV HD url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DinOugVa_NYA&amp;mode=play_link" logo= "https://m.showtv.com.tr/assets/images/other/showtv_social_media.jpg"
-name= FOX TV HD url= "https://hafiz.tvizlehd.com/foxtv.m3u8?tkn=8BljrWLQhcw7tmAU02dPAw&tms=1611859296&hst=www.canlitv.legal|User-Agent=VLC" logo= "https://foxtv-static2.ercdn.net/img/FOXLogo.jpg"
+name= FOX TV HD url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%kv_hci_lb4k&amp;mode=play_link" logo= "https://foxtv-static2.ercdn.net/img/FOXLogo.jpg"
 name= TV8 HD url= "https://59c7ea6bec1c6.streamlock.net/live/tv8.stream/chunklist_w1615319803.m3u8?hash=57876f435eb0c41e742b7582f8c2d06c|User-Agent=VLC" logo= https://www.canlitvizlemeli.com/uploads/kanal/28010tv8-canli-yayin.jpg"
 name= TRT1 HD url= "https://tv-trt1.live.trt.com.tr/master.m3u8|User-Agent=VLC" logo= "https://www.trt.net.tr/canliyayinlogolar/trt_1_canli_logo.jpg"
 name= TLC HD url= "http://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8|User-Agent=VLC" logo= "https://www.infosat.de/sites/default/files/styles/580x390/adaptive-image/public/news/tlc_hd-655x440_1.jpg?itok=U5esLBWT"
@@ -30,6 +30,7 @@ name= TRT HABER HD url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F
 name= TGRT Haber TV HD url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dn_vXQWPIMYo&amp;mode=play_link" logo= "https://i.ytimg.com/vi/n_vXQWPIMYo/maxresdefault.jpg"
 name= HalkTV HD url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D4_FMqcXALII&amp;mode=play_link" logo= "https://i.ytimg.com/vi/4_FMqcXALII/maxresdefault.jpg"
 name= ShowMAX HD url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DQGKEr90CdLg&amp;mode=play_link" logo= "https://i.ytimg.com/vi/QGKEr90CdLg/maxresdefault.jpg"
+name= Beingsports url= "https://59c7ea6bec1c6.streamlock.net/live/beinsporthaber.stream/chunklist_w1370251903.m3u8?hash=73c319371e8ecc5b02eaca0a4987d4ce|User-Agent=VLC" logo= "https://pbs.twimg.com/profile_images/1124247345632354305/LKC9Riaw.png"
 
 
 
