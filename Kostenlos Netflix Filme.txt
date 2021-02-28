@@ -57,6 +57,7 @@ name= Der Dummschwätzer url= "plugin://plugin.video.smr_link_tester/?link=https
 name= Die Truman Show url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2Ff47eb5ca04&amp;mode=play_link" logo= "https://de.web.img3.acsta.net/medias/nmedia/18/63/49/01/19692335.jpg"
 name= Bruce Allmächtig url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F373bb3712f&amp;mode=play_link" logo= "https://de.web.img3.acsta.net/c_310_420/medias/nmedia/18/63/55/84/18694280.jpg"
 name= Der Ja-Sager url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F778bc79040&amp;mode=play_link" logo= "https://images-na.ssl-images-amazon.com/images/I/91kZXHXjXSL._SL1500_.jpg"
+name= Monster Hunters(2020) url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2Fdfca8e5864&amp;mode=play_link" logo= "https://m.media-amazon.com/images/M/MV5BNzkzYTI2YTgtZmZlOC00NGRhLWIyMGYtZDk4YmQ2ZDkwNzNiXkEyXkFqcGdeQXVyNTkzMzg3NDM@._V1_UY1200_CR85,0,630,1200_AL_.jpg"
 
 
 
