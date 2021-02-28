@@ -52,7 +52,7 @@ name= Wonder Woman 1984 url= "plugin://plugin.video.smr_link_tester/?link=https%
 name= Ace Ventura - Ein tierischer Detektiv url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F6f72dd2f75&amp;mode=play_link" logo= "https://de.web.img3.acsta.net/medias/nmedia/18/91/50/42/20148838.jpg"
 name= Ace Ventura - Jetzt wird's wild url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F23d2e9c30b&amp;mode=play_link" logo= "https://de.web.img3.acsta.net/medias/nmedia/18/78/78/15/19478192.jpg"
 name= Die Maske url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F02ba52331e&amp;mode=play_link" logo= "https://images-na.ssl-images-amazon.com/images/I/91ZDGC86opL._RI_.jpg"
-name= Die Maske(1985) url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvoe.sx%2Fo6ljzhomvrc3&amp;mode=play_link" logo= "https://media1.jpc.de/image/w600/front/0/5050582018677.jpg"
+name= Die Maske(1985) url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvoe.sx%2Fe%2Fo6ljzhomvrc3&amp;mode=play_link" logo= "https://media1.jpc.de/image/w600/front/0/5050582018677.jpg"
 name= Der Dummschwätzer url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F05880f04fc&amp;mode=play_link" logo= "https://images-na.ssl-images-amazon.com/images/I/71-USiJcUwL._SL1200_.jpg"
 name= Die Truman Show url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2Ff47eb5ca04&amp;mode=play_link" logo= "https://de.web.img3.acsta.net/medias/nmedia/18/63/49/01/19692335.jpg"
 name= Bruce Allmächtig url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F373bb3712f&amp;mode=play_link" logo= "https://de.web.img3.acsta.net/c_310_420/medias/nmedia/18/63/55/84/18694280.jpg"
