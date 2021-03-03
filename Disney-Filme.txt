@@ -1,4 +1,4 @@
-name= Arielle,Die Meerjungfrau url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F00eda69af5&amp;mode=play_link" logo= "https://ssl.ofdb.de/images/fassung/17/17187_f.jpg"
+name= Arielle Die Meerjungfrau url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F00eda69af5&amp;mode=play_link" logo= "https://ssl.ofdb.de/images/fassung/17/17187_f.jpg"
 name= Der Koenig der Loewen url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F133092c31d&amp;mode=play_link" logo= "https://images-na.ssl-images-amazon.com/images/I/71GNurJ7MAL._SY445_.jpg"
 name= Bernard und Bianca im Kaenguruland url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2Fc712f2f0bf&amp;mode=play_link" logo= "https://images-na.ssl-images-amazon.com/images/I/81Oi6SDt3KL._SL1500_.jpg"
 name= Disneys Hercules url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F66c47a96a1&amp;mode=play_link" logo= "https://images-na.ssl-images-amazon.com/images/I/51XMAC4WSAL._SY445_.jpg"
@@ -12,8 +12,8 @@ name= Der Gloeckner von Notre Dame url= "plugin://plugin.video.smr_link_tester/?
 name= Susi und Strolch url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F332e86c2aa&amp;mode=play_link" logo= "https://images.booklooker.de/x/00xXmr/Susi-und-Strolch.jpg"
 name= Disneys Anastasia url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F80e93f742f&amp;mode=play_link" logo= "https://images-na.ssl-images-amazon.com/images/I/51N9EYXH6ML._SY445_.jpg"
 name= Der Nussknackerprinz url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2Fa1c705c2ea&amp;mode=play_link" logo= "https://images-na.ssl-images-amazon.com/images/I/81se0VYgbjL._RI_.jpg"
-
-
+name= 101 Dalmatiner url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F0133d1727c&amp;mode=play_link" logo= "https://images-na.ssl-images-amazon.com/images/I/81ucNYuf9QL.jpg"
+name= Cap und Capper 2 url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F11466b1674&amp;mode=play_link" logo= "https://images-na.ssl-images-amazon.com/images/I/813B-63xOXL._SY445_.jpg"
 
 
 
