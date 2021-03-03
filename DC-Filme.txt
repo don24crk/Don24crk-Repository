@@ -20,6 +20,8 @@ name= Batman: Bad Blood(2016) url= "plugin://plugin.video.smr_link_tester/?link=
 name= Batman: Assault on Arkham(2014) url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F08067e89a6&amp;mode=play_link" logo= "https://de.web.img3.acsta.net/c_215_290/pictures/14/10/10/10/01/478993.jpg"
 name= Batman Unlimited- Monster Mayhem(2016) url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2Fe3add02c6c&amp;mode=play_link" logo= "https://images-na.ssl-images-amazon.com/images/I/91Y81as1c8L._SY550_.jpg"
 name= Superman/Batman: Apocalypse(2010) url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F3643fd1b06&amp;mode=play_link" logo= "https://images-na.ssl-images-amazon.com/images/I/91Wk5oZ45KL._SY445_.jpg"
+name= Hulk Vs. - Thor/Wolverine(2009) url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F0e1502f348&amp;mode=play_link" logo= "https://images-na.ssl-images-amazon.com/images/I/51Br2IgsR6L._SY445_.jpg"
+name= Planet Hulk(2010) url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F6d46aaa89b&amp;mode=play_link" logo= "https://m.media-amazon.com/images/M/MV5BYmFlNTNhNjktNDQ4NC00ZmVhLTg2NmYtOWExMmI0MzQ1ODFmL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg"
 
 
 
