@@ -57,7 +57,26 @@ name= Der Dummschwätzer url= "plugin://plugin.video.smr_link_tester/?link=https
 name= Die Truman Show url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2Ff47eb5ca04&amp;mode=play_link" logo= "https://de.web.img3.acsta.net/medias/nmedia/18/63/49/01/19692335.jpg"
 name= Bruce Allmächtig url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F373bb3712f&amp;mode=play_link" logo= "https://de.web.img3.acsta.net/c_310_420/medias/nmedia/18/63/55/84/18694280.jpg"
 name= Der Ja-Sager url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F778bc79040&amp;mode=play_link" logo= "https://images-na.ssl-images-amazon.com/images/I/91kZXHXjXSL._SL1500_.jpg"
-name= Monster Hunters(2020) url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2Fdfca8e5864&amp;mode=play_link" logo= "https://m.media-amazon.com/images/M/MV5BNzkzYTI2YTgtZmZlOC00NGRhLWIyMGYtZDk4YmQ2ZDkwNzNiXkEyXkFqcGdeQXVyNTkzMzg3NDM@._V1_UY1200_CR85,0,630,1200_AL_.jpg"
+name= Scooby! Voll verwedelt(2020) url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F86bdbe8ed4&amp;mode=play_link" logo= "https://de.web.img3.acsta.net/pictures/20/01/08/13/49/3484558.jpg"
+name= Neues aus der Welt(2020) url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F35ca950d09&amp;mode=play_link" logo= "https://de.web.img2.acsta.net/c_310_420/pictures/21/02/05/12/45/5449211.jpg"
+name= Skin Trade(2014) url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F7058be7388&amp;mode=play_link" logo= "https://de.web.img3.acsta.net/pictures/15/05/05/11/48/403404.jpg"
+name= Fighting Beat 2(2010) url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F6eb5a39002&amp;mode=play_link" logo= "https://images-na.ssl-images-amazon.com/images/I/812%2Bu8c05NL._SY445_.jpg"
+name= Street Fighter - Assassin's Fist(2014) url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F01d466643d&amp;mode=play_link" logo= "https://m.media-amazon.com/images/M/MV5BYzg5NDBmYmItM2M0NC00YWYzLTk1YmEtMTM4ZTAzOTcyOTgzXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
