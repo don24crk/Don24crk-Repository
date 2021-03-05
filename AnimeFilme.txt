@@ -22,12 +22,12 @@ name= Detektiv Conan - Episode ONE - Der geschrumpfte Meisterdetektiv(2016) url=
 name= Lupin III vs. Detektiv Conan: The Special(2009) url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F706d94f3a6&amp;mode=play_link" logo= "https://images-na.ssl-images-amazon.com/images/I/51sQW5n7sXL.jpg"
 name= Lupin the 3rd vs. Detective Conan: The Movie(2013) url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F8e04a4ef57&amp;mode=play_link" logo= "https://de.web.img3.acsta.net/pictures/19/11/01/12/47/3627776.jpg"
 name= Gekijouban Blood-C: The Last Dark(2012) url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F1b9f35864c&amp;mode=play_link" logo= "https://skcdn.tv/cover/0677ebe2098487520b6ab5e342d670453.jpg"
-name= Der Junge und das Biest(2015) url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2Fvideo%2Fa8bfece3ce&amp;mode=play_link" logo= "https://skcdn.tv/cover/dc84b98f721755a8735e52c38b9ef4543.jpg"
-name= PsychoPass the movie url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2Fvideo%2Fee343a1a43&amp;mode=play_link" logo= "https://images-na.ssl-images-amazon.com/images/I/51yFVsTdCGL.jpg"
+name= Der Junge und das Biest(2015) url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2Fa8bfece3ce&amp;mode=play_link" logo= "https://skcdn.tv/cover/dc84b98f721755a8735e52c38b9ef4543.jpg"
+name= PsychoPass the movie url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2Fee343a1a43&amp;mode=play_link" logo= "https://images-na.ssl-images-amazon.com/images/I/51yFVsTdCGL.jpg"
 name= Sword Art Online: The Movie - Ordinal Scale url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F1ec265c026&amp;mode=play_link" logo= "https://images-na.ssl-images-amazon.com/images/I/818-4kbVySL._AC_SX522_.jpg"
-name= Berserk Das Goldene Zeitalter 1 url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2Fvideo%2F068089753d&amp;mode=play_link" logo= "https://images-na.ssl-images-amazon.com/images/I/81oawnoMnAL._SL1500_.jpg"
-name= Berserk Das Goldene Zeitalter 2 url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2Fvideo%2F3c0c9a92fe&amp;mode=play_link" logo= "https://images-na.ssl-images-amazon.com/images/I/51fgtHHU1tL._SX342_.jpg"
-name= Berserk Das Goldene Zeitalter 3 url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2Fvideo%2Ffae4786c11&amp;mode=play_link" logo= "https://images-na.ssl-images-amazon.com/images/I/518VJuSAWIL._SY445_.jpg"
+name= Berserk Das Goldene Zeitalter 1 url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F068089753d&amp;mode=play_link" logo= "https://images-na.ssl-images-amazon.com/images/I/81oawnoMnAL._SL1500_.jpg"
+name= Berserk Das Goldene Zeitalter 2 url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F3c0c9a92fe&amp;mode=play_link" logo= "https://images-na.ssl-images-amazon.com/images/I/51fgtHHU1tL._SX342_.jpg"
+name= Berserk Das Goldene Zeitalter 3 url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2Ffae4786c11&amp;mode=play_link" logo= "https://images-na.ssl-images-amazon.com/images/I/518VJuSAWIL._SY445_.jpg"
 
 
 
