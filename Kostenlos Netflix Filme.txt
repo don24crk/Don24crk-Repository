@@ -56,7 +56,7 @@ name= Die Maske(1985) url= "https://delivery-node-masruq.voe-network.net/hls/,6o
 name= Der Dummschwätzer url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F05880f04fc&amp;mode=play_link" logo= "https://images-na.ssl-images-amazon.com/images/I/71-USiJcUwL._SL1200_.jpg"
 name= Die Truman Show url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2Ff47eb5ca04&amp;mode=play_link" logo= "https://de.web.img3.acsta.net/medias/nmedia/18/63/49/01/19692335.jpg"
 name= Bruce Allmächtig url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F373bb3712f&amp;mode=play_link" logo= "https://de.web.img3.acsta.net/c_310_420/medias/nmedia/18/63/55/84/18694280.jpg"
-name= Der Ja-Sager url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F778bc79040&amp;mode=play_link" logo= "https://images-na.ssl-images-amazon.com/images/I/91kZXHXjXSL._SL1500_.jpg"
+name= Der Ja-Sager 2008 url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F778bc79040&amp;mode=play_link" logo= "https://images-na.ssl-images-amazon.com/images/I/91kZXHXjXSL._SL1500_.jpg"
 name= Scooby! Voll verwedelt(2020) url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F86bdbe8ed4&amp;mode=play_link" logo= "https://de.web.img3.acsta.net/pictures/20/01/08/13/49/3484558.jpg"
 name= Neues aus der Welt(2020) url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F35ca950d09&amp;mode=play_link" logo= "https://de.web.img2.acsta.net/c_310_420/pictures/21/02/05/12/45/5449211.jpg"
 name= Skin Trade(2014) url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F7058be7388&amp;mode=play_link" logo= "https://de.web.img3.acsta.net/pictures/15/05/05/11/48/403404.jpg"
