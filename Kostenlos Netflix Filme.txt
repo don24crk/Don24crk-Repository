@@ -74,7 +74,7 @@ name= Der Gezähmte Widerspenstige(1982) url= "plugin://plugin.video.smr_link_te
 name= Wer hat dem Affen den Zucker geklaut?(1982) url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F0a371926f4&amp;mode=play_link" logo= "https://images-na.ssl-images-amazon.com/images/I/51eRB5syTeL.jpg"
 name= Bingo Bongo(1982) url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F85ebc1d522&amp;mode=play_link" logo= "https://www.cinema.de/sites/default/files/styles/schema_org/public/sync/cms3.cinema.de/imgdb/moviedb/29/a0143c5a6793e9a5e20376391232ff7b.jpeg?itok=AqtF6PMp"
 name= Der Mann in der eisernen Maske(1998) url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F4e4c0e0f65&amp;mode=play_link" logo= "https://www.cinema.de/sites/default/files/styles/schema_org/public/sync/cms3.cinema.de/imgdb/import/dreams2/1070/069/2/107006921623.jpg?itok=zf0J49ZO"
-name= Der Prinz aus Zamunda 2(2021) url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fupstream.to%2Fwz7b3xcnv4yc&amp;mode=play_link" logo= "https://de.web.img3.acsta.net/c_310_420/pictures/21/02/01/15/04/0263461.jpg"
+name= Der Prinz aus Zamunda 2(2021) url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fhttp://dood.to%2Fd%2F1tqviiatd0ib&amp;mode=play_link" logo= "https://de.web.img3.acsta.net/c_310_420/pictures/21/02/01/15/04/0263461.jpg"
 
 
 
