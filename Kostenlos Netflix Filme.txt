@@ -64,6 +64,63 @@ name= Fighting Beat 2(2010) url= "plugin://plugin.video.smr_link_tester/?link=ht
 name= Street Fighter - Assassin's Fist(2014) url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F01d466643d&amp;mode=play_link" logo= "https://m.media-amazon.com/images/M/MV5BYzg5NDBmYmItM2M0NC00YWYzLTk1YmEtMTM4ZTAzOTcyOTgzXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg"
 name= Blood Child - Wiege des Bösen url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F94efd19fc8&amp;mode=play_link" logo= "https://de.web.img3.acsta.net/pictures/19/05/13/15/26/5810573.jpg"
 name= Zu guter Letzt url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F9527b63c00&amp;mode=play_link" logo= "https://blob.cede.ch/catalog/15334000/15334507_1_92.jpg?v=1"
+name= Asso(1981) url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2Fa0d7133238&amp;mode=play_link" logo= "https://m.media-amazon.com/images/M/MV5BMzRmZjBlYTUtMGJlOS00Mjc0LThlZmUtZTFjMzliN2FhMzdjXkEyXkFqcGdeQXVyNjc5MjcxNDg@._V1_.jpg"
+name= Sing Sing(1983) url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2Fd0e7c431c3&amp;mode=play_link" logo= "https://assets.cdn.moviepilot.de/files/cb2a6cb76062ee793eafb2b3e603afc721d18fd166ba012da5430de4298f/limit/500/1000/4918dd9523ea4.jpg"
+name= Der Brummbär(1986) url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F711b2a3a4d&amp;mode=play_link" logo= "https://www.cinema.de/sites/default/files/styles/schema_org/public/sync/cms3.cinema.de/imgdb/moviedb/34/b13e6d6aa01ba447bd1c239063557371.jpeg?itok=lzcwAWu1"
+name= Der Millionenfinger(1982) url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F9065574c37&amp;mode=play_link" logo= "https://i.weltbild.de/p/der-millionenfinger-haende-wie-samt-196124167.jpg?v=2&wp=_ads-default-v4"
+name= Der Größte bin ich(1985) url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2Fbe85abd419&amp;mode=play_link" logo= "https://www.cinema.de/sites/default/files/styles/schema_org/public/sync/cms3.cinema.de/imgdb/moviedb/91/549eb37762c6572a321fda4c04f2a442.jpeg?itok=fiAMlboX"
+name= Besondere Kennzeichen: Bellissimo (1983) url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F780a7cb059&amp;mode=play_link" logo= "https://www.cinema.de/sites/default/files/styles/schema_org/public/sync/cms3.cinema.de/imgdb/moviedb/75/b461fc2d82eb93f612383c5af56050b7.jpeg?itok=FWUAvyva"
+name= Der Gezähmte Widerspenstige(1982) url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F96988f2127&amp;mode=play_link" logo= "https://images-na.ssl-images-amazon.com/images/I/81MPcE5DBzL._RI_.jpg"
+name= Wer hat dem Affen den Zucker geklaut?(1982) url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F0a371926f4&amp;mode=play_link" logo= "https://images-na.ssl-images-amazon.com/images/I/51eRB5syTeL.jpg"
+name= Bingo Bongo(1982) url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F85ebc1d522&amp;mode=play_link" logo= "https://www.cinema.de/sites/default/files/styles/schema_org/public/sync/cms3.cinema.de/imgdb/moviedb/29/a0143c5a6793e9a5e20376391232ff7b.jpeg?itok=AqtF6PMp"
+name= Der Mann in der eisernen Maske(1998) url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F4e4c0e0f65&amp;mode=play_link" logo= "https://www.cinema.de/sites/default/files/styles/schema_org/public/sync/cms3.cinema.de/imgdb/import/dreams2/1070/069/2/107006921623.jpg?itok=zf0J49ZO"
+name= Der Prinz aus Zamunda 2(2021) url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fupstream.to%2Fwz7b3xcnv4yc&amp;mode=play_link" logo= "https://de.web.img3.acsta.net/c_310_420/pictures/21/02/01/15/04/0263461.jpg"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
