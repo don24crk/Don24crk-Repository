@@ -21,13 +21,16 @@ images-amazon.com/images/I/81ho-mL2GZL._SY500_.jpg"
 name= The Legend of Bruce Lee(2008) Teil1 url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F9f2e5db1c1&amp;mode=play_link" logo= "https://m.media-amazon.com/images/M/MV5BMTYwMzA4MDIyNF5BMl5BanBnXkFtZTgwMjc1NTk1MDE@._V1_.jpg"
 name= The Legend of Bruce Lee(2008) Teil2 url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F5803e2b39a&amp;mode=play_link" logo= "https://m.media-amazon.com/images/M/MV5BMTYwMzA4MDIyNF5BMl5BanBnXkFtZTgwMjc1NTk1MDE@._V1_.jpg"
 name= Bruce Lee - Seine Erben nehmen Rache url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DJaQSA5neeF4&amp;mode=play_link" logo= "https://www.schnittberichte.com/pics/SBs/200/266006/cover.jpg"
-name= Karate Tiger - Der letzte Kampf url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvoe.sx%2F19m96m06327a&amp;mode=play_link" logo= "https://images-na.ssl-images-amazon.com/images/I/71Fw6hy5cwL._RI_.jpg"
+name= Karate Tiger - Der letzte Kampf url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F92789f51cb&amp;mode=play_link" logo= "https://images-na.ssl-images-amazon.com/images/I/71Fw6hy5cwL._RI_.jpg"
 name= Bloodsport - Eine wahre Geschichte url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2Fd5d6def630&amp;mode=play_link" logo= "https://images-na.ssl-images-amazon.com/images/I/410ZwHFbiQL._SY445_.jpg"
 name= American Fighter 2 - Der Auftrag url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2Fdca9d9eef5&amp;mode=play_link" logo= "https://images-na.ssl-images-amazon.com/images/I/71NS2NCu1wL._SL1200_.jpg"
 name= Mortal Kombat url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F1fe9bf02a9&amp;mode=play_link" logo= "https://upload.wikimedia.org/wikipedia/en/f/fb/Mortal_Kombat_poster.jpg"
 name= Mortal Kombat 2 - Annihilation url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F4a56c53c92&amp;mode=play_link" logo= "https://images-na.ssl-images-amazon.com/images/I/91ZdtkXke9L._SX300_.jpg"
 name= Geballte Ladung url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F79cb62ed56&amp;mode=play_link" logo= "https://images-na.ssl-images-amazon.com/images/I/51RM6DS0H4L._SY445_.jpg"
 name= Rebirth - Rache stirbt nie url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F1acf5a45c4&amp;mode=play_link" logo= "https://images-na.ssl-images-amazon.com/images/I/71OZALQhIQL._SL1208_.jpg"
+name= Karate Kid(1984) url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F3780d139df&amp;mode=play_link" logo= "https://upload.wikimedia.org/wikipedia/en/a/a9/Karate_kid.jpg"
+name= Karate Kid II - Entscheidung in Okinawa(1986) url= "https://thevideos.ga/stream8635eeb8476afa031fc48879c4719670.mp4" logo= "https://www.cinema.de/sites/default/files/styles/schema_org/public/sync/cms3.cinema.de/imgdb/moviedb/56/c3e1e39cd5c195640f8b132ffc8c736b.jpeg?itok=a6VWrQlE"
+name= Karate Kid III - Die letzte Entscheidung (1989) url= "https://thevideos.ga/streamaeb6058f621fb15a6460944536510ccd.mp4" logo= "https://de.web.img2.acsta.net/medias/nmedia/18/90/75/79/20111843.jpg"
 
 
 
