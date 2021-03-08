@@ -1,7 +1,7 @@
 name= GSTV HD url= "https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b2328000_sltur.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0" logo= "https://i4.hurimg.com/i/hurriyet/75/600x338/5b0559505d1c2e1c0c4550ff.jpg"
 name= ATV Avrupa url= "https://trkvz-live.ercdn.net/atvavrupa/atvavrupa_576p.m3u8?st=ZBO4KhLObtjWkKMEVs8-1Q&e=1615084488&SessionID=mqfgnud4axsr5m251fblkv41&StreamGroup=canli-yayin&Site=atvavrupa&DeviceGroup=web|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0" logo= "https://i.tmgrup.com.tr/aav/site/v2/i/imaj_atvavrupa_yeni.jpg"
 name= ATV HD url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%s4aKRcNTJZA&amp;mode=play_link" logo= "https://pbs.twimg.com/profile_images/1224014668009824258/h7ZuDhVH_400x400.jpg"
-name= A SPOR HD url= "https://stream.hdtvizlecanli.com/aspor.m3u8|User-Agent=vlc" logo= "https://image.yenisafak.com/resim/imagecrop/2017/12/11/11/36/resized_5e52a-ae9e4169asporcanli.jpg"
+name= A SPOR HD url= https://c3.xcxc.cf/web/1/www.24detv.de/c3/1615224833/8faBllQWfMSo7OFqGG4Qcg/10996.m3u8|User-Agent=vlc" logo= "https://image.yenisafak.com/resim/imagecrop/2017/12/11/11/36/resized_5e52a-ae9e4169asporcanli.jpg"
 name= A2 HD url= "https://trkvz-live.ercdn.net/a2tv/a2tv_480p.m3u8?st=lm6ApM0nZP4TDIkoffxg-Q&e=1615084437&SessionID=lckabez4fuxqopqxrkjfgoyq&StreamGroup=canli-yayin&Site=&DeviceGroup=web&referrerSiteId=0fe2a405-8afa-4238-b429-e5f96aec3a5c|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0" logo= "https://pbs.twimg.com/media/C8g0HPTWsAAT7ox.jpg"
 name= Star HD url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DAPbEMxrFjXo&amp;mode=play_link" logo= "https://www.startv.com.tr/assets/images/content/logopic.jpg?v=1"
 name= NTV HD url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DXEJM4Hcgd3M&amp;mode=play_link" logo= "https://www.uydufrekanslari.gen.tr/images/Ntv-Hd-Frekans-82.png"
@@ -30,26 +30,8 @@ name= TRT HABER HD url= "https://tv-trthaber.live.trt.com.tr/master_720.m3u8|Use
 name= TGRT Haber TV HD url= "https://mn-nl.mncdn.com/blutv_tgrthaber/smil:tgrthaber_sd.smil/chunklist_b564000.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0" logo= "https://icdn.ensonhaber.com/crop/250x141-85/resimler/diger/tgrt_6926.jpg"
 name= HalkTV HD url= "https://mn-nl.mncdn.com/blutv_halktv/smil:halktv_sd.smil/chunklist_b564000.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0" logo= "https://upload.wikimedia.org/wikipedia/commons/7/70/HalkTVLogo.jpg"
 name= ShowMAX HD url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%vFTW32cZaaA&amp;mode=play_link" logo= "https://upload.wikimedia.org/wikipedia/tr/archive/9/9b/20120406214735%21ShowMax_logosu.png"
-name= TRT Spor HD url= "https://tv-trtspor1.live.trt.com.tr/master_720.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0" logo= "https://upload.wikimedia.org/wikipedia/commons/2/25/TRT_Spor_HD_kurumsal_logo.png"
+name= TRT Spor HD url= "https://c6.xcxc.cf/web/1/www.24detv.de/c3/1615224954/k-a_bcvfW-aXBuYqzLXYbQ/10988.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0" logo= "https://upload.wikimedia.org/wikipedia/commons/2/25/TRT_Spor_HD_kurumsal_logo.png"
 name= TRT COCUK url= "https://tv-trtcocuk.live.trt.com.tr/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0" logo= "https://www.montajuyduservisi.com/uploads/haber/JY1rMdnVBhC_mLQl2FJF08tNZOZAW1Ax.png"
 name= TIVIBU SPOR url= "https://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8|User-Agent=vlc" logo= "https://yt3.ggpht.com/ytc/AAUvwngRnEicMJP0d_1SPekdEXkJ6D23o8EqTzTXFBKITw=s900-c-k-c0x00ffffff-no-rj"
 name= EUROSTAR url= "https://xrklj56s.rocketcdn.com/eurostar.stream_720p/chunklist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0" logo= "https://www.ariasat.de/out/pictures/generated/product/1/540_340_75/eurostartv.png"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+name= Sinema TV 1 HD url= "https://ci.vcdn.pw/web/1/www.24detv.de/c10/1615225143/8vCivovV3c6DrajakkxMlA/11081.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0" logo= "https://3.bp.blogspot.com/-3tUwu5e-Eko/TrrqrVAtWEI/AAAAAAAAAKE/WFFX7rBe0cA/s1600/sinema%2Btv%2Bhd%2Blogo.png"
