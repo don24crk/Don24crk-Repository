@@ -154,7 +154,7 @@ name= Hannah Montana Season 2 Επεισόδιο 26 url= ""plugin://plugin.video
 name= Hannah Montana Season 2 Επεισόδιο 27 url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fclipwatching.com%2Fmahxmvlpjt2v&amp;mode=play_link" logo= "https://greek-movies.com/icon/series/HannahMontana2006.jpg"
 name= Hannah Montana Season 2 Επεισόδιο 28 url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fclipwatching.com%2Fcktps3r1puyg&amp;mode=play_link" logo= "https://greek-movies.com/icon/series/HannahMontana2006.jpg"
 name= Hannah Montana Season 2 Επεισόδιο 29 url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fclipwatching.com%2Fepr5io7hdzwi&amp;mode=play_link" logo= "https://greek-movies.com/icon/series/HannahMontana2006.jpg"
-name= Hannah Montana Season 3 Επεισόδιο 1 url= "https://s4.hdvid.tv/uirolu7fuq4swchrlpdxpbkdheavmuhejzseayzautzobwwa5sn5tswyriwq/v.mp4" logo= "https://greek-movies.com/icon/series/HannahMontana2006.jpg"
+name= Hannah Montana Season 3 Επεισόδιο 1 url= "https://s4.hdvid.tv/uirolu7fuq4swchrlpdxpbkdheavmuhejzseayzautzobwwa5sn5tswyriwq/v.mp4|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0" logo= "https://greek-movies.com/icon/series/HannahMontana2006.jpg"
 
 
 
