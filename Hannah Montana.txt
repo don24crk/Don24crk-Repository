@@ -99,7 +99,7 @@ name= Hannah Montana Staffel4 Miley, der Superstar url= "plugin://plugin.video.s
 name= Hannah Montana Staffel4 Neues Leben, neue Probleme url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F256c97b929&amp;mode=play_link" logo= "https://www.media-dealer.de/out/pictures/generated/product/1/366_468_90/8717418297299_1.jpg"
 name= Hannah Montana Staffel4 Ende gut, alles gut? (1) url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2Fc3d495f7c3&amp;mode=play_link" logo= "https://www.media-dealer.de/out/pictures/generated/product/1/366_468_90/8717418297299_1.jpg"
 name= Hannah Montana Staffel4 Ende gut, alles gut? (2) url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2Fa2630fa393&amp;mode=play_link" logo= "https://www.media-dealer.de/out/pictures/generated/product/1/366_468_90/8717418297299_1.jpg"
-
+name= Hannah Montana Season 1 Επεισόδιο 1 url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fclipwatching.com%2Fma4nv5bwpprn&amp;mode=play_link" logo= "https://assets.thalia.media/img/artikel/cfa4dd08dec6089d85a27a2605084f8774211954-00-00.jpeg"
 
 
 
