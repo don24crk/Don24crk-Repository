@@ -1,0 +1,1 @@
+name= I Aliki sto Naftiko 1961 url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fwww.ok.ru%2Fvideo%2F1119717559007&amp;mode=play_link" logo= "http://voody.online/uploads/posts/2016-01/15570617.jpg"
