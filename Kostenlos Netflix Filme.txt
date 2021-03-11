@@ -77,6 +77,7 @@ name= Der Mann in der eisernen Maske(1998) url= "plugin://plugin.video.smr_link_
 name= Der Prinz aus Zamunda 2(2021) url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2Fa3276e94f0&amp;mode=play_link" logo= "https://de.web.img3.acsta.net/c_310_420/pictures/21/02/01/15/04/0263461.jpg"
 name= Raya und der letzte Drache(2021) url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F97a71ee95b&amp;mode=play_link" logo= "https://filmeplus.de/wp-content/uploads/2021/02/raya_and_the_last_dragon_ver9_xlg.jpg"
 name= Biggie: Das ist meine Geschichte(2021) url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2Fe5fc1a4966&amp;mode=play_link" logo= "https://de.web.img3.acsta.net/pictures/21/02/16/13/59/4847275.png"
+name= Jiu Jitsu(2020) url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2Ffaa47b2f10&amp;mode=play_link" logo= "https://www.kino-zeit.de/sites/default/files/2020-12/ju-jitsu-plakat.jpg"
 
 
 
