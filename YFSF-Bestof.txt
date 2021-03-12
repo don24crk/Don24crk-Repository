@@ -23,3 +23,9 @@ name= The Weeknd (Your Face Sounds Familiar - All Star: 1? Live - 28.02.2021) ur
 name= (Hadise) Your Face Sounds Familiar url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%BhpQwQc8YB0&amp;title=(Hadise Performansi) Your Face Sounds Familiar" logo= "https://i.ytimg.com/vi/BhpQwQc8YB0/maxresdefault.jpg"
 name= Vasillis karras - Your Face Sounds Familiar url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%ZqxJ9a-8ysM&amp;title=Vasillis karras Your Face Sounds Familiar" logo= "https://i.ytimg.com/vi/6Aq33zWbWOo/maxresdefault.jpg"
 name= lefteris pantazis Your Face Sounds Familiar url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%ak4Y6706IIE&amp;title=lefteris pantazis Your Face Sounds Familiar" logo= "https://i.ytimg.com/vi/iM6bQZZkRH0/maxresdefault.jpg"
+name= anna vissi Your Face Sounds Familiar url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%X6waIZUpwLE&amp;title=anna vissi Your Face Sounds Familiar" logo= "https://i.ytimg.com/vi/X6waIZUpwLE/maxresdefault.jpg"
+name= anna vissi 2 Your Face Sounds Familiar url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%8WT-1PYw5fE&amp;title=anna vissi 2 Your Face Sounds Familiar" logo= "https://i.ytimg.com/vi/8WT-1PYw5fE/sddefault.jpg"
+name= despina vandi Your Face Sounds Familiar url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%Zt7IHoYpWIQ&amp;title=despina vandi Your Face Sounds Familiar" logo= "https://i.ytimg.com/vi/Zt7IHoYpWIQ/hqdefault.jpg"
+
+
+
