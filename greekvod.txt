@@ -8,8 +8,8 @@ name= Alter Ego 2007 Greek movie url= "plugin://plugin.video.smr_link_tester/?li
 name= Το γαμήλιο πάρτυ (2008) url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fwww.dailymotion.com%2Fvideo%2Fxxdzpa&amp;mode=play_link" logo= "https://tainio-mania.online/uploads/mini/posterentrypage/c8/c5f7310a30fb0f33f7327dff4ca121.jpg"
 name= O Ilias tou 16ou / Ο Ηλίας του 16ου 2008 url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Faparat.cam%2Fe7s956uck0je%2FO.ILIAS.TOY.16OY.DVDRIP.%282008%29.mp4.html&amp;mode=play_link" logo= "https://tainio-mania.online/uploads/mini/posterentrypage/63/0c5c05337c26ed3a91fbb20edc383f.jpg"
 name= Love in the End (2013) url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fnd.vidce.net%2Fd%2FuIAeRC_dDLSgdaC94ISgsg%2F1616172989%2Fvideo%2F2015%2Ftt2571610.mp4&amp;title=Η αγάπη έρχεται στο τέλος" logo= "https://heavenmusic.gr/wp-content/uploads/2013/02/Remos_Agapi_digital_single_for_iTunes.jpg"
-name= Eftyhia (2019) url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fsw.vidce.net%2Fd%2FAqxAokYXcvAEU7cFKIi6Iw%2F1616173170%2Fvideo%2F2015%2Ftt10710246.mp4&amp;title=Ευτυχία" logo= "https://img.cineplexx.gr/media/gr/inc/movies_licences/Eftyhia_Plakat.jpg"
-name= Troei Story 30 hronia tora 2012! url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fnd.vidce.net%2Fd%2FuIAeRC_dDLSgdaC94ISgsg%2F1616172989%2Fvideo%2F2015%2Ftt2571610.mp4&amp;title=Troei Story 30 hronia tora!" logo= "https://www.watch-online.cc/images/movies/0016863.jpg"
+name= Eftyhia (2019) url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=http%3A%2F%2Fnd.vidce.net%2Fd%2FE2GeyNJ7kvYlDQolo12IhQ%2F1616173389%2Fvideo%2F2015%2Ftt2597164.mp4&amp;title=Ευτυχία" logo= "https://img.cineplexx.gr/media/gr/inc/movies_licences/Eftyhia_Plakat.jpg"
+name= Troei Story 30 hronia tora 2012! url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fsw.vidce.net%2Fd%2FAqxAokYXcvAEU7cFKIi6Iw%2F1616173170%2Fvideo%2F2015%2Ftt10710246.mp4&amp;title=Troei Story 30 hronia tora! 2012" logo= "https://www.watch-online.cc/images/movies/0016863.jpg"
 
 
 
