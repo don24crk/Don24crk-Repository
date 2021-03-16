@@ -41,3 +41,6 @@ name= Survivor 8.40 url= "plugin://plugin.video.resolveurl-tester/?action=play&a
 name= Survivor 8.41 url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fstreamtape.com%2Fv%2FkWqKwQmZA4tPLd%2FSurvivor_-_08032021.mp4&amp;title=Survivor 8.41" logo= "https://greek-movies.com/icon/shows/Survivor2003.jpg"
 name= Survivor 8.42 url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fstreamtape.com%2Fv%2F0VXxrKZv6jFKkR%2FSurvivor_-_09032021.mp4&amp;title=Survivor 8.42" logo= "https://greek-movies.com/icon/shows/Survivor2003.jpg"
 name= Survivor 8.43 url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fstreamtape.com%2Fv%2FpLDo73mGLdurvGW%2FSurvivor_-_10032021.mp4&amp;title=Survivor 8.43" logo= "https://greek-movies.com/icon/shows/Survivor2003.jpg"
+name= Survivor 8.44 url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fstreamtape.com%2Fv%2FMe0VW43K49UDAX%2FSurvivor_-_14032021.mp4&amp;title=Survivor 8.44" logo= "https://greek-movies.com/icon/shows/Survivor2003.jpg"
+name= Survivor 8.45 url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fstreamtape.com%2Fv%2FKqgdwr82qrhgBx%2FSurvivor_-_15032021.mp4&amp;title=Survivor 8.45" logo= "https://greek-movies.com/icon/shows/Survivor2003.jpg"
+
