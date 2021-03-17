@@ -14,7 +14,7 @@ name= Bruce Lee Ejderin Dönüşü Türkçe Dublaj Film İzle Tek Parça Film İ
 name= Ölüm Oyunu # Bruce Lee # Dövüş # Karete # Türkçe Dublaj # Film İzle url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fwww.dailymotion.com%2Fvideo%2Fx72ia4h&amp;mode=play_link" logo= "https://i.ytimg.com/vi/6lPDrsbEeuU/hqdefault.jpg"
 name= Ejder Kalesi (1973) izle url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fok.ru%2Fvideo%2F2321409247768&amp;mode=play_link" logo= "https://www.hdfilmcehennemi2.pw/wp-content/uploads/2015/11/Ejder-Kalesi-Enter-the-Dragon-izle.jpg"
 name= Bazen sevinç bazen hüzün 2001 TR düblaj hint (Shahruhk khan /Amitabh bachchan url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%pJnK9MDrt6Y&amp;mode=play_link" logo= "https://www.hdfilmcehennemi2.pw/wp-content/uploads/2015/10/Bazen-Sevinc-Bazen-Huzun-izle.jpg"
-name= Asla Teslim Olmak Yok 1986 XviD izle url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fok.ru%2Fvideo%2F94558489198&amp;mode=play_link" logo= "https://i.ytimg.com/vi/WXZQrI8AWOw/hqdefault.jpg"
+name= Asla Teslim Olmak Yok 1986 XviD izle url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fok.ru%2Fvideo%2F94984014390&amp;mode=play_link" logo= "https://i.ytimg.com/vi/WXZQrI8AWOw/hqdefault.jpg"
 
 
 
