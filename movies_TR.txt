@@ -11,9 +11,11 @@ name= Gülen Adam - HD Türk Filmi ( Kemal Sunal)= "plugin://plugin.video.smr_li
 name= Bruce Lee Öfkenin Yumruğu Full HD Film İzle url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fok.ru%2Fvideo%2F22167947857&amp;mode=play_link" logo= "https://www.hdfilmcehennemi2.pw/wp-content/uploads/2015/07/Ofkenin-Yumrugu-izle.jpg"
 name= Patron Benim # Bruce Lee # Dövüş # Karete # Türkçe Dublaj # Film İzle url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fok.ru%2Fvideo%2F28128578205&amp;mode=play_link" logo= "https://lh3.googleusercontent.com/proxy/2lCAze6CiM5e4vqsw0FqOMIrbPwq86hcVqscLO42l_Lug1XhLAYYUgDxKS0IIufmSFqUvDQCp60ABzy0vqCdAyD0QK-C2aU-foyftNQZgZKzHGW9ogblpwP4bNQtm6On5_JsqO54jAVgPlnqKzJJgGouZxmq8jclyrZwbmPSiMNCmev9"
 name= Bruce Lee Ejderin Dönüşü Türkçe Dublaj Film İzle Tek Parça Film İzle Tek Part Film url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fok.ru%2Fvideo%2F11868702008&amp;mode=play_link" logo= "https://izleorg2.org/uploads/film/2015/03/ejderin-donusu-turkce-dublaj-full-hd-izle.jpg"
-name= Ölüm Oyunu # Bruce Lee # Dövüş # Karete # Türkçe Dublaj # Film İzle url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%JjqYCgpnrtQ&amp;mode=play_link" logo= "https://i.ytimg.com/vi/6lPDrsbEeuU/hqdefault.jpg"
+name= Ölüm Oyunu # Bruce Lee # Dövüş # Karete # Türkçe Dublaj # Film İzle url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fwww.dailymotion.com%2Fvideo%3Fv%x72ia4h&amp;mode=play_link" logo= "https://i.ytimg.com/vi/6lPDrsbEeuU/hqdefault.jpg"
 name= Ejder Kalesi (1973) izle url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fok.ru%2Fvideo%2F2321409247768&amp;mode=play_link" logo= "https://www.hdfilmcehennemi2.pw/wp-content/uploads/2015/11/Ejder-Kalesi-Enter-the-Dragon-izle.jpg"
 name= Bazen sevinç bazen hüzün 2001 TR düblaj hint (Shahruhk khan /Amitabh bachchan url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%pJnK9MDrt6Y&amp;mode=play_link" logo= "https://www.hdfilmcehennemi2.pw/wp-content/uploads/2015/10/Bazen-Sevinc-Bazen-Huzun-izle.jpg"
+name= Asla Teslim Olmak Yok 1986 DVDRip TR XviD izle url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fwww.youtube.com%2Fwatch%2FBvkkbAOzQjQ&amp;mode=play_link" logo= "https://i.ytimg.com/vi/WXZQrI8AWOw/hqdefault.jpg"
+
 
 
 
