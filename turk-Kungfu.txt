@@ -1,7 +1,7 @@
-﻿name= ÖLÜMCÜL KUNG FU Bruce Li Türkçe Dublaj url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fok.ru%2Fvideo%2F239055734186&amp;title=ÖLÜMCÜL KUNG FU Bruce Li Türkçe Dublaj" logo= "https://i.ytimg.com/vi/Z0wx-BnsuRk/hqdefault.jpg"
+﻿name= ÖLÜMCÜL KUNG FU Bruce Li Türkçe Dublaj url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fwww.dailymotion.com%2Fvideo%2Fx7ec8nk&amp;title=ÖLÜMCÜL KUNG FU Bruce Li Türkçe Dublaj" logo= "https://i.ytimg.com/vi/Z0wx-BnsuRk/hqdefault.jpg"
 name= Jetli efsane yumruk türkçe dublaj fist of legend 1994 url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fok.ru%2Fvideo%2F215740450122&amp;title=Jetli efsane yumruk türkçe dublaj fist of legend 1994" logo= "http://i.mycdn.me/videoPreview?id=215740450122&type=47&idx=30&tkn=BsKdjsuFkCrRtOgI7fRqIkgNSIs&i=1&fn=external_8"
-name= Kartalın Gölgesindeki Yılan -  Full 720p HD İzle (1982)url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fok.ru%2Fvideo%2F2247823526550&amp;title=Kartalın Gölgesindeki Yılan -  Full 720p HD İzle (1982)" logo= "https://i.ytimg.com/vi/v1qwSh-WkT4/maxresdefault.jpg"
-name= DRAGON LEE Kızgın Yumruklar Türkçe Dublaj url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fok.ru%2Fvideo%2F322270135736&amp;title=DRAGON LEE Kızgın Yumruklar Türkçe Dublaj" logo= "https://i.ytimg.com/vi/MaWnwje9kYI/hqdefault.jpg"
+name= Kartalın Gölgesindeki Yılan -  Full 720p HD İzle (1982)url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fok.ru%2Fvideo%2F2247823526550&amp;title=Kartalın Gölgesindeki Yılan -  Full 720p HD İzle (1982)" logo= "https://s1.dmcdn.net/v/Ql7Za1VYapK-PjaW-/x1080"
+name= DRAGON LEE Kızgın Yumruklar Türkçe Dublaj url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fwww.dailymotion.com%2Fvideo%2Fx7ec8nc&amp;title=DRAGON LEE Kızgın Yumruklar Türkçe Dublaj" logo= "https://i.ytimg.com/vi/MaWnwje9kYI/hqdefault.jpg"
 
 
 
