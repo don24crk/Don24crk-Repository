@@ -2,8 +2,8 @@
 name= Jetli efsane yumruk türkçe dublaj fist of legend 1994 url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fok.ru%2Fvideo%2F215740450122&amp;title=Jetli efsane yumruk türkçe dublaj fist of legend 1994" logo= "http://i.mycdn.me/videoPreview?id=215740450122&type=47&idx=30&tkn=BsKdjsuFkCrRtOgI7fRqIkgNSIs&i=1&fn=external_8"
 name= Kartalın Gölgesindeki Yılan -  Full 720p HD İzle (1982)url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fok.ru%2Fvideo%2F2247823526550&amp;title=Kartalın Gölgesindeki Yılan -  Full 720p HD İzle (1982)" logo= "https://s1.dmcdn.net/v/Ql7Za1VYapK-PjaW-/x1080"
 name= DRAGON LEE Kızgın Yumruklar Türkçe Dublaj url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fwww.dailymotion.com%2Fvideo%2Fx7ec8nc&amp;title=DRAGON LEE Kızgın Yumruklar Türkçe Dublaj" logo= "https://i.ytimg.com/vi/MaWnwje9kYI/hqdefault.jpg"
-name= Ip Man Kung Fu Master Izle url= "https://user-content-det-372-vid.moly.cloud/hls/xqx2pi6kj5okjiqbthysnlafxcxbdatd77mq7nugl,gmtgafsm2gng6ec2ypa,p6tgafsm2gnlijujxca,.urlset/master.m3u8" logo= "https://www.hdfilmcehennemi2.pw/wp-content/uploads/2021/02/Ip-Man-Kung-Fu-Master-izle-170x240.jpg"
-
+name= Ip Man Kung Fu Master Izle url= "https://user-content-det-372-vid.moly.cloud/hls/xqx2pi6kj5okjiqbthysnlafxcxbdatd77mq7nugl,gmtgafsm2gng6ec2ypa,p6tgafsm2gnlijujxca,.urlset/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0" logo= "https://www.hdfilmcehennemi2.pw/wp-content/uploads/2021/02/Ip-Man-Kung-Fu-Master-izle-170x240.jpg"
+name= Karateci Hayaletler Izle url= "https://user-content-transit-c-421-vid.moly.cloud/hls/,xqx2otibkfokjiqbtgrcnmym4x2oxrc7wgeajrfjhshc2rvpudkwuxejkx7q,.urlset/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0" logo= "https://www.hdfilmcehennemi2.pw/wp-content/uploads/2013/07/karateci-hayaletler-izle-170x240.jpg"
 
 
 
