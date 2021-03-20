@@ -4,6 +4,21 @@ name= Kartalın Gölgesindeki Yılan -  Full 720p HD İzle (1982)url= "plugin://
 name= DRAGON LEE Kızgın Yumruklar Türkçe Dublaj url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fwww.dailymotion.com%2Fvideo%2Fx7ec8nc&amp;title=DRAGON LEE Kızgın Yumruklar Türkçe Dublaj" logo= "https://i.ytimg.com/vi/MaWnwje9kYI/hqdefault.jpg"
 name= Ip Man Kung Fu Master Izle url= "https://user-content-det-372-vid.moly.cloud/hls/xqx2pi6kj5okjiqbthysnlafxcxbdatd77mq7nugl,gmtgafsm2gng6ec2ypa,p6tgafsm2gnlijujxca,.urlset/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0" logo= "https://www.hdfilmcehennemi2.pw/wp-content/uploads/2021/02/Ip-Man-Kung-Fu-Master-izle-170x240.jpg"
 name= Karateci Hayaletler Izle url= "https://user-content-transit-c-421-vid.moly.cloud/hls/,xqx2otibkfokjiqbtgrcnmym4x2oxrc7wgeajrfjhshc2rvpudkwuxejkx7q,.urlset/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0" logo= "https://www.hdfilmcehennemi2.pw/wp-content/uploads/2013/07/karateci-hayaletler-izle-170x240.jpg"
+name=  Kardeşim Bruce Lee izle url= "https://user-content-opn-356-vid.moly.cloud/hls/,xqx2pgl3j5okjiqbthwsnkcexikxl63okgzlmxr7wwogbtvjc4cq4vlcvgfa,.urlset/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0" logo= "https://www.hdfilmcehennemi2.pw/wp-content/uploads/kardesim-bruce-lee-izle-164x210.jpg"
+name=  Amansız Takip izle url= "https://user-content-transit-c-421-vid.moly.cloud/hls/,xqx2orqbkfokjiqbtgrcnikdwmzaxso4nyauzowbqepmebqkvk243f527xva,.urlset/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0" logo= "https://www.hdfilmcehennemi2.pw/wp-content/uploads/2013/07/amansiz-takip-izle-170x240.jpg"
+name=  Ip Man 1 izle url= "https://user-content-transit-a-392-vid.moly.cloud/hls/xqx2p5vvjvokjiqbtf7snpkgxgrmlyprvperi3gyf,fkwudj6trtbem7vzluq,mywudj6trtgxn775wiq,.urlset/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0" logo= "https://www.hdfilmcehennemi2.pw/wp-content/uploads/2015/07/Ip-Man-izle-170x240.jpg"
+name=  Ip Man 2 izle url= "https://user-content-transit-a-388-vid.moly.cloud/hls/xqx2p5fvjvokjiqbtf7snpiz5csnlbe4kign4pvaf,cvpz35j6fkhcrp22zyq,lhpz35j6fkly6rnp37q,.urlset/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0" logo= "https://www.hdfilmcehennemi2.pw/wp-content/uploads/2015/07/Ip-Man-2-izle-125x160.jpg"
+name=  Ip Man 3 izle url= "https://user-content-transit-c-405-vid.moly.cloud/hls/xqx2psfvjvokjiqbtf7snmyrxcejwpae4kmy5dqu4,iyvlxykfn76epvgtawa,bkvlxykfn7ttsgrwnka,.urlset/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0" logo= "https://www.hdfilmcehennemi2.pw/wp-content/uploads/2016/06/Ip-Man-3-izle-170x240.jpg"
+name=  Ip Man 4: Final izle url= "https://user-content-transit-c-405-vid.moly.cloud/hls/xqx2psfvjvokjiqbtf7snmyrxcejwpae4kmy5dqu4,iyvlxykfn76epvgtawa,bkvlxykfn7ttsgrwnka,.urlset/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0" logo= "https://www.hdfilmcehennemi2.pw/wp-content/uploads/2020/01/Ip-Man-4-Final-izle-170x240.jpg"
+
+
+
+
+
+
+
+
+
 
 
 
