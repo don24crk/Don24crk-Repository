@@ -17,13 +17,13 @@ name= Sat1 url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=ht
 name= Sat1Gold url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Ftinyurl.com%2Fec54c2k&amp;title=Sat1Gold" logo= "https://live.staticflickr.com/3828/8839769897_4c23580706_b.jpg"
 name= Sixx url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fbit.ly%2F3ckti92&amp;title=Sixx" logo= "https://live.staticflickr.com/3828/8839769897_4c23580706_b.jpg"
 name= Disneychannel url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fbit.ly%2F3lQAmNA&amp;title=Disneychannel" logo= "https://live.staticflickr.com/3828/8839769897_4c23580706_b.jpg"
-name= Comedycentral url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fbit.ly%2F3f8jwIZ&amp;title=Comedycentral" logo= "https://live.staticflickr.com/3828/8839769897_4c23580706_b.jpg"
-name= RTLnitro url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fbit.ly%2F3cj55Qw&amp;title=RTLnitro" logo= "https://live.staticflickr.com/3828/8839769897_4c23580706_b.jpg"
-name= SuperRTL url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fbit.ly%2F3fbMIPi&amp;title=SuperRTL" logo= "https://live.staticflickr.com/3828/8839769897_4c23580706_b.jpg"
-name= RTLPlus url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fbit.ly%2F3fd73Ui&amp;title=RTLPlus" logo= "https://live.staticflickr.com/3828/8839769897_4c23580706_b.jpg"
-name= MTV url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fbit.ly%2F3fcHumu&amp;title=MTV" logo= "https://live.staticflickr.com/3828/8839769897_4c23580706_b.jpg"
-name= Welt der Wunder url= "https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:78.0) Gecko/20100101 Firefox/78.0" logo= "https://live.staticflickr.com/3828/8839769897_4c23580706_b.jpg"
-name= n-24 url= "https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:78.0) Gecko/20100101 Firefox/78.0" logo= "https://img.welt.de/img/videos/mobile136410589/7801354747-ci16x9-w1200/N24-Logo.jpg"
+name= Comedycentral url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fbit.ly%2F3lOrBns&amp;title=Comedycentral" logo= "https://live.staticflickr.com/3828/8839769897_4c23580706_b.jpg"
+name= RTLnitro url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fbit.ly%2F3d1m7BK&amp;title=RTLnitro" logo= "https://live.staticflickr.com/3828/8839769897_4c23580706_b.jpg"
+name= SuperRTL url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fbit.ly%2F39fdoLe&amp;title=SuperRTL" logo= "https://live.staticflickr.com/3828/8839769897_4c23580706_b.jpg"
+name= RTLPlus url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fbit.ly%2F3sre4EE&amp;title=RTLPlus" logo= "https://live.staticflickr.com/3828/8839769897_4c23580706_b.jpg"
+name= MTV url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fbit.ly%2F3vYYlPt&amp;title=MTV" logo= "https://live.staticflickr.com/3828/8839769897_4c23580706_b.jpg"
+name= Welt der Wunder url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fbit.ly%2F3tOUnqA&amp;title=Welt der Wunder" logo= "https://live.staticflickr.com/3828/8839769897_4c23580706_b.jpg"
+name= n-24 url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fbit.ly%2F3tOUnqA&amp;title=n-24" logo= "https://img.welt.de/img/videos/mobile136410589/7801354747-ci16x9-w1200/N24-Logo.jpg"
 
 
 
