@@ -4,7 +4,7 @@ name= dasdritte url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;u
 name= 3sat url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fbit.ly%2F3fdCvSe&amp;title=3sat" logo= "https://live.staticflickr.com/3828/8839769897_4c23580706_b.jpg"
 name= arte url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fbit.ly%2F39fWNXE&amp;title=arte" logo= "https://live.staticflickr.com/3828/8839769897_4c23580706_b.jpg"
 name= kika url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fbit.ly%2F3lSCrsk&amp;title=kika" logo= "https://live.staticflickr.com/3828/8839769897_4c23580706_b.jpg"
-name= tagesschau24 url= "http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:78.0) Gecko/20100101 Firefox/78.0" logo= "https://live.staticflickr.com/3828/8839769897_4c23580706_b.jpg"
+name= tagesschau24 url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fbit.ly%2F3sogjc1&amp;title=https%3A%2F%2Fbit.ly%2F3sogjc1" logo= "https://live.staticflickr.com/3828/8839769897_4c23580706_b.jpg"
 name= RTL url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Ftinyurl.com%2Fa6mt7rcw&amp;title=RTL" logo= "https://live.staticflickr.com/3828/8839769897_4c23580706_b.jpg"
 name= Prosieben url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Ftinyurl.com%2Fmxzda7fz&amp;title=Prosieben" logo= "https://live.staticflickr.com/3828/8839769897_4c23580706_b.jpg"
 name= RTL2 url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Ftinyurl.com%2F2dj9ex7y&amp;title=RTL2" logo= "https://live.staticflickr.com/3828/8839769897_4c23580706_b.jpg"
