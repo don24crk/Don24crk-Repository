@@ -12,7 +12,7 @@ name= Kabel1 url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=
 name= kabel1doku url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fbit.ly%2F3rrPn9L&amp;title=kabel1doku" logo= "https://live.staticflickr.com/3828/8839769897_4c23580706_b.jpg"
 name= Pro7maxx url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fbit.ly%2F3fbE1V6&amp;title=Pro7maxx" logo= "https://live.staticflickr.com/3828/8839769897_4c23580706_b.jpg"
 name= Tele5 url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Ftinyurl.com%2F563mx6cw&amp;title=Tele5" logo= "https://live.staticflickr.com/3828/8839769897_4c23580706_b.jpg"
-name= Vox url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fbit.ly%2F2P4Bx0h&amp;title=Vox" logo= "https://live.staticflickr.com/3828/8839769897_4c23580706_b.jpg"
+name= Vox url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fbit.ly%2F3lWKcNY&amp;title=Vox" logo= "https://live.staticflickr.com/3828/8839769897_4c23580706_b.jpg"
 name= Sat1 url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Ftinyurl.com%2F3hwx7hvs&amp;title=Sat1" logo= "https://live.staticflickr.com/3828/8839769897_4c23580706_b.jpg"
 name= Sat1Gold url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Ftinyurl.com%2Fec54c2k&amp;title=Sat1Gold" logo= "https://live.staticflickr.com/3828/8839769897_4c23580706_b.jpg"
 name= Sixx url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fbit.ly%2F3feszIm&amp;title=Sixx" logo= "https://live.staticflickr.com/3828/8839769897_4c23580706_b.jpg"
