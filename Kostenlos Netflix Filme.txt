@@ -80,6 +80,8 @@ name= Zack Snyder's Justice League(2021) url= "plugin://plugin.video.resolveurl-
 name= Jiu Jitsu(2020) url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F66dce63072&amp;mode=play_link" logo= "https://www.kino-zeit.de/sites/default/files/2020-12/ju-jitsu-plakat.jpg"
 name= The Balkan Line(2019) url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2Ffaa47b2f10&amp;mode=play_link" logo= "https://skcdn.tv/cover/80087bcf06c67920ed855c511412c7c93.jpg"
 name= Sakuya: The Demon Slayer(2000) url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F053622cde9&amp;mode=play_link" logo= "https://www.cinema.de/sites/default/files/styles/schema_org/public/sync/cms3.cinema.de/imgdb/moviedb/80/9fe5678c333d2adb000d7424c5bd748b.jpeg?itok=HRpJ0AOb"
+name= Lass ihn gehen(2020) url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2Fc44d5551f3&amp;mode=play_link" logo= "https://skcdn.tv/cover/2370af6a5e68656253f3de54acaa36d13.jpg"
+
 
 
 
