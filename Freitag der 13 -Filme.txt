@@ -9,5 +9,5 @@ name= Freitag der 13 Teil VIII – Todesfalle Manhattan url= "plugin://plugin.vi
 name= Jason Goes to Hell – Die Endabrechnung url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2Faee01ba775&amp;mode=play_link" logo= "https://www.schnittberichte.com/pics/titel/0000/925_230.jpg"
 name= Jason X url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2Faaae89975b&amp;mode=play_link" logo= "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Jason_x.jpg/220px-Jason_x.jpg"
 name= Freddy vs Jason url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F2f4cab83b7&amp;mode=play_link" logo= "https://is5-ssl.mzstatic.com/image/thumb/Video/fb/f0/7b/mzi.pcjfgxrx.jpg/268x0w.jpg"
-name= Freitag der 13 Remake url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F72fc7513a2&amp;mode=play_link" logo= "https://images-na.ssl-images-amazon.com/images/I/61SygIukY3L._SY445_.jpg"
+name= Freitag der 13 Remake url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2Fd739623b82&amp;mode=play_link" logo= "https://images-na.ssl-images-amazon.com/images/I/61SygIukY3L._SY445_.jpg"
 
