@@ -1,9 +1,10 @@
-﻿<item>
+#!/usr/bin/python
+print "<item>
 <title>RTL</title>
 <link>$doregex[get-M3U8]</link>
 <regex>
 <name>get-M3U8</name>
-<expres>file:"(.*?)"</expres>
+<expres>file:\"(.*?)\"</expres>
 <page>https://liveschauen.com/nopotok/rtl-1.php</page>
 <fanart>https://live.staticflickr.com/3828/8839769897_4c23580706_b.jpg</fanart>
 <thumbnail>https://www.imfernsehen.de/gfx/pics/1200/Rtl-Logo-2018.jpg</thumbnail>
@@ -15,7 +16,7 @@
 <link>$doregex[get-M3U8]</link>
 <regex>
 <name>get-M3U8</name>
-<expres>file:"(.*?)"</expres>
+<expres>file:\"(.*?)\"</expres>
 <page>https://liveschauen.com/nopotok/rtl2.php</page>
 <fanart>https://live.staticflickr.com/3828/8839769897_4c23580706_b.jpg</fanart>
 <thumbnail>https://images.rtl2.de/kNRjQB5sYqPN-rtlzwei.png</thumbnail>
@@ -27,7 +28,7 @@
 <link>$doregex[get-M3U8]</link>
 <regex>
 <name>get-M3U8</name>
-<expres>file:"(.*?)"</expres>
+<expres>file:\"(.*?)\"</expres>
 <page>https://liveschauen.com/nopotok/rtlplus.php</page>
 <fanart>https://live.staticflickr.com/3828/8839769897_4c23580706_b.jpg</fanart>
 <thumbnail>https://cdn.static-fra.de/rtlplus/images/template/rtlplus_logo.png</thumbnail>
@@ -39,7 +40,7 @@
 <link>$doregex[get-M3U8]</link>
 <regex>
 <name>get-M3U8</name>
-<expres>file:"(.*?)"</expres>
+<expres>file:\"(.*?)\"</expres>
 <page>https://liveschauen.com/nopotok/rtlnitro.php</page>
 <fanart>https://live.staticflickr.com/3828/8839769897_4c23580706_b.jpg</fanart>
 <thumbnail>https://pbs.twimg.com/profile_images/1869287709/rtl-nitro-logo-2012.jpg</thumbnail>
@@ -51,7 +52,7 @@
 <link>$doregex[get-M3U8]</link>
 <regex>
 <name>get-M3U8</name>
-<expres>file:"(.*?)"</expres>
+<expres>file:\"(.*?)\"</expres>
 <page>https://liveschauen.com/nopotok/superrtl.php</page>
 <fanart>https://live.staticflickr.com/3828/8839769897_4c23580706_b.jpg</fanart>
 <thumbnail>https://pbs.twimg.com/profile_images/1222814621138128898/_pG8Gd3r_400x400.jpg</thumbnail>
@@ -63,7 +64,7 @@
 <link>$doregex[get-M3U8]</link>
 <regex>
 <name>get-M3U8</name>
-<expres>file:"(.*?)"</expres>
+<expres>file:\"(.*?)\"</expres>
 <page>https://liveschauen.com/nopotok/pro7.php</page>
 <fanart>https://live.staticflickr.com/3828/8839769897_4c23580706_b.jpg</fanart>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ProSieben_Logo_2015.svg/1200px-ProSieben_Logo_2015.svg.png</thumbnail>
@@ -75,7 +76,7 @@
 <link>$doregex[get-M3U8]</link>
 <regex>
 <name>get-M3U8</name>
-<expres>file:"(.*?)"</expres>
+<expres>file:\"(.*?)\"</expres>
 <page>https://liveschauen.com/nopotok/pro7maxx.php</page>
 <fanart>https://live.staticflickr.com/3828/8839769897_4c23580706_b.jpg</fanart>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/ProSieben_MAXX_Logo.svg/2000px-ProSieben_MAXX_Logo.svg.png</thumbnail>
@@ -87,7 +88,7 @@
 <link>$doregex[get-M3U8]</link>
 <regex>
 <name>get-M3U8</name>
-<expres>file:"(.*?)"</expres>
+<expres>file:\"(.*?)\"</expres>
 <page>https://liveschauen.com/nopotok/sat1.php</page>
 <fanart>https://live.staticflickr.com/3828/8839769897_4c23580706_b.jpg</fanart>
 <thumbnail>https://www.designtagebuch.de/wp-content/uploads/mediathek//2011/08/sat1-ball-1.jpg</thumbnail>
@@ -99,7 +100,7 @@
 <link>$doregex[get-M3U8]</link>
 <regex>
 <name>get-M3U8</name>
-<expres>file:"(.*?)"</expres>
+<expres>file:\"(.*?)\"</expres>
 <page>https://dtvd.net/tvairy/sat1gold.php</page>
 <fanart>https://live.staticflickr.com/3828/8839769897_4c23580706_b.jpg</fanart>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/7/7c/Sat.1_Gold_HD_Logo_2019.png</thumbnail>
@@ -111,7 +112,7 @@
 <link>$doregex[get-M3U8]</link>
 <regex>
 <name>get-M3U8</name>
-<expres>file:"(.*?)"</expres>
+<expres>file:\"(.*?)\"</expres>
 <page>https://liveschauen.com/nopotok/vox.php</page>
 <fanart>https://live.staticflickr.com/3828/8839769897_4c23580706_b.jpg</fanart>
 <thumbnail>https://www.vox.de/css/images/fb_logo_vox.png</thumbnail>
@@ -123,7 +124,7 @@
 <link>$doregex[get-M3U8]</link>
 <regex>
 <name>get-M3U8</name>
-<expres>file:"(.*?)"</expres>
+<expres>file:\"(.*?)\"</expres>
 <page>https://liveschauen.com/nopotok/tele5.php</page>
 <fanart>https://live.staticflickr.com/3828/8839769897_4c23580706_b.jpg</fanart>
 <thumbnail>https://pbs.twimg.com/profile_images/1215625909388161024/S-0zfe7e.jpg</thumbnail>
@@ -135,7 +136,7 @@
 <link>$doregex[get-M3U8]</link>
 <regex>
 <name>get-M3U8</name>
-<expres>file:"(.*?)"</expres>
+<expres>file:\"(.*?)\"</expres>
 <page>https://liveschauen.com/nopotok/sixx.php</page>
 <fanart>https://live.staticflickr.com/3828/8839769897_4c23580706_b.jpg</fanart>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Sixx_Logo.svg/2000px-Sixx_Logo.svg.png</thumbnail>
@@ -147,7 +148,7 @@
 <link>$doregex[get-M3U8]</link>
 <regex>
 <name>get-M3U8</name>
-<expres>file:"(.*?)"</expres>
+<expres>file:\"(.*?)\"</expres>
 <page>https://liveschauen.com/nopotok/kabel1.php</page>
 <fanart>https://live.staticflickr.com/3828/8839769897_4c23580706_b.jpg</fanart>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Kabel_eins_Logo_2015.svg/1200px-Kabel_eins_Logo_2015.svg.png</thumbnail>
@@ -159,7 +160,7 @@
 <link>$doregex[get-M3U8]</link>
 <regex>
 <name>get-M3U8</name>
-<expres>file:"(.*?)"</expres>
+<expres>file:\"(.*?)\"</expres>
 <page>https://liveschauen.com/nopotok/kabel1doku.php</page>
 <fanart>https://live.staticflickr.com/3828/8839769897_4c23580706_b.jpg</fanart>
 <thumbnail>https://cache.pressmailing.net/thumbnail/story_hires/9b04b099-e929-412e-9513-7f7dc1fb7e0f/Kabel%20Eins%20Doku%20HD%20-%20Logo.jpg.jpg</thumbnail>
@@ -171,17 +172,10 @@
 <link>$doregex[get-M3U8]</link>
 <regex>
 <name>get-M3U8</name>
-<expres>file:"(.*?)"</expres>
+<expres>file:\"(.*?)\"</expres>
 <page>https://liveschauen.com/nopotok/comedy.php</page>
 <fanart>https://live.staticflickr.com/3828/8839769897_4c23580706_b.jpg</fanart>
 <thumbnail>https://bilder.fernsehserien.de/gfx/pics/1408/Comedy-Central-Logo-2019-w-970.jpg.jpg</thumbnail>
 </regex>
 </item>
-
-
-
-
-
-
-
-
+\n";
