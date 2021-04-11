@@ -28,10 +28,10 @@ name= Jab Tak Hai Jaan - Solang ich lebe url= "plugin://plugin.video.smr_link_te
 name= Nadel Faden - Made In India url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2Fe0bb343d62&amp;mode=play_link" logo= "https://images-na.ssl-images-amazon.com/images/I/81I9wJKCrdL._SY445_.jpg"
 name= Fanaa - Im Sturm der Liebe url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F50ea65f204&amp;mode=play_link" logo= "https://images-na.ssl-images-amazon.com/images/I/71wBbxTS3aL._SL1200_.jpg"
 name= Darr url= "plugin://plugin.video.link__tester/?link=https%3A%2F%2Fvivo.sx%2Fembed%2F9760a80737&amp;mode=play_link" logo= "https://images-na.ssl-images-amazon.com/images/I/91JxGSdIBDL._SL1500_.jpg"
-name= Anjaam - Heute Liebe morgen Rache url= "plugin://plugin.video.link__tester/?link=https%3A%2F%2Fvidoza.net%2Fhzpha28fw99e.html&amp;mode=play_link" logo= "https://images-na.ssl-images-amazon.com/images/I/51GA9DC6W1L._SY445_.jpg"
-name= Baazigar url= "plugin://plugin.video.link__tester/?link=https%3A%2F%2Fvidoza.net%2F53dmcfyrx0ls.html&amp;mode=play_link" logo= "https://images-na.ssl-images-amazon.com/images/I/71lrQg46CyL._RI_.jpg"
-name= Josh url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvidoza.net%2Fd047lsfx05mp.html&amp;mode=play_link" logo= "https://images-na.ssl-images-amazon.com/images/I/71UkGrti4FL._SL1000_.jpg"
-name= Eine Reise für die Liebe url= "plugin://plugin.video.link__tester/?link=https%3A%2F%2Fvidoza.net%2F5wjf6ili9fh6.html&amp;mode=play_link" logo= "https://images-na.ssl-images-amazon.com/images/I/71tEB-CAjhL._SL1200_.jpg"
+name= Anjaam - Heute Liebe morgen Rache url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fstreamtape.com%2Fv%2FewZdX4Xb6jIYv6J%2FAnjaam.mp4&amp;title=Anjaam - Heute Liebe morgen Rache" logo= "https://images-na.ssl-images-amazon.com/images/I/51GA9DC6W1L._SY445_.jpg"
+name= Baazigar url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fstreamtape.com%2Fv%2F4BeaJ8dYP9hpgd%2FBaazigar.2006.German.DVDRip.AC3.mp4&amp;title=Baazigar" logo= "https://images-na.ssl-images-amazon.com/images/I/71lrQg46CyL._RI_.jpg"
+name= Josh url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fstreamtape.com%2Fv%2F1RWVZLgPdVCeqJw%2FJosh_-_Mein_Herz_Geh%25C3%25B6rt_Dir_%2528german%2529_.mp4&amp;title=Josh" logo= "https://images-na.ssl-images-amazon.com/images/I/71UkGrti4FL._SL1000_.jpg"
+name= Eine Reise für die Liebe url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fstreamtape.com%2Fv%2FlqzRGbo612Udb8%2FShah_Rukh_Khan_Eine_Reise_f%25C3%25BCr_die_Liebe.mp4%0D&amp;title=Eine Reise für die Liebe" logo= "https://images-na.ssl-images-amazon.com/images/I/71tEB-CAjhL._SL1200_.jpg"
 
 
 
