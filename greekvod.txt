@@ -9,7 +9,7 @@ name= Το γαμήλιο πάρτυ (2008) url= "plugin://plugin.video.smr_link
 name= O Ilias tou 16ou / Ο Ηλίας του 16ου 2008 url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fwww.ok.ru%2Fvideo%2F1666205354742&amp;title=O Ilias tou 16ou" logo= "https://tainio-mania.online/uploads/mini/posterentrypage/63/0c5c05337c26ed3a91fbb20edc383f.jpg"
 name= Love in the End (2013) url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fstreamtape.com%2Fv%2FjWwAArjaOoczjxA%2FI_AGAPI_ERXETAI_STO_TELOS_LOVE_IN_THE_END_%25282013%2529_DVDRIP.mp4&amp;title=Love in the End (2013)" logo= "https://heavenmusic.gr/wp-content/uploads/2013/02/Remos_Agapi_digital_single_for_iTunes.jpg"
 name= Eftyhia (2019) url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fstreamtape.com%2Fv%2FbZ6YgAXGAbc2Yo%2FEYTYXIA_%25282019%2529_HDTV.DD2.0.mp4&amp;title=Eftyhia (2019)" logo= "https://img.cineplexx.gr/media/gr/inc/movies_licences/Eftyhia_Plakat.jpg"
-name= Sto spiti me tin gluykeria (mega) url= "https://server9.kproxy.com/servlet/redirect.srv/syku/swngez/s5t1t8vvy38ec6ci92014j3p66t6u224w/p2/vod/iARMPEIWSoQh/playlist.m3u8" logo= "https://znews.gr/wp-content/uploads/2021/01/spitimetomega.jpg"
+
 
 
 
