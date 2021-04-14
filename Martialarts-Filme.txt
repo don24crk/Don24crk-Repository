@@ -31,6 +31,9 @@ name= Rebirth - Rache stirbt nie url= "plugin://plugin.video.smr_link_tester/?li
 name= Karate Kid(1984) url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F3780d139df&amp;mode=play_link" logo= "https://upload.wikimedia.org/wikipedia/en/a/a9/Karate_kid.jpg"
 name= Karate Kid II - Entscheidung in Okinawa(1986) url= "https://thevideos.ga/stream8635eeb8476afa031fc48879c4719670.mp4|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0" logo= "https://www.cinema.de/sites/default/files/styles/schema_org/public/sync/cms3.cinema.de/imgdb/moviedb/56/c3e1e39cd5c195640f8b132ffc8c736b.jpeg?itok=a6VWrQlE"
 name= Karate Kid III - Die letzte Entscheidung (1989) url= "https://thevideos.ga/streamaeb6058f621fb15a6460944536510ccd.mp4|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0" logo= "https://de.web.img2.acsta.net/medias/nmedia/18/90/75/79/20111843.jpg"
+name= Die Schlange im Schatten des Adlers url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fyoutube.com%2FRXbHvI1mHK4&amp;mode=play_link" logo= "https://images-na.ssl-images-amazon.com/images/I/91MhOapdnrL._SY445_.jpg"
+name= Bruce Lee er bleibt der größte url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fyoutube.com%2Fur4Ix5XjNm0&amp;mode=play_link" logo= "https://images-na.ssl-images-amazon.com/images/I/71PFaUK621L._SY445_.jpg"
+
 
 
 
