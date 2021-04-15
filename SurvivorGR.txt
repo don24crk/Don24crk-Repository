@@ -55,4 +55,4 @@ name= Survivor 8.54 url= "plugin://plugin.video.resolveurl-tester/?action=play&a
 name= Survivor 8.55 url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fok.ru%2Fvideo%2F2236496611868&amp;title=Survivor 8.55" logo= "https://greek-movies.com/icon/shows/Survivor2003.jpg"
 name= Survivor 8.56 url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fok.ru%2Fvideo%2F2250494446108&amp;title=Survivor 8.56" logo= "https://greek-movies.com/icon/shows/Survivor2003.jpg"
 name= Survivor 8.57 url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fok.ru%2Fvideo%2F2252593105436&amp;title=Survivor 8.57" logo= "https://greek-movies.com/icon/shows/Survivor2003.jpg"
-
+name= Survivor 8.58 url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fok.ru%2Fvideo%2F2255044348444&amp;title=Survivor 8.58" logo= "https://greek-movies.com/icon/shows/Survivor2003.jpg"
