@@ -33,7 +33,7 @@ name= Karate Kid II - Entscheidung in Okinawa(1986) url= "https://thevideos.ga/s
 name= Karate Kid III - Die letzte Entscheidung (1989) url= "https://thevideos.ga/streamaeb6058f621fb15a6460944536510ccd.mp4|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0" logo= "https://de.web.img2.acsta.net/medias/nmedia/18/90/75/79/20111843.jpg"
 name= Die Schlange im Schatten des Adlers url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fyoutube.com%2FRXbHvI1mHK4&amp;mode=play_link" logo= "https://images-na.ssl-images-amazon.com/images/I/91MhOapdnrL._SY445_.jpg"
 name= Bruce Lee er bleibt der größte url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fyoutube.com%2Fur4Ix5XjNm0&amp;mode=play_link" logo= "https://images-na.ssl-images-amazon.com/images/I/71PFaUK621L._SY445_.jpg"
-name= Sie nannten ihn Knochenbrecher(1978) url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DRXbHvI1mHK4&amp;title=Sie nannten ihn Knochenbrecher(1978)" logo= "https://skcdn.tv/cover/2283427f4e2a3dee605e5cb93c7704a23.jpg"
+name= Sie nannten ihn Knochenbrecher(1978) url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fvivo.sx%2Fb5556d1c75&amp;title=Sie nannten ihn Knochenbrecher(1978)" logo= "https://skcdn.tv/cover/2283427f4e2a3dee605e5cb93c7704a23.jpg"
 
 
 
