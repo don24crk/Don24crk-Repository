@@ -11,6 +11,18 @@ name= Love in the End (2013) url= "plugin://plugin.video.resolveurl-tester/?acti
 name= Eftyhia (2019) url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fstreamtape.com%2Fv%2FbZ6YgAXGAbc2Yo%2FEYTYXIA_%25282019%2529_HDTV.DD2.0.mp4&amp;title=Eftyhia (2019)" logo= "https://img.cineplexx.gr/media/gr/inc/movies_licences/Eftyhia_Plakat.jpg"
 name= 2021-04-17 (Lefteris Pantazis) url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fstreamtape.com%2Fv%2FXPk6ldVABDFDkx3%2F%25CE%259C%25CE%2595_%25CE%25A4%25CE%259F%25CE%259D_%25CE%259B%25CE%2595%25CE%25A5%25CE%25A4%25CE%2595%25CE%25A1%25CE%2597_%25CE%25A0%25CE%2591%25CE%259D%25CE%25A4%25CE%2591%25CE%2596%25CE%2597_-_%2528%25CE%25A3%25CE%25A0%25CE%2599%25CE%25A4%25CE%2599_%25CE%259C%25CE%2595_%25CE%25A4%25CE%259F_MEGA%2529_720p_HDTV.mkv&amp;title=2021-04-17 (Lefteris Pantazis)" logo= "https://greek-movies.com/icon/shows/%CE%A3%CF%84%CE%BF%CF%83%CF%80%CE%AF%CF%84%CE%B9%CE%BC%CE%B5%CF%84%CE%BFMEGA2020.jpg"
 name= Spiti me to MEGA: Me ton Giorgo Mazonaki url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fyoutube.com%2Fv%2FlHeh8OEpyBc%2F%25CE%259C%25CE%2595_%25CE%25A4%25CE%259F%25CE%259D_%25CE%259B%25CE%2595%25CE%25A5%25CE%25A4%25CE%2595%25CE%25A1%25CE%2597_%25CE%25A0%25CE%2591%25CE%259D%25CE%25A4%25CE%2591%25CE%2596%25CE%2597_-_%2528%25CE%25A3%25CE%25A0%25CE%2599%25CE%25A4%25CE%2599_%25CE%259C%25CE%2595_%25CE%25A4%25CE%Spiti me to MEGA: Me ton Giorgo Mazonaki&amp;title=Spiti me to MEGA: Me ton Giorgo Mazonaki" logo= "https://greek-movies.com/icon/shows/%CE%A3%CF%84%CE%BF%CF%83%CF%80%CE%AF%CF%84%CE%B9%CE%BC%CE%B5%CF%84%CE%BFMEGA2020.jpg"
+name= Spiti me to Mega Me tin Eleftheria Arvanitaki url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fyoutube.com%2Fv%2Fpde7UzWRr6A%2F%25CE%259C%25CE%2595_%25CE%25A4%25CE%259F%25CE%259D_%25CE%259B%25CE%2595%25CE%25A5%25CE%25A4%25CE%2595%25CE%25A1%25CE%2597_%25CE%25A0%25CE%2591%25CE%259D%25CE%25A4%25CE%2591%25CE%2596%25CE%2597_-_%2528%25CE%25A3%25CE%25A0%25CE%2599%25CE%25A4%25CE%2599_%25CE%259C%25CE%2595_%25CE%25A4%25CE%Spiti me to Mega Me tin Eleftheria Arvanitaki&amp;title=Spiti me to Mega Me tin Eleftheria Arvanitaki" logo= "https://greek-movies.com/icon/shows/%CE%A3%CF%84%CE%BF%CF%83%CF%80%CE%AF%CF%84%CE%B9%CE%BC%CE%B5%CF%84%CE%BFMEGA2020.jpg"
+name= Sto spiti me ton Giorgo Ntalara url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fyoutube.com%2Fv%2FweBRyWPWCAQ%2F%25CE%259C%25CE%2595_%25CE%25A4%25CE%259F%25CE%259D_%25CE%259B%25CE%2595%25CE%25A5%25CE%25A4%25CE%2595%25CE%25A1%25CE%2597_%25CE%25A0%25CE%2591%25CE%259D%25CE%25A4%25CE%2591%25CE%2596%25CE%2597_-_%2528%25CE%25A3%25CE%25A0%25CE%2599%25CE%25A4%25CE%2599_%25CE%259C%25CE%2595_%25CE%25A4%25CE%Sto spiti me ton Giorgo Ntalara&amp;title=Sto spiti me ton Giorgo Ntalara" logo= "https://greek-movies.com/icon/shows/%CE%A3%CF%84%CE%BF%CF%83%CF%80%CE%AF%CF%84%CE%B9%CE%BC%CE%B5%CF%84%CE%BFMEGA2020.jpg"
+name= Menoume spiti me tin Anna Vissi url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fyoutube.com%2Fv%2FIvahA4vfuZs%2F%25CE%259C%25CE%2595_%25CE%25A4%25CE%259F%25CE%259D_%25CE%259B%25CE%2595%25CE%25A5%25CE%25A4%25CE%2595%25CE%25A1%25CE%2597_%25CE%25A0%25CE%2591%25CE%259D%25CE%25A4%25CE%2591%25CE%2596%25CE%2597_-_%2528%25CE%25A3%25CE%25A0%25CE%2599%25CE%25A4%25CE%2599_%25CE%259C%25CE%2595_%25CE%25A4%25CE%Menoume spiti me tin Anna Vissi&amp;title=Menoume spiti me tin Anna Vissi" logo= "https://greek-movies.com/icon/shows/%CE%A3%CF%84%CE%BF%CF%83%CF%80%CE%AF%CF%84%CE%B9%CE%BC%CE%B5%CF%84%CE%BFMEGA2020.jpg"
+
+
+
+
+
+
+
+
+
 
 
 
