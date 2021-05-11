@@ -91,7 +91,9 @@ name= Schrei wenn du kannst denn ich werde dich Töten! (1999) url= "plugin://pl
 name= Schwimmingpool Der Tod Feiert Mit! (2001) url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fstreamtape.com%2Fv%2FdKz1eRdMvyhkaJM%2FSchwimmingpool_-_Der_Tod_feiert_mit.mp4&amp;title=Schwimmingpool Der Tod Feiert Mit! (2001)" logo= "https://images-na.ssl-images-amazon.com/images/I/51Fsmc61rgL._SY445_.jpg"
 name= Replicant(2001) url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fvivo.sx%2F0e459172fc&amp;title=Replicant(2001)" logo= "https://skcdn.tv/cover/9ebfa226072eadd2c0c9565f82d82c173.jpg"
 name= In Hell - Rage Unleashed(2003) url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fvivo.sx%2Fa559c1741c&amp;title=In Hell - Rage Unleashed(2003)" logo= "https://skcdn.tv/cover/6610c77f0c760eaab333afe85254cf493.jpg"
-
+name= Mortal Kombat(2021) url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fvivo.sx%2F93923625fc&amp;title=Mortal Kombat(2021)" logo= "https://skcdn.tv/cover/fac6f5249c6cf6dffb88a23b3010af573.jpg"
+name= Red Screening - Blutige Vorstellung(2020) url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fvivo.sx%2F8f7e0f1861&amp;title=Red Screening - Blutige Vorstellung
+(2020)" logo= "https://cdn.hdfilme.cx/img/hdfilme.cx-red-screening-blutige-vorstellung-poster-19864687641619524518_thumb.jpg"
 
 
 
