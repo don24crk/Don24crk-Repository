@@ -89,7 +89,8 @@ name= Over the Top - Mein Daddy schlägt sie alle(1987) url= "plugin://plugin.vi
 name= In deinen Armen (2019) url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fvivo.sx%2F5b587944c1&amp;title=In deinen Armen (2019)" logo= "https://skcdn.tv/cover/6801d1e6a14ccb42c5bd25bf8b8371173.jpg"
 name= Schrei wenn du kannst denn ich werde dich Töten! (1999) url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fstreamtape.com%2Fv%2Frbv16jVYlMfbWew%2FSCHOOL%2527S_OUT_1_aka__SCHREI_DENN_ICH_WERDE_komplett_SD_DOWNLOAD.mp4&amp;title=Schrei wenn du kannst denn ich werde dich Töten! (1999)" logo= "https://images-na.ssl-images-amazon.com/images/I/517GHCRTBRL._SY445_.jpg"
 name= Schwimmingpool Der Tod Feiert Mit! (2001) url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fstreamtape.com%2Fv%2FdKz1eRdMvyhkaJM%2FSchwimmingpool_-_Der_Tod_feiert_mit.mp4&amp;title=Schwimmingpool Der Tod Feiert Mit! (2001)" logo= "https://images-na.ssl-images-amazon.com/images/I/51Fsmc61rgL._SY445_.jpg"
-
+name= Replicant(2001) url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fvivo.sx%2F0e459172fc&amp;title=Replicant(2001)" logo= "https://skcdn.tv/cover/9ebfa226072eadd2c0c9565f82d82c173.jpg"
+name= In Hell - Rage Unleashed(2003) url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fvivo.sx%2Fa559c1741c&amp;title=In Hell - Rage Unleashed(2003)" logo= "https://skcdn.tv/cover/6610c77f0c760eaab333afe85254cf493.jpg"
 
 
 
