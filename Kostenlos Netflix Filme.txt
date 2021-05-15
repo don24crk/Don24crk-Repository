@@ -93,6 +93,7 @@ name= Replicant(2001) url= "plugin://plugin.video.resolveurl-tester/?action=play
 name= In Hell - Rage Unleashed(2003) url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fvivo.sx%2Fa559c1741c&amp;title=In Hell - Rage Unleashed(2003)" logo= "https://skcdn.tv/cover/6610c77f0c760eaab333afe85254cf493.jpg"
 name= Mortal Kombat(2021) url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fvivo.sx%2F93923625fc&amp;title=Mortal Kombat(2021)" logo= "https://skcdn.tv/cover/fac6f5249c6cf6dffb88a23b3010af573.jpg"
 name= Red Screening - Blutige Vorstellung(2020) url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fvivo.sx%2F8f7e0f1861&amp;title=Red Screening - Blutige Vorstellung(2020)" logo= "https://images-na.ssl-images-amazon.com/images/I/51Qn3ZnT8LL.jpg"
+name= David Hasselhoff - Ein Leben auf der Überholspur (driven) [Doku] url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fyoutube.com%2Fv%2F39NveXksJQM&amp;title=David Hasselhoff - Ein Leben auf der Überholspur (driven) [Doku]" logo= "https://www.google.de/url?sa=i&url=https%3A%2F%2Fwww.tvtoday.de%2Fentertainment%2Fkino%2Fdavid-hasselhoff-ein-leben-auf-der-ueberholspur_1336576.html&psig=AOvVaw0H7_jyucft7r1tY326_NUt&ust=1621177955848000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMie7b37y_ACFQAAAAAdAAAAABAE"
 
 
 
