@@ -99,6 +99,50 @@ name= Invincible Dragon(2019) url= "plugin://plugin.video.resolveurl-tester/?act
 name= Dragon(2011) url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fvivo.sx%2Fa4abbfc8cb&amp;title=Dragon(2011)" logo= "https://assets.cdn.moviepilot.de/files/e34e37ff2f3f87e0e665186d7c91c13e428a34a05d57135dd947d58b9b2b/limit/500/1000/dragon-cover-01.jpg"
 name= The Foreigner(2017) url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fvivo.sx%2F7d0d990427&amp;title=The Foreigner(2017)" logo= "https://skcdn.tv/cover/6cab6f299f6470bb1de473e51288776b3.jpg"
 name= Karate Kid(2010) url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fvivo.sx%2Fa1d94bbe09&amp;title=Karate Kid(2010)" logo= "https://skcdn.tv/cover/048c7b5343dcc87ec6787d5645833ecb3.jpg"
+name= The Osiris Child(2017) url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fvivo.sx%2Fa4d360a452&amp;title=The Osiris Child(2017)" logo= "https://skcdn.tv/cover/fb87fa84eada1f1c24bda50ce498e8363.jpg"
+name= Cruella(2021) url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fvivo.sx%2Ffc2cf8d35d&amp;title=Cruella(2021)" logo= "https://skcdn.tv/cover/5116ab785a8717860fa466b5714d61373.jpg"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
