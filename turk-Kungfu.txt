@@ -9,7 +9,7 @@ name=  Amansız Takip izle url= "plugin://plugin.video.resolveurl-tester/?action
 name=  Ip Man 1 izle url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fvidmoly.to%2Fembed-q4msfnbnb2pn.html&amp;title=Ip Man 1 izle" logo= "https://www.hdfilmcehennemi2.pw/wp-content/uploads/2015/07/Ip-Man-izle-170x240.jpg"
 name=  Ip Man 2 izle url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fvidmoly.to%2Fembed-rby15hxkgdjk.html&amp;title=Ip Man 2 izle" logo= "https://www.hdfilmcehennemi2.pw/wp-content/uploads/2015/07/Ip-Man-2-izle-125x160.jpg"
 name=  Ip Man 3 izle url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fvidmoly.to%2Fembed-p60uddxory2k.html&amp;title=Ip Man 3 izle" logo= "https://www.hdfilmcehennemi2.pw/wp-content/uploads/2016/06/Ip-Man-3-izle-170x240.jpg"
-name=  Ip Man 4: Final izle url= "http://cdn10.video.az/storage/movie/15/15397/video.mp4" logo= "https://www.hdfilmcehennemi2.pw/wp-content/uploads/2020/01/Ip-Man-4-Final-izle-170x240.jpg"
+name=  Ip Man 4: Final izle url= "http://cdn10.video.az/storage/movie/15/15397/video.mp4|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0" logo= "https://www.hdfilmcehennemi2.pw/wp-content/uploads/2020/01/Ip-Man-4-Final-izle-170x240.jpg"
 
 
 
