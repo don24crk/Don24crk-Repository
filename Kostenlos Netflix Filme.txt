@@ -103,7 +103,7 @@ name= The Osiris Child(2017) url= "plugin://plugin.video.resolveurl-tester/?acti
 name= Cruella(2021) url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fvivo.sx%2Ffc2cf8d35d&amp;title=Cruella(2021)" logo= "https://skcdn.tv/cover/5116ab785a8717860fa466b5714d61373.jpg"
 name= Texas Chainsaw Massacre Directors Cut (2003) url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fstreamtape.com%2Fv%2FKPj66w9yMGtbQx%2FTexas_Chainsaw_Massacre_2003_%2528Directors_Cut%2529.mp4&amp;title=Texas Chainsaw Massacre Directors Cut (2003)" logo= "https://skcdn.tv/cover/2cef47c061673f34cb38d7ee4c1ec6ca3.jpg"
 name= Monster Hunter (2020) url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fstreamtape.com%2Fv%2F46L6VVGo91uORy%2Fpso-monster.sd.mkv&amp;title=Monster Hunter (2020)" logo= "https://skcdn.tv/cover/c6cdf07324c5969f2c465f8badaefccc3.jpg"
-name= Shadow of the Vampire (2000) url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fvivo.sx%2Fv%2Fe205090c4c&amp;title=Shadow of the Vampire (2000)" logo= "https://skcdn.tv/cover/40d3c62253de9d9b0fc81ef14c2ba16c3.jpg"
+name= Shadow of the Vampire (2000) url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fvivo.sx%2Fe205090c4c&amp;title=Shadow of the Vampire (2000)" logo= "https://skcdn.tv/cover/40d3c62253de9d9b0fc81ef14c2ba16c3.jpg"
 
 
 
