@@ -105,7 +105,12 @@ name= Texas Chainsaw Massacre Directors Cut (2003) url= "plugin://plugin.video.r
 name= Monster Hunter (2020) url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fstreamtape.com%2Fv%2F46L6VVGo91uORy%2Fpso-monster.sd.mkv&amp;title=Monster Hunter (2020)" logo= "https://skcdn.tv/cover/c6cdf07324c5969f2c465f8badaefccc3.jpg"
 name= Shadow of the Vampire (2000) url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fvivo.sx%2Fe205090c4c&amp;title=Shadow of the Vampire (2000)" logo= "https://skcdn.tv/cover/40d3c62253de9d9b0fc81ef14c2ba16c3.jpg"
 name= Die Croods 2 - Alles auf Anfang  (2021) url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fvivo.sx%2Fad22261bbe&amp;title=Die Croods 2 - Alles auf Anfang  (2021)" logo= "https://filmpalast.to/files/movies/450/die-croods-2-alles-auf-anfang.jpg"
-name= The Suicide Squad (2021) url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fvivo.sx%2F3c37b65545&amp;title=he Suicide Squad (2021)" logo= "https://filmpalast.to/files/movies/450/the-suicide-squad-2021.jpg"
+name= The Suicide Squad (2021) url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fvivo.sx%2F3c37b65545&amp;title=The Suicide Squad (2021)" logo= "https://filmpalast.to/files/movies/450/the-suicide-squad-2021.jpg"
+name= Hitler - Aufstieg des Bösen(2003) Teil 1 url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fvivo.sx%2Ff8a182ce3d&amp;title=Hitler - Aufstieg des Bösen(2003)" logo= "https://skcdn.tv/cover/85c518b26f0cc3d1ec40f7d6513750553.jpg"
+name= Hitler - Aufstieg des Bösen(2003) Teil 2 url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fvivo.sx%2F96755e3734&amp;title=Hitler - Aufstieg des Bösen(2003)" logo= "https://skcdn.tv/cover/85c518b26f0cc3d1ec40f7d6513750553.jpg"
+
+
+
 
 
 
