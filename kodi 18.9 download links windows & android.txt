@@ -1,4 +1,0 @@
-kodi 18.9 download links
-http://mirrors.kodi.tv/releases/windows/win64/kodi-18.9-Leia-x64.exe
-android 18.9
-http://mirrors.kodi.tv/releases/android/arm64-v8a/kodi-18.9-Leia-arm64-v8a.apk
