@@ -9,7 +9,7 @@ name=  Amansız Takip izle url= "plugin://plugin.video.resolveurl-tester/?action
 name=  Ip Man 1 izle url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fvidmoly.to%2Fembed-q4msfnbnb2pn.html&amp;title=Ip Man 1 izle" logo= "https://www.hdfilmcehennemi2.pw/wp-content/uploads/2015/07/Ip-Man-izle-170x240.jpg"
 name=  Ip Man 2 izle url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fvidmoly.to%2Fembed-rby15hxkgdjk.html&amp;title=Ip Man 2 izle" logo= "https://www.hdfilmcehennemi2.pw/wp-content/uploads/2015/07/Ip-Man-2-izle-125x160.jpg"
 name=  Ip Man 3 izle url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fvidmoly.to%2Fembed-p60uddxory2k.html&amp;title=Ip Man 3 izle" logo= "https://www.hdfilmcehennemi2.pw/wp-content/uploads/2016/06/Ip-Man-3-izle-170x240.jpg"
-name=  Ip Man 4: Final izle url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fvidmoly.to%2Fembed-w1v82jul09zg.html&amp;title=Ip Man 4: Final izle" logo= "https://www.hdfilmcehennemi2.pw/wp-content/uploads/2020/01/Ip-Man-4-Final-izle-170x240.jpg"
+name=  Ip Man 4: Final izle url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fvidmoly.me%2Fembed-w1v82jul09zg.html&amp;title=Ip Man 4: Final izle" logo= "https://www.hdfilmcehennemi2.pw/wp-content/uploads/2020/01/Ip-Man-4-Final-izle-170x240.jpg"
 
 
 
