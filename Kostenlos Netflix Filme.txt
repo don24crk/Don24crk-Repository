@@ -108,7 +108,7 @@ name= Die Croods 2 - Alles auf Anfang  (2021) url= "plugin://plugin.video.resolv
 name= The Suicide Squad (2021) url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fvivo.sx%2F3c37b65545&amp;title=The Suicide Squad (2021)" logo= "https://filmpalast.to/files/movies/450/the-suicide-squad-2021.jpg"
 name= Hitler - Aufstieg des Bösen(2003) Teil 1 url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fvivo.sx%2Ff8a182ce3d&amp;title=Hitler - Aufstieg des Bösen(2003)" logo= "https://skcdn.tv/cover/85c518b26f0cc3d1ec40f7d6513750553.jpg"
 name= Hitler - Aufstieg des Bösen(2003) Teil 2 url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fvivo.sx%2F96755e3734&amp;title=Hitler - Aufstieg des Bösen(2003)" logo= "https://skcdn.tv/cover/85c518b26f0cc3d1ec40f7d6513750553.jpg"
-
+name= Spider-man (2002) url= "https://bit.ly/3jr65pi|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0" logo= "https://skcdn.tv/cover/02756a6f2efe3afc3b94b33bbac9486b3.jpg"
 
 
 
