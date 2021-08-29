@@ -34,5 +34,5 @@ name= Aller guten Dinge sind drei     url= "plugin://plugin.video.resolveurl-tes
 name= Geisterstunde      url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fvupload.com%2F7zegcym6afhc&amp;title=Geisterstunde" logo= "https://bs.to/public/images/cover/1695.jpg"
 name= Spieleabend       url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fvupload.com%2F202qcjtnyydv&amp;title=Spieleabend" logo= "https://bs.to/public/images/cover/1695.jpg"
 name= Titellos        url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fvupload.com%2Ftjq9yyy7uxco&amp;title=Titellos" logo= "https://bs.to/public/images/cover/1695.jpg"
-name= Ex-poniert         url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fvupload.com%2Fu9m85bnnokex&amp;title=" logo= "https://bs.to/public/images/cover/1695.jpg"
+name= Ex-poniert         url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fvupload.com%2Fu9m85bnnokex&amp;title=Ex-poniert" logo= "https://bs.to/public/images/cover/1695.jpg"
 name= Neue Flammen         url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fvupload.com%2Fc4r1c6dujoh8&amp;title=Neue Flammen" logo= "https://bs.to/public/images/cover/1695.jpg"
