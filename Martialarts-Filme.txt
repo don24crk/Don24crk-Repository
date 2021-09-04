@@ -35,6 +35,7 @@ name= Die Schlange im Schatten des Adlers url= "plugin://plugin.video.smr_link_t
 name= Bruce Lee er bleibt der größte url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fyoutube.com%2Fur4Ix5XjNm0&amp;mode=play_link" logo= "https://images-na.ssl-images-amazon.com/images/I/71PFaUK621L._SY445_.jpg"
 name= Sie nannten ihn Knochenbrecher(1978) url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fvivo.sx%2Fb5556d1c75&amp;title=Sie nannten ihn Knochenbrecher(1978)" logo= "https://skcdn.tv/cover/2283427f4e2a3dee605e5cb93c7704a23.jpg"
 name= Bruce Lee - Die Legende des Drachen (2010) url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fstreamtape.com%2Fv%2F4yvrdqawQgTKgJM%2FBruce_Lee_-_Die_Legende_des_Drachen.mp4&amp;title=Bruce Lee - Die Legende des Drachen (2010)" logo= "https://m.media-amazon.com/images/I/51B5CkfKKkL.jpg"
+name= Der Kleine Dicke mit dem Superschlag (1978) url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fvivo.sx%2Fe619001d07&amp;title=Der Kleine Dicke mit dem Superschlag (1978)" logo= "https://skcdn.tv/cover/481d607b0a4f8f682f9cadd1654da87a3.jpg"
 
 
 
