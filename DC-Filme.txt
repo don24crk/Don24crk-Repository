@@ -23,6 +23,12 @@ name= Superman/Batman: Apocalypse(2010) url= "plugin://plugin.video.smr_link_tes
 name= Hulk Vs. - Thor/Wolverine(2009) url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F0e1502f348&amp;mode=play_link" logo= "https://images-na.ssl-images-amazon.com/images/I/51Br2IgsR6L._SY445_.jpg"
 name= Planet Hulk(2010) url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F6d46aaa89b&amp;mode=play_link" logo= "https://m.media-amazon.com/images/M/MV5BYmFlNTNhNjktNDQ4NC00ZmVhLTg2NmYtOWExMmI0MzQ1ODFmL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg"
 name= Batman: Soul of the Dragon(2021) url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2Fa7c0b2864e&amp;mode=play_link" logo= "https://images-na.ssl-images-amazon.com/images/I/91215Jdgw1L._RI_.jpg"
+name= Batman: The Long Halloween - Teil Eins  url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fstreamtape.com%2Fe%2F3rkGPly2d3FdOwe%2F4CYqVYk2lYRf9XLQl0GxB.mkv&amp;title=https%3A%2F%2Fstreamtape.com%2Fe%2F3rkGPly2d3FdOwe%2F4CYqVYk2lYRf9XLQl0GxB.mkv&amp;title=Batman: The Long Halloween - Teil Eins " logo= "https://skcdn.tv/cover/25e3b0ddc12a3da91df76c8ceabacead3.jpg"
+name= Batman: The Long Halloween - Teil Zwei  url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fstreamtape.com%2Fe%2Fldg3GLP42Qc7pxe%2FXZJ2OrswiLK5KLLMrtnmqJJqyL2EQiBJbLCG9BhEnH0yKDT3k9VyYPguGiJ4rdv1dOh7NLIChKQ.mkv&amp;title=Batman: The Long Halloween - Teil Zwei " logo= "https://filmpalast.to/files/movies/450/batman-the-long-halloween-teil-zwei.jpg"
+name= Batman Unlimited: Animal Instincts   url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fvivo.st%2Fb701d2c6f6&amp;title=Batman Unlimited: Animal Instincts " logo= "https://filmpalast.to/files/movies/450/batman-unlimited-animal-instincts.jpg"
+
+
+
 
 
 
