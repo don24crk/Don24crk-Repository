@@ -16,6 +16,8 @@ name= AliveGr Greek Movies 80ies url= "plugin://plugin.video.AliveGR/?action=pla
 name= MegaTV url= "https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0" logo= "https://www.megatv.com/wp-content/themes/megatv/common/imgs/poster_4-min.jpg"
 name= BananaTV url= "https://web.onair-radio.eu/bananachannel/bananachannel/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0" logo= "https://www.bananatic.com/de/images/bananatv.png"
 name= GREEK CINEMA url= "https://vdo.alphaserver.gr:3613/hybrid/play.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0" logo= "https://lh3.googleusercontent.com/proxy/zBlZiQJC_hFCwfmpdQlNIQ-Vmbcm_73MPjbSSjfR6JmRpW_QkIf7kNqsHuuEDxQDAMftQdZODmcdDc1KptaFRf_Zhyq6JkvZ_z8bttuMIvaeXqakQymd2CDZhl5m3Hb1qw"
+name= SMILE TV CY url= "https://s1.cystream.net/live/smile/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0" logo= "https://scontent-dus1-1.xx.fbcdn.net/v/t31.18172-8/23331440_386426215111562_7761042364004133111_o.jpg?_nc_cat=108&ccb=1-5&_nc_sid=973b4a&_nc_ohc=xe1Nx6bYG1sAX9MDpX_&_nc_ht=scontent-dus1-1.xx&oh=093e0258a638ac8f517166a9b3c75f59&oe=615C2548"
+name= Galaxy GR url= "https://channel.streams.ovh:1936/galaxygr-1/galaxygr-1/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0" logo= "http://tv.10dailythings.com/images/channels/GR/galaxy-gr/full.png"
 
 
 
