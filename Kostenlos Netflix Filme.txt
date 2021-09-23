@@ -112,6 +112,7 @@ name= Spider-man (2002) url= "plugin://plugin.video.resolveurl-tester/?action=pl
 name= Spider-man 2 (2004) url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=http%3A%2F%2Fdood.to%2Fd%2Fasz37kilx0jm&amp;title=Spider-man  2 (2004)" logo= "https://kinomax.to/uploads/posts/2018-12/thumbs/1545067611_1.jpg"
 name= Spider-man 3 (2008) url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=http%3A%2F%2Fdood.to%2Fd%2F3sfdx3ttg8ky&amp;title=Spider-man  3 (2008)" logo= "https://kinomax.to/uploads/posts/2019-01/thumbs/1547142941_1.jpg"
 name= Saw 9 Spiral (2021) url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fvivo.sx%2Fembed%2Ff9b8bd967a&amp;title=Saw 9 Spiral" logo= "https://bluray-disc.de/image/news/Saw_Spiral_Galerie_HD_Amaray.jpg"
+name= Freeguy (2021) url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fstreamtape.com%2Fe%2FApX2l9kxo2IXoRl2FJYJtFAnWwlx.mkv&amp;title=Freeguy (2021)" logo= "https://filmpalast.to/files/movies/450/free-guy.jpg"
 
 
 
