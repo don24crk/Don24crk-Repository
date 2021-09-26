@@ -1,5 +1,5 @@
 name= Teenie Filme Playlist url= "plugin://plugin.video.youtube/play/?playlist_id=PLb04dvHextKt0Cfst4i7OS5Hb4L0IIwKg&order=DEFAULT&play=1" logo= "https://i.ibb.co/t2j8f9q/icon.png"
-name= Ferris Macht Blau  url= "https://www99.uptostream.com/13l5c0i0e41/720/0/video.mp4&play=1" logo= "https://images.mediabiz.de/flbilder/max05/mbiz05/mbiz11/z0511736/w225.jpg"
+name= Ferris Macht Blau  url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fvivo.sx%2F6f27488774&amp;title=Ferris Macht Blau" logo= "https://images.mediabiz.de/flbilder/max05/mbiz05/mbiz11/z0511736/w225.jpg"
 
 
 
