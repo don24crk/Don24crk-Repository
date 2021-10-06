@@ -118,6 +118,9 @@ name= Stephen Kings The Night Flier(1997) url= "plugin://plugin.video.resolveurl
 name= Stephen King's Tommyknockers(1993) url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fvivo.sx%2Fembed%2Fbd537fb1b2&amp;title=Stephen King's Tommyknockers(1993)" logo= "https://m.media-amazon.com/images/I/51E85DE35SL._SY445_.jpg"
 name= Christine(1983) url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fvivo.sx%2Fembed%2F52bb59c264&amp;title=Christine(1983)" logo= "https://m.media-amazon.com/images/I/81lZ5ompIlL._SY445_.jpg"
 name= Katzenauge(1985) url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fvivo.sx%2Fembed%2F84a8a8ffa9&amp;title=Katzenauge(1985)" logo= "https://de.web.img3.acsta.net/c_310_420/medias/nmedia/18/88/73/43/20002251.jpg"
+name= Geschichten aus der Schattenwelt(1990) url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fvivo.sx%2Fembed%2F593daca3b9&amp;title=Geschichten aus der Schattenwelt(1990)" logo= "https://de.web.img3.acsta.net/medias/nmedia/18/92/87/82/20222915.jpg"
+
+
 
 
 
