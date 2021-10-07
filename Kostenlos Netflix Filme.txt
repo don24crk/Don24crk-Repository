@@ -122,7 +122,7 @@ name= Katzenauge(1985) url= "plugin://plugin.video.resolveurl-tester/?action=pla
 name= Geschichten aus der Schattenwelt(1990) url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fvivo.sx%2Fembed%2F593daca3b9&amp;title=Geschichten aus der Schattenwelt(1990)" logo= "https://de.web.img3.acsta.net/medias/nmedia/18/92/87/82/20222915.jpg"
 name= Console Wars  url= "https://delivery-node-zuhrah.voe-network.net/hls/,6oarmp3a7e33cszcr3vndidt5ik6o3sbootro5ocp6b6fgbdyjigmrwfddrq,.urlset/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0" logo= "https://filmpalast.to/files/movies/450/console-wars.jpg"
 name= Der Werwolf von Tarker Mills(1985) url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fvivo.sx%2Fembed%2F29347ae3a1&amp;title=Der Werwolf von Tarker Mills(1985)" logo= "https://image.tmdb.org/t/p/w500/zqFoUjbqYO7X23KajpThZPF9jWn.jpg"
-
+Stephen Kings ES(2017) Teil 1 url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fvivo.sx%2Fembed%2Fe8c64d4e3e&amp;title=Stephen Kings ES(2017) Teil 1" logo= "https://de.web.img3.acsta.net/pictures/17/08/11/11/22/471785.jpg"
 
 
 
