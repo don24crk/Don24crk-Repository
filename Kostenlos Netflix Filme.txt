@@ -119,7 +119,7 @@ name= Stephen King's Tommyknockers(1993) url= "plugin://plugin.video.resolveurl-
 name= Christine(1983) url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fvivo.sx%2Fembed%2F52bb59c264&amp;title=Christine(1983)" logo= "https://m.media-amazon.com/images/I/81lZ5ompIlL._SY445_.jpg"
 name= Katzenauge(1985) url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fvivo.sx%2Fembed%2F84a8a8ffa9&amp;title=Katzenauge(1985)" logo= "https://de.web.img3.acsta.net/c_310_420/medias/nmedia/18/88/73/43/20002251.jpg"
 name= Geschichten aus der Schattenwelt(1990) url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fvivo.sx%2Fembed%2F593daca3b9&amp;title=Geschichten aus der Schattenwelt(1990)" logo= "https://de.web.img3.acsta.net/medias/nmedia/18/92/87/82/20222915.jpg"
-name= Console Wars  url= "https://delivery-node-zuhrah.voe-network.net/hls/,6oarmp3a7e33cszcr3vndidt5ik6o3sbootro5ocp6b6fgbdyjigmrwfddrq,.urlset/master.m3u8" logo= "https://filmpalast.to/files/movies/450/console-wars.jpg"
+name= Console Wars  url= "https://delivery-node-zuhrah.voe-network.net/hls/,6oarmp3a7e33cszcr3vndidt5ik6o3sbootro5ocp6b6fgbdyjigmrwfddrq,.urlset/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0" logo= "https://filmpalast.to/files/movies/450/console-wars.jpg"
 
 
 
