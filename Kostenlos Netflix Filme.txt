@@ -125,10 +125,10 @@ name= Der Werwolf von Tarker Mills(1985) url= "plugin://plugin.video.resolveurl-
 name= Stephen Kings ES(2017) Teil 1 url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fvivo.sx%2Fembed%2Fe8c64d4e3e&amp;title=Stephen Kings ES(2017) Teil 1" logo= "https://de.web.img3.acsta.net/pictures/17/08/11/11/22/471785.jpg"
 name= Candymans Fluch (1992) url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fvivo.sx%2Fembed%2F0d227c74a8&amp;title=Candymans Fluch (1992)" logo= "https://www.cinema.de/sites/default/files/styles/schema_org/public/sync/cms3.cinema.de/imgdb/moviedb/29/cce632fc47069ae1213dc838cf26f627.jpeg?itok=cY2dOE6N"
 name= Candyman 2 - Die Blutrache (1995) url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fvivo.sx%2Fembed%2F95b607dce0&amp;title=Candyman 2 - Die Blutrache (1995)" logo= "https://shop.kochfilms.de/media/images/org/Candyman2-DVD__3D.jpg"
-name= Candyman 3 - Der Tag der Toten(1999) url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fvivo.sx%2Fembed%2F49b5cc4b1c&amp;title=
-Candyman 3 - Der Tag der Toten(1999)" logo= "https://m.media-amazon.com/images/I/517+9lUBPQL.jpg"
+name= Candyman 3 - Der Tag der Toten (1999) url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fvivo.sx%2Fembed%2F49b5cc4b1c&amp;title=
+Candyman 3 - Der Tag der Toten (1999)" logo= "https://m.media-amazon.com/images/I/517+9lUBPQL.jpg"
 name= Child Eater(2016) url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fvivo.sx%2Fembed%2Fce6fb019cc&amp;title=
-Child Eater(2016)" logo= "https://m.media-amazon.com/images/M/MV5BMDJjY2M3NmMtMjg3OS00YjljLWIxY2YtZWRmN2E5OTQ5ZTMyXkEyXkFqcGdeQXVyMjUwNjg0NzQ@._V1_.jpg"
+Child Eater(2016)" logo= "https://m.media-amazon.com/images/M/MV5BM2Y5ZDQ3OWItY2RjYi00Y2ZhLWFlZjctMjA4OTZkMGRlNTRkXkEyXkFqcGdeQXVyMTE0MzQwMjgz._V1_.jpg"
 
 
 
