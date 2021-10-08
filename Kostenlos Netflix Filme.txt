@@ -124,9 +124,9 @@ name= Console Wars  url= "https://delivery-node-zuhrah.voe-network.net/hls/,6oar
 name= Der Werwolf von Tarker Mills(1985) url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fvivo.sx%2Fembed%2F29347ae3a1&amp;title=Der Werwolf von Tarker Mills(1985)" logo= "https://image.tmdb.org/t/p/w500/zqFoUjbqYO7X23KajpThZPF9jWn.jpg"
 name= Stephen Kings ES(2017) Teil 1 url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fvivo.sx%2Fembed%2Fe8c64d4e3e&amp;title=Stephen Kings ES(2017) Teil 1" logo= "https://de.web.img3.acsta.net/pictures/17/08/11/11/22/471785.jpg"
 name= Candymans Fluch (1992) url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fvivo.sx%2Fembed%2F0d227c74a8&amp;title=Candymans Fluch (1992)" logo= "https://skcdn.tv/cover/ce2513b263c36d4bd1360e4598e7a94a3.jpg"
-name= Candyman 2 Die Blutrache (1995) url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fvivo.sx%2Fembed%2F95b607dce0&amp;title=Candyman 2 Die Blutrache (1995) logo = "https://skcdn.tv/cover/1c1167ecf20eb25eeda6f41ff4c2f8143.jpg"
-name= Candyman 3  (1999) url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fvivo.sx%2Fembed%2F49b5cc4b1c&amp;title=Candyman 3  (1999)" logo = "https://skcdn.tv/cover/223a72417ecdaf6c3ba1ba92e392808f3.jpg"
-name= Child Eater (2016) url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fvivo.sx%2Fembed%2Fce6fb019cc&amp;title=Child Eater (2016)" logo = "https://skcdn.tv/cover/1550d075bee89586f5514a8ab53d208d3.jpg"
+name= Candyman 2 (1995) url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fvivo.sx%2Fembed%2F95b607dce0&amp;title=Candyman 2 (1995) logo = "https://skcdn.tv/cover/1c1167ecf20eb25eeda6f41ff4c2f8143.jpg"
+name= Candyman 3 url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fvivo.sx%2Fembed%2F49b5cc4b1c&amp;title=Candyman 3" logo = "https://skcdn.tv/cover/223a72417ecdaf6c3ba1ba92e392808f3.jpg"
+name= Child Eater url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fvivo.sx%2Fembed%2Fce6fb019cc&amp;title=Child Eater" logo = "https://skcdn.tv/cover/1550d075bee89586f5514a8ab53d208d3.jpg"
 
 
 
