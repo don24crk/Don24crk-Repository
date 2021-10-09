@@ -10,7 +10,7 @@ http://livestar.siliconweb.com/media/star1/star1.m3u8|User-Agent=Mozilla/5.0 (Wi
 #EXTINF:-1 tvg-name="SkaiTV" tvg-id="id" group-title="SkaiGroup" tvg-logo="https://www.athensmagazine.gr/photos/w_800px/articles/201901/skai_logo.jpg",SkaiTV
 http://skai-live.siliconweb.com/media/cambria4/index_bitrate2000K.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0
 #EXTINF:-1 tvg-name="SigmaTV" tvg-id="id" group-title="SkaiGroup" tvg-logo="https://i.imgur.com/FljMxGE.png",SigmaTV
-https://sl2.sigmatv.com/hls/live.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0
+https://l10.cloudskep.com/sigmatv/s24/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0
 #EXTINF:-1 tvg-name="OpenTV" tvg-id="id" group-title="OpenBeyoundGroup" tvg-logo="https://i.imgur.com/c9hgL1c.jpg",OpenTV
 https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0
 #EXTINF:-1 tvg-name="MegaTV" tvg-id="id" group-title="Group Title" tvg-logo="https://www.megatv.com/wp-content/themes/megatv/common/imgs/poster_4-min.jpg",MegaTV
