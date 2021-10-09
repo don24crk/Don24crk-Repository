@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="ErtWorld" tvg-id="id" group-title="ErtGroup" tvg-logo="https://i.imgur.com/Jjds4h5.png",ErtWorld
+http://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0
+#EXTINF:-1 tvg-name="AlphaTV" tvg-id="id" group-title="Group Title" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Alpha-TV-Logo.png",AlphaTV
+https://alphalive-i.akamaihd.net/hls/live/682300/live/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0
+#EXTINF:-1 tvg-name="Ant1" tvg-id="id" group-title="Group Title" tvg-logo="https://play-lh.googleusercontent.com/RpM2ah8yqfH-5xNXEIPeFGwxCfPIqTGmMeiGaJTYwXqzcIHQSONPerSEEiYgkEY8rPs",Ant1
+https://antennaamdnoenc.akamaized.net/ant1_akamai/abr/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0
+#EXTINF:-1 tvg-name="StarHD" tvg-id="id" group-title="Group Title" tvg-logo="https://www.star.gr/tv/images/600x315/files/images/STAR1200X630.jpg",StarHD
+http://livestar.siliconweb.com/media/star1/star1.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0
+#EXTINF:-1 tvg-name="SkaiTV" tvg-id="id" group-title="SkaiGroup" tvg-logo="https://www.athensmagazine.gr/photos/w_800px/articles/201901/skai_logo.jpg",SkaiTV
+http://skai-live.siliconweb.com/media/cambria4/index_bitrate2000K.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0
+#EXTINF:-1 tvg-name="SigmaTV" tvg-id="id" group-title="SkaiGroup" tvg-logo="https://i.imgur.com/FljMxGE.png",SigmaTV
+https://sl2.sigmatv.com/hls/live.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0
+#EXTINF:-1 tvg-name="OpenTV" tvg-id="id" group-title="OpenBeyoundGroup" tvg-logo="https://i.imgur.com/c9hgL1c.jpg",OpenTV
+https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0
+#EXTINF:-1 tvg-name="MegaTV" tvg-id="id" group-title="Group Title" tvg-logo="https://www.megatv.com/wp-content/themes/megatv/common/imgs/poster_4-min.jpg",MegaTV
+https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0
+#EXTINF:-1 tvg-name="x-tv" tvg-id="id" group-title="Group Title" tvg-logo="http://i.imgur.com/LgQBtTh.jpg",x-tv
+https://live.cast-control.eu:443/xalastratv/xalastratv/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0
+#EXTINF:-1 tvg-name="Tilemousiki" tvg-id="id" group-title="Group Title" tvg-logo="http://i.imgur.com/piGhf3m.png",Tilemousiki
+http://wpso.com:1936/hls/music1.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0
+#EXTINF:-1 tvg-name="BarazaTV" tvg-id="id" group-title="Group Title" tvg-logo="https://barazaradio.com/wp-content/uploads/2019/10/0c64fa98a658268e86a9125a82ee7615.png",BarazaTV
+https://eco.streams.ovh:443/BarazaTV/BarazaTV/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0
+#EXTINF:-1 tvg-name="SMILETVCY" tvg-id="id" group-title="Group Title" tvg-logo="https://www.cyta.com.cy/mp/informational/images/channels/smiletv.gif",SMILETVCY
+https://s1.cystream.net/live/smile/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0
+#EXTINF:-1 tvg-name="GALAXYGR" tvg-id="id" group-title="Group Title" tvg-logo="http://greekcinematv.com/wp-content/uploads/2018/02/GREEK-CINEMA-LOGO-WHITE-no-background.png",GALAXYGR
+https://channel.streams.ovh:1936/galaxygr-1/galaxygr-1/chunklist_w1142673833.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0
+#EXTINF:-1 tvg-name="CineGR" tvg-id="id" group-title="Group Title" tvg-logo="http://greekcinematv.com/wp-content/uploads/2018/02/GREEK-CINEMA-LOGO-WHITE-no-background.png",CineGR
+https://vdo.alphaserver.gr:3613/hybrid/play.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0
