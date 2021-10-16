@@ -127,6 +127,13 @@ name= Candyman 2 (1995) url= "plugin://plugin.video.resolveurl-tester/?action=pl
 name= Candyman 3 url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fvivo.sx%2F49b5cc4b1c&amp;title=Candyman 3" logo= "https://skcdn.tv/cover/223a72417ecdaf6c3ba1ba92e392808f3.jpg"
 name= Child Eater url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fvivo.sx%2Fce6fb019cc&amp;title=Child Eater" logo= "https://skcdn.tv/cover/1550d075bee89586f5514a8ab53d208d3.jpg"
 name= Candyman(2021) url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fmixdrop.co%2FF%2Fn0rmewo8hlqkrv3&amp;title=Candyman(2021)" logo= "https://ih1.redbubble.net/image.2281369328.7292/poster,504x498,f8f8f8-pad,600x600,f8f8f8.jpg"
+name= SCREAM url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fstreamtape.com%2Fe%2FRB9lY6dgb2C0Xr&amp;title=SCREAM" logo= "https://m.media-amazon.com/images/I/51KAm-7IQsL.jpg"
+name= SCREAM 2 url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fstreamtape.com%2Fe%2FO1bwj6xLw7S9Ay&amp;title=SCREAM 2" logo= "https://m.media-amazon.com/images/I/71oZkdONU2L._SL1200_.jpg"
+name= SCREAM 3 url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fvivo.sx%2Fcd61e997cb&amp;title=SCREAM 3" logo= "https://m.media-amazon.com/images/I/71ks5VKKTbL._SL1200_.jpg"
+name= SCREAM 4 url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fvivo.sx%2F403567e8ce&amp;title=SCREAM 4" logo= "https://m.media-amazon.com/images/I/81+Z3moVYvL._SX466_.jpg"
+
+
+
 
 
 
