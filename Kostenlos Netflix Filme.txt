@@ -131,7 +131,7 @@ name= SCREAM url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=
 name= SCREAM 2 url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fstreamtape.com%2Fe%2FO1bwj6xLw7S9Ay&amp;title=SCREAM 2" logo= "https://m.media-amazon.com/images/I/71oZkdONU2L._SL1200_.jpg"
 name= SCREAM 3 url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fvivo.sx%2Fcd61e997cb&amp;title=SCREAM 3" logo= "https://m.media-amazon.com/images/I/71ks5VKKTbL._SL1200_.jpg"
 name= SCREAM 4 url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fvivo.sx%2F403567e8ce&amp;title=SCREAM 4" logo= "https://m.media-amazon.com/images/I/81+Z3moVYvL._SX466_.jpg"
-
+name= Das Haus an der Friedhofsmauer url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%2FomOKRigLnBs&amp;mode=play_link" logo= "https://assets.cdn.moviepilot.de/files/5c0acbcf4bac6e33728ef8fd608f9dd58f4e6c4d8b302f290b9974f9ae84/limit/160/2000/Das_Haus_an_der_Friedhofsmauer.jpg"
 
 
 
