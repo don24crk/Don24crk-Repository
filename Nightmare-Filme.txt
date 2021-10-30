@@ -1,12 +1,12 @@
-name= Nightmare on Elm Street - Mörderische Träume  url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F0ca527886f&amp;mode=play_link" logo= "https://images-na.ssl-images-amazon.com/images/I/81uvRprIaxL._SY445_.jpg"
-name= Nightmare 2 - Die Rache url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F13912b66ab&amp;mode=play_link" logo= "https://www.das-kinoplakat.de/plakate_n/pl_nightmare_2_die_rache.jpg"
-name= Nightmare 3 Freddy lebt url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F81c96ed9c1&amp;mode=play_link" logo= "https://images-na.ssl-images-amazon.com/images/I/91YjxnpaAKL._SY445_.jpg"
-name= Nightmare 4: Der Traummeister url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F38231be10b&amp;mode=play_link" logo= "https://images-na.ssl-images-amazon.com/images/I/91jQ2pAW9TL._RI_.jpg"
-name= Nightmare on Elm Street 5 - Das Trauma url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F82ee832b75&amp;mode=play_link" logo= "https://www.echolog.de/wp-content/uploads/elmstreet5.jpg"
-name= Freddy's Finale - Nightmare on Elm Street 6 url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F3525c6ec0d&amp;mode=play_link" logo= "https://de.web.img3.acsta.net/medias/nmedia/18/83/36/17/19684950.jpg"
-name= Freddy's New Nightmare url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F64368449a1&amp;mode=play_link" logo= "https://de.web.img2.acsta.net/medias/nmedia/18/83/83/90/19710947.jpg"
-name= Freddy Vs. Jason url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F2f4cab83b7&amp;mode=play_link" logo= "https://www.pretz-media.at/media/images/popup/Mb_Freddy-vs-Jason_2D-FSK.jpg"
-name= A Nightmare on Elm Street url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2Fc734cdf736&amp;mode=play_link" logo= "https://media1.jpc.de/image/w600/front/0/5051890018816.jpg"
+name= Nightmare on Elm Street - Mörderische Träume  url= "https://delivery-node-usama.voe-network.net/hls/,6oarnmdb7i33cszcr2o5dljnwvnzn2jwc3fhbnlj4j6xujfi6vhnaipg4yea,.urlset/master.m3u8" logo= "https://images-na.ssl-images-amazon.com/images/I/81uvRprIaxL._SY445_.jpg"
+name= Nightmare 2 - Die Rache url= "https://delivery-node-ghaith.voe-network.net/hls/,6oarmjdm7i33cszcr2o5d3jowl52r2k27h6vr555qmjt7yd2glq3gpio3a2a,.urlset/master.m3u8" logo= "https://www.das-kinoplakat.de/plakate_n/pl_nightmare_2_die_rache.jpg"
+name= Nightmare 3 Freddy lebt url= "https://delivery-node-sami.voe-network.net/hls/,6oarnndo7i33cszcr2o5d3bjx5x4kjmad4vf2nmhs4vhalpyev3tkyg7t5ba,.urlset/master.m3u8" logo= "https://images-na.ssl-images-amazon.com/images/I/91YjxnpaAKL._SY445_.jpg"
+name= Nightmare 4: Der Traummeister url= "https://delivery-node-rubadah.voe-network.net/hls/,6oarmm5jri33cszcr3k5blbi5yklxhb3bqh3nwoh6krjstj2xnpgp5fzhckq,.urlset/master.m3u8" logo= "https://images-na.ssl-images-amazon.com/images/I/91jQ2pAW9TL._RI_.jpg"
+name= Nightmare on Elm Street 5 - Das Trauma url= "https://delivery-node-kanaan.voe-network.net/hls/,6oarm4o27m33cszcr2mnd3b7xs3xeoehbkgaeiodylxygdgwlindkksarr3q,.urlset/master.m3u8" logo= "https://www.echolog.de/wp-content/uploads/elmstreet5.jpg"
+name= Freddy's Finale - Nightmare on Elm Street 6 url= "https://delivery-node-karif.voe-network.net/hls/,6oarmywe7m33cszcr2mnd2jpwhggrrp26xabsvhr3nkaajq6u3l6dmvmetea,.urlset/master.m3u8" logo= "https://de.web.img3.acsta.net/medias/nmedia/18/83/36/17/19684950.jpg"
+name= Freddy's New Nightmare url= "https://delivery-node-tannous.voe-network.net/hls/,6oarm3wg7m33cszcr2mndobvuinhqbu7sg7lz7jwnmna5nosz4ug4daxwfda,.urlset/master.m3u8" logo= "https://de.web.img2.acsta.net/medias/nmedia/18/83/83/90/19710947.jpg"
+name= Freddy Vs. Jason url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fhd-stream.to%2Fv%2F4lyneuzw5n85x2d&amp;mode=play_link" logo= "https://www.pretz-media.at/media/images/popup/Mb_Freddy-vs-Jason_2D-FSK.jpg"
+name= A Nightmare on Elm Street url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fhd-stream.to%2Fv%2F6x8nkh0g55nwe6q&amp;mode=play_link" logo= "https://media1.jpc.de/image/w600/front/0/5051890018816.jpg"
 
 
 
