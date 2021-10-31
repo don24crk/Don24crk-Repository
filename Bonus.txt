@@ -4,7 +4,7 @@ name= ES Kapitel 2 url= "https://delivery-node-sumnah.voe-network.net/hls/,6oarm
 name= Wishmaster 2 Das Böse stirbt Nie url= "https://delivery-node-houd.voe-network.net/hls/,6oarnpjsuu33cszcrycnhi3656nhlm3iexnlwrsgyxzmyfaiwnloyjgocamq,.urlset/master.m3u8" logo= "https://images-na.ssl-images-amazon.com/images/I/91wI40EhIyL._SX300_.jpg"
 name= Wishmaster 3 - Der Höllenstein url= "https://delivery-node-halimah.voe-network.net/hls/,6oarm25xyi33cszcr32npprcwfmbbxp6h2utz527zzrgcfttq7aphyytfs6a,.urlset/master.m3u8" logo= "https://images-na.ssl-images-amazon.com/images/I/A1xD-xXLavL._SY445_.jpg"
 /I/71DB4x95wJL._SY445_.jpg"
-name= Blutige Schreie url= "https://pmd.netzkino-seite.netzkino.de/Laser_Paradise/Blutige_Schreie.mp4" logo= "https://images-na.ssl-images-amazon.com/images/I/51Z3lCal-KL._RI_SX300_.jpg"
+
 
 
 
