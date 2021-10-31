@@ -1,9 +1,9 @@
-name= High Tension url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F627233ccd7&amp;mode=play_link" logo= "https://images-na.ssl-images-amazon.com/images/I/61rfLl65RzL._SY550_.jpg"
-name= Halloween: Left for Dead url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2Ff06ac0e3e5&amp;mode=play_link" logo= "https://images-na.ssl-images-amazon.com/images/I/81ZX3yDYGVL._SY445_.jpg"
-name= Halloween: 25 Years of Terror url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fstreamtape.com%2Fv%2Frkl9zPyDaQtbWDM%2FBehind_the_mask_%2528German_Version%2529_-_Interviews__Fakten__Hintergr%25C3%25BCnde_%25C3%25BCber_die_H.mp4&amp;title=Halloween: 25 Years of Terror" logo= "https://images-na.ssl-images-amazon.com/images/I/51wsEHq1r6L._SY445_.jpg"
+name= High Tension url= "https://bit.ly/3w3Qlgz" logo= "https://images-na.ssl-images-amazon.com/images/I/61rfLl65RzL._SY550_.jpg"
+name= Halloween: Left for Dead url= "https://pmd.netzkino-seite.netzkino.de/Mo_Content_flat_NK1/Halloween_-_Left_for_Dead.mp4" logo= "https://images-na.ssl-images-amazon.com/images/I/81ZX3yDYGVL._SY445_.jpg"
+name= Halloween: 25 Years of Terror url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fyoutube.com%2Fv%2F9ylO9A5wu_s&amp;title=Halloween: 25 Years of Terror" logo= "https://images-na.ssl-images-amazon.com/images/I/51wsEHq1r6L._SY445_.jpg"
 name= Halloween Massaker url= "https://pmd.netzkino-seite.netzkino.de/Great_Movies_NK/Halloween_Massaker.mp4" logo= "https://pmd.bilder.netzkino.de/bilder/wordpress//Halloween_Massaker_img_all.jpg"
-name= Halloween Haunt url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2Ff698252640&amp;mode=play_link" logo= "https://images-na.ssl-images-amazon.com/images/I/71bKjTwBpPL._SX342_.jpg"
-name= Behind the Mask url= "plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F30e39243c4&amp;mode=play_link" logo= "https://images-na.ssl-images-amazon.com/images/I/51WiEnWS%2BHL._SY445_.jpg"
+name= Halloween Haunt url= "https://delivery-node-maroun.voe-network.net/hls/,6oarnpiewe33cszcry75fpjvv3tmqb535ao57igbpdcqvamlf3mvept5tyiq,.urlset/master.m3u8" logo= "https://images-na.ssl-images-amazon.com/images/I/71bKjTwBpPL._SX342_.jpg"
+name= Behind the Mask url= "https://www635.ff-02.com/token=GHCWqgMurXphUsOde_LK7A/1635726368/2003:e5::/103/d/29/01e92d870b68dc5d8da0bab6ed43629d-360p.mp4" logo= "https://images-na.ssl-images-amazon.com/images/I/51WiEnWS%2BHL._SY445_.jpg"
 name= John Carpenter Interview Deutsch url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fmixdrop.co%2Ff%2F3nx66q1rs107er&amp;title=John Carpenter Interview Deutsch" logo= "https://images-na.ssl-images-amazon.com/images/I/51wsEHq1r6L._SY445_.jpg"
 
 
