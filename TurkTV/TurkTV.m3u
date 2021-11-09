@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="GSTV" tvg-id="id" group-title="Group Title" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c2/Gstv_00.png",GSTV
+https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b796000_sltur.m3u8
+#EXTINF:-1 tvg-name="Kanal7" tvg-id="id" group-title="Group Title" tvg-logo="https://izle7.haber7.net/assets/img/kanal7_avrupa.jpg",Kanal7
+https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
+#EXTINF:-1 tvg-name="TRT1" tvg-id="id" group-title="Group Title" tvg-logo="https://www.trt1.com.tr/public/dm_upload/modul4/158c26d7-e92d-4279-beb2-3bc902e6c405.jpg",TRT1
+https://tv-trt1.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-name="StarTV" tvg-id="id" group-title="Group Title" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVHAvHaIiH2f9e-XHStKCHw4gm7QHbNytxNszdAYyNIKWDj_PtMK40CkZUq-5vfhNWFZQ&usqp=CAU",StarTV
+https://dogus-live.daioncdn.net/startv/startv_480p.m3u8
+#EXTINF:-1 tvg-name="ATV" tvg-id="id" group-title="Group Title" tvg-logo="https://i.ytimg.com/vi/fVnQrYmfJek/maxresdefault.jpg",ATV
+plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fyoutube.com%2Fv%2Fqjc1XWH9kUU&amp;mode=play_link
+#EXTINF:-1 tvg-name="FOX" tvg-id="id" group-title="Group Title" tvg-logo="https://www.canlitv.vin/kanallar/ogfox-tv.png",FOX
+plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fyoutube.com%2Fv%2FhEKLBRtOQ08&amp;mode=play_link
+#EXTINF:-1 tvg-name="Kral" tvg-id="id" group-title="Group Title" tvg-logo="https://i.ytimg.com/vi/88tf0H1ycDU/maxresdefault.jpg",Kral
+plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fyoutube.com%2Fv%2F88tf0H1ycDU&amp;mode=play_link
+#EXTINF:-1 tvg-name="ShowMax" tvg-id="id" group-title="Group Title" tvg-logo="https://i.ytimg.com/vi/kuuB7Kk6pMI/maxresdefault.jpg",ShowMax
+plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fyoutube.com%2Fv%2FkuuB7Kk6pMI&amp;mode=play_link
+#EXTINF:-1 tvg-name="Show" tvg-id="id" group-title="Group Title" tvg-logo="https://i.ytimg.com/vi/rtMDAEQgyl8/maxresdefault.jpg",Show
+plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fyoutube.com%2Fv%2FrtMDAEQgyl8
+#EXTINF:-1 tvg-name="2" tvg-id="" group-title="" tvg-logo="",
+&amp;mode=play_link
+#EXTINF:-1 tvg-name="kralpop" tvg-id="id" group-title="Group Title" tvg-logo="https://i.ytimg.com/vi/dEHMR7Qpthw/maxresdefault_live.jpg",kralpop
+plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fyoutube.com%2Fv%2FdEHMR7Qpthw&amp;mode=play_link
+#EXTINF:-1 tvg-name="TV 360" tvg-id="id" group-title="Group Title" tvg-logo="https://www.canlitv.vin/kanallar/ogtv-360.png",TV 360
+plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fyoutube.com%2Fv%2FfiWtYFR03JE&amp;mode=play_link
+#EXTINF:-1 tvg-name="En Sevilen Kemal Sunal Filmleri #canlı" tvg-id="id" group-title="Group Title" tvg-logo="https://i.ytimg.com/vi/PNIb2LNkXmg/maxresdefault.jpg",En Sevilen Kemal Sunal Filmleri #canlı
+plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fyoutube.com%2Fv%2FPNIb2LNkXmg&amp;mode=play_link
+#EXTINF:-1 tvg-name="24 TV" tvg-id="id" group-title="Group Title" tvg-logo="https://i.ytimg.com/vi/MWAX4cSdrRM/hqdefault_live.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBQ5X1pQR88nm7qUZAMysraLIBcBw",24 TV
+plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fyoutube.com%2Fv%2FMWAX4cSdrRM&amp;mode=play_link
+#EXTINF:-1 tvg-name="teve2" tvg-id="id" group-title="Group Title" tvg-logo="https://www.canlitv.vin/kanallar/ogteve2.png",teve2
+plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fyoutube.com%2Fv%2FxsdbRB6gDPk&amp;mode=play_link
