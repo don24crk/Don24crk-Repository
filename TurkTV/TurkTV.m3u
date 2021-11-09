@@ -10,7 +10,7 @@ https://dogus-live.daioncdn.net/startv/startv_480p.m3u8|User-Agent=User-Agent=Mo
 #EXTINF:-1 tvg-name="ATV" tvg-id="id" group-title="Group Title" tvg-logo="https://i.ytimg.com/vi/fVnQrYmfJek/maxresdefault.jpg",ATV
 plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fyoutube.com%2Fv%2Fqjc1XWH9kUU&amp;mode=play_link
 #EXTINF:-1 tvg-name="FOX" tvg-id="id" group-title="Group Title" tvg-logo="https://www.canlitv.vin/kanallar/ogfox-tv.png",FOX
-plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fyoutube.com%2Fv%2FhEKLBRtOQ08&amp;mode=play_link
+plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fyoutube.com%2Fv%2F8KoFMcQCBlA&amp;mode=play_link
 #EXTINF:-1 tvg-name="Kral" tvg-id="id" group-title="Group Title" tvg-logo="https://i.ytimg.com/vi/88tf0H1ycDU/maxresdefault.jpg",Kral
 plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fyoutube.com%2Fv%2F88tf0H1ycDU&amp;mode=play_link
 #EXTINF:-1 tvg-name="ShowMax" tvg-id="id" group-title="Group Title" tvg-logo="https://i.ytimg.com/vi/kuuB7Kk6pMI/maxresdefault.jpg",ShowMax
