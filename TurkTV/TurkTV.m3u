@@ -16,9 +16,7 @@ plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fyoutube.com%2Fv%2F88tf
 #EXTINF:-1 tvg-name="ShowMax" tvg-id="id" group-title="Group Title" tvg-logo="https://i.ytimg.com/vi/kuuB7Kk6pMI/maxresdefault.jpg",ShowMax
 plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fyoutube.com%2Fv%2FkuuB7Kk6pMI&amp;mode=play_link
 #EXTINF:-1 tvg-name="Show" tvg-id="id" group-title="Group Title" tvg-logo="https://i.ytimg.com/vi/rtMDAEQgyl8/maxresdefault.jpg",Show
-plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fyoutube.com%2Fv%2FrtMDAEQgyl8
-#EXTINF:-1 tvg-name="2" tvg-id="" group-title="" tvg-logo="",
-&amp;mode=play_link
+plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fyoutube.com%2Fv%2FrtMDAEQgyl8&amp;mode=play_link
 #EXTINF:-1 tvg-name="kralpop" tvg-id="id" group-title="Group Title" tvg-logo="https://i.ytimg.com/vi/dEHMR7Qpthw/maxresdefault_live.jpg",kralpop
 plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fyoutube.com%2Fv%2FdEHMR7Qpthw&amp;mode=play_link
 #EXTINF:-1 tvg-name="TV 360" tvg-id="id" group-title="Group Title" tvg-logo="https://www.canlitv.vin/kanallar/ogtv-360.png",TV 360
