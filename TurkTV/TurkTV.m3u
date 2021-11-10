@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="GSTV" tvg-id="id" group-title="Group Title" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c2/Gstv_00.png",GSTV
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b796000_sltur.m3u8|User-Agent=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+#EXTINF:-1 tvg-name="FBTV" tvg-id="id" group-title="Group Title" tvg-logo="https://media.fenerbahce.org/FB/media/FB/Images/Logo/logo.png?ext=.png",FBTV
+plugin://plugin.video.streamlink-tester/?action=play&amp;url=https%3A%2F%2Fwww.fenerbahce.org%2Ffbtv&amp;title=FBTV
 #EXTINF:-1 tvg-name="Kanal7" tvg-id="id" group-title="Group Title" tvg-logo="https://izle7.haber7.net/assets/img/kanal7_avrupa.jpg",Kanal7
 https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8|User-Agent=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 #EXTINF:-1 tvg-name="TRT1" tvg-id="id" group-title="Group Title" tvg-logo="https://www.trt1.com.tr/public/dm_upload/modul4/158c26d7-e92d-4279-beb2-3bc902e6c405.jpg",TRT1
