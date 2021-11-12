@@ -12,7 +12,7 @@ https://dogus-live.daioncdn.net/startv/startv_480p.m3u8|User-Agent=User-Agent=Mo
 #EXTINF:-1 tvg-name="ATV" tvg-id="id" group-title="Group Title" tvg-logo="https://i.ytimg.com/vi/fVnQrYmfJek/maxresdefault.jpg",ATV
 plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fyoutube.com%2Fv%2Fqjc1XWH9kUU&amp;mode=play_link
 #EXTINF:-1 tvg-name="FOX" tvg-id="id" group-title="Group Title" tvg-logo="https://www.canlitv.vin/kanallar/ogfox-tv.png",FOX
-https://foxtv.daioncdn.net/foxtv/foxtv.m3u8?ce=3&app=24e7a2e2-9156-4c02-a4fb-2bc599ffaf77&st=GLCFKm_KrrUsUlWRHzoQ3w&e=1636660998|User-Agent=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+https://foxtv-live-ad.ercdn.net/foxtv/playlist.m3u8?st=s7rVbTdJfXKKeuhxDW_4Ag&e=1636735367|User-Agent=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 #EXTINF:-1 tvg-name="Kral" tvg-id="id" group-title="Group Title" tvg-logo="https://i.ytimg.com/vi/88tf0H1ycDU/maxresdefault.jpg",Kral
 plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fyoutube.com%2Fv%2F88tf0H1ycDU&amp;mode=play_link
 #EXTINF:-1 tvg-name="ShowMax" tvg-id="id" group-title="Group Title" tvg-logo="https://i.ytimg.com/vi/kuuB7Kk6pMI/maxresdefault.jpg",ShowMax
@@ -22,7 +22,7 @@ plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fyoutube.com%2Fv%2FrtMD
 #EXTINF:-1 tvg-name="kralpop" tvg-id="id" group-title="Group Title" tvg-logo="https://i.ytimg.com/vi/dEHMR7Qpthw/maxresdefault_live.jpg",kralpop
 plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fyoutube.com%2Fv%2FdEHMR7Qpthw&amp;mode=play_link
 #EXTINF:-1 tvg-name="TV 360" tvg-id="id" group-title="Group Title" tvg-logo="https://www.canlitv.vin/kanallar/ogtv-360.png",TV 360
-plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fyoutube.com%2Fv%2FfiWtYFR03JE&amp;mode=play_link
+https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8|User-Agent=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 #EXTINF:-1 tvg-name="En Sevilen Kemal Sunal Filmleri #canlı" tvg-id="id" group-title="Group Title" tvg-logo="https://i.ytimg.com/vi/PNIb2LNkXmg/maxresdefault.jpg",En Sevilen Kemal Sunal Filmleri #canlı
 plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fyoutube.com%2Fv%2FPNIb2LNkXmg&amp;mode=play_link
 #EXTINF:-1 tvg-name="24 TV" tvg-id="id" group-title="Group Title" tvg-logo="https://i.ytimg.com/vi/MWAX4cSdrRM/hqdefault_live.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBQ5X1pQR88nm7qUZAMysraLIBcBw",24 TV
