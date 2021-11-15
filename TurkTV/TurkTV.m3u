@@ -30,12 +30,12 @@ plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fyoutube.com%2Fv%2FMWAX
 #EXTINF:-1 tvg-name="teve2" tvg-id="id" group-title="Group Title" tvg-logo="https://www.canlitv.vin/kanallar/ogteve2.png",teve2
 plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fyoutube.com%2Fv%2FxsdbRB6gDPk&amp;mode=play_link
 #EXTINF:-1 tvg-name="Euro Star" tvg-id="id" group-title="Group Title" tvg-logo="http://www.eurostartv.com.tr/Content/img/logo.png",Euro Star
-http://mn-nl.mncdn.com/dogusdyg_eurostar/dogusdyg_eurostar.smil/chunklist_b364000.m3u8?st=nx69e_2GrNLT4Xdg67Jtrg&e=1637079336|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+plugin://plugin.video.streamlink-tester/?action=play&amp;url=https%3A%2F%2Fwww.eurostartv.com.tr%2Fcanli-izle&amp;title=Eurostar
 #EXTINF:-1 tvg-name="ATV Avrupa" tvg-id="id" group-title="Group Title" tvg-logo="https://i.tmgrup.com.tr/aav/site/v2/i/imaj_atvavrupa_yeni.jpg",ATV Avrupa
-https://trkvz-live.ercdn.net/atvavrupa/atvavrupa_360p.m3u8?st=bCdI8HhNhMJVK2T7emT-nQ&e=1637037782&SessionID=p14wxkq3zcfezx3ez5pv4xya&StreamGroup=canli-yayin&Site=atvavrupa&DeviceGroup=web|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+plugin://plugin.video.streamlink-tester/?action=play&amp;url=https%3A%2F%2Fwww.atvavrupa.tv%2Fwebtv%2Fcanli-yayin&amp;title=Atv-Avrupa
 #EXTINF:-1 tvg-name="CNN Türk" tvg-id="id" group-title="Group Title" tvg-logo="https://s.cnnturk.com//assets/dist/img/logo.svg",CNN Türk
 plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fyoutube.com%2Fv%2FX_EWYemclKA&amp;mode=play_link
 #EXTINF:-1 tvg-name="DMAX" tvg-id="id" group-title="Group Title" tvg-logo="https://i.ytimg.com/vi/xM60UTbAIH8/maxresdefault_live.jpg",DMAX
 https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 #EXTINF:-1 tvg-name="Dream Türk" tvg-id="id" group-title="Group Title" tvg-logo="https://s.dreamturk.com.tr/assets/dist/images/dream-turk-logoV2.png",Dream Türk
-https://live.duhnet.tv//S2/HLS_LIVE/dreamturknp/track_3_750/playlist.m3u8?key=2909f6701b4ac38e6edac33e325dadc8&live=true&app=com.dreamturk|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+plugin://plugin.video.streamlink-tester/?action=play&amp;url=https%3A%2F%2Fwww.dreamturk.com.tr%2Fcanli-yayin-izle&amp;title=Dream-Türk
