@@ -30,7 +30,7 @@ plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fyoutube.com%2Fv%2FMWAX
 #EXTINF:-1 tvg-name="teve2" tvg-id="id" group-title="Group Title" tvg-logo="https://www.canlitv.vin/kanallar/ogteve2.png",teve2
 plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fyoutube.com%2Fv%2FxsdbRB6gDPk&amp;mode=play_link
 #EXTINF:-1 tvg-name="Euro Star" tvg-id="id" group-title="Group Title" tvg-logo="http://www.eurostartv.com.tr/Content/img/logo.png",EuroStar
-plugin://plugin.video.streamlink-tester/?action=play&amp;url=http%3A%2F%2Fwww.eurostartv.com.tr%2Fcanli-izle&amp;title=Eurostar
+plugin://plugin.video.streamlink-tester/?action=play&amp;url=http%3A%2F%2Fwww.http://mn-nl.mncdn.com%2Fdogusdyg_eurostar%2Fdogusdyg_eurostar.smil%2Fchunklist_b1628000.m3u8?st=JIdHk2YQy7auBJ2RCo-DmQ&e=1637084330&amp;title=Eurostar
 #EXTINF:-1 tvg-name="ATV Avrupa" tvg-id="id" group-title="Group Title" tvg-logo="https://i.tmgrup.com.tr/aav/site/v2/i/imaj_atvavrupa_yeni.jpg",ATV-Avrupa
 plugin://plugin.video.streamlink-tester/?action=play&amp;url=https%3A%2F%2Fwww.atvavrupa.tv%2Fwebtv%2Fcanli-yayin&amp;title=Atv-Avrupa
 #EXTINF:-1 tvg-name="CNN Türk" tvg-id="id" group-title="Group Title" tvg-logo="https://s.cnnturk.com//assets/dist/img/logo.svg",CNN Türk
