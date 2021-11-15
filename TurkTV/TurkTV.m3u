@@ -38,4 +38,4 @@ plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fyoutube.com%2Fv%2FX_EW
 #EXTINF:-1 tvg-name="DMAX" tvg-id="id" group-title="Group Title" tvg-logo="https://i.ytimg.com/vi/xM60UTbAIH8/maxresdefault_live.jpg",DMAX
 https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 #EXTINF:-1 tvg-name="Dream Türk" tvg-id="id" group-title="Group Title" tvg-logo="https://s.dreamturk.com.tr/assets/dist/images/dream-turk-logoV2.png",Dream Türk
-plugin://plugin.video.streamlink-tester/?action=play&amp;url=https%3A%2F%2Fwww.dreamturk.com.tr%2Fcanli-yayin-izle&amp;title=Dream-Türk
+plugin://plugin.video.streamlink-tester/?action=play&amp;url=https%3A%2F%2Fwww.bit.ly%2F3wObAmN&amp;title=Dream-Türk
