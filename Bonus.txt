@@ -4,6 +4,9 @@ name= ES Kapitel 2 url= "plugin://plugin.video.resolveurl-tester/?action=play&am
 name= Wishmaster 2 Das Böse stirbt Nie url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fvivo.sx%2F6958c67436&amp;title=Wishmaster 2 Das Böse stirbt Nie" logo= "https://images-na.ssl-images-amazon.com/images/I/91wI40EhIyL._SX300_.jpg"
 name= Wishmaster 3 - Der Höllenstein url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fvivo.sx%2F393ecdab30&amp;title=Wishmaster 3 - Der Höllenstein" logo= "https://images-na.ssl-images-amazon.com/images/I/A1xD-xXLavL._SY445_.jpg"
 /I/71DB4x95wJL._SY445_.jpg"
+name= Wishmaster 4 - Die Prophezeiung erfüllt sich url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fvivo.sx%2F4d52725432&amp;title=Wishmaster 4 - Die Prophezeiung erfüllt sich" logo= "https://skcdn.tv/cover/880d9c9273af83e42f7a0db1214dda6f3.jpg"
+
+
 
 
 
