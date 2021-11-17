@@ -10,7 +10,7 @@ http://livestar.siliconweb.com/media/star1/star1.m3u8|User-Agent=Mozilla/5.0 (Wi
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="SkaiTV" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/gr-skai-tv-5267-768x576.jpg",Skai
 http://skai-live.siliconweb.com/media/cambria4/index_bitrate2000K.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="SigmaTV" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/cy-sigma-tv-3358.jpg",Sigma
-https://sl3.sigmatv.com/hls/live.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+https://sl2.sigmatv.com/hls/live.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="OpenTV" tvg-logo="https://s.tvopen.gr/images/OPEN_BEYOND_Avra.png",OpenTV
 https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="MegaTV" tvg-id="id" tvg-logo="https://cdn.greektvlive.info/wp-content/uploads/2019/03/megatv.jpg",MegaTV
