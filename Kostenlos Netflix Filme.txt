@@ -139,6 +139,9 @@ name= Dune 2021 url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;u
 name= Ich weiß, was Du letzten Sommer getan hast url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fstreamtape.com%2Fe%2FyDob02zJJLS1p2D%2F3b0Ec97aA0vuHGtqPZt1TgHFxAMGvlCZoJPZjBZCZKXqkwO7Ch8KG9SuReS0rRIv2VC26cHPm8jv3KIA4kjB.mkv&amp;title=Ich weiß, was Du letzten Sommer getan" logo= "https://m.media-amazon.com/images/I/71xYySuvBxL._SL1098_.jpg"
 name= Ich weiß noch immer, was du letzten Sommer getan hast url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fstreamtape.com%2Fe%2F6Xv3PgXwdpu9BlK%2FgHPLPQKPg6OkZD9p4YMa4fX8n9xFRmg3TO7c2mlTVmq78lqTdWxKSzeAgv2CLznMJm2y2MwqnoXYRJsJ6LfaWQOevdQHlHP.mkv&amp;title=Ich weiß noch immer, was du letzten Sommer getan hast" logo= "https://filmpalast.to/files/movies/450/ich-weis-noch-immer-was-du-letzten-sommer-getan-hast.jpg"
 name= Psycho 1960 (in Farbe) url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fmixdrop.co%2Ff%2Fmdrepdvjagvvdq&amp;title=Psycho 1960 (in Farbe)" logo= "https://i.ibb.co/6P34KZz/Hotpot-2.png"
+name= Black Friday (2021) url= "plugin://plugin.video.resolveurl-tester/?action=play&amp;url=https%3A%2F%2Fvoe.sx%2Ff%2F2esgoj1azevj&amp;title= Black Friday (2021)" logo= "https://de.web.img3.acsta.net/c_310_420/pictures/21/10/26/08/00/3420977.jpg"
+
+
 
 
 
