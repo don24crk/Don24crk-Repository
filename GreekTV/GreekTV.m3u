@@ -4,7 +4,7 @@ http://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_worldmedium.m3u8|Us
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="AlphaTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Alpha_TV_logo.jpg/480px-Alpha_TV_logo.jpg",AlphaTV
 https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/bpfkbp2c/2728/chunklist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Ant1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/ANT1_Greek_channel_logo.svg/1200px-ANT1_Greek_channel_logo.svg.png",Ant1
-https://antennaamdnoenc.akamaized.net/ant1prodabr/ant1prodstream_1080p/video.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+https://antennaamdnoenc.akamaized.net/ant1_akamai/abr/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="StarHD" tvg-logo="https://i.pinimg.com/originals/78/f1/00/78f100039f831199c6c06906b0b37a16.png",Star
 http://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="SkaiTV" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/gr-skai-tv-5267-768x576.jpg",Skai
