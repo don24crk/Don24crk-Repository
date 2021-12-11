@@ -14,9 +14,9 @@
             video.play();
         });
     }
-    else if (video.canPlayType('application/vnd.Apple.mpegurl'))
+    else if (video.canPlayType('application/x-mpegURL'))
     {
-        audio.src = 'https://antennaamdnoenc.akamaized.net/ant1_akamai/abr/playlist.m3u8';
+        video.src = 'https://antennaamdnoenc.akamaized.net/ant1_akamai/abr/playlist.m3u8';
         video.addEventListener('canplay',function()
         {
             video.play();
