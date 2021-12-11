@@ -7,7 +7,7 @@
     {
         var video = document.getElementById('video');
         var hls = new Hls();
-        hls.loadSource('http://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1_3Mbps.m3u8');
+        hls.loadSource('http://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1_4Mbps.m3u8');
         hls.attachMedia(video);
         hls.on(Hls.Events.MANIFEST_PARSED,function()
         {
@@ -16,7 +16,7 @@
     }
     else if (video.canPlayType('application/vnd.Apple.mpegurl'))
     {
-        video.src = 'http://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1_3Mbps.m3u8';
+        video.src = 'http://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1_4Mbps.m3u8';
         video.addEventListener('canplay',function()
         {
             video.play();
