@@ -10,15 +10,15 @@ plugin://plugin.video.streamlink-tester/?action=play&amp;url=https%3A%2F%2Fraw.g
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="AlphaTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Alpha_TV_logo.jpg/480px-Alpha_TV_logo.jpg",AlphaTV
 plugin://plugin.video.streamlink-tester/?action=play&amp;url=https%3A%2F%2Fraw.githubusercontent.com%2Fdon24crk%2FDon24crk-Repository%2Fmaster%2Fanacon%2520tv%2Falphatv.html&amp;title=AlphaTV
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Ant1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/ANT1_Greek_channel_logo.svg/1200px-ANT1_Greek_channel_logo.svg.png",Ant1
-https://antennaamdnoenc.akamaized.net/ant1_akamai/abr/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+plugin://plugin.video.streamlink-tester/?action=play&amp;url=https%3A%2F%2Fraw.githubusercontent.com%2Fdon24crk%2FDon24crk-Repository%2Fmaster%2Fanacon%2520tv%2Fant1.html&amp;title=ant1
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="StarHD" tvg-logo="https://i.pinimg.com/originals/78/f1/00/78f100039f831199c6c06906b0b37a16.png",Star
 plugin://plugin.video.streamlink-tester/?action=play&amp;url=https%3A%2F%2Fraw.githubusercontent.com%2Fdon24crk%2FDon24crk-Repository%2Fmaster%2Fanacon%2520tv%2Fstar.html&amp;title=star
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="SkaiTV" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/gr-skai-tv-5267-768x576.jpg",Skai
-http://skai-live.siliconweb.com/media/cambria4/index_bitrate2000K.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+plugin://plugin.video.streamlink-tester/?action=play&amp;url=https%3A%2F%2Fraw.githubusercontent.com%2Fdon24crk%2FDon24crk-Repository%2Fmaster%2Fanacon%2520tv%2Fskai.html&amp;title=skai
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="SigmaTV" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/cy-sigma-tv-3358.jpg",Sigma
 https://sl2.sigmatv.com/hls/live.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="OpenTV" tvg-logo="https://s.tvopen.gr/images/OPEN_BEYOND_Avra.png",OpenTV
-https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+plugin://plugin.video.streamlink-tester/?action=play&amp;url=https%3A%2F%2Fraw.githubusercontent.com%2Fdon24crk%2FDon24crk-Repository%2Fmaster%2Fanacon%2520tv%2Fopen.html&amp;title=open
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="MegaTV" tvg-id="id" tvg-logo="https://cdn.greektvlive.info/wp-content/uploads/2019/03/megatv.jpg",MegaTV
 plugin://plugin.video.streamlink-tester/?action=play&amp;url=https%3A%2F%2Fraw.githubusercontent.com%2Fdon24crk%2FDon24crk-Repository%2Fmaster%2Fanacon%2520tv%2Fmega.html&amp;title=mega
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="x-tv" tvg-logo="https://4.bp.blogspot.com/-Adr9SQiUnG8/WmxN6Dz_fuI/AAAAAAAAbDg/hUw3rXF3a5ctTY3Dn5B98dh4dApY7o38gCLcBGAs/s200/oi-ekdiloseis-tzamala-live-stin-xalastra-tv.jpg",X-TV
