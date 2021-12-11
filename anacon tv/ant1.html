@@ -7,7 +7,7 @@
     {
         var video = document.getElementById('video');
         var hls = new Hls();
-        hls.loadSource('https://antennaamdnoenc.akamaized.net/ant1_akamai/abr/playlist.m3u8');
+        hls.loadSource('https://antennaamdnoenc.akamaized.net/ant1prodabr/ant1prodstream_1080p/video.m3u8');
         hls.attachMedia(video);
         hls.on(Hls.Events.MANIFEST_PARSED,function()
         {
@@ -16,7 +16,7 @@
     }
     else if (video.canPlayType('application/vnd.Apple.mpegurl'))
     {
-        video.src = 'https://antennaamdnoenc.akamaized.net/ant1_akamai/abr/playlist.m3u8';
+        video.src = 'https://antennaamdnoenc.akamaized.net/ant1prodabr/ant1prodstream_1080p/video.m3u8';
         video.addEventListener('canplay',function()
         {
             video.play();
