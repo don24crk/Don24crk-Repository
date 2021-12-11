@@ -7,7 +7,7 @@
     {
         var video = document.getElementById('video');
         var hls = new Hls();
-        hls.loadSource('https://s2.cystream.net/live/ert1/chunks.m3u8?nimblesessionid=6349121&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTAvMjAyMSA5OjQ3OjI2IFBNJmhhc2hfdmFsdWU9M2RSZ2trMzZ5UDg1Z3NWc2JEcjNIQT09JnZhbGlkbWludXRlcz0yMA==');
+        hls.loadSource('http://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1_3Mbps.m3u8');
         hls.attachMedia(video);
         hls.on(Hls.Events.MANIFEST_PARSED,function()
         {
@@ -16,7 +16,7 @@
     }
     else if (video.canPlayType('application/vnd.Apple.mpegurl'))
     {
-        video.src = 'https://s2.cystream.net/live/ert1/chunks.m3u8?nimblesessionid=6349121&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTAvMjAyMSA5OjQ3OjI2IFBNJmhhc2hfdmFsdWU9M2RSZ2trMzZ5UDg1Z3NWc2JEcjNIQT09JnZhbGlkbWludXRlcz0yMA==';
+        video.src = 'http://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1_3Mbps.m3u8';
         video.addEventListener('canplay',function()
         {
             video.play();
