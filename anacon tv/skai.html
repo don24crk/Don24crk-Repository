@@ -1,0 +1,27 @@
+<html>
+  <body>
+    <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+    <video id="video" controls></video>
+    <script>
+    if(Hls.isSupported())
+    {
+        var video = document.getElementById('video');
+        var hls = new Hls();
+        hls.loadSource('https://s2.cystream.net/galanos/skai/chunks.m3u8?nimblesessionid=6350883&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTEvMjAyMSAxMjowODoyMiBBTSZoYXNoX3ZhbHVlPUJtdXVtZnNzS3RleVlESDljelZKRmc9PSZ2YWxpZG1pbnV0ZXM9MjA=');
+        hls.attachMedia(video);
+        hls.on(Hls.Events.MANIFEST_PARSED,function()
+        {
+            video.play();
+        });
+    }
+    else if (video.canPlayType('application/vnd.Apple.mpegurl'))
+    {
+        video.src = 'https://s2.cystream.net/galanos/skai/chunks.m3u8?nimblesessionid=6350883&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTEvMjAyMSAxMjowODoyMiBBTSZoYXNoX3ZhbHVlPUJtdXVtZnNzS3RleVlESDljelZKRmc9PSZ2YWxpZG1pbnV0ZXM9MjA=';
+        video.addEventListener('canplay',function()
+        {
+            video.play();
+        });
+    }
+    </script>
+  </body>
+</html>
