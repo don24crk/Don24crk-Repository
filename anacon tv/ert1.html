@@ -1,13 +1,13 @@
 <html>
   <body>
-    <script src="//releases.flowplayer.org/hlsjs/flowplayer.hlsjs.min.js"></script>
+    <script src="http://code.jquery.com/jquery-3.3.1.min.js"></script>
     <video id="video" controls></video>
     <script>
     if(Hls.isSupported())
     {
         var video = document.getElementById('video');
         var hls = new Hls();
-        hls.loadSource('|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0');
+        hls.loadSource('https://s2.cystream.net/live/ert1/chunks.m3u8?nimblesessionid=6379736&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyMSAxMDozMDozMCBQTSZoYXNoX3ZhbHVlPXV1V2FFRU9qd285Sk5EeE1yRE1DN2c9PSZ2YWxpZG1pbnV0ZXM9MjA=';
         hls.attachMedia(video);
         hls.on(Hls.Events.MANIFEST_PARSED,function()
         {
@@ -16,7 +16,7 @@
     }
     else if (video.canPlayType('application/x-mpegURL'))
     {
-        video.src = 'https://s2.cystream.net/live/ert1/chunks.m3u8?nimblesessionid=6357751&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTEvMjAyMSA1OjMwOjA3IFBNJmhhc2hfdmFsdWU9YVJidm11QUdTck1ZQUFFcitreTV5Zz09JnZhbGlkbWludXRlcz0yMA==';
+        video.src = 'https://s2.cystream.net/live/ert1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyMSAxMDozMDozMCBQTSZoYXNoX3ZhbHVlPXV1V2FFRU9qd285Sk5EeE1yRE1DN2c9PSZ2YWxpZG1pbnV0ZXM9MjA=';
         video.addEventListener('canplay',function()
         {
             video.play();
