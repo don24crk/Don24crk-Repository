@@ -7,7 +7,7 @@
     {
         var video = document.getElementById('video');
         var hls = new Hls();
-        hls.loadSource('https://s2.cystream.net/live/ert1/chunks.m3u8?nimblesessionid=6379736&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyMSAxMDozMDozMCBQTSZoYXNoX3ZhbHVlPXV1V2FFRU9qd285Sk5EeE1yRE1DN2c9PSZ2YWxpZG1pbnV0ZXM9MjA=';
+        hls.loadSource('https://s2.cystream.net/live/ert1/chunks.m3u8?nimblesessionid=6379736&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyMSAxMDozMDozMCBQTSZoYXNoX3ZhbHVlPXV1V2FFRU9qd285Sk5EeE1yRE1DN2c9PSZ2YWxpZG1pbnV0ZXM9MjA=');
         hls.attachMedia(video);
         hls.on(Hls.Events.MANIFEST_PARSED,function()
         {
