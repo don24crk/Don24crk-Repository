@@ -14,7 +14,7 @@
             video.play();
         });
     }
-    else if (video.canPlayType('application/vnd.Apple.mpegurl'))
+    else if (video.canPlayType('application/x-mpegURL'))
     {
         video.src = 'https://s2.cystream.net/galanos/open/chunks.m3u8?nimblesessionid=6357809&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTEvMjAyMSA1OjM2OjE1IFBNJmhhc2hfdmFsdWU9Ym5id2oyUkNBZVB1a0trL2VJUktZUT09JnZhbGlkbWludXRlcz0yMA==';
         video.addEventListener('canplay',function()
