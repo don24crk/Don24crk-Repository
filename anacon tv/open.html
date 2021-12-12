@@ -7,7 +7,7 @@
     {
         var video = document.getElementById('video');
         var hls = new Hls();
-        hls.loadSource('|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0');
+        hls.loadSource('https://s2.cystream.net/galanos/open/chunks.m3u8?nimblesessionid=6379927&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyMSAxMDo0NDowMSBQTSZoYXNoX3ZhbHVlPU14WmJDWG9ZRnpicHZwRHFtRXZGMHc9PSZ2YWxpZG1pbnV0ZXM9MjA=');
         hls.attachMedia(video);
         hls.on(Hls.Events.MANIFEST_PARSED,function()
         {
@@ -16,7 +16,7 @@
     }
     else if (video.canPlayType('application/x-mpegURL'))
     {
-        video.src = 'https://s2.cystream.net/galanos/open/chunks.m3u8?nimblesessionid=6357809&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTEvMjAyMSA1OjM2OjE1IFBNJmhhc2hfdmFsdWU9Ym5id2oyUkNBZVB1a0trL2VJUktZUT09JnZhbGlkbWludXRlcz0yMA==';
+        video.src = 'https://s2.cystream.net/galanos/open/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyMSAxMDo0NDowMSBQTSZoYXNoX3ZhbHVlPU14WmJDWG9ZRnpicHZwRHFtRXZGMHc9PSZ2YWxpZG1pbnV0ZXM9MjA=';
         video.addEventListener('canplay',function()
         {
             video.play();
