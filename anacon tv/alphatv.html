@@ -1,21 +1,20 @@
 <head>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<title>Alpha TV</title>
+<title>AlphaTV</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="Description" lang="en" content="">
 <meta name="author" content="">
 <meta name="robots" content="index, follow">
 <link rel="stylesheet" href="assets/css/styles.css">
+<link rel="stylesheet" href="//www.anacon.org/app/chans/player/skin/skin.css">
 <script src="//code.jquery.com/jquery-3.3.1.min.js"></script>
+<script src="//www.anacon.org/app/chans/player/flowplayer.js"></script>
+<script src="//www.anacon.org/app/chans/player/flowplayer.min.js"></script>
+<script src="//www.anacon.org/app/chans/player/flowplayer.hlsjs.js"></script>
+<script src="//www.anacon.org/app/chans/player/flowplayer.hlsjs.min.js"></script>
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<script src="https://www.google.com/recaptcha/api.js?render=6LfEjcsUAAAAAD2eNDV82V9ux_5oyKmkiLwzmTYW"></script>
 <script>
-    grecaptcha.ready(function() {
-        grecaptcha.execute('6LfEjcsUAAAAAD2eNDV82V9ux_5oyKmkiLwzmTYW', {action:'validate_captcha'}).then(function(token) {
-            document.getElementById('g-recaptcha-response').value = token;
-        });
-    });
   (adsbygoogle = window.adsbygoogle || []).push({
     google_ad_client: "ca-pub-5487194871056744",
     enable_page_level_ads: true
@@ -46,12 +45,27 @@
 </script>
 </center>
 <div class="main">
+					
+<div id="fp-hlsjs"></div>
+<script>
+flowplayer("#fp-hlsjs", {
+    ratio: 9/16,
+    clip: {
+        autoplay: true,
+        sources: [
+            { type: 'application/x-mpegurl',
+              src:  "https://s2.cystream.net/live/alphagr/chunks.m3u8?nimblesessionid=6409559&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTUvMjAyMSAxMjoyMzo0OSBQTSZoYXNoX3ZhbHVlPWczekV0TEZwUlp5NisyRHBybDNrdmc9PSZ2YWxpZG1pbnV0ZXM9MjA=",
+              live: true
+            }
+        ]
+    },
+    embed: false,
+	mutedAutoplay: false,
+	share: false,
+	native_fullscreen: true
 
-<form id="form_id" method="post" action="http://www.anacon.org/app/chans/gr/alpha.php">
-    <input type="hidden" id="g-recaptcha-response" name="g-recaptcha-response">
-    <input type="hidden" name="action" value="validate_captcha">
-    <input type="image" src="/app/chans/gr/exo.jpg" alt="" style="width:100%;" />
-</form>
+});
+</script>
 
 </div>
 <center>
