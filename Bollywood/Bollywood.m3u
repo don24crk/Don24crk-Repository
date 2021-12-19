@@ -31,7 +31,7 @@ plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F6c79ad9fe4&a
 plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2Fec8398e178&amp;mode=play_link
 #EXTINF:-1 tvg-name="Hochzeit auf Indisch",Hochzeit auf Indisch
 plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2Fb2bea039cf&amp;mode=play_link
-#EXTINF:-1 tvg-name="My Name Is Khan"My Name Is Khan
+#EXTINF:-1 tvg-name="My Name Is Khan",My Name Is Khan
 plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F7850c5372e&amp;mode=play_link
 #EXTINF:-1 tvg-name="Tanze für dein Leben",Tanze für dein Leben
 plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2Fdce66a306f&amp;mode=play_link
