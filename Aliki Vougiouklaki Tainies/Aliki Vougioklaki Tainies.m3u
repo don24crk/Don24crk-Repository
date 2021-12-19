@@ -37,3 +37,5 @@ plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fok.ru%2Fvideo%2F226147
 plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DBx-f3JAglAA&amp;mode=play_link
 #EXTINF:-1 tvg-name="Το Doloma" logo= "https://greek-movies.com/icon/movie/%CE%94%CE%9F%CE%9B%CE%A9%CE%9C%CE%911964.jpg",Το Doloma
 plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvoe.sx%2Fhfg83jpzjpwb&amp;mode=play_link
+#EXTINF:-1 tvg-name="THE MARIA OF SILENCE 1973" logo= "https://greek-movies.com/icon/movie/%CE%97%CE%9C%CE%91%CE%A1%CE%99%CE%91%CE%A4%CE%97%CE%A3%CE%A3%CE%99%CE%A9%CE%A0%CE%97%CE%A31973.jpg",THE MARIA OF SILENCE 1973
+plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvoe.sx%2F18v3ky6rki01&amp;mode=play_link
