@@ -1,0 +1,63 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Lebe und denke nicht an Morgen" 
+plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F2e09012c12&amp;mode=play_link
+#EXTINF:-1 tvg-name="chalte chalte" 
+plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2Fb1ac5b196a&amp;mode=play_link
+#EXTINF:-1 tvg-name="Happy New Year" 
+plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F5859a4a6a0&amp;mode=play_link
+#EXTINF:-1 tvg-name="Main Hoon Na - Ich bin immer für dich da!" 
+plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2Fb68f01f6a1&amp;mode=play_link
+#EXTINF:-1 tvg-name="Fan" 
+plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2Fc4e1555992&amp;mode=play_link
+#EXTINF:-1 tvg-name="Raees" 
+plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F3f69358f46&amp;mode=play_link
+#EXTINF:-1 tvg-name="Zero" 
+plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F84059771a7&amp;mode=play_link
+#EXTINF:-1 tvg-name="Race 2" 
+plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Flh3.googleusercontent.com%2FVjVIucP20Xg-Wk21JRoPj6h1HJCHbp5u-dtKxf-v_7yKPeSIaO9nhuZOTSHmBZAnJXoXR9bPcLZUDqGdHqGZcGnZKiDmt99cm7HEvvRqyrblq3SVQRQgWC5_wKBwJ1O0WCRHZW6MLg%3Dm18&amp;mode=play_link
+#EXTINF:-1 tvg-name="Mit Gottes Hilfe" 
+plugin://plugin.video.smr_link_tester/?link=play&amp;url=https%3A%2F%2Fmixdrop.co%2FF%2Fenjze3q9c3dvmk&amp;mode=play_link
+#EXTINF:-1 tvg-name="Dear Zindagi - Liebesbrief an das Leben" 
+plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F3056f801ae&amp;mode=play_link
+#EXTINF:-1 tvg-name="Don - Das Spiel beginnt"
+plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F06154a18c1&amp;mode=play_link
+#EXTINF:-1 tvg-name="Don 2 - Das Spiel geht weiter" 
+plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F59247b202e&amp;mode=play_link
+#EXTINF:-1 tvg-name="Om Shanti Om" 
+plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F321e5fe847&amp;mode=play_link
+#EXTINF:-1 tvg-name="Dilwale - Ich liebe Dich" 
+plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F6c79ad9fe4&amp;mode=play_link
+#EXTINF:-1 tvg-name="In guten wie in schweren Tagen" 
+plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2Fec8398e178&amp;mode=play_link
+#EXTINF:-1 tvg-name="Hochzeit auf Indisch" 
+plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2Fb2bea039cf&amp;mode=play_link
+#EXTINF:-1 tvg-name="My Name Is Khan" 
+plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F7850c5372e&amp;mode=play_link
+#EXTINF:-1 tvg-name="Tanze für dein Leben" 
+plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2Fdce66a306f&amp;mode=play_link
+#EXTINF:-1 tvg-name="Im Wendekreis der Liebe" 
+https://pmd.netzkino-seite.netzkino.de/CLA_flat_NK/Wendekreis_der_Liebe.mp4
+#EXTINF:-1 tvg-name="Bis dass das Glück uns scheidet" 
+plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2Fbd5b972d3b&amp;mode=play_link
+#EXTINF:-1 tvg-name="Billu Barber" 
+plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2Fe4e9323223&amp;mode=play_link
+#EXTINF:-1 tvg-name="Ein göttliches Paar" 
+plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2Fefd0fa0f68&amp;mode=play_link
+#EXTINF:-1 tvg-name="Paheli" 
+plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2Fd9811512a4&amp;mode=play_link
+#EXTINF:-1 tvg-name="Chennai Express" 
+plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F41484e3fc9&amp;mode=play_link
+#EXTINF:-1 tvg-name="Ra.One - Superheld mit Herz" 
+plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F6c3800c619&amp;mode=play_link
+#EXTINF:-1 tvg-name="Hum kisi se kum nahin - Der Chaosdoktor" 
+https://pmd.netzkino-seite.netzkino.de/CLA/Hum_kisi_se_kum_nahin_-_Der_Chaosdoktor.mp4
+#EXTINF:-1 tvg-name="Maya Memsaab" 
+https://pmd.netzkino-seite.netzkino.de/Great_Movies_NK/Maya_Memsaab.mp4
+#EXTINF:-1 tvg-name="Bang Bang" 
+plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2Fdd371a6b40&amp;mode=play_link
+#EXTINF:-1 tvg-name="Dilwale Dulhania Le Jayenge - Wer zuerst kommt, kriegt die Braut" 
+plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F5c1056aa58&amp;mode=play_link
+#EXTINF:-1 tvg-name="Veer Zaara - Die Legende einer Liebe" 
+plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2Fd681119f56&amp;mode=play_link
+#EXTINF:-1 tvg-name="Sag ja zur Liebe - Dulha Mil Gaya" 
+plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F12f86976e8&amp;mode=play_link
