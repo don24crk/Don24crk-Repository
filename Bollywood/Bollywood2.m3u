@@ -1,71 +1,71 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Aetbaar" 
+#EXTINF:-1 tvg-name="Aetbaar",Aetbaar
 plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2Fda60060878&amp;mode=play_link
-#EXTINF:-1 tvg-name="Mein Herz schlägt indisch" 
+#EXTINF:-1 tvg-name="Mein Herz schlägt indisch",Mein Herz schlägt indisch
 plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F4341871215&amp;mode=play_link
-#EXTINF:-1 tvg-name="Bhoothnath - Ein Geist zum Liebhaben" 
+#EXTINF:-1 tvg-name="Bhoothnath - Ein Geist zum Liebhaben",Bhoothnath - Ein Geist zum Liebhaben
 plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fstreamtape.com%2Fe%2Fyk7JQqDDzxf1l9W&amp;mode=play_link
-#EXTINF:-1 tvg-name="Duplicate - Doppelgänger" 
+#EXTINF:-1 tvg-name="Duplicate - Doppelgänger",Duplicate - Doppelgänger
 plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F613b3129f2&amp;mode=play_link
-#EXTINF:-1 tvg-name="Baadshah - König der Liebe!"
+#EXTINF:-1 tvg-name="Baadshah - König der Liebe!",Baadshah - König der Liebe!
 plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%2FXHc9lio6qX4&amp;mode=play_link
-#EXTINF:-1 tvg-name="One 2 Ka 4 - Der Babysitter-Cop" 
+#EXTINF:-1 tvg-name="One 2 Ka 4 - Der Babysitter-Cop",One 2 Ka 4 - Der Babysitter-Cop
 plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fmixdrop.co%2Ff%2F7r6jjg8phnomm3&amp;mode=play_link
-#EXTINF:-1 tvg-name="Asoka - Der Weg des Kriegers" 
+#EXTINF:-1 tvg-name="Asoka - Der Weg des Kriegers",Asoka - Der Weg des Kriegers
 plugin://plugin.video.smr_link_tester/?link=play&amp;url=https%3A%2F%2Fvivo.sx%2F0536a8fd08&amp;mode=play_link
-#EXTINF:-1 tvg-name="Dhoom - Die Jagd beginnt" 
+#EXTINF:-1 tvg-name="Dhoom - Die Jagd beginnt",Dhoom - Die Jagd beginnt
 plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2Fcad16f8952&amp;mode=play_link
-#EXTINF:-1 tvg-name="Dhoom 2 - Back in Action" 
+#EXTINF:-1 tvg-name="Dhoom 2 - Back in Action",Dhoom 2 - Back in Action
 plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2Fa913bc1d48&amp;mode=play_link
-#EXTINF:-1 tvg-name="Dhoom - 3"
+#EXTINF:-1 tvg-name="Dhoom - 3",Dhoom - 3
 plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F3e39224a97&amp;mode=play_link
-#EXTINF:-1 tvg-name="Kaal - Das Geheimnis des Dschungels" 
+#EXTINF:-1 tvg-name="Kaal - Das Geheimnis des Dschungels",Kaal - Das Geheimnis des Dschungels
 plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F3af888d86f&amp;mode=play_link
-#EXTINF:-1 tvg-name="Chak De! India - Ein unschlagbares Team" 
+#EXTINF:-1 tvg-name="Chak De! India - Ein unschlagbares Team",Chak De! India - Ein unschlagbares Team
 plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2Ff84caa5eba&amp;mode=play_link
-#EXTINF:-1 tvg-name="Hum Tumhare Hain Sanam - Ich gehöre dir, meine Liebe Teil 1" 
+#EXTINF:-1 tvg-name="Hum Tumhare Hain Sanam - Ich gehöre dir, meine Liebe Teil 1",Hum Tumhare Hain Sanam - Ich gehöre dir, meine Liebe Teil 1
 plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F52a541a223&amp;mode=play_link
-#EXTINF:-1 tvg-name="Hum Tumhare Hain Sanam - Ich gehöre dir, meine Liebe Teil 2" 
+#EXTINF:-1 tvg-name="Hum Tumhare Hain Sanam - Ich gehöre dir, meine Liebe Teil 2",Hum Tumhare Hain Sanam - Ich gehöre dir, meine Liebe Teil 2
 plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F1f7fc87501&amp;mode=play_link
-#EXTINF:-1 tvg-name="Mohabbatein – Denn meine Liebe ist unsterblich" 
+#EXTINF:-1 tvg-name="Mohabbatein – Denn meine Liebe ist unsterblich",Mohabbatein – Denn meine Liebe ist unsterblich
 plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F1d4ded3b37&amp;mode=play_link
-#EXTINF:-1 tvg-name="Von ganzem Herzen" 
+#EXTINF:-1 tvg-name="Von ganzem Herzen",Von ganzem Herzen
 plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F006c06788b&amp;mode=play_link
-#EXTINF:-1 tvg-name="Mein Herz spielt verrückt" 
+#EXTINF:-1 tvg-name="Mein Herz spielt verrückt",Mein Herz spielt verrückt
 plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F46f69f9946&amp;mode=play_link
-#EXTINF:-1 tvg-name="Liebe lieber indisch" 
+#EXTINF:-1 tvg-name="Liebe lieber indisch",Liebe lieber indisch
 plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F2219928dc5&amp;mode=play_link
-#EXTINF:-1 tvg-name="Slumdog Millionär" 
+#EXTINF:-1 tvg-name="Slumdog Millionär",Slumdog Millionär 
 plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F898c390969&amp;mode=play_link
-#EXTINF:-1 tvg-name="Sternenkind – Koi Mil Gaya" 
+#EXTINF:-1 tvg-name="Sternenkind – Koi Mil Gaya",Sternenkind – Koi Mil Gaya
 plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F9d7d099325&amp;mode=play_link
-#EXTINF:-1 tvg-name="Krrish" 
+#EXTINF:-1 tvg-name="Krrish",Krrish
 plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fmixdrop.co%2FF%2Fxo69jxqgc98z67&amp;mode=play_link
-#EXTINF:-1 tvg-name="Krrish 3" 
+#EXTINF:-1 tvg-name="Krrish 3",Krrish 3
 plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2Fe2108f6e61&amp;mode=play_link
-#EXTINF:-1 tvg-name="Mandy" 
+#EXTINF:-1 tvg-name="Mandy",Mandy
 plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2Fc04c2e69d4&amp;mode=play_link
-#EXTINF:-1 tvg-name="PK - Andere Sterne, andere Sitten" 
+#EXTINF:-1 tvg-name="PK - Andere Sterne, andere Sitten",PK - Andere Sterne, andere Sitten
 plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2Fa8d46c79b8&amp;mode=play_link
-#EXTINF:-1 tvg-name="Hum Tum - Ich Du, verrückt vor Liebe" 
+#EXTINF:-1 tvg-name="Hum Tum - Ich Du, verrückt vor Liebe",Hum Tum - Ich Du, verrückt vor Liebe
 plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F731c41685d&amp;mode=play_link
-#EXTINF:-1 tvg-name="Ta Ra Rum Pum - Papa gibt Gas - Eine Familie ist nicht zu stoppen" 
+#EXTINF:-1 tvg-name="Ta Ra Rum Pum - Papa gibt Gas - Eine Familie ist nicht zu stoppen",Ta Ra Rum Pum - Papa gibt Gas - Eine Familie ist nicht zu stoppen
 plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2Fcb8fdf3a73&amp;mode=play_link
-#EXTINF:-1 tvg-name="Mission Azaad - Der Indische Zorro" 
+#EXTINF:-1 tvg-name="Mission Azaad - Der Indische Zorro",Mission Azaad - Der Indische Zorro
 plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F8a4441bb9c&amp;mode=play_link
-#EXTINF:-1 tvg-name="Jab Tak Hai Jaan - Solang ich lebe" 
+#EXTINF:-1 tvg-name="Jab Tak Hai Jaan - Solang ich lebe",Jab Tak Hai Jaan - Solang ich lebe
 plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2Ff86a174f17&amp;mode=play_link
-#EXTINF:-1 tvg-name="Nadel Faden - Made In India" 
+#EXTINF:-1 tvg-name="Nadel Faden - Made In India",Nadel Faden - Made In India 
 plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2Fe0bb343d62&amp;mode=play_link
-#EXTINF:-1 tvg-name="Fanaa - Im Sturm der Liebe" 
+#EXTINF:-1 tvg-name="Fanaa - Im Sturm der Liebe",Fanaa - Im Sturm der Liebe
 plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fvivo.sx%2F50ea65f204&amp;mode=play_link
-#EXTINF:-1 tvg-name="Darr" 
+#EXTINF:-1 tvg-name="Darr",Darr
 plugin://plugin.video.smr.link_tester/?link=https%3A%2F%2Fvivo.sx%2Fembed%2F9760a80737&amp;mode=play_link
-#EXTINF:-1 tvg-name="Anjaam - Heute Liebe morgen Rache" 
+#EXTINF:-1 tvg-name="Anjaam - Heute Liebe morgen Rache",Anjaam - Heute Liebe morgen Rache
 plugin://plugin.video.smr.link_tester/?link=https%3A%2F%2Fstreamtape.com%2Fv%2FewZdX4Xb6jIYv6J%2FAnjaam.mp4&amp;mode=play_link
-#EXTINF:-1 tvg-name="Baazigar" 
+#EXTINF:-1 tvg-name="Baazigar",Baazigar
 plugin://plugin.video.smr.link_tester/?link=https%3A%2F%2Fstreamtape.com%2Fv%2F4BeaJ8dYP9hpgd%2FBaazigar.2006.German.DVDRip.AC3.mp4&amp;mode=play_link
-#EXTINF:-1 tvg-name="Josh" 
+#EXTINF:-1 tvg-name="Josh",Josh
 plugin://plugin.video.smr.link_tester/?link=https%3A%2F%2Fstreamtape.com%2Fv%2F1RWVZLgPdVCeqJw%2FJosh_-_Mein_Herz_Geh%25C3%25B6rt_Dir_%2528german%2529_.mp4&amp;mode=play_link
-#EXTINF:-1 tvg-name="Eine Reise für die Liebe" 
+#EXTINF:-1 tvg-name="Eine Reise für die Liebe",Eine Reise für die Liebe
 plugin://plugin.video.smr.link_tester/?link=https%3A%2F%2Fstreamtape.com%2Fv%2FlqzRGbo612Udb8%2FShah_Rukh_Khan_Eine_Reise_f%25C3%25BCr_die_Liebe.mp4%0D&amp;mode=play_link
