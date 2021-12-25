@@ -31,5 +31,4 @@ https://eco.streams.ovh:443/BarazaTV/BarazaTV/playlist.m3u8|User-Agent=Mozilla/5
 https://s1.cystream.net/live/smile/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="GALAXYGR" tvg-logo="https://i.imgur.com/uhYtvsJ.png",GalaxyGR
 https://channel.streams.ovh:1936/galaxygr-1/galaxygr-1/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="CineGR" tvg-logo="https://assets.streamtest.in/logo/3018/200_cinefil-gr.jpg?v=1577227977",CinefilGR
-http://vdo.alphaserver.gr:3128/stream/play.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+
