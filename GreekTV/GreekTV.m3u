@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ErtWorld" tvg-logo="https://www.infosat.de/sites/default/files/news/ERT-World-Logo-2021_655440_0.jpg",ErtWorld
-http://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_worldmedium.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+http://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Ert1" tvg-logo="https://i.imgur.com/slE8U5m.png",Ert1
 http://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1_3Mbps.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Ert2" tvg-logo="https://i.imgur.com/o4BUdoL.png",Ert2
@@ -8,7 +8,7 @@ http://ert-live-bcbs15228.siliconweb.com/media/ert_2/ert_2_3Mbps.m3u8|User-Agent
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Ert3" tvg-logo="https://i.imgur.com/rv4JLBO.png",Ert3
 http://ert-live-bcbs15228.siliconweb.com/media/ert_3/ert_3_2Mbps.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="AlphaTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Alpha_TV_logo.jpg/480px-Alpha_TV_logo.jpg",AlphaTV
-https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+http://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Ant1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/ANT1_Greek_channel_logo.svg/1200px-ANT1_Greek_channel_logo.svg.png",Ant1
 https://antennaamdnoenc.akamaized.net/ant1_akamai/abr/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="StarHD" tvg-logo="https://i.pinimg.com/originals/78/f1/00/78f100039f831199c6c06906b0b37a16.png",Star
@@ -20,7 +20,7 @@ https://sl2.sigmatv.com/hls/live.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; W
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="OpenTV" tvg-logo="https://s.tvopen.gr/images/OPEN_BEYOND_Avra.png",OpenTV
 https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="MegaTV" tvg-id="id" tvg-logo="https://cdn.greektvlive.info/wp-content/uploads/2019/03/megatv.jpg",MegaTV
-https://streamcdnb10-c98db5952cb54b358365984178fb898a.msvdn.net/vod/M1EBuwJAhNot/603e13de-ff50-43a8-af0d-0233ed929598/chunklist-f1-v1-a1.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+https://streamcdnb7-c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="x-tv" tvg-logo="https://4.bp.blogspot.com/-Adr9SQiUnG8/WmxN6Dz_fuI/AAAAAAAAbDg/hUw3rXF3a5ctTY3Dn5B98dh4dApY7o38gCLcBGAs/s200/oi-ekdiloseis-tzamala-live-stin-xalastra-tv.jpg",X-TV
 https://live.cast-control.eu:443/xalastratv/xalastratv/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Tilemousiki" tvg-logo="https://greektv.page/img/greektvlayers3/tilemousiki.jpg",TileMousiki
