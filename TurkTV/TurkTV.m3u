@@ -4,23 +4,23 @@ https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b2328000_sltur.m3u8|User
 #EXTINF:-1 tvg-name="FBTV" tvg-id="id" group-title="Group Title" tvg-logo="https://media.fenerbahce.org/FB/media/FB/Images/Logo/logo.png?ext=.png",FBTV
 plugin://plugin.video.smr_link_tester/?mode=play_link&amp;link=https%3A%2F%2Fwww.dailymotion.com%2Fvideo%2Fx21oo10
 #EXTINF:-1 tvg-name="Kanal7" tvg-id="id" group-title="Group Title" tvg-logo="https://izle7.haber7.net/assets/img/kanal7_avrupa.jpg",Kanal7
-https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+https://hasan.tvcag.live/mn-nl.mncdn.com/blutv_kanal72/live_540p1250000kbps/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMi8yMDE4IDEwOjExOjA2IFBNJmhhc2hfdmFsdWU9cGtzUElvZjBwOUFIcDZRenpxQmxLdz09JnZhbGlkbWludXRlcz01|User-Agent=Mozilla/5.0 (Android 9\; Mobile\; rv:93.0) Gecko/93.0 Firefox/93.0
 #EXTINF:-1 tvg-name="TRT1" tvg-id="id" group-title="Group Title" tvg-logo="https://www.trt1.com.tr/public/dm_upload/modul4/158c26d7-e92d-4279-beb2-3bc902e6c405.jpg",TRT1
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 #EXTINF:-1 tvg-name="StarTV" tvg-id="id" group-title="Group Title" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/StarTV.svg/1200px-StarTV.svg.png",StarTV
 https://dogus-live.daioncdn.net/startv/startv_480p.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 #EXTINF:-1 tvg-name="ATV" tvg-id="id" group-title="Group Title" tvg-logo="https://i.ytimg.com/vi/fVnQrYmfJek/maxresdefault.jpg",ATV
-plugin://plugin.video.smr_link_tester/?mode=play_link&amp;link=https%3A%2F%2Fwww.dailymotion.com%2Fvideo%2Fx80b7bl
+https://antalya.tvizlehd.com/atv.m3u8?tkn=SKzOqE1XSgISUxCpmC_a-Q&tms=1645905195&hst=tr.canlitv.team|User-Agent=Mozilla/5.0 (Android 9\; Mobile\; rv:93.0) Gecko/93.0 Firefox/93.0
 #EXTINF:-1 tvg-name="FOX" tvg-id="id" group-title="Group Title" tvg-logo="https://www.canlitv.vin/kanallar/ogfox-tv.png",FOX
-https://foxtv.daioncdn.net/foxtv/foxtv_720p.m3u8?ex=1645396135&st=cimUoVcfGum403xPowxUgg&sid=45u6gx6ajjr5&app=24e7a2e2-9156-4c02-a4fb-2bc599ffaf77&ce=3|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+https://black.tvizlehd.com/foxtv.m3u8?tkn=wkfm-EW5orw9TKkod5Od0g&tms=1645905126&hst=tr.canlitv.team|User-Agent=Mozilla/5.0 (Android 9\; Mobile\; rv:93.0) Gecko/93.0 Firefox/93.0
 #EXTINF:-1 tvg-name="Kral" tvg-id="id" group-title="Group Title" tvg-logo="https://i.ytimg.com/vi/88tf0H1ycDU/maxresdefault.jpg",Kral
-https://dogus.daioncdn.net/kraltv/kraltv_720p.m3u8?sid=45u9nklv23y4&app=998af748-29a7-480e-a343-52385fce91ff|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+https://dogus.daioncdn.net/kraltv/kraltv_720p.m3u8?sid=45u9nklv23y4&app=998af748-29a7-480e-a343-52385fce91ff|User-Agent=Mozilla/5.0 (Android 9\; Mobile\; rv:93.0) Gecko/93.0 Firefox/93.0
 #EXTINF:-1 tvg-name="ShowMax" tvg-id="id" group-title="Group Title" tvg-logo="https://i.ytimg.com/vi/kuuB7Kk6pMI/maxresdefault.jpg",ShowMax
-https://ciner-live.ercdn.net/showmax/showmax_720p.m3u8?e=1645387583&st=W-gNQAg72_3WpFGqG9mwqA&tv=1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+https://antalya.tvizlehd.com/showmax.m3u8?tkn=aXoPDA7Z9MVLq_qG-1TSYw&tms=1645904801&hst=canlitvizle.com|User-Agent=Mozilla/5.0 (Android 9\; Mobile\; rv:93.0) Gecko/93.0 Firefox/93.0
 #EXTINF:-1 tvg-name="Show" tvg-id="id" group-title="Group Title" tvg-logo="https://i.ytimg.com/vi/rtMDAEQgyl8/maxresdefault.jpg",Show
-https://ciner-live.ercdn.net/showturk/showturk_720p.m3u8?e=1645387922&st=yHyATY03_21Mmr4FrAtNPg&tv=1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+https://hasan.tvcag.live/mn-nl.mncdn.com/blutv_showtv2/live_540p1250000kbps/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMi8yMDE4IDEwOjExOjA2IFBNJmhhc2hfdmFsdWU9cGtzUElvZjBwOUFIcDZRenpxQmxLdz09JnZhbGlkbWludXRlcz01|User-Agent=Mozilla/5.0 (Android 9\; Mobile\; rv:93.0) Gecko/93.0 Firefox/93.0
 #EXTINF:-1 tvg-name="kralpop" tvg-id="id" group-title="Group Title" tvg-logo="https://i.ytimg.com/vi/dEHMR7Qpthw/maxresdefault_live.jpg",kralpop
-https://dogus.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8?sid=45u9e0koib5e&app=f38a38b4-ce55-4040-8676-9826937d6128|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+https://dogus.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8?sid=45u9e0koib5e&app=f38a38b4-ce55-4040-8676-9826937d6128|User-Agent=Mozilla/5.0 (Android 9\; Mobile\; rv:93.0) Gecko/93.0 Firefox/93.0
 #EXTINF:-1 tvg-name="TV 360" tvg-id="id" group-title="Group Title" tvg-logo="https://www.canlitv.vin/kanallar/ogtv-360.png",TV 360
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 #EXTINF:-1 tvg-name="En Sevilen Kemal Sunal Filmleri canlı" tvg-id="id" group-title="Group Title" tvg-logo="https://i.ytimg.com/vi/PNIb2LNkXmg/maxresdefault.jpg",En Sevilen Kemal Sunal Filmleri #canlı
@@ -32,10 +32,10 @@ https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/track_1_320/playlist.m3u8|User-Agent
 #EXTINF:-1 tvg-name="Euro Star" tvg-id="id" group-title="Group Title" tvg-logo="http://www.eurostartv.com.tr/Content/img/logo.png",EuroStar
 plugin://plugin.video.smr_link_tester/?mode=play_link&amp;link=https%3A%2F%2Fwww.dailymotion.com%2Fvideo%2Fx729whv
 #EXTINF:-1 tvg-name="ATV Avrupa" tvg-id="id" group-title="Group Title" tvg-logo="https://i.tmgrup.com.tr/aav/site/v2/i/imaj_atvavrupa_yeni.jpg",ATV-Avrupa
-https://trkvz-live.ercdn.net/atvavrupa/atvavrupa_576p.m3u8?st=AgosPosvH1eC6Cg1XY6v1Q&e=1645424909&SessionID=1.2.610158875.1645379710&StreamGroup=canli-yayin&Site=atvavrupa&DeviceGroup=web|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+https://black.tvizlehd.com/atvavrupa.m3u8?tkn=_zHXSUjvZnG1DOgdL7UWnA&tms=1645904896&hst=canlitvizle.com|User-Agent=Mozilla/5.0 (Android 9\; Mobile\; rv:93.0) Gecko/93.0 Firefox/93.0
 #EXTINF:-1 tvg-name="CNN Türk" tvg-id="id" group-title="Group Title" tvg-logo="https://s.cnnturk.com//assets/dist/img/logo.svg",CNN Türk
 plugin://plugin.video.smr_link_tester/?mode=play_link&amp;link=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DX_EWYemclKA
 #EXTINF:-1 tvg-name="DMAX" tvg-id="id" group-title="Group Title" tvg-logo="https://i.ytimg.com/vi/xM60UTbAIH8/maxresdefault_live.jpg",DMAX
-https://dogus.daioncdn.net/dmax/hlssubplaylist-video_25000-audio_2088.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMi8yMDE4IDEwOjExOjA2IFBNJmhhc2hfdmFsdWU9cGtzUElvZjBwOUFIcDZRenpxQmxLdz09JnZhbGlkbWludXRlcz01|User-Agent=Mozilla/5.0 (Android 9\; Mobile\; rv:93.0) Gecko/93.0 Firefox/93.0
 #EXTINF:-1 tvg-name="Dream Türk" tvg-id="id" group-title="Group Title" tvg-logo="https://s.dreamturk.com.tr/assets/dist/images/dream-turk-logoV2.png",Dream-Türk
-https://live.duhnet.tv//S2/HLS_LIVE/dreamturknp/track_4_1000/playlist.m3u8?key=7763e4ac1e460d9913ada7b279c8af81&live=true&app=com.dreamturk|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+https://live.duhnet.tv//S2/HLS_LIVE/dreamturknp/track_4_1000/playlist.m3u8?key=7763e4ac1e460d9913ada7b279c8af81&live=true&app=com.dreamturk|User-Agent=Mozilla/5.0 (Android 9\; Mobile\; rv:93.0) Gecko/93.0 Firefox/93.0
