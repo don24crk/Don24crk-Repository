@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ErtWorld" tvg-logo="https://www.infosat.de/sites/default/files/news/ERT-World-Logo-2021_655440_0.jpg",ErtWorld
 http://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Ert 1" tvg-logo="https://i.imgur.com/slE8U5m.png",Ert1
-http://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1_3Mbps.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Ert 2" tvg-logo="https://i.imgur.com/o4BUdoL.png",Ert2
-http://ert-live-bcbs15228.siliconweb.com/media/ert_2/ert_2_3Mbps.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Ert 3" tvg-logo="https://i.imgur.com/rv4JLBO.png",Ert3
-http://ert-live-bcbs15228.siliconweb.com/media/ert_3/ert_3_2Mbps.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Ert1" tvg-logo="https://i.imgur.com/slE8U5m.png",Ert1
+https://s2.cystream.net/live/ert1/chunks.m3u8?nimblesessionid=7549303&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNi8yMDIyIDI6NDM6MzkgUE0maGFzaF92YWx1ZT1raXJxRlBvS0RLeFBDczlHK3RySDJBPT0mdmFsaWRtaW51dGVzPTIw|User-Agent=Mozilla/5.0 (Android 9\; Mobile\; rv:93.0) Gecko/93.0 Firefox/93.0
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Ert2" tvg-logo="https://i.imgur.com/o4BUdoL.png",Ert2
+https://s2.cystream.net/live/ert2/chunks.m3u8?nimblesessionid=7549335&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNi8yMDIyIDI6NDU6MjcgUE0maGFzaF92YWx1ZT0zT0p3RVFxZnJ4anZudFB3UnB0UkV3PT0mdmFsaWRtaW51dGVzPTIw|User-Agent=Mozilla/5.0 (Android 9\; Mobile\; rv:93.0) Gecko/93.0 Firefox/93.0
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Ert3" tvg-logo="https://i.imgur.com/rv4JLBO.png",Ert3
+https://s2.cystream.net/live/ert3/chunks.m3u8?nimblesessionid=7549341&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNi8yMDIyIDI6NDY6MDggUE0maGFzaF92YWx1ZT1HMWpGZFZuTFd6c0xXSW45VStjNjNnPT0mdmFsaWRtaW51dGVzPTIw|User-Agent=Mozilla/5.0 (Android 9\; Mobile\; rv:93.0) Gecko/93.0 Firefox/93.0
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="AlphaTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Alpha_TV_logo.jpg/480px-Alpha_TV_logo.jpg",AlphaTV
 http://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Ant1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/ANT1_Greek_channel_logo.svg/1200px-ANT1_Greek_channel_logo.svg.png",Ant1
@@ -30,5 +30,5 @@ https://eco.streams.ovh:443/BarazaTV/BarazaTV/playlist.m3u8|User-Agent=Mozilla/5
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="SMILETVCY" tvg-logo="https://tvepg.eu/img/greece/logo/smile_tv.png",SmileTV
 https://s1.cystream.net/live/smile/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="GALAXYGR" tvg-logo="https://i.imgur.com/uhYtvsJ.png",GalaxyGR
-https://channel.streams.ovh:1936/galaxygr-1/galaxygr-1/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+https://channel.streams.ovh:1936/galaxygr-1/galaxygr-1/chunklist_w735276355.m3u8|User-Agent=Mozilla/5.0 (Android 9\; Mobile\; rv:93.0) Gecko/93.0 Firefox/93.0
 
