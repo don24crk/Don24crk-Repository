@@ -1,41 +1,42 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="GSTV" tvg-id="id" group-title="Group Title" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c2/Gstv_00.png",GSTV
-https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b2328000_sltur.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b2328000_sltur.m3u8|User-Agent=Samsung SM-N9000Q stagefright\/Beyonce\/1.1.9 (Linux;Android 5.0)
 #EXTINF:-1 tvg-name="FBTV" tvg-id="id" group-title="Group Title" tvg-logo="https://media.fenerbahce.org/FB/media/FB/Images/Logo/logo.png?ext=.png",FBTV
 plugin://plugin.video.smr_link_tester/?mode=play_link&amp;link=https%3A%2F%2Fwww.dailymotion.com%2Fvideo%2Fx21oo10
 #EXTINF:-1 tvg-name="Kanal7" tvg-id="id" group-title="Group Title" tvg-logo="https://izle7.haber7.net/assets/img/kanal7_avrupa.jpg",Kanal7
-https://hasan.tvcag.live/mn-nl.mncdn.com/blutv_kanal72/live_540p1250000kbps/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMi8yMDE4IDEwOjExOjA2IFBNJmhhc2hfdmFsdWU9cGtzUElvZjBwOUFIcDZRenpxQmxLdz09JnZhbGlkbWludXRlcz01|User-Agent=Mozilla/5.0 (Android 9\; Mobile\; rv:93.0) Gecko/93.0 Firefox/93.0
+https://hasan.tvcag.live/mn-nl.mncdn.com/blutv_kanal72/live_540p1250000kbps/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMi8yMDE4IDEwOjExOjA2IFBNJmhhc2hfdmFsdWU9cGtzUElvZjBwOUFIcDZRenpxQmxLdz09JnZhbGlkbWludXRlcz01|User-Agent=Samsung SM-N9000Q stagefright\/Beyonce\/1.1.9 (Linux;Android 5.0)
 #EXTINF:-1 tvg-name="TRT1" tvg-id="id" group-title="Group Title" tvg-logo="https://www.trt1.com.tr/public/dm_upload/modul4/158c26d7-e92d-4279-beb2-3bc902e6c405.jpg",TRT1
-https://tv-trt1.medya.trt.com.tr/master_720.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+https://tv-trt1.medya.trt.com.tr/master_720.m3u8|User-Agent=Samsung SM-N9000Q stagefright\/Beyonce\/1.1.9 (Linux;Android 5.0)
 #EXTINF:-1 tvg-name="StarTV" tvg-id="id" group-title="Group Title" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/StarTV.svg/1200px-StarTV.svg.png",StarTV
-https://dogus-live.daioncdn.net/startv/startv_480p.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+https://dogus-live.daioncdn.net/startv/startv_480p.m3u8|User-Agent=Samsung SM-N9000Q stagefright\/Beyonce\/1.1.9 (Linux;Android 5.0)
 #EXTINF:-1 tvg-name="ATV" tvg-id="id" group-title="Group Title" tvg-logo="https://i.ytimg.com/vi/fVnQrYmfJek/maxresdefault.jpg",ATV
-https://antalya.tvizlehd.com/atv.m3u8?tkn=SKzOqE1XSgISUxCpmC_a-Q&tms=1645905195&hst=tr.canlitv.team|User-Agent=Mozilla/5.0 (Android 9\; Mobile\; rv:93.0) Gecko/93.0 Firefox/93.0
+https://trkvz.daioncdn.net/atv/atv.m3u8?ce=3&app=d1ce2d40-5256-4550-b02e-e73c185a314e&st=WlWCk-S4iFFcXBwm9DJukQ&e=1646025181&dfp_paln=AQzzBGQEf7gk9TDGjtOM1QNU8qsUdJiGIhqBN4HODcSCXa28oun8glUcWMxO6I2CLwQRUuR08RHhe4WaA3TVtrshO8ywEL8rqas79I24XVwViU054VJFJFMU99ri4QwPi8q-KEuW6zR8YIi8VVGvWSEnk824yAv-hSAZCIDuUiqWYpaEGtwBhBGCt5wwe3uThQEtvZlyHVfT2HkAcuO7FDlp4Rczn7YbBu3_FA5aj2gyYyyfdjb_7nLI-c_vja6eWZc3YWpdMGK95c2KzwuqiepNuZ8sNOkSben3cBDgTaLr5Jdku_iqFur2FhCGLaR-gzywykRMLA0texz0XFbR69YeVkXk0HzdRJV6LzRmKoUn4ECBOuYrI4rtUW1KikibRXNNQ-p7pkIDoUuD3J-lSm59FfIPLThSQNy58dcXPOiEtYA3vL7wBp07G6YBM7R44Djnol7X42mDtSr6Fe0uOkuPDP6hpqAYvEqRzAQGsZ1uLpKweJhe8dqzRrJxFAQZoKJoTzxAweUfGNneol_pbuwjsJCOiUquY26kYalVyEJnz-8T-NxeZ9upIMFyxllJW5T_hBjImLUlwSW6yCpDvd8Dr51lqlaJmlBoysnZL41RDPL-9HR9I2ubr4hGvafBoDR1QLOxHxm-jZY5zFCtLfJL8kFdBa50bLWUoE5biz7_VNvEJXOtT1gNgcLffyvXsb35JGg6JU0wWDpyKIE9gEfdA8nQ49a5iypSMS73Q26_1gdBrLdmWwknnX3Q-JUhN0cBZJb4wmny0Pq5gQIiuZr_8Lg-HQn8asUqvtP2wrHn74shFcKzEVE0ihz3ao1WF3nFQPZXNMK_LVdAvFzwvKAv1TCOukMrC-cxjVSSiZOZCzFDc5ax4ZPEWwUiQWCgIDh8qdvxYUZXF2CZ6GX4yrQ59zoRlTHmKBtXTXUpZuyJTwWwyYP4HTgxDLZkNc_eFGyLft72UjljUHc.|User-Agent=Samsung SM-N9000Q stagefright\/Beyonce\/1.1.9 (Linux;Android 5.0)
 #EXTINF:-1 tvg-name="FOX" tvg-id="id" group-title="Group Title" tvg-logo="https://www.canlitv.vin/kanallar/ogfox-tv.png",FOX
-https://black.tvizlehd.com/foxtv.m3u8?tkn=wkfm-EW5orw9TKkod5Od0g&tms=1645905126&hst=tr.canlitv.team|User-Agent=Mozilla/5.0 (Android 9\; Mobile\; rv:93.0) Gecko/93.0 Firefox/93.0
+https://foxtv.daioncdn.net/foxtv/foxtv.m3u8?ce=3&app=24e7a2e2-9156-4c02-a4fb-2bc599ffaf77&st=VPLZBqd0WGmDJd2To7vS4Q&e=1645990049|User-Agent=Samsung SM-N9000Q stagefright\/Beyonce\/1.1.9 (Linux;Android 5.0)
 #EXTINF:-1 tvg-name="Kral" tvg-id="id" group-title="Group Title" tvg-logo="https://i.ytimg.com/vi/88tf0H1ycDU/maxresdefault.jpg",Kral
-https://dogus.daioncdn.net/kraltv/kraltv_720p.m3u8?sid=45u9nklv23y4&app=998af748-29a7-480e-a343-52385fce91ff|User-Agent=Mozilla/5.0 (Android 9\; Mobile\; rv:93.0) Gecko/93.0 Firefox/93.0
+https://dogus.daioncdn.net/kraltv/kraltv_720p.m3u8?sid=45u9nklv23y4&app=998af748-29a7-480e-a343-52385fce91ff|User-Agent=User-Agent=Samsung SM-N9000Q stagefright\/Beyonce\/1.1.9 (Linux;Android 5.0)
 #EXTINF:-1 tvg-name="ShowMax" tvg-id="id" group-title="Group Title" tvg-logo="https://i.ytimg.com/vi/kuuB7Kk6pMI/maxresdefault.jpg",ShowMax
-https://antalya.tvizlehd.com/showmax.m3u8?tkn=aXoPDA7Z9MVLq_qG-1TSYw&tms=1645904801&hst=canlitvizle.com|User-Agent=Mozilla/5.0 (Android 9\; Mobile\; rv:93.0) Gecko/93.0 Firefox/93.0
+https://ciner-live.ercdn.net/showmax/showmax_720p.m3u8?e=1645987374&st=Yhc8Q3WEB9bZgyZUe020qQ&tv=1|User-Agent=User-Agent=Samsung SM-N9000Q stagefright\/Beyonce\/1.1.9 (Linux;Android 5.0)
 #EXTINF:-1 tvg-name="Show" tvg-id="id" group-title="Group Title" tvg-logo="https://i.ytimg.com/vi/rtMDAEQgyl8/maxresdefault.jpg",Show
-https://hasan.tvcag.live/mn-nl.mncdn.com/blutv_showtv2/live_540p1250000kbps/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMi8yMDE4IDEwOjExOjA2IFBNJmhhc2hfdmFsdWU9cGtzUElvZjBwOUFIcDZRenpxQmxLdz09JnZhbGlkbWludXRlcz01|User-Agent=Mozilla/5.0 (Android 9\; Mobile\; rv:93.0) Gecko/93.0 Firefox/93.0
+https://hasan.tvcag.live/mn-nl.mncdn.com/blutv_showtv2/live_540p1250000kbps/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMi8yMDE4IDEwOjExOjA2IFBNJmhhc2hfdmFsdWU9cGtzUElvZjBwOUFIcDZRenpxQmxLdz09JnZhbGlkbWludXRlcz01|User-Agent=Samsung SM-N9000Q stagefright\/Beyonce\/1.1.9 (Linux;Android 5.0)
 #EXTINF:-1 tvg-name="kralpop" tvg-id="id" group-title="Group Title" tvg-logo="https://i.ytimg.com/vi/dEHMR7Qpthw/maxresdefault_live.jpg",kralpop
-https://dogus.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8?sid=45u9e0koib5e&app=f38a38b4-ce55-4040-8676-9826937d6128|User-Agent=Mozilla/5.0 (Android 9\; Mobile\; rv:93.0) Gecko/93.0 Firefox/93.0
+https://dogus.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8?sid=45u9e0koib5e&app=f38a38b4-ce55-4040-8676-9826937d6128|User-Agent=Samsung SM-N9000Q stagefright\/Beyonce\/1.1.9 (Linux;Android 5.0)
 #EXTINF:-1 tvg-name="TV 360" tvg-id="id" group-title="Group Title" tvg-logo="https://www.canlitv.vin/kanallar/ogtv-360.png",TV 360
-https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8|User-Agent=Samsung SM-N9000Q stagefright\/Beyonce\/1.1.9 (Linux;Android 5.0)
 #EXTINF:-1 tvg-name="En Sevilen Kemal Sunal Filmleri canlı" tvg-id="id" group-title="Group Title" tvg-logo="https://i.ytimg.com/vi/PNIb2LNkXmg/maxresdefault.jpg",En Sevilen Kemal Sunal Filmleri #canlı
 plugin://plugin.video.smr_link_tester/?link=https%3A%2F%2Fyoutube.com%2Fv%2FPNIb2LNkXmg&amp;mode=play_link
 #EXTINF:-1 tvg-name="24 TV" tvg-id="id" group-title="Group Title" tvg-logo="https://i.ytimg.com/vi/MWAX4cSdrRM/hqdefault_live.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBQ5X1pQR88nm7qUZAMysraLIBcBw",24 TV
 plugin://plugin.video.smr_link_tester/?mode=play_link&amp;link=https%3A%2F%2Fwww.dailymotion.com%2Fvideo%2Fx648u9s
 #EXTINF:-1 tvg-name="teve2" tvg-id="id" group-title="Group Title" tvg-logo="https://www.canlitv.vin/kanallar/ogteve2.png",teve2
-https://izmir.tvizlehd.com/teve2.m3u8?tkn=FHobmSmvpGkebDxrAkaVnQ&tms=1645906503&hst=tr.canlitv.team|User-Agent=Mozilla/5.0 (Android 9\; Mobile\; rv:93.0) Gecko/93.0 Firefox/93.0
+https://mn-nl.mncdn.com/blutv_teve22/live.m3u8|User-Agent=Samsung SM-N9000Q stagefright\/Beyonce\/1.1.9 (Linux;Android 5.0)
 #EXTINF:-1 tvg-name="Euro Star" tvg-id="id" group-title="Group Title" tvg-logo="http://www.eurostartv.com.tr/Content/img/logo.png",EuroStar
 plugin://plugin.video.smr_link_tester/?mode=play_link&amp;link=https%3A%2F%2Fwww.dailymotion.com%2Fvideo%2Fx729whv
 #EXTINF:-1 tvg-name="ATV Avrupa" tvg-id="id" group-title="Group Title" tvg-logo="https://i.tmgrup.com.tr/aav/site/v2/i/imaj_atvavrupa_yeni.jpg",ATV-Avrupa
-https://black.tvizlehd.com/atvavrupa.m3u8?tkn=_zHXSUjvZnG1DOgdL7UWnA&tms=1645904896&hst=canlitvizle.com|User-Agent=Mozilla/5.0 (Android 9\; Mobile\; rv:93.0) Gecko/93.0 Firefox/93.0
+https://trkvz-live.ercdn.net/atvavrupa/atvavrupa_576p.m3u8?st=Fsd_49EiSr1GsD-QaNUUdQ&e=1646025548&SessionID=1.2.1665594224.1645980343&StreamGroup=canli-yayin&Site=atvavrupa&DeviceGroup=web|User-Agent=Samsung SM-N9000Q stagefright\/Beyonce\/1.1.9 (Linux;Android 5.0)
 #EXTINF:-1 tvg-name="CNN Türk" tvg-id="id" group-title="Group Title" tvg-logo="https://s.cnnturk.com//assets/dist/img/logo.svg",CNN Türk
 plugin://plugin.video.smr_link_tester/?mode=play_link&amp;link=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DX_EWYemclKA
 #EXTINF:-1 tvg-name="DMAX" tvg-id="id" group-title="Group Title" tvg-logo="https://i.ytimg.com/vi/xM60UTbAIH8/maxresdefault_live.jpg",DMAX
-https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMi8yMDE4IDEwOjExOjA2IFBNJmhhc2hfdmFsdWU9cGtzUElvZjBwOUFIcDZRenpxQmxLdz09JnZhbGlkbWludXRlcz01|User-Agent=Mozilla/5.0 (Android 9\; Mobile\; rv:93.0) Gecko/93.0 Firefox/93.0
+https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMi8yMDE4IDEwOjExOjA2IFBNJmhhc2hfdmFsdWU9cGtzUElvZjBwOUFIcDZRenpxQmxLdz09JnZhbGlkbWludXRlcz01|User-Agent=Samsung SM-N9000Q stagefright\/Beyonce\/1.1.9 (Linux;Android 5.0) Gecko/93.0 Firefox/93.0
 #EXTINF:-1 tvg-name="Dream Türk" tvg-id="id" group-title="Group Title" tvg-logo="https://s.dreamturk.com.tr/assets/dist/images/dream-turk-logoV2.png",Dream-Türk
-https://live.duhnet.tv//S2/HLS_LIVE/dreamturknp/track_4_1000/playlist.m3u8?key=7763e4ac1e460d9913ada7b279c8af81&live=true&app=com.dreamturk|User-Agent=Mozilla/5.0 (Android 9\; Mobile\; rv:93.0) Gecko/93.0 Firefox/93.0
+https://mn-nl.mncdn.com/blutv_dreamturk2/live_720p2000000kbps/index.m3u8|User-Agent=Samsung SM-N9000Q stagefright\/Beyonce\/1.1.9 (Linux;Android 5.0)
+
