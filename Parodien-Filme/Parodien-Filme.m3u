@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Schrei Wenn Du Weisst, Was Ich Letzten Freitag Den 13. Getan Habe" tvg-id="id" group-title="Group Title",Schrei Wenn Du Weisst, Was Ich Letzten Freitag Den 13. Getan Habe
+plugin://plugin.video.smr_link_tester/?mode=play_link&amp;link=https%3A%2F%2Fyoutube.com%2Fwatch?v=krD2pARaEvI
+#EXTINF:-1 tvg-name="Die Beilight Saga: Breaking Wind - Bis(s) einer heult" tvg-id="id" group-title="Group Title",Die Beilight Saga: Breaking Wind - Bis(s) einer heult
+plugin://plugin.video.smr_link_tester/?mode=play_link&amp;link=https%3A%2F%2Fvoe.sx%2Fe%2Faespkrtiw3ql
+#EXTINF:-1 tvg-name="Ghost Movie (2013)" tvg-id="id" group-title="Group Title",Ghost Movie (2013) 
+plugin://plugin.video.smr_link_tester/?mode=play_link&amp;link=https%3A%2F%2Fvoe.sx%2Fe%2Fuwd5r99lkod3
+#EXTINF:-1 tvg-name="Ghost Movie 2 (2014)" tvg-id="id" group-title="Group Title",Ghost Movie 2 (2014) 
+plugin://plugin.video.smr_link_tester/?mode=play_link&amp;link=https%3A%2F%2Fvoe.sx%2Fe%2Fq3w0tgk26jm0
+#EXTINF:-1 tvg-name="Sehr verdächtig" tvg-id="id" group-title="Group Title",Sehr verdächtig 
+plugin://plugin.video.smr_link_tester/?mode=play_link&amp;link=https%3A%2F%2Fvoe.sx%2Fe%2Fiyjsziw3dg0a
+#EXTINF:-1 tvg-name="Hip Hop Hood – Im Viertel ist die Hölle los" tvg-id="id" group-title="Group Title",Hip Hop Hood – Im Viertel ist die Hölle los 
+plugin://plugin.video.smr_link_tester/?mode=play_link&amp;link=https%3A%2F%2Fvoe.sx%2Fe%2F8sd8y14zso3h
+#EXTINF:-1 tvg-name="Hell Baby" tvg-id="id" group-title="Group Title",Hell Baby 
+plugin://plugin.video.smr_link_tester/?mode=play_link&amp;link=https%3A%2F%2Fvoe.sx%2Fe%2F7okxk94mjuj0
+
+
+
+
