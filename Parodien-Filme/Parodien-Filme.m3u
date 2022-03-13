@@ -23,6 +23,8 @@ plugin://plugin.video.smr_link_tester/?mode=play_link&amp;link=https%3A%2F%2Fvoe
 plugin://plugin.video.smr_link_tester/?mode=play_link&amp;link=https%3A%2F%2Fvoe.sx%2Fe%2Fgxxjx03qephk
 #EXTINF:-1 tvg-name="Undercover Brother" tvg-id="id" group-title="Group Title",Undercover Brother
 plugin://plugin.video.smr_link_tester/?mode=play_link&amp;link=https%3A%2F%2Fvoe.sx%2Fe%2Fybcqgi0j46ky
+#EXTINF:-1 tvg-name="Auf Kriegsfuß mit Major Payne" tvg-id="id" group-title="Group Title",Auf Kriegsfuß mit Major Payne
+plugin://plugin.video.smr_link_tester/?mode=play_link&amp;link=https%3A%2F%2Fvoe.sx%2Fe%2F20frtwi150kd
 
 
 
