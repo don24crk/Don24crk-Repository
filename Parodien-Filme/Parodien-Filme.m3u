@@ -19,6 +19,10 @@ plugin://plugin.video.smr_link_tester/?mode=play_link&amp;link=https%3A%2F%2Fvoe
 plugin://plugin.video.smr_link_tester/?mode=play_link&amp;link=https%3A%2F%2Fvoe.sx%2Fe%2Fi30vgx3h4gpi
 #EXTINF:-1 tvg-name="Ted 2" tvg-id="id" group-title="Group Title",Ted 2
 plugin://plugin.video.smr_link_tester/?mode=play_link&amp;link=https%3A%2F%2Fvoe.sx%2Fe%2F4a1ypgp3nvsn
+#EXTINF:-1 tvg-name="Little Man" tvg-id="id" group-title="Group Title",Little Man
+plugin://plugin.video.smr_link_tester/?mode=play_link&amp;link=https%3A%2F%2Fvoe.sx%2Fe%2Fgxxjx03qephk
+#EXTINF:-1 tvg-name="Undercover Brother" tvg-id="id" group-title="Group Title",Undercover Brother
+plugin://plugin.video.smr_link_tester/?mode=play_link&amp;link=https%3A%2F%2Fvoe.sx%2Fe%2Fybcqgi0j46ky
 
 
 
