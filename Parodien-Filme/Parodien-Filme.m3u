@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Schrei Wenn Du Weisst, Was Ich Letzten Freitag Den 13. Getan Habe" tvg-id="id" group-title="Group Title",Schrei Wenn Du Weisst, Was Ich Letzten Freitag Den 13. Getan Habe
+#EXTINF:-1 tvg-name="Schrei Wenn Du Weisst Was Ich Letzten Freitag Den 13 Getan Habe" tvg-id="id" group-title="Group Title",Schrei Wenn Du Weisst Was Ich Letzten Freitag Den 13 Getan Habe
 plugin://plugin.video.smr_link_tester/?mode=play_link&amp;link=https%3A%2F%2Fyoutube.com%2Fwatch?v=krD2pARaEvI
 #EXTINF:-1 tvg-name="Die Beilight Saga: Breaking Wind - Bis(s) einer heult" tvg-id="id" group-title="Group Title",Die Beilight Saga: Breaking Wind - Bis(s) einer heult
 plugin://plugin.video.smr_link_tester/?mode=play_link&amp;link=https%3A%2F%2Fvoe.sx%2Fe%2Faespkrtiw3ql
@@ -13,6 +13,12 @@ plugin://plugin.video.smr_link_tester/?mode=play_link&amp;link=https%3A%2F%2Fvoe
 plugin://plugin.video.smr_link_tester/?mode=play_link&amp;link=https%3A%2F%2Fvoe.sx%2Fe%2F8sd8y14zso3h
 #EXTINF:-1 tvg-name="Hell Baby" tvg-id="id" group-title="Group Title",Hell Baby 
 plugin://plugin.video.smr_link_tester/?mode=play_link&amp;link=https%3A%2F%2Fvoe.sx%2Fe%2F7okxk94mjuj0
+#EXTINF:-1 tvg-name="Scary Movie" tvg-id="id" group-title="Group Title",Scary Movie
+plugin://plugin.video.smr_link_tester/?mode=play_link&amp;link=https%3A%2F%2Fvoe.sx%2Fe%2Fz3c2mvdvgix6
+#EXTINF:-1 tvg-name="Ted" tvg-id="id" group-title="Group Title",Ted
+plugin://plugin.video.smr_link_tester/?mode=play_link&amp;link=https%3A%2F%2Fvoe.sx%2Fe%2Fi30vgx3h4gpi
+#EXTINF:-1 tvg-name="Ted 2" tvg-id="id" group-title="Group Title",Ted 2
+plugin://plugin.video.smr_link_tester/?mode=play_link&amp;link=https%3A%2F%2Fvoe.sx%2Fe%2F4a1ypgp3nvsn
 
 
 
