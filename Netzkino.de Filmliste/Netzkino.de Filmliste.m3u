@@ -91,3 +91,5 @@ https://pmd.netzkino-seite.netzkino.de/Lighthouse/DopeUnder_-_Kleine_Deals_Downu
 https://pmd.netzkino-seite.netzkino.de/Alamode_flat/Meine_Beste_Freundin_ihre_Schwester_und_ich.mp4|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 #EXTINF:-1 tvg-name="Sterben will gelernt sein",Sterben will gelernt sein
 https://pmd.netzkino-seite.netzkino.de/Sony_Pictures_MG/Sterben_will_gelernt_sein.mp4|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+#EXTINF:-1 tvg-name="Moonwalker(1989)",Moonwalker(1989)
+plugin://plugin.video.smr_link_tester/?mode=play_link&amp;link=https%3A%2F%2Fvoe.sx%2Fe%2F1llu4b09w26n
