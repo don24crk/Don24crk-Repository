@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="TCM 3 Leatherface",TCM 3 Leatherface
+plugin://plugin.video.smr_link_tester/?mode=play_link&amp;link=https%3A%2F%2Fvoe.sx%2Fnbsgs6pub0t4
+#EXTINF:-1 tvg-name="Fear Wenn Liebe Angst macht",Fear Wenn Liebe Angst macht
+plugin://plugin.video.smr_link_tester/?mode=play_link&amp;link=https%3A%2F%2Fvoe.sx%2Fsbojgatb97g9
+#EXTINF:-1 tvg-name="Halloween 6",Halloween 6
+plugin://plugin.video.smr_link_tester/?mode=play_link&amp;link=https%3A%2F%2Fvoe.sx%2F7pxzg829teer
+#EXTINF:-1 tvg-name="Halloween Kills",Halloween Kills
+plugin://plugin.video.smr_link_tester/?mode=play_link&amp;link=https%3A%2F%2Fvoe.sx%2Fdazldafvw863
+#EXTINF:-1 tvg-name="Halloween Ressurection",Halloween Ressurection
+plugin://plugin.video.smr_link_tester/?mode=play_link&amp;link=https%3A%2F%2Fvoe.sx%2F00c1hkifu8yt
+#EXTINF:-1 tvg-name="Stephen Kings Es (1990) BDrip H 264",Stephen Kings Es (1990) BDrip H 264
+plugin://plugin.video.smr_link_tester/?mode=play_link&amp;link=https%3A%2F%2Fvoe.sx%2Feuij81f59l2h
+#EXTINF:-1 tvg-name="Texas Chainsaw Massacre (2022) BDrip",Texas Chainsaw Massacre (2022) BDrip
+plugin://plugin.video.smr_link_tester/?mode=play_link&amp;link=https%3A%2F%2Fvoe.sx%2F5i19xyu3f4e5
