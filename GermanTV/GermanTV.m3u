@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Tele5",Tele5
+plugin://plugin.video.tele5_de/live
+#EXTINF:-1 tvg-name="MTV",MTV
+https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/mtvg18ef/master/master_3000.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+#EXTINF:-1 tvg-name="ARD",ARD
+https://mcdn.daserste.de/daserste/de/master_1280p_3328.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+#EXTINF:-1 tvg-name="ZDF",ZDF
+https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+#EXTINF:-1 tvg-name="Pro7",Pro7
+https://s6.hopslan.com/pro7v/tracks-v1a1/mono.m3u8?token=ecfea49d1cf0e32abe7dbf563e41b1460c540794-8663051071ca1c881b9c475fe179cee4-1651616348-1651605548|User-Agent=Samsung SM-N9000Q stagefright\/Beyonce\/1.1.9 (Linux;Android 5.0)
+#EXTINF:-1 tvg-name="Sat1",Sat1
+https://s6.hopslan.com/sat1v/tracks-v1a1/mono.m3u8?token=b3cf4d57971fb3ae85cfd42239b4bb6d9707bf76-fd0085b7a71135ecebcf98f2f4f20db4-1651615232-1651604432|User-Agent=Samsung SM-N9000Q stagefright\/Beyonce\/1.1.9 (Linux;Android 5.0)
+#EXTINF:-1 tvg-name="Kabel1",Kabel1
+https://s6.hopslan.com/kabel1v/tracks-v1a1/mono.m3u8?token=5dcf1c54f58eb59f132409cacd477bc3565fc34e-70781c7e473978905d86d6db6e6d1258-1651615306-1651604506|User-Agent=Samsung SM-N9000Q stagefright\/Beyonce\/1.1.9 (Linux;Android 5.0)
+#EXTINF:-1 tvg-name="DMAX",DMAX
+https://s6.hopslan.com/dmaxv/tracks-v1a1/mono.m3u8?token=cbfd79799f16776f72fe4d117325c4d6544cde3b-a302989a226cdffe1c4c187696c260b1-1651615353-1651604553|User-Agent=Samsung SM-N9000Q stagefright\/Beyonce\/1.1.9 (Linux;Android 5.0)
+#EXTINF:-1 tvg-name="Pro7maxx",Pro7maxx
+https://s6.hopslan.com/pro7maxxv/tracks-v1a1/mono.m3u8?token=a5441cd820876ef0cca6668d5ecdeec1b9bcdffe-9cfd47ffe42c2ba8135667086096ff3c-1651615385-1651604585|User-Agent=Samsung SM-N9000Q stagefright\/Beyonce\/1.1.9 (Linux;Android 5.0)
+#EXTINF:-1 tvg-name="Sixx",Sixx
+https://s6.hopslan.com/sixxc/tracks-v1a1/mono.m3u8?token=e8bd14442905904f4d438032e80d412c343b80c9-e974df03da3c78b2e995909c78095e94-1651615498-1651604698|User-Agent=Samsung SM-N9000Q stagefright\/Beyonce\/1.1.9 (Linux;Android 5.0)
+#EXTINF:-1 tvg-name="Comedy Central",Comedy Central
+https://s6.hopslan.com/vivac/tracks-v1a1/mono.m3u8?token=ad4282891e04febc6683fbc0655851bc6203f970-c22da07fa3fc93b1b781957747401b26-1651615718-1651604918|User-Agent=Samsung SM-N9000Q stagefright\/Beyonce\/1.1.9 (Linux;Android 5.0)
+#EXTINF:-1 tvg-name="Sat1 Gold",Sat1 Gold
+https://s6.hopslan.com/goldc/tracks-v1a1/mono.m3u8?token=b0e1011f2d5f5a40de06fa80e6e73623dbed2769-56b85c8cee30127b80045d51a959386a-1651615758-1651604958|User-Agent=Samsung SM-N9000Q stagefright\/Beyonce\/1.1.9 (Linux;Android 5.0)
+#EXTINF:-1 tvg-name="Kabel1 Doku",Kabel1 Doku
+https://s6.hopslan.com/doku/tracks-v1a1/mono.m3u8?token=d2700324b2a2e44658be749a517476c9aa01ef2f-3acbd44d0a2b1e6e6ae79d49a1ce2b6a-1651615797-1651604997|User-Agent=Samsung SM-N9000Q stagefright\/Beyonce\/1.1.9 (Linux;Android 5.0)
+#EXTINF:-1 tvg-name="3 Sat",3 Sat
+https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8|User-Agent=Samsung SM-N9000Q stagefright\/Beyonce\/1.1.9 (Linux;Android 5.0)
+#EXTINF:-1 tvg-name="TLC",TLC
+https://s6.hopslan.com/tlc/tracks-v1a1/mono.m3u8?token=d82c568f785590e7b656acb50b10e3099344dc10-bf61bb84505edce50d331709d64ade2d-1651615829-1651605029|User-Agent=Samsung SM-N9000Q stagefright\/Beyonce\/1.1.9 (Linux;Android 5.0)
+#EXTINF:-1 tvg-name="N24 Doku",N24 Doku
+https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/master.m3u8|User-Agent=Samsung SM-N9000Q stagefright\/Beyonce\/1.1.9 (Linux;Android 5.0)
+#EXTINF:-1 tvg-name="Tagesschau",Tagesschau
+https://tagesschau.akamaized.net/hls/live/2020117/tagesschau/tagesschau_3/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+#EXTINF:-1 tvg-name="Kika",Kika
+https://kikageohls.akamaized.net/hls/live/2022693-b/livetvkika_de/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+#EXTINF:-1 tvg-name="Nick",Nick
+https://s6.hopslan.com/nick/tracks-v1a1/mono.m3u8?token=e1d7675971756c5e85536b53eaf0c40101760d7c-a7c815ae0641dc288b76b4e3d80199da-1651615869-1651605069|User-Agent=Samsung SM-N9000Q stagefright\/Beyonce\/1.1.9 (Linux;Android 5.0)
+#EXTINF:-1 tvg-name="WDR",WDR
+https://wdrfsww247.akamaized.net/hls/live/2009628/wdr_msl4_fs247ww/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+#EXTINF:-1 tvg-name="VOX",VOX
+https://s6.hopslan.com/voxv/tracks-v1a1/mono.m3u8?token=6eeabb635190fc47b60cd4948b80390991f4fcc5-8ef13b7f2c8426a474ec4f3a0f5dcf22-1651615900-1651605100|User-Agent=Samsung SM-N9000Q stagefright\/Beyonce\/1.1.9 (Linux;Android 5.0)
+#EXTINF:-1 tvg-name="RTL",RTL
+https://s6.hopslan.com/rtlv/tracks-v1a1/mono.m3u8?token=54af4bb88daff58da5f3d89406cc613ba4db4423-e7354e2c8a81cf16d3357abdf3db9a3f-1651615928-1651605128|User-Agent=Samsung SM-N9000Q stagefright\/Beyonce\/1.1.9 (Linux;Android 5.0)
+#EXTINF:-1 tvg-name="RTL2",RTL2
+https://s6.hopslan.com/rtl2v/tracks-v1a1/mono.m3u8?token=dc477067dd67b359a33f45513285f969f51d53aa-54a11a310828ce55e8be0edcf1db94a7-1651615949-1651605149|User-Agent=Samsung SM-N9000Q stagefright\/Beyonce\/1.1.9 (Linux;Android 5.0)
+#EXTINF:-1 tvg-name="SUPERRTL",SUPERRTL
+https://s6.hopslan.com/superc/tracks-v1a1/mono.m3u8?token=c1fe90338c8518b0073b7275c74c36248c91fdde-a55c2070271acca143d5ce95257460c8-1651615998-1651605198|User-Agent=Samsung SM-N9000Q stagefright\/Beyonce\/1.1.9 (Linux;Android 5.0)
+#EXTINF:-1 tvg-name="RTLNITRO",RTLNITRO
+https://s6.hopslan.com/nitrov/tracks-v1a1/mono.m3u8?token=de6a72da3f928f40377c2012906a2f7a5371ab72-51b5965d1c23caef569650503d2e2035-1651616023-1651605223|User-Agent=Samsung SM-N9000Q stagefright\/Beyonce\/1.1.9 (Linux;Android 5.0)
+#EXTINF:-1 tvg-name="Arte",Arte
+https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
