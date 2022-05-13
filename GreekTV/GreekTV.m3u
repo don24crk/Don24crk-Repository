@@ -4,21 +4,21 @@ http://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8|User-Age
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Ert1" tvg-logo="https://i.imgur.com/slE8U5m.png",Ert1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://s2.cystream.net/live/ert1/chunks.m3u8?nimblesessionid=8734154&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMy8yMDIyIDM6NDM6MjUgUE0maGFzaF92YWx1ZT0xcVBJR21nelVZSHArYlNyRTNwQ0F3PT0mdmFsaWRtaW51dGVzPTIw|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:96.0) 6.0 flowplayerhls/7.2.7
+https://streamcdnr33-ab09fbb9b38043f78ef1e1884b2f8013.msvdn.net/ert/main/mainabr/main/main_1080/chunks_dvr.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:96.0) 6.0 flowplayerhls/7.2.7
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Ert2" tvg-logo="https://i.imgur.com/slE8U5m.png",Ert2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://s2.cystream.net/live/ert2/chunks.m3u8?nimblesessionid=8734177&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMy8yMDIyIDM6NDQ6MTcgUE0maGFzaF92YWx1ZT0ra2N0TlRZRVMxS0I5WFFpK0tYMTNBPT0mdmFsaWRtaW51dGVzPTIw|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:96.0) 6.0 flowplayerhls/7.2.7
+http://ert-live-bcbs15228.siliconweb.com/media/ert_2/ert_2.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:96.0) 6.0 flowplayerhls/7.2.7
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Ert3" tvg-logo="https://i.imgur.com/rv4JLBO.png",Ert3
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://s2.cystream.net/live/ert3/chunks.m3u8?nimblesessionid=8734194&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMy8yMDIyIDM6NDQ6NTQgUE0maGFzaF92YWx1ZT1FZWhSNERSbk1sekZxRjJLeDkyN1dnPT0mdmFsaWRtaW51dGVzPTIw|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:96.0) 6.0 flowplayerhls/7.2.7
+http://ert-live-bcbs15228.siliconweb.com/media/ert_3/ert_3.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:96.0) 6.0 flowplayerhls/7.2.7
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert news" tvg-logo="https://i.imgur.com/rv4JLBO.png",ert news
 https://ert-live-bcbs15228.siliconweb.com/media/ert_news/ert_news.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:96.0) 6.0
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="AlphaTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Alpha_TV_logo.jpg/480px-Alpha_TV_logo.jpg",AlphaTV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://s2.cystream.net/live/alphagr/chunks.m3u8?nimblesessionid=8734234&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMy8yMDIyIDM6NDc6MzEgUE0maGFzaF92YWx1ZT01cTMrazlwaTJRNi9MYWw0V3pKOFdRPT0mdmFsaWRtaW51dGVzPTIw|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:96.0) 6.0 flowplayerhls/7.2.7
+https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/f1yvzq9v/2728/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:96.0) 6.0 flowplayerhls/7.2.7
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Ant1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/ANT1_Greek_channel_logo.svg/1200px-ANT1_Greek_channel_logo.svg.png",Ant1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -26,11 +26,11 @@ http://95.107.132.106/out/u/atsykmssuyrsyhth.m3u8|User-Agent=Mozilla/5.0 (X11; L
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="StarHD" tvg-logo="https://i.pinimg.com/originals/78/f1/00/78f100039f831199c6c06906b0b37a16.png",Star
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://s2.cystream.net/galanos/star/chunks.m3u8?nimblesessionid=8734257&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMy8yMDIyIDM6NTA6MTYgUE0maGFzaF92YWx1ZT11RERWd01PWTNjbzNOcnNpZVJaRXRBPT0mdmFsaWRtaW51dGVzPTIw|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:96.0) 6.0 flowplayerhls/7.2.7
+https://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:96.0) 6.0 flowplayerhls/7.2.7
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="SkaiTV" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/gr-skai-tv-5267-768x576.jpg",Skai
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://s2.cystream.net/galanos/skai/chunks.m3u8?nimblesessionid=8734266&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMy8yMDIyIDM6NTE6MjkgUE0maGFzaF92YWx1ZT00YVp0VVdibmhVNzJiSHdib0dCdmp3PT0mdmFsaWRtaW51dGVzPTIw|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:96.0) 6.0 flowplayerhls/7.2.7
+https://skai-live.siliconweb.com/media/cambria4/index_bitrate2000K.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:96.0) 6.0 flowplayerhls/7.2.7
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="SigmaTV" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/cy-sigma-tv-3358.jpg",Sigma
 https://sl2.sigmatv.com/hls/live.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="OpenTV" tvg-logo="https://s.tvopen.gr/images/OPEN_BEYOND_Avra.png",OpenTV
