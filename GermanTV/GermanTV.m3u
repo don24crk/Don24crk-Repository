@@ -1,87 +1,55 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Tele5",Tele5
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://wu.wukongtv.ga/TELE5/video.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:96.0) 6.0 flowplayerhls/7.2.7
+#EXTINF:-1 tvg-name="TELE5",TELE5
+https://s6.hopslan.com:443/tele5c/index.m3u8?token=26bc7b4360e5d205e5e4c6414ea27c2c70ab616a-c2744aa7ec1b04ee6fb8c4bfee979cb7-1653001976-1652991176|User-Agent=VLC
 #EXTINF:-1 tvg-name="MTV",MTV
-https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/mtvg18ef/master/master_3000.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/mtvg18ef/master/mtvg18ef.m3u8|User-Agent=VLC
 #EXTINF:-1 tvg-name="ARD",ARD
-https://mcdn.daserste.de/daserste/de/master_1280p_3328.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+https://mcdn.daserste.de/daserste/de/master_1280p_3328.m3u8|User-Agent=VLC
 #EXTINF:-1 tvg-name="ZDF",ZDF
-https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8|User-Agent=VLC
 #EXTINF:-1 tvg-name="Pro7",Pro7
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://wu.wukongtv.ga/PROSIEBEN/video.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:96.0) 6.0 flowplayerhls/7.2.7
+https://data.fernsehzone.com/2ix2play.m3u8?sender=pro7|User-Agent=VLC
 #EXTINF:-1 tvg-name="Sat1",Sat1
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://data.fernsehzone.com/2ix2play.m3u8?sender=sat1|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:96.0) 6.0 flowplayerhls/7.2.7
+https://data.fernsehzone.com/2ix2play.m3u8?sender=sat1|User-Agent=VLC
 #EXTINF:-1 tvg-name="Kabel1",Kabel1
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://wu.wukongtv.ga/KABEL1/video.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:96.0) 6.0 flowplayerhls/7.2.7
+https://wu.wukongtv.ga/KABEL1/video.m3u8|User-Agent=VLC
 #EXTINF:-1 tvg-name="DMAX",DMAX
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://wu.wukongtv.ga/DMAX/video.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:96.0) 6.0 flowplayerhls/7.2.7
+https://s6.hopslan.com/dmaxb/index.m3u8|User-Agent=VLC
 #EXTINF:-1 tvg-name="Pro7maxx",Pro7maxx
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://wu.wukongtv.ga/PROSIEBENMAXX/video.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:96.0) 6.0 flowplayerhls/7.2.7
+https://wu.wukongtv.ga/PROSIEBENMAXX/video.m3u8|User-Agent=VLC
 #EXTINF:-1 tvg-name="Sixx",Sixx
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
 plugin://plugin.video.zappntv/category/livestream/sixx_de
 #EXTINF:-1 tvg-name="Comedy Central",Comedy Central
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://wu.wukongtv.ga/COMEDYCENTRAL/video.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:96.0) 6.0 flowplayerhls/7.2.7
+https://wu.wukongtv.ga/COMEDYCENTRAL/video.m3u8|User-Agent=VLC
 #EXTINF:-1 tvg-name="Sat1 Gold",Sat1 Gold
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://wu.wukongtv.ga/SAT1GOLD/video.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:96.0) 6.0 flowplayerhls/7.2.7
+https://wu.wukongtv.ga/SAT1GOLD/video.m3u8|User-Agent=VLC
 #EXTINF:-1 tvg-name="Kabel1 Doku",Kabel1 Doku
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
 plugin://plugin.video.zappntv/category/livestream/kabeleinsdoku_de
 #EXTINF:-1 tvg-name="3 Sat",3 Sat
-https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:96.0) 6.0
+https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8|User-Agent=VLC
 #EXTINF:-1 tvg-name="TLC",TLC
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://s6.hopslan.com/tlc/index.m3u8?token=32f9f4cb71ef21c7a387ae7084255307b3125c74-bcb107a68366941848aa6ad463f1c0b5-1652466293-1652455493|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:96.0) 6.0 flowplayerhls/7.2.7
+https://s6.hopslan.com/tlc/index.m3u8?token=32f9f4cb71ef21c7a387ae7084255307b3125c74-bcb107a68366941848aa6ad463f1c0b5-1652466293-1652455493|User-Agent=VLC
 #EXTINF:-1 tvg-name="N24 Doku",N24 Doku
-https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/master.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:96.0) 6.0
+https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/master.m3u8|User-Agent=VLC
 #EXTINF:-1 tvg-name="Tagesschau",Tagesschau
-https://tagesschau.akamaized.net/hls/live/2020117/tagesschau/tagesschau_3/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+https://tagesschau.akamaized.net/hls/live/2020117/tagesschau/tagesschau_3/master.m3u8|User-Agent=VLC
 #EXTINF:-1 tvg-name="Kika",Kika
-https://kikageohls.akamaized.net/hls/live/2022693-b/livetvkika_de/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
-#EXTINF:-1 tvg-name="Comedy Central+",Comedy Central+
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/nick1999/master/master_3000.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:96.0) 6.0 flowplayerhls/7.2.7
+https://kikageohls.akamaized.net/hls/live/2022693-b/livetvkika_de/master.m3u8|User-Agent=VLC
+#EXTINF:-1 tvg-name="Nick",Nick
+https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/nick1999/master/master_3000.m3u8|User-Agent=VLC
 #EXTINF:-1 tvg-name="WDR",WDR
-https://wdrfsww247.akamaized.net/hls/live/2009628/wdr_msl4_fs247ww/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+https://wdrfsww247.akamaized.net/hls/live/2009628/wdr_msl4_fs247ww/master.m3u8|User-Agent=VLC
 #EXTINF:-1 tvg-name="VOX",VOX
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://s6.hopslan.com/voxv/index.m3u8?token=d2eb3c8281fa9cb0f24535d0fe3849cbf3b8fa35-59ca1e5703226e297eddf54ffdd410a3-1652460163-1652449363|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:96.0) 6.0 flowplayerhls/7.2.7
+https://data.fernsehzone.com/2ix2play.m3u8?sender=vox|User-Agent=VLC
 #EXTINF:-1 tvg-name="RTL",RTL
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://wu.wukongtv.ga/RTL/video.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:96.0) 6.0 flowplayerhls/7.2.7
+https://wu.wukongtv.ga/RTL/video.m3u8|User-Agent=VLC
 #EXTINF:-1 group-title="TV" tvg-id="RTL2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/RTL_2_2022.png",RTL2
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://wu.wukongtv.ga/RTL2/video.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:96.0) 6.0 flowplayerhls/7.2.7
+https://wu.wukongtv.ga/RTL2/video.m3u8|User-Agent=VLC
 #EXTINF:-1 tvg-name="SUPERRTL",SUPERRTL
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://wu.wukongtv.ga/SUPERRTL/video.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:96.0) 6.0 flowplayerhls/7.2.7
+https://wu.wukongtv.ga/SUPERRTL/video.m3u8|User-Agent=VLC
 #EXTINF:-1 tvg-name="RTLNITRO",RTLNITRO
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://wu.wukongtv.ga/NITRO/video.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:96.0) 6.0 flowplayerhls/7.2.7
+https://s6.hopslan.com:443/nitrov/index.m3u8?token=9cc788341ec08fc746d1c5a21f5bab56339d1f23-7dd6cebab60e822f57106ecf8582d430-1653001977-1652991177|User-Agent=VLC
 #EXTINF:-1 tvg-name="Arte",Arte
-https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8|User-Agent=VLC
+#EXTINF:-1 tvg-name="Welt der Wunder",Welt der Wunder
+https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8|User-Agent=VLC
