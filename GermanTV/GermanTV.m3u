@@ -13,9 +13,13 @@ https://data.fernsehzone.com/2ix2play.m3u8?sender=pro7|User-Agent=VLC
 https://data.fernsehzone.com/2ix2play.m3u8?sender=sat1|User-Agent=VLC
 #EXTINF:-1 tvg-name="Kabel1",Kabel1
 https://wu.wukongtv.ga/KABEL1/video.m3u8|User-Agent=VLC
-#EXTINF:-1 tvg-name="DMAX",DMAX
-https://s6.hopslan.com/dmaxb/index.m3u8|User-Agent=VLC
-#EXTINF:-1 tvg-name="Pro7maxx",Pro7maxx
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.program_number=2154
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#EXTINF:-1,DMAX
+https://s6.hopslan.com/dmaxb/index.m3u8
+#EXTINF:-1 tvg-name="pro7maxx",pro7maxx
 https://wu.wukongtv.ga/PROSIEBENMAXX/video.m3u8|User-Agent=VLC
 #EXTINF:-1 tvg-name="Sixx",Sixx
 plugin://plugin.video.zappntv/category/livestream/sixx_de
@@ -44,7 +48,7 @@ https://data.fernsehzone.com/2ix2play.m3u8?sender=vox|User-Agent=VLC
 #EXTINF:-1 tvg-name="RTL",RTL
 https://wu.wukongtv.ga/RTL/video.m3u8|User-Agent=VLC
 #EXTINF:-1 group-title="TV" tvg-id="RTL2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/RTL_2_2022.png",RTL2
-https://wu.wukongtv.ga/RTL2/video.m3u8|User-Agent=VLC
+https://s6.hopslan.com:443/rtl2g1/index.m3u8?token=ce7fedc8783c27291ac74bce5d0406ef536ede10-afd906998da88fc79a36c0297b92be01-1653155271-1653144471|User-Agent=VLC
 #EXTINF:-1 tvg-name="SUPERRTL",SUPERRTL
 https://wu.wukongtv.ga/SUPERRTL/video.m3u8|User-Agent=VLC
 #EXTINF:-1 tvg-name="RTLNITRO",RTLNITRO
