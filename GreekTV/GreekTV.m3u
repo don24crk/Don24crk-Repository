@@ -1,38 +1,28 @@
 #EXTM3U
+#EXTINF:-1,Ert1
+https://s2.cystream.net/live/ert1/chunks.m3u8?nimblesessionid=8843449&wmsAuthSign=c2VydmVyX3RpbWU9NS8yMS8yMDIyIDg6MTY6MDIgUE0maGFzaF92YWx1ZT1kR0tGS3lYQkJ0QVVzTkxNT0ViQW93PT0mdmFsaWRtaW51dGVzPTIw|User-Agent=http://vjs.zencdn.net/4.12/video.js
+#EXTINF:-1,Ert2
+https://s2.cystream.net/live/ert2/chunks.m3u8?nimblesessionid=8843501&wmsAuthSign=c2VydmVyX3RpbWU9NS8yMS8yMDIyIDg6MTg6MzAgUE0maGFzaF92YWx1ZT1rNnRzVzFTRGtQOHJhN2tHbEt2MDRnPT0mdmFsaWRtaW51dGVzPTIw|User-Agent=http://vjs.zencdn.net/4.12/video.js
+#EXTINF:-1,Ert3
+https://s2.cystream.net/live/ert3/chunks.m3u8?nimblesessionid=8843531&wmsAuthSign=c2VydmVyX3RpbWU9NS8yMS8yMDIyIDg6MTk6NDYgUE0maGFzaF92YWx1ZT01R3VXV2RBQUNuUW9GNndiZ1UvaEx3PT0mdmFsaWRtaW51dGVzPTIw|User-Agent=http://vjs.zencdn.net/4.12/video.js
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ErtWorld" tvg-logo="https://www.infosat.de/sites/default/files/news/ERT-World-Logo-2021_655440_0.jpg",ErtWorld
 http://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8|User-Agent=VLC
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert news" tvg-logo="https://i.imgur.com/rv4JLBO.png",ert news
 https://ert-live-bcbs15228.siliconweb.com/media/ert_news/ert_news.m3u8|User-Agent=VLC
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.program_number=2154
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #EXTINF:-1,AlphaTV
-http://31.177.62.174:8003/play/s116|User-Agent=livestreamdeplayer.js
+https://s2.cystream.net/live/alphagr/chunks.m3u8?nimblesessionid=8843365&wmsAuthSign=c2VydmVyX3RpbWU9NS8yMS8yMDIyIDg6MTI6MTcgUE0maGFzaF92YWx1ZT1iRjNyd2paWjFsVTRRVFhHNWxHSFd3PT0mdmFsaWRtaW51dGVzPTIw|User-Agent=http://vjs.zencdn.net/4.12/video.js
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Ant1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/ANT1_Greek_channel_logo.svg/1200px-ANT1_Greek_channel_logo.svg.png",Ant1
 http://95.107.132.106/out/u/atsykmssuyrsyhth.m3u8|User-Agent=VLC
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.program_number=2154
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #EXTINF:-1,Star
-http://31.177.62.174:8003/play/s117|User-Agent=livestreamdeplayer.js
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.program_number=2154
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+https://s2.cystream.net/galanos/star/chunks.m3u8?nimblesessionid=8843302&wmsAuthSign=c2VydmVyX3RpbWU9NS8yMS8yMDIyIDg6MDk6MjAgUE0maGFzaF92YWx1ZT1FdE9nazBRckVDTytDTm1uUG9QV3JRPT0mdmFsaWRtaW51dGVzPTIw|User-Agent=http://vjs.zencdn.net/4.12/video.js
 #EXTINF:-1,Skai
-http://31.177.62.174:8003/play/s118|User-Agent=livestreamdeplayer.js
+https://s2.cystream.net/galanos/skai/chunks.m3u8?nimblesessionid=8843339&wmsAuthSign=c2VydmVyX3RpbWU9NS8yMS8yMDIyIDg6MTE6MjAgUE0maGFzaF92YWx1ZT0rSWhKZ2Y2bGNGenNFeXYxVkJacnRnPT0mdmFsaWRtaW51dGVzPTIw|User-Agent=http://vjs.zencdn.net/4.12/video.js
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="SigmaTV" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/cy-sigma-tv-3358.jpg",Sigma
 https://sl2.sigmatv.com/hls/live.m3u8|User-Agent=VLC
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="OpenTV" tvg-logo="https://s.tvopen.gr/images/OPEN_BEYOND_Avra.png",OpenTV
 https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8|User-Agent=VLC
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.program_number=2154
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #EXTINF:-1,Mega
-http://31.177.62.174:8003/play/s119|User-Agent=livestreamdeplayer.js
+https://streamcdnb11-c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8|User-Agent=http://vjs.zencdn.net/4.12/video.js
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="x-tv" tvg-logo="https://4.bp.blogspot.com/-Adr9SQiUnG8/WmxN6Dz_fuI/AAAAAAAAbDg/hUw3rXF3a5ctTY3Dn5B98dh4dApY7o38gCLcBGAs/s200/oi-ekdiloseis-tzamala-live-stin-xalastra-tv.jpg",X-TV
 https://live.cast-control.eu:443/xalastratv/xalastratv/playlist.m3u8|User-Agent=VLC
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Tilemousiki" tvg-logo="https://greektv.page/img/greektvlayers3/tilemousiki.jpg",TileMousiki
@@ -41,12 +31,8 @@ http://wpso.com:1936/hls/music1.m3u8|User-Agent=VLC
 https://eco.streams.ovh:443/BarazaTV/BarazaTV/playlist.m3u8|User-Agent=VLC
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="SMILETVCY" tvg-logo="https://tvepg.eu/img/greece/logo/smile_tv.png",SmileTV
 https://s1.cystream.net/live/smile/playlist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:96.0) 6.0
-##KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.program_number=2154
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #EXTINF:-1,GalaxyGR
-https://channel.streams.ovh:1936/galaxygr-1/galaxygr-1/chunklist_w807877231.m3u8|User-Agent=livestreamdeplayer.js
+https://channel.streams.ovh:1936/galaxygr-1/galaxygr-1/chunklist_w807877231.m3u8|livestreamdeplayer.js
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="10 CHRONIA GAMOU 2019 - Theatrikí Parástasi | Márkos Seferlís (Olókliri)" tvg-logo="https://i.imgur.com/uhYtvsJ.png",10 CHRONIA GAMOU 2019 - Theatrikí Parástasi | Márkos Seferlís (Olókliri)
 plugin://plugin.video.smr_link_tester/?mode=play_link&amp;link=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dh_jkbJH_MTA
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Des Ta Re Elláda Óla Aftá - Theatrikí Parástasi | Márkos Seferlís (Olókliri)" tvg-logo="https://i.imgur.com/uhYtvsJ.png",Des Ta Re Elláda Óla Aftá - Theatrikí Parástasi | Márkos Seferlís (Olókliri)
