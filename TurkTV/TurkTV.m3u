@@ -3,22 +3,42 @@
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b2328000_sltur.m3u8|User-Agent=VLC
 #EXTINF:-1 tvg-name="FBTV" tvg-id="id" group-title="Group Title" tvg-logo="https://media.fenerbahce.org/FB/media/FB/Images/Logo/logo.png?ext=.png",FBTV
 plugin://plugin.video.smr_link_tester/?mode=play_link&amp;link=https%3A%2F%2Fwww.dailymotion.com%2Fvideo%2Fx21oo10
-#EXTINF:-1 tvg-name="Kanal7" tvg-id="id" group-title="Group Title" tvg-logo="https://izle7.haber7.net/assets/img/kanal7_avrupa.jpg",Kanal7
-https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8|User-Agent=VLC
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.program_number=2154
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#EXTINF:-1,Kanal7 
+https://istanbul.tvizlehd.com/kanal7.m3u8?tkn=pCMB9HgcqWtX4NQ6A9_B9w&tms=1653171855&hst=www.donmaztv.com|User-Agent=livestreamdeplayer.js
 #EXTINF:-1 tvg-name="TRT1" tvg-id="id" group-title="Group Title" tvg-logo="https://www.trt1.com.tr/public/dm_upload/modul4/158c26d7-e92d-4279-beb2-3bc902e6c405.jpg",TRT1
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8|User-Agent=VLC
 #EXTINF:-1 tvg-name="StarTV" tvg-id="id" group-title="Group Title" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/StarTV.svg/1200px-StarTV.svg.png",StarTV
 https://dogus-live.daioncdn.net/startv/startv_480p.m3u8|User-Agent=VLC
-#EXTINF:-1 tvg-name="ATV" tvg-id="id" group-title="Group Title" tvg-logo="https://i.ytimg.com/vi/fVnQrYmfJek/maxresdefault.jpg",ATV
-https://trkvz.daioncdn.net/atv/atv_480p.m3u8?e=1653116140&st=Nzk96i0BU-T1RzFZASmBWw&sid=4envkspe51hw&app=d1ce2d40-5256-4550-b02e-e73c185a314e&ce=3|User-Agent=VLC
-#EXTINF:-1 tvg-name="FOX" tvg-id="id" group-title="Group Title" tvg-logo="https://www.canlitv.vin/kanallar/ogfox-tv.png",FOX
-https://foxtv.daioncdn.net/foxtv/foxtv.m3u8?ce=3&app=24e7a2e2-9156-4c02-a4fb-2bc599ffaf77&st=qzXA0RJNqwDim5cYvTDrrw&e=1653079094|User-Agent=VLC
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream.ffmpegdirect.program_number=2154
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#EXTINF:-1,ATV
+https://ecanlitv2.etvserver.com:8081/atv.m3u8?tkn=vYfJuA6VpbmuyNxha33u7Q&tms=1653163270|User-Agent=livestreamdeplayer.js
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.program_number=2154
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#EXTINF:-1,FOX
+https://foxtv.daioncdn.net/foxtv/foxtv.m3u8?ce=3&app=24e7a2e2-9156-4c02-a4fb-2bc599ffaf77&st=Xh0Rzkd9BoKOwWNK4-ot2g&e=1653163628|User-Agent=livestreamdeplayer.js
 #EXTINF:-1 tvg-name="Kral" tvg-id="id" group-title="Group Title" tvg-logo="https://i.ytimg.com/vi/88tf0H1ycDU/maxresdefault.jpg",Kral
 https://dogus.daioncdn.net/kraltv/kraltv_720p.m3u8?sid=45u9nklv23y4&app=998af748-29a7-480e-a343-52385fce91ff|User-Agent=VLC
-#EXTINF:-1 tvg-name="ShowMax" tvg-id="id" group-title="Group Title" tvg-logo="https://i.ytimg.com/vi/kuuB7Kk6pMI/maxresdefault.jpg",ShowMax
-https://ciner-live.ercdn.net/showmax/playlist.m3u8?e=1653078290&st=ozl9_lhGotwf_FJp5A9oDg&tv=1|User-Agent=VLC
-#EXTINF:-1 tvg-name="Show" tvg-id="id" group-title="Group Title" tvg-logo="https://i.ytimg.com/vi/rtMDAEQgyl8/maxresdefault.jpg",Show
-https://ciner-live.ercdn.net/showturk/showturk_720p.m3u8?e=1653078195&st=oFPBPPdD-lEOajc9M-1Cxw&tv=1|User-Agent=VLC
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.program_number=2154
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#EXTINF:-1,ShowMax
+https://mugla.tvizlehd.com/showmax.m3u8?tkn=8pnm2hJlatq4dLQgWSXYnQ&tms=1653171343&hst=www.donmaztv.com|User-Agent=livestreamdeplayer.js
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.program_number=2154
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#EXTINF:-1,Show
+https://izmir.tvizlehd.com/showtv.m3u8?tkn=kmaYus8eaHhGdejOFUmKew&tms=1653171428&hst=www.donmaztv.com|User-Agent=livestreamdeplayer.js
 #EXTINF:-1 tvg-name="kralpop" tvg-id="id" group-title="Group Title" tvg-logo="https://i.ytimg.com/vi/dEHMR7Qpthw/maxresdefault_live.jpg",kralpop
 https://dogus.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8?sid=45u9e0koib5e&app=f38a38b4-ce55-4040-8676-9826937d6128|User-Agent=VLC
 #EXTINF:-1 tvg-name="TV 360" tvg-id="id" group-title="Group Title" tvg-logo="https://www.canlitv.vin/kanallar/ogtv-360.png",TV 360
@@ -29,8 +49,12 @@ plugin://plugin.video.smr_link_tester/?mode=play_link&amp;link=https%3A%2F%2Fwww
 https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8?min=0&max=2500&live=true&app=com.tv2|User-Agent=VLC
 #EXTINF:-1 tvg-name="Euro Star" tvg-id="id" group-title="Group Title" tvg-logo="http://www.eurostartv.com.tr/Content/img/logo.png",EuroStar
 plugin://plugin.video.smr_link_tester/?mode=play_link&amp;link=https%3A%2F%2Fwww.dailymotion.com%2Fvideo%2Fx729whv
-#EXTINF:-1 tvg-name="ATV Avrupa" tvg-id="id" group-title="Group Title" tvg-logo="https://i.tmgrup.com.tr/aav/site/v2/i/imaj_atvavrupa_yeni.jpg",ATV-Avrupa
-https://trkvz-live.ercdn.net/atvavrupa/atvavrupa_576p.m3u8?st=0iLwdSCHpFQuiM5dyCY4uQ&e=1653118684&SessionID=1.2.304143686.1653073485&StreamGroup=canli-yayin&Site=atvavrupa&DeviceGroup=web|User-Agent=VLC
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.program_number=2154
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#EXTINF:-1,ATV Avrupa
+https://black.tvizlehd.com/atvavrupa.m3u8?tkn=sV47a2HqgQc2W188fi_rLg&tms=1653171739&hst=www.donmaztv.com|User-Agent=livestreamdeplayer.js
 #EXTINF:-1 tvg-name="CNN Türk" tvg-id="id" group-title="Group Title" tvg-logo="https://s.cnnturk.com//assets/dist/img/logo.svg",CNN Türk
 https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8|User-Agent=VLC
 #EXTINF:-1 tvg-name="DMAX" tvg-id="id" group-title="Group Title" tvg-logo="https://i.ytimg.com/vi/xM60UTbAIH8/maxresdefault_live.jpg",DMAX
