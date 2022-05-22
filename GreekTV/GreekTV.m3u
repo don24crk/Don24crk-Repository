@@ -8,7 +8,7 @@ http://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Ant1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/ANT1_Greek_channel_logo.svg/1200px-ANT1_Greek_channel_logo.svg.png",Ant1
 http://95.107.132.106/out/u/atsykmssuyrsyhth.m3u8|User-Agent=VLC
 #EXTINF:-1,Star
-http://livestar.siliconweb.com/media/star1/star1.m3u8|User-Agent=VLC
+https://starlive3.siliconweb.com/media/star1/star1mediumhd.m3u8|User-Agent=VLC
 #EXTINF:-1,Skai
 https://dai.google.com/linear/hls/pa/event/SmxC5WdPTr6kAs7dFLAa4g/stream/fabfa1d4-8951-4290-ac3b-a2ac3611699a:BRU/variant/4d5720a4ab6e2b7802dab118393b06bd/bandwidth/2234000.m3u8|User-Agent=VLC
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="SigmaTV" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/cy-sigma-tv-3358.jpg",Sigma
