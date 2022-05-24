@@ -5,9 +5,9 @@ https://s2.cystream.net/live/ert1/chunks.m3u8?nimblesessionid=8876602&wmsAuthSig
 https://s2.cystream.net/live/ert2/chunks.m3u8?nimblesessionid=8877722&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDIyIDQ6NDY6MjcgUE0maGFzaF92YWx1ZT1rcjhJeFhOY0NITVdvRHlNNFRoT01BPT0mdmFsaWRtaW51dGVzPTIw|User-Agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 #EXTINF:-1,ERT3 thumb="https://github.com/don24crk/Don24crk-Repository/blob/master/GreekTV/ERT3_logo_2020.svg.png"
 https://s2.cystream.net/live/ert3/chunks.m3u8?nimblesessionid=8877741&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDIyIDQ6NDc6MzEgUE0maGFzaF92YWx1ZT1LQzhqQkRFc1JwSTJHbDJsY2x1b0d3PT0mdmFsaWRtaW51dGVzPTIw|User-Agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-#EXTINF:-1,ERTWORLD thumb="https://github.com/don24crk/Don24crk-Repository/blob/master/GreekTV/ERT3_logo_2020.svg.png"
+#EXTINF:-1,ERTWORLD thumb="https://github.com/don24crk/Don24crk-Repository/blob/master/GreekTV/ChannelLogo-ERTWORLD1.png"
 http://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8|User-Agent=livestreamsde.js
-#EXTINF:-1,ERT NEWS
+#EXTINF:-1,ERT NEWS thumb="https://github.com/don24crk/Don24crk-Repository/blob/master/GreekTV/ChannelLogo-ERTWORLD1.png"
 https://ert-live-bcbs15228.siliconweb.com/media/ert_news/ert_news.m3u8|User-Agent=livestreamsde.js
 #EXTINF:-1,ALPHATV
 http://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8|User-Agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
