@@ -29,9 +29,9 @@ https://live.cast-control.eu:443/xalastratv/xalastratv/playlist.m3u8|User-Agent=
 http://wpso.com:1936/hls/music1.m3u8|User-Agent=livestreamsde.js
 #EXTINF:-1,BARAZATV thumb="https://github.com/don24crk/Don24crk-Repository/blob/master/GreekTV/image93193392409.png"
 https://eco.streams.ovh:443/BarazaTV/BarazaTV/playlist.m3u8|User-Agent=livestreamsde.js
-#EXTINF:-1,SMILETV thumb="https://github.com/don24crk/Don24crk-Repository/blob/master/GreekTV/image93193392409.png"
+#EXTINF:-1,SMILETV thumb="https://github.com/don24crk/Don24crk-Repository/blob/master/GreekTV/Smile_TV_logo.png"
 https://s1.cystream.net/live/smile/playlist.m3u8|User-Agent=livestreamsde.js
-#EXTINF:-1,DIAVATATV
+#EXTINF:-1,DIAVATATV thumb="https://github.com/don24crk/Don24crk-Repository/blob/master/GreekTV/Smile_TV_logo.png"
 https://video.streams.ovh:1936/DiavataTV/DiavataTV/playlist.m3u8|User-Agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 #EXTINF:-1,GALAXYGR
 https://channel.streams.ovh:1936/galaxygr-1/galaxygr-1/playlist.m3u8|User-Agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
