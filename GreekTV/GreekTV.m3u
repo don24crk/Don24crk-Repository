@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1,ERT1 thumb="C:\Users\User\Desktop\GreekTV\ERT1_logo_2020.svg.png"
+#EXTINF:-1,ERT1 thumb="https://github.com/don24crk/Don24crk-Repository/blob/master/GreekTV/ERT1_logo_2020.svg.png"
 https://s2.cystream.net/live/ert1/chunks.m3u8?nimblesessionid=8876602&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDIyIDI6NTc6MjUgUE0maGFzaF92YWx1ZT1BUjFBSStzM1JCbzNoNXpjNE5lSVVBPT0mdmFsaWRtaW51dGVzPTIw|User-Agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-#EXTINF:-1,ERT2
+#EXTINF:-1,ERT2 thumb="https://github.com/don24crk/Don24crk-Repository/blob/master/GreekTV/ERT1_logo_2020.svg.png"
 https://s2.cystream.net/live/ert2/chunks.m3u8?nimblesessionid=8877722&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDIyIDQ6NDY6MjcgUE0maGFzaF92YWx1ZT1rcjhJeFhOY0NITVdvRHlNNFRoT01BPT0mdmFsaWRtaW51dGVzPTIw|User-Agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 #EXTINF:-1,ERT3
 https://s2.cystream.net/live/ert3/chunks.m3u8?nimblesessionid=8877741&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDIyIDQ6NDc6MzEgUE0maGFzaF92YWx1ZT1LQzhqQkRFc1JwSTJHbDJsY2x1b0d3PT0mdmFsaWRtaW51dGVzPTIw|User-Agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
