@@ -33,9 +33,9 @@ https://eco.streams.ovh:443/BarazaTV/BarazaTV/playlist.m3u8|User-Agent=livestrea
 https://s1.cystream.net/live/smile/playlist.m3u8|User-Agent=livestreamsde.js
 #EXTINF:-1,DIAVATATV thumb="https://github.com/don24crk/Don24crk-Repository/blob/master/GreekTV/78822183.png"
 https://video.streams.ovh:1936/DiavataTV/DiavataTV/playlist.m3u8|User-Agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-#EXTINF:-1,GALAXYGR thumb="https://github.com/don24crk/Don24crk-Repository/blob/master/GreekTV/78822183.png"
+#EXTINF:-1,GALAXYGR thumb="https://github.com/don24crk/Don24crk-Repository/blob/master/GreekTV/41-nNh0asqL.png"
 https://channel.streams.ovh:1936/galaxygr-1/galaxygr-1/playlist.m3u8|User-Agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="10 CHRONIA GAMOU 2019 - Theatrikí Parástasi | Márkos Seferlís (Olókliri)" tvg-logo="https://i.imgur.com/uhYtvsJ.png",10 CHRONIA GAMOU 2019 - Theatrikí Parástasi | Márkos Seferlís (Olókliri)
+#EXTINF:-1,10 CHRONIA GAMOU 2019 - Theatrikí Parástasi | Márkos Seferlís (Olókliri) thumb="https://github.com/don24crk/Don24crk-Repository/blob/master/GreekTV/41-nNh0asqL.png"
 plugin://plugin.video.smr_link_tester/?mode=play_link&amp;link=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dh_jkbJH_MTA
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Des Ta Re Elláda Óla Aftá - Theatrikí Parástasi | Márkos Seferlís (Olókliri)" tvg-logo="https://i.imgur.com/uhYtvsJ.png",Des Ta Re Elláda Óla Aftá - Theatrikí Parástasi | Márkos Seferlís (Olókliri)
+#EXTINF:-1,Des Ta Re Elláda Óla Aftá - Theatrikí Parástasi | Márkos Seferlís (Olókliri) thumb="https://github.com/don24crk/Don24crk-Repository/blob/master/GreekTV/41-nNh0asqL.png"
 plugin://plugin.video.smr_link_tester/?mode=play_link&amp;link=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DFsUVqhjdoLU
