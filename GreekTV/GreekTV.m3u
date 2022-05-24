@@ -1,24 +1,28 @@
 #EXTM3U
 #EXTINF:-1,ERT1
-https://ert1-live.ert.insyscd.net/out/v1/bc7e22e489c7452280769c91743cc2f3/ert1-live_1.m3u8|User-Agent=livestreamsde.js
+https://s2.cystream.net/live/ert1/chunks.m3u8?nimblesessionid=8876602&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDIyIDI6NTc6MjUgUE0maGFzaF92YWx1ZT1BUjFBSStzM1JCbzNoNXpjNE5lSVVBPT0mdmFsaWRtaW51dGVzPTIw|User-Agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+#EXTINF:-1,ERT2
+https://s2.cystream.net/live/ert2/chunks.m3u8?nimblesessionid=8877722&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDIyIDQ6NDY6MjcgUE0maGFzaF92YWx1ZT1rcjhJeFhOY0NITVdvRHlNNFRoT01BPT0mdmFsaWRtaW51dGVzPTIw|User-Agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+#EXTINF:-1,ERT3
+https://s2.cystream.net/live/ert3/chunks.m3u8?nimblesessionid=8877741&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDIyIDQ6NDc6MzEgUE0maGFzaF92YWx1ZT1LQzhqQkRFc1JwSTJHbDJsY2x1b0d3PT0mdmFsaWRtaW51dGVzPTIw|User-Agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 #EXTINF:-1,ERTWORLD
 http://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8|User-Agent=livestreamsde.js
 #EXTINF:-1,ERT NEWS
 https://ert-live-bcbs15228.siliconweb.com/media/ert_news/ert_news.m3u8|User-Agent=livestreamsde.js
 #EXTINF:-1,ALPHATV
-http://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8|User-Agent=livestreamsde.js
+http://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8|User-Agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 #EXTINF:-1,ANT1
-http://95.107.132.106/out/u/atsykmssuyrsyhth.m3u8|User-Agent=livestreamsde.js
+http://95.107.132.106/out/u/atsykmssuyrsyhth.m3u8|User-Agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 #EXTINF:-1,STAR
-https://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8|User-Agent=livestreamsde.js
+https://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8|User-Agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 #EXTINF:-1,SKAI
-https://skai-live-back.siliconweb.com/media/cambria4/index.m3u8|User-Agent=livestreamsde.js
+https://skai-live-back.siliconweb.com/media/cambria4/index.m3u8|User-Agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 #EXTINF:-1,SIGMA
 https://sl2.sigmatv.com/hls/live.m3u8|User-Agent=livestreamsde.js
 #EXTINF:-1,OPENTV BEYOUND
-https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8|User-Agent=livestreamsde.js
+https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8|User-Agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 #EXTINF:-1,MEGA 
-https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8|User-Agent=livestreamsde.js
+https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8|User-Agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 #EXTINF:-1,X-TV
 https://live.cast-control.eu:443/xalastratv/xalastratv/playlist.m3u8|User-Agent=livestreamsde.js
 #EXTINF:-1,TILEMOUSIKI
@@ -28,9 +32,9 @@ https://eco.streams.ovh:443/BarazaTV/BarazaTV/playlist.m3u8|User-Agent=livestrea
 #EXTINF:-1,SMILETV
 https://s1.cystream.net/live/smile/playlist.m3u8|User-Agent=livestreamsde.js
 #EXTINF:-1,DIAVATATV
-https://video.streams.ovh:1936/DiavataTV/DiavataTV/playlist.m3u8|User-Agent=livestreamsde.js
+https://video.streams.ovh:1936/DiavataTV/DiavataTV/playlist.m3u8|User-Agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 #EXTINF:-1,GALAXYGR
-https://channel.streams.ovh:1936/galaxygr-1/galaxygr-1/playlist.m3u8|User-Agent=livestreamsde.js
+https://channel.streams.ovh:1936/galaxygr-1/galaxygr-1/playlist.m3u8|User-Agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="10 CHRONIA GAMOU 2019 - Theatrikí Parástasi | Márkos Seferlís (Olókliri)" tvg-logo="https://i.imgur.com/uhYtvsJ.png",10 CHRONIA GAMOU 2019 - Theatrikí Parástasi | Márkos Seferlís (Olókliri)
 plugin://plugin.video.smr_link_tester/?mode=play_link&amp;link=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dh_jkbJH_MTA
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Des Ta Re Elláda Óla Aftá - Theatrikí Parástasi | Márkos Seferlís (Olókliri)" tvg-logo="https://i.imgur.com/uhYtvsJ.png",Des Ta Re Elláda Óla Aftá - Theatrikí Parástasi | Márkos Seferlís (Olókliri)
