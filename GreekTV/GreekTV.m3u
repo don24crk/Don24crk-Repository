@@ -1,41 +1,51 @@
 #EXTM3U
-#EXTINF:-1,ERT1 thumb="https://github.com/don24crk/Don24crk-Repository/blob/master/GreekTV/ERT1_logo_2020.svg.png"
-https://s2.cystream.net/live/ert1/chunks.m3u8?nimblesessionid=8876602&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDIyIDI6NTc6MjUgUE0maGFzaF92YWx1ZT1BUjFBSStzM1JCbzNoNXpjNE5lSVVBPT0mdmFsaWRtaW51dGVzPTIw|User-Agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-#EXTINF:-1,ERT2 thumb="https://github.com/don24crk/Don24crk-Repository/blob/master/GreekTV/ERT2_logo_2020.svg.png"
-https://s2.cystream.net/live/ert2/chunks.m3u8?nimblesessionid=8877722&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDIyIDQ6NDY6MjcgUE0maGFzaF92YWx1ZT1rcjhJeFhOY0NITVdvRHlNNFRoT01BPT0mdmFsaWRtaW51dGVzPTIw|User-Agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-#EXTINF:-1,ERT3 thumb="https://github.com/don24crk/Don24crk-Repository/blob/master/GreekTV/ERT3_logo_2020.svg.png"
-https://s2.cystream.net/live/ert3/chunks.m3u8?nimblesessionid=8877741&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDIyIDQ6NDc6MzEgUE0maGFzaF92YWx1ZT1LQzhqQkRFc1JwSTJHbDJsY2x1b0d3PT0mdmFsaWRtaW51dGVzPTIw|User-Agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-#EXTINF:-1,ERTWORLD thumb="https://github.com/don24crk/Don24crk-Repository/blob/master/GreekTV/ChannelLogo-ERTWORLD1.png"
+#EXTINF:-1,ERTWORLD (No VPN)
 http://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8|User-Agent=livestreamsde.js
-#EXTINF:-1,ERT NEWS thumb="https://github.com/don24crk/Don24crk-Repository/blob/master/GreekTV/ertnews.jpeg"
+#EXTINF:-1,ERT NEWS (No VPN)
 https://ert-live-bcbs15228.siliconweb.com/media/ert_news/ert_news.m3u8|User-Agent=livestreamsde.js
-#EXTINF:-1,ALPHATV thumb="https://github.com/don24crk/Don24crk-Repository/blob/master/GreekTV/Alpha_HD.png"
-http://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8|User-Agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-#EXTINF:-1,ANT1 thumb="https://github.com/don24crk/Don24crk-Repository/blob/master/GreekTV/07_ANT1_EUROPE-1.jpg"
-http://95.107.132.106/out/u/atsykmssuyrsyhth.m3u8|User-Agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-#EXTINF:-1,STAR thumb="https://github.com/don24crk/Don24crk-Repository/blob/master/GreekTV/1280px-Star_Channel_Greece_logo.svg.png"
-https://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8|User-Agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-#EXTINF:-1,SKAI thumb="https://github.com/don24crk/Don24crk-Repository/blob/master/GreekTV/skai-logo-91A3A28D79-seeklogo.com.gif"
-https://skai-live-back.siliconweb.com/media/cambria4/index.m3u8|User-Agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-#EXTINF:-1,SIGMA thumb="https://github.com/don24crk/Don24crk-Repository/blob/master/GreekTV/image66957285442.jpg"
+#EXTINF:-1,ERT1 (With VPN)
+https://ert1-live.ert.insyscd.net/out/v1/bc7e22e489c7452280769c91743cc2f3/ert1-live_1.m3u8|Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+#EXTINF:-1,ERT1 Bup (No VPN)
+https://s2.cystream.net/live/ert2/chunks.m3u8?nimblesessionid=8881704&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDIyIDg6MDc6NTQgUE0maGFzaF92YWx1ZT1ZbU0xVHFkWWRWUDkwUE9ISWhvalR3PT0mdmFsaWRtaW51dGVzPTIw|User-Agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+#EXTINF:-1,ERT2 Bup (No VPN)
+https://s2.cystream.net/live/ert2/chunks.m3u8?nimblesessionid=8881763&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDIyIDg6MTE6MzkgUE0maGFzaF92YWx1ZT15VmRSTHBqSjlWYm9TNVl1RDRLaFRRPT0mdmFsaWRtaW51dGVzPTIw|User-Agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+#EXTINF:-1,ERT3 Bup (No VPN)
+https://s2.cystream.net/live/ert3/chunks.m3u8?nimblesessionid=8881830&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDIyIDg6MTQ6MDUgUE0maGFzaF92YWx1ZT00TUpKOCtXdVJRVUhCWExpQzN0ay93PT0mdmFsaWRtaW51dGVzPTIw|User-Agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+#EXTINF:-1,ALPHATV Bup (No VPN)
+https://s2.cystream.net/live/alphagr/chunks.m3u8?nimblesessionid=8882038&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDIyIDg6MjQ6NDMgUE0maGFzaF92YWx1ZT1SVzhtS1psUXFoalVsY3gwUTlOcWFBPT0mdmFsaWRtaW51dGVzPTIw|User-Agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+#EXTINF:-1,STAR Bup (No VPN)
+https://s2.cystream.net/galanos/star/chunks.m3u8?nimblesessionid=8881996&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDIyIDg6MjE6NTUgUE0maGFzaF92YWx1ZT0ydjFyd0xmcFZmUXdmZnoxdlRIaEtBPT0mdmFsaWRtaW51dGVzPTIw|User-Agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+#EXTINF:-1,SKAI Bup (No VPN)
+https://s2.cystream.net/galanos/skai/chunks.m3u8?nimblesessionid=8882069&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDIyIDg6Mjc6MjQgUE0maGFzaF92YWx1ZT02bVpoNGxlS3IxRWMvbGJGU1lhL0VnPT0mdmFsaWRtaW51dGVzPTIw|User-Agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+#EXTINF:-1,OPENTV BEYOUND (No VPN)
+https://s2.cystream.net/galanos/open/chunks.m3u8?nimblesessionid=8882141&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDIyIDg6MzE6MjMgUE0maGFzaF92YWx1ZT1uUlNreGs1RVFLNDZhZDRNYUZTUmJRPT0mdmFsaWRtaW51dGVzPTIw|User-Agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+#EXTINF:-1,SIGMA 
 https://sl2.sigmatv.com/hls/live.m3u8|User-Agent=livestreamsde.js
-#EXTINF:-1,OPENTV BEYOUND thumb="https://github.com/don24crk/Don24crk-Repository/blob/master/GreekTV/image8650236576.png"
+#EXTINF:-1,OPENTV BEYOUND (With VPN)
 https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8|User-Agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-#EXTINF:-1,MEGA thumb="https://github.com/don24crk/Don24crk-Repository/blob/master/GreekTV/mega4324423.jpg"
+#EXTINF:-1,MEGA (With VPN)
 https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8|User-Agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-#EXTINF:-1,X-TV thumb="https://github.com/don24crk/Don24crk-Repository/blob/master/GreekTV/LgQBtTh.jpg"
+#EXTINF:-1,X-TV 
 https://live.cast-control.eu:443/xalastratv/xalastratv/playlist.m3u8|User-Agent=livestreamsde.js
-#EXTINF:-1,TILEMOUSIKI thumb="https://github.com/don24crk/Don24crk-Repository/blob/master/GreekTV/wb4pLkW.jpg"
+#EXTINF:-1,TILEMOUSIKI 
 http://wpso.com:1936/hls/music1.m3u8|User-Agent=livestreamsde.js
-#EXTINF:-1,BARAZATV thumb="https://github.com/don24crk/Don24crk-Repository/blob/master/GreekTV/image93193392409.png"
+#EXTINF:-1,BARAZATV 
 https://eco.streams.ovh:443/BarazaTV/BarazaTV/playlist.m3u8|User-Agent=livestreamsde.js
-#EXTINF:-1,SMILETV thumb="https://github.com/don24crk/Don24crk-Repository/blob/master/GreekTV/Smile_TV_logo.png"
+#EXTINF:-1,SMILETV 
 https://s1.cystream.net/live/smile/playlist.m3u8|User-Agent=livestreamsde.js
-#EXTINF:-1,DIAVATATV thumb="https://github.com/don24crk/Don24crk-Repository/blob/master/GreekTV/78822183.png"
+#EXTINF:-1,DIAVATATV (No VPN)
 https://video.streams.ovh:1936/DiavataTV/DiavataTV/playlist.m3u8|User-Agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-#EXTINF:-1,GALAXYGR thumb="https://github.com/don24crk/Don24crk-Repository/blob/master/GreekTV/41-nNh0asqL.png"
+#EXTINF:-1,GALAXYGR  (No VPN)
 https://channel.streams.ovh:1936/galaxygr-1/galaxygr-1/playlist.m3u8|User-Agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-#EXTINF:-1,10 CHRONIA GAMOU 2019 - Theatrikí Parástasi | Márkos Seferlís (Olókliri) thumb="https://github.com/don24crk/Don24crk-Repository/blob/master/GreekTV/10%CE%A7%CE%A1%CE%9F%CE%9D%CE%99%CE%91%CE%93%CE%91%CE%9C%CE%9F%CE%A52019.jpg"
+#EXTINF:-1,ALPHATV (With VPN)
+http://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8|User-Agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+#EXTINF:-1,ANT1 (With VPN)
+http://95.107.132.106/out/u/atsykmssuyrsyhth.m3u8|User-Agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+#EXTINF:-1,STAR (With VPN)
+https://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8|User-Agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+#EXTINF:-1,SKAI (With VPN)
+https://skai-live-back.siliconweb.com/media/cambria4/index.m3u8|User-Agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+#EXTINF:-1,10 CHRONIA GAMOU 2019 - Theatrikí Parástasi | Márkos Seferlís (Olókliri) 
 plugin://plugin.video.smr_link_tester/?mode=play_link&amp;link=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dh_jkbJH_MTA
-#EXTINF:-1,Des Ta Re Elláda Óla Aftá - Theatrikí Parástasi | Márkos Seferlís (Olókliri) thumb="https://github.com/don24crk/Don24crk-Repository/blob/master/GreekTV/markos-seferlis.jpg"
+#EXTINF:-1,Des Ta Re Elláda Óla Aftá - Theatrikí Parástasi | Márkos Seferlís (Olókliri) 
 plugin://plugin.video.smr_link_tester/?mode=play_link&amp;link=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DFsUVqhjdoLU
