@@ -6,7 +6,7 @@ https://ert-live-bcbs15228.siliconweb.com/media/ert_news/ert_news.m3u8|User-Agen
 #EXTINF:-1,ERT1 (With VPN)
 https://ert1-live.ert.insyscd.net/out/v1/bc7e22e489c7452280769c91743cc2f3/ert1-live_1.m3u8|Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 #EXTINF:-1,ERT1 Bup (No VPN)
-https://s2.cystream.net/live/ert2/chunks.m3u8?nimblesessionid=8881704&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDIyIDg6MDc6NTQgUE0maGFzaF92YWx1ZT1ZbU0xVHFkWWRWUDkwUE9ISWhvalR3PT0mdmFsaWRtaW51dGVzPTIw|User-Agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://s2.cystream.net/live/ert1/chunks.m3u8?nimblesessionid=8882235&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDIyIDg6Mzg6MjMgUE0maGFzaF92YWx1ZT1mYnhmNWlyUHR4ZHZQaUp0VkZaUWpRPT0mdmFsaWRtaW51dGVzPTIw|User-Agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 #EXTINF:-1,ERT2 Bup (No VPN)
 https://s2.cystream.net/live/ert2/chunks.m3u8?nimblesessionid=8881763&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDIyIDg6MTE6MzkgUE0maGFzaF92YWx1ZT15VmRSTHBqSjlWYm9TNVl1RDRLaFRRPT0mdmFsaWRtaW51dGVzPTIw|User-Agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 #EXTINF:-1,ERT3 Bup (No VPN)
