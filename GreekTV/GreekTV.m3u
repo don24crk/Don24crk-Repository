@@ -1,50 +1,34 @@
 #EXTM3U
 #EXTINF:-1,ERTWORLD (No VPN)
-http://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8|User-Agent=livestreamsde.js
+http://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8|User-Agent=http://www.anacon.org/app/chans/player/flowplayer.js
 #EXTINF:-1,ERT NEWS (No VPN)
-https://ert-live-bcbs15228.siliconweb.com/media/ert_news/ert_news.m3u8|User-Agent=livestreamsde.js
-#EXTINF:-1,ERT1 (With VPN)
-https://ert1-live.ert.insyscd.net/out/v1/bc7e22e489c7452280769c91743cc2f3/ert1-live_1.m3u8|Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-#EXTINF:-1,ERT1 Bup (No VPN)
-https://s2.cystream.net/live/ert1/chunks.m3u8?nimblesessionid=8882235&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDIyIDg6Mzg6MjMgUE0maGFzaF92YWx1ZT1mYnhmNWlyUHR4ZHZQaUp0VkZaUWpRPT0mdmFsaWRtaW51dGVzPTIw|User-Agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-#EXTINF:-1,ERT2 Bup (No VPN)
-https://s2.cystream.net/live/ert2/chunks.m3u8?nimblesessionid=8881763&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDIyIDg6MTE6MzkgUE0maGFzaF92YWx1ZT15VmRSTHBqSjlWYm9TNVl1RDRLaFRRPT0mdmFsaWRtaW51dGVzPTIw|User-Agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-#EXTINF:-1,ERT3 Bup (No VPN)
-https://s2.cystream.net/live/ert3/chunks.m3u8?nimblesessionid=8881830&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDIyIDg6MTQ6MDUgUE0maGFzaF92YWx1ZT00TUpKOCtXdVJRVUhCWExpQzN0ay93PT0mdmFsaWRtaW51dGVzPTIw|User-Agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-#EXTINF:-1,ALPHATV Bup (No VPN)
-https://s2.cystream.net/live/alphagr/chunks.m3u8?nimblesessionid=8882038&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDIyIDg6MjQ6NDMgUE0maGFzaF92YWx1ZT1SVzhtS1psUXFoalVsY3gwUTlOcWFBPT0mdmFsaWRtaW51dGVzPTIw|User-Agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-#EXTINF:-1,STAR Bup (No VPN)
-https://s2.cystream.net/galanos/star/chunks.m3u8?nimblesessionid=8881996&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDIyIDg6MjE6NTUgUE0maGFzaF92YWx1ZT0ydjFyd0xmcFZmUXdmZnoxdlRIaEtBPT0mdmFsaWRtaW51dGVzPTIw|User-Agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-#EXTINF:-1,SKAI Bup (No VPN)
-https://s2.cystream.net/galanos/skai/chunks.m3u8?nimblesessionid=8882069&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDIyIDg6Mjc6MjQgUE0maGFzaF92YWx1ZT02bVpoNGxlS3IxRWMvbGJGU1lhL0VnPT0mdmFsaWRtaW51dGVzPTIw|User-Agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-#EXTINF:-1,OPENTV BEYOUND (No VPN)
-https://s2.cystream.net/galanos/open/chunks.m3u8?nimblesessionid=8882141&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDIyIDg6MzE6MjMgUE0maGFzaF92YWx1ZT1uUlNreGs1RVFLNDZhZDRNYUZTUmJRPT0mdmFsaWRtaW51dGVzPTIw|User-Agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://ert-live-bcbs15228.siliconweb.com/media/ert_news/ert_news.m3u8|User-Agent=http://www.anacon.org/app/chans/player/flowplayer.js
 #EXTINF:-1,SIGMA 
-https://sl2.sigmatv.com/hls/live.m3u8|User-Agent=livestreamsde.js
+https://sl2.sigmatv.com/hls/live.m3u8|User-Agent=http://www.anacon.org/app/chans/player/flowplayer.js
 #EXTINF:-1,OPENTV BEYOUND (With VPN)
-https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8|User-Agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8|User-Agent=http://www.anacon.org/app/chans/player/flowplayer.js
 #EXTINF:-1,MEGA (With VPN)
-https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8|User-Agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8|User-Agent=http://www.anacon.org/app/chans/player/flowplayer.js
 #EXTINF:-1,X-TV 
-https://live.cast-control.eu:443/xalastratv/xalastratv/playlist.m3u8|User-Agent=livestreamsde.js
+https://live.cast-control.eu:443/xalastratv/xalastratv/playlist.m3u8|User-Agent=http://www.anacon.org/app/chans/player/flowplayer.js
 #EXTINF:-1,TILEMOUSIKI 
-http://wpso.com:1936/hls/music1.m3u8|User-Agent=livestreamsde.js
+http://wpso.com:1936/hls/music1.m3u8|User-Agent=http://www.anacon.org/app/chans/player/flowplayer.js
 #EXTINF:-1,BARAZATV 
-https://eco.streams.ovh:443/BarazaTV/BarazaTV/playlist.m3u8|User-Agent=livestreamsde.js
+https://eco.streams.ovh:443/BarazaTV/BarazaTV/playlist.m3u8|User-Agent=http://www.anacon.org/app/chans/player/flowplayer.js
 #EXTINF:-1,SMILETV 
-https://s1.cystream.net/live/smile/playlist.m3u8|User-Agent=livestreamsde.js
+https://s1.cystream.net/live/smile/playlist.m3u8|User-Agent=http://www.anacon.org/app/chans/player/flowplayer.js
 #EXTINF:-1,DIAVATATV (No VPN)
-https://video.streams.ovh:1936/DiavataTV/DiavataTV/playlist.m3u8|User-Agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://video.streams.ovh:1936/DiavataTV/DiavataTV/playlist.m3u8|User-Agent=http://www.anacon.org/app/chans/player/flowplayer.js
 #EXTINF:-1,GALAXYGR  (No VPN)
-https://channel.streams.ovh:1936/galaxygr-1/galaxygr-1/playlist.m3u8|User-Agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://channel.streams.ovh:1936/galaxygr-1/galaxygr-1/playlist.m3u8|User-Agent=http://www.anacon.org/app/chans/player/flowplayer.js
 #EXTINF:-1,ALPHATV (With VPN)
-http://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8|User-Agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+http://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8|User-Agent=http://www.anacon.org/app/chans/player/flowplayer.js
 #EXTINF:-1,ANT1 (With VPN)
-http://95.107.132.106/out/u/atsykmssuyrsyhth.m3u8|User-Agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+http://95.107.132.106/out/u/atsykmssuyrsyhth.m3u8|User-Agent=http://www.anacon.org/app/chans/player/flowplayer.js
 #EXTINF:-1,STAR (With VPN)
-https://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8|User-Agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8|User-Agent=http://www.anacon.org/app/chans/player/flowplayer.js
 #EXTINF:-1,SKAI (With VPN)
-https://skai-live-back.siliconweb.com/media/cambria4/index.m3u8|User-Agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://skai-live-back.siliconweb.com/media/cambria4/index.m3u8|User-Agent=http://www.anacon.org/app/chans/player/flowplayer.js
 #EXTINF:-1,10 CHRONIA GAMOU 2019 - Theatrikí Parástasi | Márkos Seferlís (Olókliri) 
 plugin://plugin.video.smr_link_tester/?mode=play_link&amp;link=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dh_jkbJH_MTA
 #EXTINF:-1,Des Ta Re Elláda Óla Aftá - Theatrikí Parástasi | Márkos Seferlís (Olókliri) 
