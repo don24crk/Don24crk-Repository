@@ -1,68 +1,46 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="GSTV" tvg-id="id" group-title="Group Title" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c2/Gstv_00.png",GSTV
-https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b2328000_sltur.m3u8|User-Agent=VLC
+https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b2328000_sltur.m3u8|User-Agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 #EXTINF:-1 tvg-name="FBTV" tvg-id="id" group-title="Group Title" tvg-logo="https://media.fenerbahce.org/FB/media/FB/Images/Logo/logo.png?ext=.png",FBTV
 plugin://plugin.video.smr_link_tester/?mode=play_link&amp;link=https%3A%2F%2Fwww.dailymotion.com%2Fvideo%2Fx21oo10
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.program_number=2154
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #EXTINF:-1,Kanal7 
-https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8|User-Agent=VLC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+http://nox20b.xyz:80/live/Nuray/Nuray1234/151.ts
 #EXTINF:-1 tvg-name="TRT1" tvg-id="id" group-title="Group Title" tvg-logo="https://www.trt1.com.tr/public/dm_upload/modul4/158c26d7-e92d-4279-beb2-3bc902e6c405.jpg",TRT1
-https://tv-trt1.medya.trt.com.tr/master_720.m3u8|User-Agent=VLC
+http://nox20b.xyz:80/live/Nuray/Nuray1234/87081.ts
 #EXTINF:-1 tvg-name="StarTV" tvg-id="id" group-title="Group Title" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/StarTV.svg/1200px-StarTV.svg.png",StarTV
-https://dogus-live.daioncdn.net/startv/startv_480p.m3u8|User-Agent=VLC
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.program_number=2154
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+http://nox20b.xyz:80/live/Nuray/Nuray1234/87087.ts
 #EXTINF:-1,ATV
-https://trkvz.daioncdn.net/atv/atv.m3u8?ce=3&app=d1ce2d40-5256-4550-b02e-e73c185a314e&st=tUBoORiulYJANRkb5qW18g&e=1653270688&dfp_paln=AQzzBGQES0nP6lPPFVNZ6TO1FWYazjulMl4PKSk1AeO-Ype18CjLSXs7tUFcJ2FvllgFV1aJYTWkVtwcIqtLjnlZCeLr2ZhbERGmXDK3-CjM0tfYyVTRvhi7GWHr7ea4KivUwf1KW3Qzaf4GG_MGG0FrgwrzJ5nmOsf7qFCTO_VU6bcwaYQNpq9SijAbCIuLKgpqlqSFryd93M6oguZLbTp9t0qPmBPtZdslg7AWV6mPml5ZPquQ-wEnnXDW042ISKKl8VVg6WWZBg81cvMccByZZYU-DHPDX0Z_Ol5JdLW1v10coNJyLIjOdWwcHQw9KmjDoHmsZ4YLngJZBdhltX6ofV77AyTFqi8ODj0GAcFRnC2CJTpKaTwJpPJ33PBYF6gUQUVIkh6EZS3x3_t3osPYWg13-AI0-lixQJJMnjkSjQhbQ6y0C-_ykmQJJCA0MRD70vWwBxF1P4Om1p-HGy_z4C5xiLKmtJjb57m1ChPUahjDHKZ46oL_Yzle37EnJctgqGMdOVEn87nlrMy4LYTnnS9vil0QesXyL1LUQfPwHHIkgm0szRe5zGlTXSUi-x5ldo0Rb78Fgyl7JAJzdhG3LPVkXO1Vusi-cXc1TRLXc02SWuefr76RqHOdxShNrKLCDV3Whyj4_2oVeDOI9gjTxQlM3k-x4b3IYYfL7LamHzaLkA9GLPHguhnt9tXhZzeROpIBiZ8IDEbL4Z0ghMTBLRNREKntybGUc63_yTIORORaEW-sJz1jFBXTrBI1uFs_I5_PZmCnTHOycD0NokUswlfpyqIGiTqeARRrw4zlLSX0ReRTIAMEgULYNwRclN3sexxTW7CzabJlSfXVHmRuyexgx2JBM_ihkxGDVoSbETG_BmEqkwpT7U8vUSYViFaxIQbIOTDyUDyu1jaN81gXt3q_wefxmHwG_4wf3FV46ioKE_KFTdAH_eLSHODHYLbSA-UmqhAicKYwzRwS0VwSlHcjdy5T0qLArmJ3EUkaVOtGD8u12uO2NzBrYRT6z70ThzVHAWTd|User-Agent=VLC
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.program_number=2154
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+http://nox20b.xyz:80/live/Nuray/Nuray1234/87083.ts
 #EXTINF:-1,FOX
-https://ankara.tvizlehd.com/foxtv.m3u8?tkn=xRrHUXX92cEoMapqd2A1pQ&tms=1653254674&hst=tr.canlitv.services|User-Agent=livestreamsde.js
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+http://nox20b.xyz:80/live/Nuray/Nuray1234/87085.ts
 #EXTINF:-1 tvg-name="Kral" tvg-id="id" group-title="Group Title" tvg-logo="https://i.ytimg.com/vi/88tf0H1ycDU/maxresdefault.jpg",Kral
-https://dogus.daioncdn.net/kraltv/kraltv_720p.m3u8?sid=45u9nklv23y4&app=998af748-29a7-480e-a343-52385fce91ff|User-Agent=VLC
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.program_number=2154
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+https://dogus.daioncdn.net/kraltv/kraltv_720p.m3u8?sid=45u9nklv23y4&app=998af748-29a7-480e-a343-52385fce91ff|User-Agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 #EXTINF:-1,ShowMax
-https://antalya.tvizlehd.com/showmax.m3u8?tkn=xKHI4TBoEkDBETSqs471jQ&tms=1653255419&hst=canlitvizle.com|User-Agent=livestreamsde.js
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.program_number=2154
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+https://istanbul.tvizlehd.com/showmax.m3u8?tkn=7UweG5R5sj9HEZn0KEV_dA&tms=1653510523&hst=canlitvizle.com|user-agent=http://www.anacon.org/app/chans/player/flowplayer.js
 #EXTINF:-1,Show
-https://59c7ea6bec1c6.streamlock.net/live/showtv.stream/playlist.m3u8?hash=77058148248c90b05ecbd257e1741e0c|User-Agent=livestreamsde.js
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+http://nox20b.xyz:80/live/Nuray/Nuray1234/87086.ts
 #EXTINF:-1 tvg-name="kralpop" tvg-id="id" group-title="Group Title" tvg-logo="https://i.ytimg.com/vi/dEHMR7Qpthw/maxresdefault_live.jpg",kralpop
-https://dogus.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8?sid=45u9e0koib5e&app=f38a38b4-ce55-4040-8676-9826937d6128|User-Agent=VLC
+https://dogus.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8?sid=45u9e0koib5e&app=f38a38b4-ce55-4040-8676-9826937d6128|User-Agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 #EXTINF:-1 tvg-name="TV 360" tvg-id="id" group-title="Group Title" tvg-logo="https://www.canlitv.vin/kanallar/ogtv-360.png",TV 360
-https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8|User-Agent=VLC
+https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8|User-Agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 #EXTINF:-1 tvg-name="24 TV" tvg-id="id" group-title="Group Title" tvg-logo="https://i.ytimg.com/vi/MWAX4cSdrRM/hqdefault_live.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBQ5X1pQR88nm7qUZAMysraLIBcBw",24 TV
 plugin://plugin.video.smr_link_tester/?mode=play_link&amp;link=https%3A%2F%2Fwww.dailymotion.com%2Fvideo%2Fx648u9s
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.program_number=2154
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #EXTINF:-1,teve2
-https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8?min=0&max=2500&live=true&app=com.tv2|User-Agent=livestreamsde.js
+https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8?min=0&max=2500&live=true&app=com.tv2|User-Agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 #EXTINF:-1 tvg-name="Euro Star" tvg-id="id" group-title="Group Title" tvg-logo="http://www.eurostartv.com.tr/Content/img/logo.png",EuroStar
 plugin://plugin.video.smr_link_tester/?mode=play_link&amp;link=https%3A%2F%2Fwww.dailymotion.com%2Fvideo%2Fx729whv
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.program_number=2154
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #EXTINF:-1,ATV Avrupa
-https://trkvz-live.ercdn.net/atvavrupa/atvavrupa.m3u8?st=9OXwCpnZG4Rr5zjMvnIv9w&e=1653270801&SessionID=1.2.85761497.1653225600&StreamGroup=canli-yayin&Site=atvavrupa&DeviceGroup=web|User-Agent=VLC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+http://nox20b.xyz:80/live/Nuray/Nuray1234/170.ts
 #EXTINF:-1 tvg-name="CNN Türk" tvg-id="id" group-title="Group Title" tvg-logo="https://s.cnnturk.com//assets/dist/img/logo.svg",CNN Türk
-https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8|User-Agent=VLC
+https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8|User-Agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 #EXTINF:-1 tvg-name="DMAX" tvg-id="id" group-title="Group Title" tvg-logo="https://i.ytimg.com/vi/xM60UTbAIH8/maxresdefault_live.jpg",DMAX
-https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMi8yMDE4IDEwOjExOjA2IFBNJmhhc2hfdmFsdWU9cGtzUElvZjBwOUFIcDZRenpxQmxLdz09JnZhbGlkbWludXRlcz01|User-Agent=VLC
+https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMi8yMDE4IDEwOjExOjA2IFBNJmhhc2hfdmFsdWU9cGtzUElvZjBwOUFIcDZRenpxQmxLdz09JnZhbGlkbWludXRlcz01|User-Agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 #EXTINF:-1 tvg-name="Dreamtürk" tvg-id="id" group-title="Group Title" tvg-logo="https://i.ytimg.com/vi/xM60UTbAIH8/maxresdefault_live.jpg",Dreamtürk 
-https://live.duhnet.tv//S2/HLS_LIVE/dreamturknp/track_4_1000/playlist.m3u8?key=7763e4ac1e460d9913ada7b279c8af81&live=true&app=com.dreamturk|User-Agent=VLC
+https://live.duhnet.tv//S2/HLS_LIVE/dreamturknp/track_4_1000/playlist.m3u8?key=7763e4ac1e460d9913ada7b279c8af81&live=true&app=com.dreamturk|User-Agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 
