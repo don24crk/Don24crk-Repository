@@ -1,40 +1,39 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="GSTV" tvg-id="id" group-title="Group Title" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c2/Gstv_00.png",GSTV
-https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b846000_sltur.m3u8|user-agent=http://www.anacon.org/app/chans/player/flowplayer.js
-#EXTINF:-1 tvg-name="FBTV" tvg-id="id" group-title="Group Title" tvg-logo="https://media.fenerbahce.org/FB/media/FB/Images/Logo/logo.png?ext=.png",FBTV
-https://istanbul.tvizlehd.com/fbtv.m3u8?tkn=5-LSNo1IGb08FPjgtJikOw&tms=1653517310&hst=tr.canlitv.team|user-agent=http://www.anacon.org/app/chans/player/flowplayer.js
-#EXTINF:-1,Kanal7 
-https://ankara.tvizlehd.com/kanal7.m3u8?tkn=JI_C4OBwevRAjdeWCkA_-g&tms=1653517088&hst=canlitvizle.com|user-agent=http://www.anacon.org/app/chans/player/flowplayer.js
-#EXTINF:-1 tvg-name="TRT1" tvg-id="id" group-title="Group Title" tvg-logo="https://www.trt1.com.tr/public/dm_upload/modul4/158c26d7-e92d-4279-beb2-3bc902e6c405.jpg",TRT1
-https://black.tvizlehd.com/trt1.m3u8?tkn=5MRY3B-kXQh-diyOLC_1nQ&tms=1653517013&hst=canlitvizle.com|user-agent=http://www.anacon.org/app/chans/player/flowplayer.js
-#EXTINF:-1 tvg-name="StarTV" tvg-id="id" group-title="Group Title" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/StarTV.svg/1200px-StarTV.svg.png",StarTV
-https://antalya.tvizlehd.com/startv360.m3u8?tkn=ky-8lKLnVJ9Tx8hWviyWaA&tms=1653521160&hst=www.canlitv.vin|user-agent=http://www.anacon.org/app/chans/player/flowplayer.js
+#EXTINF:-1,GSTV
+https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b846000_sltur.m3u8
+#EXTINF:-1,FBTV
+https://istanbul.tvizlehd.com/fbtv.m3u8?tkn=5-LSNo1IGb08FPjgtJikOw&tms=1653517310&hst=tr.canlitv.team
+#EXTINF:-1,Kanal 7 
+https://ankara.tvizlehd.com/kanal7.m3u8?tkn=JI_C4OBwevRAjdeWCkA_-g&tms=1653517088&hst=canlitvizle.com
+#EXTINF:-1,TRT1
+https://black.tvizlehd.com/trt1.m3u8?tkn=5MRY3B-kXQh-diyOLC_1nQ&tms=1653517013&hst=canlitvizle.com
+#EXTINF:-1,StarTV
+https://antalya.tvizlehd.com/startv360.m3u8?tkn=ky-8lKLnVJ9Tx8hWviyWaA&tms=1653521160&hst=www.canlitv.vin
 #EXTINF:-1,ATV
-https://ankara.tvizlehd.com/atv.m3u8?tkn=8FHrsWYmZHlblvj-gq7mUw&tms=1653516816&hst=canlitvizle.com|user-agent=http://www.anacon.org/app/chans/player/flowplayer.js
+https://ankara.tvizlehd.com/atv.m3u8?tkn=8FHrsWYmZHlblvj-gq7mUw&tms=1653516816&hst=canlitvizle.com
 #EXTINF:-1,FOX
-https://ankara.tvizlehd.com/foxtv.m3u8?tkn=lyYfFvRYDzVQ60loiSJ7ww&tms=1653516730&hst=canlitvizle.com|user-agent=http://www.anacon.org/app/chans/player/flowplayer.js
-#EXTINF:-1 tvg-name="Kral" tvg-id="id" group-title="Group Title" tvg-logo="https://i.ytimg.com/vi/88tf0H1ycDU/maxresdefault.jpg",Kral
-https://dogus.daioncdn.net/kraltv/kraltv_720p.m3u8?sid=45u9nklv23y4&app=998af748-29a7-480e-a343-52385fce91ff|User-Agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://ankara.tvizlehd.com/foxtv.m3u8?tkn=lyYfFvRYDzVQ60loiSJ7ww&tms=1653516730&hst=canlitvizle.com
+#EXTINF:-1,Kral
+https://dogus.daioncdn.net/kraltv/kraltv_720p.m3u8?sid=45u9nklv23y4&app=998af748-29a7-480e-a343-52385fce91ff
 #EXTINF:-1,ShowMax
-https://istanbul.tvizlehd.com/showmax.m3u8?tkn=7UweG5R5sj9HEZn0KEV_dA&tms=1653510523&hst=canlitvizle.com|user-agent=http://www.anacon.org/app/chans/player/flowplayer.js
+https://istanbul.tvizlehd.com/showmax.m3u8?tkn=7UweG5R5sj9HEZn0KEV_dA&tms=1653510523&hst=canlitvizle.com
 #EXTINF:-1,Show
-https://ankara.tvizlehd.com/showtv.m3u8?tkn=XsGAW6xtnV3BpVTrwTZd7w&tms=1653516630&hst=tr.canlitv.team|user-agent=http://www.anacon.org/app/chans/player/flowplayer.js
-#EXTINF:-1 tvg-name="kralpop" tvg-id="id" group-title="Group Title" tvg-logo="https://i.ytimg.com/vi/dEHMR7Qpthw/maxresdefault_live.jpg",kralpop
-https://dogus.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8?sid=45u9e0koib5e&app=f38a38b4-ce55-4040-8676-9826937d6128|User-Agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-#EXTINF:-1 tvg-name="TV 360" tvg-id="id" group-title="Group Title" tvg-logo="https://www.canlitv.vin/kanallar/ogtv-360.png",TV 360
-https://ankara.tvizlehd.com/360tv.m3u8?tkn=_2bGl0QTuw74QE9eEirdUQ&tms=1653517418&hst=tr.canlitv.team|User-Agent=http://www.anacon.org/app/chans/player/flowplayer.js
-#EXTINF:-1 tvg-name="24 TV" tvg-id="id" group-title="Group Title" tvg-logo="https://i.ytimg.com/vi/MWAX4cSdrRM/hqdefault_live.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBQ5X1pQR88nm7qUZAMysraLIBcBw",24 TV
-https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/playlist.m3u8|user-agent=http://www.anacon.org/app/chans/player/flowplayer.js
+https://ankara.tvizlehd.com/showtv.m3u8?tkn=XsGAW6xtnV3BpVTrwTZd7w&tms=1653516630&hst=tr.canlitv.team
+#EXTINF:-1,kralpop
+https://dogus.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8?sid=45u9e0koib5e&app=f38a38b4-ce55-4040-8676-9826937d6128
+#EXTINF:-1,TV 360
+https://ankara.tvizlehd.com/360tv.m3u8?tkn=_2bGl0QTuw74QE9eEirdUQ&tms=1653517418&hst=tr.canlitv.team
+#EXTINF:-1,24 TV
+https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/playlist.m3u8
 #EXTINF:-1,teve2
-https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8?min=0&max=2500&live=true&app=com.tv2|User-Agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-#EXTINF:-1 tvg-name="Euro Star" tvg-id="id" group-title="Group Title" tvg-logo="http://www.eurostartv.com.tr/Content/img/logo.png",EuroStar
-https://bursa.tvizlehd.com/eurostar.m3u8?tkn=4p1H_jNwq_yzCWayEWLN_w&tms=1653517572&hst=tr.canlitv.team|User-Agent=http://www.anacon.org/app/chans/player/flowplayer.js
+https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8?min=0&max=2500&live=true&app=com.tv2
+#EXTINF:-1,Euro Star
+https://bursa.tvizlehd.com/eurostar.m3u8?tkn=4p1H_jNwq_yzCWayEWLN_w&tms=1653517572&hst=tr.canlitv.team
 #EXTINF:-1,ATV Avrupa
-https://bursa.tvizlehd.com/atvavrupa.m3u8?tkn=Ice0Or-cigLJG749Qx-xjQ&tms=1653516565&hst=tr.canlitv.team|user-agent=http://www.anacon.org/app/chans/player/flowplayer.js
-#EXTINF:-1 tvg-name="CNN Türk" tvg-id="id" group-title="Group Title" tvg-logo="https://s.cnnturk.com//assets/dist/img/logo.svg",CNN Türk
-https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8|User-Agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-#EXTINF:-1 tvg-name="DMAX" tvg-id="id" group-title="Group Title" tvg-logo="https://i.ytimg.com/vi/xM60UTbAIH8/maxresdefault_live.jpg",DMAX
-https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMi8yMDE4IDEwOjExOjA2IFBNJmhhc2hfdmFsdWU9cGtzUElvZjBwOUFIcDZRenpxQmxLdz09JnZhbGlkbWludXRlcz01|User-Agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-#EXTINF:-1 tvg-name="Dreamtürk" tvg-id="id" group-title="Group Title" tvg-logo="https://i.ytimg.com/vi/xM60UTbAIH8/maxresdefault_live.jpg",Dreamtürk 
-https://live.duhnet.tv//S2/HLS_LIVE/dreamturknp/track_4_1000/playlist.m3u8?key=7763e4ac1e460d9913ada7b279c8af81&live=true&app=com.dreamturk|User-Agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-
+https://bursa.tvizlehd.com/atvavrupa.m3u8?tkn=Ice0Or-cigLJG749Qx-xjQ&tms=1653516565&hst=tr.canlitv.team
+#EXTINF:-1,CNN Türk
+https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
+#EXTINF:-1,DMAX
+https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMi8yMDE4IDEwOjExOjA2IFBNJmhhc2hfdmFsdWU9cGtzUElvZjBwOUFIcDZRenpxQmxLdz09JnZhbGlkbWludXRlcz01
+#EXTINF:-1,Dreamtürk
+https://live.duhnet.tv//S2/HLS_LIVE/dreamturknp/track_4_1000/playlist.m3u8?key=7763e4ac1e460d9913ada7b279c8af81&live=true&app=com.dreamturk
