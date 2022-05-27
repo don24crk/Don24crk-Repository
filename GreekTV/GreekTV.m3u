@@ -1,34 +1,34 @@
 #EXTM3U
 #EXTINF:-1,ERT1 
 https://ert1-live.ert.insyscd.net/out/v1/bc7e22e489c7452280769c91743cc2f3/ert1-live_1.m3u8
+#EXTINF:-1,ERT2
+https://s2.cystream.net/live/ert2/chunks.m3u8?nimblesessionid=8918479&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNy8yMDIyIDEyOjU4OjA4IFBNJmhhc2hfdmFsdWU9bS9uUXJjS2hWWkFIQ3JGRGlQOHh4Zz09JnZhbGlkbWludXRlcz0yMA==|User-Agent=http://www.anacon.org/app/chans/player/flowplayer.hlsjs.js
+#EXTINF:-1,ERT3
+https://s2.cystream.net/live/ert3/chunks.m3u8?nimblesessionid=8918486&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNy8yMDIyIDEyOjU4OjQ3IFBNJmhhc2hfdmFsdWU9UU1ubk5ER01ySG5zUVZiTmVyVGxCdz09JnZhbGlkbWludXRlcz0yMA==|User-Agent=http://www.anacon.org/app/chans/player/flowplayer.hlsjs.js
 #EXTINF:-1,ERTWORLD (No VPN)
 http://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8
 #EXTINF:-1,ERT NEWS (No VPN)
 https://ert-live-bcbs15228.siliconweb.com/media/ert_news/ert_news.m3u8
 #EXTINF:-1,SIGMA 
-https://sl2.sigmatv.com/hls/live.m3u8
+https://sl2.sigmatv.com/hls/live.m3u8|User-Agent=http://www.anacon.org/app/chans/player/flowplayer.hlsjs.js
 #EXTINF:-1,OPENTV BEYOUND (With VPN)
 https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
 #EXTINF:-1,MEGA (With VPN)
 https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8
 #EXTINF:-1,X-TV 
-https://live.cast-control.eu:443/xalastratv/xalastratv/playlist.m3u8
+https://live.cast-control.eu/xalastratv/xalastratv/playlist.m3u8
 #EXTINF:-1,TILEMOUSIKI 
 http://wpso.com:1936/hls/music1.m3u8
 #EXTINF:-1,BARAZATV 
 https://eco.streams.ovh:443/BarazaTV/BarazaTV/playlist.m3u8
 #EXTINF:-1,SMILETV 
-https://s1.cystream.net/live/smile/playlist.m3u8
-#EXTINF:-1,DIAVATATV (No VPN)
-https://video.streams.ovh:1936/DiavataTV/DiavataTV/playlist.m3u8
-#EXTINF:-1,GALAXYGR  (No VPN)
-https://channel.streams.ovh:1936/galaxygr-1/galaxygr-1/playlist.m3u8
+https://s1.cystream.net/live/smile/playlist.m3u8|User-Agent=http://www.anacon.org/app/chans/player/flowplayer.hlsjs.js
 #EXTINF:-1,ALPHATV (With VPN)
-https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8
+https://s2.cystream.net/live/alphagr/chunks.m3u8?nimblesessionid=8918457&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNy8yMDIyIDEyOjU2OjI3IFBNJmhhc2hfdmFsdWU9ZFh0dmIwZVVSL3p3THVqNmx3ZFZoUT09JnZhbGlkbWludXRlcz0yMA==|User-Agent=http://www.anacon.org/app/chans/player/flowplayer.hlsjs.js
 #EXTINF:-1,ANT1 (With VPN)
-http://95.107.132.106/out/u/atsykmssuyrsyhth.m3u8
+http://95.107.132.106/out/u/650_2.m3u8
 #EXTINF:-1,STAR (With VPN)
-http://livestar.siliconweb.com/media/star1/star1.m3u8
+https://s2.cystream.net/galanos/star/chunks.m3u8?nimblesessionid=8918428&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNy8yMDIyIDEyOjU0OjA3IFBNJmhhc2hfdmFsdWU9aHlVOGZDUjNGTVFTNHBza09PaEhtQT09JnZhbGlkbWludXRlcz0yMA==|User-Agent=http://www.anacon.org/app/chans/player/flowplayer.hlsjs.js
 #EXTINF:-1,SKAI (With VPN)
 https://skai-live-back.siliconweb.com/media/cambria4/index.m3u8
 #EXTINF:-1,10 CHRONIA GAMOU 2019 - Theatrikí Parástasi | Márkos Seferlís (Olókliri) 
