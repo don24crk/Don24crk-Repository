@@ -10,7 +10,7 @@ https://tv-trt1.medya.trt.com.tr/master.m3u8|User-Agent=http://www.anacon.org/ap
 #EXTINF:-1,StarTV
 https://dogus-live.daioncdn.net/startv/playlist.m3u8|User-Agent=http://www.anacon.org/app/chans/player/flowplayer.hlsjs.js
 #EXTINF:-1,ATV
-https://trkvz.daioncdn.net/atv/atv.m3u8?ce=3&app=d1ce2d40-5256-4550-b02e-e73c185a314e&st=hVV4Ni9ABlo0jGCILaiEpA&e=1653704862&dfp_paln=AQzzBGQE5lGcgANM43LYZhEJjJwIUE9OZpp1v-m-4NVuNDCmeuXTyanDwyLGuMIPNllheKXj5sLjxWAH5QBWnIvAuYTVvI1402Gzl_GnBj1DkJ9mh7T6dJtHH_D5Me2PIRIA3uyS9NKTnZnUNypt0ihEpcOTls9fCRkW2Ti9ml9R6uSZTpgViLaCrBn6p2q629vmfimmiZa11Q9x9H56O4QrDkhqhNf6fbuXT3NYYNpA8rI-jxoC0fvANvNRBe8Wnb_pdkxrmhUZ5CMXNfgjiiRPKKTfems0Zyx2YFF-R2MPfcBQSO0zZMGI1eNmeiWO86CBKlbfT5dC5LfQ2U6aJ6p8ryflO8K5syFaqFYPh0U5Ci14s_jFfjszpj-EWbOzIvMqeiyUiIayBijEm0_ku61ZTj9fTzHZIcKkznpaACC20g2VkQ6M0k_Pa9GndoDcbALzUUWZdCwltFv6o2dl9UAI1Bboo-JYN-BTjtYHqamillemgQFv8CHxrURsPwXlOgraHhqNxdlEpl3Ynx26OWLYM_UvVaY75YdHxNcAko-sZzYi-RmO5vHTK-VID1WQhbP5-IL2WbPU1pjjUrJg_ia5OkP8i5FKwGh6FdHcvo2gwAJDTS2hXNX7E-f5Osgx3bUKtZOnRLYfk8wDxzjNbzOQtCQA_W_za3Rj5PAyaxYzNTdMTUcpsgeWxk30C-zkLmUSId4lltIXAzqdGYoOsg4QaJci1tjJ9_Dk9y6K1R-GaHLJUm26n3-PVwANsGVAoiRDTWSdqUPqN00als3zjkVUgyDZtxoUdIzypgKEld623ko0c8d_7C2Ugj2nowWHcZoWHiEIWVdhP0H4UlUyLVVG-lhr-KCKykNibhHrlu6jVUcQQCxoti5rIALA6e80vLxc0cifexm58uhnsvcZjfY89zNcwSz7qQdORJVCJ68pWNBiwnR55D62wnWtbSGnmZ8T5lsRDfg5_65Shczq_8yoKQrv4QCxbqe2n1Zj4-qoEU3ypaBXFHRLSSMXtSf9lYjL3UOSzrRq|User-Agent=http://www.anacon.org/app/chans/player/flowplayer.hlsjs.js
+https://trkvz.daioncdn.net/atv/atv_1080p.m3u8?e=1653726414&st=M_zwrzjESQzRcuoYLYfzWA&sid=4fd2xueevdni&app=d1ce2d40-5256-4550-b02e-e73c185a314e&ce=3|User-Agent=http://www.anacon.org/app/chans/player/flowplayer.hlsjs.js
 #EXTINF:-1,FOX
 https://foxtv.daioncdn.net/foxtv/foxtv_720p.m3u8?ex=1653697756&st=SfHYuzuSQH_kh1gt6y3M-Q&sid=4fd1d6c78w11&app=24e7a2e2-9156-4c02-a4fb-2bc599ffaf77&ce=3|User-Agent=http://www.anacon.org/app/chans/player/flowplayer.hlsjs.js
 #EXTINF:-1,Kral
@@ -30,7 +30,8 @@ https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8?min=0&max
 #EXTINF:-1,Euro Star
 https://stream-06.dc3.dailymotion.com/sec(YrrUAJd7Mkrt71XkqWdXrV-zp03PF2jw_363z-YZBbVPYJIGfr7nj29xNb8Fom_S)/dm/3/x729whv/s/live-4.m3u8#cell=lcore|User-Agent=http://www.anacon.org/app/chans/player/flowplayer.hlsjs.js
 #EXTINF:-1,ATV Avrupa
-https://trkvz-live.ercdn.net/atvavrupa/atvavrupa.m3u8?st=sM-nf8WEnK6oVWrNyZhssg&e=1653705084&SessionID=1.2.561496755.1653659883&StreamGroup=canli-yayin&Site=atvavrupa&DeviceGroup=web|User-Agent=http://www.anacon.org/app/chans/player/flowplayer.hlsjs.js
+#EXTINF:-1,ATV Avrupa
+https://trkvz-live.ercdn.net/atvavrupa/atvavrupa_576p.m3u8?st=U0IfKV9AYJP9dxquxvgWvg&e=1653726604&SessionID=1.2.795859677.1653681405&StreamGroup=canli-yayin&Site=atvavrupa&DeviceGroup=web|User-Agent=http://www.anacon.org/app/chans/player/flowplayer.hlsjs.js
 #EXTINF:-1,CNN Türk
 https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8|User-Agent=http://www.anacon.org/app/chans/player/flowplayer.hlsjs.js
 #EXTINF:-1,DMAX
