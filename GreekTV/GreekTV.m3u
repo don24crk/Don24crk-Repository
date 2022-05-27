@@ -22,7 +22,7 @@ https://s1.cystream.net/live/smile/playlist.m3u8|User-Agent=http://www.anacon.or
 #EXTINF:-1,ALPHATV (With VPN)
 https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/f1yvzq9v/2728/chunklist.m3u8|User-Agent=http://www.anacon.org/app/chans/player/flowplayer.hlsjs.js
 #EXTINF:-1,ANT1 (With VPN)
-http://95.107.132.106/out/u/650_2.m3u8
+http://95.107.132.106/out/u/650_2.m3u8|User-Agent=http://www.anacon.org/app/chans/player/flowplayer.hlsjs.js
 #EXTINF:-1,STAR (With VPN)
 https://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8|User-Agent=http://www.anacon.org/app/chans/player/flowplayer.hlsjs.js
 #EXTINF:-1,SKAI (With VPN)
