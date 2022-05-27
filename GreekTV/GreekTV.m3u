@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1,ERT1 
 https://ert1-live.ert.insyscd.net/out/v1/bc7e22e489c7452280769c91743cc2f3/ert1-live_1.m3u8
-#EXTINF:-1,ERT2
-https://s2.cystream.net/live/ert2/chunks.m3u8?nimblesessionid=8918479&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNy8yMDIyIDEyOjU4OjA4IFBNJmhhc2hfdmFsdWU9bS9uUXJjS2hWWkFIQ3JGRGlQOHh4Zz09JnZhbGlkbWludXRlcz0yMA==|User-Agent=http://www.anacon.org/app/chans/player/flowplayer.hlsjs.js
-#EXTINF:-1,ERT3
-https://s2.cystream.net/live/ert3/chunks.m3u8?nimblesessionid=8918486&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNy8yMDIyIDEyOjU4OjQ3IFBNJmhhc2hfdmFsdWU9UU1ubk5ER01ySG5zUVZiTmVyVGxCdz09JnZhbGlkbWludXRlcz0yMA==|User-Agent=http://www.anacon.org/app/chans/player/flowplayer.hlsjs.js
 #EXTINF:-1,ERTWORLD (No VPN)
 http://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8
 #EXTINF:-1,ERT NEWS (No VPN)
@@ -24,13 +20,13 @@ https://eco.streams.ovh:443/BarazaTV/BarazaTV/playlist.m3u8
 #EXTINF:-1,SMILETV 
 https://s1.cystream.net/live/smile/playlist.m3u8|User-Agent=http://www.anacon.org/app/chans/player/flowplayer.hlsjs.js
 #EXTINF:-1,ALPHATV (With VPN)
-https://s2.cystream.net/live/alphagr/chunks.m3u8?nimblesessionid=8918457&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNy8yMDIyIDEyOjU2OjI3IFBNJmhhc2hfdmFsdWU9ZFh0dmIwZVVSL3p3THVqNmx3ZFZoUT09JnZhbGlkbWludXRlcz0yMA==|User-Agent=http://www.anacon.org/app/chans/player/flowplayer.hlsjs.js
+https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/f1yvzq9v/2728/chunklist.m3u8|User-Agent=http://www.anacon.org/app/chans/player/flowplayer.hlsjs.js
 #EXTINF:-1,ANT1 (With VPN)
 http://95.107.132.106/out/u/650_2.m3u8
 #EXTINF:-1,STAR (With VPN)
-https://s2.cystream.net/galanos/star/chunks.m3u8?nimblesessionid=8918428&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNy8yMDIyIDEyOjU0OjA3IFBNJmhhc2hfdmFsdWU9aHlVOGZDUjNGTVFTNHBza09PaEhtQT09JnZhbGlkbWludXRlcz0yMA==|User-Agent=http://www.anacon.org/app/chans/player/flowplayer.hlsjs.js
+https://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8|User-Agent=http://www.anacon.org/app/chans/player/flowplayer.hlsjs.js
 #EXTINF:-1,SKAI (With VPN)
-https://skai-live-back.siliconweb.com/media/cambria4/index.m3u8
+https://skai-live-back.siliconweb.com/media/cambria4/index_bitrate2000K.m3u8
 #EXTINF:-1,10 CHRONIA GAMOU 2019 - Theatrikí Parástasi | Márkos Seferlís (Olókliri) 
 plugin://plugin.video.smr_link_tester/?mode=play_link&amp;link=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dh_jkbJH_MTA
 #EXTINF:-1,Des Ta Re Elláda Óla Aftá - Theatrikí Parástasi | Márkos Seferlís (Olókliri) 
