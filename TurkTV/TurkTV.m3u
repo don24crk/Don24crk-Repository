@@ -1,39 +1,39 @@
 #EXTM3U
 #EXTINF:-1,GSTV
-https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b846000_sltur.m3u8
+https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b846000_sltur.m3u8|User-Agent=http://www.anacon.org/app/chans/player/flowplayer.hlsjs.js
 #EXTINF:-1,FBTV
-https://istanbul.tvizlehd.com/fbtv.m3u8?tkn=5-LSNo1IGb08FPjgtJikOw&tms=1653517310&hst=tr.canlitv.team
+https://www.dailymotion.com/cdn/live/video/x21oo10.m3u8?sec=qigQbMdJE-A-AG4rAJsQcgyo0EEEVwdGR5u0cj6ImhNc_UOdTX1897mZL7simI4awE370qnmOXZLJlN2_UFbSw&dmTs=382943&dmV1st=813416DB43ADF180275DCC2624732D10|User-Agent=http://www.anacon.org/app/chans/player/flowplayer.hlsjs.js
 #EXTINF:-1,Kanal 7 
-https://ankara.tvizlehd.com/kanal7.m3u8?tkn=JI_C4OBwevRAjdeWCkA_-g&tms=1653517088&hst=canlitvizle.com
+https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8|User-Agent=http://www.anacon.org/app/chans/player/flowplayer.hlsjs.js
 #EXTINF:-1,TRT1
-https://black.tvizlehd.com/trt1.m3u8?tkn=5MRY3B-kXQh-diyOLC_1nQ&tms=1653517013&hst=canlitvizle.com
+https://tv-trt1.medya.trt.com.tr/master.m3u8|User-Agent=http://www.anacon.org/app/chans/player/flowplayer.hlsjs.js
 #EXTINF:-1,StarTV
-https://antalya.tvizlehd.com/startv360.m3u8?tkn=ky-8lKLnVJ9Tx8hWviyWaA&tms=1653521160&hst=www.canlitv.vin
+https://dogus-live.daioncdn.net/startv/playlist.m3u8|User-Agent=http://www.anacon.org/app/chans/player/flowplayer.hlsjs.js
 #EXTINF:-1,ATV
-https://ankara.tvizlehd.com/atv.m3u8?tkn=8FHrsWYmZHlblvj-gq7mUw&tms=1653516816&hst=canlitvizle.com
+https://trkvz.daioncdn.net/atv/atv.m3u8?ce=3&app=d1ce2d40-5256-4550-b02e-e73c185a314e&st=hVV4Ni9ABlo0jGCILaiEpA&e=1653704862&dfp_paln=AQzzBGQE5lGcgANM43LYZhEJjJwIUE9OZpp1v-m-4NVuNDCmeuXTyanDwyLGuMIPNllheKXj5sLjxWAH5QBWnIvAuYTVvI1402Gzl_GnBj1DkJ9mh7T6dJtHH_D5Me2PIRIA3uyS9NKTnZnUNypt0ihEpcOTls9fCRkW2Ti9ml9R6uSZTpgViLaCrBn6p2q629vmfimmiZa11Q9x9H56O4QrDkhqhNf6fbuXT3NYYNpA8rI-jxoC0fvANvNRBe8Wnb_pdkxrmhUZ5CMXNfgjiiRPKKTfems0Zyx2YFF-R2MPfcBQSO0zZMGI1eNmeiWO86CBKlbfT5dC5LfQ2U6aJ6p8ryflO8K5syFaqFYPh0U5Ci14s_jFfjszpj-EWbOzIvMqeiyUiIayBijEm0_ku61ZTj9fTzHZIcKkznpaACC20g2VkQ6M0k_Pa9GndoDcbALzUUWZdCwltFv6o2dl9UAI1Bboo-JYN-BTjtYHqamillemgQFv8CHxrURsPwXlOgraHhqNxdlEpl3Ynx26OWLYM_UvVaY75YdHxNcAko-sZzYi-RmO5vHTK-VID1WQhbP5-IL2WbPU1pjjUrJg_ia5OkP8i5FKwGh6FdHcvo2gwAJDTS2hXNX7E-f5Osgx3bUKtZOnRLYfk8wDxzjNbzOQtCQA_W_za3Rj5PAyaxYzNTdMTUcpsgeWxk30C-zkLmUSId4lltIXAzqdGYoOsg4QaJci1tjJ9_Dk9y6K1R-GaHLJUm26n3-PVwANsGVAoiRDTWSdqUPqN00als3zjkVUgyDZtxoUdIzypgKEld623ko0c8d_7C2Ugj2nowWHcZoWHiEIWVdhP0H4UlUyLVVG-lhr-KCKykNibhHrlu6jVUcQQCxoti5rIALA6e80vLxc0cifexm58uhnsvcZjfY89zNcwSz7qQdORJVCJ68pWNBiwnR55D62wnWtbSGnmZ8T5lsRDfg5_65Shczq_8yoKQrv4QCxbqe2n1Zj4-qoEU3ypaBXFHRLSSMXtSf9lYjL3UOSzrRq|User-Agent=http://www.anacon.org/app/chans/player/flowplayer.hlsjs.js
 #EXTINF:-1,FOX
-https://ankara.tvizlehd.com/foxtv.m3u8?tkn=lyYfFvRYDzVQ60loiSJ7ww&tms=1653516730&hst=canlitvizle.com
+https://foxtv-live-ad.ercdn.net/foxtv/playlist.m3u8?st=TUqNOji1zC4jLRrYzEEDMA&e=1653667405|User-Agent=http://www.anacon.org/app/chans/player/flowplayer.hlsjs.js
 #EXTINF:-1,Kral
-https://dogus.daioncdn.net/kraltv/kraltv_720p.m3u8?sid=45u9nklv23y4&app=998af748-29a7-480e-a343-52385fce91ff
+https://dogus-live.daioncdn.net/kraltv/playlist.m3u8|User-Agent=http://www.anacon.org/app/chans/player/flowplayer.hlsjs.js
 #EXTINF:-1,ShowMax
-https://istanbul.tvizlehd.com/showmax.m3u8?tkn=7UweG5R5sj9HEZn0KEV_dA&tms=1653510523&hst=canlitvizle.com
+https://ciner-live.ercdn.net/showmax/playlist.m3u8?e=1653666918&st=9N_sTCsRPds-yf8TOWannQ&tv=1|User-Agent=http://www.anacon.org/app/chans/player/flowplayer.hlsjs.js
 #EXTINF:-1,Show
-https://ankara.tvizlehd.com/showtv.m3u8?tkn=XsGAW6xtnV3BpVTrwTZd7w&tms=1653516630&hst=tr.canlitv.team
+https://ciner-live.ercdn.net/showturk/playlist.m3u8?e=1653666631&st=wMGcsQh1v3kaI0do3AadgQ&tv=1|User-Agent=http://www.anacon.org/app/chans/player/flowplayer.hlsjs.js
 #EXTINF:-1,kralpop
-https://dogus.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8?sid=45u9e0koib5e&app=f38a38b4-ce55-4040-8676-9826937d6128
+https://dygvideo.dygdigital.com/live/hls/kralpop?chunklist_b1296000.m3u8?st=HHuP0QdL1FFur-leQiuxyQ&e=1631606837|User-Agent=http://www.anacon.org/app/chans/player/flowplayer.hlsjs.js
 #EXTINF:-1,TV 360
-https://ankara.tvizlehd.com/360tv.m3u8?tkn=_2bGl0QTuw74QE9eEirdUQ&tms=1653517418&hst=tr.canlitv.team
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8|User-Agent=http://www.anacon.org/app/chans/player/flowplayer.hlsjs.js
 #EXTINF:-1,24 TV
-https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/playlist.m3u8
+https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/playlist.m3u8|User-Agent=http://www.anacon.org/app/chans/player/flowplayer.hlsjs.js
 #EXTINF:-1,teve2
-https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8?min=0&max=2500&live=true&app=com.tv2
+https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8?min=0&max=2500&live=true&app=com.tv2|User-Agent=http://www.anacon.org/app/chans/player/flowplayer.hlsjs.js
 #EXTINF:-1,Euro Star
-https://bursa.tvizlehd.com/eurostar.m3u8?tkn=4p1H_jNwq_yzCWayEWLN_w&tms=1653517572&hst=tr.canlitv.team
+https://www.dailymotion.com/cdn/live/video/x729whv.m3u8?sec=ZFnjQ-pCguBtpKoFaPvhtw4sBEjJpLE0apAw3V5ewHn_Qp_uPxtpJdPu4mnu01vGvqXQd-PHOQUn1UmYrIL-Lg&dmTs=382943&dmV1st=813416DB43ADF180275DCC2624732D10|User-Agent=http://www.anacon.org/app/chans/player/flowplayer.hlsjs.js
 #EXTINF:-1,ATV Avrupa
-https://bursa.tvizlehd.com/atvavrupa.m3u8?tkn=Ice0Or-cigLJG749Qx-xjQ&tms=1653516565&hst=tr.canlitv.team
+https://trkvz-live.ercdn.net/atvavrupa/atvavrupa.m3u8?st=sM-nf8WEnK6oVWrNyZhssg&e=1653705084&SessionID=1.2.561496755.1653659883&StreamGroup=canli-yayin&Site=atvavrupa&DeviceGroup=web|User-Agent=http://www.anacon.org/app/chans/player/flowplayer.hlsjs.js
 #EXTINF:-1,CNN Türk
-https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
+https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8|User-Agent=http://www.anacon.org/app/chans/player/flowplayer.hlsjs.js
 #EXTINF:-1,DMAX
-https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMi8yMDE4IDEwOjExOjA2IFBNJmhhc2hfdmFsdWU9cGtzUElvZjBwOUFIcDZRenpxQmxLdz09JnZhbGlkbWludXRlcz01
+https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMi8yMDE4IDEwOjExOjA2IFBNJmhhc2hfdmFsdWU9cGtzUElvZjBwOUFIcDZRenpxQmxLdz09JnZhbGlkbWludXRlcz01|User-Agent=http://www.anacon.org/app/chans/player/flowplayer.hlsjs.js
 #EXTINF:-1,Dreamtürk
-https://live.duhnet.tv//S2/HLS_LIVE/dreamturknp/track_4_1000/playlist.m3u8?key=7763e4ac1e460d9913ada7b279c8af81&live=true&app=com.dreamturk
+https://live.duhnet.tv//S2/HLS_LIVE/dreamturknp/track_4_1000/playlist.m3u8?key=7763e4ac1e460d9913ada7b279c8af81&live=true&app=com.dreamturk|User-Agent=http://www.anacon.org/app/chans/player/flowplayer.hlsjs.js
