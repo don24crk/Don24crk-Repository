@@ -1,40 +1,39 @@
 #EXTM3U
 #EXTINF:-1,GSTV
-https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b2328000_sltur.m3u8|User-Agent=http://www.anacon.org/app/chans/player/flowplayer.hlsjs.js
+https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b2328000_sltur.m3u8|User-Agent=https://canlitv.center/player/jwplayer.js
 #EXTINF:-1,FBTV
-https://59c7ea6bec1c6.streamlock.net/live/fbtv.stream/playlist.m3u8?hash=15dc151b7ac9dff8e335ae42c9592c1d|User-Agent=http://www.anacon.org/app/chans/player/flowplayer.hlsjs.js
+https://ankara.tvizlehd.com/fbtv.m3u8?tkn=YBzG14lz_KsZ0-kloyy8wA&tms=1653785657&hst=www.canlitv.vin|User-Agent=https://canlitv.center/player/jwplayer.js
 #EXTINF:-1,Kanal 7 
-https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8|User-Agent=http://www.anacon.org/app/chans/player/flowplayer.hlsjs.js
+https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8|User-Agent=https://canlitv.center/player/jwplayer.js
 #EXTINF:-1,TRT1
-https://tv-trt1.medya.trt.com.tr/master.m3u8|User-Agent=http://www.anacon.org/app/chans/player/flowplayer.hlsjs.js
+https://tv-trt1.medya.trt.com.tr/master_360.m3u8|User-Agent=https://tr.canlitv.team/player/player.js
 #EXTINF:-1,StarTV
-https://dogus-live.daioncdn.net/startv/playlist.m3u8|User-Agent=http://www.anacon.org/app/chans/player/flowplayer.hlsjs.js
+https://dogus-live.daioncdn.net/startv/playlist.m3u8|User-Agent=https://canlitv.center/player/jwplayer.js
 #EXTINF:-1,ATV
-https://trkvz.daioncdn.net/atv/atv_1080p.m3u8?e=1653726414&st=M_zwrzjESQzRcuoYLYfzWA&sid=4fd2xueevdni&app=d1ce2d40-5256-4550-b02e-e73c185a314e&ce=3|User-Agent=http://www.anacon.org/app/chans/player/flowplayer.hlsjs.js
+https://bursa.tvizlehd.com/atv.m3u8?tkn=reZ4kb-m2fNSqWz4PeTnMA&tms=1653785225&hst=www.canlitv.vin|User-Agent=https://canlitv.center/player/jwplayer.js
 #EXTINF:-1,FOX
-https://foxtv.daioncdn.net/foxtv/foxtv_720p.m3u8?ex=1653697756&st=SfHYuzuSQH_kh1gt6y3M-Q&sid=4fd1d6c78w11&app=24e7a2e2-9156-4c02-a4fb-2bc599ffaf77&ce=3|User-Agent=http://www.anacon.org/app/chans/player/flowplayer.hlsjs.js
+https://istanbul.tvizlehd.com/foxtv.m3u8?tkn=GobgkhztJG02JGaKWZGJLg&tms=1653785814&hst=canlitvizle.com|User-Agent=https://canlitv.center/player/jwplayer.js
 #EXTINF:-1,Kral
 https://dogus-live.daioncdn.net/kraltv/playlist.m3u8|User-Agent=http://www.anacon.org/app/chans/player/flowplayer.hlsjs.js
 #EXTINF:-1,ShowMax
-https://ciner-live.ercdn.net/showmax/showmax_720p.m3u8?e=1653687152&st=4P7NewA9zta2yj6v_G2Kxg&tv=1|User-Agent=http://www.anacon.org/app/chans/player/flowplayer.hlsjs.js
+https://ankara.tvizlehd.com/showmax.m3u8?tkn=gzmoBEueRJ--WLdmx0-Slg&tms=1653785584&hst=www.canlitv.vin|User-Agent=https://canlitv.center/player/jwplayer.js
 #EXTINF:-1,Show
-https://ciner-live.ercdn.net/showturk/showturk_720p.m3u8?e=1653687397&st=OwcW2w2z_PnSxAF3sSy5lg&tv=1|User-Agent=http://www.anacon.org/app/chans/player/flowplayer.hlsjs.js
+https://istanbul.tvizlehd.com/showtv.m3u8?tkn=mAqVIVX5kBNmgflNHCIu7A&tms=1653785523&hst=www.canlitv.vin|User-Agent=https://canlitv.center/player/jwplayer.js
 #EXTINF:-1,kralpop
 https://dygvideo.dygdigital.com/live/hls/kralpop?chunklist_b1296000.m3u8?st=HHuP0QdL1FFur-leQiuxyQ&e=1631606837|User-Agent=http://www.anacon.org/app/chans/player/flowplayer.hlsjs.js
 #EXTINF:-1,TV 360
-https://turkmedya-live.ercdn.net/tv360/tv360.m3u8|User-Agent=http://www.anacon.org/app/chans/player/flowplayer.hlsjs.js
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8|User-Agent=https://canlitv.center/player/jwplayer.js
 #EXTINF:-1,24 TV
-https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/playlist.m3u8|User-Agent=http://www.anacon.org/app/chans/player/flowplayer.hlsjs.js
+https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/playlist.m3u8|User-Agent=https://canlitv.center/player/jwplayer.js
 #EXTINF:-1,teve2
-https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8?min=0&max=2500&live=true&app=com.tv2|User-Agent=http://www.anacon.org/app/chans/player/flowplayer.hlsjs.js
+https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8?min=0&max=2500&live=true&app=com.tv2|User-Agent=https://canlitv.center/player/jwplayer.js
 #EXTINF:-1,Euro Star
-https://stream-06.dc3.dailymotion.com/sec(YrrUAJd7Mkrt71XkqWdXrV-zp03PF2jw_363z-YZBbVPYJIGfr7nj29xNb8Fom_S)/dm/3/x729whv/s/live-4.m3u8#cell=lcore|User-Agent=http://www.anacon.org/app/chans/player/flowplayer.hlsjs.js
+https://stream-06.dc3.dailymotion.com/sec(YrrUAJd7Mkrt71XkqWdXrV-zp03PF2jw_363z-YZBbVPYJIGfr7nj29xNb8Fom_S)/dm/3/x729whv/s/live-4.m3u8#cell=lcore|User-Agent=https://canlitv.center/player/jwplayer.js
 #EXTINF:-1,ATV Avrupa
-#EXTINF:-1,ATV Avrupa
-https://trkvz-live.ercdn.net/atvavrupa/atvavrupa_576p.m3u8?st=U0IfKV9AYJP9dxquxvgWvg&e=1653726604&SessionID=1.2.795859677.1653681405&StreamGroup=canli-yayin&Site=atvavrupa&DeviceGroup=web|User-Agent=http://www.anacon.org/app/chans/player/flowplayer.hlsjs.js
+https://bursa.tvizlehd.com/atvavrupa.m3u8?tkn=wVOh_QP48P_ozQuvOn_0KA&tms=1653784092&hst=tr.canlitv.team|User-Agent=https://canlitv.center/player/jwplayer.js
 #EXTINF:-1,CNN Türk
-https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8|User-Agent=http://www.anacon.org/app/chans/player/flowplayer.hlsjs.js
+https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8|User-Agent=https://canlitv.center/player/jwplayer.js
 #EXTINF:-1,DMAX
-https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMi8yMDE4IDEwOjExOjA2IFBNJmhhc2hfdmFsdWU9cGtzUElvZjBwOUFIcDZRenpxQmxLdz09JnZhbGlkbWludXRlcz01|User-Agent=http://www.anacon.org/app/chans/player/flowplayer.hlsjs.js
+https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMi8yMDE4IDEwOjExOjA2IFBNJmhhc2hfdmFsdWU9cGtzUElvZjBwOUFIcDZRenpxQmxLdz09JnZhbGlkbWludXRlcz01|User-Agent=https://canlitv.center/player/jwplayer.js
 #EXTINF:-1,Dreamtürk
-https://live.duhnet.tv//S2/HLS_LIVE/dreamturknp/track_4_1000/playlist.m3u8?key=7763e4ac1e460d9913ada7b279c8af81&live=true&app=com.dreamturk|User-Agent=http://www.anacon.org/app/chans/player/flowplayer.hlsjs.js
+https://live.duhnet.tv//S2/HLS_LIVE/dreamturknp/track_4_1000/playlist.m3u8?key=7763e4ac1e460d9913ada7b279c8af81&live=true&app=com.dreamturk|User-Agent=https://canlitv.center/player/jwplayer.js
