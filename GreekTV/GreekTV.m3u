@@ -24,13 +24,13 @@ https://eco.streams.ovh:443/BarazaTV/BarazaTV/playlist.m3u8
 #EXTINF:-1,SMILETV 
 https://s1.cystream.net/live/smile/playlist.m3u8|User-Agent=http://www.anacon.org/app/chans/player/flowplayer.hlsjs.js
 #EXTINF:-1,ALPHATV (With VPN)
-http://alphatvlive.siliconweb.com:80/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8|User-Agent=http://www.anacon.org/app/chans/player/flowplayer.hlsjs.js
+http://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8|User-Agent=http://www.anacon.org/app/chans/player/flowplayer.hlsjs.js
 #EXTINF:-1,ANT1 (With VPN)
 http://95.107.132.106/out/u/650_2.m3u8|User-Agent=http://www.anacon.org/app/chans/player/flowplayer.js
 #EXTINF:-1,STAR (With VPN)
-https://s2.cystream.net/galanos/star/chunks.m3u8?nimblesessionid=8932942&wmsAuthSign=c2VydmVyX3RpbWU9NS8yOC8yMDIyIDY6MDQ6MjUgUE0maGFzaF92YWx1ZT1EcjJEaWZxSlhqS05RR01ScTdBMUF3PT0mdmFsaWRtaW51dGVzPTIw|User-Agent=http://www.anacon.org/app/chans/player/flowplayer.hlsjs.js
+http://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8|User-Agent=http://www.anacon.org/app/chans/player/flowplayer.hlsjs.js
 #EXTINF:-1,SKAI (With VPN)
-https://skai-live-back.siliconweb.com:443/media/cambria4/index_bitrate2000K.m3u8
+https://skai-live-back.siliconweb.com/media/cambria4/index_bitrate2000K.m3u8
 #EXTINF:-1,10 CHRONIA GAMOU 2019 - Theatrikí Parástasi | Márkos Seferlís (Olókliri) 
 plugin://plugin.video.smr_link_tester/?mode=play_link&amp;link=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dh_jkbJH_MTA
 #EXTINF:-1,Des Ta Re Elláda Óla Aftá - Theatrikí Parástasi | Márkos Seferlís (Olókliri) 
