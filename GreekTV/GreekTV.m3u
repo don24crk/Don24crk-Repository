@@ -1,35 +1,91 @@
 #EXTM3U
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTINF:-1,ERT1 
 https://ert1-live.ert.insyscd.net/out/v1/bc7e22e489c7452280769c91743cc2f3/ert1-live_1.m3u8|User-Agent=http://www.anacon.org/app/chans/player/flowplayer.hlsjs.js
 #EXTINF:-1,ERT2
-http://ert-live-bcbs15228.siliconweb.com/media/ert_2/ert_2.m3u8|User-Agent=http://www.anacon.org/app/chans/player/flowplayer.hlsjs.js
+plugin://plugin.program.browser.launcher/?url=http%3A%2F%2Fwww.anacon.org%2Fapp%2Fgrtv.php&amp;mode=showSite&amp;stopPlayback=no&amp;kiosk=yes&amp;custBrowser=&amp;userAgent=
 #EXTINF:-1,ERT3
-http://ert-live-bcbs15228.siliconweb.com/media/ert_3/ert_3.m3u8|User-Agent=http://www.anacon.org/app/chans/player/flowplayer.hlsjs.js
+http://www.anacon.org/app/chans/gr/ert3s2.php|User-Agent=http://www.anacon.org/app/chans/player/flowplayer.hlsjs.js
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTINF:-1,ERTWORLD (No VPN)
 http://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTINF:-1,ERT NEWS (No VPN)
 https://ert-live-bcbs15228.siliconweb.com/media/ert_news/ert_news.m3u8
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTINF:-1,SIGMA 
 https://sl2.sigmatv.com/hls/live.m3u8|User-Agent=http://www.anacon.org/app/chans/player/flowplayer.hlsjs.js
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTINF:-1,OPENTV BEYOUND (With VPN)
 http://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/fbp5lvnb/2728/chunklist.m3u8
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTINF:-1,MEGA (With VPN)
 https://streamcdnb1-c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/chunklist_b3710976.m3u8|User-Agent=http://www.anacon.org/app/chans/player/flowplayer.hlsjs.js
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTINF:-1,X-TV
 https://live.cast-control.eu/xalastratv/xalastratv/playlist.m3u8
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTINF:-1,TILEMOUSIKI 
 http://wpso.com:1936/hls/music1.m3u8
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTINF:-1,BARAZATV 
 https://eco.streams.ovh:443/BarazaTV/BarazaTV/playlist.m3u8
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTINF:-1,SMILETV 
 https://s1.cystream.net/live/smile/playlist.m3u8|User-Agent=http://www.anacon.org/app/chans/player/flowplayer.hlsjs.js
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTINF:-1,ALPHATV (With VPN)
 http://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8|User-Agent=http://www.anacon.org/app/chans/player/flowplayer.hlsjs.js
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTINF:-1,ANT1 (With VPN)
 http://95.107.132.106/out/u/650_2.m3u8|User-Agent=http://www.anacon.org/app/chans/player/flowplayer.js
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTINF:-1,STAR (With VPN)
 http://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8|User-Agent=http://www.anacon.org/app/chans/player/flowplayer.hlsjs.js
 #EXTINF:-1,SKAI (With VPN)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 https://skai-live-back.siliconweb.com/media/cambria4/index_bitrate2000K.m3u8
 #EXTINF:-1,10 CHRONIA GAMOU 2019 - Theatrikí Parástasi | Márkos Seferlís (Olókliri) 
 plugin://plugin.video.smr_link_tester/?mode=play_link&amp;link=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dh_jkbJH_MTA
