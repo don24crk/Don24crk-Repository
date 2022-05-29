@@ -8,7 +8,7 @@ https://ert1-live.ert.insyscd.net/out/v1/bc7e22e489c7452280769c91743cc2f3/ert1-l
 #EXTINF:-1,ERT2
 plugin://plugin.program.browser.launcher/?url=http%3A%2F%2Fwww.anacon.org%2Fapp%2Fgrtv.php&amp;mode=showSite&amp;stopPlayback=no&amp;kiosk=yes&amp;custBrowser=&amp;userAgent=
 #EXTINF:-1,ERT3
-http://www.anacon.org/app/chans/gr/ert3s2.php|User-Agent=http://www.anacon.org/app/chans/player/flowplayer.hlsjs.js
+plugin://plugin.program.browser.launcher/?url=http%3A%2F%2Fwww.anacon.org%2Fapp%2Fgrtv.php&amp;mode=showSite&amp;stopPlayback=no&amp;kiosk=yes&amp;custBrowser=&amp;userAgent=
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
