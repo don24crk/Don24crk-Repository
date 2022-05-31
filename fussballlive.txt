@@ -1,1 +1,0 @@
-name= Fussball Live Stream (ARD) url= "plugin://plugin.video.streamlink-tester/?action=play&amp;url=https%3A%2F%2Fwww.2ix2.com%2Fard%2F&amp;title=Fussball Live Stream (ARD)" logo= "https://thumbs.dreamstime.com/b/fu%C3%9Fball-clipart-135247651.jpg"
