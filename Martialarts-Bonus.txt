@@ -1,5 +1,0 @@
-name= Green Hornet – Die Rückkehr der grünen Hornisse url= "plugin://plugin.video.youtube/play/?video_id=1KVQVza2GDs" logo= "https://images-na.ssl-images-amazon.com/images/I/710MVIP908L._RI_.jpg"
-name= Der größte Schlag der Todeskralle url= "plugin://plugin.video.youtube/play/?video_id=R4JZaSzAHMs" logo= "https://i.ytimg.com/vi/R4JZaSzAHMs/hqdefault.jpg"
-name= Abschied von der Todeskralle url= "plugin://plugin.video.youtube/play/?video_id=EWrIMTUnhG4" logo= "https://assets.cdn.moviepilot.de/files/23c2fdbf558bb2a85e6f7d683a37f932130e046eecd2743abc1e122e6868/limit/500/1000/Abschied_von_der_Todeskralle.jpg"
-name= Bruce lee seine besten kämpfe und Geschichte url= "plugin://plugin.video.youtube/play/?video_id=Xa2E2pgNmMU" logo= "https://images-na.ssl-images-amazon.com/images/I/51GMC4NYRML._SY445_.jpg"
-name= Der wahre Bruce Lee  url= "plugin://plugin.video.youtube/play/?video_id=3VmUhyefEyU" logo= "https://images-na.ssl-images-amazon.com/images/I/51L84eo6fHL._SY445_.jpg"
