@@ -5,3 +5,8 @@ name= Greece the Musicult (2019) url= "https://www.youtube.com/watch?v=EHf3jUOMZ
 name= Mama mia den iparchei - Markos Seferlis url= "https://www.youtube.com/watch?v=7LdwDh9DlHY" logo= "https://www.theartofcomedy.gr/wp-content/uploads/2014/01/Mamma-Mia-Den-Iparxei-Markos-Seferlis-Giannis-Zoumpantis1.jpg"
 name= Μrs.Doubtfire-Markos Seferlis url= "https://www.youtube.com/watch?v=glzTEUUC7gQ" logo= "http://markosseferlis.gr/wp-content/uploads/2015/02/Mrs-Doubtfire-Markos-Seferlis9.jpg"
 name= Des Ta Re Elláda óla aftá-Markos Seferlis url= "https://www.youtube.com/watch?v=T0TvQ6VHvaQ" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjPWgkH-bctf1jCWYdn4yYb73Qf8ueHGrKZG9qQ57RLpvPmWi4FBDZGf2BW9PBoI8i6fk&usqp=CAU"
+name= Daddy Cool (Márkos Seferlís - Théatro Peroké 2009/2010) url= "https://www.youtube.com/watch?v=T0TvQ6VHvaQ" logo= "https://m.media-amazon.com/images/M/MV5BNWI4ZTgxZjItMDU1NC00MTViLTk3MDUtYTlkYTEzOTVjMWVjXkEyXkFqcGdeQXVyNzg5OTk2OA@@._V1_FMjpg_UX1000_.jpg"
+name= Márkos Seferlís Rouk - Zouk - Delfinário 2018 & 2019 url= "https://www.youtube.com/watch?v=-0QzG6TexGg" logo= "https://i.ytimg.com/vi/W56V4LIBim4/hqdefault.jpg"
+
+
+
