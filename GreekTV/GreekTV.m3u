@@ -4,9 +4,9 @@ https://ert-live-bcbs15228.siliconweb.com/media/ert_news/ert_news.m3u8|User-Agen
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ERT1" logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/ERT1_logo_2020.svg/2560px-ERT1_logo_2020.svg.png",ERT1
 https://ert1-live.ert.insyscd.net/out/v1/bc7e22e489c7452280769c91743cc2f3/ert1-live_1.m3u8|User-Agent=fp-hlsjs
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ERT2" logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/ERT2_logo_2020.svg/2560px-ERT2_logo_2020.svg.png",ERT2
-https://ert3-live.ert.insyscd.net/out/v1/d43a7f932f524c83b6102efa0580b454/ert3-live_1.m3u8|User-Agent=User-Agent=fp-hlsjs
+https://ert2-live.ert.insyscd.net/out/v1/617370f6ad1447ca8efdc795e4e960a3/ert2-live_1.m3u8|User-Agent=User-Agent=fp-hlsjs
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ERT3" logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ERT3_logo_2020.svg/2560px-ERT3_logo_2020.svg.png",ERT3
-http://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8|User-Agent=Mozilla/5.0 (Android 4.2; rv:19.0) Gecko/20121129
+https://ert3-live.ert.insyscd.net/out/v1/d43a7f932f524c83b6102efa0580b454/ert3-live_1.m3u8|User-Agent=Mozilla/5.0 (Android 4.2; rv:19.0) Gecko/20121129
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ERTWORLD" logo= "https://upload.wikimedia.org/wikipedia/commons/0/09/ERTworld2020.png",ERTWORLD
 http://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8|User-Agent=Mozilla/5.0 (Android 4.2; rv:19.0) Gecko/20121129
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ALPHA" logo= "http://www.anacon.org/app/img/alpha.jpg",ALPHA
