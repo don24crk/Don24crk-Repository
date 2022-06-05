@@ -11,12 +11,14 @@ https://ert3-live.ert.insyscd.net/out/v1/d43a7f932f524c83b6102efa0580b454/ert3-l
 http://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8|User-Agent=https://canlitv.center/player/jwplayer.js
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ALPHA" logo= "http://www.anacon.org/app/img/alpha.jpg",ALPHA
 http://31.177.62.174:8003/play/s160|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:96.0) 6.0
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ANT1 EUROPE" logo= "https://www.antennaeurope.gr/media/upload-files/cache/b6d/b6dfe5c5951b183c433aebd4806f01db_europelogo.jpg",ANT1 EUROPE
-http://95.107.132.106/out/u/650_2.m3u8|User-Agent=https://canlitv.center/player/jwplayer.js
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ANT1" logo= "https://www.antennaeurope.gr/media/upload-files/cache/b6d/b6dfe5c5951b183c433aebd4806f01db_europelogo.jpg",ANT1 
+https://antennaamd.akamaized.net/ant1_akamai/abr/playlist.m3u8?&hdnts=exp=1654479991~hmac=07c890d6eb79bb4c5bc8de576d6b060d095369be58159971984270a043716a9e|User-Agent=https://canlitv.center/player/jwplayer.js
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="BARAZATV" logo= "https://barazaradio.com/wp-content/uploads/2019/10/0c64fa98a658268e86a9125a82ee7615.png",BRAZA TV
 https://eco.streams.ovh/BarazaTV/BarazaTV/playlist.m3u8|User-Agent=https://canlitv.center/player/jwplayer.js
 #EXTINF:-1 group-title="MEGA" logo= "http://www.anacon.org/app/img/mega.jpg",MEGA
 https://streamcdnb7-c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8|User-Agent=https://canlitv.center/player/jwplayer.js
+#EXTINF:-1 group-title="MAKEDONIATV" logo= "http://www.anacon.org/app/img/mega.jpg",MAKEDONIATV
+https://antennaamd.akamaized.net/maktv_akamai/abr/playlist.m3u8?&hdnts=exp=1654480107~hmac=8e1622af56f7ee0a130f25e8e19160a89b7f6ee14c42e2996bfeb76acb6a1b4a|User-Agent=https://canlitv.center/player/jwplayer.js
 #EXTINF:-1 group-title="MAD TV" logo= "https://yt3.ggpht.com/ytc/AKedOLS6cOwr3F29JR4o7Wgg_Aj6pyYt2b6rl4LhsdvXRg=s88-c-k-c0x00ffffff-no-rj",MAD TV
 plugin://plugin.video.smr_link_tester/?mode=play_link&amp;link=https%3A%2F%2Fyoutube.com%2Fwatch?%2Fv=tzQTkXfU9M8
 #EXTINF:-1 group-title="OPEN" logo= "https://i.imgur.com/c9hgL1c.jpg",OPEN
