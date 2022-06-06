@@ -11,7 +11,7 @@ https://ert3-live.ert.insyscd.net/out/v1/d43a7f932f524c83b6102efa0580b454/ert3-l
 http://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8|User-Agent=https://canlitv.center/player/jwplayer.js
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ALPHA" logo= "http://www.anacon.org/app/img/alpha.jpg",ALPHA
 https://alphatvlive.siliconweb.com:443/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/f1yvzq9v/2728/chunklist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ANT1 EUROPE" logo= "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012014/ant1.png?itok=4vgCH_SD",ANT1 EUROPE
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ANT1 EUROPE" logo= "https://www.antennaeurope.gr/media/upload-files/cache/b6d/b6dfe5c5951b183c433aebd4806f01db_europelogo.jpg",ANT1 EUROPE
 http://95.107.132.106:80/out/u/650_2.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ANT1" logo= "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012014/ant1.png?itok=4vgCH_SD",ANT1 
 https://antennaamd.akamaized.net:443/ant1_akamai/abr/playlist.m3u8?&hdnts=exp=1654549246~hmac=3d431fa8b68d6dc2ca786a0d13d2f6e8bf6e95bd17d635f70edc1dcf56452ade|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36
