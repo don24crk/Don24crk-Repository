@@ -10,7 +10,7 @@ https://ert3-live.ert.insyscd.net/out/v1/d43a7f932f524c83b6102efa0580b454/ert3-l
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ERTWORLD" logo= "https://upload.wikimedia.org/wikipedia/commons/0/09/ERTworld2020.png",ERTWORLD
 http://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8|User-Agent=https://canlitv.center/player/jwplayer.js
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ALPHA" logo= "http://www.anacon.org/app/img/alpha.jpg",ALPHA
-http://31.177.62.174:8003/play/s160|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:96.0) 6.0
+http://31.177.62.174:8003/play/s160|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ANT1" logo= "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012014/ant1.png?itok=4vgCH_SD",ANT1 
 https://antennaamd.akamaized.net:443/ant1_akamai/abr/playlist.m3u8?&hdnts=exp=1654549246~hmac=3d431fa8b68d6dc2ca786a0d13d2f6e8bf6e95bd17d635f70edc1dcf56452ade|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="BARAZATV" logo= "https://barazaradio.com/wp-content/uploads/2019/10/0c64fa98a658268e86a9125a82ee7615.png",BRAZA TV
@@ -26,7 +26,7 @@ https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playli
 #EXTINF:-1 group-title="SKAI" logo= "https://www.athensmagazine.gr/photos/w_800px/articles/201901/skai_logo.jpg",SKAI
 http://skai-live-gr-cy-back.siliconweb.com/media/cambria4/index_bitrate2000K.m3u8|User-Agent=https://canlitv.center/player/jwplayer.js
 #EXTINF:-1 group-title="STAR" logo= "http://www.anacon.org/app/img/star.jpg",STAR
-http://31.177.62.174:8003/play/s161|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:96.0) 6.0
+http://31.177.62.174:8003/play/s161|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36
 #EXTINF:-1 group-title="SIGMA" logo= "https://www.sigmatv.com/application/themes/default/img/redesign/sigma-logo-final.png",SIGMA
 https://sl2.sigmatv.com/hls/live.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:96.0) 6.0
 #EXTINF:-1 group-title="SMILE" logo= "https://www.cyta.com.cy/mp/informational/images/channels/smiletv.gif",SMILE
