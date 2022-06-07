@@ -13,7 +13,7 @@ name= MAD TV url= "plugin://plugin.video.smr_link_tester/?mode=play_link&amp;lin
 name= OPEN url= "https://liveopencloud.siliconweb.com:80/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8|user-agent=https://canlitv.center/player/jwplayer.js" logo= "https://i.imgur.com/c9hgL1c.jpg"
 name= SKAI url= "http://31.177.62.174:8003/play/s162|User-Agent=VLC" logo= "https://www.athensmagazine.gr/photos/w_800px/articles/201901/skai_logo.jpg"ttp%3A%2
 name= STAR url= "http://31.177.62.174:8003/play/s161|User-Agent=VLC" logo= "http://www.anacon.org/app/img/star.jpg"
-name= SIGMA url= "https://sl2.sigmatv.com:443/hls/live.m3u8|User-Agent=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" logo= "https://www.sigmatv.com/application/themes/default/img/redesign/sigma-logo-final.png"
+name= SIGMA url= "https://sl2.sigmatv.com:443/hls/live.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" logo= "https://www.sigmatv.com/application/themes/default/img/redesign/sigma-logo-final.png"
 name= SMILE url= "https://s1.cystream.net/live/smile/playlist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:96.0) 6.0" logo= "https://www.cyta.com.cy/mp/informational/images/channels/smiletv.gif"
 
 
