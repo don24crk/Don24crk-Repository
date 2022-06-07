@@ -30,6 +30,6 @@ http://31.177.62.174:8003/play/s162|User-Agent=VLC
 #EXTINF:-1 group-title="STAR" logo= "http://www.anacon.org/app/img/star.jpg",STAR
 http://31.177.62.174:8003/play/s161|User-Agent=VLC
 #EXTINF:-1 group-title="SIGMA" logo= "https://www.sigmatv.com/application/themes/default/img/redesign/sigma-logo-final.png",SIGMA
-https://sl2.sigmatv.com:443/hls/live.m3u8|User-Agent=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36
+https://sl2.sigmatv.com:443/hls/live.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36
 #EXTINF:-1 group-title="SMILE" logo= "https://www.cyta.com.cy/mp/informational/images/channels/smiletv.gif",SMILE
 https://s1.cystream.net/live/smile/playlist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:96.0) 6.0
