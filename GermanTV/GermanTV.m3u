@@ -1,59 +1,138 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="TELE5",TELE5
-https://s6.hopslan.com:443/tele5c/index.m3u8?token=26bc7b4360e5d205e5e4c6414ea27c2c70ab616a-c2744aa7ec1b04ee6fb8c4bfee979cb7-1653001976-1652991176|User-Agent=VLC
-#EXTINF:-1 tvg-name="MTV",MTV
-https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/mtvg18ef/master/mtvg18ef.m3u8|User-Agent=VLC
-#EXTINF:-1 tvg-name="ARD",ARD
-https://mcdn.daserste.de/daserste/de/master_1280p_3328.m3u8|User-Agent=VLC
-#EXTINF:-1 tvg-name="ZDF",ZDF
-https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8|User-Agent=VLC
-#EXTINF:-1 tvg-name="Pro7",Pro7
-https://data.fernsehzone.com/2ix2play.m3u8?sender=pro7|User-Agent=VLC
-#EXTINF:-1 tvg-name="Sat1",Sat1
-https://data.fernsehzone.com/2ix2play.m3u8?sender=sat1|User-Agent=VLC
-#EXTINF:-1 tvg-name="Kabel1",Kabel1
-https://wu.wukongtv.ga/KABEL1/video.m3u8|User-Agent=VLC
-#KODIPROP:inputstream=inputstream.ffmpegdirect
+#EXTINF:-1,TELE5
+#KODIPROP:inputstream=inputstream.helper
 #KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.program_number=2154
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+https://s6.hopslan.com:443/tele5c/index.m3u8?token=b1bfcfadc296e599d3eef25c81bbc82b006456a9-ad2d4075a5a60d9d8a251de511765952-1655232714-1655221914
+#KODIPROP:inputstream=inputstream.helper
+#KODIPROP:mimetype=application/x-mpegURL
+#EXTINF:-1,MTV
+https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/mtvg18ef/master/mtvg18ef.m3u8
+#KODIPROP:inputstream=inputstream.helper
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.helper.is_realtime_stream=true
+#EXTINF:-1,ARD
+https://mcdn.daserste.de/daserste/de/master_1280p_3328.m3u8|User-Agent=VLC
+#KODIPROP:inputstream=inputstream.helper
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.helper.is_realtime_stream=true
+#EXTINF:-1,ZDF
+https://s6.hopslan.com:443/zdfg1/index.m3u8?token=d8a19d2905519a920255fc4b84396002274b1aaa-65556414de11e24c4f5e3739ae422a21-1655232717-1655221917
+#KODIPROP:inputstream=inputstream.helper
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.helper.is_realtime_stream=true
+#EXTINF:-1,Pro7
+http://livespecial.rbtvnw.com:21190/venus/pro7hd/chunks.m3u8?nimblesessionid=67027874&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNC8yMDIyIDQ6MzQ6NTAgUE0maGFzaF92YWx1ZT1lVVJyRnJBMWJrZm9jbmNtWkJpdjd3PT0mdmFsaWRtaW51dGVzPTI=
+#KODIPROP:inputstream=inputstream.helper
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.helper.is_realtime_stream=true
+#EXTINF:-1,Sat1
+http://livespecial.rbtvnw.com:21190/venus/sat1hd/chunks.m3u8?nimblesessionid=67028074&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNC8yMDIyIDQ6MzU6MDYgUE0maGFzaF92YWx1ZT13R21melduV3Q1a2pXUHh6dHNMT0l3PT0mdmFsaWRtaW51dGVzPTI=
+#KODIPROP:inputstream=inputstream.helper
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.helper.is_realtime_stream=true
+#EXTINF:-1,Kabel1
+https://s6.hopslan.com:443/kabel1q1/index.m3u8?token=30de2e97e9447cfb45db4b395f2b30d9522d9ae4-fd2938ef2db3ab098838f1d3ab350c4a-1655232714-1655221914
+#KODIPROP:inputstream=inputstream.helper
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.helper.is_realtime_stream=true
 #EXTINF:-1,DMAX
 https://s6.hopslan.com/dmaxb/index.m3u8
-#EXTINF:-1 tvg-name="pro7maxx",pro7maxx
-https://wu.wukongtv.ga/PROSIEBENMAXX/video.m3u8|User-Agent=VLC
+#KODIPROP:inputstream=inputstream.helper
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.helper.is_realtime_stream=true
+#EXTINF:-1,pro7maxx
+https://s6.hopslan.com:443/pro7maxxv/index.m3u8?token=5a04179b1ff27b3bdc766cf14487bc6ff5f561b8-ee67e3c49533cc1c2e1e994664997c90-1655232726-1655221926
 #EXTINF:-1 tvg-name="Sixx",Sixx
 plugin://plugin.video.zappntv/category/livestream/sixx_de
-#EXTINF:-1 tvg-name="Comedy Central",Comedy Central
-https://wu.wukongtv.ga/COMEDYCENTRAL/video.m3u8|User-Agent=VLC
-#EXTINF:-1 tvg-name="Sat1 Gold",Sat1 Gold
-https://wu.wukongtv.ga/SAT1GOLD/video.m3u8|User-Agent=VLC
+#KODIPROP:inputstream=inputstream.helper
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.helper.is_realtime_stream=true
+#EXTINF:-1,Comedy Central
+https://s6.hopslan.com:443/vivac/index.m3u8?token=a57e7eb33481291bd3dd0f1fcd6995c56a5e0255-c0b449c6b46f913652ac5d1d329d0a67-1655232717-1655221917
+#KODIPROP:inputstream=inputstream.helper
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.helper.is_realtime_stream=true
+#EXTINF:-1,Sat1 Gold
+https://s6.hopslan.com:443/goldc/index.m3u8?token=97de1552b5a0109af9783df3ff50219b8540d92b-c28983490ed53d1c97ecb8330d015a63-1655232716-1655221916
 #EXTINF:-1 tvg-name="Kabel1 Doku",Kabel1 Doku
 plugin://plugin.video.zappntv/category/livestream/kabeleinsdoku_de
-#EXTINF:-1 tvg-name="3 Sat",3 Sat
+#KODIPROP:inputstream=inputstream.helper
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.helper.is_realtime_stream=true
+#EXTINF:-1,3 Sat
 https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8|User-Agent=VLC
-#EXTINF:-1 tvg-name="TLC",TLC
+#KODIPROP:inputstream=inputstream.helper
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.helper.is_realtime_stream=true
+#EXTINF:-1,TLC
 https://s6.hopslan.com/tlc/index.m3u8?token=32f9f4cb71ef21c7a387ae7084255307b3125c74-bcb107a68366941848aa6ad463f1c0b5-1652466293-1652455493|User-Agent=VLC
-#EXTINF:-1 tvg-name="N24 Doku",N24 Doku
-https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/master.m3u8|User-Agent=VLC
-#EXTINF:-1 tvg-name="Tagesschau",Tagesschau
+#KODIPROP:inputstream=inputstream.helper
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.helper.is_realtime_stream=true
+#EXTINF:-1,N24 Doku
+https://w-live2weltcms.akamaized.net/hls/live/2041019/Welt-LivePGM/playlist-1280.m3u8
+#KODIPROP:inputstream=inputstream.helper
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.helper.is_realtime_stream=true
+#EXTINF:-1,Tagesschau
 https://tagesschau.akamaized.net/hls/live/2020117/tagesschau/tagesschau_3/master.m3u8|User-Agent=VLC
-#EXTINF:-1 tvg-name="Kika",Kika
+#KODIPROP:inputstream=inputstream.helper
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.helper.is_realtime_stream=true
+#EXTINF:-1,Kika
 https://kikageohls.akamaized.net/hls/live/2022693-b/livetvkika_de/master.m3u8|User-Agent=VLC
-#EXTINF:-1 tvg-name="Nick",Nick
+#KODIPROP:inputstream=inputstream.helper
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.helper.is_realtime_stream=true
+#EXTINF:-1,Nick
 https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/nick1999/master/master_3000.m3u8|User-Agent=VLC
-#EXTINF:-1 tvg-name="WDR",WDR
+#KODIPROP:inputstream=inputstream.helper
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.helper.is_realtime_stream=true
+#EXTINF:-1,WDR
 https://wdrfsww247.akamaized.net/hls/live/2009628/wdr_msl4_fs247ww/master.m3u8|User-Agent=VLC
-#EXTINF:-1 tvg-name="VOX",VOX
+#KODIPROP:inputstream=inputstream.helper
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.helper.is_realtime_stream=true
+#EXTINF:-1,VOX
 https://data.fernsehzone.com/2ix2play.m3u8?sender=vox|User-Agent=VLC
-#EXTINF:-1 tvg-name="RTL",RTL
-https://wu.wukongtv.ga/RTL/video.m3u8|User-Agent=VLC
-#EXTINF:-1 group-title="TV" tvg-id="RTL2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/RTL_2_2022.png",RTL2
-https://s6.hopslan.com:443/rtl2g1/index.m3u8?token=ce7fedc8783c27291ac74bce5d0406ef536ede10-afd906998da88fc79a36c0297b92be01-1653155271-1653144471|User-Agent=VLC
-#EXTINF:-1 tvg-name="SUPERRTL",SUPERRTL
-https://wu.wukongtv.ga/SUPERRTL/video.m3u8|User-Agent=VLC
-#EXTINF:-1 tvg-name="RTLNITRO",RTLNITRO
-https://s6.hopslan.com:443/nitrov/index.m3u8?token=9cc788341ec08fc746d1c5a21f5bab56339d1f23-7dd6cebab60e822f57106ecf8582d430-1653001977-1652991177|User-Agent=VLC
-#EXTINF:-1 tvg-name="Arte",Arte
+#KODIPROP:inputstream=inputstream.helper
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.helper.is_realtime_stream=true
+#EXTINF:-1,RTL
+https://s6.hopslan.com/rtlr1/index.m3u8
+#KODIPROP:inputstream=inputstream.helper
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.helper.is_realtime_stream=true
+#EXTINF:-1,RTL2
+https://s6.hopslan.com:443/rtl2q1/index.m3u8?token=c1eae8628983326aeba1d1414519e31e18e60e88-921d47fb1d6b04e1a79b627168134300-1655232713-1655221913
+#KODIPROP:inputstream=inputstream.helper
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.helper.is_realtime_stream=true
+#EXTINF:-1,SUPERRTL
+http://livespecial.rbtvnw.com:21190/venus/superrtlhd/chunks.m3u8?nimblesessionid=67027560&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNC8yMDIyIDQ6MzQ6MjUgUE0maGFzaF92YWx1ZT1XR256VFdUU3EzL3pxSzVhdlA3L1h3PT0mdmFsaWRtaW51dGVzPTI=
+#KODIPROP:inputstream=inputstream.helper
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.helper.is_realtime_stream=true
+#EXTINF:-1,RTLNITRO
+http://livespecial.rbtvnw.com:21190/venus/rtlnitrohd/chunks.m3u8?nimblesessionid=67027653&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNC8yMDIyIDQ6MzQ6MzEgUE0maGFzaF92YWx1ZT05YXhvaGUveGNISXBwdXFZbnlDZkVnPT0mdmFsaWRtaW51dGVzPTI=
+#KODIPROP:inputstream=inputstream.helper
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.helper.is_realtime_stream=true
+#EXTINF:-1,Arte
 https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8|User-Agent=VLC
-#EXTINF:-1 tvg-name="Welt der Wunder",Welt der Wunder
+#KODIPROP:inputstream=inputstream.helper
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.helper.is_realtime_stream=true
+#EXTINF:-1,Welt der Wunder
 https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8|User-Agent=VLC
+#KODIPROP:inputstream=inputstream.helper
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.helper.is_realtime_stream=true
+#EXTINF:-1,Disneychannel
+https://s6.hopslan.com:443/disneyc/index.m3u8?token=22b6899125623da68020de73df4c5cc784addab7-6ebc97910418c4a84b3c6473bfbd185e-1655232732-1655221932
+#KODIPROP:inputstream=inputstream.helper
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.helper.is_realtime_stream=true
+#EXTINF:-1,RTL CRIME
+http://livespecial.rbtvnw.com:21190/venus/rtlcrimehd/chunks.m3u8?nimblesessionid=67027730&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNC8yMDIyIDQ6MzQ6MzcgUE0maGFzaF92YWx1ZT1HdytXR0I1NEdFNWQzUzNxM3A4YVdBPT0mdmFsaWRtaW51dGVzPTI=
