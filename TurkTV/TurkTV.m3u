@@ -10,13 +10,19 @@ https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b2328000_sltur.m3u8|User
 #KODIPROP:inputstream.helper.is_realtime_stream=false
 #KODIPROP:inputstream.helper.manifest_type=hls
 #EXTINF:-1,FBTV
-https://black.tvizlehd.com/fbtv.m3u8?tkn=bbP_Xe8F_kiKRXOZnknhNQ&tms=1655242416&hst=tr.canlitv.services|User-Agent=https://canlitv.center/player/jwplayer.js
+http://iptvmasterlink.dyndns.org:8080/FbTv/playlist.m3u8|User-Agent=https://canlitv.center/player/jwplayer.js
 #KODIPROP:inputstreamaddon=inputstream.helper
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream.helper.is_realtime_stream=true
 #KODIPROP:inputstream.helper.manifest_type=hls
 #EXTINF:-1,Kanal 7 
-https://black.tvizlehd.com/kanal7.m3u8?tkn=IEXid89tdbf0Y9H2VobW7g&tms=1655242005&hst=tr.canlitv.services|User-Agent=Mozilla/5.0 (Android 4.2; rv:19.0) Gecko/20121129 Firefox/19.0
+https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8|User-Agent=Mozilla/5.0 (Android 4.2; rv:19.0) Gecko/20121129 Firefox/19.0
+#KODIPROP:inputstreamaddon=inputstream.helper
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream.helper.is_realtime_stream=true
+#KODIPROP:inputstream.helper.manifest_type=hls
+#EXTINF:-1,Kanal 7 Avrupa
+https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8|User-Agent=Mozilla/5.0 (Android 4.2; rv:19.0) Gecko/20121129 Firefox/19.0
 #KODIPROP:inputstreamaddon=inputstream.helper
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream.helper.is_realtime_stream=true
@@ -34,13 +40,13 @@ https://dogus-live.daioncdn.net/startv/playlist.m3u8|User-Agent=https://canlitv.
 #KODIPROP:inputstream.helper.is_realtime_stream=true
 #KODIPROP:inputstream.helper.manifest_type=hls
 #EXTINF:-1,ATV
-https://istanbul.tvizlehd.com/atv.m3u8?tkn=a_maokrJFq0DrzNiaKDfgw&tms=1655241518&hst=tr.canlitv.services|User-Agent=https://canlitv.center/player/jwplayer.js
+https://trkvz-live.daioncdn.net/atv/atv_720p.m3u8|User-Agent=https://canlitv.center/player/jwplayer.js
 #KODIPROP:inputstreamaddon=inputstream.helper
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream.helper.is_realtime_stream=true
 #KODIPROP:inputstream.helper.manifest_type=hls
 #EXTINF:-1,FOX
-https://antalya.tvizlehd.com/foxtv.m3u8?tkn=rSmePjXAhpVQiiaZrgAo4A&tms=1655242746&hst=tr.canlitv.services|User-Agent=https://canlitv.center/player/jwplayer.js
+https://59c7ea6bec1c6.streamlock.net/filbox/foxtv.stream/playlist.m3u8|User-Agent=Mozilla/5.0 (Linux; U; Android 4.3; en-us; SM-N900T Build/JSS15J) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
 #KODIPROP:inputstreamaddon=inputstream.helper
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream.helper.is_realtime_stream=true
@@ -52,13 +58,13 @@ https://dogus-live.daioncdn.net/kraltv/playlist.m3u8|User-Agent=http://www.anaco
 #KODIPROP:inputstream.helper.is_realtime_stream=true
 #KODIPROP:inputstream.helper.manifest_type=hls
 #EXTINF:-1,ShowMax
-https://black.tvizlehd.com/showmax.m3u8?tkn=So4Vsl6iDsX4oD6_V7kWMw&tms=1655242673&hst=tr.canlitv.services|User-Agent=https://canlitv.center/player/jwplayer.js
+http://iptvmasterlink.dyndns.org:8080/ShowMax/playlist.m3u8|User-Agent=https://canlitv.center/player/jwplayer.js
 #KODIPROP:inputstreamaddon=inputstream.helper
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream.helper.is_realtime_stream=true
 #KODIPROP:inputstream.helper.manifest_type=hls
 #EXTINF:-1,Show
-https://ankara.tvizlehd.com/showtv.m3u8?tkn=kS7xPK_hG4u-R8rv_4xBVw&tms=1655242205&hst=tr.canlitv.services|User-Agent=https://canlitv.center/player/jwplayer.js
+https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8|User-Agent=https://canlitv.center/player/jwplayer.js
 #KODIPROP:inputstreamaddon=inputstream.helper
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream.helper.is_realtime_stream=true
@@ -76,7 +82,7 @@ https://turkmedya-live.ercdn.net/tv360/tv360.m3u8|User-Agent=https://canlitv.cen
 #KODIPROP:inputstream.helper.is_realtime_stream=true
 #KODIPROP:inputstream.helper.manifest_type=hls
 #EXTINF:-1,24 TV
-https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/playlist.m3u8|User-Agent=https://canlitv.center/player/jwplayer.js
+https://turkmedya-live.ercdn.net/tv24/tv24.m3u8|User-Agent=https://canlitv.center/player/jwplayer.js
 #KODIPROP:inputstreamaddon=inputstream.helper
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream.helper.is_realtime_stream=true
@@ -88,13 +94,13 @@ https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8?min=0&max
 #KODIPROP:inputstream.helper.is_realtime_stream=true
 #KODIPROP:inputstream.helper.manifest_type=hls
 #EXTINF:-1,Euro Star
-https://ankara.tvizlehd.com/eurostar.m3u8?tkn=Fkte3qRhAnwjCMpoCvEymg&tms=1655242513&hst=tr.canlitv.services|User-Agent=https://static.personamedia.tv/player/Scripts/pplayer/pplayer.js
+http://iptvmasterlink.dyndns.org:8080/EuroStar/playlist.m3u8|User-Agent=https://static.personamedia.tv/player/Scripts/pplayer/pplayer.js
 #KODIPROP:inputstreamaddon=inputstream.helper
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream.helper.is_realtime_stream=true
 #KODIPROP:inputstream.helper.manifest_type=hls
 #EXTINF:-1,ATV Avrupa
-https://black.tvizlehd.com/atvavrupa.m3u8?tkn=jy-Ev5kaj4aMHhu1yYpP3A&tms=1655242603&hst=tr.canlitv.services|User-Agent=https://canlitv.center/player/jwplayer.js
+https://mugla.tvizlehd.com/atvavrupa.m3u8?tkn=97RDWdBt1IMGPgzxk4hDng&tms=1655329923&hst=www.canlitv.mobi|User-Agent=Mozilla/5.0 (Linux; U; Android 4.3; en-us; SM-N900T Build/JSS15J) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
 #KODIPROP:inputstreamaddon=inputstream.helper
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream.helper.is_realtime_stream=true
@@ -113,3 +119,15 @@ https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9
 #KODIPROP:inputstream.helper.manifest_type=hls
 #EXTINF:-1,Dreamtürk
 https://live.duhnet.tv//S2/HLS_LIVE/dreamturknp/track_4_1000/playlist.m3u8?key=7763e4ac1e460d9913ada7b279c8af81&live=true&app=com.dreamturk|User-Agent=https://canlitv.center/player/jwplayer.js
+#KODIPROP:inputstreamaddon=inputstream.helper
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream.helper.is_realtime_stream=true
+#KODIPROP:inputstream.helper.manifest_type=hls
+#EXTINF:-1,TRT Cucuk
+https://tv-trtcocuk.live.trt.com.tr/master_720.m3u8|User-Agent=https://canlitv.center/player/jwplayer.js
+#KODIPROP:inputstreamaddon=inputstream.helper
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream.helper.is_realtime_stream=true
+#KODIPROP:inputstream.helper.manifest_type=hls
+#EXTINF:-1,TRT2
+https://tv-trt2.medya.trt.com.tr/master.m3u8|User-Agent=https://canlitv.center/player/jwplayer.js
