@@ -123,7 +123,7 @@ https://live.duhnet.tv//S2/HLS_LIVE/dreamturknp/track_4_1000/playlist.m3u8?key=7
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream.helper.is_realtime_stream=true
 #KODIPROP:inputstream.helper.manifest_type=hls
-#EXTINF:-1,TRT Cucuk
+#EXTINF:-1,TRT Cocuk
 https://tv-trtcocuk.live.trt.com.tr/master_720.m3u8|User-Agent=https://canlitv.center/player/jwplayer.js
 #KODIPROP:inputstreamaddon=inputstream.helper
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
