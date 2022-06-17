@@ -100,7 +100,7 @@ http://iptvmasterlink.dyndns.org:8080/EuroStar/playlist.m3u8|User-Agent=https://
 #KODIPROP:inputstream.helper.is_realtime_stream=true
 #KODIPROP:inputstream.helper.manifest_type=hls
 #EXTINF:-1,ATV AVRUPA
-https://bursa.tvizlehd.com/atvavrupa.m3u8?tkn=vonfcHZbXgRr5-7bcY04RA&tms=1655506344&hst=tr.canlitv.team|User-Agent=Mozilla/5.0 (Linux; U; Android 4.3; en-us; SM-N900T Build/JSS15J) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+https://trkvz-live.ercdn.net/atvavrupa/atvavrupa.m3u8?st=Lkw6TLOer9TFzryeqyRfgA&e=1655539659&SessionID=1.2.7644354.1655494424&StreamGroup=canli-yayin&Site=atvavrupa&DeviceGroup=web|User-Agent=Mozilla/5.0 (Linux; U; Android 4.3; en-us; SM-N900T Build/JSS15J) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
 #KODIPROP:inputstreamaddon=inputstream.helper
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream.helper.is_realtime_stream=true
@@ -142,4 +142,4 @@ https://trkvz-live.ercdn.net/a2tv/a2tv.m3u8?st=XtDlyxV1SYr5vj3d7IQiuQ&e=16555370
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTINF:-1,MINIKA COCUK
-https://izmir.tvizlehd.com/minikacocuk.m3u8?tkn=Q68tXhcQeX86ly8ymTNeqQ&tms=1655506074&hst=tr.canlitv.team|User-Agent=Mozilla/5.0 (Linux; U; Android 4.3; en-us; SM-N900T Build/JSS15J) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+https://trkvz-live.ercdn.net/minikagococuk/minikagococuk.m3u8?st=LkX9lHBZ1NNVw5meg0aspQ&e=1655539484&SessionID=1.3.1073521541.1655494283&StreamGroup=canli-yayin&Site=minikacocuk&DeviceGroup=web|User-Agent=Mozilla/5.0 (Linux; U; Android 4.3; en-us; SM-N900T Build/JSS15J) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
