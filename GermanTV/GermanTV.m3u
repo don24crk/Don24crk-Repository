@@ -100,7 +100,7 @@ https://data.fernsehzone.com/2ix2play.m3u8?sender=vox|User-Agent=VLC
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.helper.is_realtime_stream=true
 #EXTINF:-1,RTL
-https://s6.hopslan.com/rtlr1/index.m3u8
+https://s6.hopslan.com:443/rtlr1/index.m3u8
 #KODIPROP:inputstream=inputstream.helper
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.helper.is_realtime_stream=true
@@ -110,7 +110,7 @@ https://s6.hopslan.com:443/rtl2q1/index.m3u8?token=c1eae8628983326aeba1d1414519e
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.helper.is_realtime_stream=true
 #EXTINF:-1,SUPERRTL
-https://s6.hopslan.com:443/superc/index.m3u8?token=2eb262ba6f660f86c743b76cccc87bb498d472ec-a50aa85800e6243ba7e033d367bf8a35-1655246247-1655235447
+https://gintna100.tulix.tv/gin_live/superrtl/156795277d63a7d77e2b3156a0276572/62af67c8/index.m3u8|User-Agent=https://canlitv.center/player/jwplayer.js
 #KODIPROP:inputstream=inputstream.helper
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.helper.is_realtime_stream=true
@@ -131,8 +131,3 @@ https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8|User-Agent=VLC
 #KODIPROP:inputstream.helper.is_realtime_stream=true
 #EXTINF:-1,Disneychannel
 https://s6.hopslan.com:443/disneyc/index.m3u8?token=22b6899125623da68020de73df4c5cc784addab7-6ebc97910418c4a84b3c6473bfbd185e-1655232732-1655221932
-#KODIPROP:inputstream=inputstream.helper
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.helper.is_realtime_stream=true
-#EXTINF:-1,RTL CRIME
-http://livespecial.rbtvnw.com:21190/venus/rtlcrimehd/chunks.m3u8?nimblesessionid=67027730&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNC8yMDIyIDQ6MzQ6MzcgUE0maGFzaF92YWx1ZT1HdytXR0I1NEdFNWQzUzNxM3A4YVdBPT0mdmFsaWRtaW51dGVzPTI=
