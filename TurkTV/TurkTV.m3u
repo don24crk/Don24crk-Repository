@@ -100,7 +100,7 @@ http://iptvmasterlink.dyndns.org:8080/EuroStar/playlist.m3u8|User-Agent=https://
 #KODIPROP:inputstream.helper.is_realtime_stream=true
 #KODIPROP:inputstream.helper.manifest_type=hls
 #EXTINF:-1,ATV AVRUPA
-https://black.tvizlehd.com/atvavrupa.m3u8?tkn=TBxvHHaHobxpEa5gnjPwMg&tms=1655583599&hst=www.canlitv.mobi|User-Agent=https://canlitv.center/player/jwplayer.js
+https://black.tvizlehd.com/atvavrupa.m3u8?tkn=TBxvHHaHobxpEa5gnjPwMg&tms=1655583599&hst=www.canlitv.mobi|User-Agent=Mozilla/5.0 (Linux; U; Android 4.3; en-us; SM-N900T Build/JSS15J) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
 #KODIPROP:inputstreamaddon=inputstream.helper
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream.helper.is_realtime_stream=true
@@ -136,11 +136,12 @@ https://tv-trt2.medya.trt.com.tr/master.m3u8|User-Agent=https://canlitv.center/p
 #KODIPROP:inputstream.helper.is_realtime_stream=true
 #KODIPROP:inputstream.helper.manifest_type=hls
 #EXTINF:-1,A2
-https://bursa.tvizlehd.com/a2tv.m3u8?tkn=CsQzBrJMvxe9oKsIRCmz9A&tms=1655583513&hst=tr.canlitv.city|User-Agent=https://canlitv.center/player/jwplayer.js
+https://bursa.tvizlehd.com/a2tv.m3u8?tkn=CsQzBrJMvxe9oKsIRCmz9A&tms=1655583513&hst=tr.canlitv.city|User-Agent=Mozilla/5.0 (Linux; U; Android 4.3; en-us; SM-N900T Build/JSS15J) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.is_realtime_stream=true
 #EXTINF:-1,MINIKA COCUK
-http://mfe.cliptv.az/dash/Minika_Cocuk_SD.ism/playlist.mpd
+http://mfe.cliptv.az/dash/Minika_Cocuk_SD.ism/playlist.mpd|User-Agent=Mozilla/5.0 (Linux; U; Android 4.3; en-us; SM-N900T Build/JSS15J) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
 #KODIPROP:inputstreamaddon=inputstream.helper
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream.helper.is_realtime_stream=true
