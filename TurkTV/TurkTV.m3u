@@ -100,7 +100,7 @@ http://iptvmasterlink.dyndns.org:8080/EuroStar/playlist.m3u8|User-Agent=https://
 #KODIPROP:inputstream.helper.is_realtime_stream=true
 #KODIPROP:inputstream.helper.manifest_type=hls
 #EXTINF:-1,ATV AVRUPA
-https://antalya.tvizlehd.com/atvavrupa.m3u8?tkn=xN8S7AqO3KZydCj1zWOMiA&tms=1655586638&hst=canlitvizle.com|User-Agent=Mozilla/5.0 (Linux; U; Android 4.3; en-us; SM-N900T Build/JSS15J) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+https://antalya.tvizlehd.com/atvavrupa.m3u8?tkn=xN8S7AqO3KZydCj1zWOMiA&tms=1655586638&hst=canlitvizle.com|User-Agent=https://canlitvizle.com/player/player.js
 #KODIPROP:inputstreamaddon=inputstream.helper
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream.helper.is_realtime_stream=true
@@ -136,13 +136,13 @@ https://tv-trt2.medya.trt.com.tr/master.m3u8|User-Agent=https://canlitv.center/p
 #KODIPROP:inputstream.helper.is_realtime_stream=true
 #KODIPROP:inputstream.helper.manifest_type=hls
 #EXTINF:-1,A2
-https://izmir.tvizlehd.com/a2tv.m3u8?tkn=Tp12QW2uHBPeLiELOk1-QQ&tms=1655586607&hst=canlitvizle.com|User-Agent=Mozilla/5.0 (Linux; U; Android 4.3; en-us; SM-N900T Build/JSS15J) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+https://izmir.tvizlehd.com/a2tv.m3u8?tkn=Tp12QW2uHBPeLiELOk1-QQ&tms=1655586607&hst=canlitvizle.com|User-Agent=https://canlitvizle.com/player/player.js
 #KODIPROP:inputstreamaddon=inputstream.helper
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream.helper.is_realtime_stream=true
 #KODIPROP:inputstream.helper.manifest_type=hls
 #EXTINF:-1,MINIKA COCUK
-https://mugla.tvizlehd.com/minikacocuk.m3u8?tkn=pEkkINsLTlIPKNCX40e2aA&tms=1655586044&hst=tr.canlitv.team|User-Agent=Mozilla/5.0 (Linux; U; Android 4.3; en-us; SM-N900T Build/JSS15J) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+https://mugla.tvizlehd.com/minikacocuk.m3u8?tkn=pEkkINsLTlIPKNCX40e2aA&tms=1655586044&hst=tr.canlitv.team|User-Agent=https://canlitvizle.com/player/player.js
 #KODIPROP:inputstreamaddon=inputstream.helper
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream.helper.is_realtime_stream=true
