@@ -100,7 +100,7 @@ http://iptvmasterlink.dyndns.org:8080/EuroStar/playlist.m3u8|User-Agent=https://
 #KODIPROP:inputstream.helper.is_realtime_stream=true
 #KODIPROP:inputstream.helper.manifest_type=hls
 #EXTINF:-1,ATV AVRUPA
-https://antalya.tvizlehd.com/atvavrupa.m3u8?tkn=xN8S7AqO3KZydCj1zWOMiA&tms=1655586638&hst=canlitvizle.com|User-Agent=https://canlitvizle.com/player/player.js
+http://46.31.146.187:44300/play/a03y/index.m3u8|User-Agent=VLC
 #KODIPROP:inputstreamaddon=inputstream.helper
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream.helper.is_realtime_stream=true
@@ -136,13 +136,13 @@ https://tv-trt2.medya.trt.com.tr/master.m3u8|User-Agent=https://canlitv.center/p
 #KODIPROP:inputstream.helper.is_realtime_stream=true
 #KODIPROP:inputstream.helper.manifest_type=hls
 #EXTINF:-1,A2
-https://izmir.tvizlehd.com/a2tv.m3u8?tkn=Tp12QW2uHBPeLiELOk1-QQ&tms=1655586607&hst=canlitvizle.com|User-Agent=https://canlitvizle.com/player/player.js
+https://trkvz-live.ercdn.net/a2tv/a2tv_720p.m3u8?st=oY9jzdBYq8JPontxGZ24TA&e=1655648491&SessionID=1.3.1454172691.1655603290&StreamGroup=canli-yayin&Site=&DeviceGroup=web&referrerSiteId=0fe2a405-8afa-4238-b429-e5f96aec3a5c|User-Agent=VLC
 #KODIPROP:inputstreamaddon=inputstream.helper
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream.helper.is_realtime_stream=true
 #KODIPROP:inputstream.helper.manifest_type=hls
 #EXTINF:-1,MINIKA COCUK
-https://mugla.tvizlehd.com/minikacocuk.m3u8?tkn=pEkkINsLTlIPKNCX40e2aA&tms=1655586044&hst=tr.canlitv.team|User-Agent=https://canlitvizle.com/player/player.js
+http://46.31.146.187:44300/play/a01q/index.m3u8|User-Agent=VLC
 #KODIPROP:inputstreamaddon=inputstream.helper
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream.helper.is_realtime_stream=true
