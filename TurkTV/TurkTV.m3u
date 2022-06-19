@@ -136,7 +136,7 @@ https://tv-trt2.medya.trt.com.tr/master.m3u8|User-Agent=https://canlitv.center/p
 #KODIPROP:inputstream.helper.is_realtime_stream=true
 #KODIPROP:inputstream.helper.manifest_type=hls
 #EXTINF:-1,A2
-https://trkvz-live.ercdn.net/a2tv/a2tv_720p.m3u8?st=oY9jzdBYq8JPontxGZ24TA&e=1655648491&SessionID=1.3.1454172691.1655603290&StreamGroup=canli-yayin&Site=&DeviceGroup=web&referrerSiteId=0fe2a405-8afa-4238-b429-e5f96aec3a5c|User-Agent=VLC
+https://ankara.tvizlehd.com/a2tv.m3u8?tkn=knrFLg1JsU7TLPMhlM0Myg&tms=1655682459&hst=tr.canlitv.city|User-Agent=https://canlitv.center/player/jwplayer.js
 #KODIPROP:inputstreamaddon=inputstream.helper
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream.helper.is_realtime_stream=true
