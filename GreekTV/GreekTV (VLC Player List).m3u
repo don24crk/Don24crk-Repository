@@ -43,7 +43,7 @@ plugin://plugin.video.tvone11/play/36/1621/play.pvr
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.helper.is_realtime_stream=true
 #KODIPROP:inputstream.helper.manifest_type=hls
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="BARAZATV" logo= "https://barazaradio.com/wp-content/uploads/2019/10/0c64fa98a658268e86a9125a82ee7615.png",BRAZA TV
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="BARAZA TV" logo= "https://barazaradio.com/wp-content/uploads/2019/10/0c64fa98a658268e86a9125a82ee7615.png",BARAZA TV
 https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8|User-Agent=https://canlitv.center/player/jwplayer.js
 #KODIPROP:inputstreamaddon=inputstream.helper
 #KODIPROP:mimetype=application/x-mpegURL
