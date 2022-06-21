@@ -136,7 +136,7 @@ https://tv-trt2.medya.trt.com.tr/master.m3u8|User-Agent=https://canlitv.center/p
 #KODIPROP:inputstream.helper.is_realtime_stream=true
 #KODIPROP:inputstream.helper.manifest_type=hls
 #EXTINF:-1,A2
-plugin://plugin.video.tvone111/play/822/play.pvr
+https://ankara.tvizlehd.com/a2tv.m3u8?tkn=t4aQuwf1Ni4FAlvbFgqXSg&tms=1655855160&hst=tr.canlitv.services|User-Agent=https://tr.canlitv.city/player/player.js
 #KODIPROP:inputstreamaddon=inputstream.helper
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream.helper.is_realtime_stream=true
