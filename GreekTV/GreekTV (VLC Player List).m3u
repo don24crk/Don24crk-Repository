@@ -1,87 +1,55 @@
 #EXTM3U 
 #KODIPROP:inputstreamaddon=inputstream.helper
-#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream.helper.is_realtime_stream=true
 #KODIPROP:inputstream.helper.manifest_type=hls
 #EXTINF:-1,ERT1
-plugin://plugin.video.tvone11/play/36/1616/play.pvr
+https://s2.cystream.net/live/ert1/chunks.m3u8?nimblesessionid=9272771&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMS8yMDIyIDY6NDU6MjEgUE0maGFzaF92YWx1ZT1vWmFwT3cvYzZpbWd2ZEdBbGtRWHVnPT0mdmFsaWRtaW51dGVzPTIw|User-Agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTSSS Build/PS7223)
 #KODIPROP:inputstreamaddon=inputstream.helper
-#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream.helper.is_realtime_stream=true
 #KODIPROP:inputstream.helper.manifest_type=hls
 #EXTINF:-1,ERT2
-plugin://plugin.video.tvone11/play/36/1617/play.pvr
+https://s2.cystream.net/live/ert2/chunks.m3u8?nimblesessionid=9272814&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMS8yMDIyIDY6NDY6MjIgUE0maGFzaF92YWx1ZT05NndxQTErNXo3aW5Kc2sxY3RQVkp3PT0mdmFsaWRtaW51dGVzPTIw|User-Agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTSSS Build/PS7223)
 #KODIPROP:inputstreamaddon=inputstream.helper
-#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream.helper.is_realtime_stream=true
 #KODIPROP:inputstream.helper.manifest_type=hls
 #EXTINF:-1,ERT3
-plugin://plugin.video.tvone11/play/36/1618/play.pvr
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ERT NEWS" logo= "http://www.typologies.gr/wp-content/uploads/2022/02/ertnews.jpeg",ERT NEWS
-https://ert-live-bcbs15228.siliconweb.com/media/ert_news/ert_news.m3u8|User-Agent=https://canlitv.center/player/jwplayer.js
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ERTWORLD" logo= "https://upload.wikimedia.org/wikipedia/commons/0/09/ERTworld2020.png",ERTWORLD
-http://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8|User-Agent=https://canlitv.center/player/jwplayer.js
-#KODIPROP:inputstreamaddon=inputstream.helper
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.helper.is_realtime_stream=true
-#KODIPROP:inputstream.helper.manifest_type=hls
+https://s2.cystream.net/live/ert3/chunks.m3u8?nimblesessionid=9272843&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMS8yMDIyIDY6NDc6MDkgUE0maGFzaF92YWx1ZT1CWmlhaWZWNWJRWm53U3ZYQldFOEpRPT0mdmFsaWRtaW51dGVzPTIw|User-Agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTSSS Build/PS7223)
+#EXTINF:-1,ERT NEWS
+https://ert-live-bcbs15228.siliconweb.com/media/ert_news/ert_news.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTSSS Build/PS7223)
+#EXTINF:-1,ERTWORLD
+http://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTSSS Build/PS7223)
 #EXTINF:-1,ALPHA
-plugin://plugin.video.tvone11/play/36/1620/play.pvr
-#KODIPROP:inputstreamaddon=inputstream.helper
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.helper.is_realtime_stream=true
-#KODIPROP:inputstream.helper.manifest_type=hls
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ANT1 EUROPE" logo= "https://www.antennaeurope.gr/media/upload-files/cache/b6d/b6dfe5c5951b183c433aebd4806f01db_europelogo.jpg",ANT1 EUROPE
-http://95.107.132.106:80/out/u/650_1.m3u8|User-Agent=https://canlitv.center/player/jwplayer.js
-#KODIPROP:inputstreamaddon=inputstream.helper
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.helper.is_realtime_stream=true
-#KODIPROP:inputstream.helper.manifest_type=hls
+https://s2.cystream.net/live/alphagr/chunks.m3u8?nimblesessionid=9272995&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMS8yMDIyIDY6NTE6MDUgUE0maGFzaF92YWx1ZT1mOHBaMkN5VmFBREpKNEd0YVhsUWl3PT0mdmFsaWRtaW51dGVzPTIw|User-Agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTSSS Build/PS7223)
+#EXTINF:-1,ANT1 EUROPE
+http://95.107.132.106/out/u/650_1.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTSSS Build/PS7223)
 #EXTINF:-1,ANT1
-plugin://plugin.video.tvone11/play/36/1621/play.pvr
+https://antennaamd.akamaized.net:443/ant1_akamai/abr/playlist.m3u8?&hdnts=exp=1655854237~hmac=1a7cf36a579ad00318cc92991f086e182f0619c32bc24f3adcc0926dc770e3c6|User-Agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTSSS Build/PS7223)
+#EXTINF:-1,BARAZA TV
+https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTSSS Build/PS7223)
 #KODIPROP:inputstreamaddon=inputstream.helper
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.helper.is_realtime_stream=true
-#KODIPROP:inputstream.helper.manifest_type=hls
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="BARAZA TV" logo= "https://barazaradio.com/wp-content/uploads/2019/10/0c64fa98a658268e86a9125a82ee7615.png",BARAZA TV
-https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8|User-Agent=https://canlitv.center/player/jwplayer.js
-#KODIPROP:inputstreamaddon=inputstream.helper
-#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream.helper.is_realtime_stream=true
 #KODIPROP:inputstream.helper.manifest_type=hls
 #EXTINF:-1,MEGA
-plugin://plugin.video.tvone11/play/36/1622/play.pvr
-#KODIPROP:inputstreamaddon=inputstream.helper
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.helper.is_realtime_stream=true
-#KODIPROP:inputstream.helper.manifest_type=hls
+https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTSSS Build/PS7223)
 #EXTINF:-1,M.HD 
-plugin://plugin.video.tvone11/play/36/1623/play.pvr
-#KODIPROP:inputstreamaddon=inputstream.helper
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.helper.is_realtime_stream=true
-#KODIPROP:inputstream.helper.manifest_type=hls
+https://antennaamd.akamaized.net:443/maktv_akamai/abr/playlist.m3u8?&hdnts=exp=1655854496~hmac=03da0bc8e851a2e068ed762908be31a1dc1cc8411c224b318ff5cbadb636e659|User-Agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTSSS Build/PS7223)
 #EXTINF:-1,Panik Records
-https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8|User-Agent=https://canlitv.center/player/jwplayer.js
-#KODIPROP:inputstreamaddon=inputstream.helper
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.helper.is_realtime_stream=true
-#KODIPROP:inputstream.helper.manifest_type=hls
+https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTSSS Build/PS7223)
 #EXTINF:-1,OPEN
-plugin://plugin.video.tvone11/play/36/1744/play.pvr
+http://liveopencloud.siliconweb.com:80/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTSSS Build/PS7223)
 #KODIPROP:inputstreamaddon=inputstream.helper
-#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream.helper.is_realtime_stream=true
 #KODIPROP:inputstream.helper.manifest_type=hls
 #EXTINF:-1,SKAI
-plugin://plugin.video.tvone11/play/36/1619/play.pvr
-#KODIPROP:inputstreamaddon=inputstream.helper
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.helper.is_realtime_stream=true
-#KODIPROP:inputstream.helper.manifest_type=hls
+https://s2.cystream.net/galanos/skai/chunks.m3u8?nimblesessionid=9273193&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMS8yMDIyIDY6NTU6MDkgUE0maGFzaF92YWx1ZT0yNFAyb3Y1L2hGa3k5TmpTVHB3SjVnPT0mdmFsaWRtaW51dGVzPTIw|User-Agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTSSS Build/PS7223)
 #EXTINF:-1,STAR
-plugin://plugin.video.tvone11/play/36/1632/play.pvr
-#EXTINF:-1 group-title="SIGMA" logo= "https://www.sigmatv.com/application/themes/default/img/redesign/sigma-logo-final.png",SIGMA
-https://sl2.sigmatv.com:443/hls/live.m3u8|User-Agent=https://canlitv.center/player/jwplayer.js
-#EXTINF:-1 group-title="SMILE" logo= "https://www.cyta.com.cy/mp/informational/images/channels/smiletv.gif",SMILE
-https://s1.cystream.net/live/smile/playlist.m3u8|User-Agent=https://canlitv.center/player/jwplayer.js
+https://s2.cystream.net/galanos/star/chunks.m3u8?nimblesessionid=9272913&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMS8yMDIyIDY6NDk6MDUgUE0maGFzaF92YWx1ZT1Bczd2ZlZTOXBzSW5uR3paYklSL1FnPT0mdmFsaWRtaW51dGVzPTIw|User-Agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTSSS Build/PS7223)
+#EXTINF:-1,SIGMA
+https://sl2.sigmatv.com:443/hls/live.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTSSS Build/PS7223)
+#EXTINF:-1,SMILE
+https://s1.cystream.net/live/smile/playlist.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTSSS Build/PS7223)
