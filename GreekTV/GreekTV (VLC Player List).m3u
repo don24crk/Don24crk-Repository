@@ -1,55 +1,130 @@
-#EXTM3U 
-#KODIPROP:inputstreamaddon=inputstream.helper
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream.helper.is_realtime_stream=true
-#KODIPROP:inputstream.helper.manifest_type=hls
-#EXTINF:-1,ERT1
-https://s2.cystream.net/live/ert1/chunks.m3u8?nimblesessionid=9272771&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMS8yMDIyIDY6NDU6MjEgUE0maGFzaF92YWx1ZT1vWmFwT3cvYzZpbWd2ZEdBbGtRWHVnPT0mdmFsaWRtaW51dGVzPTIw|User-Agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTSSS Build/PS7223)
-#KODIPROP:inputstreamaddon=inputstream.helper
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream.helper.is_realtime_stream=true
-#KODIPROP:inputstream.helper.manifest_type=hls
-#EXTINF:-1,ERT2
-https://s2.cystream.net/live/ert2/chunks.m3u8?nimblesessionid=9272814&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMS8yMDIyIDY6NDY6MjIgUE0maGFzaF92YWx1ZT05NndxQTErNXo3aW5Kc2sxY3RQVkp3PT0mdmFsaWRtaW51dGVzPTIw|User-Agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTSSS Build/PS7223)
-#KODIPROP:inputstreamaddon=inputstream.helper
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream.helper.is_realtime_stream=true
-#KODIPROP:inputstream.helper.manifest_type=hls
-#EXTINF:-1,ERT3
-https://s2.cystream.net/live/ert3/chunks.m3u8?nimblesessionid=9272843&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMS8yMDIyIDY6NDc6MDkgUE0maGFzaF92YWx1ZT1CWmlhaWZWNWJRWm53U3ZYQldFOEpRPT0mdmFsaWRtaW51dGVzPTIw|User-Agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTSSS Build/PS7223)
-#EXTINF:-1,ERT NEWS
-https://ert-live-bcbs15228.siliconweb.com/media/ert_news/ert_news.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTSSS Build/PS7223)
-#EXTINF:-1,ERTWORLD
-http://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTSSS Build/PS7223)
-#EXTINF:-1,ALPHA
-https://s2.cystream.net/live/alphagr/chunks.m3u8?nimblesessionid=9272995&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMS8yMDIyIDY6NTE6MDUgUE0maGFzaF92YWx1ZT1mOHBaMkN5VmFBREpKNEd0YVhsUWl3PT0mdmFsaWRtaW51dGVzPTIw|User-Agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTSSS Build/PS7223)
-#EXTINF:-1,ANT1 EUROPE
-http://95.107.132.106/out/u/650_1.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTSSS Build/PS7223)
-#EXTINF:-1,ANT1
-https://antennaamd.akamaized.net:443/ant1_akamai/abr/playlist.m3u8?&hdnts=exp=1655854237~hmac=1a7cf36a579ad00318cc92991f086e182f0619c32bc24f3adcc0926dc770e3c6|User-Agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTSSS Build/PS7223)
-#EXTINF:-1,BARAZA TV
-https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTSSS Build/PS7223)
-#KODIPROP:inputstreamaddon=inputstream.helper
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream.helper.is_realtime_stream=true
-#KODIPROP:inputstream.helper.manifest_type=hls
-#EXTINF:-1,MEGA
-https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTSSS Build/PS7223)
-#EXTINF:-1,M.HD 
-https://antennaamd.akamaized.net:443/maktv_akamai/abr/playlist.m3u8?&hdnts=exp=1655854496~hmac=03da0bc8e851a2e068ed762908be31a1dc1cc8411c224b318ff5cbadb636e659|User-Agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTSSS Build/PS7223)
-#EXTINF:-1,Panik Records
-https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTSSS Build/PS7223)
-#EXTINF:-1,OPEN
-http://liveopencloud.siliconweb.com:80/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTSSS Build/PS7223)
-#KODIPROP:inputstreamaddon=inputstream.helper
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream.helper.is_realtime_stream=true
-#KODIPROP:inputstream.helper.manifest_type=hls
-#EXTINF:-1,SKAI
-https://s2.cystream.net/galanos/skai/chunks.m3u8?nimblesessionid=9273193&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMS8yMDIyIDY6NTU6MDkgUE0maGFzaF92YWx1ZT0yNFAyb3Y1L2hGa3k5TmpTVHB3SjVnPT0mdmFsaWRtaW51dGVzPTIw|User-Agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTSSS Build/PS7223)
-#EXTINF:-1,STAR
-https://s2.cystream.net/galanos/star/chunks.m3u8?nimblesessionid=9272913&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMS8yMDIyIDY6NDk6MDUgUE0maGFzaF92YWx1ZT1Bczd2ZlZTOXBzSW5uR3paYklSL1FnPT0mdmFsaWRtaW51dGVzPTIw|User-Agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTSSS Build/PS7223)
-#EXTINF:-1,SIGMA
-https://sl2.sigmatv.com:443/hls/live.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTSSS Build/PS7223)
-#EXTINF:-1,SMILE
-https://s1.cystream.net/live/smile/playlist.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTSSS Build/PS7223)
+#EXTM3U
+#EXTVLCOPT:http-user-agent=VLC/3.0.16 LibVLC/3.0.16
+#EXTINF:-1,GR: ERT 1
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3194
+#EXTVLCOPT:http-user-agent=VLC/3.0.16 LibVLC/3.0.16
+#EXTINF:-1,GR: ERT 2
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3195
+#EXTVLCOPT:http-user-agent=VLC/3.0.16 LibVLC/3.0.16
+#EXTINF:-1,GR: ERT 3
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3196
+#EXTVLCOPT:http-user-agent=VLC/3.0.16 LibVLC/3.0.16
+#EXTINF:-1,GR: ERT World HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/169507
+#EXTVLCOPT:http-user-agent=VLC/3.0.16 LibVLC/3.0.16
+#EXTINF:-1,GR: ANT 1 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3202
+#EXTVLCOPT:http-user-agent=VLC/3.0.16 LibVLC/3.0.16
+#EXTINF:-1,GR: ANT 1 FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/198758
+#EXTVLCOPT:http-user-agent=VLC/3.0.16 LibVLC/3.0.16
+#EXTINF:-1,GR: STAR HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/155665
+#EXTVLCOPT:http-user-agent=VLC/3.0.16 LibVLC/3.0.16
+#EXTINF:-1,GR: STAR FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/198760
+#EXTVLCOPT:http-user-agent=VLC/3.0.16 LibVLC/3.0.16
+#EXTINF:-1,GR: SKAI HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/155663
+#EXTVLCOPT:http-user-agent=VLC/3.0.16 LibVLC/3.0.16
+#EXTINF:-1,GR: SKAI FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/198756
+#EXTVLCOPT:http-user-agent=VLC/3.0.16 LibVLC/3.0.16
+#EXTINF:-1,GR: ALPHA HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/155664
+#EXTVLCOPT:http-user-agent=VLC/3.0.16 LibVLC/3.0.16
+#EXTINF:-1,GR: ALPHA FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/198757
+#EXTVLCOPT:http-user-agent=VLC/3.0.16 LibVLC/3.0.16
+#EXTINF:-1,GR: OPEN BEYOND HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3201
+#EXTVLCOPT:http-user-agent=VLC/3.0.16 LibVLC/3.0.16
+#EXTINF:-1,GR: OPEN BEYOND FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/176028
+#EXTVLCOPT:http-user-agent=VLC/3.0.16 LibVLC/3.0.16
+#EXTINF:-1,GR: MEGA HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/188132
+#EXTVLCOPT:http-user-agent=VLC/3.0.16 LibVLC/3.0.16
+#EXTINF:-1,GR: MEGA FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/409462
+#EXTVLCOPT:http-user-agent=VLC/3.0.16 LibVLC/3.0.16
+#EXTINF:-1,GR: MAKEDONIA TV HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/211262
+#EXTVLCOPT:http-user-agent=VLC/3.0.16 LibVLC/3.0.16
+#EXTINF:-1,GR: MAKEDONIA TV FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3200
+#EXTVLCOPT:http-user-agent=VLC/3.0.16 LibVLC/3.0.16
+#EXTINF:-1,GR: DIAVATA TV
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/325187
+#EXTVLCOPT:http-user-agent=VLC/3.0.16 LibVLC/3.0.16
+#EXTINF:-1,GR: PANIK TV
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/325173
+#EXTVLCOPT:http-user-agent=VLC/3.0.16 LibVLC/3.0.16
+#EXTINF:-1,GR: ELLHNIKES TAINIES HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/330500
+#EXTVLCOPT:http-user-agent=VLC/3.0.16 LibVLC/3.0.16
+#EXTINF:-1,GR: Smile TV
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/155550
+#EXTVLCOPT:http-user-agent=VLC/3.0.16 LibVLC/3.0.16
+#EXTINF:-1,GR: Sigma TV CY
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/155548
+#EXTVLCOPT:http-user-agent=VLC/3.0.16 LibVLC/3.0.16
+#EXTINF:-1,GR: Baraza TV Greek Hits
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/251730
+#EXTVLCOPT:http-user-agent=VLC/3.0.16 LibVLC/3.0.16
+#EXTINF:-1,GR: VIP ERT 1 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/211325
+#EXTVLCOPT:http-user-agent=VLC/3.0.16 LibVLC/3.0.16
+#EXTINF:-1,GR: VIP ERT 2 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/211326
+#EXTVLCOPT:http-user-agent=VLC/3.0.16 LibVLC/3.0.16
+#EXTINF:-1,GR: VIP ERT WORLD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/302721
+#EXTVLCOPT:http-user-agent=VLC/3.0.16 LibVLC/3.0.16
+#EXTINF:-1,GR: VIP Ant 1 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/211320
+#EXTVLCOPT:http-user-agent=VLC/3.0.16 LibVLC/3.0.16
+#EXTINF:-1,GR: VIP ALPHA HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/211266
+#EXTVLCOPT:http-user-agent=VLC/3.0.16 LibVLC/3.0.16
+#EXTINF:-1,GR: VIP SKAÏ HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/211293
+#EXTVLCOPT:http-user-agent=VLC/3.0.16 LibVLC/3.0.16
+#EXTINF:-1,GR: VIP MEGA HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/380357
+#EXTVLCOPT:http-user-agent=VLC/3.0.16 LibVLC/3.0.16
+#EXTINF:-1,GR: VIP Star HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/211318
+#EXTVLCOPT:http-user-agent=VLC/3.0.16 LibVLC/3.0.16
+#EXTINF:-1,GR: VIP OPEN BEYOND TV HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/221934
+#EXTVLCOPT:http-user-agent=VLC/3.0.16 LibVLC/3.0.16
+#EXTINF:-1,GR: VIP Makedonia HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/211294
+#EXTVLCOPT:http-user-agent=VLC/3.0.16 LibVLC/3.0.16
+#EXTINF:-1,GR: VIP MEGA COSMOS CA
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/380990
+#EXTVLCOPT:http-user-agent=VLC/3.0.16 LibVLC/3.0.16
+#EXTINF:-1,GR: VIP MAD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/253745
+#EXTVLCOPT:http-user-agent=VLC/3.0.16 LibVLC/3.0.16
+#EXTINF:-1,GR: VIP Τζένη Καρέζη
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/383943
+#EXTVLCOPT:http-user-agent=VLC/3.0.16 LibVLC/3.0.16
+#EXTINF:-1,GR: VIP Οι Ταινίες της Φίνος Φιλμ
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/383929
+#EXTVLCOPT:http-user-agent=VLC/3.0.16 LibVLC/3.0.16
+#EXTINF:-1,GR: VIP Ταμτάκος
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/383923
+#EXTVLCOPT:http-user-agent=VLC/3.0.16 LibVLC/3.0.16
+#EXTINF:-1,GR: VIP Σωτήρης Μουστάκας
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/383922
+#EXTVLCOPT:http-user-agent=VLC/3.0.16 LibVLC/3.0.16
+#EXTINF:-1,GR: VIP Disney Channel
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/211300
+#EXTVLCOPT:http-user-agent=VLC/3.0.16 LibVLC/3.0.16
+#EXTINF:-1,GR: VIP Smile
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/211315
+#EXTVLCOPT:http-user-agent=VLC/3.0.16 LibVLC/3.0.16
+#EXTINF:-1,GR: VIP SiGMA CYPRUS
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/221932
