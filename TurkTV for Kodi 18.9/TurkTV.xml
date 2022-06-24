@@ -1,0 +1,100 @@
+<item>
+<title>GSTV</title>
+<link>plugin://plugin.video.f4mTester/?url=https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b2328000_sltur.m3u8&amp;streamtype=HLSRETRY&amp;name=GSTV</link>
+</item>
+<item>
+<title>FBTV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvmasterlink.dyndns.org:8080/FbTv/playlist.m3u8&amp;streamtype=HLSRETRY&amp;name=FBTV</link>
+</item>
+<item>
+<title>KANAL 7</title>
+<link>plugin://plugin.video.f4mTester/?url=https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8&amp;streamtype=HLSRETRY&amp;name=KANAL 7</link>
+</item>
+<item>
+<title>KANAL 7 AVRUPA</title>
+<link>plugin://plugin.video.f4mTester/?url=https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8&amp;streamtype=HLSRETRY&amp;name=KANAL 7 AVRUPA</link>
+</item>
+<item>
+<title>TRT1</title>
+<link>plugin://plugin.video.f4mTester/?url=https://tv-trtvideo08.medya.trt.com.tr/master.m3u8&amp;streamtype=HLSRETRY&amp;name=TRT1</link>
+</item>
+<item>
+<title>STARTV</title>
+<link>plugin://plugin.video.f4mTester/?url=https://dogus-live.daioncdn.net/startv/playlist.m3u8&amp;streamtype=HLSRETRY&amp;name=STARTV</link>
+</item>
+<item>
+<title>ATV</title>
+<link>plugin://plugin.video.f4mTester/?url=https://trkvz-live.daioncdn.net/atv/atv_720p.m3u8&amp;streamtype=HLSRETRY&amp;name=ATV</link>
+</item>
+<item>
+<title>FOX</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/187760&amp;streamtype=TSDOWNLOADER&amp;name=FOX</link>
+</item>
+<item>
+<title>KRAL</title>
+<link>plugin://plugin.video.f4mTester/?url=https://dogus-live.daioncdn.net/kraltv/playlist.m3u8&amp;streamtype=HLSRETRY&amp;name=KRAL</link>
+</item>
+<item>
+<title>SHOWMAX</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvmasterlink.dyndns.org:8080/ShowMax/playlist.m3u8&amp;streamtype=HLSRETRY&amp;name=SHOWMAX</link>
+</item>
+<item>
+<title>SHOW</title>
+<link>plugin://plugin.video.f4mTester/?url=https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8&amp;streamtype=HLSRETRY&amp;name=SHOW</link>
+</item>
+<item>
+<title>KRALPOP</title>
+<link>plugin://plugin.video.f4mTester/?url=https://dygvideo.dygdigital.com/live/hls/kralpop?chunklist_b1296000.m3u8?st=HHuP0QdL1FFur-leQiuxyQ&e=1631606837&amp;streamtype=HLSRETRY&amp;name=KRALPOP</link>
+</item>
+<item>
+<title>TV 360</title>
+<link>plugin://plugin.video.f4mTester/?url=https://turkmedya-live.ercdn.net/tv360/tv360.m3u8&amp;streamtype=HLSRETRY&amp;name=TV 360</link>
+</item>
+<item>
+<title>24 TV</title>
+<link>plugin://plugin.video.f4mTester/?url=https://turkmedya-live.ercdn.net/tv24/tv24.m3u8&amp;streamtype=HLSRETRY&amp;name=24 TV</link>
+</item>
+<item>
+<title>TEVE2</title>
+<link>plugin://plugin.video.f4mTester/?url=https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8?min=0&max=2500&live=true&app=com.tv2&amp;streamtype=HLSRETRY&amp;name=TEVE2</link>
+</item>
+<item>
+<title>EURO STAR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvmasterlink.dyndns.org:8080/EuroStar/playlist.m3u8&amp;streamtype=HLSRETRY&amp;name=EURO STAR</link>
+</item>
+<item>
+<title>ATV AVRUPA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/7958&amp;streamtype=TSDOWNLOADER&amp;name=ATV AVRUPA</link>
+</item>
+<item>
+<title>CNN TÜRK</title>
+<link>plugin://plugin.video.f4mTester/?url=https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8&amp;streamtype=HLSRETRY&amp;name=CNN TÜRK</link>
+</item>
+<item>
+<title>DMAX</title>
+<link>plugin://plugin.video.f4mTester/?url=https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMi8yMDE4IDEwOjExOjA2IFBNJmhhc2hfdmFsdWU9cGtzUElvZjBwOUFIcDZRenpxQmxLdz09JnZhbGlkbWludXRlcz01&amp;streamtype=HLSRETRY&amp;name=DMAX</link>
+</item>
+<item>
+<title>DREAMTÜRK</title>
+<link>plugin://plugin.video.f4mTester/?url=https://live.duhnet.tv//S2/HLS_LIVE/dreamturknp/track_4_1000/playlist.m3u8?key=7763e4ac1e460d9913ada7b279c8af81&live=true&app=com.dreamturk&amp;streamtype=HLSRETRY&amp;name=DREAMTÜRK</link>
+</item>
+<item>
+<title>TRT Cucuk</title>
+<link>plugin://plugin.video.f4mTester/?url=https://tv-trtcocuk.live.trt.com.tr/master_720.m3u8&amp;streamtype=HLSRETRY&amp;name=TRT Cucuk</link>
+</item>
+<item>
+<title>TRT2</title>
+<link>plugin://plugin.video.f4mTester/?url=https://tv-trt2.medya.trt.com.tr/master.m3u8&amp;streamtype=HLSRETRY&amp;name=TRT2</link>
+</item>
+<item>
+<title>A2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/128278&amp;streamtype=TSDOWNLOADER&amp;name=A2</link>
+</item>
+<item>
+<title>MINIKA COCUK</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/1868&amp;streamtype=TSDOWNLOADER&amp;name=MINIKA COCUK</link>
+</item>
+<item>
+<title>MINIKA GO</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvmasterlink.dyndns.org:8080/MinikaGo/playlist.m3u8&amp;streamtype=HLSRETRY&amp;name=MINIKA GO</link>
+</item>
