@@ -25,7 +25,7 @@
 
 <title>GR: ERT 3</title>
 
-<link>plugin://plugin.video.f4mTester/?url=http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3196&amp;streamtype=TSDOWNLOADER&amp;name=GR: ERT 3</link>
+<link>plugin://plugin.video.f4mTester/?url=https://ert-live-bcbs15228.siliconweb.com/media/ert_3/ert_3_1Mbps.m3u8&amp;streamtype=HLSRETRY&amp;name=GR: ERT 3</link>
 
 <thumbnail>https://i.ibb.co/4V2LHGF/ERT3-logo-2020-svg.png</thumbnail>
 
@@ -34,9 +34,20 @@
 </item>
 <item>
 
+<title>GR: ERT NEWS 1</title>
+
+<link>plugin://plugin.video.f4mTester/?url=https://ert-live-bcbs15228.siliconweb.com/media/ert_news/ert_newsmedium.m3u8&amp;streamtype=HLSRETRY&amp;name=GR: ERT NEWS 1</link>
+
+<thumbnail>http://www.typologies.gr/wp-content/uploads/2022/02/ertnews.jpeg</thumbnail>
+
+<fanart>https://i.ibb.co/LJRCszP/greekwallpaper.jpg</fanart>
+
+</item>
+<item>
+
 <title>GR: ERT World HD</title>
 
-<link>plugin://plugin.video.f4mTester/?url=http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/169507&amp;streamtype=TSDOWNLOADER&amp;name=GR: ERT World HD</link>
+<link>plugin://plugin.video.f4mTester/?url=https://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world_4Mbps.m3u8&amp;streamtype=HLSRETRY&amp;name=GR: ERT World HD</link>
 
 <thumbnail>https://i.ibb.co/q9KLDdg/Channel-Logo-ERTWORLD1.png</thumbnail>
 
@@ -234,7 +245,7 @@
 
 <title>GR: Smile TV</title>
 
-<link>plugin://plugin.video.f4mTester/?url=http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/155550&amp;streamtype=TSDOWNLOADER&amp;name=GR: Smile TV</link>
+<link>plugin://plugin.video.f4mTester/?url=https://s1.cystream.net/live/smile/playlist.m3u8&amp;streamtype=HLSRETRY&amp;name=GR: Smile TV</link>
 
 <thumbnail>https://i.ibb.co/bNJn8W4/Smile-TV-logo.png</thumbnail>
 
