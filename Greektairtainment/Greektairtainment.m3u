@@ -39,6 +39,30 @@ https://alphavod.alphatv.gr/2021-2022/neoklasika/20220506_TA_NEOKLASIKA_OI_KLHRO
 plugin://plugin.video.smr_link_tester/?mode=play_link&amp;link=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D7MC7NHNW7aw
 #EXTINF:-1,KITCHEN LAB 03/07/22
 plugin://plugin.video.smr_link_tester/?mode=play_link&amp;link=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DjhuLkCu_PLA
-
-
+#EXTVLCOPT:http-user-agent="VLC/3.0.16 LibVLC/3.0.16"
+#EXTINF:-1,SUPER KATERINA 08/07/22
+https://alphavod.alphatv.gr/2021-2022/super_katerina/20220708_SUPER_KATERINA.mp4?__token__=st=1657389451~exp=1658253451~acl=/2021-2022/super_katerina/20220708_SUPER_KATERINA.mp4*~hmac=6408485566b13fc839c4e5187229a0e0009e184a3cf94b9b6cb89b2ca5139bad
+#EXTVLCOPT:http-user-agent="VLC/3.0.16 LibVLC/3.0.16"
+#EXTINF:-1,SUPER KATERINA 07/07/22
+https://alphavod.alphatv.gr/2021-2022/super_katerina/20220707_SUPER_KATERINA.mp4?__token__=st=1657390690~exp=1658254690~acl=/2021-2022/super_katerina/20220707_SUPER_KATERINA.mp4*~hmac=a913e243f1d9b2c75432c1501cca391247a4737c52e31cd28c05dd6950ce917e
+#EXTINF:-1,AGRIES MELISSES S3 EPEISODIO 144
+plugin://plugin.video.smr_link_tester/?mode=play_link&amp;link=https%3A%2F%2Fstreamtape.com%2Fv%2FY67R9b4XA4CpJ9
+#EXTINF:-1,AGRIES MELISSES S3 EPEISODIO 143
+plugin://plugin.video.smr_link_tester/?mode=play_link&amp;link=https%3A%2F%2Fstreamtape.com%2Fv%2F6aA3717X9KhZJZ
+#EXTINF:-1,I GI TIS ELIAS EPEISODIO 227
+https://streamcdng1-cdd1c899a94a4babbdaf6eb9b9d5f634.msvdn.net/vod/JsW0pQf6iw6Y/d93a9f43-f21e-490d-b03e-8daf551fd601/PK6/chunklist-f1-v1-a1.m3u8
+#EXTINF:-1,I GI TIS ELIAS EPEISODIO 226
+https://streamcdng50-cdd1c899a94a4babbdaf6eb9b9d5f634.msvdn.net/vod/ilueXsc6DtkB/66b6ce70-2a03-4bfd-b164-af7ee8e531bc/PK6/chunklist-f1-v1-a1.m3u8
+#EXTINF:-1,SIOPILOS DROMOS EPEISODIO 13
+plugin://plugin.video.smr_link_tester/?mode=play_link&amp;link=https%3A%2F%2Fwww.veoh.com%2Fwatch%2Fv142142393gHDzTZjg
+#EXTINF:-1,SIOPILOS DROMOS EPEISODIO 12
+plugin://plugin.video.smr_link_tester/?mode=play_link&amp;link=https%3A%2F%2Fwww.veoh.com%2Fwatch%2Fv142137505fSpZdSeh
+#EXTINF:-1,15.6.2022 MASTERCHEF NIKITIS O PANAGIOTIS KOUMOUNDOUROS! EPEISODIO 95 O MEGALOS TELIKOS!
+https://starvod.siliconweb.com/hls/p/713821/sp/71382100/serveFlavor/entryId/1_wqi841iv/v/1/ev/6/flavorId/1_p82flejs/name/a.mp4/index.m3u8
+#EXTINF:-1,14.6.2022 EPEISODIO 94
+https://starvod.siliconweb.com/hls/p/713821/sp/71382100/serveFlavor/entryId/1_5pdckl65/v/1/ev/6/flavorId/1_453fzus6/name/a.mp4/index.m3u8
+#EXTINF:-1,TWO AND A HALF MEN 07E22
+plugin://plugin.video.smr_link_tester/?mode=play_link&amp;link=https%3A%2F%2Fvidhdthe.online%2Fxqerl8pqjo9g
+#EXTINF:-1,TWO AND A HALF MEN 07E21
+plugin://plugin.video.smr_link_tester/?mode=play_link&amp;link=https%3A%2F%2Fvidhdthe.online%2F9mvdjkyi25ad
 
