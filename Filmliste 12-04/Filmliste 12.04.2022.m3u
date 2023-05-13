@@ -1,5 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-name="Morbius",Morbius
-plugin://plugin.video.smr_link_tester/?mode=play_link&amp;link=https%3A%2F%2Fvoe.sx%2F2v837r187tgl
-#EXTINF:-1 tvg-name="Sonic the Hedgehog 2",Sonic the Hedgehog 2
-plugin://plugin.video.smr_link_tester/?mode=play_link&amp;link=https%3A%2F%2Fvoe.sx%2Fbb11slmfe422
