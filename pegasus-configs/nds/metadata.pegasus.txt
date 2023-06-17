@@ -1,0 +1,97 @@
+collection: Nintendo DS
+shortname: nds
+extensions: dsi, nds
+launch: am start
+  -n com.retroarch/.browser.retroactivity.RetroActivityFuture
+  -e ROM {file.path}
+  -e LIBRETRO /data/data/com.retroarch/cores/melonds_libretro_android.so
+  -e CONFIGFILE /storage/emulated/0/Android/data/com.retroarch/files/retroarch.cfg
+  -e QUITFOCUS
+  --activity-clear-task
+  --activity-clear-top
+  --activity-no-history
+game: Mario Kart DS
+file: ./Mario Kart DS (U)(SCZ).nds
+developer: Nintendo
+publisher: Nintendo
+genre: Rennen, Fahren
+description:
+  Mario Kart DS bietet rasantes, drahtloses Spielvergnügen mit allem, was diesen
+  Fun Racer seit Jahren so beliebt macht. Ein Fest für Mario Kart-Fans, die ihre
+  Lieblingsrennstrecken, alle Spielmodi und natürlich die Mario Kart-Allstars -
+  Luigi, Peach, Yoshi, Donkey Kong, Wario, Toad und Bowser - jetzt auf zwei
+  Bildschirmen genießen können. Und neben den Favourites warten in Mario Kart DS
+  auch viele brandneue Rennstrecken auf die waghalsigen Fahrer, die mit
+  halsbrecherischen Fahrmanövern und mit dem hemmungslosen Einsatz fieser
+  Power-Ups den Gegner aus der Bahn kegeln.
+release: 2005-11-14
+players: 8
+rating: 80%
+x-id: 5778
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Mario Kart DS (U)(SCZ).png
+assets.video: ./media/videos/Mario Kart DS (U)(SCZ).mp4
+
+
+game: New Super Mario Bros.
+file: ./New Super Mario Bros. (U)(wide screen).nds
+developer: Nintendo
+publisher: Nintendo
+genre: Puzzle-Action-Plattform
+description:
+  Das erste völlig neue zweidimensionale Mario-Jump'n'Run-Spiel seit "Super Mario
+  World" ist da! New Super Mario Bros. wartet mit einer unglaublichen 3D-Grafik
+  und einem klassischen 2D-Gameplay auf. Mario-Fans werden begeistert sein, wenn
+  sie über Felder, durch Gewässer, Schlösser und durch die Luft hüpfen. Die
+  Möglichkeiten des DS-Systems wurden mit großer Wirkung genutzt. Das Ergebnis:
+  Das Pilzkönigreich sieht lebendiger aus als je zuvor.
+release: 2006-05-15
+players: 4
+rating: 80%
+x-id: 5748
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/New Super Mario Bros. (U)(wide screen).png
+assets.video: ./media/videos/New Super Mario Bros.mp4
+
+
+game: New Super Mario Bros.
+file: ./New Super Mario Bros.nds
+developer: Nintendo
+publisher: Nintendo
+genre: Puzzle-Action-Plattform
+description:
+  Das erste völlig neue zweidimensionale Mario-Jump'n'Run-Spiel seit "Super Mario
+  World" ist da! New Super Mario Bros. wartet mit einer unglaublichen 3D-Grafik
+  und einem klassischen 2D-Gameplay auf. Mario-Fans werden begeistert sein, wenn
+  sie über Felder, durch Gewässer, Schlösser und durch die Luft hüpfen. Die
+  Möglichkeiten des DS-Systems wurden mit großer Wirkung genutzt. Das Ergebnis:
+  Das Pilzkönigreich sieht lebendiger aus als je zuvor.
+release: 2006-05-15
+players: 4
+rating: 80%
+x-id: 5748
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/New Super Mario Bros.png
+assets.video: ./media/videos/New Super Mario Bros.mp4
+
+
+game: Super Mario 64 DS
+file: ./Super Mario 64 DS (U)(Trashman).nds
+developer: Nintendo
+publisher: Nintendo
+genre: Puzzle-Action-Plattform / Jump'n'Run-Plattform
+description:
+  Mario ist Super auf eine ganz neue, bahnbrechende Art und Weise, wie Du sie
+  bisher noch nie erlebt hast! Durch die unglaubliche 3D-Grafik und einzigartige
+  Spielbarkeit erhält Super Mario 64 für DS nicht nur eine völlig neue Dimension
+  im Bereich der Videospiele, sondern virtuelles Leben! Erlebe gigantische Kämpfe,
+  herausfordernde Hindernisrennen und gefährliche Unterwasserabenteuer. Besiege
+  den Erzrivalen Bowser im ersten dreidimensionalen Mario-Game!
+release: 2004-11-20
+players: 1
+rating: 75%
+x-id: 5764
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Super Mario 64 DS (U)(Trashman).png
+assets.video: ./media/videos/Super Mario 64 DS (U)(Trashman).mp4
+

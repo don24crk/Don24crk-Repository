@@ -1,0 +1,561 @@
+collection: Game Boy/Game Boy Color
+shortname: gb
+extensions: dmg, gb, gbc
+launch: am start
+  -n com.retroarch/.browser.retroactivity.RetroActivityFuture
+  -e ROM {file.path}
+  -e LIBRETRO /data/data/com.retroarch/cores/gambatte_libretro_android.so
+  -e CONFIGFILE /storage/emulated/0/Android/data/com.retroarch/files/retroarch.cfg
+  -e QUITFOCUS
+  --activity-clear-task
+  --activity-clear-top
+  --activity-no-history
+game: 4-in-1 Fun Pak Volume II
+file: ./4-in-1 Fun Pak Volume II (USA, Europe).zip
+developer: Beam Software
+publisher: Interplay
+genre: Verschiedene-Brettspiele
+description:
+  Jetzt kannst du vier der beliebtesten Brettspiele aller Zeiten auf deinem GAME
+  BOY haben ... alles zusammen in einem unterhaltsamen Paket! Sargon Chess...
+  Dame... Backgammon... Reversi... zur jederzeit an jedem Ort. Das 4-in-1-Fun-Pak
+  von Interplay ist der perfekte Gegner zu Hause oder unterwegs. Alle vier Spiele
+  können alleine, von Angesicht zu Angesicht oder über den GAME LINK von GAME BOY
+  gespielt werden. Wenn du also nach einer harten Konkurrenz suchst, schalte
+  einfach dein GAME BOY ein und gib dein Bestes.
+release: 1992-09-01
+players: 2
+rating: 65%
+x-id: 59620
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/4-in-1 Fun Pak Volume II (USA, Europe).png
+assets.video: ./media/videos/4-in-1 Fun Pak Volume II (USA, Europe).mp4
+
+
+game: 4-in-1 Fun Pak
+file: ./4-in-1 Fun Pak (USA, Europe).zip
+developer: Beam Software
+publisher: Interplay
+genre: Verschiedene-Brettspiele
+description:
+  4-in-1 Fun Pak verbinden vier Brettspiele die du gegen die CPU oder ein anderen
+  Spieler spielen kannst.\n
+  Das Packet beinhaltet folgende Spiele: Schach, Dame, Reversi, und Backgammon.
+  Jedes Spiel bietet verschiedene Schwierigkeitsstufen (1 ist die einfachste,\n
+  6 ist am schwierigsten), mit einfacher Schwarz-Weiß-Grafik und einem
+  herausfordernden CPU-Gegner.\n
+  Mehrspieler ist entweder über den Game Link Kable oder an dem selben Game Boy
+  verfügbar.
+release: 1992-09-01
+players: 2
+rating: 60%
+x-id: 46495
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/4-in-1 Fun Pak (USA, Europe).png
+assets.video: ./media/videos/4-in-1 Fun Pak (USA, Europe).mp4
+
+
+game: Aladdin
+file: ./Aladdin (USA) (SGB Enhanced).zip
+developer: NMS Software
+publisher: Virgin Interactive
+genre: Action-Plattform
+description:
+  HANG ONTO YOUR MAGIC CARPET FOR ACTION AND FUN!
+  .
+  Aladdin must slash his mighty scimitar to fight and dash through the city of
+  Agrabah, escape the Sultan's dungeon. survive the fiery Cave of Wonders, snatch
+  the Genie's Lamp and save Princess Jasmine from the evil Jafar in the most
+  magical desert adventure of all time!
+release: 1995-10-01
+players: 1
+rating: 85%
+x-id: 170144
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Aladdin (USA) (SGB Enhanced).png
+assets.video: ./media/videos/Aladdin (USA) (SGB Enhanced).mp4
+
+
+game: Arcade Classic No. 1 - Asteroids & Missile Command
+file: ./Arcade Classic No. 1 - Asteroids & Missile Command (USA, Europe) (SGB Enhanced).zip
+developer: The Code Monkeys
+publisher: Nintendo
+genre: Shoot'em Up-Sammlung
+description:
+  Asteroids
+  .
+  Navigiere mit einem rasenden Raumschiff durch taumelnde Trümmer!\n
+  Schieße eine glänzende Rakete durch absteigende Felsen und zerfallende
+  Trümmer!\n
+  Asteroids ist der ultimative himmlische Hindernisparcours für nervende
+  Raumfahrt!
+  .
+  Missile Command
+  .
+  Vernichte bedrohliche Sprengköpfe und rette die Zivilisation!\n
+  Verteidige die berühmten Städte vor Atomsprengköpfen, die vom Himmel regnen!
+  Missile Command ist der höchste Test für punktgenaue Präzision, genaues Zielen
+  und schnelle Reaktion!
+  .
+  - Zwei klassische Arcade-Superhits auf einer Game Boy-Kassette!\n
+  - Programmiert, um die Super Game Boy-Funktionen voll auszunutzen!\n
+  - Unglaubliche Unterhaltung für Weltraumfans jeden Alters!
+release: 1995-01-01
+players: 2
+rating: 70%
+x-id: 59736
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Arcade Classic No. 1 - Asteroids & Missile Command (USA, Europe) (SGB Enhanced).png
+assets.video: ./media/videos/Arcade Classic No. 1 - Asteroids & Missile Command (USA, Europe) (SGB Enhanced).mp4
+
+
+game: Arcade Classic No. 2 : Centipede & Millipede
+file: ./Arcade Classic No. 2 - Centipede & Millipede (USA, Europe) (SGB Enhanced).zip
+developer: The Code Monkeys
+publisher: Nintendo
+genre: Shoot'em Up-Shooter-Sammlung
+description:
+  Centipede
+  .
+  Der Wald wimmelt von quälenden Flöhen, tödlichen Skorpionen und den gefürchteten
+  Tausendfüßlern.\n
+  Vernichte dieses Insektenbataillon oder sie fressen dich zum Mittagessen!
+  .
+  Millipede
+  .
+  Der Garten ist voller Insekten!\n
+  Ein giftiger Pilzgarten wurde von einer Armee gruseliger Krabbler besetzt!
+  Beseitige bedrohliche Tausendfüßer, springende Spinnen und böse Ohrwürmer, bevor
+  sie sich zu einer Insektenepidemie vermehren!
+  .
+  - Zwei klassische Insekten-Zapping-Spiele auf einer Game Boy Kassette!\n
+  - Je weiter diese von Fehlern befallenen Spiele voranschreiten, desto schneller
+  wird der Wahnsin!\n
+  - Wählen Sie eine Startpunktzahl und verdienen Sie Bonusleben in zehn
+  Herausforderungsstufen!\n
+  - Programmiert, um die Super Game Boy-Funktionen voll auszunutzen!
+release: 1995-01-08
+players: 1
+rating: 80%
+x-id: 59737
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Arcade Classic No. 2 - Centipede & Millipede (USA, Europe) (SGB Enhanced).png
+assets.video: ./media/videos/Arcade Classic No. 2 - Centipede & Millipede (USA, Europe) (SGB Enhanced).mp4
+
+
+game: Arcade Classic No. 3 - Galaga & Galaxian
+file: ./Arcade Classic No. 3 - Galaga & Galaxian (USA) (SGB Enhanced).zip
+developer: TOSE
+publisher: Nintendo
+genre: Shoot'em Up-Sammlung-Shoot'em Up / Vertikal
+description:
+  Galaga\n
+  Die Militärfront von Galaga hat einen totalen Angriff gestartet! Begleitet von
+  einer Eskorte böser Zakkos- und Goei-Wachen versuchen die Boss-Galagas, Sie in
+  ihrem Traktorstrahl einzuschließen. Besiege die unerbittlichen Aliens in ihrem
+  eigenen grausamen Spiel, indem du das Geheimnis des Dual Fighter aufdeckst.
+  Bauen Sie Ihre Schiffsreserven auch in den herausfordernden Etappen aus!\n
+  Galaxian\n
+  Steuere das Galakship und erobere die Alien Forces! Du bist ein einsamer
+  galaxianischer Krieger, der für eine Mission ausgewählt wurde, um die bösen
+  Aliens abzuwehren. Ihre einzige Verteidigung ist Ihr vertrauenswürdiges
+  Galakship. Aber es ist nur mit einer einzigen Laserkanone bewaffnet! Es wird
+  schwierig sein, die Horde bunter Alien-Angreifer zurück zu schlagen. Sie werden
+  aus allen Richtungen kommen, aber nehmen Sie die Herausforderung an!
+  .
+  Zwei legendäre, rekordverdächtige Arcade-Hits auf EINER Game Boy-Kassette! -
+  Jedes Spiel ist voller Aufregung der ursprünglichen Arcade-Spiele! - Klassische
+  Arcade-Titel sprechen Spieler jeden Alters an! - Programmiert, um die Super Game
+  Boy-Funktionen voll auszunutzen!
+release: 1995-09-01
+players: 2
+rating: 75%
+x-id: 59738
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Arcade Classic No. 3 - Galaga & Galaxian (USA) (SGB Enhanced).png
+assets.video: ./media/videos/Arcade Classic No. 3 - Galaga & Galaxian (USA) (SGB Enhanced).mp4
+
+
+game: Arcade Classic No. 4 : Defender & Joust
+file: ./Arcade Classic No. 4 - Defender & Joust (USA, Europe) (SGB Enhanced).zip
+developer: Williams
+publisher: Nintendo
+genre: Shoot'em Up-Action-Sammlung
+description:
+  Defender
+  .
+  Space Shooting Action in a High-Speed Ship!\n
+  Advance from planet to planet in a deadly attempt to eliminate the enemy threat!
+  Utilize an outrageous arsenal of weapons and save the human race!
+  .
+  Joust
+  .
+  A Feather-Ruffling Romp on a Futuristic Bird!\n
+  Get ready to climb on a futuristic flying ostrich for frenzied wing-flapping
+  fun! Ram rival jousters in an all-out effort to knock them off their mounts!
+  .
+  - Two classic "get-them-before-they-get-you" arcade games!\n
+  - Double game pak for twice the challenge!\n
+  - Programmed to take full advantage of Super Game Boy features!\n
+  - Incredible entertainment for arcade fans of all ages!
+release: 1995-01-01
+players: 2
+rating: 65%
+x-id: 59739
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Arcade Classic No. 4 - Defender & Joust (USA, Europe) (SGB Enhanced).png
+assets.video: ./media/videos/Arcade Classic No. 4 - Defender & Joust (USA, Europe) (SGB Enhanced).mp4
+
+
+game: Beavis and Butt-Head
+file: ./Beavis and Butt-Head (USA, Europe).zip
+developer: Viacom New Media
+publisher: GT Interactive
+genre: Plattform-Action-Abenteuer
+description:
+  Beavis and Butt-head need you! Help the boys escape from Buzzcut's detention!
+  Steer your favorite morons through sewers, parks, Burger World, karate school,
+  and loads of nose-picking, head-banging action! You'll dodge Todd's gang! Kill
+  Cockroaches! Deliver Burgers! And master the dreaded Nad-kick!
+  .
+  Features:
+  .
+  - More than 10 adventure-packed areas of moronic mayhem - escape detention, flee
+  gangs, outrun rabid dogs, and tear up a karate school.
+  .
+  - Varied game play views: side-scrolling and overhead perspectives along with
+  challenging mini-games.
+  .
+  - Diverse environments including the school grounds, city jail, Burger World,
+  the karate school, and more.
+release: 1999-03-01
+players: 1
+rating: 35%
+x-id: 3398
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Beavis and Butt-Head (USA, Europe).png
+assets.video: ./media/videos/Beavis and Butt-Head (USA, Europe).mp4
+
+
+game: Frogger
+file: ./Frogger (USA).zip
+developer: Konami
+publisher: Majesco
+genre: Shooter-Action
+description:
+  Your task in this arcade game is to guide a frog across a treacherous road and
+  river, and to safety at the top of the screen. Both these sections are fraught
+  with a variety of hazards, each of which will kill the frog and cost you a life
+  if contact is made.
+  .
+  The road is full of cars and trucks, at variable speeds. The river water itself
+  is fatal, as are the snakes which hover within on later levels. Frogger must use
+  the arrangement of logs, turtles (which are only there for a short time) and
+  alligators (but stay away from their faces), and then jump into one of the open
+  home-cells, ideally one containing a fly for extra points. Once all holes have
+  been filled, you move onto the next, harder, level.
+release: 1998-08-01
+players: 2
+rating: 80%
+x-id: 3437
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Frogger (USA).png
+assets.video: ./media/videos/Frogger (USA).mp4
+
+
+game: Pokémon : Blaue Edition
+file: ./Pokemon - Blaue Edition (Germany) (SGB Enhanced).zip
+developer: Game Freak
+publisher: Nintendo
+genre: Rollenspiele
+description:
+  Der stille Held der Roten Edition und der Blauen Edition ist ein Junge aus
+  Alabastia (Masara Town, engl.: Pallet Town). Nachdem er alleine die Stadt
+  verlassen will, warnt eine Stimme den Spieler, zu stoppen. Professor Eich, ein
+  berühmter Pokémon-Forscher, erklärt dem Spieler, dass viele wilde Pokémon da
+  draußen leben, und dass es deshalb gefährlich sei alleine da "raus" zu gehen. Er
+  nimmt den Spieler mit in sein Labor, wo dieser Eichs Enkel kennenlernt, der
+  ebenfalls ein Pokémon-Trainer werden möchte. Der Spieler und sein Rivale werden
+  beide dazu aufgefordert, sich ein Starter-Pokémon (Glumanda, Schiggy oder
+  Bisasam) auszusuchen. Der Rivale fordert den Spieler danach zu einem Kampf mit
+  den gerade erhaltenen Pokémon heraus. Dies wird er im Spielverlauf noch öfter
+  tun.
+release: 1999-10-05
+players: 2
+rating: 90%
+x-id: 69972
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Pokemon - Blaue Edition (Germany) (SGB Enhanced).png
+assets.video: ./media/videos/Pokemon - Blaue Edition (Germany) (SGB Enhanced).mp4
+
+
+game: Pokémon : Gelbe Edition, Special Pikachu Edition
+file: ./Pokemon - Gelbe Edition - Special Pikachu Edition (Germany) (GBC,SGB Enhanced).zip
+developer: Game Freak
+publisher: Nintendo
+genre: Rollenspiele
+description:
+  Die Handlung und die Spielmechanik der Gelben Edition ist weitestgehend dieselbe
+  wie in der Roten Edition und der Blauen Edition, bietet aber auch einige
+  Änderungen auf, die das Spiel der Animeserie (Pokémon (Anime)) näherbringen. Wie
+  Ash Ketchum im Anime erhält auch der Spieler Pikachu als sein Start-Pokémon.
+release: 2000-06-16
+players: 2
+rating: 90%
+x-id: 70017
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Pokemon - Gelbe Edition - Special Pikachu Edition (Germany) (GBC,SGB Enhanced).png
+assets.video: ./media/videos/Pokemon - Gelbe Edition - Special Pikachu Edition (Germany) (GBC,SGB Enhanced).mp4
+
+
+game: Pokémon : Goldene Edition
+file: ./Pokemon - Goldene Edition (Germany) (SGB Enhanced).zip
+developer: Game Freak
+publisher: Nintendo
+genre: Rollenspiele
+description:
+  Du beginnst als unerfahrener Trainer und erforschst die Insel Johto. Dein Ziel
+  ist es, so viele Pokémon wie möglich zu fangen. Auf deinem Weg wirst du Dutzende
+  Pokémon treffen wie das Legendäre Pokémon-Trio Raikou, Entei und Suicune. Auch
+  neue Pokémon-Typen kamen damals zum Spiel hinzu! Achte auf Pokémon vom Typ Stahl
+  und vom Typ Unlicht.
+release: 2001-04-06
+players: 1
+rating: 85%
+x-id: 82619
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Pokemon - Goldene Edition (Germany) (SGB Enhanced).png
+assets.video: ./media/videos/Pokemon - Goldene Edition (Germany) (SGB Enhanced).mp4
+
+
+game: Pokémon : Rote Edition
+file: ./Pokemon - Rote Edition (Germany) (SGB Enhanced).zip
+developer: Game Freak
+publisher: Nintendo
+genre: Rollenspiele
+description:
+  Der stille Held der Roten Edition und der Blauen Edition ist ein Junge aus
+  Alabastia (Masara Town, engl.: Pallet Town). Nachdem er alleine die Stadt
+  verlassen will, warnt eine Stimme den Spieler, zu stoppen. Professor Eich, ein
+  berühmter Pokémon-Forscher, erklärt dem Spieler, dass viele wilde Pokémon da
+  draußen leben, und dass es deshalb gefährlich sei alleine da "raus" zu gehen. Er
+  nimmt den Spieler mit in sein Labor, wo dieser Eichs Enkel kennenlernt, der
+  ebenfalls ein Pokémon-Trainer werden möchte. Der Spieler und sein Rivale werden
+  beide dazu aufgefordert, sich ein Starter-Pokémon (Glumanda, Schiggy oder
+  Bisasam) auszusuchen. Der Rivale fordert den Spieler danach zu einem Kampf mit
+  den gerade erhaltenen Pokémon heraus. Dies wird er im Spielverlauf noch öfter
+  tun.
+release: 1999-10-05
+players: 2
+rating: 90%
+x-id: 69990
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Pokemon - Rote Edition (Germany) (SGB Enhanced).png
+assets.video: ./media/videos/Pokemon - Rote Edition (Germany) (SGB Enhanced).mp4
+
+
+game: Pokémon : Silberne Edition
+file: ./Pokemon - Silberne Edition (Germany) (SGB Enhanced).zip
+developer: Game Freak
+publisher: Nintendo
+genre: Rollenspiele
+description:
+  Du beginnst als unerfahrener Trainer und erforschst die Insel Johto. Dein Ziel
+  ist es, so viele Pokémon wie möglich zu fangen. Auf deinem Weg wirst du Dutzende
+  Pokémon treffen wie das Legendäre Pokémon-Trio Raikou, Entei und Suicune. Auch
+  neue Pokémon-Typen kamen damals zum Spiel hinzu! Achte auf Pokémon vom Typ Stahl
+  und vom Typ Unlicht.
+release: 2001-04-06
+players: 1
+rating: 85%
+x-id: 82616
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Pokemon - Silberne Edition (Germany) (SGB Enhanced).png
+assets.video: ./media/videos/Pokemon - Silberne Edition (Germany) (SGB Enhanced).mp4
+
+
+game: Pokémon Trading Card Game
+file: ./Pokemon Trading Card Game (Europe) (En,Fr,De) (SGB Enhanced).zip
+developer: Hudson
+publisher: Nintendo
+genre: Kartenspiele
+description:
+  Die besten Pokémon Sammelkartenspieler aller Zeiten - die Großmeister - suchen
+  eine würdigen Erben für die 4 seltenen legendären Pokémon-Karten! Sammle alle
+  Karten, besiege die 8 Clubmeister und fordere die Großmeister heraus! Tritt via
+  Universal Game Link-Kabel (separat erhältlich) gegen einen Freund an. Werde der
+  beste Kartenmeister! Das Spiel enthält über 200 Pokémon Sammelkarten und
+  exklusive neue Karten für den Game Boy!
+release: 2000-12-08
+players: 1
+rating: 75%
+x-id: 82603
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Pokemon Trading Card Game (Europe) (En,Fr,De) (SGB Enhanced).png
+assets.video: ./media/videos/Pokemon Trading Card Game (Europe) (En,Fr,De) (SGB Enhanced).mp4
+
+
+game: Super Mario Land DX
+file: ./Super Mario Land DX.zip
+developer: Nintendo
+publisher: toruzz
+genre: Plattform
+description:
+  It was about time that Super Mario Land for the original Game Boy was revisited.
+  The Super Mario Land DX ROM hack adheres to the Game Boy Color's 16-bit color
+  palette, so it actually runs on real hardware. No changes to the gameplay were
+  made and it also runs in the native 10:9 aspect ratio for the Game Boy.\n
+  Super Mario Land was a launch title for the Game Boy in 1989, but there was
+  another handheld game system that released that year as well (the Atari Lynx).
+  The Lynx featured a full color backlit LCD display, so it was not as if handheld
+  game systems of the era were restricted to being monochromatic. Granted the Lynx
+  came with a price tag nearly twice that of the Game Boy, but a transformative
+  ROM hack such as the Super Mario Land DX one can serve almost as an alternate
+  history. An alternate history that we all can experience now be it on a desktop
+  or in true portable form.
+release: 2019-04-22
+players: 1
+rating: 90%
+x-id: 142935
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Super Mario Land DX.png
+assets.video: ./media/videos/Super Mario Land DX.mp4
+
+
+game: Tetris Flash
+file: ./Tetris 2 (USA, Europe) (SGB Enhanced).zip
+developer: Nintendo
+publisher: Nintendo
+genre: Puzzle-Action
+description:
+  Unlike the original Tetris, Tetris 2 has you clearing the field of blocks in a
+  different way. Each play field starts with different colored dots (in this case
+  black, gray and white), with one of each color flashing.
+  .
+  The blocks are made up of the same three colors, and by matching blocks of the
+  same color over the top or to the side of the dot will clear the dot and those
+  blocks from the screen. If you clear a flashing dot, all the corresponding dots
+  of the same color will be cleared.
+  .
+  To complete the round just clear the dots, not the blocks themselves.
+release: 1993-12-02
+players: 2
+rating: 85%
+x-id: 3300
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Tetris 2 (USA, Europe) (SGB Enhanced).png
+assets.video: ./media/videos/Tetris 2 (USA, Europe) (SGB Enhanced).mp4
+
+
+game: Tetris Plus
+file: ./Tetris Plus (USA, Europe) (SGB Enhanced).zip
+developer: Jaleco
+publisher: Jaleco
+genre: Puzzle-Action
+description:
+  This is yet another updated version of Tetris which was released for
+  PlayStation, Saturn, and Game Boy.  This version features Classic mode, Puzzle
+  mode, Versus mode, and Edit mode.  In Puzzle mode, you must save the professor
+  who climbs his way to the top.  In order to do that, you must clear the blocks
+  away and bring him to the bottom.  Versus mode brings you head to head with
+  another player.  Edit mode allows you to create and save your own custom levels.
+release: 1996-01-01
+players: 2
+rating: 70%
+x-id: 3484
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Tetris Plus (USA, Europe) (SGB Enhanced).png
+assets.video: ./media/videos/Tetris Plus (USA, Europe) (SGB Enhanced).mp4
+
+
+game: Tetris
+file: ./Tetris (World) (Rev A).zip
+developer: Nintendo
+publisher: Nintendo
+genre: Puzzle-Puzzle / Fallen
+description:
+  Tetris für GameBoy ist sehr einfach und doch unglaublich genial! Schnelligkeit
+  und Cleverness sind bei Tetris für GameBoy gefragt. Einzeln vom oberen Rand des
+  rechteckigen Spielfelds herunterfallende, stets aus vier Quadraten
+  zusammengesetzte Formen müssen vom Spieler in 90-Grad Schritten gedreht und so
+  platziert werden, dass sie am unteren Rand horizontale, möglichst lückenlose
+  Reihen bilden. Tetris für GameBoy ist das (Kunst)Werk des russischen
+  Programmierers Alexei Paschitnow und hat schon Millionen von Menschen in den
+  Bann gezogen.
+release: 1990-09-28
+players: 2
+rating: 80%
+x-id: 2976
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Tetris (World) (Rev A).png
+assets.video: ./media/videos/Tetris (World) (Rev A).mp4
+
+
+game: Turrican
+file: ./Turrican (USA, Europe).zip
+developer: Rainbow Arts
+publisher: Accolade
+genre: Shoot'em Up-Action-Plattform / Shooter Scrolling-Plattform
+description:
+  Ziel des Spiels ist es, durch eine Welt namens Alterra hindurchzugehen und den
+  Endgegner Morgul zu finden und zu vernichten. Alterra wird beschrieben als eine
+  von Menschen durch Bioengineering geschaffene Lebenswelt in einer nahen Galaxie,
+  wo ein intelligentes künstliches Ökosystem erschaffen wurde (Morgul = Multiple
+  Organism Unit Link) um die Planeten bewohnbar zu machen. Dieses System ist
+  jedoch außer Kontrolle geraten, es wurde durch ein Erdbeben beschädigt und seine
+  Funktionen haben sich daraufhin verselbstständigt. Der Spieler schlüpft in die
+  Rolle des Helden (Turrican) und wird nach Alterra geschickt, um die Kolonie
+  wieder für die Menschheit zurückzugewinnen.
+release: 1991-11-01
+players: 1
+rating: 70%
+x-id: 3290
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Turrican (USA, Europe).png
+assets.video: ./media/videos/Turrican (USA, Europe).mp4
+
+
+game: Wario Land : Super Mario Land 3
+file: ./Wario Land - Super Mario Land 3 (World).zip
+developer: Nintendo
+publisher: Nintendo
+genre: Action-Plattform / Jump'n'Run-Plattform
+description:
+  Auf der Pfeffer-Insel brodelt in Super Mario Land 3: Wario Land für GameBoy die
+  Gerüchteküche! Wario hat doch tatsächlich vor, den Schatz der Piraten zu klauen,
+  um sich endlich sein eigenes Schloss bauen zu können. Mit Deiner Hilfe kann er
+  die magischen Pötte zertrümmern und so seinen Plan verwirklichen. Die Pötte
+  verwandeln ihn in Drachen-Wario, Stier-Wario oder Jet-Wario. Jede Verwandlung
+  bedeutet in Super Mario Land 3: Wario Land für GameBoy neue, unglaubliche Super
+  Power! Dutzende von Gegnern versuchen sich Wario in den Weg zu stellen, aber mit
+  Deinen Super-Kräften kannst Du ihnen die Suppe gehörig versalzen!
+release: 1994-05-13
+players: 1
+rating: 90%
+x-id: 2980
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Wario Land - Super Mario Land 3 (World).png
+assets.video: ./media/videos/Wario Land - Super Mario Land 3 (World).mp4
+
+
+game: Wario Land II
+file: ./Wario Land II (USA, Europe) (SGB Enhanced).zip
+developer: Nintendo
+publisher: Nintendo
+genre: Sport-Action-Plattform
+description:
+  Captian Syrup und die gefürchtete Black Sugar Gang sind in Warios Schloß
+  eingebrochen und dabei, seine kostbarsten Schätze zu stehlen. Doch da hört der
+  Spaß auf - nicht ohne Grund ist der grinsende Bösewicht der größte Alptraum der
+  Videospielgeschichte! Und ausgerechnet DU darfst diesem Finsterling helfen,
+  seine Dukaten in Sicherheit zu bringen, bevor Schweinebacke Syrup den Schatz
+  findet und verjubelt. Mach Dich auf etwas gefaßt - auf Dich wartet das mit
+  Abstand verrückteste Game Boy-Abenteuer aller Zeiten!
+release: 1999-03-31
+players: 1
+rating: 75%
+x-id: 2978
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Wario Land II (USA, Europe) (SGB Enhanced).png
+assets.video: ./media/videos/Wario Land II (USA, Europe) (SGB Enhanced).mp4
+

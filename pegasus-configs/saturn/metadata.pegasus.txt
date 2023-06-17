@@ -1,0 +1,53 @@
+collection: Saturn
+shortname: saturn
+extensions: bin, ccd, chd, cue, iso, mds, zip
+launch: am start
+  -n com.retroarch/.browser.retroactivity.RetroActivityFuture
+  -e ROM {file.path}
+  -e LIBRETRO /data/data/com.retroarch/cores/yabasanshiro_libretro_android.so
+  -e CONFIGFILE /storage/emulated/0/Android/data/com.retroarch/files/retroarch.cfg
+  -e QUITFOCUS
+  --activity-clear-task
+  --activity-clear-top
+  --activity-no-history
+game: Mortal Kombat II
+file: ./Mortal Kombat 2.iso
+developer: Midway
+publisher: Acclaim
+genre: Kampf-Action
+description:
+  Mortal Kombat II ist ein Kampfspiel für Saturn. Combos, Fatalities und andere
+  Special Moves sind die Zutaten für den Erfolg eines Spiels, das für die Gewalt
+  seiner Kämpfe bekannt ist. Der Spieler verkörpert einen von 12 Charakteren und
+  muss alle seine direkten Konkurrenten einen nach dem anderen besiegen, um das
+  Turnier zu gewinnen und der Herrschaft des bösen Shao Kahn ein Ende zu setzen.
+release: 1996-01-01
+players: 2
+rating: 65%
+x-id: 13103
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Mortal Kombat 2.png
+assets.video: ./media/videos/Mortal Kombat 2.mp4
+
+
+game: Virtua Fighter 2
+file: ./Virtua Fighter 2.iso
+developer: SEGA
+publisher: SEGA
+genre: Kampf-Action-Kampf / 3D
+description:
+  Virtua Fighter 2 ist ein Kampfspiel sowie die direkte Fortsetzung von Virtua
+  Fighter. Es ist, wie der Name schon sagt, das zweite Spiel der Virtua Fighter
+  Serie und wurde ursprünglich 1994 für Sega Model 2A CRX Arcade Hardware
+  veröffentlicht. Virtua Fighter 2 war bekannt für seine bahnbrechenden Grafiken
+  und Animationen, die 3D-Charaktere und Hintergründe mit gefiltertem
+  Textur-Mapping darstellen und die Motion-Capture-Animationstechnologie in der
+  Spieleindustrie einführen.
+release: 1996-01-26
+players: 2
+rating: 80%
+x-id: 13113
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Virtua Fighter 2.png
+assets.video: ./media/videos/Virtua Fighter 2.mp4
+

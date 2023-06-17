@@ -1,0 +1,209 @@
+collection: PlayStation
+shortname: psx
+extensions: bin, cbn, ccd, chd, cue, img, m3u, mdf, pbp, toc
+launch: am start
+  -n com.retroarch/.browser.retroactivity.RetroActivityFuture
+  -e ROM {file.path}
+  -e LIBRETRO /data/data/com.retroarch/cores/pcsx_rearmed_libretro_android.so
+  -e CONFIGFILE /storage/emulated/0/Android/data/com.retroarch/files/retroarch.cfg
+  -e QUITFOCUS
+  --activity-clear-task
+  --activity-clear-top
+  --activity-no-history
+game: Bloody Roar II
+file: ./Bloody Roar 2.iso
+developer: Eighting
+publisher: Sony Computer Entertainment
+genre: Kampf-Kampf / 3D
+description:
+  Ein Mensch wird schneller zur gnadenlosen Bestie als man denkt. Bei Bloody Roar
+  2 - Bringer Of The New Age treten 10 Menschen ins Rampenlicht, die mit einer
+  besonderen Begabung ausgestattet sind. Jeder der außergewöhnlichen Einzelkämpfer
+  ist in der Lage, sich in bestimmten Situationen für einen begrenzten Zeitraum in
+  eine Kreatur aus dem Reich der Tiere zu verwandeln. Wenn einer dieser
+  Einzelkämpfer in einem Zweikampf in Rage gerät, ist er nicht mehr zu bremsen.
+  Blitzschnelle Schlagkombinationen und unglaubliches Reaktionsvermögen zeichnet
+  die animalischen Fighter aus. Hudson Soft hat einmal mehr alles daran gesetzt,
+  einen neuen Maßstab im heißumkämpften Prügelspielgenre zu setzen. Die komplexen
+  Game-Mechanics, die einfallsreichen Special-Moves sowie das faszinierende,
+  Anime-inspirierte Charakter-Design machen Bloody Roar 2 zum Genre-Highlight.
+release: 1999-04-30
+players: 2
+rating: 90%
+x-id: 19355
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Bloody Roar 2.png
+assets.video: ./media/videos/Bloody Roar 2.mp4
+
+
+game: Breath of Fire IV
+file: ./Breath of Fire IV (German).iso
+developer: Capcom
+publisher: Capcom
+genre: Rollenspiele
+description:
+  Eine Prinzessin. Zwei Länder im Krieg. Eine epische Suche nach Frieden. Nach
+  Jahrhunderten voller Kriege haben die beiden Länder, die an ein
+  undurchdringliches Sumpfland grenzen, endlich einen Waffenstillstand vereinbart.
+  Auf mysteriöse Weise verschwindet die edle Prinzessin Elena irgendwo in der Nähe
+  der kriegsverwüsteten Front. Verzweifelt macht sich ihre Schwester Nina alleine
+  auf die Suche nach der Prinzessin. Auf ihrer Reise trifft sie auf einem
+  geheimnisvollen jungen Krieger namen Ryu. Schon bald sind die beiden durch ihr
+  Schicksal verbunden. Das nächste Kapitel dieser epischen Geschichte um Zauber
+  und Mythen wird nun aufgeschlagen. Das Schicksal und die Zukunft liegen in ihren
+  Händen.
+release: 2001-08-03
+players: 1
+rating: 80%
+x-id: 19372
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Breath of Fire IV (German).png
+assets.video: ./media/videos/Breath of Fire IV (German).mp4
+
+
+game: Street Fighter Collection
+file: ./Street Fighter Collection (E) (Disc 1) [SLES-00998].cue
+developer: Capcom
+publisher: Capcom
+genre: Kampf-Sammlung
+description:
+  Street Fighter Collection is a 1997 fighting game compilation released for the
+  PlayStation and Sega Saturn. It collects the original Super Street Fighter II
+  and its follow-up Super Street Fighter II Turbo, along with an enhanced version
+  of Street Fighter Alpha 2 titled Street Fighter Alpha 2 Gold exclusive to this
+  compilation.
+  .
+  This compilation contains Super Street Fighter II and Super Street Fighter II
+  Turbo (known in Japan as Super Street Fighter II X) in the first disc, with
+  Street Fighter Alpha 2 Gold (Street Fighter Zero 2 Dash in Japan) in the second
+  disc.
+release: 1997-12-16
+players: 2
+rating: 60%
+x-id: 103397
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Street Fighter Collection (E) (Disc 1) [SLES-00998].png
+assets.video: ./media/videos/Street Fighter Collection (E) (Disc 1) [SLES-00998].mp4
+
+
+game: Street Fighter Collection
+file: ./Street Fighter Collection (E) (Disc 1) [SLES-00998].iso
+developer: Capcom
+publisher: Capcom
+genre: Kampf-Sammlung
+description:
+  Street Fighter Collection is a 1997 fighting game compilation released for the
+  PlayStation and Sega Saturn. It collects the original Super Street Fighter II
+  and its follow-up Super Street Fighter II Turbo, along with an enhanced version
+  of Street Fighter Alpha 2 titled Street Fighter Alpha 2 Gold exclusive to this
+  compilation.
+  .
+  This compilation contains Super Street Fighter II and Super Street Fighter II
+  Turbo (known in Japan as Super Street Fighter II X) in the first disc, with
+  Street Fighter Alpha 2 Gold (Street Fighter Zero 2 Dash in Japan) in the second
+  disc.
+release: 1997-12-16
+players: 2
+rating: 60%
+x-id: 103397
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Street Fighter Collection (E) (Disc 1) [SLES-00998].png
+assets.video: ./media/videos/Street Fighter Collection (E) (Disc 1) [SLES-00998].mp4
+
+
+game: Street Fighter Collection
+file: ./Street Fighter Collection (E) (Disc 2) [SLES-10998].cue
+developer: Capcom
+publisher: Capcom
+genre: Kampf-Sammlung
+description:
+  Street Fighter Collection is a 1997 fighting game compilation released for the
+  PlayStation and Sega Saturn. It collects the original Super Street Fighter II
+  and its follow-up Super Street Fighter II Turbo, along with an enhanced version
+  of Street Fighter Alpha 2 titled Street Fighter Alpha 2 Gold exclusive to this
+  compilation.
+  .
+  This compilation contains Super Street Fighter II and Super Street Fighter II
+  Turbo (known in Japan as Super Street Fighter II X) in the first disc, with
+  Street Fighter Alpha 2 Gold (Street Fighter Zero 2 Dash in Japan) in the second
+  disc.
+release: 1997-12-16
+players: 2
+rating: 60%
+x-id: 103397
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Street Fighter Collection (E) (Disc 1) [SLES-00998].png
+assets.video: ./media/videos/Street Fighter Collection (E) (Disc 1) [SLES-00998].mp4
+
+
+game: Street Fighter Collection
+file: ./Street Fighter Collection (E) (Disc 2) [SLES-10998].iso
+developer: Capcom
+publisher: Capcom
+genre: Kampf-Sammlung
+description:
+  Street Fighter Collection is a 1997 fighting game compilation released for the
+  PlayStation and Sega Saturn. It collects the original Super Street Fighter II
+  and its follow-up Super Street Fighter II Turbo, along with an enhanced version
+  of Street Fighter Alpha 2 titled Street Fighter Alpha 2 Gold exclusive to this
+  compilation.
+  .
+  This compilation contains Super Street Fighter II and Super Street Fighter II
+  Turbo (known in Japan as Super Street Fighter II X) in the first disc, with
+  Street Fighter Alpha 2 Gold (Street Fighter Zero 2 Dash in Japan) in the second
+  disc.
+release: 1997-12-16
+players: 2
+rating: 60%
+x-id: 103397
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Street Fighter Collection (E) (Disc 1) [SLES-00998].png
+assets.video: ./media/videos/Street Fighter Collection (E) (Disc 1) [SLES-00998].mp4
+
+
+game: Tekken 2
+file: ./Tekken 2 (USA) (v1.1).iso
+developer: Namco
+publisher: Namco
+genre: Kampf
+description:
+  Tekken 2 ist das zweite Spiel der Tekken-Serie. Alle Charaktere aus Tekken,
+  abgesehen von Jack, der in diesem Spiel von Jack-2 ersetzt wird, sind
+  zurückgekehrt. Des Weiteren wurden der Charakterliste, einschließlich Jack-2,
+  acht neue Charaktere hinzugefügt. Das Spiel verfügt insgesamt über 25 spielbare
+  Charaktere.
+  .
+  Tekken 2 erschien im Jahr 1995 in Spielhallen und wurde 1996 für die PlayStation
+  weltweit veröffentlicht. Es war in Amerika 24 Wochen lang die Nummer Eins unter
+  den Arcade-Spielen und wurde für die PlayStation-Konsole weltweit über 3
+  Millionen mal verkauft. Für die PlayStation 3 wurde diese Version im PS-Store
+  hinzugefügt. Am Tag der Eröffnung gab es einen Umsatz von $ 250.000, was zu
+  dieser Zeit ein Rekord war.
+release: 1996-08-25
+players: 2
+rating: 70%
+x-id: 19392
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Tekken 2 (USA) (v1.1).png
+assets.video: ./media/videos/Tekken 2 (USA) (v1.1).mp4
+
+
+game: Tekken 3
+file: ./Tekken 3 (USA).iso
+developer: Namco
+publisher: Namco
+genre: Kampf
+description:
+  Eine uralte böse Macht ist erwacht, die heimlich angreift und sich von den
+  Seelen mächtiger Kriegern ernährt. Um Sie aus dem Versteck zu locken, wird es
+  das größte Kampfturnier geben, das die Welt je gesehen hat ... Tekken 3. Manche
+  kämpfen für Rache, manche um Ehre. Letztendlich kämpfen alle um ihr Leben und
+  das Schicksal der gesamten Menschheit.
+release: 1998-04-29
+players: 2
+rating: 90%
+x-id: 19280
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Tekken 3 (USA).png
+assets.video: ./media/videos/Tekken 3 (USA).mp4
+

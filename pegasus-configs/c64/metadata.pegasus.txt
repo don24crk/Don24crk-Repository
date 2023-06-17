@@ -1,0 +1,143 @@
+collection: C64
+shortname: commodore_c64
+extensions: bin, cmd, crt, d2m, d4m, d64, d6z, d71, d7z, d80, d81, d82, d8z, g41, g4z, g64, g6z, gz, m3u, nbz, nib, p00, prg, t64, tap, vfl, vsf, x64, x6z, zip
+launch: am start
+  -n com.retroarch/.browser.retroactivity.RetroActivityFuture
+  -e ROM {file.path}
+  -e LIBRETRO /data/data/com.retroarch/cores/vice_x64_libretro_android.so
+  -e CONFIGFILE /storage/emulated/0/Android/data/com.retroarch/files/retroarch.cfg
+  -e QUITFOCUS
+  --activity-clear-task
+  --activity-clear-top
+  --activity-no-history  
+game: Arkanoid
+file: ./ARKANOI1.T64
+developer: Probe Entertainment Limited
+publisher: Imagine
+genre: Action-Action / Breakout Spiele
+description:
+  Das ursprüngliche "Breakout" - Konzept beinhaltet, einen Schläger am unteren
+  Ende des Bildschirms zu kontrollieren, und damit eine Kugel zu steuern , so daß
+  alle Bricks getroffen werden, die am oberen Ende des Bildschirms angeordnet
+  waren. Es war seit über einem Jahrzehnt nicht mehr populär, bevor Taito es mit
+  ein paar neuen Ideen in diesem Arcade-Titel wiederbelebte.
+  .
+  Die Handlung in diesem Spiel wandelt den Schläger um in ein "Vaus"-Raumschiff,
+  den Ball in einen Energiebolzen, und die Bricks stellen eine mysteriöse Wand
+  dar, die das Schiff daran hindert, in Sicherheit zu gelangen.
+release: 1987-01-01
+players: 2
+rating: 80%
+x-id: 35867
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/ARKANOI1.png
+assets.video: ./media/videos/ARKANOI1.mp4
+
+
+game: Boulder Dash
+file: ./BDASH01.T64
+developer: First Star Software
+publisher: State Soft
+genre: Puzzle
+description:
+  Du bist Rockford und musst auf der Suche nach Diamanten durch von Monstern
+  befallene Höhlen graben. In jedem Level musst du eine bestimmte Anzahl dieser
+  Diamanten sammeln, um ein Portal für die nächste Stufe zu öffnen. Gegner können
+  durch herabfallende Felsbrocken zerdrückt werden, die freigesetzt werden, wenn
+  der Boden unter ihnen entfernt oder auf leeren Boden geschoben wird. Seien Sie
+  jedoch vorsichtig, da diese Sie auch zerdrücken können. In späteren Levels wird
+  der Schwierigkeitsgrad durch viele Puzzle-Elemente und kürzere Zeitlimits
+  erhöht.
+release: 1984-01-01
+players: 2
+rating: 80%
+x-id: 35836
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/BDASH01.png
+assets.video: ./media/videos/BDASH01.mp4
+
+
+game: Bubble Bobble
+file: ./BUBBLEBO.T64
+developer: Taito
+publisher: Taito
+genre: Plattform-Action
+description:
+  Bubble Bobble ist die Geschichte zweier Menschen, Bub und Bob, die in die
+  mysteriöse Monsterhöhle schlendern und sich auf magische Weise in Drachen
+  verwandeln. Die einzige Möglichkeit, sich zurück zu verwandeln, besteht darin,
+  das Ende der Höhle zu erreichen...
+  .
+  Bubble Bobble ist ein Plattformspiel, bei dem jedes Level ein Bildschirm ist.
+  Alle Feinde müssen in einem Level besiegt werden, um zum nächsten zu gelangen.
+  Mit einem Spieler, der Bub kontrolliert und dem anderen, der Bob kontrolliert,
+  kann der Spieler springen und Gegenstände für Punkte (wie Obst) sammeln. Die
+  wahre Kraft, die Bub und Bob haben, ist jedoch die Fähigkeit, Blasen zu blasen.
+  Diese Blasen können als Plattformen dienen, auf die man springen kann, oder man
+  kann Feinde in ihnen fangen. Auf Feinde, die in einer Blase gefangen sind, muss
+  man springen, damit diese zu Früchten werden. Außerdem schweben manchmal
+  Power-Ups in Blasen. Dazu gehören Blitze, die Feinde horizontal treffen, und
+  Wasser, das Spieler und Feinde direkt über Plattformen nach unten spült. Wenn
+  Sie zu lange brauchen, um ein Level zu beenden, wird Baron Von Blubba gerufen,
+  der auf dem Bildschirm herumschwebt und versucht, den Spieler zu zerstören.
+release: 1987-01-01
+players: 2
+rating: 85%
+x-id: 35833
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/BUBBLEBO.png
+assets.video: ./media/videos/BUBBLEBO.mp4
+
+
+game: GIANA2B
+file: ./GIANA2B.D64
+players: 1
+x-id: 0
+x-source: ScreenScraper.fr
+
+
+game: New Great Giana-Sisters II v1.2,
+file: ./GIANA2A.D64
+publisher: The 7A3
+genre: Plattform / Jump'n'Run Scrolling-Plattform
+description:
+  The Great Giana Sisters II is a 2D side-scrolling arcade game like Nintendo's
+  Super Mario Bros. After a long and deep sleep, Giana finds herself in a
+  mysterious and evil dreamworld where everything is strange and different. In 32
+  levels, Giana has to fight against bad monsters, huge spiders and lots of other
+  creatures to find a magic diamond that makes it possible to return to her own
+  world.
+release: 1993-06-01
+players: 2
+rating: 85%
+x-id: 112676
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/GIANA2A.png
+assets.video: ./media/videos/GIANA2A.mp4
+
+
+game: The Great Giana Sisters
+file: ./GIANA1.D64
+developer: Time Warp Productions
+publisher: Rainbow Arts
+genre: Plattform-Action
+description:
+  The Great Giana Sisters ist ein 2D Plattformer mit horizontalem Scrolling. Nach
+  einem langen Schlaf wacht Giana in einer seltsamen Welt auf, in der alles anders
+  ist. Der Spieler muss die 32 Stages und unzähligen Monster aller Art meistern,
+  um Giana zurück in die reale Welt zu bringen. Dabei Hindernissen muss er in
+  verschiedenen Ober- und Unterwelten ausweichen und Juwelen und Bonis aufsammeln,
+  bis er sich dem Endgegner stellen kann. Ist der Spieler erfolgreich, wird Giana
+  von ihrer Schwester „Maria“ geweckt. In späteren Versionen kann der Spieler im
+  Zweispielermodus auch in die Rolle ihrer Schwester wechseln. Das Spiel
+  orientierte sich so stark bei der Entwicklung an das NES Spiel "Super Mario
+  Bros." von Nintendo, daß das Spiel wegen eines Möglichen Rechtsstreits wieder
+  aus dem Handel genommen wurde. Zu diesem Zeitpunkt hatte das Spiel bereits
+  Kultstatus erlangt.
+release: 1987-01-01
+players: 2
+rating: 75%
+x-id: 35895
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/GIANA1.png
+assets.video: ./media/videos/GIANA1.mp4

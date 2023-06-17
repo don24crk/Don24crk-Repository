@@ -1,0 +1,736 @@
+collection: Game Boy/Game Boy Color/Game Boy Advance
+shortname: gba
+extensions: gb, gba, gbc
+launch: am start
+  -n com.retroarch/.browser.retroactivity.RetroActivityFuture
+  -e ROM {file.path}
+  -e LIBRETRO /data/data/com.retroarch/cores/mgba_libretro_android.so
+  -e CONFIGFILE /storage/emulated/0/Android/data/com.retroarch/files/retroarch.cfg
+  -e QUITFOCUS
+  --activity-clear-task
+  --activity-clear-top
+  --activity-no-history
+game: Action Man : Robot Atak
+file: ./Action Man - Robot Atak (Europe) (En,Fr,De,Es,It).zip
+developer: Magic Pockets
+publisher: Atari SA
+genre: Action-Plattform
+description:
+  Action Man: Robot Atak basiert auf dem gleichnamigen
+  Direct-to-DVD-Animationsfilm, der wiederum auf der Spielzeuglinie basiert. Um
+  den bösen Dr. X und seine Armee von Robotern aufzuhalten, die Städte auf der
+  ganzen Welt angegriffen haben, sucht Action Force seingeheimes Versteck, Insel
+  X. Action Man, Redwolf und Flint müssen auf verschiedenen Teilen der Insel
+  zuerst einander finden um dann den Plänen des bösen Doktors ein Ende setzen.
+release: 2004-09-24
+players: 1
+rating: 65%
+x-id: 4242
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Action Man - Robot Atak (Europe) (En,Fr,De,Es,It).png
+assets.video: ./media/videos/Action Man - Robot Atak (Europe) (En,Fr,De,Es,It).mp4
+
+
+game: Activision Anthology
+file: ./Activision Anthology (USA).zip
+developer: Aspyr
+publisher: Aspyr
+genre: Sammlung
+description:
+  Die GBA-Version von Activision Anthology unterscheidet sich von Activision
+  Anthology: Remix Edition (Windows / Mac), Activision Anthology (PS2) und
+  Activision Hits Remixed (PSP). Es enthält 56 Spiele, mehr als die anderen
+  Versionen, und enthält nicht die Imagic-Titel (Atlantis, Demon Attack und
+  Moonsweeper). Einige der zusätzlichen Spiele sind Homebrew-Spiele. Der Spieler
+  kann auch die Originalpatronen (2D, nicht 3D wie die anderen Versionen) und die
+  Handbücher anzeigen. Diese Version enthält auch weniger Musik als die anderen.
+  Es gibt verschiedene Spielmodi und Sie können originale Gamer-Patches verdienen.
+release: 2003-12-08
+players: 2
+rating: 75%
+x-id: 72006
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Activision Anthology (USA).png
+assets.video: ./media/videos/Activision Anthology (USA).mp4
+
+
+game: Aladdin
+file: ./Aladdin (USA) (En,Fr,De,Es).zip
+developer: Disney Interactive
+publisher: Capcom
+genre: Plattform
+description:
+  Basierend auf dem klassischen Spiel für den SNES und Disneys Animationsfilm
+  erweitert Disneys Aladdin die Game Boy Advance-Bibliothek mit brandneue
+  Funktionen. In diesem Side-Scrolling-Plattformspiel schlüpfst du in die Rolle
+  von Aladdin und seinem schelmischen Affen Abu, die Äpfel werfen, Seile klettern
+  und Zauberteppiche reiten, um ihr Schicksal herauszufinden.\n
+  Disneys Aladdin bietet eine Bonusstufe für jedes Level und eine Vielzahl von
+  Umgebungen zum erkunden, darunter Jafars Schloss, die Lampe des Genies und eine
+  alte Pyramide.
+release: 2004-09-28
+players: 1
+rating: 75%
+x-id: 3933
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Aladdin (USA) (En,Fr,De,Es).png
+assets.video: ./media/videos/Aladdin (USA) (En,Fr,De,Es).mp4
+
+
+game: Altered Beast : Guardian of the Realms
+file: ./Altered Beast - Guardian of the Realms (USA).zip
+developer: THQ
+publisher: SEGA
+genre: Action-Beat'em Up
+description:
+  Zeus, Schöpfer und Herrscher der Wächter der Tore, erhebt dich aus deinem Grab!
+  Sie müssen Vierter werden und ein neues, unbekanntes Übel besiegen, das die
+  Wächter zerstört und das Universum verwüstet hat. Dazu musst du die Schlüssel
+  und die Essenz jedes Landes sammeln und dich in Bestien mit unnatürlichen
+  Kräften und besonderen Fähigkeiten verwandeln. Besiege dieses Übel und du wirst
+  der einzige Wächter, der Beschützer des Universums.
+release: 2002-11-25
+players: 2
+rating: 60%
+x-id: 4139
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Altered Beast - Guardian of the Realms (USA).png
+assets.video: ./media/videos/Altered Beast - Guardian of the Realms (USA).mp4
+
+
+game: Astérix & Obélix XXL
+file: ./Asterix & Obelix XXL (Europe) (En,Fr,De,Es,It,Nl).zip
+developer: Velez & Dubail
+publisher: Atari SA
+genre: Verschiedene-Beat'em Up
+description:
+  Asterix & Obelix XXL ist ein Action-Adventure-Computerspiel, das vom
+  französischen Entwickler Étranges Libellules entwickelt und vom französischen
+  Publisher Atari SA veröffentlicht wurde. Das Spiel ist im November 2003 für
+  PlayStation 2 und im Juli 2004 für Windows, GameCube, Game Boy Advance
+  erschienen. Die Handlung spielt im Jahr 50 vor Christus. Fast ganz Gallien ist
+  von den Römern besetzt. Asterix, Obelix und Idefix machen sich auf den Weg, um
+  ihre Freunde, die in die Hände der Römer gefallen sind, zu befreien. Die
+  Schauplätze aus den Comics wurden im Spiel übernommen. So verschlägt es die drei
+  Helden in die Normandie, in die Schweiz, nach Griechenland, nach Ägypten und
+  Rom. Ebenfalls wurde das gallische Dorf nachgebildet. Bei ihrer Mission sind die
+  drei aber nicht ganz auf sich gestellt, denn Cäsars ehemaliger Meisterspion HCL
+  (Acidix Hydrochloridrix) hilft den dreien, indem er an einigen Stellen im Spiel
+  entscheidende Hinweise gibt. Am Ende eines jeden Abschnitts gilt es eine
+  römische Kampfmaschine zu zerstören, diese ist jedes Mal stärker, wenn Asterix &
+  Obelix auf sie treffen.
+release: 2004-06-18
+players: 2
+rating: 70%
+x-id: 3817
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Asterix & Obelix XXL (Europe) (En,Fr,De,Es,It,Nl).png
+assets.video: ./media/videos/Asterix & Obelix XXL (Europe) (En,Fr,De,Es,It,Nl).mp4
+
+
+game: Atari Anniversary Advance
+file: ./Atari Anniversary Advance (USA).zip
+developer: Atari
+publisher: Infogrames
+genre: Sammlung
+description:
+  Zum 30-jährigen Jubiläum des Videospielpioniers Atari zusammengestellte
+  Compilation, deren sechs Klassiker "Asteroids", "Battlezone", "Centipede",
+  "Missile Command", "Super Breakout" und "Tempest" wahlweise im horizontalen oder
+  vertikalen Displaymodus gespielt werden können.
+release: 2002-03-26
+players: 2
+rating: 60%
+x-id: 4257
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Atari Anniversary Advance (USA).png
+assets.video: ./media/videos/Atari Anniversary Advance (USA).mp4
+
+
+game: Batman : Vengeance
+file: ./Batman - Vengeance (USA) (En,Fr,Es).zip
+developer: Ubisoft
+publisher: Ubisoft
+genre: Action / Abenteuer-Action-Plattform
+description:
+  Batman glaubt Mary zu retten - es stellt sich aber heraus, daß die gerettete
+  Harley Quinn ist. Batman ist in eine Falle getappt, die der Joker ihm gestellt
+  hatte. Die Falle schnappt nicht zu und der Joker flieht. Nach Jokers
+  vermeintlichem Tod fegt eine Welle der Gewalt durch Gotham City. Batman
+  entdeckt, dass beide Verbrechen miteinander verbunden sind und das der Joker
+  seinen Tod nur vorgetäuscht hat, um Batman und den Rest von Gotham City
+  manipuliern zu können. Wenn sein Plan erfolgreich ist, wird Gotham City
+  niedergebrannt und Batman zur Verantwortung gezogen. Es liegt in Batmans Händen
+  dem Joker Gerechtigkeit widerfahren zu lassen. Batmans Vengeance ist ein
+  schnelles Adventure-Game in hervorragender Qualität rund um Gotham City.
+release: 2001-10-30
+players: 1
+rating: 70%
+x-id: 3999
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Batman - Vengeance (USA) (En,Fr,Es).png
+assets.video: ./media/videos/Batman - Vengeance (USA) (En,Fr,Es).mp4
+
+
+game: Boulder Dash EX
+file: ./Boulder Dash EX (USA).zip
+developer: Nobilis
+publisher: Kemco
+genre: Action-Puzzle
+description:
+  Based on the original Boulder Dash, you must find your way through each puzzle
+  to collect the gems in order to open the exit door, while moving boulders out of
+  the way and dodging enemies.
+  .
+  Boulder Dash EX includes a brand new, updated version of the classic title, with
+  a new main character and 6 worlds full of puzzle action. Also on the cart is the
+  original Boulder Dash emulated from its PC form.
+  .
+  The 4 player mode has you and 3 other gamers going head-to-head to gain the most
+  gems, while dropping boulders and bombs at each other.
+release: 2003-09-18
+players: 4
+rating: 80%
+x-id: 4305
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Boulder Dash EX (USA).png
+assets.video: ./media/videos/Boulder Dash EX (USA).mp4
+
+
+game: Breath of Fire II
+file: ./Breath of Fire II (USA).zip
+developer: Capcom
+publisher: Capcom
+genre: Rollenspiele
+description:
+  Ryu war ein kleiner Junge, der sich an ein seltsames Dorf in der Ferne und ein
+  magisches Tor erinnert, durch das er gesogen wurde. Doch das sind nur ferne
+  Erinnerungen. Ryu und sein bester Freund Bow sind Lehrlinge in der
+  Waldläufergilde. Als Abenteurer übernehmen sie Aufträge, die von den
+  Stadtbewohnern benötigt werden. Es dauert jedoch nicht lange, bis ein Auftrag
+  schief geht und Bow beschuldigt wird, einen wertvollen Gegenstand gestohlen zu
+  haben. Um den Namen seines Freundes reinzuwaschen und die Bedeutung seiner
+  Träume zu finden, erkundet Ryu die Welt und entdeckt schließlich die Bedeutung
+  seiner Träume und verborgene Fähigkeiten in sich selbst.\n
+  Breath of Fire II ist ein Rollenspiel. Der größte Teil des Spiels wird von einer
+  Top-Down-Karte aus gespielt, aber die Kämpfe werden aus einer isometrischen
+  Ansicht gesehen. Ryu bildet Gruppen aus 8 anderen Charakteren, jeder mit seinen
+  eigenen Fähigkeiten und Kräften, die ihm helfen werden.
+release: 2002-04-15
+players: 2
+rating: 70%
+x-id: 3844
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Breath of Fire II (USA).png
+assets.video: ./media/videos/Breath of Fire II (USA).mp4
+
+
+game: Breath of Fire
+file: ./Breath of Fire (USA).zip
+developer: Capcom
+publisher: Capcom
+genre: Rollenspiele
+description:
+  Das Spiel beginnt mit einer Konfrontation der Light Dragons mit den Dark
+  Dragons. Die Truppen des Imperators Zog - ein Dark Dragon - überfallen das Dorf
+  der Light Dragons, dabei wird Ryus Schwester gefangen genommen. Ryu beginnt
+  seine Reise zunächst nur um Zog davon abzuhalten die Welt komplett zu erobern.
+  Während seiner Reise schließen sich ihm sieben weitere Krieger an. Dabei
+  erfahren sie, dass Zog die göttlichen Schlüssel sammelt. Mit diesen sieben
+  Schlüsseln haben einst die Light Dragons die Göttin der Zerstörung, Tyr,
+  eingesperrt und mit ihnen kann sie auch wieder befreit werden. Tyr ist so
+  mächtig, dass sie die ganze Welt zerstören könnte. Es beginnt ein Kampf um die
+  göttlichen Schlüssel und zur Rettung der Welt.
+release: 2001-12-12
+players: 2
+rating: 70%
+x-id: 3829
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Breath of Fire (USA).png
+assets.video: ./media/videos/Breath of Fire (USA).mp4
+
+
+game: Bruce Lee : Return of the Legend
+file: ./Bruce Lee - Return of the Legend (USA).zip
+developer: Vicarious Vision
+publisher: Universal Interactive
+genre: Action-Plattform
+description:
+  The legendary Bruce Lee is back as Hai Feng! Master Bruce's fists of fury,
+  nunchaku and dozens of awesome moves as you travel across the globe to locations
+  of mystery and intrigue in this epic martial arts adventure! Use the environment
+  to your advantage, evade your enemies by scaling walls, fight like the
+  Masterwith multiple combo and power-up attacks.
+release: 2003-03-28
+players: 1
+rating: 80%
+x-id: 4187
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Bruce Lee - Return of the Legend (USA).png
+assets.video: ./media/videos/Bruce Lee - Return of the Legend (USA).mp4
+
+
+game: Buffy the Vampire Slayer : Wrath of the Darkhul King
+file: ./Buffy the Vampire Slayer - Wrath of the Darkhul King (USA, Europe).zip
+developer: Natsume
+publisher: THQ
+genre: Kampf-Plattform
+description:
+  Years ago, the Darkhul King was banished to a hidden dimension. But somehow he
+  has found his way back to Earth, and now he's ready to unleash his powers on the
+  unsuspecting public of Sunnydale. Of course, Sunnydale is also the home of the
+  one and only Buffy. Using her experience against the many monsters, and her
+  amazing strength and fighting techniques, your job is to guide her along through
+  each level and defeat the many vampires and other evil beings before taking on
+  the prime evil, the Darkhul King itself.
+release: 2003-06-25
+players: 1
+rating: 60%
+x-id: 4127
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Buffy the Vampire Slayer - Wrath of the Darkhul King (USA, Europe).png
+assets.video: ./media/videos/Buffy the Vampire Slayer - Wrath of the Darkhul King (USA, Europe).mp4
+
+
+game: Castlevania : Circle of the Moon
+file: ./Castlevania - Circle of the Moon (USA).zip
+developer: Konami
+publisher: Konami
+genre: Abenteuer
+description:
+  Bekämpfe die Wurzeln des Bösen!\n
+  Man schreibt das Jahr 1830.In den Gemäuern eines verfallenen Schlosses an der
+  äußeren Grenze des österreichischen Imperiums erhebt sich eine dunkle Macht aus
+  ihrer Verbannung. Ein brandneues Kapitel aus der legendären Castlevania-Serie
+  öffnet sich zum ersten Mal auf dem Game Boy Advance.
+release: 2001-06-11
+players: 1
+rating: 85%
+x-id: 3780
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Castlevania - Circle of the Moon (USA).png
+assets.video: ./media/videos/Castlevania (Europe).mp4
+
+
+game: Castlevania : Harmony of Dissonance
+file: ./Castlevania - Harmony of Dissonance (USA).zip
+developer: Konami
+publisher: Konami
+genre: Abenteuer
+description:
+  Schnapp dir erneut die magische Peitsche deiner Vorfahren und stell dich den
+  Kreaturen der Unterwelt, um deine Freunde aus der Gewalt des Grafen Dracula zu
+  befreien. Erforsche eine komplett neue und noch umfangreichere Spielwelt mit
+  atemberaubender Grafik. Setze das neue Magiesystem geschickt ein um in deinem
+  Abenteuer zu bestehen und lüfte das Geheimnis von Castlevania.
+release: 2002-10-11
+players: 1
+rating: 85%
+x-id: 3798
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Castlevania - Harmony of Dissonance (USA).png
+assets.video: ./media/videos/Castlevania - Harmony of Dissonance (USA).mp4
+
+
+game: Castlevania Double Pack
+file: ./Castlevania Double Pack (USA).zip
+developer: Konami
+publisher: Konami
+genre: Rollenspiele-Action-Sammlung
+description:
+  Castlevania Doublepack ist eine Zusammenstellung der beiden vorherigen Game Boy
+  Advance Castlevania-Titel - Castevania: Harmony of Dissonance und Castlevania:
+  Aria of Sorrow. Die Spiele sind in ihrer vollständigen Form enthalten und geben
+  den Spielern die Möglichkeit, entweder als Juste Belmont oder als Soma Cruz zu
+  agieren, je nachdem, welche Geschichte und welches Spiel Sie angehen möchten.
+  Beide Spiele bieten eine Reihe von Waffen und Feinden, während Sie durch die
+  Burg gehen um Dracula im 2D-Kampf zu bekämpfen.
+release: 2006-01-16
+players: 1
+rating: 80%
+x-id: 83316
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Castlevania Double Pack (USA).png
+assets.video: ./media/videos/Castlevania Double Pack (USA).mp4
+
+
+game: Castlevania
+file: ./Castlevania (Europe).zip
+developer: Konami
+publisher: Konami
+genre: Abenteuer
+description:
+  Bekämpfe die Wurzeln des Bösen!\n
+  Man schreibt das Jahr 1830.In den Gemäuern eines verfallenen Schlosses an der
+  äußeren Grenze des österreichischen Imperiums erhebt sich eine dunkle Macht aus
+  ihrer Verbannung. Ein brandneues Kapitel aus der legendären Castlevania-Serie
+  öffnet sich zum ersten Mal auf dem Game Boy Advance.
+release: 2001-06-11
+players: 1
+rating: 85%
+x-id: 3780
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Castlevania (Europe).png
+assets.video: ./media/videos/Castlevania (Europe).mp4
+
+
+game: Catwoman
+file: ./Catwoman (USA, Europe) (En,Fr,De,Es,It,Nl).zip
+developer: Magic Pockets
+publisher: Electronic Arts
+genre: Action-Plattform
+description:
+  Eine klassische Geschichte voll Verrat und Rache, das ist Catwoman - das Spiel,
+  das auf dem gleichnamigen Film von Warner Bros. Pictures basiert. Der Spieler
+  steuert Halle Berry als Catwoman spielend durch den Film und setzt dabei ihre
+  katzenartigen Fähigkeiten, Sinne und Cleverness ein, um ihre Gegner zu besiegen.
+release: 2004-07-20
+players: 1
+rating: 10%
+x-id: 4052
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Catwoman (USA, Europe) (En,Fr,De,Es,It,Nl).png
+assets.video: ./media/videos/Catwoman (USA, Europe) (En,Fr,De,Es,It,Nl).mp4
+
+
+game: Chicken Shoot 2
+file: ./Chicken Shoot 2 (USA).zip
+developer: DSI Games
+publisher: Zoo Digital Publishing
+genre: Shooter-Action
+description:
+  Das Sequel zu "Chicken Shoot" ist im Prinzip identisch zu seinem Vorgänger. Es
+  hat die selben Spielmodi, die selben Waffen und das selbe Spielkonzept. Der
+  einzige Unterschied ist, dass dieses Spiel ein paar neue Level hat.
+release: 2005-10-11
+players: 2
+rating: 75%
+x-id: 4405
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Chicken Shoot 2 (USA).png
+assets.video: ./media/videos/Chicken Shoot 2 (USA).mp4
+
+
+game: Chicken Shoot
+file: ./Chicken Shoot (USA).zip
+developer: Zoo Digital Publishing
+publisher: Zoo Digital Publishing
+genre: Shooter-Action
+description:
+  Die Hühner sind los!\n
+  Chicken Shoot ist ein klassischer Fun-Shooter mit Adventure-Elementen nach dem
+  erfolgreichen "Moorhuhn"-Prinzip.\n
+  In jeder Mission kann der Spieler zusätzlich diverse Items sammeln und für
+  verschiedene Aktionen weitere Bonuspunkte erhaschen. Im Verlauf des Spiels
+  steigt der Schwierigkeitsgrad an, wodurch es immer schwieriger wird, höhere
+  Punktzahlen zu erreichen. Verschiedene Gimmicks, die eigens für jeden Level
+  kreiert wurden, lockern den Spielspaß auf.\n
+  Jetzt geht's dem Federvieh ans Leder!
+release: 2005-10-18
+players: 2
+rating: 25%
+x-id: 4645
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Chicken Shoot (USA).png
+assets.video: ./media/videos/Chicken Shoot (USA).mp4
+
+
+game: Comix Zone
+file: ./Comix Zone (Europe) (En,Fr,De,Es,It).zip
+developer: Virtucraft
+publisher: SEGA
+genre: Shooter-Action-Beat'em Up
+description:
+  Sketch Turner wird von seinem selbst erfundenen Zeichentrick - Bösewicht Mortus
+  - in seinen eigenen Comic verbannt. Denn nur hier kann der Erzfeind den Helden
+  Sketch vernichten! Wenn dies Mortus wirklich gelingen sollte, wird dieser
+  größenwahnsinnige Mutant Wirklichkeit und die Erde wird unter seine Herrschaft
+  fallen.\n
+  Aber es gibt Hoffnung. Im Comic besitzt Sketch übermenschliche Kräfte und setzt
+  alles daran, um in die reale Welt zurückzukehren. Zusammen mit seiner Ratte
+  Roadkill, welche zur Killerratte mutiert ist, kämpft er gegen die Mutanten aus
+  Mortuses Feder an.
+release: 2002-09-11
+players: 1
+rating: 60%
+x-id: 4243
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Comix Zone (Europe) (En,Fr,De,Es,It).png
+assets.video: ./media/videos/Comix Zone (Europe) (En,Fr,De,Es,It).mp4
+
+
+game: Contra Advance : The Alien Wars EX
+file: ./Contra Advance - The Alien Wars EX (USA).zip
+developer: Konami
+publisher: Konami
+genre: Shooter / Run and Gun-Shooter
+description:
+  Mit Contra Advance: The Alien Wars EX für Game Boy Advance präsentiert Konami of
+  Europe den legendären Klassiker jetzt auch für Nintendos Handheld. Basierned auf
+  den Bestseller für SNES, bietet der Titel außerdem noch eine Reihe actionreicher
+  neuer Level, durch die sich ein oder zwei schwerbewaffnete Spieler im Kampf
+  gegen zahlreiche angriffslustige Aliens ihren Weg bahnen müssen.
+release: 2002-11-03
+players: 2
+rating: 70%
+x-id: 4087
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Contra Advance - The Alien Wars EX (USA).png
+assets.video: ./media/videos/Contra Advance - The Alien Wars EX (USA).mp4
+
+
+game: Daredevil
+file: ./Daredevil (USA, Europe).zip
+developer: Griptonite Games
+publisher: THQ
+genre: Action-Beat'em Up
+description:
+  Er wuchs in einer Welt ewiger Dunkelheit auf, und doch kann er Dinge wahrnehmen,
+  die kein normaler Mensch sehen könnte.\n
+  Obwohl Matt Murdock blind ist, funktionieren seine anderen vier Sinne
+  übermenschlich gut. Er ist Daredevil, ein maskierter Held, der sich in den
+  dunklen Straßen der Stadt herumtreibt und für Recht und Ordnung sorgt. Er ist...
+  der Mann ohne Furcht.
+release: 2003-02-02
+players: 1
+rating: 55%
+x-id: 4095
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Daredevil (USA, Europe).png
+assets.video: ./media/videos/Daredevil (USA, Europe).mp4
+
+
+game: Yu-Gi-Oh! - Destiny Board Traveler + Yu-Gi-Oh! - D
+file: ./Yu-Gi-Oh! Double Pack 2 (USA) (En,Fr,De,Es,It).zip
+publisher: Konami
+genre: Sammlung
+release: 2006-01-01
+players: 1
+x-id: 84989
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Yu-Gi-Oh! Double Pack 2 (USA) (En,Fr,De,Es,It).png
+assets.video: ./media/videos/Yu-Gi-Oh! Double Pack 2 (USA) (En,Fr,De,Es,It).mp4
+
+
+game: Yu-Gi-Oh! : World Championship Tournament 2004
+file: ./Yu-Gi-Oh! - World Championship Tournament 2004 (USA) (En,Ja,Fr,De,Es,It).zip
+developer: KCEJ
+publisher: Konami
+genre: Rollenspiele-Kartenspiele
+description:
+  Yu-Gi-Oh! bringt die weltweite Tournament Edition, welche auch bei den
+  Weltmeisterschaften 2004 in Los Angeles benutzt wurden, direkt auf euren GBA. Um
+  die Sprachbarrieren von internationalen Spielern zu überbrücken, bringt das
+  Spiel gleich ein Übersetzungsprogramm mit, wodurch ihr euch auch mit Spielern
+  aus Japan, Frankreich, Spanien, Italien und England/USA duellieren könnt. Kämpft
+  mit über 1000 Karten gegen zahlreiche, neue Gegner oder tauscht Karten mit
+  Freunden über Link-Kabel.
+release: 2004-02-10
+players: 2
+rating: 65%
+x-id: 3810
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Yu-Gi-Oh! - World Championship Tournament 2004 (USA) (En,Ja,Fr,De,Es,It).png
+assets.video: ./media/videos/Yu-Gi-Oh! - World Championship Tournament 2004 (USA) (En,Ja,Fr,De,Es,It).mp4
+
+
+game: Yu-Gi-Oh! 7 Trials to Glory: World Championship Tournament 2005
+file: ./Yu-Gi-Oh! - 7 Trials to Glory - World Championship Tournament 2005 (USA) (En,Ja,Fr,De,Es,It).zip
+developer: Konami
+publisher: Konami
+genre: Kartenspiele
+description:
+  Light and dark clash in a town where everyone waits to duel. Battles take the
+  place of words and only the best will win tournaments where glittering trophies
+  await the victor.
+release: 2005-02-15
+players: 2
+rating: 70%
+x-id: 85003
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Yu-Gi-Oh! - 7 Trials to Glory - World Championship Tournament 2005 (USA) (En,Ja,Fr,De,Es,It).png
+assets.video: ./media/videos/Yu-Gi-Oh! - 7 Trials to Glory - World Championship Tournament 2005 (USA) (En,Ja,Fr,De,Es,It).mp4
+
+
+game: Yu-Gi-Oh! Destiny Board Traveler
+file: ./Yu-Gi-Oh! - Destiny Board Traveler (USA).zip
+developer: Konami
+publisher: Konami
+genre: Strategie-Brettspiele
+description:
+  Yu-Gi-Oh! Destiny Board Traveler, bekannt als Yu-Gi-Oh! Sugoroku no Sugoroku auf
+  Japanisch, ist ein Spiel von Konami für den Game Boy Advance, basierend auf dem
+  Yu-Gi-Oh! Manga. In diesem Spiel können Spieler gegen computergesteuerte Gegner
+  oder ihre Freunde um die Kontrolle über das Destiny Board konkurrieren.
+  .
+  Das Spiel kombiniert die Yu-Gi-Oh! Trading Card Game und ein 5x5 Spielbrett.
+  Jedes Spielbrett hat ein anderes Thema, bestimmt durch den Charakter, zu dem es
+  gehört.
+  .
+  Gemäß der Anleitung für das Spiel, Solomon Muto erstellt Destiny Board und dies
+  ist offensichtlich von ihm kommentieren während jedes Spiels und in der Lage,
+  seine Super Power zu verwenden, um die Regeln für das Spiel zu ändern.
+release: 2004-10-26
+players: 4
+rating: 35%
+x-id: 3900
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Yu-Gi-Oh! - Destiny Board Traveler (USA).png
+assets.video: ./media/videos/Yu-Gi-Oh! - Destiny Board Traveler (USA).mp4
+
+
+game: Yu-Gi-Oh! Double Pack
+file: ./Yu-Gi-Oh! Double Pack (USA).zip
+publisher: Konami
+release: 2006-01-01
+players: 1
+x-id: 84988
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Yu-Gi-Oh! Double Pack (USA).png
+assets.video: ./media/videos/Yu-Gi-Oh! Double Pack (USA).mp4
+
+
+game: Yu-Gi-Oh! Dungeon Dice Monsters
+file: ./Yu-Gi-Oh! - Dungeon Dice Monsters (USA) (En,Es).zip
+developer: Konami
+publisher: Konami
+genre: Puzzle-Strategie
+description:
+  In Dungeon Dice Monsters, a new strategic board game, duel against characters
+  from the Yu-Gi-Oh! TV series using magical dice, powerful traps and fierce
+  monsters. Create dungeons, defeat your opponents and become the ultimate dice
+  duelist!
+release: 2003-02-12
+players: 2
+rating: 65%
+x-id: 3828
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Yu-Gi-Oh! - Dungeon Dice Monsters (USA) (En,Es).png
+assets.video: ./media/videos/Yu-Gi-Oh! - Dungeon Dice Monsters (USA) (En,Es).mp4
+
+
+game: Yu-Gi-Oh! GX : Duel Academy
+file: ./Yu-Gi-Oh! GX - Duel Academy (USA).zip
+developer: Konami
+publisher: Konami
+genre: Rollenspiele-Kartenspiele
+description:
+  Erklimmen Sie die Ränge der Duel Academy um der König der Spiele zu werden! Eine
+  brandneue Welt des Duellierens kommt für den Game Boy Advance - In der Form von
+  Yu-Gi-Oh! GX! Basierend auf der brandneuen Zeichentrickserie nimmt die Story
+  einige Jahre nach Yu-Gi-Oh! ihren Lauf. Treten sie der Duell Akademie bei und
+  personalisieren sie ihre eigene Spielfigur! Lernen sie die Grundregeln des
+  Duellierens mit Hilfe des Tutorials im Spiel sowie durch auftretende
+  Quiz-Einlagen. Werden sie der König der Spiele werden?
+release: 2006-01-10
+players: 1
+rating: 80%
+x-id: 3808
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Yu-Gi-Oh! GX - Duel Academy (USA).png
+assets.video: ./media/videos/Yu-Gi-Oh! GX - Duel Academy (USA).mp4
+
+
+game: Yu-Gi-Oh! Reshef of Destruction
+file: ./Yu-Gi-Oh! - Reshef of Destruction (USA).zip
+developer: Konami
+publisher: Konami
+genre: Kartenspiele
+description:
+  In your return to Battle City, you begin another mission to retrieve stolen
+  millennium cards that can destroy the world. Yu-Gi-Oh! Reshef of Destruction
+  features an all-new storyline that sets you off on a quest to stop Reshef from
+  drowning the world in darkness. Since the game's battles are fought with cards,
+  you must build a strong deck from 800 different cards (including all three
+  Egyptian god cards) to even stand a chance against your enemies.
+release: 2004-06-29
+players: 2
+rating: 60%
+x-id: 85013
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Yu-Gi-Oh! - Reshef of Destruction (USA).png
+assets.video: ./media/videos/Yu-Gi-Oh! - Reshef of Destruction (USA).mp4
+
+
+game: Yu-Gi-Oh! The Eternal Duelist Soul
+file: ./Yu-Gi-Oh! - The Eternal Duelist Soul (USA).zip
+developer: KCEJ
+publisher: Konami
+genre: Kartenspiele
+description:
+  The most accurate, advanced version of Duel Monsters arrives! The ultimate duel
+  simulator based on the hit Trading Card Game and Television series! Duel against
+  dozens of opponents from the TV show or challenge your friends. Import cards
+  from the Official TCG to boost your deck. Complete your card collection and
+  create the ultimate deck to enter the World Championship Tournament!
+release: 2002-10-15
+players: 2
+rating: 70%
+x-id: 85016
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Yu-Gi-Oh! - The Eternal Duelist Soul (USA).png
+assets.video: ./media/videos/Yu-Gi-Oh! - The Eternal Duelist Soul (USA).mp4
+
+
+game: Yu-Gi-Oh! The Sacred Cards
+file: ./Yu-Gi-Oh! - The Sacred Cards (USA).zip
+developer: Konami
+publisher: Konami
+genre: Kartenspiele
+description:
+  In Yu-Gi-Oh! The Sacred Cards, it's just as important to play your cards right
+  as it is to get the right cards. This unique RPG gives you cards as weapons
+  against the tough competition. You'll battle in a tournament hosted by Kaiba
+  Corporation and win the powerful Egyptian God Cards. Based on events from the
+  Yu-Gi-Oh! animated TV series, The Sacred Cards offers hundreds of cards, over
+  100 duelists and rivals, and unexpected twists and surprises.
+release: 2003-11-04
+players: 1
+rating: 65%
+x-id: 85018
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Yu-Gi-Oh! - The Sacred Cards (USA).png
+assets.video: ./media/videos/Yu-Gi-Oh! - The Sacred Cards (USA).mp4
+
+
+game: Yu-Gi-Oh! Ultimate Masters: World Championship Tournament 2006
+file: ./Yu-Gi-Oh! - Ultimate Masters - World Championship Tournament 2006 (USA) (En,Ja,Fr,De,Es,It).zip
+developer: Konami
+publisher: Konami
+genre: Kartenspiele
+description:
+  The next installment in the World Championship Tournament series adds more cards
+  and more replay value than ever before. The official software of the 2006
+  Yu-Gi-Oh! World Tournament has the most cards in any Yu-Gi-Oh! handheld game,
+  over 2,000 to choose from. New modes will test your dueling skill with games
+  such as limited Life Point duels, dueling with an 80 card deck, and more.
+release: 2006-03-14
+players: 2
+rating: 85%
+x-id: 85024
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Yu-Gi-Oh! - Ultimate Masters - World Championship Tournament 2006 (USA) (En,Ja,Fr,De,Es,It).png
+assets.video: ./media/videos/Yu-Gi-Oh! - Ultimate Masters - World Championship Tournament 2006 (USA) (En,Ja,Fr,De,Es,It).mp4
+
+
+game: Yu-Gi-Oh! Worldwide Edition: Stairway to the Destined Duel
+file: ./Yu-Gi-Oh! - Worldwide Edition - Stairway to the Destined Duel (USA) (En,Ja,Fr,De,Es,It).zip
+developer: Konami
+publisher: Konami
+genre: Kartenspiele
+description:
+  Yu-Gi-Oh! Worldwide Edition: Stairway to the Destined Duel is a censored version
+  of Yu-Gi-Oh! Duel Monsters 6 Expert 2 (including the card artworks). Released in
+  both Japanese and English, it is set during the Battle City arc. The player
+  duels characters from the anime and manga, participating in a few tournaments
+  and duel single opponents they come across on the map screen. Cards are awarded
+  for various reasons, including defeating opponents, winning tournaments and free
+  cards with the Duelist Weekly magazine. This game contains around 1,000 cards.
+release: 2003-04-08
+players: 2
+rating: 70%
+x-id: 85027
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Yu-Gi-Oh! - Worldwide Edition - Stairway to the Destined Duel (USA) (En,Ja,Fr,De,Es,It).png
+assets.video: ./media/videos/Yu-Gi-Oh! - Worldwide Edition - Stairway to the Destined Duel (USA) (En,Ja,Fr,De,Es,It).mp4
+

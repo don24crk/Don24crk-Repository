@@ -1,0 +1,756 @@
+collection: Sega 8/16-bit (Various)
+shortname: megadrive
+extensions: 68k, bin, bms, chd, cue, gen, gg, iso, m3u, md, mdx, sg, sgd, smd, sms
+launch: am start
+  -n com.retroarch/.browser.retroactivity.RetroActivityFuture
+  -e ROM {file.path}
+  -e LIBRETRO /data/data/com.retroarch/cores/genesis_plus_gx_libretro_android.so
+  -e CONFIGFILE /storage/emulated/0/Android/data/com.retroarch/files/retroarch.cfg
+  -e QUITFOCUS
+  --activity-clear-task
+  --activity-clear-top
+  --activity-no-history
+game: Aladdin
+file: ./Aladdin (GERMAN).zip
+developer: Virgin
+publisher: SEGA
+genre: Plattform-Action
+description:
+  SEGA präsentiert eine brilliante, Disney/Virgin Games Koproduktion von Disney's
+  Aladdin. Haltet euch am Teppich fest, jetzt kommen Spaß, Abenteuer, Fantasie und
+  Action! Aladdin schwingt seinen glänzenden Krummsäbel, um sich den Weg durch
+  Agrabah zu erkämpfen, aus dem Verlies des Sultans zu entkommen, die flammende
+  Höhle der Wunder zu überleben, sich die Wunderlampe zu schnappen und Prinzessin
+  Yasmin vom bösen Jafar zu retten.
+release: 1993-11-11
+players: 1
+rating: 90%
+x-id: 8
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Aladdin (GERMAN).png
+assets.video: ./media/videos/Aladdin (GERMAN).mp4
+
+
+game: Alien Soldier
+file: ./Alien Soldier (Europe).zip
+developer: Treasure
+publisher: SEGA
+genre: Plattform-Shooter / Run and Gun-Shooter
+description:
+  Im Jahre 2015 ist der Planet Sierra unter die Kontrolle von Xi-Tigers Scarlet
+  Leuten geraten. Alle Hoffnung ruht auf den Shultern von Epsilon-Eagle, dem
+  furchtlosen Krieger mit tödlichem Arsenal. Bewaffnet mit so viel Ausrüstung wie
+  du tragen kannst, sprenge, schieße und brenne dich von Level zu Level, voll von
+  unglaublicher Cyber-Action, bis du beim mächtigen Xi-Tiger angelangt bist!
+release: 1995-06-01
+players: 1
+rating: 90%
+x-id: 36
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Alien Soldier (Europe).png
+assets.video: ./media/videos/Alien Soldier (Europe).mp4
+
+
+game: Altered Beast
+file: ./Altered Beast (USA, Europe).zip
+developer: SEGA
+publisher: SEGA
+genre: Beat'em Up
+description:
+  Lass dich un eine Zeit zurückversetzen, als Krieger und Götter die Erde
+  regierten. Eine Zeit in der das Gute gegen das Böse kämpfte, ein Ort der Gefahr.
+  Von Zeus dazu beauftragt Athene zu retten, musst du in die Unterwelt eindringen,
+  mit der Kraft dich in mythische Kreaturen mit übernatürlichen Kräften zu
+  verwanden.
+release: 1990-11-30
+players: 2
+rating: 65%
+x-id: 15
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Altered Beast (USA, Europe).png
+assets.video: ./media/videos/Altered Beast (USA, Europe).mp4
+
+
+game: Batman : Revenge of the Joker
+file: ./Batman - Revenge of the Joker (USA).zip
+developer: Ringler Studios
+publisher: Sunsoft
+genre: Plattform
+description:
+  Auch wenn das Leben eines Multimillionärs einfach und unbeschwert klingt,
+  erzählen Sie das nicht Bruce Wayne. Er mag einer der reichsten Männer der Welt
+  sein, aber er hat auch das Geheimnis, dass er Batman ist. Batman kämpft gegen
+  alles Böse und ist ständig auf der Jagd nach seinen Erzfeinden, um Gotham zu
+  schützen. Es scheint, dass der Joker eine riesige Menge an Edelmetallen
+  gestohlen hat, die als Sprengstoff in Raketen verwendet werden. Jetzt ist es an
+  dem Dunklen Ritter, auf die Straße zu gehen und die Pläne des Jokers zu
+  durchkreuzen, was auch immer sie sein mögen. Wenn Sie gegen die Schergen des
+  Jokers kämpfen, steht Ihnen eine große Auswahl an Waffen zur Verfügung:
+  Batarangs, Schallneutralisatoren, Schildsterne und eine Armbrust. Auch wenn der
+  Joker immer ein Lächeln im Gesicht hat, die Sicherheit von Gotham City ist nicht
+  zum Lachen, sind Sie der Herausforderung gewachsen?
+release: 1992-01-01
+players: 1
+rating: 35%
+x-id: 199
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Batman - Revenge of the Joker (USA).png
+assets.video: ./media/videos/Batman - Revenge of the Joker (USA).mp4
+
+
+game: Blades of Vengeance
+file: ./Blades of Vengeance (USA, Europe).zip
+developer: Beam Software
+publisher: Electronic Arts
+genre: Plattform-Rollenspiele
+description:
+  Blades of Vengeance ist ein Plattformer mit RPG Elementen.\n
+  Die dunkle Lady hat Monsterhorden auf die Menschheit losgelassen welche du
+  vernichten musst.\n
+  Du kannst zwischen 3 Charakteren wählen: der Jägerin, dem Krieger und dem
+  Zauberer. Alle besitzen unterschiedliche Fähigkeiten. Während des Spiels, kannst
+  du nach und nach deine Kräfte verbessern, indem du Rüstung und Waffen
+  aufsammelst, oder Zaubersprüche benutzt. Am Ende von allen 8 Leveln wartet ein
+  Boss auf dich.
+release: 1993-12-17
+players: 2
+rating: 70%
+x-id: 333
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Blades of Vengeance (USA, Europe).png
+assets.video: ./media/videos/Blades of Vengeance (USA, Europe).mp4
+
+
+game: Boogerman : A Pick and Flick Adventure
+file: ./Boogerman - A Pick and Flick Adventure (USA).zip
+developer: Interplay
+publisher: Interplay
+genre: Action-Plattform
+description:
+  Stehe unserem Helden, dem Boogerman, bei, wenn er versucht, die Welt vor dem
+  widerlichen Booger Meister zu retten, und erlebe das absolute Spitzenspiel der
+  Action Kategorie!\n
+  über 20 haarsträubende Abenteuer-Levels mit Welten voller düsterer Gruben,
+  schleimbedeckter Berge, stinkender Sümpfe und vielen anderen ekligen
+  Umgebungen.\n
+  Zu den Angriffstechniken zählen die "Feurigen Gase", der "Booger Schnipp" und
+  der "Wahnsinns Hinternknaller"
+release: 1994-11-01
+players: 1
+rating: 80%
+x-id: 18371
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Boogerman - A Pick and Flick Adventure (USA).png
+assets.video: ./media/videos/Boogerman - A Pick and Flick Adventure (USA).mp4
+
+
+game: Castle of Illusion Starring Mickey Mouse
+file: ./Castle of Illusion Starring Mickey Mouse (USA, Europe).zip
+developer: SEGA
+publisher: SEGA
+genre: Plattform-Action-Plattform / Jump'n'Run Scrolling
+description:
+  Castle of Illusion mit Mickey Mouse auf Megadrive ist ein Plattformspiel, in dem
+  Sie Minnie vor den Klauen der Hexe Mizrabel retten müssen. Spielen Sie als
+  Mickey in diesem Abenteuer, in dem jede Tür des Schlosses viele Überraschungen
+  birgt.
+release: 1990-11-22
+players: 1
+rating: 75%
+x-id: 22
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Castle of Illusion Starring Mickey Mouse (USA, Europe).png
+assets.video: ./media/videos/Castle of Illusion Starring Mickey Mouse (USA, Europe).mp4
+
+
+game: Castlevania : Bloodlines
+file: ./Castlevania - Bloodlines (USA).zip
+developer: Konami
+publisher: Konami
+genre: Plattform
+description:
+  Im Jahre 1897 wurde Dracula von Quincy Morris - einem entfernten Verwandten der
+  Belmont Familie - endgültig besiegt.\n
+  1917 plante eine junge Gräfin names Elizabeth Bartley den Fürsten der Dunkelheit
+  in Versailles in Frankreich wiederzubeleben.\n
+  John Morris, ein Nachfahre der Belmont-Morris Familie, und Eric Lecarde dessen
+  Freundin durch Elizabeth zu einem Vampir wurde, machten es sich zur Aufgabe
+  Elizabeth durch ganz Europa zu folgen, um das dunkle Ritual zu verhindern.
+release: 1994-03-17
+players: 1
+rating: 90%
+x-id: 40
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Castlevania - Bloodlines (USA).png
+assets.video: ./media/videos/Castlevania - Bloodlines (USA).mp4
+
+
+game: Comix Zone
+file: ./Comix Zone (GERMAN).zip
+developer: SEGA
+publisher: SEGA
+genre: Beat'em Up-Action
+description:
+  Hinein in die Comix Zone... den ersten wirklich interaktiven Comic Strip!!
+  Merkwürdige Umstände halten Comic-Zeichner Sketch in den Seiten seines
+  apokalyptischen Comics gefangen, und der Zeichenstift ist in der Gewalt seiner
+  wohl fiesesten Schöpfung: Mortus. Arbeite dich langsam von Bild zu Bild und von
+  Seite zu Seite vor, während du schier übermächtigen Gegnern gegenüberstehst -
+  auf deiner Flucht aus der COMIX ZONE.
+release: 1995-10-27
+players: 1
+rating: 80%
+x-id: 35
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Comix Zone (GERMAN).png
+assets.video: ./media/videos/Comix Zone (GERMAN).mp4
+
+
+game: Cool Spot
+file: ./Cool Spot (USA).zip
+developer: Virgin
+publisher: Virgin
+genre: Plattform
+description:
+  Was??? Die Kumpel von Cool SPOT sind in Cool Spot für Mega Drive im Knast
+  gelandet! Nur nicht verzagen! Cool SPOT ist gekommen, um sie da rauszuholen! Nur
+  hör endlich auf, über die verträumte Landschaft, die atemberaubenden Animationen
+  und die irren Hintergrundgeräusche zu staunen. Ran ans Spiel! Junge, jetzt
+  geht's rund in Cool Spot für Mega Drive...
+release: 1994-02-18
+players: 1
+rating: 65%
+x-id: 104
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Cool Spot (USA).png
+assets.video: ./media/videos/Cool Spot (USA).mp4
+
+
+game: Crüe Ball : Heavy Metal Pinball
+file: ./Crue Ball - Heavy Metal Pinball (USA, Europe).zip
+developer: Electronic Arts
+publisher: Electronic Arts
+genre: Flipper
+description:
+  Crüe Ball ist nicht einfach ein weiteres Flipperspiel. Dieses Spiel wurde von
+  Leuten entwickelt, die die richtigen Flipperspiele konstruieren. Der
+  ehrfurchtgebietende Sound stammt von Brian Schmidt, ein Name, den Sie auf den
+  heißesten Spielhallen-Spielen in ihrer Spielhalle wiedersehen werden. Das
+  Killer-Design und das Bildmaterial stammen von Mark Weston Sprenger, ein
+  freiberuflicher Designer einiger der heißesten Flipperautomaten aller Zeten.
+  Crüe Ball ist fast so gut wie ein richtiger Automat - noch authentischer geht es
+  nicht!
+release: 1992-01-01
+players: 4
+rating: 75%
+x-id: 407
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Crue Ball - Heavy Metal Pinball (USA, Europe).png
+assets.video: ./media/videos/Crue Ball - Heavy Metal Pinball (USA, Europe).mp4
+
+
+game: Double Dragon V : The Shadow Falls
+file: ./Double Dragon V - The Shadow Falls (USA).zip
+developer: Leland Interactive Media
+publisher: Tradewest
+genre: Action-Kampf
+description:
+  Double Dragon kehrt zurück, dieses Mal als VS. Fighter, in der gleichen Form wie
+  Street Fighter. Basierend auf der Double Dragon-Zeichentrickserie, die lose auf
+  dem ursprünglichen Arcade-Spiel basiert, kämpfen Jimmy und Billy und eine
+  Vielzahl anderer Charaktere in einem Turnier-Kämpfer.
+  .
+  Am Ende des Weges zum Sieg wartet der Schattenmeister, der einen tödlichen Virus
+  erschaffen hat, mit dem er die Welt zerstören will, auf Sie. Sie müssen sich
+  durch viele böse Charaktere kämpfen, bevor Sie sich dem Shadow Master stellen.
+  Besiege ihn, und die Welt ist für einen weiteren Tag gerettet.
+release: 1994-08-05
+players: 2
+rating: 20%
+x-id: 352
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Double Dragon V - The Shadow Falls (USA).png
+assets.video: ./media/videos/Double Dragon V - The Shadow Falls (USA).mp4
+
+
+game: Gods
+file: ./Gods (USA).zip
+developer: Graftgold
+publisher: Mindscape
+genre: Action-Plattform
+description:
+  Um Dir als Herkules Deinen Platz unter den Unsterblichen zu sichern, musst Du
+  Deinen ganzen Verstand einsetzen. Erforsche phantastische Tempel, verlorene
+  Städte, versteckte Unterwelten und verzwickte Labyrinthe, die von intelligenten
+  und äußerst gerissenen Widersachern bewacht werden. Die gesamte Aufgabe wird dem
+  Grad Deiner Geschicklichkeit angepasst, und der mitreißende Rhythmus des Bitmap
+  Brothers-Soundtracks begleitet jeden Deiner Schritte. Probiere alles aus, denn
+  es gibt zahllose Möglichkeiten, einen Level zu bewältigen.
+release: 1992-01-01
+players: 1
+rating: 70%
+x-id: 357
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Gods (USA).png
+assets.video: ./media/videos/Gods (USA).mp4
+
+
+game: Gunstar Heroes
+file: ./Gunstar Heroes (GERMAN).zip
+developer: Treasure
+publisher: SEGA
+genre: Beat'em Up-Action-Shooter / Run and Gun-Shooter
+description:
+  In Gunstar Heroes für Mega Drive wird auf dem Planeten Gunstar 9 nach einer
+  langen Friedensperiode der ältere Zwillingsbruder der Gunstars vom bösen
+  Diktator Colonel Red entführt, um diesem als Sklave zu dienen. Halte in Gunstar
+  Heroes für Mega Drive den Diktator davon ab, den „Zerstörer Golden Silver" zu
+  entfesseln, dies hätte apokalyptische Auswirkungen! Auf deinem Weg wirst du
+  vielen Gegnern und Bossen begegnen.
+release: 1993-09-10
+players: 2
+rating: 80%
+x-id: 89
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Gunstar Heroes (GERMAN).png
+assets.video: ./media/videos/Gunstar Heroes (GERMAN).mp4
+
+
+game: Lightening Force : Quest for the Darkstar
+file: ./Thunder Force IV (U).zip
+developer: Technosoft
+publisher: SEGA
+genre: Shoot'em Up-Action-Shoot'em Up / Horizontal
+description:
+  11 Jahre nach den Ereignissen von Thunder Force V hat die Erde endlich begonnen,
+  sich von der wütenden KI "Guardian" zu erholen, die den Planeten beinahe
+  zerstört hätte, als eine furchterregende außerirdische Bedrohung namens Orn
+  Faust auftaucht und die Erde angreift. Wehrlos gegen die schiere Macht dieses
+  Feindes, wendet sich die einheitliche Erde in einem letzten verzweifelten
+  Versuch der mysteriösen Vasteel-Technologie zu, die tief im Untergrund
+  versiegelt worden war, aber mit der Annäherung des Orn Faust wieder erwacht ist.
+  Diese verlorene Technologie in Thunder Force IV wird benutzt, um die letzte
+  Hoffnung der Menschheit zu schaffen, ein experimentelles Kampfflugzeug namens
+  Phoenix, das sich auf den Weg macht, um gegen Orn Faust an der Quelle
+  zurückzuschlagen.
+release: 1992-01-01
+players: 1
+rating: 90%
+x-id: 55
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Thunder Force IV (U).png
+assets.video: ./media/videos/Thunder Force IV (U).mp4
+
+
+game: Mazin Saga : Mutant Fighter
+file: ./Mazin Saga - Mutant Fighter (USA).zip
+developer: Almanic Corp.
+publisher: Vic Tokai
+genre: Action-Beat'em Up
+description:
+  Mazin Saga: Mutant Fighters ist ein sehr einfaches Spiel, aber eines, das sehr
+  viel Spaß macht. Künstlerisch ist das Spiel sehr detailliert und besteht aus
+  zwei Arten von Gameplay. Der erste Teil ist beat them up, wo der Spieler gegen
+  viele Feinde kämpft. Der zweite Teil befindet sich am Ende eines jeden Levels,
+  wo das Spiel die Form eines 1-gegen-1-Kampfspiels annimmt. Dieser Teil ist bei
+  weitem nicht so ausgefeilt wie der Rest und ist unpoliert.
+release: 1993-01-01
+players: 1
+rating: 90%
+x-id: 18405
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Mazin Saga - Mutant Fighter (USA).png
+assets.video: ./media/videos/Mazin Saga - Mutant Fighter (USA).mp4
+
+
+game: Mystical Fighter
+file: ./Mystical Fighter (USA).zip
+developer: Kindle Imagine Develop
+publisher: DreamWorks
+genre: Beat'em Up-Action
+description:
+  Ein Samurai betritt ein Zeitportal, um in die Shogun-Dynastie zurückzukehren und
+  den bösen Lord Kabuki zu besiegen. Das Spiel ist im Grunde ein
+  Beat-em-Side-Scrolling-Spiel, bei dem der Spieler den Samurai steuert. Der
+  Spieler kann in jeder Phase gegen Horden von gegnerischen Schergen treten,
+  schlagen und andere Bewegungen ausführen. Der Spieler kann auch eine spezielle
+  magische Kraft nutzen, die durch das Aufsammeln von Schriftrollen im gesamten
+  Level aufgeladen wird. Jede Etappe muss innerhalb eines bestimmten Zeitlimits
+  abgeschlossen werden. Am Ende eines Abschnitts muss der Spieler einen
+  feindlichen Boss besiegen, um zum nächsten Abschnitt zu gelangen.
+release: 1992-01-01
+players: 2
+rating: 60%
+x-id: 1120
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Mystical Fighter (USA).png
+assets.video: ./media/videos/Mystical Fighter (USA).mp4
+
+
+game: Phantasy Star IV
+file: ./Phantasy Star IV (USA).zip
+developer: SEGA
+publisher: SEGA
+genre: Kampf-Abenteuer-Rollenspiele
+description:
+  In dem Rollenspiel Phantasy Star IV: Das Ende des Jahrtausends auf Megadrive
+  führst du Chaz, einen jungen Söldner der Aiedo-Gilde. Während Dark Force, ein
+  böses Wesen, dank des dunklen Zauberers Zio wieder aus der Dunkelheit auftaucht,
+  wurdest du ausgewählt, um ein Team zusammenzustellen und dieser Bedrohung ein
+  für alle Mal ein Ende zu setzen. Ihre Route wird mit vielen Kämpfen gespickt
+  sein, die rundenbasiert ausgetragen werden müssen.
+release: 1994-01-01
+players: 1
+rating: 80%
+x-id: 30
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Phantasy Star IV (USA).png
+assets.video: ./media/videos/Phantasy Star IV (USA).mp4
+
+
+game: Phantom 2040
+file: ./Phantom 2040 (USA).zip
+developer: Viacom New Media
+publisher: Viacom New Media
+genre: Plattform
+description:
+  Du bist das Phantom! Greif Dir zwei von 14 Waffen aus Deinem Arsenal, und mach
+  den Handlangern der Maximum Inc. Über ganze 60 Wahnsinnslevels Feuer unterm
+  Hinter, um eines von 20 möglichen Spielenden zu erreichen. Hier geht's um echte
+  Persönlichkeiten und Orte der amerikanischen TV-Show! Jetzt hast du die Chance
+  eine wahre Legende mitzuerleben! Drum nimm Dich Deines Schicksals an, und wirf
+  Dich in die Schale des Phantoms!
+release: 1995-01-01
+players: 1
+rating: 70%
+x-id: 187
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Phantom 2040 (USA).png
+assets.video: ./media/videos/Phantom 2040 (USA).mp4
+
+
+game: Scooby-Doo Mystery
+file: ./Scooby-Doo Mystery (USA).zip
+developer: Sunsoft
+publisher: Acclaim
+genre: Abenteuer-Plattform
+description:
+  Scooby-Doo Mystery ist ein Point-and-Click-Abenteuer (oder eher
+  Point-and-Press-Button) mit zwei spielbaren Episoden eines typischen
+  Scooby-Doo-Cartoons.
+  .
+  Blake's Hotel - Daphnes Onkel Blake hat die Gang zu einem Skiwochenende in sein
+  Hotel eingeladen. Als sie das Hotel erreichen, erfahren sie, dass der Geist des
+  alten Häuptlings alle Gäste verscheucht, da er nicht glücklich darüber ist, dass
+  ein Hotel auf seiner Grabstätte gebaut wird. Bald wird Onkel Blake entführt, und
+  es liegt an Scooby und Shaggy, Hinweise zu finden und den Geist zur Strecke zu
+  bringen.
+release: 1995-01-01
+players: 1
+rating: 85%
+x-id: 570
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Scooby-Doo Mystery (USA).png
+assets.video: ./media/videos/Scooby-Doo Mystery (USA).mp4
+
+
+game: Second Samurai
+file: ./Second Samurai (Europe).zip
+developer: Vivid Image
+publisher: Psygnosis
+genre: Plattform-Abenteuer
+description:
+  Am Ende von First Samurai konnte der Dämonenkönig in die Zeit des alten Japan
+  fliehen, sodass unser Held ihm in der Zeit zurück folgt und 10 Levels auf ihn
+  warten. Im Gegensatz zum Original ist jede Welt in mehrere Levels unterteilt,
+  wobei am Ende jeder Welt ein Endgegner wartet, der die Arcade Seite des
+  Gameplays betont, die immer noch Hacking und Slashing mit Rätsellösung
+  kombiniert.
+  .
+  Wie im ersten Teil startest du ohne Waffen, kannst aber Schwerter und Dolche
+  einsammeln, während Du dich durch die Levels kämpfst. Auf Deinem Weg gibt es
+  viele versteckte Abschnitte, die Dich auf Deinen Endkampf vorbereiten, sowie
+  mehrere Teilspiele, einschließlich eines Shoot'em-Up-Modus.
+release: 1994-01-01
+players: 2
+rating: 70%
+x-id: 410
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Second Samurai (Europe).png
+assets.video: ./media/videos/Second Samurai (Europe).mp4
+
+
+game: Shadow Dancer : The Secret of Shinobi
+file: ./Shadow Dancer - The Secret of Shinobi (World).zip
+developer: SEGA
+publisher: SEGA
+genre: Beat'em Up-Action-Plattform
+description:
+  Die Shinobi-Explosion ist zurück in Shadow Dancer: The Secret of Shinobi für
+  Mega Drive! Der Meister der Tarnung und der todbringenden Kunst von Shuriken
+  kehrt zurück, um den Mord an seinem Freund Kato zu rächen. Es herrscht Krieg!
+  Das ultimative Böse, Sauros, ist ein verrücktes Reptilienmonster mit der Macht,
+  verheerende Katastrophen heraufzubeschwören. Seine Armee von bösartigen Ninja
+  kontrolliert die Stadt, während er plötzliche Feuerstürme, Erdbeben und Lawinen
+  beschwört! Die verängstigten Geiseln werden von Echsenmenschen gefangen gehalten
+  und Du musst sie retten in Shadow Dancer: The Secret of Shinobi für Mega Drive.
+  Gelange durch das Inferno! Schleudere Dich über bröckelnde Gebäude. Beschwöre
+  die totale Verwüstung mit mächtiger Ninja-Magie. Shinobis furchtloser Kampfhund
+  Yamato ist auch dabei! Er besitzt die Kraft dreier Männern, die Schärfe von
+  Rasierklingen und die Geschwindigkeit eines Shinobi-Säbels. Du bist Shadow
+  Dancer. Sie haben Dich entehrt. Sie werden sterben!
+release: 1991-01-01
+players: 1
+rating: 85%
+x-id: 82
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Shadow Dancer - The Secret of Shinobi (World).png
+assets.video: ./media/videos/Shadow Dancer - The Secret of Shinobi (World).mp4
+
+
+game: Shining Force II
+file: ./Shining Force II (USA).zip
+developer: Camelot Software
+publisher: SEGA
+genre: Rollenspiele
+description:
+  Shining Force II ist ein taktisches RPG auf Mega Drive. Die Geschichte folgt den
+  Ereignissen des Spiels Shining Force Gaiden: Final Conflict, das auf Game Gear
+  veröffentlicht wurde. Das Abenteuer beginnt, als ein mysteriöser Dieb die
+  heiligen Relikte des Alten Turms stiehlt und einem mächtigen Dämon den Weg
+  öffnet. Erforschen Sie in Begleitung Ihrer Freunde die Geheimnisse des Landes
+  der Rune in mehr als 40 Rundenschlachten und erobern Sie das Licht von Shining
+  Force!
+release: 1994-10-02
+players: 1
+rating: 80%
+x-id: 44
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Shining Force II (USA).png
+assets.video: ./media/videos/Shining Force II (USA).mp4
+
+
+game: Shinobi III : Return of the Ninja Master
+file: ./Shinobi III - Return of the Ninja Master (GERMAN).zip
+developer: Megasoft
+publisher: SEGA
+genre: Plattform
+description:
+  Shinobi III: Die Rückkehr des Ninja-Meisters auf Megadrive ist ein Actionspiel,
+  in dem du Joe Musashi spielst, einen Samurai, dessen Aufgabe es ist, eine
+  kriminelle Organisation zu eliminieren: Neo Zeed. Nutze die vergessene Kunst der
+  Oboro-Vorfahren, deren letzter Erbe du bist, und deine Ninja, um den mysteriösen
+  Schattenmeister zu besiegen.
+release: 1993-08-22
+players: 1
+rating: 90%
+x-id: 11
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Shinobi III - Return of the Ninja Master (GERMAN).png
+assets.video: ./media/videos/Shinobi III - Return of the Ninja Master (GERMAN).mp4
+
+
+game: Sonic 3
+file: ./Sonic The Hedgehog 3 (USA).wide.zip
+developer: Sonic Team
+publisher: SEGA
+genre: Plattform-Action
+description:
+  Sechs riesige Welten -- dreimal umfangreicher als Sonic 2!\n
+  Zwei völlig neue Bonuslevel. Viele neue Gegener in Sonics bisher größtem
+  Abenteuer!\n
+  16 Meg -- Spielstand speicherbar!
+release: 1994-02-24
+players: 2
+rating: 80%
+x-id: 1187
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Sonic The Hedgehog 3 (USA).wide.png
+assets.video: ./media/videos/Sonic The Hedgehog 3 (USA).wide.mp4
+
+
+game: Sonic The Hedgehog 2
+file: ./Sonic The Hedgehog 2 (World) (Rev A).wide.zip
+developer: SEGA
+publisher: SEGA
+genre: Plattform-Action
+description:
+  Der Fuchs Tails beobachtet Sonic und wird sein Freund, da er ebenfalls fast so
+  schnell wie Sonic laufen bzw. fliegen kann.
+  .
+  Jedoch versucht Dr. Robotnik erneut die Weltherrschaft an sich zu reißen, indem
+  er alle Tiere wieder einfängt und zudem eine fliegende Festung, dass Death Egg,
+  erschafft. Zudem ist er auf der Suche nach den 7 Chaos Emeralds, die ihn nahezu
+  unbesiegbar machen könnten.
+  .
+  Nur Sonic und sein Freund Tails sind in der Lage ihm das Handwerk aufs Neue zu
+  legen.
+  .
+  Nach einer langen Reise durch viele verschiedene Zonen gelangt Sonic auf das
+  Death Egg. Dort muss er sich zunächst seinem Roboter-Ebenbild Silver-Sonic
+  stellen, bevor er zu Robotniks Riesenroboter gelangen kann. In einem
+  langwierigen Kampf gegen den Death Egg Robot kann Sonic Dr. Robotnik schließlich
+  besiegen, worauf hiernach das ganze Death Egg zusammenbricht.
+  .
+  Mit allen sieben Chaos Emeralds verwandelt sich Sonic, sofern man sie gesammelt
+  hat, in Super Sonic, sofern man sie nicht gesammelt hat fliegt nun Sonic auf den
+  Tragflächen von Sonics Propellerflugzeug Tornado davon.
+release: 1992-01-01
+players: 2
+rating: 80%
+x-id: 3
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Sonic The Hedgehog 2 (World) (Rev A).wide.png
+assets.video: ./media/videos/Sonic The Hedgehog 2 (World) (Rev A).wide.mp4
+
+
+game: Sonic The Hedgehog
+file: ./Sonic The Hedgehog (USA, Europe).wide.zip
+developer: SEGA
+publisher: SEGA
+genre: Plattform-Action
+description:
+  Durchbrechen Sie die Videospiel-Geschwindigkeitsbarriere mit Sonic The Hedgehog.
+  Fetzen Sie mit dem Super Sonic Spin Attack (Überschall-Drehangriff) wie ein
+  Wirbelwind herbei. Überwinden Sie die Schwerkraft mit einem Loop. Und sie können
+  sogar in einem sich um 360 Grad drehenden Irrgarten herumwirbeln. So etwas haben
+  Sie noch nicht erlebt!
+release: 1991-06-23
+players: 1
+rating: 80%
+x-id: 5
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Sonic The Hedgehog (USA, Europe).wide.png
+assets.video: ./media/videos/Sonic The Hedgehog (USA, Europe).wide.mp4
+
+
+game: Street Fighter II - World Warrior Plus (04-07-2021)
+file: ./Street Fighter II - World Warrior Plus (04-07-2021).zip
+players: 1
+x-id: 0
+x-source: ScreenScraper.fr
+
+
+game: Streets of Rage 2
+file: ./Streets of Rage 2 (USA).zip
+developer: SEGA
+publisher: SEGA
+genre: Beat'em Up
+description:
+  Nach dem großen Erfolg des ersten Spiels veröffentlichte Sega bereits 1992 den
+  zweiten Teil der Serie, der ebenfalls für den Game Gear und das Master System
+  umgesetzt wurde. Die grundlegenden Unterschiede zu Streets of Rage waren nur
+  marginal. Grafik und Sound wurden jedoch entscheidend verbessert, und der Umfang
+  des Spiels (Segas erstes 16-Megabit-Modul überhaupt) wurde wesentlich erweitert,
+  jede Stage verfügte nun über zahlreiche Teilabschnitte.
+  .
+  Alle vier Charaktere verfügten nun über ansprechende und vielfältige
+  Animationsphasen, die Gegnerschar wurde dramatisch aufgestockt, und der
+  Schwierigkeitsgrad fiel im Gegensatz zum Erstling etwas moderater aus.
+  Hardcore-Zocker wurden jedoch mit dem neuen Mania-Schwierigkeitsgrad
+  zufriedengestellt. Darüber hinaus gab es zwei neue Figuren zur Auswahl: den
+  Rollschuhfahrer Skate Hunter und den Wrestler Max Thunder. Diese ersetzten Adam
+  Hunter, der nach einem Kidnapping durch Mr X verschwand und erst in Teil 3
+  wieder auftauchte.
+release: 1992-12-01
+players: 2
+rating: 80%
+x-id: 20
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Streets of Rage 2 (USA).png
+assets.video: ./media/videos/Streets of Rage 2 (USA).mp4
+
+
+game: Streets of Rage 3
+file: ./Streets of Rage 3 (USA).zip
+developer: SEGA
+publisher: SEGA
+genre: Action-Beat'em Up
+description:
+  Endlich: Die Fortsetzung der Kampfsportknaller-Serie! 24 Meg randvoll mit
+  knallharter Action. In über einem halben Dutzend Levels musst du die Unschuld
+  Axels beweisen. Wähle einen von vier Charakteren und beginne dein Abenteuer in
+  den Streets of Rage! für einen oder 2 Spieler
+release: 1994-03-17
+players: 2
+rating: 80%
+x-id: 143230
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Streets of Rage 3 (USA).png
+assets.video: ./media/videos/Streets of Rage 3 (USA).mp4
+
+
+game: Super Street Fighter II
+file: ./SF II' - Turbo (USA) (Proto) (Unl) (Pirate) [b].zip
+developer: Capcom
+publisher: Capcom
+genre: Kampf
+description:
+  Super Street Fighter 2: The New Challengers für Mega Drive: Super Street Fighter
+  II ist eine Fortsetzung von Street Fighter II Turbo und Street Fighter II
+  Championship. Das Spiel verfügt über vier neue Charaktere und Bühnen, so dass
+  insgesamt sechzehn spielbar sind. Neben dem Einzelspieler-Modus gibt es auch
+  viele Mehrspieler-Modi. Darunter ist die wiederkehrende
+  Eliminierungsgruppenschlacht, bei der die Spieler um den Titel des Champions
+  kämpfen, und die Punkteschlacht, bei der die Person mit den meisten Punkten
+  gewinnt. Neuere Modi beinhalten ein 8-Mann-Doppelausscheidungs-Turnier und einen
+  Challenge-Modus, in dem Spieler versuchen, die meisten Punkte auf einen
+  CPU-Gegner zu bekommen oder ihn so schnell wie möglich zu schlagen, um Rekorde
+  zu übertreffen.
+release: 1994-01-01
+players: 2
+rating: 90%
+x-id: 80
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/SF II' - Turbo (USA) (Proto) (Unl) (Pirate) [b].png
+assets.video: ./media/videos/SF II' - Turbo (USA) (Proto) (Unl) (Pirate) [b].mp4
+
+
+game: Teenage Mutant Ninja Turtles : Tournament Fighters
+file: ./Teenage Mutant Ninja Turtles - Tournament Fighters (USA).zip
+developer: Konami
+publisher: Konami
+genre: Kampf
+description:
+  Das Spiel verfügt über die ursprünglichen 4 Turtles aus den vorherigen Spielen
+  der Serie, sowie neue Kämpfer. Das Spiel ist in der Tradition der Mortal Kombat
+  oder Street Fighter-Serie angelegt. Einige Kämpfer (neben den Turtles) werden
+  ihnen vertraut sein, wie der Rattenkönig oder sogar Shredder (hier nennt er sich
+  "Cyber-Shredder"). Die Spielmodi beinhalten einen Story-Modus, in dem Sie nur
+  einen der Turtles auswählen und gegen Gegner kämpfen können, um April und
+  Splinter zu retten. Im Turniermodus kämpfen Sie um Ruhm und Geld.
+release: 1993-12-02
+players: 2
+rating: 55%
+x-id: 122
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Teenage Mutant Ninja Turtles - Tournament Fighters (USA).png
+assets.video: ./media/videos/Teenage Mutant Ninja Turtles - Tournament Fighters (USA).mp4
+
+
+game: The Adventures of Batman & Robin
+file: ./Adventures of Batman & Robin, The (USA).zip
+developer: Clockworks Entertainment
+publisher: SEGA
+genre: Beat'em Up-Action
+description:
+  Basierend auf der preisgekrönten TV-Serie "Die Abenteuer von Batman und Robin"
+  tritt der Spieler gegen den teuflischen Mr. Freeze an, der Gotham mit einer
+  riesigen Eiskanone und seiner angeheuerten Hilfe von anderen
+  Gotham-Superschurken befreien will: Dem Joker, Mad Hatter und Two-Face. Der
+  Spieler kann entweder die Rolle von Batman oder Robin übernehmen, aber diese
+  Wahl macht keinen Unterschied in Bezug auf das Gameplay.
+  .
+  Dies ist ein Side-Scrolling-Action-Spiel. Der Spieler läuft im Grunde von links
+  nach rechts, während er im Nahkampf gegen zahlreiche Feinde kämpft. Waffen, die
+  während der Level gefunden werden, werden verwendet, um Feinde aus größerer
+  Entfernung zu erschießen. Diese Waffen können auch durch Aufheben der
+  entsprechenden Symbole aufgerüstet werden.
+release: 1995-01-01
+players: 2
+rating: 70%
+x-id: 52
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Adventures of Batman & Robin, The (USA).png
+assets.video: ./media/videos/Adventures of Batman & Robin, The (USA).mp4
+

@@ -1,0 +1,1131 @@
+collection: Nintendo Entertainment System
+shortname: nes
+extensions: fds, nes, unf, unif
+launch: am start
+  -n com.retroarch/.browser.retroactivity.RetroActivityFuture
+  -e ROM {file.path}
+  -e LIBRETRO /data/data/com.retroarch/cores/fceumm_libretro_android.so
+  -e CONFIGFILE /storage/emulated/0/Android/data/com.retroarch/files/retroarch.cfg
+  -e QUITFOCUS
+  --activity-clear-task
+  --activity-clear-top
+  --activity-no-history
+game: A Nightmare on Elm Street
+file: ./Nightmare on Elm Street, A (USA).nes
+developer: Rareware
+publisher: LJN
+genre: Plattform
+description:
+  Nightmare hat zwei Welten. In der rot gefärbten "realen Welt" kämpfen die
+  Spieler gegen Schlangen und Spinnen, während sie die Standard-Herausforderungen
+  der Plattform meistern. Spieler haben hier eine "Schlafanzeige", die sich mit
+  jedem Treffer verbraucht. Wenn die Schlafanzeige des Spielers leer ist, wechselt
+  das Spiel in die blau gefärbte "Traumwelt", in der die Gegner das Aussehen von
+  Skeletten und Geistern annehmen. Außerdem startet ein unsichtbarer Timer, der
+  herunterzählt, bis Freddy erscheint und den Spieler zu einem kurzen Bosskampf
+  zwingt. Die Schlafanzeige wird in der Traumwelt zu einer normalen Lebensanzeige
+  und zieht dem Spieler ein Leben ab, wenn sie leer ist.
+release: 1990-10-02
+players: 4
+rating: 55%
+x-id: 1350
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Nightmare on Elm Street, A (USA).png
+assets.video: ./media/videos/Nightmare on Elm Street, A (USA).mp4
+
+
+game: Aladdin
+file: ./Aladdin (1995) (Unl) [!].nes
+developer: NMS Software
+publisher: Virgin
+genre: Plattform
+description:
+  Der Spieler steuert Aladdin durch Schauplätze, die dem Film entlehnt sind.
+  Palastwachen des Sultans und verschiedene Tiere behindern sein Fortkommen.
+  Aladdin kann sie entweder mit Hilfe eines Säbels (Scimitar) im Nahkampf oder
+  eines begrenzten Vorrats an Äpfeln aus der Ferne bekämpfen. Daneben gibt es
+  Geschicklichkeitspassagen wie das Überspringen von Hindernissen und gefährlichen
+  Abschnitten oder Hüpfpassagen zum Erreichen weiterführender Spielabschnitte.
+  Innerhalb des Levels können verschiedenen Gegenstände wie Äpfel, Edelsteine zum
+  Erwerb von Extra-Leben sowie Genie- und Abu-Symbole eingesammelt werden, mit
+  denen Bonuslevel freigeschaltet werden. Das reguläre Spiel besteht aus zehn
+  Leveln und endet mit der finalen Konfrontation zwischen Aladdin und Jafar.
+release: 1994-12-27
+players: 1
+rating: 65%
+x-id: 1319
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Aladdin (1995) (Unl) [!].png
+assets.video: ./media/videos/Aladdin (1995) (Unl) [!].mp4
+
+
+game: ANOES_SOHM_DEMAKE_v0.02
+file: ./ANOES_SOHM_DEMAKE_v0.02.nes
+players: 1
+x-id: 0
+x-source: ScreenScraper.fr
+
+
+game: Balloon Fight
+file: ./Balloon Fight (USA).nes
+developer: Nintendo
+publisher: Nintendo
+genre: Plattform
+description:
+  In Balloon Fight müssen Sie mit Hilfe von zwei Ballons herumfliegen und
+  versuchen, die Ballons Ihrer Gegner platzen zu lassen, bevor sie Ihre platzen
+  lassen. Wenn Sie auf Ihren Gegnern landen, wird deren Ballon platzen und sie
+  werden einen Fallschirm benutzen, um sich in Sicherheit zu bringen. Sie müssen
+  dann den gefallenen Gegner zerstören, indem Sie in ihn hineinlaufen, bevor er
+  einen neuen Ballon aufblasen und den Kampf wieder aufnehmen kann. Sollten beide
+  Ballons platzen, fallen Sie ins Wasser und verlieren ein Leben. Es gibt auch
+  eine zweite Spielvariante namens "Ballonfahrt", bei der Sie so viele Ballons wie
+  möglich einsammeln müssen, während Sie dem Ozean unter Ihnen und Blitzen
+  ausweichen, die labyrinthartige Wände bilden.
+release: 1986-06-02
+players: 2
+rating: 70%
+x-id: 1453
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Balloon Fight (USA).png
+assets.video: ./media/videos/Balloon Fight (USA).mp4
+
+
+game: Bubble Bobble
+file: ./Bubble Bobble (GER).nes
+developer: Taito
+publisher: Taito
+genre: Plattform
+description:
+  Bubble Bobble ist die Geschichte zweier Menschen, Bub und Bob, die in die
+  mysteriöse Monsterhöhle schlendern und sich auf magische Weise in Drachen
+  verwandeln. Die einzige Möglichkeit, sich zurück zu verwandeln, besteht darin,
+  das Ende der Höhle zu erreichen...
+  .
+  Bubble Bobble ist ein Plattformspiel, bei dem jedes Level ein Bildschirm ist.
+  Alle Feinde müssen in einem Level besiegt werden, um zum nächsten zu gelangen.
+  Mit einem Spieler, der Bub kontrolliert und dem anderen, der Bob kontrolliert,
+  kann der Spieler springen und Gegenstände für Punkte (wie Obst) sammeln. Die
+  wahre Kraft, die Bub und Bob haben, ist jedoch die Fähigkeit, Blasen zu blasen.
+  Diese Blasen können als Plattformen dienen, auf die man springen kann, oder man
+  kann Feinde in ihnen fangen. Auf Feinde, die in einer Blase gefangen sind, muss
+  man springen, damit diese zu Früchten werden. Außerdem schweben manchmal
+  Power-Ups in Blasen. Dazu gehören Blitze, die Feinde horizontal treffen, und
+  Wasser, das Spieler und Feinde direkt über Plattformen nach unten spült. Wenn
+  Sie zu lange brauchen, um ein Level zu beenden, wird Baron Von Blubba gerufen,
+  der auf dem Bildschirm herumschwebt und versucht, den Spieler zu zerstören.
+release: 1990-10-26
+players: 2
+rating: 80%
+x-id: 1304
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Bubble Bobble (GER).png
+assets.video: ./media/videos/Bubble Bobble (GER).mp4
+
+
+game: CandymanBMV_Demake_V0.12
+file: ./CandymanBMV_Demake_V0.12.nes
+players: 1
+x-id: 0
+x-source: ScreenScraper.fr
+
+
+game: Castlevania II : Simon's Quest
+file: ./Castlevania II - Simon's Quest (GER).nes
+developer: Nintendo
+publisher: Konami
+genre: Abenteuer
+description:
+  Castlevania II: Simon's Quest ist das zweite von drei Castlevania-Spielen, die
+  auf dem NES erschienen sind. Nachdem der Vampirkiller Simon Belmont im
+  ursprünglichen Castlevania (1987) den Grafen Dracula vernichtet hat, wurde er
+  von einem bösen Fluch besessen. Die einzige Möglichkeit für Simon, den Fluch des
+  Grafen zu brechen, besteht darin, fünf von Draculas Körperteilen zu finden (die
+  auf mysteriöse Weise in ganz Transsylvanien verstreut sind) und sie zu
+  verbrennen.
+  .
+  Im Gegensatz zu den meisten anderen Castlevania-Spielen gibt es in Simon's Quest
+  keine traditionellen Stages, sondern Sie können das Land Transsylvanien im Stil
+  von Nintendos Metroid frei durchstreifen. In mehreren Städten kann Simon mit
+  NPCs sprechen und Gegenstände in Geschäften kaufen, was dem Spiel einen Hauch
+  von Rollenspiel verleiht.
+release: 1990-04-27
+players: 1
+rating: 80%
+x-id: 1281
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Castlevania II - Simon's Quest (GER).png
+assets.video: ./media/videos/Castlevania II - Simon's Quest (GER).mp4
+
+
+game: Castlevania
+file: ./Castlevania (GER).nes
+developer: Konami
+publisher: Konami
+genre: Abenteuer
+description:
+  Alle hundert Jahre ersteht der dunkle Vampir Dracula wieder auf und terrorisiert
+  das Land. Ein Vampirjäger namens Simon Belmont wagt sich mutig in die Villa des
+  Grafen, um ihn zu besiegen. Auf seinem Weg muss er Skelette, Fledermäuse,
+  Fischmenschen, Medusen-Köpfe und andere böse Kreaturen besiegen.
+release: 1988-12-19
+players: 1
+rating: 80%
+x-id: 1268
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Castlevania (GER).png
+assets.video: ./media/videos/Castlevania (GER).mp4
+
+
+game: Donkey Kong Classics
+file: ./Donkey Kong Classics (GER).nes
+developer: Nintendo
+publisher: Nintendo
+genre: Sammlung
+description:
+  Donkey Kong Classics sind zwei NES-Spiele in einem. Es sind Donkey Kong und
+  Donkey Kong Jr., vereint auf einem Modul, beide entsprechen genau den
+  Originalen. Auf dem Titelbildschirm lassen sich die beiden Spiele getrennt
+  voneinader auswählen. Beide Spiele haben jeweils zwei Schwierigkeitsgrade für
+  einen oder zwei Spieler.
+release: 1989-08-10
+players: 2
+rating: 70%
+x-id: 18641
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Donkey Kong Classics (GER).png
+assets.video: ./media/videos/Donkey Kong Classics (GER).mp4
+
+
+game: Donkey Kong Jr.
+file: ./Donkey Kong Jr. (World).nes
+developer: Nintendo
+publisher: Nintendo
+genre: Plattform
+description:
+  Donkey Kong Jr. ist die Fortsetzung des Erfolgspiels Donkey Kong. Der Spieler
+  steuert diesmal Donkey Kongs Sohn, Donkey Kong Jr., um seinen Vater aus den
+  Klauen von Mario zu befreien, der ihn gefangen hält. Während man im ersten Teil
+  noch springen und laufen musste, muss man in diesem Spiel, wie für einen Affen
+  typisch, über Lianen und Ranken klettern. Dabei sammelt man den Schlüssel für
+  den Käfig, in dem Donkey Kong gefangen gehalten wird, ein. Nach vier
+  erfolgreichen Durchgängen ist Donkey Kong befreit und man erhält Zusatzpunkte.
+  Die Freude ist nur kurz, denn Mario sperrt ihn sofort wieder ein und das Ganze
+  beginnt von vorn.
+release: 1987-06-15
+players: 2
+rating: 70%
+x-id: 1351
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Donkey Kong Jr. (World).png
+assets.video: ./media/videos/Donkey Kong Jr. (World).mp4
+
+
+game: Double Dragon II : The Revenge
+file: ./Double Dragon II - The Revenge (USA).nes
+developer: Technos Japan Corp.
+publisher: Acclaim
+genre: Beat'em Up
+description:
+  Die Double Dragons - Billy und Jimmy Lee - sind zurück, um sich für den Verlust
+  von Marion zu rächen. Das Martial-Arts-Duo stellt sich in 9 gefährlichen
+  Missionen den wilden Shadow Warriors, die es mit skrupellosen Straßenbanden,
+  Nunchaku-schwingenden Ninjas und riesigen Mutantenkriegern aufnehmen!\n
+  Auf ihrer unerbittlichen Suche durchqueren sie Baustellen, Hinterhöfe und
+  Unterwasserverstecke, in denen geheime Fahrstühle, stachelbewehrte Decken und
+  krallenbewehrte Roboter auf sie warten.\n
+  In einer noch nie dagewesenen Mission werden die schlimmsten Befürchtungen des
+  tapferen Duos wahr, während sie die große Schlacht zwischen Gut und Böse
+  schlagen. Nicht nur ihr Leben steht auf dem Spiel, sondern das Schicksal der
+  ganzen Welt!
+release: 1990-01-02
+players: 2
+rating: 90%
+x-id: 1277
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Double Dragon II - The Revenge (USA).png
+assets.video: ./media/videos/Double Dragon II - The Revenge (USA).mp4
+
+
+game: Dr. Mario
+file: ./Dr. Mario (Japan, USA).nes
+developer: Nintendo
+publisher: Nintendo
+genre: Puzzle-Puzzle / Fallen
+description:
+  Zu Beginn jedes Levels sieht man verschiedenfarbige Viren auf dem Spielfeld
+  verteilt. Dr. Mario wirft in bestimmten Abständen Pillen auf das Spielfeld. Jede
+  Pille hat zwei Felder, die verschiedenfarbig oder einfarbig sein können (Blau &
+  Gelb - Gelb & Gelb - Blau & Rot usw.). Das Ziel ist, 4 gleichfarbige Felder
+  inkl. Virus übereinander zu legen. Die vier Felder verschwinden nun. Dies muss
+  solange gemacht werden, bis alle Viren getötet wurden.
+  .
+  Im Spiel gibt es auch einen Mehrspielermodus, bei dem zwei Spieler in separaten
+  Spielfeldern gegeneinander antreten. Das Ziel ist nun, als erster sätmliche
+  Viren im eigenen Feld zu zerstören. Sobald man mehrere Viren eliminiert hat oder
+  eine Kettenreaktion einleitet, fallen beim Gegner zusätzliche Pillen ins
+  Spielfeld. Sobald ein Feld von sämtlichen Viren befreit worden ist, oder das
+  Feld eines Spielers vor Pillen überquillt, ist eine Runde beendet. Der erste
+  Spieler, der drei Runden gewonnen hat, gewinnt auch das Spiel.
+release: 1990-10-02
+players: 2
+rating: 75%
+x-id: 1340
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Dr. Mario (Japan, USA).png
+assets.video: ./media/videos/Dr. Mario (Japan, USA).mp4
+
+
+game: Excitebike
+file: ./Excitebike (Japan, USA).nes
+developer: Nintendo
+publisher: Nintendo
+genre: Sport-Rennen, Fahren
+description:
+  Fahren Sie alleine gegen die Uhr oder konkurrieren Sie mit anderen
+  Motocross-Fahrern auf 5 Strecken voller langer Geraden, großer Sprünge und
+  Hindernisse, um die Excitebike-Meisterschaft zu gewinnen.
+  .
+  Erstellen Sie Ihre eigenen Strecken, indem Sie Sprünge und Hindernisse in
+  verschiedenen Größen und Formen auf der Strecke platzieren und auswählen, wie
+  viele Runden jedes Rennen haben soll, und fahren Sie dann gegen die Uhr oder
+  andere Fahrer, um zu sehen, wie Ihre Strecke im Wettbewerb abschneidet.
+release: 1985-10-18
+players: 1
+rating: 70%
+x-id: 1371
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Excitebike (Japan, USA).png
+assets.video: ./media/videos/Excitebike (Japan, USA).mp4
+
+
+game: F13RTCB_DEMAKE_v1.52
+file: ./F13RTCB_DEMAKE_v1.52.nes
+players: 1
+x-id: 0
+x-source: ScreenScraper.fr
+
+
+game: Final Fantasy
+file: ./Final Fantasy (GER).nes
+developer: Squaresoft
+publisher: Nintendo
+genre: Rollenspiele
+description:
+  Zu Beginn des Spiels scheinen die vier Elemente, die die Welt beherrschen, aus
+  den Fugen zu geraten: Die Erde verdorrt, Feuer verbrennen das Land, die Meere
+  schäumen und die Winde bleiben aus. Einer Prophezeiung des Weisen Lukan zufolge
+  sollen Krieger, die vier Kristalle ihr Eigen nennen, die sogenannten „Krieger
+  des Lichts“, das Gleichgewicht wiederherstellen. Diese vier Krieger erscheinen
+  in der Stadt Cornelia – über ihre Hintergründe oder wie sie an die Kristalle
+  gelangt sind, wird nichts gesagt. Der König von Cornelia beauftragt die vier,
+  seine Tochter, Prinzessin Sela, zu befreien. Der ehemalige Ordensritter Garland
+  hat Sela entführt und hält sie gefangen, um den König zu erpressen. Die Krieger
+  ziehen daraufhin zum Chaos-Tempel, wo sich Garland versteckt hält, töten diesen
+  und befreien die Prinzessin.
+  .
+  Nach weiteren Reisen in die von Piraten heimgesuchte Stadt Pravoka und nach
+  Elfenstadt treffen die Krieger in Crescent auf Lukan, den Urheber der sie
+  betreffenden Prophezeiung. Er berichtet ihnen, dass sich vier Monster, die
+  Chaosse, in den Kristallschreinen eingenistet hätten und diese dadurch
+  verdunkeln würden. Es liegt nun an den Kriegern, die Monster zu besiegen und
+  mithilfe ihrer eigenen Kristalle den Glanz der Schreine wiederherzustellen.
+release: 1990-07-12
+players: 1
+rating: 70%
+x-id: 1252
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Final Fantasy (GER).png
+assets.video: ./media/videos/Final Fantasy (GER).mp4
+
+
+game: Friday the 13th
+file: ./Friday the 13th (GER).nes
+developer: Pack In Video
+publisher: LJN
+genre: Action
+description:
+  Basierend auf der beliebten Filmreihe "Freitag der 13." schlüpfst du in die
+  Rolle eines von sechs Betreuern (drei Mädchen oder drei Jungen) im berüchtigten
+  Camp Crystal Lake und hast die Aufgabe, Jason Voorhees ein für alle Mal zu
+  vernichten. Um Jason zu finden, musst du durch das Camp laufen, Zombie-Ghouls
+  töten und Waffen sammeln, bis du einen Alarmton hörst. Wenn der Alarm losgeht,
+  bedeutet das, dass Jason eine Hütte betreten hat und du ihn finden musst. Um
+  Zeit zu sparen, kannst du zwischen allen sechs Betreuern wechseln, je nachdem,
+  wo du dich gerade befindest. Sobald du das Haus betrittst, in dem sich Jason
+  befindet, wechselt das Spiel in ein 3D-ähnliches Labyrinth, in dem du Jason mit
+  den von dir gesammelten Gegenständen verletzen musst. Sobald er genug Schaden
+  genommen hat, läuft er weg, um später ein anderes Haus zu betreten und erneut
+  Alarm zu schlagen.
+release: 1989-02-02
+players: 1
+rating: 45%
+x-id: 1456
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Friday the 13th (GER).png
+assets.video: ./media/videos/Friday the 13th (GER).mp4
+
+
+game: Galaga : Demons of Death
+file: ./Galaga - Demons of Death (USA).nes
+developer: Namco
+publisher: Bandai
+genre: Shoot'em Up / Vertikal-Shoot'em Up
+description:
+  Galaga ist ein vertikaler Arcade-Shooter von Namco. Sie steuern einen Raumjäger
+  am unteren Bildschirmrand und scrollen nach links und rechts, um
+  entgegenkommende Bomben und Kamikaze-Angriffe von außerirdischen Invasoren zu
+  vermeiden - und um Ihre eigenen Raketen abzufeuern, um sich zu wehren!
+  .
+  Es gibt unendlich viele Stufen, die durchlaufen werden müssen. Jedes dritte
+  Level ist eine "Herausforderungsphase", in der Sie die freie Chance haben, so
+  viele Aliens wie möglich zu erschießen und Bonuspunkte zu sammeln.
+  .
+  Bestimmte Aliens haben Traktorstrahlen, mit denen sie eines Ihrer Schiffe
+  erobern können. Wenn das nicht dein letztes "Leben" war, kannst du versuchen,
+  dieses Alien abzuschießen und dein Schiff zurückzuerobern, indem du zwei Schiffe
+  gleichzeitig hast und deine Feuerkraft verdoppelst.
+  .
+  Nach Spielende wird ein Zusammenfassungsbildschirm angezeigt, in dem Sie sowohl
+  Ihre endgültige Punktzahl als auch Ihre endgültige "Trefferquote" angeben - die
+  Anzahl der abgefeuerten Raketen, die zerstörten Feinde und den Prozentsatz der
+  getroffenen Ziele.
+release: 1988-09-01
+players: 2
+rating: 75%
+x-id: 1531
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Galaga - Demons of Death (USA).png
+assets.video: ./media/videos/Galaga - Demons of Death (USA).mp4
+
+
+game: Ghosts 'n Goblins
+file: ./Ghosts'n Goblins (USA).nes
+developer: Capcom
+publisher: Capcom
+genre: Action-Plattform
+description:
+  Ghosts'n Goblins ist ein seitwärts scrollender Action-Plattformer, der sich über
+  sechs Levels erstreckt, von denen jeder innerhalb von drei Minuten abgeschlossen
+  werden muss (oder ein Leben ist verloren), wobei die Schauplätze Wald, Dorf,
+  Berg und Höhle mit steigendem Schwierigkeitsgrad sind.
+  .
+  Arthur, der tapfere Ritter, muss seine geliebte Prinzessin vor dem Dämonenkönig
+  Astaroth und seinen Truppen retten - darunter sind verschiedene Untote (Geister,
+  Zombies), Fledermäuse, Oger und Goblins. Weitere Herausforderungen sind
+  bewegliche Plattformen, Leitern und Wasser-/Feuergefahren.
+  .
+  Wie in den meisten Spielen dieses Genres kann der Spieler im Laufe des Spiels
+  Power-Ups wie Dolche und Bomben aufsammeln, die dem Spieler mehr Feuerkraft
+  verleihen.
+release: 1986-11-02
+players: 2
+rating: 75%
+x-id: 1273
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Ghosts'n Goblins (USA).png
+assets.video: ./media/videos/Ghosts'n Goblins (USA).mp4
+
+
+game: Gradius
+file: ./Gradius (USA).nes
+developer: Konami
+publisher: Konami
+genre: Shoot'em Up / Horizontal-Shoot'em Up
+description:
+  Die Menschen von Gradius sind in Schwierigkeiten. Die ameoboiden Bacterions
+  haben einen Großangriff auf den Planeten gestartet, und es liegt an dir, in die
+  Schlacht zu fliegen und sie zu retten. Auf dem Weg dorthin können Sie Ihr Schiff
+  mit Hypergeschwindigkeit, Kraftfeldern, Lasern, Raketen, Doppelstrahlkanonen und
+  vielem mehr aufrüsten, um Sie im Kampf zu unterstützen. Gradius basiert auf dem
+  Arcade-Spiel und ist ein seitlich scrollender Shooter. Wenn Sie bestimmte Feinde
+  abschießen, bleibt ein Power-Up-Pod zurück, den Sie einsammeln können, um Ihrem
+  Schiff mehr Power zu verleihen. In jedem Level gibt es eine Vielzahl von
+  Gegnern, die versuchen, Sie aufzuhalten, mit einem großen Endgegner am Ende.
+  Gameplay ist für einen Spieler oder zwei Spieler abwechselnd.
+release: 1986-12-02
+players: 2
+rating: 70%
+x-id: 1339
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Gradius (USA).png
+assets.video: ./media/videos/Gradius (USA).mp4
+
+
+game: HALLO31_DEMAKE_v0.02
+file: ./HALLO31_DEMAKE_v0.02.nes
+players: 1
+x-id: 0
+x-source: ScreenScraper.fr
+
+
+game: Ice Climber
+file: ./Ice Climber (GER).nes
+developer: Nintendo
+publisher: Nintendo
+genre: Plattform-Plattform / Jump'n'Run
+description:
+  In Ice Climber müssen ein oder zwei Spieler den Gipfel von 32 verschiedenen
+  Bergen erklimmen. Jeder Berg ist in acht Ebenen mit Plattformen unterteilt, und
+  auf der Spitze befindet sich eine Bonus-Ebene. Verschiedene Kreaturen, vom
+  Eisbären bis zum Kondor, sowie tückische Landschaften mit herabfallenden
+  Eiszapfen, sich bewegenden Plattformen und vereisten Böden versuchen, Sie am
+  Aufstieg zu hindern. Als einzige Waffe steht Ihnen ein Hammer zur Verfügung, mit
+  dem Sie sowohl Gegner ausschalten als auch Ziegelsteine von den Plattformen
+  wegsprengen können, um Platz für den Sprung auf die nächste Ebene zu schaffen.
+  Wenn Sie endlich oben angekommen sind, ist es Zeit, zum nächsten, schwierigeren
+  Level überzugehen.
+release: 1986-09-01
+players: 2
+rating: 60%
+x-id: 1356
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Ice Climber (GER).png
+assets.video: ./media/videos/Ice Climber (GER).mp4
+
+
+game: Ikari III : The Rescue
+file: ./Ikari III - The Rescue (USA).nes
+developer: SNK
+publisher: SNK
+genre: Action-Beat'em Up
+description:
+  Die Tochter des Präsidentschaftskandidaten wurde gekidnappt! Deine Aufgabe ist
+  es, die feindlichen Linien zu überwinden und sie zu retten. Dies ist das dritte
+  Spiel in der Ikari Warriors-Serie und bietet ein ähnliches
+  Arcade-/Action-Gameplay. Der Bildschirm ist eine Top-Down-Ansicht, die vertikal
+  scrollt, mit zahlreichen Bösewichten, die es zu besiegen gilt. Du beginnst das
+  Spiel nur mit deinen Fäusten, doch im Laufe der Levels kannst du Waffen und
+  andere Objekte finden, die dir helfen.
+release: 1991-02-01
+players: 2
+rating: 75%
+x-id: 1694
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Ikari III - The Rescue (USA).png
+assets.video: ./media/videos/Ikari III - The Rescue (USA).mp4
+
+
+game: Ikari Warriors II : Victory Road
+file: ./Ikari Warriors II - Victory Road (USA).nes
+developer: SNK
+publisher: SNK
+genre: Action-Shooter-Shooter / Run and Gun
+description:
+  Die Geschichte setzt direkt am Ende von Ikari Warriors ein. Von General Kawasaki
+  für ihre Rettung gelobt, kehren Paul und Vince (auch Ralf und Clark genannt) in
+  einem vom General gecharterten Flugzeug in ihr Heimatland zurück. Ein
+  mysteriöser Sturm taucht auf und sie werden Tausende von Jahren in die Zukunft
+  (oder eine andere Dimension!) geschleudert. Dort werden sie von einer
+  außerirdischen Kreatur begrüßt, die ihnen mitteilt, dass der böse Zang Zip
+  (Zangelt) die Kontrolle über diese Welt übernommen hat.\n
+  Um ihnen auf dem Weg nach Hause zu helfen, benutzen sie ihre alten und neuen
+  Schusswaffen, um immer mehr Feinde zu besiegen, wie z. B. zyklopische grüne
+  Männer, oder steinköpfige Bestien und schließlich den bösen Zangelt.
+release: 1988-04-02
+players: 2
+rating: 40%
+x-id: 1772
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Ikari Warriors II - Victory Road (USA).png
+assets.video: ./media/videos/Ikari Warriors II - Victory Road (USA).mp4
+
+
+game: Ikari Warriors
+file: ./Ikari Warriors (USA).nes
+developer: Micronics
+publisher: SNK
+genre: Shooter / Run and Gun-Shooter
+description:
+  Ikari Warriors ist eine Umsetzung des Arcade-Spiels und ein vertikal scrollendes
+  Actionspiel. Ein oder zwei Spieler kämpfen sich durch verschiedenes Terrain, wie
+  Dschungel, Flüsse und Ruinen. Auf dem Weg können verschiedene Waffen gefunden
+  werden, darunter Maschinengewehre, Granaten und Raketenwerfer.
+release: 1987-05-01
+players: 2
+rating: 50%
+x-id: 1346
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Ikari Warriors (USA).png
+assets.video: ./media/videos/Ikari Warriors (USA).mp4
+
+
+game: Jay and Silent Bob - Mall Brawl
+file: ./Jay and Silent Bob - Mall Brawl (U).nes
+developer: Interabang Entertainment
+publisher: Limited Run Games
+genre: Beat'em Up
+description:
+  Jay and Silent Bob: Mall Brawl ist ein umfangreiches
+  8-Bit-Retro-Beat-em-up-Erlebnis mit großen Levels, großen Bösewichten, die es zu
+  bekämpfen gilt, und vielen Anspielungen auf das View Askewniverse.\n
+  In einem Einzelspieler-Erlebnis, in dem Sie strategisch zwischen Jay und Silent
+  Bob hin- und herwechseln, oder im kooperativen Modus zu zweit bahnen Sie sich
+  einen Weg durch Ganoven, Kriminelle und Sicherheitsleute, um aus dem
+  Einkaufszentrum zu entkommen und zum Quickstop zurückzukehren.
+release: 2020-01-20
+players: 2
+x-id: 367540
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Jay and Silent Bob - Mall Brawl (U).png
+assets.video: ./media/videos/Jay and Silent Bob - Mall Brawl (U).mp4
+
+
+game: Kickle Cubicle
+file: ./Kickle Cubicle (USA).nes
+developer: Irem
+publisher: Nintendo
+genre: Puzzle
+description:
+  Das Königreich ist mit Eis bedeckt! Und das wird wohl auch so bleiben, wenn
+  Kickle nicht eingreift!\n
+  Nun ist der grausame Hexenkönig in das Fantasy-Königreich eingebrochen und hat
+  die Vier Länder mit Eis bedeckt. Er hat sich ihrer Bewohner und ihrer Paläste
+  bemächtigt und sie tief im Eis versteckt. Und nun bereitet sich Kickle,
+  bewaffnet mit seinem eisigen Atem, darauf vor, seine Freunde zu retten.\n
+  Kommen Sie und helfen Sie ihm, damit das Königreich nicht länger in einen
+  endlosen Winter gestürzt wird.
+release: 1990-09-01
+players: 1
+rating: 90%
+x-id: 1368
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Kickle Cubicle (USA).png
+assets.video: ./media/videos/Kickle Cubicle (USA).mp4
+
+
+game: Kid Icarus
+file: ./Kid Icarus (GER).nes
+developer: Nintendo
+publisher: Nintendo
+genre: Plattform
+description:
+  Weit weg im friedlichen Land der Engel lebte ein junger Engelskrieger namens
+  Pit, der die Aufgabe erhielt, die monströse Medusa zu besiegen, die das Land der
+  Engel und alle Menschen zerstören will, und sie begann mit der Entführung von
+  Palutena, der Prinzessin der Engel. Erde.
+  .
+  Der junge Pit muss die Prinzessin retten und den Frieden im Land der Engel
+  wiederherstellen. Auf seiner Reise von den tiefen Höhlen der Unterwelt zu
+  Medusas Palast im Himmel wird er von tödlichen Monstern auf Schritt und Tritt
+  angegriffen. Aber er hat die Macht der Götter auf seiner Seite! Ein mächtiger
+  Pfeil und Bogen, Wasser des Lebens und Engelsfedern helfen Pit bei seiner
+  Mission, Medusa zu vernichten und die Prinzessin zu retten!
+release: 1987-02-15
+players: 1
+rating: 75%
+x-id: 1276
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Kid Icarus (GER).png
+assets.video: ./media/videos/Kid Icarus (GER).mp4
+
+
+game: Kirby's Adventure
+file: ./Kirby's Adventure (USA).nes
+developer: HAL Laboratory
+publisher: Nintendo
+genre: Plattform
+description:
+  Als einziges Kirby-Spiel, das jemals für das NES entwickelt wurde, war Kirby's
+  Adventure ein innovatives Jump'n'Run, in dem Kirbys Kopier-Fähigkeit eingeführt
+  wurde.\n
+  Durch Einsaugen von Gegnern kann Kirby Laser abfeuern, in Flammen aufgehen,
+  einen riesigen Hammer benutzen und vieles mehr. Kirby kann auch die
+  Spezial-Power verschiedener Gegner miteinander kombinieren, was manchmal
+  unerwartete Ergebnisse zur Folge hat.\n
+  Außerdem gibt es jede Menge Minispiele zu entdecken. Genau wie Kirby steckt
+  Kirby's Adventure voller Überraschungen!
+release: 1993-05-01
+players: 1
+rating: 80%
+x-id: 1279
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Kirby's Adventure (USA).png
+assets.video: ./media/videos/Kirby's Adventure (USA).mp4
+
+
+game: Lei Dian Huang Bi Ka Qiu Chuan Shuo
+file: ./Pokemon Yellow[!].nes
+developer: Shenzhen Nanjing
+publisher: Shenzhen Nanjing
+description:
+  Lei Dian Huang Bi Ka Qiu Chuan Shuo (also known as Pokémon Yellow) is a pirated
+  game for the NES made by Shenzhen Nanjing. It's generally regarded as being of
+  higher quality compared to Shenzhen Nanjing's other games.
+players: 1
+x-id: 192723
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Pokemon Yellow[!].png
+
+
+game: Mario Bros.
+file: ./Mario Bros. (GER).nes
+developer: Nintendo
+publisher: Nintendo
+genre: Plattform
+description:
+  Mario und Luigi sind einige unterirdische Klempnerarbeiten, wenn alle Arten von
+  seltsamen Kreaturen kommen aus den Rohren fliegen. Schildkröten, Krebse - sogar
+  Kampffliegen - greifen die hilflosen Mario Bros. an. Es liegt an Ihnen, diese
+  Kanalisationsschädlinge zu treten, zu schlagen und auszuschalten, bevor die Zeit
+  abläuft! Aber Vorsicht! Gerade wenn du denkst, dass du sie losgeworden bist,
+  kommen sie zurück und wollen mehr! Spielen Sie gegen den Computer oder mit einem
+  Freund - so oder so, dies ist ein U-Bahn-Klassiker, den Sie immer wieder spielen
+  wollen!
+release: 1993-01-01
+players: 2
+rating: 70%
+x-id: 1271
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Mario Bros. (GER).png
+assets.video: ./media/videos/Mario Bros. (GER).mp4
+
+
+game: Mega Man 2
+file: ./Mega Man 2 (GER).nes
+developer: Capcom
+publisher: Capcom
+genre: Plattform
+description:
+  Nachdem man in Mega Man die sechs Roboter von Dr. Light besiegt hatte, die vom
+  schurkischen Dr. Wily umprogrammiert worden waren, schien die Welt in Sicherheit
+  zu sein. Aber es sollte nicht sein. Dr. Wily ist aus dem Gefängnis geflohen und
+  ist wütender denn je. Diesmal hat er acht neue Robotermeister erschaffen, um die
+  Welt zu übernehmen und Mega Man zu vernichten! Ist die Welt dem Untergang
+  geweiht?
+release: 1990-12-14
+players: 1
+rating: 80%
+x-id: 1255
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Mega Man 2 (GER).png
+assets.video: ./media/videos/Mega Man 2 (GER).mp4
+
+
+game: Metroid
+file: ./Metroid (GER).nes
+developer: Nintendo
+publisher: Nintendo
+genre: Plattform
+description:
+  Metroid ist das erste Spiel der Metroid-Reihe. Es erschien Ende der 1980er Jahre
+  für das Nintendo Entertainment System. Das Spiel wurde von Gunpei Yokoi
+  produziert, der unter anderem den Game Boy entwarf. Ein Remake des Spiels
+  erschien für den Game Boy Advance unter dem Titel Metroid: Zero Mission.
+  Innerhalb dieses Remakes ist das Original-Metroid ein freischaltbares Extra,
+  desweiteren wurde das Spiel auch innerhalb der Classic-Serie für den GBA
+  portiert, und erschien als Download der Virtual Console für Wii. Zusätzlich kann
+  man das Spiel in Metroid Prime freischalten, indem man ein durchgespieltes
+  Metroid Prime-Spiel per Game Boy Advance Game Cube Kabel mit Metroid Fusion
+  verbindet.
+release: 1988-01-15
+players: 1
+rating: 80%
+x-id: 1256
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Metroid (GER).png
+assets.video: ./media/videos/Metroid (GER).mp4
+
+
+game: Ninja Gaiden
+file: ./Ninja Gaiden (GER).nes
+developer: Tecmo
+publisher: Tecmo
+genre: Plattform
+description:
+  Ninja Gaiden beginnt mit einer filmischen Animation, in der sich 2 Ninjas bis
+  zum Tod duellieren; einer geht zu Boden. Es wird enthüllt, dass der dem
+  Untergang geweihte Ninja der Vater von Ryu Hayabusa ist. Als Ryu davon erfährt,
+  begibt er sich auf die Suche, um herauszufinden, wer seinen Vater getötet hat
+  und warum. Diese Suche führt ihn nach Amerika, um einen Archäologen zu finden,
+  mit dem Ryus Vater zusammengearbeitet hat. Von dort aus wird Ryu in eine böse,
+  übernatürliche Verschwörung verwickelt, in die ein Schurke namens Jaquio
+  verwickelt ist, der Pläne hat, eine alte Burg und einige Relikte zu benutzen, um
+  ein schreckliches Übel auf die Welt loszulassen.
+release: 1989-03-02
+players: 1
+rating: 80%
+x-id: 18922
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Ninja Gaiden (GER).png
+assets.video: ./media/videos/Ninja Gaiden (GER).mp4
+
+
+game: Pac-Man
+file: ./Pac-Man (USA).nes
+developer: Namco
+publisher: Namco
+genre: Action-Action / Labyrinth
+description:
+  In einem der beliebtesten und einflussreichsten Spiele der 1980er Jahre, muss
+  sich Pac-Man durch ein Labyrinth arbeiten, um dieses von den verschiedenen
+  Punkten und Früchten zu befreien.
+  .
+  Pac-Mans wird dabei ständig von vier Geistern herausgefordert: dem blauen Geist
+  Bashful (Inky), dem roten Geist Shadow (Blinky), dem rosa Geist Speedy (Pinky)
+  und dem orangefarbenen Geist Pokey (Clyde). Eine Berührung bedeutet für Pac-Man
+  einen Verlust an Leben.
+  .
+  Pac-Man kann seinen Verfolgern den Spieß umdrehen, indem er die vier Energizer
+  im Labyrinth isst. Während dieser Zeit werden die Geister blau und Pac-Man kann
+  sie für Bonuspunkte essen. Dies dauert nur eine begrenzte Zeit, da die Augen des
+  Geistes zurück zu ihrer mittleren Box schweben und sich regenerieren, um Pac-Man
+  erneut zu verfolgen.
+  .
+  Überlebe ein paar Runden Gameplay und werde mit humorvollen Pausen zwischen
+  Pac-Man und den Geistern verwöhnt.
+release: 1993-11-02
+players: 2
+rating: 80%
+x-id: 1327
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Pac-Man (USA).png
+assets.video: ./media/videos/Pac-Man (USA).mp4
+
+
+game: Popeye
+file: ./Popeye (GER).nes
+developer: Nintendo
+publisher: Nintendo
+genre: Plattform
+description:
+  Popeye ist eine Umsetzung des Arcade-Action-Plattformspiels. Als Popeye
+  versuchst du, die Liebe von Olive Oyl zu gewinnen! Sie ist am oberen Rand des
+  Bildschirms und lässt Zeichen ihrer Liebe fallen, die du einsammeln musst, bevor
+  sie auf dem Boden aufschlagen. Wenn du die erforderliche Anzahl von Gegenständen
+  gesammelt hast, kannst du zum nächsten, schwierigeren Level übergehen. Es gibt
+  jedoch viele Hindernisse, die dich davon abhalten wollen, deine Aufgabe zu
+  erfüllen! Brutus wandert auf dem Bildschirm herum und versucht ständig, dich zu
+  fangen. Wenn du eine Dose Spinat einsammelst, kannst du ihn vorübergehend außer
+  Gefecht setzen, andernfalls wird Brutus dich ausknocken. Andere Objekte wie
+  Flaschen oder Vögel fliegen ebenfalls auf dem Bildschirm herum und führen dazu,
+  dass du eines deiner Leben verlierst, wenn du getroffen wirst. In jedem Level
+  gibt es eine andere Anordnung von Plattformen und Leitern, und du musst immer
+  wieder andere Gegenstände einsammeln, die zum unteren Rand des Bildschirms
+  schweben.
+release: 1983-07-15
+players: 2
+rating: 60%
+x-id: 1569
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Popeye (GER).png
+assets.video: ./media/videos/Popeye (GER).mp4
+
+
+game: Punch-Out!!
+file: ./Punch-Out!! (USA).nes
+developer: Nintendo
+publisher: Nintendo
+genre: Sport-Sport / Boxen
+description:
+  Punch-Out!! ist ein Arcade-Box-Spiel, das 1984 von Nintendo entwickelt wurde. Es
+  war das beliebteste Spiel 1984, hatte mehrere Nachfolger und verfügte bereits
+  über Sprachausgabe. Der Spieler muss gegen sechs comicartige Gegner im Boxduell
+  antreten. Seine Figur ist als grünes Drahtgittermodell dargestellt, so dass er
+  die Gegner durch den Körper besser erkennen kann. Die Eingabe erfolgt über einen
+  4-Wege-Joystick und 3 Knöpfe (Schlag mit linkem Arm, rechtem Arm und
+  Aufwärtshaken/Uppercut). Letzterer erfolgt über eine größere Taste und kann nur
+  bei genügend Treffern ausgeführt werden. Eine blinkende KO-Anzeige und die
+  Stimme eines Kampfrichters weisen darauf hin. Der Arcade-Automat verfügt über
+  zwei, übereinanderstehende Monitore, wobei der oberste nur Statistikdaten und
+  Bilder der Boxer anzeigt. Die Gegner werden natürlich immer stärker und
+  schneller. Jeder hat seine eigene Technik und witzige Kommentare. Manche Boxer
+  kommen in mehreren Spielen vor und teilweise gab es auch Merchandising-Produkte.
+release: 1990-08-01
+players: 1
+rating: 85%
+x-id: 1259
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Punch-Out!! (USA).png
+assets.video: ./media/videos/Punch-Out!! (USA).mp4
+
+
+game: Somari
+file: ./Somari.nes
+developer: Somari Team
+publisher: Ge De Industry Co.
+genre: Abenteuer-Plattform
+description:
+  Somari  the Adventurer is a Sonic the Hedgehog port for the NES, with a twist.
+  Instead of Sonic, the player controls Somari, which can be described as Mario in
+  Sonic's shoes, literally.
+  .
+  Overall, the gameplay is quite faithful to the original game, though Somari can
+  spindash (by pressing down and A or B), a feature fist introduced in Sonic the
+  Hedgehog 2. Somari has to collect rings, but unlike in Sonic, if he's hit by an
+  enemy, only three rings will fly out of him, no matter how many rings he's
+  currently carrying.
+  .
+  The level sequence is faithful to the original game, with the exception of the
+  Scrap Brain level, which wasn't finished and thus was removed from the final
+  product. The level design ins't faithful to the original version, with constant
+  changes throughout the game. The items and monsters are the same found in the
+  original game, and the music is as faithfully translated to the NES as possible,
+  with some tempo variations.
+release: 1994-01-01
+players: 1
+rating: 50%
+x-id: 18866
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Somari.png
+assets.video: ./media/videos/Somari.mp4
+
+
+game: StarTropics
+file: ./StarTropics (USA).nes
+developer: Nintendo
+publisher: Nintendo
+genre: Abenteuer
+description:
+  In StarTropics spielst du die Rolle von Michael Jones. Mikes Onkel (Dr. Jones,
+  ein berühmter Archäologe) ist auf C-Island auf der Suche nach verlorenen Ruinen
+  und hat Mike eingeladen, ihn zu besuchen. Doch kurz nach seiner Ankunft auf der
+  Insel erfährt Mike von Häuptling Coralcola, dass Dr. Jones vor kurzem entführt
+  wurde! Nun ist es an Mike, Dr. Jones zu finden und herauszufinden, warum er
+  entführt wurde.
+  .
+  StarTropics ist eine Kombination aus Abenteuer- und Actionspiel, das aus der
+  Vogelperspektive gespielt wird. Mike hat zu Beginn nur ein Insel-Jo-Jo und muss
+  die Insel nach Dr. Jones absuchen. Die Dorfbewohner können ihm vielleicht
+  Hinweise geben, es gibt viele gefährliche Feinde zu besiegen, und auf seinem Weg
+  lassen sich eine Vielzahl neue Waffen und andere Gegenstände finden, die Mike
+  bei seiner Suche helfen. Die Cartridge verfügt über einen Batterie-Backup, um
+  Spiele speichern zu können.
+release: 1990-12-01
+players: 1
+rating: 75%
+x-id: 1539
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/StarTropics (USA).png
+assets.video: ./media/videos/StarTropics (USA).mp4
+
+
+game: Super C
+file: ./Super C (USA).nes
+developer: Konami
+publisher: Konami
+genre: Shooter / Run and Gun-Shooter
+description:
+  Der außerirdische Red Falcon ist zurück und plant die Übernahme des Planeten
+  Erde. Jetzt liegt es an Scorpion und Mad Dog, sich durch fünf Level zu kämpfen
+  und den Planeten zu retten.
+  .
+  Super C basiert auf dem gleichnamigen Arcade-Spiel und ist die Fortsetzung von
+  Contra. Das Gameplay ist eine Kombination aus Side-Scrolling/Plattform und
+  Vogelperspektive. Es gibt eine Vielzahl von Gegnern, angefangen bei irdischen
+  Schauplätzen bis hin zu eher außerirdischen. Zur Unterstützung können im Laufe
+  des Spiels Waffen-Upgrades gefunden werden. Zwei Spieler können gleichzeitig
+  spielen, oder ein Spieler kann es mit Red Falcon allein aufzunehmen.
+release: 1990-04-01
+players: 2
+rating: 80%
+x-id: 1513
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Super C (USA).png
+assets.video: ./media/videos/Super C (USA).mp4
+
+
+game: Super Mario All-Stars NES (emu_v3-24-20)
+file: ./Super Mario All-Stars NES (emu_v3-24-20).nes
+players: 1
+x-id: 0
+x-source: ScreenScraper.fr
+
+
+game: Super Mario Bros. 2 The Lost Levels V2
+file: ./Super Mario Bros. 2 The Lost Levels V2.nes
+players: 1
+x-id: 0
+x-source: ScreenScraper.fr
+
+
+game: Super Mario Bros.
+file: ./Super Mario Bros. (25 Anniversary Hack By Don24crk).nes
+developer: Nintendo
+publisher: Nintendo
+genre: Plattform-Plattform / Jump'n'Run
+description:
+  Super Mario Bros. ist ein Jump-'n'-Run-Videospiel des japanischen Unternehmens
+  Nintendo.\n
+  Der Spieler übernimmt die Rolle des Klempners Mario, der Hindernisse überwinden
+  und Gegner bezwingen muss, um Prinzessin Toadstool aus den Fängen von König
+  Koopa zu befreien. Dazu rennt und springt Mario durch die zweidimensional in
+  Seitenansicht dargestellte Spielwelt.
+  .
+  Die schwarzmagischen Koopas haben das Pilz-Königreich eingenommen und dessen
+  Bewohner, die Mushroom Retainer, in Blöcke, Steine und Pflanzen verwandelt.
+  Prinzessin Toadstool ist als Monarchin des Reiches als einzige in der Lage, den
+  Zauber umzukehren. Allerdings hat König Koopa sie entführt.
+  .
+  Der italienische Klempner Mario erfährt von diesen Geschehnissen. Er bricht zu
+  einem Abenteuer auf, um die Prinzessin aus den Fängen König Koopas zu befreien,
+  damit sie den Zauber umkehren und das Pilzkönigreich retten kann.
+release: 1987-05-15
+players: 2
+rating: 90%
+x-id: 1245
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Super Mario Bros. (25 Anniversary Hack By Don24crk).png
+assets.video: ./media/videos/Super Mario Bros. (25 Anniversary Hack By Don24crk).mp4
+
+
+game: Super Mario World
+file: ./Super Mario World.nes
+developer: Hummer Team
+publisher: J.Y. Company
+genre: Plattform
+description:
+  Super Mario World ist ein von Nintendo entwickeltes und veröffentlichtes
+  Videospiel für das Super Nintendo.\n
+  Wie auch in Super Mario Bros. und Super Mario Bros. 3 besteht die Hauptaufgabe
+  darin, Prinzessin Peach aus den Klauen von Marios Erzfeind Bowser zu befreien.
+  Dazu müssen sich die Protagonisten, Mario und Luigi, durch acht miteinander
+  verbundene Welten und deren Levels kämpfen. Am Ende jeder Welt gibt es einen
+  Endgegner in Form der Koopalinge, als Zwischenbosse dient jeweils eine Gruppe
+  Dinosaurier, die Reznors, in einer Festung. Zudem wird der Dinosaurier Yoshi in
+  das Mario-Universum eingeführt und steht Mario als Reittier zur Verfügung. Yoshi
+  und seine Kameraden wurden von Bowser und seinen Helfern in die Blöcke gesperrt
+  und warten nun darauf, befreit zu werden.
+release: 1995-01-01
+players: 1
+rating: 55%
+x-id: 124553
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Super Mario World.png
+assets.video: ./media/videos/Super Mario World.mp4
+
+
+game: Tecmo Bowl
+file: ./Tecmo Bowl (USA).nes
+developer: Tecmo
+publisher: Tecmo
+genre: Sport-Sport / American Football
+description:
+  Das beliebteste American-Football-Spiel für die NES-Konsole, Tecmo Bowl, lässt
+  den Spieler gegen den Computer in 11 Spielen in einem Ausscheidungsmodus
+  antreten, oder du kannst im Action- oder Trainermodus gegen einen menschlichen
+  Gegner antreten. Es gibt 12 Teams mit echten NFL-Spielern (um 1988) zur Auswahl.
+  Suche aber nicht nach offiziellen NFL-Teamlogos oder Maskottchen wie Bears oder
+  Dolphins - Tecmo Bowl hat die NFLPA, aber nicht die NFL-Lizenz.
+  .
+  Die Spielperspektive ist von oben nach unten und der Bildschirm scrollt
+  horizontal. Die Spielergrafiken sind groß und farbenfroh, was durch die
+  Begrenzung der Anzahl der Spieler auf neun pro Team möglich ist. Animierte
+  Zwischensequenzen werden nach Touchdowns und in der Halbzeitpause gezeigt.
+release: 1989-02-02
+players: 2
+rating: 70%
+x-id: 1982
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Tecmo Bowl (USA).png
+assets.video: ./media/videos/Tecmo Bowl (USA).mp4
+
+
+game: Tetris
+file: ./Tetris (USA).nes
+developer: Nintendo
+publisher: Nintendo
+genre: Puzzle
+description:
+  Diese Version von Tetris ist eine von vielen Umsetzungen des berühmten
+  Blockstapelspiels, sowie die bekannteste (aber nicht die einzige) Version auf
+  Nintendos erster Heimkonsole. Ziel des Spiels ist es, Steine, die aus vier
+  Kacheln bestehen, in einer zehn mal zwanzig großen Vertiefung zu platzieren und
+  sie so zu kompletten Reihen zu organisieren, die dann verschwinden. Mit dem
+  Abräumen von Reihen erhöht sich das Spieltempo, und das Spiel endet, wenn der
+  Stapel den oberen Rand des Brunnens erreicht.
+  .
+  Das Spiel bietet zwei verschiedene Spielmodi, "Typ A" und "Typ B". "Typ A" ist
+  ein standardmäßiger Endlosmodus, bei dem sich die Spielgeschwindigkeit alle zehn
+  Zeilen erhöht, mit einer Option für die Startstufe zu Beginn des Spiels. "Typ B"
+  hingegen ist ein Rennen, um 25 Zeilen abzuräumen, mit Optionen sowohl für die
+  Fallgeschwindigkeit als auch für den Startmüll. In beiden Modi wird ein
+  erfolgreiches Spiel mit niedlichen Animationen belohnt. Außerdem gibt es drei
+  verschiedene Hintergrundlieder zur Auswahl.
+release: 1989-11-01
+players: 1
+rating: 80%
+x-id: 1291
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Tetris (USA).png
+assets.video: ./media/videos/Tetris (USA).mp4
+
+
+game: The Legend of Zelda
+file: ./Legend of Zelda, The (GER).nes
+developer: Nintendo
+publisher: Nintendo
+genre: Rollenspiele
+description:
+  Stelle Dich der Herausforderung eines grenzenlosen Abenteuers.
+  .
+  Herzlich willkommen bei der Sage von Zelda.
+  .
+  Wo der einzig hörbare Laut das Pochen Deines Herzens ist. Wo Du durch tiefe
+  Wälder streifst. Wo Dich bei Deinem Versuch, wieder Frieden in dem Land Hyrule
+  zu schaffen, Seen, Berge und labyrinthartige Burgverliese erwarten. Wo Dich auf
+  Deinen Wegen Tektiten, Wizzroben und eine endlose Phalanx anderer skrupelloser
+  Kreaturen herausfordern, denen jedes Mittel recht ist, Dich von deinem Vorhaben
+  abzuhalten, die verlorengegangenen Bruchstücke der dreifachen Macht der Weisheit
+  zu finden. Aber verzweifele nicht! Mit ein wenig Glück und sehr viel Mut wirst
+  Du alle Widrigkeiten überwinden und die Bruchstücke der dreifachen Macht
+  vereinigen, um das Geheimnis der Sage von Zelda zu enthüllen!
+release: 1987-11-27
+players: 1
+rating: 90%
+x-id: 1250
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Legend of Zelda, The (GER).png
+assets.video: ./media/videos/Legend of Zelda, The (GER).mp4
+
+
+game: Yie Ar Kung-Fu
+file: ./Yie Ar Kung-Fu (J) (V1.4).nes
+developer: Konami
+publisher: Konami
+genre: Kampf
+description:
+  Yie Ar Kung-Fu basiert auf dem beliebten Arcade-Spiel und folgt Oolongs
+  Bestreben, ein Kung-Fu-Meister zu werden. Dazu muss er natürlich gegen eine
+  Vielzahl von Gegnern in einer traditionellen Eins-gegen-Eins-2D-Umgebung
+  kämpfen. Oolong verfügt über eine breite Palette von Angriffen, die er einsetzen
+  kann, um die Lebensleiste seines Gegners zu senken, darunter traditionelle
+  Schlag- und Trittangriffe sowie Sprungangriffe. Die Gegner sind mit
+  einzigartigen Waffen und Angriffen gut ausgerüstet, so dass Oolongs Aufgabe
+  nicht einfach sein wird.
+release: 1985-04-22
+players: 1
+rating: 60%
+x-id: 1787
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Yie Ar Kung-Fu (J) (V1.4).png
+assets.video: ./media/videos/Yie Ar Kung-Fu (J) (V1.4).mp4
+
+
+game: Zelda II : The Adventure of Link
+file: ./Zelda II - The Adventure of Link (GER).nes
+developer: Nintendo
+publisher: Nintendo
+genre: Rollenspiele
+description:
+  Die phantastische Welt von Hyrule lebt weiter...
+  .
+  Die Welt von Hyrule ist völlig durcheinander geraten. Du als Link wirst auf eine
+  tückische Reise gehen, um sechs kostbare Kristalle an ihre Plätze in sechs
+  Statuen aus Stein zurückzubringen. Nur wenn es dir gelingt, die Wächter der
+  sechs Paläste zu überlisten, erhälst du Zutritt zum siebten Palast. Nur dann
+  kannst du dein größtes Abenteuer bestehen und Prinzessin Zelda aus ihrem
+  Zauberschlaf erwecken. Auf deiner Reise wirst du hilfsbereiten Dorfbewohner
+  begegnen, die dir Hinweise für deine Suche und geheime Botschaften von
+  unschätzbarem Wert überbringen. Während du Link durch die verschiedenen
+  Spielebenen von Hyrule dirigierst, werden Ausschnittsvergrößerungen und
+  allgemeine Übersichten deinen Weitblick und dein Wahrnehmungsvermögen schärfen.
+  Bist du bereit?
+release: 1988-09-26
+players: 1
+rating: 80%
+x-id: 1254
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Zelda II - The Adventure of Link (GER).png
+assets.video: ./media/videos/Zelda II - The Adventure of Link (GER).mp4
+

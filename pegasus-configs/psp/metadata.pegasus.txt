@@ -1,0 +1,296 @@
+collection: PSP
+shortname: psp
+extensions: cso, elf, iso, pbp, prx
+launch: am start
+  -n com.retroarch/.browser.retroactivity.RetroActivityFuture
+  -e ROM {file.path}
+  -e LIBRETRO /data/data/com.retroarch/cores/ppsspp_libretro_android.so
+  -e CONFIGFILE /storage/emulated/0/Android/data/com.retroarch/files/retroarch.cfg
+  -e QUITFOCUS
+  --activity-clear-task
+  --activity-clear-top
+  --activity-no-history
+game: Assassin's Creed : Bloodlines
+file: ./Assassin's Creed - Bloodlines (Europe) (En,Fr,De,Es,It,Ru).iso
+developer: Ubisoft
+publisher: Griptonite Games
+genre: Abenteuer-Action / Abenteuer-Action
+description:
+  Dies ist ein exklusiver PSP-Eintrag im beliebten Assassin's Creed-Franchise, das
+  verdeckten Attentätern an entscheidenden Kreuzungen der Geschichte folgt. Dieses
+  Spiel schließt die Handlungslücken zwischen Assassin's Creed 1 und 2 und
+  konzentriert sich wieder auf Altair in einer Handlung, die kurz nach den
+  Ereignissen des ersten Spiels spielt. Hier werden die Blutlinien, die diese
+  Charaktere verbinden, gezogen, während Altair die verbleibenden Templer bis zur
+  Insel Zypern verfolgt.
+release: 2009-11-20
+players: 1
+rating: 70%
+x-id: 27858
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Assassin's Creed - Bloodlines (Europe) (En,Fr,De,Es,It,Ru).png
+assets.video: ./media/videos/Assassin's Creed - Bloodlines (Europe) (En,Fr,De,Es,It,Ru).mp4
+
+
+game: God of War : Chains of Olympus
+file: ./God of War - Chains of Olympus (Europe) (En,Fr,De,Es,It).iso
+developer: Ready At Dawn Studios
+publisher: Sony Computer Entertainment
+genre: Beat'em Up
+description:
+  Mit Chains of Olympus kann der Spieler Kratos tragische Vergangenheit in der
+  Zeit seiner zehnjährigen Dienerschaft nachspielen und mit ihm durch die
+  Schattenlande reisen. Sein Weg führt ihn unter anderem zu den Pforten des Hades
+  und in die Tiefen des Tartarus, wo er den gefürchtetsten Kreaturen der
+  griechischen Mythologie gegenübertritt ... und die grausame Entscheidung treffen
+  muss, ob er das Leben seiner Tochter oder die ganze Welt vor den Taten des Atlas
+  retten will.
+release: 2008-03-04
+players: 1
+rating: 85%
+x-id: 27863
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/God of War - Chains of Olympus (Europe) (En,Fr,De,Es,It).png
+assets.video: ./media/videos/God of War - Chains of Olympus (Europe) (En,Fr,De,Es,It).mp4
+
+
+game: God of War : Ghost of Sparta
+file: ./God_of_War_-_Ghost_of_Sparta_EUR_MULTi5_PROPER_PSP-iND.iso
+developer: Ready At Dawn Studios
+publisher: Sony Computer Entertainment
+genre: Beat'em Up
+description:
+  Seine Familie ist tot. Sein Dasein verflucht. Der spartanische Krieger Kratos
+  ist gequält von Schmerz und Reue, die seine Sünden der Vergangenheit in ihm
+  ausgelöst haben.\n
+  Doch bald offenbart sich ein Geheimnis; eine Herausforderung, die Kratos' letzte
+  Chance ist, um zu beweisen, dass in seinem vernarbten Körper, hinter seinem
+  geschundenen Geist auch ein menschliches Herz steckt. Für Kratos ist dies die
+  letzte Hoffnung auf Erlösung.\n
+  God of War®: Ghost of Sparta spielt nach den Ereignissen des ersten "God of
+  War®"-Abenteuers. Das Spiel lässt dich in Kratos' dunkle, rätselhafte
+  Vergangenheit eintauchen und gibt dir Antworten auf viele offene Fragen.
+  .
+  Zusätzlich zur packenden Handlung bietet God of War®: Ghost of Sparta knallharte
+  Action und knifflige Rätsel. Außerdem stehen dir viele neue Angriffsmanöver und
+  magische Kräfte zur Verfügung. Kratos ist mit Athenes tödlichen Klingen
+  bewaffnet und muss auf seiner Reise durch gefährliche Welten mythologische
+  Monsterarmeen sowie Heerscharen untoter Soldaten bekämpfen. Exklusiv auf PSP?
+  wird Kratos' schicksalhafte Suche fortgesetzt.
+release: 2010-11-02
+players: 1
+rating: 90%
+x-id: 27859
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/God_of_War_-_Ghost_of_Sparta_EUR_MULTi5_PROPER_PSP-iND.png
+assets.video: ./media/videos/God_of_War_-_Ghost_of_Sparta_EUR_MULTi5_PROPER_PSP-iND.mp4
+
+
+game: Grand Theft Auto : Liberty City Stories
+file: ./Grand_Theft_Auto_Liberty_City_Stories_v3_EUR_PSP-Googlecus.iso
+developer: Take 2 Interactive
+publisher: Rockstar Games
+genre: Action / Abenteuer-Action-Rennen, Fahren-Shooter / 3rd Pers.-Shooter
+description:
+  In Liberty City warten unendlich viele Abenteuer - Doch dieses eine ändert
+  alles. Nach dem Mord an einem Mafia-Boss musste Toni Cipriani, ein ehemaliger
+  Handlanger der Leone-Familie, untertauchen. Jetzt ist er zurück, und es ist an
+  der Zeit, alte Rechnungen zu begleichen.
+  .
+  In den Straßen von Liberty City herrscht Aufruhr. Kriegerische Mafiosi ringen um
+  die Vorherrschaft, und die Stadt droht sich in einer Flut von Korruption,
+  organisiertem Verbrechen, Drogenhandel und gewerkschaftlich organisierten
+  Streiks selbst zu zerstören. Toni kann niemanden trauen, während er versucht,
+  das Chaos in der zerrütteten Unterwelt der Stadt zu beseitigen. Wahnsinnige
+  Killer, verkommene Wirtschaftsbosse, zynische Politiker und seine eigene Mutter
+  stehen ihm bei seinem Vorhaben im Weg, die Stadt unter die Kontrolle der Leones
+  zu bringen. Auf einer Odyssee, die Liberty City in seinen Grundfesten
+  erschüttern wird, muss Toni ums Überleben kämpfen und alles tun, um sich seinen
+  Platz in der Führungsriege der Leone-Familie zu sichern.
+release: 2005-10-28
+players: 1
+rating: 85%
+x-id: 27831
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Grand_Theft_Auto_Liberty_City_Stories_v3_EUR_PSP-Googlecus.png
+assets.video: ./media/videos/Grand_Theft_Auto_Liberty_City_Stories_v3_EUR_PSP-Googlecus.mp4
+
+
+game: Grand Theft Auto : Vice City Stories
+file: ./Grand_Theft_Auto_Vice_City_Stories_EUR_PSP-pSyPSP.iso
+developer: Rockstar Games
+publisher: Take 2 Interactive
+genre: Shooter / 3rd Pers.-Shooter-Rennen, Fahren
+description:
+  Vice City, 1984. Auf einem Fundament aus Verbrechen und Verrat entsteht genährt
+  durch den brutalen Machtkampf um einen lukrativen Drogenumschlagplatz mit
+  rasanter Geschwindigkeit eine schillernde Metropole, in der die Chance auf das
+  schnelle Geld zum Greifen nach ist. Wie Pilze schießen an jeder Ecke
+  Immobilienprojekte aus dem einst sumpfigen Boden und füllen die Taschen
+  skrupelloser Investoren.
+  .
+  Vic Vance war Soldat: Beschützer seiner zerrütteten Familie, seines Vaterlandes,
+  seiner selbst. Bis ein kleiner aber folgenschwerer Fehler sein Leben schlagartig
+  veränderte. Ausgestoßen und gestrandet in den Straßen einer von falschem Glanz
+  und maßloser Gier zerrissenen Stadt muss Vic sich entscheiden: wird er sein
+  eigenes Imperium aufbauen oder im Strudel des Verbrechens untergehen?
+release: 2006-11-10
+players: 6
+rating: 85%
+x-id: 27829
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Grand_Theft_Auto_Vice_City_Stories_EUR_PSP-pSyPSP.png
+assets.video: ./media/videos/Grand_Theft_Auto_Vice_City_Stories_EUR_PSP-pSyPSP.mp4
+
+
+game: Spider-Man 2
+file: ./Spider-Man 2 (Europe) (En,Fr,De,Es,It).iso
+developer: Activision
+publisher: Vicarious Vision
+genre: Plattform-Action
+description:
+  Based off the sequel to the popular 2002 movie of the same name, Spider-Man 2
+  once again places the player in the Web-Swinger's tights as he goes up against
+  Dr. Octopus in this 3D adventure game.
+  .
+  Unlike the first game, however, the sequel is much more open-ended (a la Grand
+  Theft Auto: Vice City), allowing Spider-Man free reign to explore New York City,
+  and doing everyday tasks from stopping muggers, bank robberies and car-jackers,
+  to delivering pizzas and snapping photos for the Daily Bugle.
+  .
+  However, the action becomes even more intense as not only does Spidey have to
+  keep the streets safe in general for the citizens of Manhattan, he also has to
+  face up against such super villains as Rhino, Shocker, Mysterio and Calypso, as
+  well as a few entanglements with the Black Cat along the way to square off
+  against Dr. Octopus and save New York in the process!
+release: 2005-09-01
+players: 1
+rating: 65%
+x-id: 28069
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Spider-Man 2 (Europe) (En,Fr,De,Es,It).png
+assets.video: ./media/videos/Spider-Man 2 (Europe) (En,Fr,De,Es,It).mp4
+
+
+game: Spider-Man 3
+file: ./Spiderman_3_EUR_MULTI5_PROPER_PSP-2CH.iso
+developer: Activision
+publisher: Vicarious Vision
+genre: Action
+description:
+  Experience an all-new combat system, two exciting ways. Redesigned from the
+  ground up, a unique combat system empowers both Spider-Man and Black-Suited
+  Spider-Man to perform suit-specific powers and abilities. State of the art
+  animations, combos and finishers make punch, kick and web attacks more
+  super-heroic than ever. Battle 10 of Spider-Man's most infamous enemies from the
+  movie and Marvel universe, including Sandman and Venom.
+release: 2007-05-02
+players: 1
+rating: 65%
+x-id: 28000
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Spiderman_3_EUR_MULTI5_PROPER_PSP-2CH.png
+assets.video: ./media/videos/Spiderman_3_EUR_MULTI5_PROPER_PSP-2CH.mp4
+
+
+game: Tekken 6
+file: ./Tekken 6 (Europe) (En,Fr,De,Es,It,Ru).iso
+developer: Bandai Namco
+publisher: Bandai Namco
+genre: Kampf
+description:
+  Tekken 6 geht furios in die nächste Runde! Fantastische Grafik und
+  Next-Gen-3D-Animationen erschaffen das optisch beeindruckendste Tekken-Erlebnis
+  in der Serien-Geschichte. Es bietet die umfangreichste Charakterauswahl aller
+  Zeiten: 40 einzigartige Kämpfer, die die besten und bekanntesten Kampfstile
+  weltweit repräsentieren.
+release: 2009-12-04
+players: 2
+rating: 80%
+x-id: 27855
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Tekken 6 (Europe) (En,Fr,De,Es,It,Ru).png
+assets.video: ./media/videos/Tekken 6 (Europe) (En,Fr,De,Es,It,Ru).mp4
+
+
+game: The Simpsons Game
+file: ./Simpsons - Das Spiel, Die Germany.iso
+developer: Rebellion
+publisher: Electronic Arts
+genre: Plattform
+description:
+  In Die Simpsons ? Das Spiel setzen Homer, Marge, Bart und Lisa völlig neue,
+  aufregende Kräfte ein, um Springfield vor dem totalen Chaos zu bewahren. Um den
+  Simpsons dabei zu helfen, musst du ihre Heimatstadt (und auch die riesigen
+  Umgebungen!) erkunden, eine unglaubliche Vielzahl von Bösewichten besiegen und
+  dich durch Parodien vieler beliebter Spiele kämpfen.
+release: 2007-11-05
+players: 1
+rating: 70%
+x-id: 133125
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Simpsons - Das Spiel, Die Germany.png
+assets.video: ./media/videos/Simpsons - Das Spiel, Die Germany.mp4
+
+
+game: Tomb Raider : Anniversary
+file: ./Tomb.Raider.Anniversary.EUR.MULTI5.PSP.iso
+developer: Eidos Interactive
+publisher: Buzz Monkey Software
+genre: Abenteuer
+description:
+  Lara Croft Tomb Raider: Anniversary is a remake of the original Tomb Raider with
+  a technically more advanced graphics engine. It has the same basic storyline,
+  though some cutscenes and much of the dialogue within have been expanded or
+  modified in other ways. Locations correspond to those of the original version
+  and are accessed in the same order, but have been re-designed with different
+  layouts and mostly completely different puzzles which allow implementation of
+  new moves introduced in Lara Croft Tomb Raider: Legend: swinging on ropes and
+  using a grappling hook at specific points.
+  .
+  Puzzles are generally more focused on acrobatics in this version, ledges being
+  much more prominently featured as a level design element, requiring combinations
+  of jumping and shimmying across them to access areas. This type of gameplay
+  replaces the key-retrieval and block-pushing puzzles of the original almost
+  entirely. Combat is similar to that of the first game, though the player must
+  now manually activate targeting. Some boss fights have been made a separate
+  enclosed stage rather than being part of the exploration as in the original
+  version. These fights may have puzzle-solving elements and often require the
+  player to use Lara's new "adrenaline dodge" ability, which slightly slows down
+  time when the opponent charges at her while in an "enraged" state. Some
+  cutscenes require the player to participate in quick-time events.
+release: 2007-10-26
+players: 1
+rating: 85%
+x-id: 27909
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Tomb.Raider.Anniversary.EUR.MULTI5.PSP.png
+assets.video: ./media/videos/Tomb.Raider.Anniversary.EUR.MULTI5.PSP.mp4
+
+
+game: Tomb Raider : Legend
+file: ./Tomb.Raider.Legend.EUR.PSP-PGS.iso
+developer: Eidos Interactive
+publisher: Crystal Dynamics
+genre: Abenteuer
+description:
+  Die Legende lebt! Lara Croft, die größte Abenteurerin unserer Zeit, präsentiert
+  sich in Bestform und stellt sich ihrer größten Herausforderung: Auf der Suche
+  nach einer der bekanntesten Reliquien der Geschichte, dringt Lara in vergessene
+  Welten vor und muss teuflische Fallen überleben, mit denen ihre übermächtigen
+  Gegner das legendäre Geheimnis hüten. Das sagenhafte Artefakt birgt den
+  Schlüssel für Laras Vergangenheit und Zukunft. Tomb Raider: Legend belebt die
+  athletische, intelligente und attraktive Abenteurerin, die weltweit die Herzen
+  der Spieler gewann. Lara wird durch aufwendig animierte Gesichtsausdrücke,
+  Bewegungen und Fähigkeiten zum Leben erweckt. Ein Arsenal an modernem Equipment,
+  wie zum Beispiel ein magnetischer Enterhaken, ein Fernglas, Splittergranaten,
+  eine Personal Lighting-Vorrichtung und ihre Kommunikations-Ausrüstung, erlauben
+  dem Spieler Tomb Raider so zu erleben, wie er es bisher noch nicht kannte.
+release: 2006-06-09
+players: 2
+rating: 70%
+x-id: 27902
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Tomb.Raider.Legend.EUR.PSP-PGS.png
+assets.video: ./media/videos/Tomb.Raider.Legend.EUR.PSP-PGS.mp4
+

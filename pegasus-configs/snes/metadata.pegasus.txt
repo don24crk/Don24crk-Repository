@@ -1,0 +1,1623 @@
+collection: Super Nintendo Entertainment System
+shortname: snes
+extensions: bs, fig, sfc, smc, st, swc
+launch: am start
+  -n com.retroarch/.browser.retroactivity.RetroActivityFuture
+  -e ROM {file.path}
+  -e LIBRETRO /data/data/com.retroarch/cores/snes9x_libretro_android.so
+  -e CONFIGFILE /storage/emulated/0/Android/data/com.retroarch/files/retroarch.cfg
+  -e QUITFOCUS
+  --activity-clear-task
+  --activity-clear-top
+  --activity-no-history
+game: Aladdin
+file: ./Aladdin (Germany).sfc
+developer: Capcom
+publisher: Capcom
+genre: Plattform
+description:
+  Das Spiel zum Disney Film von 1992. Anders als bei Sega war hier Capcom für die
+  Entwicklung verantwortlich. Auch hier handelt es sich um einen 2D Plattformer,
+  in dem man diverse Schauplätze aus dem Film plus einige weitere, die nicht im
+  Film vorkommen, meistert. Aladdin setzt sich gegen die Wachen des Sultans und
+  weiteren magischen Kreaturen zur Wehr. Dies geschieht entweder durch einen
+  Sprung auf den Kopf oder durch das Werfen von Äpfeln. Sprünge können durch ein
+  Tuch wie mit einem Fallschirm vergrößert werden.
+release: 1994-01-27
+players: 1
+rating: 80%
+x-id: 2170
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Aladdin (Germany).png
+assets.video: ./media/videos/Aladdin (Germany).mp4
+
+
+game: Arkanoid : Doh It Again
+file: ./Arkanoid - Doh It Again (Europe).sfc
+developer: Taito
+publisher: Taito
+genre: Action-Action / Breakout Spiele
+description:
+  Eine Fortsetzung des Arcade-Spiels Arkanoid. Benutze dein Paddel, um den Ball zu
+  bewegen und Steine zu treffen, um das Level zu verlassen. Sobald alle
+  Spielsteine im aktuellen Level verschwunden sind, gehst du zum nächsten Level
+  über. Power-Ups wie Laser und Paddelverlängerung helfen dir während des Levels.
+  Im Gegensatz zur Arcade-Version hat die Fortsetzung Bosskämpfe und eine kleine
+  Handlung.
+release: 1997-11-01
+players: 2
+rating: 65%
+x-id: 2603
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Arkanoid - Doh It Again (Europe).png
+assets.video: ./media/videos/Arkanoid - Doh It Again (Europe).mp4
+
+
+game: Beavis and Butt-Head
+file: ./Beavis and Butt-Head (USA).smc
+developer: Realtime Associates
+publisher: Viacom New Media
+genre: Plattform
+description:
+  Beavis and Butthead ist ein Lizenzspiel des gleichnamigen MTV Cartoons. Es
+  handelt sich um ein Side Scolling Beat em Up Game im Final Fight Stil.
+  .
+  Als ein starker Wind Beavis und Buttheads GWAR Konzert Karten wegweht, versuchen
+  die beiden Chaoten sie wieder zu bekommen. Hierbei prügeln sie sich durch ihr
+  Heimatkaff Highland und randalieren zu Heavy Metal Musik.
+  .
+  Das Spiel ist kurzweilig und Fans der Serie haben ihren Spaß.
+release: 1994-11-01
+players: 2
+rating: 55%
+x-id: 2478
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Beavis and Butt-Head (USA).png
+assets.video: ./media/videos/Beavis and Butt-Head (USA).mp4
+
+
+game: Bishoujo Senshi Sailor Moon : Another Story
+file: ./Pretty Soldier Sailor Moon - Another Story (J) [T+Ger1.10_snes-projects.de].smc
+developer: Angel
+publisher: Bandai Namco
+genre: Rollenspiele
+description:
+  Ein weiterer Ableger der beliebten Sailor Moon Reihe. Anders als in den anderen
+  Spielen handelt es sich hier um ein RPG im Zelda / Final Fantasy Stil.
+  .
+  Die Handlung ist desmal eine komplett neue Geschichte, die nie in einer Staffel
+  zu sehen war. Inhaltlich spielt sie zwischen Sailor Moon S und SuperS. Innerhalb
+  der Kapitel wechselt man je nach Story vorgegeben zwischen den Sailors hin und
+  her.
+  .
+  Wie es das Genre so liefert, erhält man episch lange Handlungsstränge, erlebt
+  rundenbasierte Zufallskämpfe und levelt die Sailor Kriegerinnen mit
+  Trefferpunkten und stärkeren Waffen auf.
+release: 1995-09-20
+players: 1
+rating: 85%
+x-id: 2404
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Pretty Soldier Sailor Moon - Another Story (J) [T+Ger1.10_snes-projects.de].png
+assets.video: ./media/videos/Pretty Soldier Sailor Moon - Another Story (J) [T+Ger1.10_snes-projects.de].mp4
+
+
+game: Breath of Fire II
+file: ./Breath of Fire II (German).smc
+developer: Capcom
+publisher: Capcom
+genre: Rollenspiele
+description:
+  Tauch ein in die magische Geschichte des Helden Ryu, eines Kriegers, der sich in
+  einen Drachen verwandeln kann. Ohne es zu wissen, bricht er zu einem
+  gefährlichen Abenteuer auf, um seinen verschwundenen Vater und seine kleine
+  Schwester wieder zu finden. Spiel in Englisch, Anleitung in Deutsch.
+  .
+  Features:\n
+  Verwandele dich in Drachen, sprich Zaubersprüche aus, sammle Fähigkeiten und
+  Erfahrung und kämpfe gegen zahlreiche Monster.\n
+  Tausche mächtige Gegenstände mit deinen Freunden mit Hilfe des Game Boy Advance
+  Game Link-Kabels.\n
+  Neues "Township"-Feature: baue und entwickle deine eigene Stadt und locke
+  Einwohner aus entfernten Gegenden in deinen eigenen Ort.
+release: 1996-04-25
+players: 1
+rating: 80%
+x-id: 2188
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Breath of Fire II (German).png
+assets.video: ./media/videos/Breath of Fire II (German).mp4
+
+
+game: Breath of Fire
+file: ./Breath of Fire (German) [!].smc
+developer: Capcom
+publisher: Squaresoft
+genre: Rollenspiele
+description:
+  Das Spiel beginnt mit einer Konfrontation der Light Dragons mit den Dark
+  Dragons. Die Truppen des Imperators Zog - ein Dark Dragon - überfallen das Dorf
+  der Light Dragons, dabei wird Ryus Schwester gefangen genommen. Ryu beginnt
+  seine Reise zunächst nur um Zog davon abzuhalten die Welt komplett zu erobern.
+  Während seiner Reise schließen sich ihm sieben weitere Krieger an. Dabei
+  erfahren sie, dass Zog die göttlichen Schlüssel sammelt. Mit diesen sieben
+  Schlüsseln haben einst die Light Dragons die Göttin der Zerstörung, Tyr,
+  eingesperrt und mit ihnen kann sie auch wieder befreit werden. Tyr ist so
+  mächtig, dass sie die ganze Welt zerstören könnte. Es beginnt ein Kampf um die
+  göttlichen Schlüssel und zur Rettung der Welt.
+release: 1994-08-01
+players: 1
+rating: 70%
+x-id: 2217
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Breath of Fire (German) [!].png
+assets.video: ./media/videos/Breath of Fire (German) [!].mp4
+
+
+game: Chrono Trigger
+file: ./Chrono Trigger (GER).smc
+developer: Square
+publisher: Square
+genre: Rollenspiele
+description:
+  Chrono Trigger ist ein Vertreter der Konsolen-Rollenspiele. Der Spieler steuert
+  die Protagonisten in einer zweidimensional dargestellten fiktiven Welt, welche
+  aus Wäldern, Städten und Dungeons besteht. Das Spiel wird grundsätzlich (mit
+  einigen Ausnahmen) aus der Vogelperspektive einerseits mit einer größeren
+  Weltkarte dargestellt, welche dann bei bestimmten Arealen andererseits in eine
+  detailliertere Dungeonansicht wechselt, in der der Spieler Kämpfe austragen,
+  Rätsel lösen und Objekte finden muss, um im Spiel weiter voranzukommen. Chrono
+  Trigger hat sichtbare Gegner, so kann man im Gegensatz zu anderen Rollenspielen
+  wie z. B. Final Fantasy an vielen Stellen selbst entscheiden, ob man kämpfen
+  oder den Kampf umgehen möchte, jedoch werden dem Spieler an vielen Stellen die
+  Kämpfe ?aufgezwungen?.
+release: 1995-08-11
+players: 1
+rating: 90%
+x-id: 2143
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Chrono Trigger (GER).png
+assets.video: ./media/videos/Chrono Trigger (GER).mp4
+
+
+game: Classic Kong
+file: ./DonkeyKongClassic (Shiru).smc
+developer: Shiru
+publisher: BubbleZap Games
+genre: Action-Plattform / Jump'n'Run-Plattform
+description:
+  Was macht mehr Spaß als ein Fass voller Affen? Ein Donkey Kong Doppelpack! In
+  DONKEY KONG wirst du Fassbomben und brennende Feuerbälle aus dem Weg gehen,
+  während du Mario hilfst, seine Freundin Pauline aus den Klauen von Donkey Kong
+  zu retten. In DONKEY KONG JR. wirst du dich mit diesen verrückten Affen
+  zusammenschließen, um Donkey Kong Jr. zu helfen, seinen Vater aus Marios
+  Gefängnis zu retten. Bist du bereit zum Lachen? Das solltest du besser. Denn
+  diese doppelte Dosis Affengeschichten wird dich in den Gängen rollen lassen!
+release: 2012-01-01
+players: 2
+rating: 70%
+x-id: 97397
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/DonkeyKongClassic (Shiru).png
+assets.video: ./media/videos/DonkeyKongClassic (Shiru).mp4
+
+
+game: Contra III : The Alien Wars
+file: ./Contra III - The Alien Wars (USA).smc
+developer: Konami
+publisher: Konami
+genre: Shooter / Run and Gun-Shooter-Shoot'em Up / Horizontal-Shoot'em Up
+description:
+  Das Jahr 2636 nach Christus. Neo City wurde aus dem Nichts von nur einem
+  Laserstrahl zerstört und daraufhin erschienen am Himmel Aliens, die sich die Red
+  Falcon nennen.
+  .
+  Dieser Angriff startete einen Krieg zwischen der Erde und den Aliens. Den Alien
+  Krieg! Die letzte Hoffnung für das Überleben der Menschheit liegt nun in den
+  Händen von Bill und Lance, denn nur sie sind in der Lage die Red Falcon und ihre
+  tödliche Armee aufzuhalten. Vielleicht können die Beiden es schaffen die Red
+  Falcon zu töten, die Armee zu stoppen und die Menschheit zu retten.
+release: 1992-04-06
+players: 2
+rating: 80%
+x-id: 19017
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Contra III - The Alien Wars (USA).png
+assets.video: ./media/videos/Contra III - The Alien Wars (USA).mp4
+
+
+game: Donkey Kong Country 2 : Diddy's Kong Quest
+file: ./Donkey Kong Country 2 - Diddy's Kong Quest (Germany) (En,De).sfc
+developer: Rareware
+publisher: Nintendo
+genre: Plattform / Jump'n'Run-Plattform
+description:
+  Donkey Kong wurde vom bösartigen Kremlingsboss Kaptain K. Rool entführt. Sein
+  bester Freund Diddy Kong und die nette Affendame Dixie Kong machen sich sofort
+  auf den Weg, um Donkey aus den Fängen von K. Rool zu befreien. Als sie ihre
+  Reise beginnen, finden sie einen Brief von K. Rool mit folgendem Inhalt:
+  .
+  ?Ich habe Donkey Kong entführt. Glaubt mir, ihr werdet diesen affigen Typen
+  niemals wiedersehen! He-he-he-he!!! Eurer Lieblingsbösewicht und König aller
+  Kremlings Kaptain K. Rool?
+  .
+  Diddy und Dixie müssen sich auf ihrem Weg gegen unzählige Kremlings behaupten
+  und am Ende Kaptain K. Rool selbst besiegen, um Donkey Kong zu retten. Dabei
+  werden sie von Cranky Kong, Funky Kong und Wrinkly Kong unterstützt.
+release: 1995-11-14
+players: 2
+rating: 95%
+x-id: 2169
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Donkey Kong Country 2 - Diddy's Kong Quest (Germany) (En,De).png
+assets.video: ./media/videos/Donkey Kong Country 2 - Diddy's Kong Quest (Germany) (En,De).mp4
+
+
+game: Donkey Kong Country 3 : Dixie Kong's Double Trouble!
+file: ./Donkey Kong Country 3 - Dixie Kong's Double Trouble! (Europe) (En,Fr,De).sfc
+developer: Rareware
+publisher: Nintendo
+genre: Plattform-Plattform / Jump'n'Run
+description:
+  Auch etliche Monate nach ihrem Sieg über König K. Rool in DKC2 kosten die Kongs
+  ihren Triumph noch immer aus. Eines Morgens trifft Dixie Kong ihren Freund Diddy
+  Kong nicht in seinem Zimmer auf, dafür einen Brief mit dem Inhalt ?Liebe Dixie,
+  schaue mich mit DK auf den Inseln um. Bis morgen! Diddy?. Zunächst denkt sich
+  Dixie nichts dabei, als Donkey und Diddy auch nach Tagen noch nicht zurück sind,
+  bricht sie aber auf, um diese zu suchen. Sie trifft auf Wrinkly und Funky, der
+  ihr rät Kiddy Kong mit auf ihre Reise zu nehmen. Danach brechen Dixie und Kiddy
+  auf, um Ausschau nach ihren Freunden zu halten.
+release: 1996-12-19
+players: 2
+rating: 90%
+x-id: 2181
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Donkey Kong Country 3 - Dixie Kong's Double Trouble! (Europe) (En,Fr,De).png
+assets.video: ./media/videos/Donkey Kong Country 3 - Dixie Kong's Double Trouble! (Europe) (En,Fr,De).mp4
+
+
+game: Donkey Kong Country
+file: ./Donkey Kong Country (Europe) (En,Fr,De).sfc
+developer: Rareware
+publisher: Nintendo
+genre: Action-Plattform / Jump'n'Run-Plattform
+description:
+  König K. Rool hat Donkey Kongs Bananenvorrat gestohlen und jetzt braucht er
+  deine Hilfe, um sie zurückzuholen!
+  .
+  Auf der Suche nach seinen Bananen stellen sich Donkey Kong die Kremlings, König
+  K. Rools Gefolgsleute, in den Weg. Zum Glück begleitet Donkey Kongs bester
+  Freund, Diddy Kong ihn auf seiner Reise um die ganze Donkey Kong Insel, denn die
+  Bananen werden von bösen Bossen bewacht!
+release: 1994-11-24
+players: 2
+rating: 80%
+x-id: 2149
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Donkey Kong Country (Europe) (En,Fr,De).png
+assets.video: ./media/videos/Donkey Kong Country (Europe) (En,Fr,De).mp4
+
+
+game: Double Dragon V : The Shadow Falls
+file: ./Double Dragon V - The Shadow Falls (USA).smc
+developer: Leland Interactive Media
+publisher: Tradewest
+genre: Kampf
+description:
+  Double Dragon kehrt zurück, diesmal als VS. Fighter, in der gleichen Form wie
+  Street Fighter. Basierend auf der Animationsserie Double Dragon, die lose auf
+  dem ursprünglichen Arcade-Spiel basiert, kämpfen Jimmy und Billy und eine
+  Vielzahl anderer Charaktere in einem Turnierkampf gegeneinander.
+  .
+  Der Schattenmeister, der einen tödlichen Virus erschaffen hat, mit dem er die
+  Welt zerstören will, wartet am Ende des Siegespfades auf dich. Du musst dich
+  durch viele böse Charaktere kämpfen, bevor Du dich dem Schattenmeister stellst.
+  Besiege ihn und die Welt ist für einen weiteren Tag gerettet.
+release: 1994-07-01
+players: 2
+rating: 65%
+x-id: 2365
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Double Dragon V - The Shadow Falls (USA).png
+assets.video: ./media/videos/Double Dragon V - The Shadow Falls (USA).mp4
+
+
+game: Dragon : The Bruce Lee Story
+file: ./Dragon - The Bruce Lee Story (USA).smc
+developer: Acclaim
+publisher: Acclaim
+genre: Beat'em Up-Kampf
+description:
+  Das Spiel zum Film von 1993. In diesem Action Fighting Spiel kämpft man sich
+  ähnlich wie im Film durch den kompletten Lebenslauf von Bruce Lee.
+  .
+  Bruce Lee kann eine große Auswahl an Martial Arts Kampfmoves, Roundhouse Kicks,
+  Sprungangriffe und Würfe. Hierbei muss er sich mit unterschiedlichen Gegnern
+  auseinandersetzen. Dazu kann das CHI aufgelevelt werden um weitere Fähigkeiten
+  und Waffen zu bekommen.
+release: 1994-01-01
+players: 3
+rating: 65%
+x-id: 2333
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Dragon - The Bruce Lee Story (USA).png
+assets.video: ./media/videos/Dragon - The Bruce Lee Story (USA).mp4
+
+
+game: Dragon Ball Z : Super Saiya Densetsu
+file: ./Dragon Ball Z - Super Saiya Densetsu .smc
+developer: Bandai Namco
+publisher: Bandai Namco
+genre: Rollenspiele
+description:
+  Cho Saiya Densetsu basiert auf der beliebten Manga/Animé-Serie Dragon Ball. Es
+  folgt den Ereignissen, die am Anfang von Dragon Ball Z beschrieben werden, dem
+  zweiten Storyblock, der von der Verbindung des Helden Son Goku mit einer
+  mächtigen Alienrasse und neuen mächtigen Gegnern von weit entfernten Planeten
+  erzählt. Das Spiel beginnt genau dort, wo die Geschichte von Dragon Ball
+  beginnt. Son Goku geht zu seinen Freunden, wird aber von einem mysteriösen
+  Fremden namens Raditz aufgehalten, der Son Goku erzählt, dass sie verwandt sind.
+  Raditz verlangt von ihm, die Menschheit zu vernichten, und als Son Goku sich
+  weigert, nimmt er seinen Sohn Son Gohan als Geisel. Um seinen Sohn zu retten,
+  verbündet sich Son Goku mit seinem Erzrivalen, dem Dämonenkönig Piccolo, der
+  offensichtlich seine eigenen Pläne bezüglich Raditz hat. Und so beginnt die
+  Geschichte, in der Son Goku seine wahre Herkunft erfahren wird...
+  .
+  Das Spiel ist ein RPG, ähnlich wie die kartenbasierten Dragon Ball Z RPGs für
+  das NES. Während der Kämpfe wählst du Karten aus deinem Karteninventar, die die
+  Art und Stärke der Angriffe deiner Charaktere bestimmen. Du kannst deine
+  Charaktere auch in Trainingshäusern trainieren und ihre speziellen Ki-Kräfte
+  verbessern. Im Gegensatz zu frühen DBZ-Rollenspielen kannst du dich in Cho Saiya
+  Densetsu frei bewegen und deine Bewegungen werden nicht durch Karten bestimmt.
+  Sie können auch um die Welt fliegen und Ihr spezielles Drachen-Radar verwenden,
+  um den Standort der magischen Dragon Balls zu entdecken.
+release: 1992-01-25
+players: 1
+rating: 50%
+x-id: 2272
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Dragon Ball Z - Super Saiya Densetsu .png
+assets.video: ./media/videos/Dragon Ball Z - Super Saiya Densetsu .mp4
+
+
+game: Final Fantasy III
+file: ./Final Fantasy 3 (V1.1) (German) [!].smc
+developer: Square
+publisher: Square
+genre: Rollenspiele
+description:
+  Final Fantasy VI ist der sechste Teil der Videospielreihe Final Fantasy, der in
+  Japan am 2. April 1994 für das Super Nintendo Entertainment System (SNES)
+  veröffentlicht wurde.
+  .
+  In den USA erschien das Spiel im Oktober 1994, später auch in Europa als
+  Neuauflage auf der PlayStation. Am 29. Juni 2007 wurde in Europa eine Neuauflage
+  für den Game Boy Advance veröffentlicht. Am 18. März 2011 erschien in
+  Deutschland die US-Version des SNES-Spiels auf der Virtual Console der Wii.
+  .
+  Final Fantasy VI spielt in einer Welt, in der Magie seit einem großen Krieg
+  zwischen den Menschen und den mystischen Espern vor 1000 Jahren als ausgestorben
+  gilt. Eine der Hauptfiguren ist eine junge magiebegabte Frau mit dem Namen Terra
+  (im japanischen Original Tina) Branford, die von einem bösen Imperium gejagt
+  wird, das ihre magischen Fähigkeiten für seine Zwecke missbrauchen will. Dabei
+  stehen ihr nach und nach einige Gefährten zur Seite, mit denen sie sich
+  aufmacht, um den bösen Imperator Gestahl (Ghastra) und dessen General Kefka zu
+  besiegen. Zu ihren Begleitern zählen mitunter Lock (in der englischen Fassung
+  der Locke), Edgar, Sabin (im Original Mash), Celes, Cyan (Cayenne), Strago
+  (Stragus), Relm, Setzer, Gau und Shadow.
+  .
+  Gestahl fand heraus, dass die Esper nicht ausgestorben sind, sondern sich eine
+  eigene Welt geschaffen haben, in der sie jetzt leben. Terra kann auf natürliche
+  Weise Magie benutzen, weil sie zur Hälfte Mensch und zur Hälfte Esper ist.
+  Gestahl fand aber auch heraus, dass sich noch einige Esper in der Welt der
+  Menschen aufhalten. Diese lässt er einfangen und töten, denn wenn ein Esper
+  stirbt, wird er zu einer Substanz (Maginit genannt), die auf Menschen übertragen
+  werden kann, damit diese Magie verwenden können. Dies hat er unter Anderem an
+  seiner Generälin Celes ausprobieren lassen. Als sich Celes vom Imperium
+  abwendet, wird sie eingesperrt, aber von Lock gerettet. In der Folgezeit
+  verlieben sich Celes und Lock ineinander.
+  .
+  Später im Spiel stellt sich heraus, dass Gestahl eigentlich hinter drei Statuen
+  her ist, die von den Göttern erschaffen wurden und der Ursprung der Magie sein
+  sollen. Nun wird der Imperator von seinem General Kefka getötet. Kefka bringt
+  die Statuen an sich und verursacht eine große Naturkatastrophe, quasi einen
+  Weltuntergang. In dieser Welt des Ruins (im Gegensatz zur vorherigen Welt der
+  Balance) beginnt der Spieler als Celes und muss versuchen, seine Gefährten
+  wiederzufinden und den verrückten Kefka aufzuhalten, der wie ein Gott auf seinem
+  mit Schutt und Überresten der alten Welt gebauten Turm herrscht und ganz nach
+  Lust und Laune heraus mit dem Zauberspruch Licht der Verurteilung das Land immer
+  mehr verwüstet und unfruchtbar macht.
+release: 1994-10-11
+players: 2
+rating: 80%
+x-id: 2146
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Final Fantasy 3 (V1.1) (German) [!].png
+assets.video: ./media/videos/Final Fantasy 3 (V1.1) (German) [!].mp4
+
+
+game: Final Fantasy IV
+file: ./Final Fantasy 2 (V1.1) (German).smc
+developer: Square
+publisher: Square
+genre: Rollenspiele
+description:
+  Der Dunkle Ritter Cecil hat von seinem König den Befehl erhalten, dessen fiese
+  Pläne umzusetzen. Cecil jedoch legt seine Loyalität ab, um dem wahnsinnigen
+  Treiben des Monarchen ein Ende zu setzen. Auf der Suche nach heiligen
+  Elementkristallen schlüpfst du in die Rolle von Cecil und führst ihn und bis zu
+  11 weitere Charaktere über die Weltkarte. Du reist über Land, zu Wasser und in
+  der Luft, erkundest Städte und Befestigungsanlagen, löst Rätsel und kämpfst
+  gegen Legionen teuflischer Ungeheuer.
+release: 1991-07-19
+players: 1
+rating: 80%
+x-id: 2148
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Final Fantasy 2 (V1.1) (German).png
+assets.video: ./media/videos/Final Fantasy 2 (V1.1) (German).mp4
+
+
+game: Final Fantasy V
+file: ./Final Fantasy V (German).smc
+developer: TOSE
+publisher: Square
+genre: Rollenspiele
+description:
+  Ein Meteor, eine böse Vorahnung und vier Helden die ihr größtes Abenteuer
+  erleben. Ihre Aufgabe ist die vier elementaren Kristalle zu beschützen und so
+  dem ihrem Widersacher ExDeath einhalt zu gebieten.
+  .
+  Alles begann damit das der Wanderer Bartz einen Meteor fand, jedoch fand er
+  nicht nur ein junges Mädchen namens Lenna, sondern auch älteren Mann namens
+  Galuf welcher jedoch anfangs an Gedächtnisverlust leidet. Wenig später kommt
+  dann noch die Piratin Faris dazu. Zusammen ist ihre Aufgabe recht eindeutig sie
+  müssen das drohende Unheil aufhalten egal was es kostet.
+  .
+  In Final Fantasy 5 wurde das Job- und Fähigkeitensystem verbessert, sowie das
+  bekannte ATB (active time battle) wieder eingeführt was viele Spieler kennen und
+  lieben.
+release: 1992-12-06
+players: 1
+rating: 70%
+x-id: 2168
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Final Fantasy V (German).png
+assets.video: ./media/videos/Final Fantasy V (German).mp4
+
+
+game: F-Zero
+file: ./F-Zero (USA).smc
+developer: Nintendo
+publisher: Nintendo
+genre: Rennen, Fahren-Rennen 3rd Pers.
+description:
+  F-Zero ist ein futuristisches Rennspiel, in dem die Charaktere fliegende Autos
+  steuern und an einem intergalaktischen Turnier teilnehmen.\n
+  Insgesamt gibt es vier Charaktere mit ihren eigenen Fahrzeugen, die alle
+  unterschiedliche Eigenschaften haben. Ein Rennen besteht darin, fünf Runden auf
+  einer Strecke zu fahren, wobei man jede Runde als einer der Ersten beenden muss,
+  um nicht disqualifiziert zu werden. Wenn eine Runde abgeschlossen ist, wird der
+  Spieler mit einer Fähigkeit namens "Super Jet" belohnt, die etwa sechs Sekunden
+  lang anhält.\n
+  Das Ziel des Spiels ist es, die anderen Charaktere zu besiegen, indem man die
+  Ziellinie am Ende eines Rennens überquert und dabei bestimmte Schadensbereiche
+  auf den Strecken vermeidet. Jedes Fahrzeug verfügt über eine eigene
+  Energieanzeige, mit der die Haltbarkeit der Maschinen gemessen werden kann.
+release: 1991-08-23
+players: 1
+rating: 80%
+x-id: 2208
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/F-Zero (USA).png
+assets.video: ./media/videos/F-Zero (USA).mp4
+
+
+game: Hyper Street Kart
+file: ./Hyper Street Kart (USA).sfc
+developer: The Real Phoenix and Tenshu
+publisher: The Real Phoenix & Ten Shu
+genre: Rennen, Fahren-Rennen 3rd Pers.
+description:
+  Hack of Super Mario Kart. All the 8 drivers sprites have been replaced with
+  fighters from Street Fighter II. New and modified Tracks.
+release: 2016-07-17
+players: 2
+x-id: 143002
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Hyper Street Kart (USA).png
+assets.video: ./media/videos/Hyper Street Kart (USA).mp4
+
+
+game: Kirby Super Star
+file: ./Kirby Super Star (USA).smc
+developer: HAL Laboratory
+publisher: Nintendo
+genre: Plattform
+description:
+  Das Besondere an diesem Kirby-Spiel ist, dass es insgesamt sieben Spiele in
+  einem sind. Außerdem gibt es in diesem Spiel eine große Vielzahl an Fähigkeiten,
+  die teils aus vorherigen Spielen bekannt sind, aber nun eine Vielfalt an
+  Möglichkeiten aufweisen. Hatte eine Fähigkeit bisher nur eine Attacke, so hat
+  sie jetzt vier oder mehr. Weiterhin besonders ist die Funktion Kirbys, einen
+  Helfer zu rufen, der ihn im Spiel unterstützt und dessen Steuerung von einem
+  zweiten Mitspieler übernommen werden kann.
+release: 1996-09-20
+players: 2
+rating: 95%
+x-id: 2216
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Kirby Super Star (USA).png
+assets.video: ./media/videos/Kirby Super Star (USA).mp4
+
+
+game: Kirby's Dream Course
+file: ./Kirby's Dream Course (USA).smc
+developer: HAL Laboratory
+publisher: Nintendo
+genre: Sport-Sport / Golf
+description:
+  Nachdem der Traumbrunnen sich wieder normalisiert hat, setzen die Bewohner des
+  Traumlandes ihr friedliches Leben wieder fort. Sie finden Gefallen an den
+  wunderschönen Sternen von Planet Popstars Nachthimmel. Doch eines Nachts, als
+  die Bewohner in den Himmel schauten um die Sterne zu bewundern, stellten sie
+  entsetzt fest, dass alle Sterne verschwunden sind.
+  .
+  Manche der Bewohner versuchen optimisch zu bleiben, doch auch ihre Hoffnung
+  verblasst, als die Sterne in den nächsten Nächten nicht zurückkehrten. Tief
+  betrübt, wächst die Verzweiflung weiter an, bis sie letztendlich damit aufhören
+  köstliches Essen zu verspeisen, schöne Träume zu haben, zu lachen und zu
+  lächeln.
+  .
+  Inmitten des Aufruhrs breitet sich das Gerücht aus, dass König DeDeDe derjenige
+  ist, der für das Verschwinden der Sterne verantwortlich ist - er soll die Sterne
+  gestohlen haben um ihre Schönheit nur für sich zu behalten. Kirby bricht auf um
+  die Sterne vom Traumland zurückzuholen und DeDeDe eine Lektion zu erteilen.
+  .
+  Unser Held begibt sich in König DeDeDe's fliegendes Schloss, welches gefüllt mit
+  Fallen ist und von seinen Dienern bewacht wird, wovon jeder einen der vermissten
+  Sterne bei sich trägt.
+release: 1995-02-01
+players: 2
+rating: 80%
+x-id: 2355
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Kirby's Dream Course (USA).png
+assets.video: ./media/videos/Kirby's Dream Course (USA).mp4
+
+
+game: Kirby's Dream Land 3
+file: ./Kirby's Dream Land 3 (USA).smc
+developer: HAL Laboratory
+publisher: Nintendo
+genre: Plattform
+description:
+  Eine böse Macht hat von König Dedede Besitz ergriffen und stürzt nun das Dream
+  Land ins Chaos. Die einzige Rettung heißt Kirby! Kirby kann natürlich seine
+  Feinde verschlucken und deren Spezial-Power wie Feuer, Eis oder Stein für sich
+  nutzen. Wenn nötig, bittet er seine tierischen Freunde, Rick den Hamster und
+  Nago die Katze, um Hilfe. Kirby kann aber auch Gooey, seinen Freund mit der
+  dehnbaren Zunge, herbeirufen, der entweder automatisch oder von einem Freund
+  gesteuert werden kann. Ausgestattet mit bunter 2D-Grafik, klassischem Gameplay
+  und unendlichem Charme atmet Kirby's Dream Land 3 den Geist der alten Schule!
+release: 1997-11-27
+players: 2
+rating: 85%
+x-id: 2268
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Kirby's Dream Land 3 (USA).png
+assets.video: ./media/videos/Kirby's Dream Land 3 (USA).mp4
+
+
+game: Lester the Unlikely
+file: ./Lester the Unlikely (GER).smc
+developer: Visual Concepts
+publisher: DTMC
+genre: Plattform-Action
+description:
+  Eines Tages lief Lester durch die Ladedocks von Seaport City und las die neue
+  Ausgabe seines Lieblingscomics "Super Duper Hero Squad". Er fühlte sich ein
+  wenig müde, weil er am Abend zuvor noch lange Videospiele gespielt hatte, und
+  sah sich nach einem bequemen Platz um, um seinen Comic zu lesen. Ohne
+  nachzudenken streckte sich Lester auf einer Palette aus, die zum Verladen auf
+  einen nahe gelegenen Frachter bereitstand, und schlief ein. Einige Stunden
+  außerhalb des Hafens wachte er auf und befand sich in großen Schwierigkeiten
+  (und war mehr als nur ein wenig seekrank). Der Kapitän des Schiffes glaubte
+  seine Geschichte, würde ihn aber nur in extremen medizinischen Notfällen in
+  seinen Hafen zurückbringen. Aber Lester war nicht so seekrank und musste daher
+  zum nächsten Anlaufhafen mitfahren. Doch wie es der Zufall wollte, wurde der
+  Frachter von Piraten gekapert und versenkt. Glücklicherweise fand Lester eine
+  Rettungsweste und schwamm zur nächsten tropischen Insel. Kurz bevor er den
+  Strand erreichte, wurde Lester vor lauter Erschöpfung ohnmächtig. Jetzt beginnt
+  sein eigentliches Abenteuer...
+  .
+  Es liegt an dir, Lester zu helfen, nach Hause zu kommen. Dabei begegnen dir
+  unter anderem riesige Möwen, Panther, Piraten und die Geister der Unterwelt.
+release: 1994-01-02
+players: 1
+rating: 80%
+x-id: 2687
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Lester the Unlikely (GER).png
+assets.video: ./media/videos/Lester the Unlikely (GER).mp4
+
+
+game: Lufia II : Rise of the Sinistrals
+file: ./Lufia II - Rise of the Sinistrals (GERMAN).smc
+developer: Neverland
+publisher: Taito
+genre: Rollenspiele
+description:
+  Lufia (Estpolis Denki 2) ist eine von der Firma Neverland Company entwickelte
+  mehrteilige Videospiel-Reihe, von der lediglich die Teile 2 und 3 in Deutschland
+  erschienen sind. Taito, Verleger des ersten Teils, sicherte sich die Rechte an
+  dem Namen Lufia.
+  .
+  Estpolis Denki 2 (Esutoporisu Denki 2; in Nordamerika Lufia II: Rise of the
+  Sinistrals) erschien 1995 in Japan für das SNES. In Europa erschien dieses Spiel
+  unter dem Titel Lufia.
+  .
+  In Estpolis Denki II, das ein Prequel zu Estpolis Denki darstellt, geht es um
+  Dämonenjäger Maxim, der von der mysteriösen Prophetin Iris beauftragt wird,
+  gegen die Höllenfürsten (???, wörtlich: vier verrückte Götter) Gades, Amon, Erim
+  und Daos zu kämpfen. Dies ist jedoch nur mit dem legendären ?Lufiaschwert?
+  möglich.
+  .
+  Das Dual Blade wurde in der deutschen Fassung als Lufiaschwert benannt, was zu
+  einigen Verwirrungen und Stilblüten in der deutschen Lokalisierung des dritten
+  Spiels, welches auf dem GBC erschien, führte. Das Ende dieses Spiels verweist
+  mit einem Teaser auf Estpolis Denki.
+  .
+  Estpolis Denki II zeichnete sich durch viele Neuerungen aus. Besonders grafisch
+  hob sich Estpolis Denki deutlich von früheren SNES-Rollenspielen ab. Auch das
+  Kampfsystem unterschied sich von anderen bekannten Titeln wie z. B. Final
+  Fantasy; durch die Angriffe der Gegner steigt der so genannte Zornes-Balken der
+  Spielcharaktere, der für den Einsatz von Spezialfähigkeiten verwendet werden
+  kann.
+  .
+  Darüber hinaus bot das Spiel seinerzeit ein für dieses Genre seltenes Feature:
+  Gegner sind in Dungeons jederzeit sichtbar, wodurch man nur auf der Weltkarte zu
+  Zufallskämpfen gezwungen ist. Auch Kapselmonster sind verfügbar.
+release: 1996-08-31
+players: 1
+rating: 80%
+x-id: 2259
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Lufia II - Rise of the Sinistrals (GERMAN).png
+assets.video: ./media/videos/Lufia.mp4
+
+
+game: Lufia
+file: ./Lufia.smc
+developer: Neverland
+publisher: Taito
+genre: Rollenspiele
+description:
+  Lufia (Estpolis Denki 2) ist eine von der Firma Neverland Company entwickelte
+  mehrteilige Videospiel-Reihe, von der lediglich die Teile 2 und 3 in Deutschland
+  erschienen sind. Taito, Verleger des ersten Teils, sicherte sich die Rechte an
+  dem Namen Lufia.
+  .
+  Estpolis Denki 2 (Esutoporisu Denki 2; in Nordamerika Lufia II: Rise of the
+  Sinistrals) erschien 1995 in Japan für das SNES. In Europa erschien dieses Spiel
+  unter dem Titel Lufia.
+  .
+  In Estpolis Denki II, das ein Prequel zu Estpolis Denki darstellt, geht es um
+  Dämonenjäger Maxim, der von der mysteriösen Prophetin Iris beauftragt wird,
+  gegen die Höllenfürsten (???, wörtlich: vier verrückte Götter) Gades, Amon, Erim
+  und Daos zu kämpfen. Dies ist jedoch nur mit dem legendären ?Lufiaschwert?
+  möglich.
+  .
+  Das Dual Blade wurde in der deutschen Fassung als Lufiaschwert benannt, was zu
+  einigen Verwirrungen und Stilblüten in der deutschen Lokalisierung des dritten
+  Spiels, welches auf dem GBC erschien, führte. Das Ende dieses Spiels verweist
+  mit einem Teaser auf Estpolis Denki.
+  .
+  Estpolis Denki II zeichnete sich durch viele Neuerungen aus. Besonders grafisch
+  hob sich Estpolis Denki deutlich von früheren SNES-Rollenspielen ab. Auch das
+  Kampfsystem unterschied sich von anderen bekannten Titeln wie z. B. Final
+  Fantasy; durch die Angriffe der Gegner steigt der so genannte Zornes-Balken der
+  Spielcharaktere, der für den Einsatz von Spezialfähigkeiten verwendet werden
+  kann.
+  .
+  Darüber hinaus bot das Spiel seinerzeit ein für dieses Genre seltenes Feature:
+  Gegner sind in Dungeons jederzeit sichtbar, wodurch man nur auf der Weltkarte zu
+  Zufallskämpfen gezwungen ist. Auch Kapselmonster sind verfügbar.
+release: 1997-01-01
+players: 1
+rating: 80%
+x-id: 2259
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Lufia.png
+assets.video: ./media/videos/Lufia.mp4
+
+
+game: New Super Mario Land
+file: ./New Super Mario Land (J) (V1.3).sfc
+genre: Plattform
+description:
+  New Super Mario Land ist eine neue Homebrew-Veröffentlichung, die Super Mario
+  Land, den legendären Game Boy-Titel, auf dem Super Nintendo neu interpretiert.
+release: 2019-11-21
+players: 4
+x-id: 200012
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/New Super Mario Land (J) (V1.3).png
+assets.video: ./media/videos/New Super Mario Land (J) (V1.3).mp4
+
+
+game: Nightmare Busters
+file: ./Nightmare Busters (Unreleased) (E) [!].sfc
+developer: Arcade Zone
+publisher: Nichibutsu
+genre: Plattform-Action
+description:
+  Als ein böser Unhold namens Tyrann die Träume kleiner Kinder entführt und
+  verdirbt, treten zwei mutige Kobolde namens Flynn und Floyd in Aktion, um ihn
+  aufzuhalten. Bewaffnet mit messerscharfen Spielkarten können die mutigen Brüder
+  auch magische Angriffe heraufbeschwören, um die verschiedenen Bestien zu
+  vernichten, denen sie begegnen. Auf ihrer Reise durch die Tiefen der Traumwelt
+  müssen sie alle Schergen des Tyrannen besiegen, bevor sie sich dem aufgeblähten
+  Monster selbst stellen.
+  .
+  Nightmare Busters ist ein Standard-Run-and-Gun-Actionspiel, das schnelle Reflexe
+  erfordert. Das Spiel kann allein gespielt werden oder von zwei Spielern, die es
+  gleichzeitig in einer kooperativen Action mit den Monsterhorden aufnehmen.
+release: 2013-12-23
+players: 2
+rating: 70%
+x-id: 59607
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Nightmare Busters (Unreleased) (E) [!].png
+assets.video: ./media/videos/Nightmare Busters (Unreleased) (E) [!].mp4
+
+
+game: Puzzle Bobble : Bust-A-Move
+file: ./Puzzle Bobble - Bust-A-Move (Europe).sfc
+developer: Taito
+publisher: Taito
+genre: Puzzle
+description:
+  In Bust-A-Move, müssen Bub und Bob farbige Blasen aus einer Kanone an den oberen
+  Bildschirmrand schießen. Das Duo muss Gruppen von drei gleichfarbigen Kugeln
+  bilden, die bei Berührung zerplatzen. Nach einer bestimmten Menge von
+  abgefeuerten Kugeln, senkt sich die Obergrenze des Bildschirms langsam ab.
+  .
+  Wenn der Spieler nach einer bestimmten Zeit keine Blase abgefeuert hat, wird
+  diese automatisch geschossen. In der SNES-Version von Bust-A-Move, wurden einige
+  Neuerungen eingeführt, wie die Elementkugeln, welche beim Zerplatzen auch andere
+  Blasen, abhängig von ihrem Typ, zum verschwinden bringen können. Außerdem gibt
+  es einen vs.-Modus und einen Endboss.
+release: 1995-06-29
+players: 2
+rating: 80%
+x-id: 2530
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Puzzle Bobble - Bust-A-Move (Europe).png
+assets.video: ./media/videos/Puzzle Bobble - Bust-A-Move (Europe).mp4
+
+
+game: Secret of Evermore
+file: ./Secret of Evermore (Germany).sfc
+developer: Square Enix
+publisher: Square Enix
+genre: Rollenspiele
+description:
+  Secret of Evermore (engl. ?Geheimnis von Evermore?) ist ein Rollenspiel für das
+  Super Nintendo, welches 1995 in Nordamerika und Europa (jedoch nicht in Japan)
+  von Square (heute Square Enix) veröffentlicht wurde. Es stellte das erste und
+  letzte in Nordamerika entwickelte Spiel der Firma dar und sollte speziell
+  westliche Spieler ansprechen. Das Spiel ist für einen Spieler vorgesehen und
+  erinnert durch seine Spielart, das charakteristische Ringmenü und sein
+  echtzeitbasiertes Kampfsystem stark an Secret of Mana, hat jedoch seinen eigenen
+  Stil und eine eigene Geschichte, die weniger mit dem Fantasygenre von Secret of
+  Mana vergleichbar ist.
+  .
+  Die Geschichte beginnt 1965 in Großostheim (Sitz von Nintendo in Deutschland; in
+  der englischen Version Podunk). Dort steht damals wie heute in einem großen
+  Garten ein geheimes Labor. Das Labor wurde von Professor Igor Seltsam errichtet.
+  Prof. Igor Seltsam entwickelte eine Maschine, die es ermöglichen sollte, ein Tor
+  in eine selbst erschaffene Welt (Evermore) zu öffnen. Doch als die Maschine
+  vorgeführt werden sollte, kam es zu einem Unfall, der den Professor mitsamt
+  seinen drei Bekannten (Zora Zottelzopf, Hektor Lektor und Gunilla von Fettamsel)
+  aus Großostheim nach Evermore beförderte. Bis zum Jahre 1995 blieb das Labor
+  unentdeckt und verwahrloste. Der erste, der das Labor seit dem Vorfall wieder
+  betritt, ist ein Teenager, der nach seinem Hund sucht. Durch Zufall entdeckt er
+  die Maschine und wird mit seinem Hund nach Evermore teleportiert. Auf seiner
+  Suche nach einem Weg zurück in die echte Welt wird klar, dass in Evermore eine
+  unbekannte Person die Fäden finsterer Machenschaften zieht. Im Verlauf ihrer
+  Reise durchlaufen der Junge und sein Hund sämtliche Epochen, treffen in jeder
+  davon auf einen Bewohner aus Großostheim und ihren böswilligen Doppelgänger und
+  stellen sich mächtigen Gegnern.
+release: 1995-09-18
+players: 1
+rating: 75%
+x-id: 2142
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Secret of Evermore (Germany).png
+assets.video: ./media/videos/Secret of Evermore (Germany).mp4
+
+
+game: Secret of Mana
+file: ./Secret of Mana (Germany).sfc
+developer: Square
+publisher: Square
+genre: Rollenspiele
+description:
+  Auf einem vergessenen Kontinent in einer anderen Zeit, lebt ein Volk, das keinen
+  Göttern huldigt und keinem Herrscher unterliegt. Ein Volk, das in Frieden und
+  Freiheit lebt und das seine Kraft nur aus einem schöpft: Dem magischen Mana
+  Baum. Nur noch die alten Weisen wissen genau, welche Kräfte das Mana wirklich
+  birgt. Denn der Friede in diesem Land währt nicht seit Ewigkeiten. Einst
+  nämlich, so berichtet eine alte Legende, nutzten die Bewohner des Landes die
+  Mächte des Mana, um sich gegen die Mächte des Unermesslichen zu erheben. So kam
+  es denn, dass ein Ritter erschien, der die Aufständigen bestrafte und ihre
+  Zivilisation zerstörte. Die Samen des Mana Baums verteilte er auf acht Paläste.
+  Sie sollten als Siegel gegen das Böse dienen. Die Waffe des Ritters war das
+  legendäre Mana Schwert. Nachdem seine Mission erfüllt war, rammte er das Schwert
+  in einen Felsen, als zusätzliches Siegel gegen alles Böse und als Mahnmal, um an
+  den Missbrauch der Mana Macht zu erinnern. Dort in jenem Felsen ruhte das
+  Schwert seit Ewigkeiten, bis?
+  .
+  ?zu jenem Tage, an dem ein Junge das Schwert aus dem Felsen herauszieht. Wieder
+  sind die bösen Mächte befreit und der Frieden des Landes in Gefahr. Nun gilt es
+  das Schwert zu nutzen und die Welt zu retten, denn noch ist es nicht zu spät!
+release: 1994-11-24
+players: 3
+rating: 80%
+x-id: 2141
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Secret of Mana (Germany).png
+assets.video: ./media/videos/Secret of Mana (Germany).mp4
+
+
+game: Seiken Densetsu 3
+file: ./Seiken Densetsu 3 (GERMAN).sfc
+developer: Square Enix
+publisher: Square Enix
+genre: Rollenspiele-Action-RPG
+description:
+  Es sind einige Jahre vergangen als die Manakräfte, mithilfe des Manaschwertes in
+  acht sogenannte Manasamen gebannt wurden. Diese wurden auf die acht Königreiche
+  verteilt. Es gibt einige Leute, die über die Macht Bescheid wissen und diese
+  nicht zum wohle für die Menscheit nutzen wollen sondern für Ihre ganz
+  persönlichen Ziele... Wie das Königreich Altena, welches langsam einfriert und
+  diese legendäre Macht braucht um sich zu retten.
+  .
+  Das Spiel bietet mehrere Storyplots welche jeweils den Hintergrund eines Helden
+  oder einer Heldin beleuchten. Am Anfang kann man aus sechs verschiedenen Klassen
+  wählen. Duran der Krieger, Angela die junge Zauberin, Lisa die Amazone, Carlie
+  die Klerikerin, Kevin der Wrestler und Hawk der Dieb. Die Geschichten starten
+  jeweils an verschiedenen Orten und im Spielverlauf treffen die Charaktere an
+  einigen Punkten aufeinander und am Ende wird aus den losen Storyfäden eine
+  Geschichte.
+  .
+  Secret of Mana 2 (Seiken Densetsu 3 im jap. original) wurde leider nie in den
+  USA oder Europa veröffentlicht, sonder nur in Japan und ist genau genommen schon
+  der dritte Teil der Mana-Serie. Deshalb findet man Spiel auch nur auf japanisch
+  oder Mithilfe von Fanpatches auch in anderen Sprachen. Wie aber bei Secret of
+  Mana finden die Kämpfe in Echtzeit statt und man kann in diesem RPG auch die
+  Klassen zweimal wechseln.....
+release: 1995-09-30
+players: 3
+rating: 75%
+x-id: 2164
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Seiken Densetsu 3 (GERMAN).png
+assets.video: ./media/videos/Seiken Densetsu 3 (GERMAN).mp4
+
+
+game: StarWing 2
+file: ./Star Fox 2.smc
+developer: Nintendo EAD
+publisher: Nintendo
+genre: Shooter / 3rd Pers.-Strategie-Shooter
+description:
+  StarWing 2 / Star Fox 2 - Der geplante Nachfolger baute auf dem Spielprinzip von
+  StarWing auf, erweitere dieses aber grundlegend. Statt vorgeschriebenen und
+  automatisch scrollenden Pfaden bieten die Level nun ein in alle Richtungen frei
+  erkundbares Areal. Der Spieler kann zwischen sechs Spielfiguren (neben dem
+  ursprünglichen Star Fox-Team waren auch die beiden Pilotinnen Miyu und Fay
+  wählbar) mit drei verschiedenen Varianten des Arwings wählen, welche sich in
+  Angriffs- und Abwehrkraft unterscheiden. In Leveln mit fester Oberfläche können
+  sich die Arwings in zweibeinige Roboter transformieren. Auch konnte man erstmals
+  auf das feindliche Star Wolf-Team treffen. Ein Multiplayer-Modus war ebenfalls
+  geplant. Die Einstellung des Spiels wurde unter anderem damit begründet, dass
+  Nintendo eine klare Linie zwischen der 2D- und 3D-Generation ziehen wollte.
+  Besonders mit Hinblick auf bereits deutlich fortschrittlicheren Konsolen der
+  Konkurrenz ? speziell der 1995 erschienene und deutlich leistungsstärkeren Sony
+  Playstation ?, wollte Nintendo keine 3D-Spiele auf veralteter und limitierter
+  Hardware veröffentlichen. Auch die Entwicklung der eigenen 3D-Konsole Nintendo
+  64 war bereits in vollem Gange. Dadurch wurde die Veröffentlichung auf Eis
+  gelegt und letztendlich völlig gestrichen, trotz der zu der Zeit fast
+  vollständigen Fertigstellung. Trotzdem wurde das Spiel weiterentwickelt,
+  fertiggestellt und auch dem Qualitätssicherungs-Team vom Club Nintendo
+  übergeben. Zwischenzeitlich gelangten diverse Versionen aus verschiedenen
+  Entwicklungsstadien als ROM ins Internet. Diese waren teilweise noch sehr
+  verbuggt, bis 2004 eine zu 99 % funktionierende Beta-Version ins Internet kam.
+  Dylan Culthbert, Entwickler bei Q-Games und ehemals Argonaut Software,
+  bestätigte 2015 in einem Interview mit NintendoLife, dass eine zu 100 % fertige
+  und zur Veröffentlichung bereite Version existiert und er diese in seinem Besitz
+  hat. Diese Version soll auch mehr Inhalte bieten, als die im Internet
+  kursierenden Versionen des Spiels. Mit der Veröffentlichung der SNES Mini
+  Classic am 29. September 2017 wird laut Nintendo US Star Fox 2 auf dem Gerät
+  erhalten sein.
+release: 2017-09-29
+players: 2
+rating: 70%
+x-id: 136591
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Star Fox 2.png
+assets.video: ./media/videos/Star Fox 2.mp4
+
+
+game: Starwing
+file: ./Starwing (Germany).sfc
+developer: Nintendo
+publisher: Nintendo
+genre: Shoot'em Up
+description:
+  Starwing ist das erste Spiel der Star Fox Serie und außerdem das erste Spiel,
+  welches den integrierten Super-FX-Chip nutzte und dem SNES zu dieser Zeit
+  revolutionäre 3D-Grafik ermöglichte.
+  .
+  Das Spielprinzip besteht in der Steuerung von Fox McClouds Arwing, durch eine
+  vorgegebene  und automatisch scrollende Umgebung. Dabei müssen Gegner durch
+  Laser- oder Bombenschüsse ausgeschaltet und Hindernissen ausgewichen werden. Zu
+  Beginn des Spiels gibt es die Möglichkeit eine von drei Routen zu wählen, die
+  alle auf dem Heimatplaneten Corneria beginnen.
+  .
+  Am Ende jedes Levels wartet ein zu bezwingender Endboss auf dich. Die Routen
+  führen über weitere Planeten oder Weltraumareale zum Planeten Venom, wo der böse
+  Wissenschaftler Andross dich bereits erwartet.
+  .
+  Deine drei Wingmen Falco Lombardi, Peppy Hare und Slippy Toad begleiten und
+  unterstützen Fox auf seiner Reise, suchen jedoch auch regelämßig deine
+  Unterstützung, wenn sie von einem Gegner verfolgt werden.
+release: 1993-06-03
+players: 1
+rating: 80%
+x-id: 19196
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Starwing (Germany).png
+assets.video: ./media/videos/Starwing (Germany).mp4
+
+
+game: Street Fighter II Turbo
+file: ./Street Fighter II Turbo (USA).smc
+developer: Capcom
+publisher: Capcom
+genre: Kampf
+description:
+  In den 1990ern hat Street Figher II einen Standard für Videospiele gesetzt und
+  so das Genre der Kampfspiele revolutioniert. Street Fighter? II Turbo: Hyper
+  Fighting gilt als eines der besten Spiele aller Zeiten und ist der dritte und
+  letzte Ableger der originalen Street Fighter II-Reihe. Mit den acht
+  ursprünglichen Kämpfern wie z. B. Ryu, Chun-Li und Guile und den spielbaren
+  Endgegnern Balrog, Vega, Sagat und M. Bison bietet Street Fighter? II Turbo:
+  Hyper Fighting erweitertes Gameplay und eine verbesserte Ausgewogenheit der
+  Charaktere.
+release: 1993-08-01
+players: 2
+rating: 95%
+x-id: 2176
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Street Fighter II Turbo (USA).png
+assets.video: ./media/videos/Street Fighter II Turbo (USA).mp4
+
+
+game: Street Fighter II
+file: ./Street Fighter II (USA).smc
+developer: Capcom
+publisher: Capcom
+genre: Kampf
+description:
+  Street Fighter II ist ein populäres japanisches Arcade-Spiel von Capcom. Es ist
+  das erfolgreichste und bekannteste Element der gleichnamigen Spieleserie. Das
+  Arcadespiel Street Fighter von 1987 wies bereits einige Merkmale der Nachfolger
+  auf. So war es ein 2D-Beat-'em-up, bei dem sich jeweils zwei Kämpfer vor
+  exotischer Kulisse bekämpfen und man als Spieler durch bestimmte
+  Tastenkombinationen Spezialangriffe wie Feuerbälle oder Spezialschläge anwenden
+  konnte. Anfang der 1990er Jahre begannen dann die beiden Entwickler Akira
+  Nishitani und Akira Yasuda mit der Entwicklung von Street Fighter II, wobei sie
+  neben Elementen des Vorgängers auch Eigenschaften aus Final Fight (1989) mit
+  einfließen ließen. Bis zur Fertigstellung des Spieles, das als eines der Ersten
+  das Capcom Play System nutzt, war sich die Leitung von Capcom im Unklaren
+  darüber, was für ein Spiel entstehen sollte. Erstmals konnte der Spieler bei
+  einem Beat'em Up zwischen mehreren Spielcharakteren auswählen. Von diesen besaß
+  jeder einen eigenen Kampfstil und verschiedene Manöver. Auch der Ausarbeitung
+  der Hintergrundgeschichte und Charaktere wurde viel Raum beigemessen. Viel Lob
+  erhielten die für damalige Verhältnisse hervorragende Grafik, die Steuerung und
+  die Spielbarkeit. Alle Spiele der Reihe erschienen zunächst als Arcade-Automat.
+  Dieser Version folgten anschließend weitere Umsetzungen, mit mal mehr, mal
+  weniger großen Unterschieden. Die jeweiligen neuen Versionen basierten alle auf
+  demselben Gameplay, fügten jedoch einige Neuerungen hinzu wie beispielsweise
+  schnellere (oder einstellbare) Spielgeschwindigkeit, weitere Kämpfer, neue
+  ?Moves?, eine aufladbare Moveleiste und neue Artworks. Der Street Fighter
+  II-Reihe folgten später die Street Fighter Alpha- und Street Fighter III-Reihe,
+  die die Serie in andere Richtungen lenkten. Daher wird erst das Spiel Street
+  Fighter IV von Capcom als legitimer Nachfolger betrachtet.
+release: 1992-06-10
+players: 2
+rating: 80%
+x-id: 2162
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Street Fighter II (USA).png
+assets.video: ./media/videos/Street Fighter II (USA).mp4
+
+
+game: Street Racer
+file: ./Street Racer (USA).smc
+developer: Vivid Image
+publisher: Ubisoft
+genre: Rennen, Fahren
+description:
+  Street Racer ist ein Rennspiel ähnlich wie Super Mario Kart.
+  .
+  Bis zu vier Spieler können im Splitscreen gegeneinander spielen. Wenn du
+  momentan aber keine Freunde herausfordern kannst, ist es auch möglich gegen
+  sieben Computergegner in drei Ligen anzutreten.
+  .
+  Das Spiel bietet acht verschiedene Fahrer mit ihrem eigenen Gefährt, welche sich
+  in der Geschwindigkeit, dem Lenkverhalten, oder der Widerstandsfähigkeit
+  unterscheiden. Außerdem gibt es verschiedene Power-Ups auf den Strecken, wie
+  beispielsweise Bomben, Nitro-Turbo und Reparatur Kits.
+release: 1994-12-08
+players: 4
+rating: 70%
+x-id: 2247
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Street Racer (USA).png
+assets.video: ./media/videos/Street Racer (USA).mp4
+
+
+game: Sunset Riders
+file: ./Sunset Riders (USA).smc
+developer: Konami
+publisher: Konami
+genre: Action-Shooter
+description:
+  Der Wilde Westen... voll von kriminellen Verbrechen. Sir Richard Rose, das meist
+  verachtete Gesicht der Verbrecherbanden, hat genügend Macht um die
+  Bergbauanlagen, Viehfamen und die Handelsgemeinschaften zu kontrollieren und
+  alles zu seinen Gunsten zu wenden. Mit dieser Macht, kann er sich buchstäblich
+  den Wilden Westen kaufen und alles kontrollieren!
+  .
+  Die Menschen brauchen Hilfe, sie sind verzweifelt. Und als die Dinge am
+  finstersten aussahen, kamen 4 Männer in die Stadt geritten, die einen Pakt
+  geschlossen haben: Sir Richard Rose niederzustrecken, um den Menschen im Wilden
+  Westen ein sicheres und friedvolles Leben zu ermöglichen.
+  .
+  Steve, Bob, Billy und Cormano sind die Sunset Riders und sie sind dabei die
+  wildeste Schießerei zu führen, die der Wilde Westen je gesehen hat.
+release: 1993-10-01
+players: 2
+rating: 75%
+x-id: 2292
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Sunset Riders (USA).png
+assets.video: ./media/videos/Sunset Riders (USA).mp4
+
+
+game: Super Ghouls'n Ghosts
+file: ./Super Ghouls'n Ghosts (USA).smc
+developer: Capcom
+publisher: Capcom
+genre: Plattform-Action-Plattform / Kampf Scrolling
+description:
+  Super Ghouls'n Ghosts ist das dritte Spiel in der legendären Ghosts'n
+  Goblins-Reihe und folgt dem tapferen Sir Arthur auf seinem Weg durch
+  dämonenverseuchte Lande, um die entführte Prinzessin zu retten. Kämpfe dich
+  durch gefährliche Level und besiege die jeweiligen Endgegner, um weiterzukommen.
+  Aber sei vorsichtig: Wenn Arthur getroffen wird, zerbricht seine Rüstung und ihm
+  bleiben nur noch seine Boxershorts! Dieses herausfordernde Jump'n'Run,
+  ursprünglich ein Exklusivtitel für Super NES, wurde von Kritikern hochgelobt und
+  zu einem sofortigen Verkaufsschlager.
+release: 1991-11-01
+players: 1
+rating: 80%
+x-id: 2180
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Super Ghouls'n Ghosts (USA).png
+assets.video: ./media/videos/Super Ghouls'n Ghosts (USA).mp4
+
+
+game: Super Mario All-Stars
+file: ./Super Mario All-Stars (USA).sfc
+developer: Nintendo
+publisher: Nintendo
+genre: Plattform-Sammlung-Action
+description:
+  Super Mario All-Stars ist eine Videospielesammlung der Firma Nintendo für das
+  Super Nintendo Entertainment System, die am 1. Januar 1994 erschien. Die
+  Sammlung enthält das Arcade-Spiel Mario Bros. von 1983 und die NES-Klassiker
+  Super Mario Bros., Super Mario Bros.: The Lost Levels, Super Mario Bros. 2 und
+  Super Mario Bros. 3, die grafisch und akustisch an das Niveau der Konsole
+  angepasst wurden
+release: 1993-08-01
+players: 2
+rating: 80%
+x-id: 2174
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Super Mario All-Stars (USA).png
+assets.video: ./media/videos/Super Mario All-Stars (USA).mp4
+
+
+game: Super Mario Kart
+file: ./Super Mario Kart (USA).smc
+developer: Nintendo
+publisher: Nintendo
+genre: Rennen 3rd Pers.-Rennen, Fahren
+description:
+  Eine Sammlung an Super Mario Charakteren, unter anderem: Mario, Luigi, Yoshi,
+  Peach, Bowser und Donkey Kong Jr. sind unterwegs um die Super Mario Kart
+  Meisterschaft zu gewinnen. Unter Verwendung des Mode 7 Modi ist es das erste
+  echte Kart-Spiel auf dem SNES, dass dich Münzen sammeln lässt um deine
+  Geschwindigkeit zu erhöhen, währenddessen du mit Schildkrötenpanzern und Bananen
+  die anderen auf der Rennstrecke stoppst.
+  .
+  Es gibt insgesamt 4 Cups, Champion Cup, Flower Cup, Star Cup und den Special
+  Cup, jeweils mit einer Auswahl an verschiedensten Rennstrecken die an Super
+  Mario World angelehnt sind. Außerdem gibt es einen 2-Spieler-Kampf-Modus, wobei
+  derjenige gewinnt, der seinem Gegenspieler alle drei Ballons zum platzen bringt.
+release: 1992-09-01
+players: 2
+rating: 80%
+x-id: 2153
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Super Mario Kart (USA).png
+assets.video: ./media/videos/Super Mario Kart (USA).mp4
+
+
+game: Super Mario RPG : Legend of the Seven Stars
+file: ./Super Mario RPG - Legend of the Seven Stars.sfc
+developer: Square Enix
+publisher: Nintendo
+genre: Rollenspiele
+description:
+  Super Mario RPG: Legend of the Seven Stars erschien 1996 auf dem Super Nintendo
+  Entertainment System (SNES), einer Spielkonsole der Firma Nintendo. Es ist das
+  erste Mario-Spiel, das auf dem Genre der Rollenspiele basiert.[1] Es wurde von
+  der Firma Square entwickelt und von dem Konsolen- und Spielehersteller Nintendo
+  vertrieben.[2] Super Mario RPG erschien damals ausschließlich in Japan und
+  Nordamerika. Erst im Jahr 2008 erschien es auch in Europa auf der Virtual
+  Console als kostenpflichtiger Download für die Wii-Konsole. Das Spiel handelt
+  von Mario und seinen Gefährten, die danach streben Smithy zu stoppen, der sieben
+  Sternenteile von der Sternenstraße gestohlen hat. Diese wollen die Gefährten
+  zurückholen, um die Sternenstraße wiederherzustellen. Im Laufe der Handlung sind
+  fünf Charaktere spielbar. Super Mario RPG: Legend of the Seven Stars entstand
+  unter der Leitung von Yoshihiko Maekawa und Chihiro Fujioka sowie Shigeru
+  Miyamoto, der als Produzent fungierte. Der Soundtrack wurde von Y?ko Shimomura
+  komponiert. Das Spiel gilt als Vorbild für weitere Mario-Rollenspiele und als
+  Grundstein der Serien Paper Mario und Mario & Luigi. Das Spiel Paper Mario, das
+  das erste Mario-Rollenspiel nach diesem war, wurde anfänglich noch unter dem
+  Namen Super Mario RPG 2 angekündigt, wurde aber noch vor der Veröffentlichung
+  umbenannt.
+release: 1996-05-13
+players: 1
+rating: 90%
+x-id: 2171
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Super Mario RPG - Legend of the Seven Stars.png
+assets.video: ./media/videos/Super Mario RPG - Legend of the Seven Stars.mp4
+
+
+game: Super Mario World - Redrawn
+file: ./Super Mario World Redrawn (USA).sfc
+genre: Plattform / Jump'n'Run-Plattform-Plattform-Plattform-Plattform-Plattform
+description:
+  Wieder einmal hat der böse Bowser Prinzessin Peach (die im Urlaub auf Yoshis
+  Island war) gefangen genommen, und es ist eine Aufgabe für Mario, sie zu retten.
+  Um Ihnen bei diesem Abenteuer zu helfen, muss Mario die Fähigkeit Federflug
+  einsetzen, um schwer zugängliche Orte zu erreichen. Noch wichtiger ist sein
+  neuer Freund, der Dinosaurier Yoshi, auf dem Mario auf jedem Level reiten und
+  Feinde verschlucken kann. Aber warte, da ist etwas anderes! Dies ist ein Hack
+  aus dem klassischen Super Mario World-Spiel, und es wurden erstaunliche
+  Kunstwerke erstellt, um das gesamte Aussehen des Spiels zu verändern. Alle
+  Grafiken sind ausnahmslos schöner gestaltet, fast so gut wie in SMB2 - Yoshi's
+  Island!
+players: 1
+rating: 90%
+x-id: 154079
+x-source: ScreenScraper.fr
+
+
+game: Super Mario World
+file: ./Super Mario World (V1.1) (Deutsch) [!].smc
+developer: Nintendo
+publisher: Nintendo
+genre: Plattform-Plattform / Jump'n'Run
+description:
+  Mario und Luigi machen sich auf ins Dinosaurierland, denn Bowser und die
+  Koopalinge haben Prinzessin Peach erneut entführt!
+  .
+  Kurz nachdem sie auf der Insel angekommen sind, stoßen sie auf den Dinosaurier
+  Yoshi, der bei seinem Versuch seine Freunde zu retten, von Bowser in ein Ei
+  gesperrt wurde.
+  .
+  Mit ihrem neuen Freund und vielen neuen Power-Ups, kämpfen sich Mario und Luigi
+  durch 96 komplett unterschiedliche, vor Herausforderungen strotzende Level. Am
+  Ende jeder Welt gilt es eine Burg zu zerstören, die jeweils von einem der
+  Koopalinge beherrscht wird, bishin zum Schloss von König Bowser selbst.
+release: 1992-04-11
+players: 2
+rating: 85%
+x-id: 2144
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Super Mario World (V1.1) (Deutsch) [!].png
+assets.video: ./media/videos/Super Mario World (V1.1) (Deutsch) [!].mp4
+
+
+game: Super Metroid
+file: ./Super Metroid (Europe) (En,Fr,De).sfc
+developer: Nintendo
+publisher: Nintendo
+genre: Action-Abenteuer
+description:
+  Super Metroid spielt nach den Geschehnissen von Metroid II: Return of Samus. Die
+  Weltraumpiraten haben ihren Stützpunkt auf dem Planeten Zebes wieder errichtet.
+  Nachdem Samus den letzten Metroid vom Planeten SR-388 mit sich genommen hatte,
+  übergibt sie diesen an die Wissenschaftler der Forschungsstation Ceres, die sich
+  im Orbit um den Planeten Zebes befindet. Im Verlauf der Erforschung der
+  Metroid-Larve werden die Metroids als alternative Energiequelle entdeckt.
+  .
+  Doch schon nach kurzer Zeit erreicht sie ein Hilferuf, denn die Raumstation wird
+  angegriffen. Sofort macht sich Samus auf den Rückweg zur Forschungsstation. Dort
+  angekommen findet sie alle Forscher tot vor und trifft den wiederbelebten
+  Piraten Ridley, der die Metroid-Larve stiehlt. Samus bekämpft ihn, aber er
+  flüchtet auf den Planeten Zebes. Der Selbstzerstörungsmechanismus der Station
+  wird aktiviert und zwingt Samus zum Rückzug. Sie folgt Ridley nach Zebes und
+  erkundet die Oberfläche des Planeten.
+  .
+  Zunächst scheint der Planet verlassen zu sein, doch schon bald löst Samus einen
+  Alarm aus, woraufhin die Weltraumpiraten erscheinen und sich ihr in den Weg
+  stellen. Samus kämpft sich immer tiefer ins Innere des Planeten vor, weiterhin
+  auf der Suche nach dem Baby-Metroid.
+release: 1994-07-28
+players: 1
+rating: 80%
+x-id: 2147
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Super Metroid (Europe) (En,Fr,De).png
+assets.video: ./media/videos/Super Metroid (Europe) (En,Fr,De).mp4
+
+
+game: Super Punch-Out!!
+file: ./Super Punch-Out!! (USA).smc
+developer: Nintendo
+publisher: Nintendo
+genre: Sport-Sport / Boxen
+description:
+  Super Punch-Out!! ist ein 1994 erschienenes Computer-Boxspiel für das Super
+  Nintendo. Wie bei den anderen Titeln der Punch-Out!!-Reihe betrachtet man den
+  teilweise transparent dargestellten Protagonisten aus einer Rückenansicht. Es
+  gibt drei reguläre Kampfklassen und eine Bonusklasse mit jeweils vier zu
+  bezwingenden Gegnern. Es existiert auch ein gleichnamiges Arcade-Spiel von
+  Nintendo aus dem Jahr 1985, das ebenfalls auf weitere Plattformen portiert
+  wurde. Die SNES-Version gehört zwar auch zur Serie, stellt jedoch ein
+  eigenständiges Spiel dar. Das Spielmodul enthält eine Batterie, so dass Rekorde,
+  in welcher Zeit Gegner besiegt wurden, gespeichert werden. Geboxt wird pro Kampf
+  drei Minuten, wobei der Computergegner gewinnt, wenn er bis dahin noch nicht KO
+  geschlagen wurde. Die meisten Gegner können unter bestimmten Umständen direkt
+  auf die Matte geschickt werden. Gelingt dies nicht, kann man den Kampf durch
+  einen technischen Knock-Out gewinnen oder verlieren. Im Spiel ist ein TKO
+  definiert als das dreimalige Leeren der Trefferpunkte des Gegners. Wird die
+  Trefferleiste der Spielfigur geleert, muss sie sich durch frequente
+  Tasteneingaben des Spielers ?aufrappeln?. Dagegen kann sie ihre Trefferpunkte
+  mit derselben Methode teilweise erholen, während der Gegner am Boden liegt. Die
+  Spielfigur verfügt im Kampf über die linke und rechte Gerade, jeweils tief und
+  hoch geschlagen, und über zwei Spezialtechniken, den Rapidpunch (mehrere
+  Schnelle Schläge) und den Knockoutpunch (ein schwerer, ausgeholter Schlag),
+  ebenfalls jeweils tief und hoch ausführbar. Die Spielfigur kann zu beiden Seiten
+  und nach unten ausweichen. Für jeden erfolgreichen Angriff bekommt man Punkte
+  auf einer Spezialleiste; ist die Leiste voll, stehen die beiden Spezialtechniken
+  zur Verfügung. Wird die Spielfigur getroffen, leert sich die Spezialleiste
+  komplett. Die Gegner verfügen neben normalen Schlagtechniken über
+  charakteristische Spezialattacken, die härter treffen. Überrascht man den Gegner
+  mit einer Serie von erfolgreichen Angriffen, ist dieser ein paar Sekunden
+  verwirrt und man kann ihn ungefährdet attackieren. Trifft man dabei den ersten
+  Schlag im richtigen Moment, geht der Gegner zu Boden.
+release: 1994-10-01
+players: 1
+rating: 75%
+x-id: 2202
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Super Punch-Out!! (USA).png
+assets.video: ./media/videos/Super Punch-Out!! (USA).mp4
+
+
+game: Super Star Wars : Return of the Jedi
+file: ./Super Star Wars - Return of the Jedi (USA).smc
+developer: Sculptured Software
+publisher: JVC
+genre: Plattform-Action
+description:
+  Die Fortsetzung zu Super Star Wars: Das Imperium schlägt zurück basiert, wie der
+  Name schon vermuten lässt, auf Episode VI: Die Rückkehr der Jedi-Ritter, dem
+  dritten und letzten Film der originalen Star Wars Trilogie.
+  .
+  Das Spiel beinhaltet bekannte Schauplätze und Geschehnisse aus dem Film, wie
+  beispielsweise der Fahrt im Landspeeder zu Jabbas Palast, den es hinterher zu
+  durchsuchen gilt, das Ewok Dorf worauf Prinzessin Leia gestoßen ist, oder die
+  Schlacht von Endor im Millennium Falken.
+  .
+  Wie in den Vorgängern, ist es dem Spieler möglich zwischen den Charakteren zu
+  wechseln: Luke Skywalker, Han Solo und Chewbacca sind bereits aus den vorherigen
+  Spielen bekannt, neu hinzu kommen jetzt: Prinzessin Leia Organa und Wicket der
+  Ewok.
+release: 1994-10-01
+players: 1
+rating: 80%
+x-id: 2226
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Super Star Wars - Return of the Jedi (USA).png
+assets.video: ./media/videos/Super Star Wars - Return of the Jedi (USA).mp4
+
+
+game: Super Star Wars : The Empire Strikes Back
+file: ./Super Star Wars - The Empire Strikes Back (USA).smc
+developer: Sculptured Software
+publisher: JVC
+genre: Plattform-Action
+description:
+  Die Fortsetzung zu Super Star Wars basiert, wie der Name schon vermuten lässt,
+  auf Episode V: Das Imperium schlägt zurück, dem zweiten Film der originalen Star
+  Wars Trilogie.
+  .
+  Das Spiel beinhaltet bekannte Schauplätze und Geschehnisse aus dem Film, wie
+  beispielsweise den Eisplaneten Hoth, die Suche nach Yoda auf dem
+  Dschungelplaneten Dagobah und den Kampf gegen Darth Vader. Einige Gebiete wurden
+  erweitert, wobei neue Orte und Boss-Gegner hinzugefügt wurden die es nicht im
+  Film gab. Außerdem wurden manche Schlüsselereignisse in der Geschichte
+  abgeändert oder ausgelassen.
+  .
+  Wie im Vorgänger, ist es dem Spieler möglich drei Charaktere zu steuern: Luke
+  Skywalker, Han Solo und Chewbacca. Allerdings hat jede Figur jetzt einen
+  individuellen Spezialangriff. Chewie bahnt sich mit seiner Zerstörungskraft
+  seinen Weg durch die Gegner, Han besitzt Granaten und einen kraftvollen
+  Rutschangriff und Luke kann mit seinem Lichtschwert entgegenkommende Geschosse
+  abwehren.
+release: 1993-10-01
+players: 1
+rating: 75%
+x-id: 2265
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Super Star Wars - The Empire Strikes Back (USA).png
+assets.video: ./media/videos/Super Star Wars - The Empire Strikes Back (USA).mp4
+
+
+game: Super Star Wars
+file: ./Super Star Wars (USA).smc
+developer: Sculptured Software
+publisher: JVC
+genre: Plattform-Action
+description:
+  Die Geschichte von Super Star Wars basiert auf Episode IV: Eine neue Hoffnung,
+  dem ersten Film der originalen Star Wars Trilogie. Der Spieler kontrolliert
+  zunächst den Haupthelden des Films, Luke Skywalker, wobei später zwei weitere
+  spielbare Charaktere hinzukommen: der lässige Kapitän Han Solo und sein
+  Wookie-Kumpan Chewbacca.
+  .
+  Das Spiel folgt zum Großteil der Filmgeschichte, sodass der Spieler einige der
+  wichtigsten Sequenzen nachspielen kann, wie beispielsweise die Suche nach
+  Obi-Wan Kenobi, die Rettung von Prinzessin Leia, oder den letzten Kampf gegen
+  den Todesstern und seine Tie-Jäger, angeführt von dem mysteriösen Darth Vader.
+release: 1992-11-01
+players: 1
+rating: 75%
+x-id: 2185
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Super Star Wars (USA).png
+assets.video: ./media/videos/Super Star Wars (USA).mp4
+
+
+game: Super Street Fighter II
+file: ./Super Street Fighter II - The New Challengers (USA).sfc
+developer: Capcom
+publisher: Capcom
+genre: Kampf-Action
+description:
+  Super Street Fighter II das beste Beat ?em up im 16-Bit Sektor ist. Denn kein
+  anderes Modul hat so viele Spielmodi, charismatische Charaktere und Tonnen von
+  Special Moves. Über die Jahre hinweg wuchs die Anzahl der Charaktere auf eine
+  stattliche Zahl und nach drei Versionen (2x Super Nintendo, 1x Mega Drive) haben
+  sich 16 Charaktere erneut zusammengefunden, um sich gegenseitig die Zähne.
+  Verschlang die Turboversion aus dem Jahre 1993 noch satte 20 MBit
+  Speicherkapazität, überschreitet Super Street Fighter II dieses Limit mit seinen
+  prallen 32 MBit (Mega Drive Version 40MBit) deutlich. Der Großteil dieses
+  Speichers wurde gebraucht, um die Sprachausgabe vor- und zwischen den Kämpfen
+  aufzustocken und Kenner werden zudem bemerken, dass viele Stages noch
+  ansehnlicher ausgefallen sind. Zu all den Neuerungen wie On-Screen Anzeige für
+  Combos und Punkte, den üblichen Turbosternen und dem ausufernden Optionsmenü
+  haben sich vier neue Charaktere in die Riege von Straßenkämpfern eingefügt. Da
+  wäre zum einen der von Bruce Lee inspirierte Chinese Fei Long, der mit seinem
+  Rekka Ken dem dicken Honda echte Konkurrenz macht. Ins männerdominierte Feld
+  kommt zudem eine aus dem verregneten England stammende Protagonistin hinzu.
+  Cammy, ein Mitglied des Secret Service, versucht durch das Turnier an M. Bison
+  heranzukommen und ihre wahre Identität zu erfahren, da die Gute an
+  Gedächtnisverlust leidet. Die letzten zwei Neuankömmlinge sind Thunder Hawk, ein
+  bulliger Indianer und der jamaikanische Kickboxer Dee Jay, der für seinen
+  ausufernden Kampfstyle bekannt ist.
+release: 1993-09-11
+players: 2
+rating: 80%
+x-id: 2201
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Super Street Fighter II - The New Challengers (USA).png
+assets.video: ./media/videos/Super Street Fighter II - The New Challengers (USA).mp4
+
+
+game: Tales of Phantasia
+file: ./Tales of Phantasia (Deutsch).sfc
+developer: Wolf Team
+publisher: Namco
+genre: Rollenspiele
+description:
+  Mit „Tales of Phantasia“ startet die „Tales of“-Spielereihe, welche mittlerweile
+  über ein Dutzend Haupttitel und weitere Spinoffs vorzuzeigen hat. Weiterhin ist
+  „Tales of Phantasia“ der am häufigsten wiederveröffentlichte Titel der Serie
+  innerhalb Japans.
+  .
+  Cress Albane lebt als Sohn eines Schwertmeisters mit eigener Schwertkampfschule
+  im friedvollen Dorf Toltus. Als er mit seinem Kindheitsfreund Chester Burklight
+  zur Jagd im nahegelegenen Wald aufbricht, ahnt er nicht, dass Toltus in der
+  Zwischenzeit von einem machthungrigen Ritter angegriffen wird. Während Cress der
+  scheinbaren Illusion eines gequälten Elementargeistes begegnet, ertönt bereits
+  die Signalglocke für Notfälle und das Dorf ist nicht mehr wiederzuerkennen.
+release: 1995-12-15
+players: 2
+rating: 75%
+x-id: 2161
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Tales of Phantasia (Deutsch).png
+assets.video: ./media/videos/Tales of Phantasia (Deutsch).mp4
+
+
+game: Terranigma
+file: ./Terranigma.sfc
+developer: Quintet
+publisher: Enix
+genre: Rollenspiele-Action-Action / Abenteuer
+description:
+  Vor langer, langer Zeit, als die Menschen noch an Mythen, Magie und Dämonen
+  glaubten, trug sich auf dem blauen Planeten eine Geschichte zu, die um ein Haar
+  die friedvolle Evolution der Erde in eine apokalptisches Inferno verwandelt
+  hätte. Ich, meine Freunde, bin gehalten, Euch von diesem Ereignis zu berichten,
+  auf daß Ihr nie vergessen werdet, wie gewagt es ist, sich mit den Mächten der
+  Finsternis zu messen. Doch nun genug der Worte, folgt mir...
+  .
+  Die Programmierer von ENIX haben sich bei der Gestaltung von Terranigma selbst
+  übertroffen. Ein außergewöhnlicher Detailreichtum und vol allen Dingender
+  nichtlineare Spielverlauf machen aus diesem Spiel ein Highlight des Genres.
+  Abhängig vom Verhalten des Helden ändert sich die Story im Abenteuer und
+  garantiert somit langanhaltenden Spielspaß!
+release: 1996-12-19
+players: 1
+rating: 75%
+x-id: 2160
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Terranigma.png
+assets.video: ./media/videos/Terranigma.mp4
+
+
+game: Tetris & Dr. Mario
+file: ./Tetris & Dr. Mario (USA).sfc
+developer: Nintendo
+publisher: Nintendo
+genre: Puzzle-Sammlung-Puzzle / Fallen
+description:
+  Tetris & Dr. Mario enthält das beliebte Puzzle-Spiel Tetris, eine neu aufgelegte
+  Version von Dr. Mario und ein Mixed-Match-Modus, indem 2 Spieler in Tetris und
+  danach Dr. Mario gegeneinander antreten müssen.
+  .
+  Der Unterschied zu den Original-Spielen ist, dass die Grafik verbessert, die
+  Musik neu gemixt wurde und es einen vs. Computer-Modus gibt.
+release: 1994-12-01
+players: 2
+rating: 75%
+x-id: 2335
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Tetris & Dr. Mario (USA).png
+assets.video: ./media/videos/Tetris & Dr. Mario (USA).mp4
+
+
+game: The Death and Return of Superman
+file: ./Death and Return of Superman, The (Europe).sfc
+developer: Sunsoft
+publisher: Blizzard Entertainment
+genre: Beat'em Up-Action
+description:
+  Jetzt geht's aufs Ganze! Bereite Dich auf ein Abenteuer vor, das Dich in die
+  Welt dieses klassisches DC Comics entführt. Als Superman kämpfst Du gegen den
+  mächtigen Doomsday, der Tod und Zerstörung über Metropolis bringt! Bestimme dann
+  das Schicksal der vier Supermänner - jeder von ihnen behauptet, der echte
+  Superman zu sein! Jage durch 10 Levels voller knallharter Kämpfe, und fliege mit
+  atemberaubender Geschwindigkeit durch die Lüfte, bis nur noch der wahre
+  Superheld übrig bleibt!
+release: 1994-11-01
+players: 1
+rating: 65%
+x-id: 2409
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Death and Return of Superman, The (Europe).png
+assets.video: ./media/videos/Death and Return of Superman, The (Europe).mp4
+
+
+game: The Incredible Hulk
+file: ./Incredible Hulk, The (Europe).sfc
+developer: U.S. Gold
+publisher: Probe Software
+genre: Plattform-Action
+description:
+  Eine neue Herausforderung für The Incredible Hulk. Man will ihn aus dem Weg
+  räumen, bevor die geplante Invasion auf der Erde beginnt. Jetzt geht's für Hulk
+  um die Wurst! Tyrannus, Absorbing Man, Abomination, Rhino und The Leader freuen
+  sich schon darauf, Hulk zum Frühstück zu verspeisen. Fünf spannende Level mit
+  drei Schwierigkeitsstufen. Wohl bekomm's!
+release: 1994-08-01
+players: 1
+rating: 40%
+x-id: 2538
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Incredible Hulk, The (Europe).png
+assets.video: ./media/videos/Incredible Hulk, The (Europe).mp4
+
+
+game: The Legend of Zelda : A Link to the Past
+file: ./Legend of Zelda, The - A Link to the Past (Germany).sfc
+developer: Nintendo
+publisher: Nintendo
+genre: Abenteuer-Action / Abenteuer-Rollenspiele-Action
+description:
+  Der böse Ganon, in Gestalt des Zauberers Agahnim, versucht das Siegel zu
+  brechen, welches ihn in der Schattenwelt, dem ehemaligen Goldenen Land, gefangen
+  hält. Dazu schließt er die Nachfahren der Weisen, die einst das Siegel schufen,
+  darunter auch Prinzessin Zelda, in Kristalle ein und hält sie in der
+  Schattenwelt gefangen. Link muss einige Artefakte beschaffen, um schließlich
+  alle sieben Mädchen aus der Schattenwelt befreien zu können. Zusammen mit den
+  Weisen macht er sich auf, Ganon zu besiegen und das heilige Triforce
+  zurückzugewinnen.
+release: 1992-09-24
+players: 1
+rating: 95%
+x-id: 2138
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Legend of Zelda, The - A Link to the Past (Germany).png
+assets.video: ./media/videos/Legend of Zelda, The - A Link to the Past (Germany).mp4
+
+
+game: Trials of Mana
+file: ./Secret of Mana 2(Deutsch).sfc
+developer: Square Enix
+publisher: Square Enix
+genre: Rollenspiele-Action-RPG
+description:
+  Es sind einige Jahre vergangen als die Manakräfte, mithilfe des Manaschwertes in
+  acht sogenannte Manasamen gebannt wurden. Diese wurden auf die acht Königreiche
+  verteilt. Es gibt einige Leute, die über die Macht Bescheid wissen und diese
+  nicht zum wohle für die Menscheit nutzen wollen sondern für Ihre ganz
+  persönlichen Ziele... Wie das Königreich Altena, welches langsam einfriert und
+  diese legendäre Macht braucht um sich zu retten.
+  .
+  Das Spiel bietet mehrere Storyplots welche jeweils den Hintergrund eines Helden
+  oder einer Heldin beleuchten. Am Anfang kann man aus sechs verschiedenen Klassen
+  wählen. Duran der Krieger, Angela die junge Zauberin, Lisa die Amazone, Carlie
+  die Klerikerin, Kevin der Wrestler und Hawk der Dieb. Die Geschichten starten
+  jeweils an verschiedenen Orten und im Spielverlauf treffen die Charaktere an
+  einigen Punkten aufeinander und am Ende wird aus den losen Storyfäden eine
+  Geschichte.
+  .
+  Secret of Mana 2 (Seiken Densetsu 3 im jap. original) wurde leider nie in den
+  USA oder Europa veröffentlicht, sonder nur in Japan und ist genau genommen schon
+  der dritte Teil der Mana-Serie. Deshalb findet man Spiel auch nur auf japanisch
+  oder Mithilfe von Fanpatches auch in anderen Sprachen. Wie aber bei Secret of
+  Mana finden die Kämpfe in Echtzeit statt und man kann in diesem RPG auch die
+  Klassen zweimal wechseln.....
+release: 1995-09-30
+players: 3
+rating: 75%
+x-id: 2164
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Secret of Mana 2(Deutsch).png
+assets.video: ./media/videos/Seiken Densetsu 3 (GERMAN).mp4
+

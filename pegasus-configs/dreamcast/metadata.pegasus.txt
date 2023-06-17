@@ -1,0 +1,565 @@
+collection: Sega Dreamcast
+shortname: dreamcast
+extensions: 7z, bin, cdi, chd, cue, dat, elf, gdi, lst, m3u, zip
+launch: am start
+  -n com.retroarch/.browser.retroactivity.RetroActivityFuture
+  -e ROM {file.path}
+  -e LIBRETRO /data/data/com.retroarch/cores/flycast_libretro_android.so
+  -e CONFIGFILE /storage/emulated/0/Android/data/com.retroarch/files/retroarch.cfg
+  -e QUITFOCUS
+  --activity-clear-task
+  --activity-clear-top
+  --activity-no-history
+game: Capcom Fighting Collection
+file: ./TDCFinal2.cdi
+developer: Homebrew
+publisher: Homebrew
+genre: Sammlung
+description:
+  Inhalt der Homebrew-Zusammenstellung :\n
+  - Capcom vs. SNK 2 (JP)\n
+  - Capcom vs. SNK 2: Fan-Disk (JP)\n
+  - Ikaruga (JP)\n
+  - Marvel vs. Capcom 2 (US)\n
+  - Marvel vs. Capcom 2 (JP)\n
+  - Super Street Fighter 2 X (Neue englische Übersetzung)\n
+  - Super Street Fighter 2 X (JP)\n
+  - Street Fighter 3: 3rd Strike (US)\n
+  - Street Fighter 3: 3rd Strike (JP)\n
+  - Super Puzzle Fighter 2 X (Neue englische Übersetzung)\n
+  - Super Puzzle Fighter 2 X (JP)
+release: 2007-02-06
+players: 2
+rating: 80%
+x-id: 143384
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/TDCFinal2.png
+assets.video: ./media/videos/TDCFinal2.mp4
+
+
+game: Crazy Taxi 2
+file: ./Crazy Taxi 2.cdi
+developer: Hitmaker
+publisher: SEGA
+genre: Rennen, Fahren
+description:
+  Das verrückte gelbe Taxi ist wieder da und macht diesmal die Straßen von New
+  York unsicher. Mit 4 neuen Fahrern, einem "Crazy Jump"-Feature und vielen
+  Pick-Ups. Für ein dickes Trinkgeld braucht man sich eigentlich nur eine Frage zu
+  stellen: Bin ich verrückt?
+release: 2001-05-29
+players: 1
+rating: 80%
+x-id: 13574
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Crazy Taxi 2.png
+assets.video: ./media/videos/Crazy Taxi 2.mp4
+
+
+game: Crazy Taxi
+file: ./Crazy Taxi.cdi
+developer: SEGA
+publisher: SEGA
+genre: Rennen, Fahren
+description:
+  Das verrückteste Taxi der Welt! Dieses Taxi sollten sie besser nicht rufen. Denn
+  der gerade Weg ist hier immer der kürzeste, wenn auch nicht immer der
+  angenehmste. Über Treppen, Parks und selbst durch U-Bahn-Tunnel darf abgekürzt
+  werden. Stunts und guten Fahrstil kommentiert der Fahrgast mit einem Bonus,
+  Chrashs dagegen mit üblen Flüchen. Fußgänger springen rechtzeitig mit einem
+  Schrei zur Seite und wird das Fahrziel nicht rechtzeitig erreicht, steigt der
+  Gast mit einem bösen Kommentar aus. Die Städte sind derart groß, dass auch nach
+  langer Spielzeit noch immer etwas Neues zu entdecken ist. Die Straßen sind
+  bevölkert von Autos, Lastwagen, Bussen, Bahn und einer Menge Fußgängern. Häuser
+  und Umgebung wiederholen sich nicht, was den Eindruck vermittelt, in einer
+  echten Stadt unterwegs zu sein.
+release: 2000-02-18
+players: 1
+rating: 80%
+x-id: 13514
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Crazy Taxi.png
+assets.video: ./media/videos/Crazy Taxi.mp4
+
+
+game: Dead or Alive 2
+file: ./Dead or Alive 2 (USA)[RDC].cdi
+developer: Tecmo
+publisher: Acclaim
+genre: Kampf
+description:
+  Kannst du dich aus einer Umklammerung von hinten befreien? Kannst du einen Tritt
+  gegen den Kopf abwehren? Lass dich nicht überrumpeln. Schlag zurück bei der Dead
+  or Alive 2 Meisterschaft. Wirf deinen Rivalen aus dem Fenster und spring die
+  zehn Stockwerke hinterher, um ihn fertigzumachen. Deine Umgebung spielt mit:
+  Lass Sprengladungen hochgehen und Glas zersplittern, wate durch Wasser,
+  zertrümmere Wände und vieles mehr. Mit seinen 10 verschiedenen Kampfmodi haut
+  dich Dead or Alive 2 immer wieder um!
+release: 2000-02-29
+players: 4
+rating: 95%
+x-id: 13512
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Dead or Alive 2 (USA)[RDC].png
+assets.video: ./media/videos/Dead or Alive 2 (USA)[RDC].mp4
+
+
+game: Disney's Donald Duck : Goin' Quackers
+file: ./Disney's Donald Duck - Goin' Quackers (USA).cdi
+developer: Disney Interactive
+publisher: Ubisoft
+genre: Plattform-Action
+description:
+  Disneys tolpatschiger Superstar wütet erstmals im 3D-Gewand über dem Bildschirm.
+  In vier Welten und 24 Level soll er versuchen, seine Geliebte Daisy aus den
+  Händen des Zauberers Merlock zu befreien, ehe ihm sein Rivale Gustav Gans
+  zuvorkommt. Durch die comicartige 3D-Grafik sollen Donalds Wutanfälle und seine
+  Hyperaktivität voll erhalten bleiben und die Action sich so mit witzigem
+  Gameplay verbinden.
+release: 2000-12-13
+players: 1
+rating: 50%
+x-id: 13601
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Disney's Donald Duck - Goin' Quackers (USA).png
+assets.video: ./media/videos/Disney's Donald Duck - Goin' Quackers (USA).mp4
+
+
+game: GigaWing 2
+file: ./GigaWing 2 (USA)[RDC].cdi
+developer: Takumi Corporation
+publisher: Capcom
+genre: Shoot'em Up
+description:
+  The third game in the Takumi/Capcom arcade shooter trilogy, Giga Wing 2 was
+  originally designed for the Naomi arcade system and later ported to the
+  Dreamcast. It is a top-down, vertical-scrolling shoot-em-up featuring
+  four-player simultaneous action, high-res 3D graphics, and an orchestral score.
+  There are four characters to choose from, each with his own storyline and
+  fighter/spaceship. Each ship has its own weapon type and speed. Like the
+  previous Giga Wing and Mars Matrix games, gameplay is designed around bullet
+  absorption/reflection mechanics, large numbers of enemies, and giant boss
+  fights. Giga Wing 2 adds the ability to choose from two different bullet
+  reflection powers: reflect force and reflect laser. The reflect force repulses
+  enemy shots, while the reflect laser uses them to charge up a beam weapon.
+release: 2001-05-16
+players: 4
+rating: 75%
+x-id: 13699
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/GigaWing 2 (USA)[RDC].png
+assets.video: ./media/videos/GigaWing 2 (USA)[RDC].mp4
+
+
+game: Gunbird 2
+file: ./Gunbird 2 (USA)[DCCM].cdi
+developer: Psikyo
+publisher: Virgin Interactive
+genre: Shoot'em Up
+description:
+  The sequel to the arcade sleeper Gunbird blasts its way onto Sega's Dreamcast!
+  Take flight as one of seven crazy characters as you battle the Queen Pirates in
+  search of the world's biggest treasure hoard! This Dreamcast version features a
+  guest appearance by Capcom's Morrigan Aenslaed as a playable character, who
+  never appeared in the arcade version.
+release: 2000-11-10
+players: 2
+rating: 70%
+x-id: 13694
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Gunbird 2 (USA)[DCCM].png
+assets.video: ./media/videos/Gunbird 2 (USA)[DCCM].mp4
+
+
+game: Ikaruga
+file: ./Ikaruga (Japan)[RDC].cdi
+developer: Treasure
+publisher: Treasure
+genre: Shoot'em Up-Shoot'em Up / Vertikal
+description:
+  Vertical shoot-em-up ported from the Naomi Arcade version. Ikaruga is more or
+  less a sequel to Radiant Silvergun by Treasure, on the Sega Saturn.\n
+  Based on a two-colors system, the player has to switch between the black & white
+  sides of his ship during gameplay.\n
+  The black side is immune to black enemy bullets which it consider as bonus, and
+  dies on impact with a white enemy bullets. Your own black bullets damages white
+  enemies twice as more as white bullets. And vice-versa for the white side. Those
+  properties makes a balance between protecting yourself well and killing enemies
+  fast.\n
+  This aspect, combined with specific enemy patterns and a combo system makes
+  Ikaruga an original shoot-em-up with a dose of strategy.
+release: 2002-09-05
+players: 2
+rating: 80%
+x-id: 13559
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Ikaruga (Japan)[RDC].png
+assets.video: ./media/videos/Ikaruga (Japan)[RDC].mp4
+
+
+game: Legacy of Kain : Soul Reaver
+file: ./Legacy of Kain - Soul Reaver (USA)[RDC].cdi
+developer: Crystal Dynamics
+publisher: Eidos Interactive
+genre: Abenteuer-Action / Abenteuer-Action
+description:
+  Verraten von seinem Herrscher Kain treibt der Untote Raziel in den düsteren
+  Ruinen der Vampirstadt Nosgoth sein Unwesen. Als Wanderer zwischen der Welt der
+  Sterblichen und der spektralen Unterwelt führt Raziel seinen Rachefeldzug gegen
+  die gewaltigen Vampirscharen und finstersten Kreaturen von Nosgoth. Nur wenn er
+  die Energie ihrer Seelen in sich aufnimmt kann er seine Rache vollenden. 16
+  riesige Levels existieren in zwei unterschiedlichen Dimensionen und morphen
+  zwischen ihnen in Echtzeit. Hochauflösende Grafik, gewaltige gotische
+  Architektur und eine wahre Horroratmosphäre.
+release: 2000-01-27
+players: 1
+rating: 80%
+x-id: 13497
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Legacy of Kain - Soul Reaver (USA)[RDC].png
+assets.video: ./media/videos/Legacy of Kain - Soul Reaver (USA)[RDC].mp4
+
+
+game: Marvel vs. Capcom 2
+file: ./Marvel Vs Capcom 2 (USA).cdi
+developer: Capcom
+publisher: Virgin
+genre: Kampf
+description:
+  Eines der besten 2D-Beat'em up aller Zeiten. Noch nie dagewesene 56
+  Spielcharaktere inklusive brandneuer Marvel-Charaktere und Jill aus Resident
+  Evil. Gnadenlose Teamduelle 3 gegen 3 - die perfekte Arcade-Action. Neues
+  Hyper-Combo-System: kombiniere die Super-Moves aller drei Charaktere zu einer
+  Attacke.
+release: 2000-06-27
+players: 2
+rating: 85%
+x-id: 13546
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Marvel Vs Capcom 2 (USA).png
+assets.video: ./media/videos/Marvel Vs Capcom 2 (USA).mp4
+
+
+game: Metropolis Street Racer
+file: ./Metropolis Street Racer (USA)[YZB].cdi
+developer: Bizarre Creations
+publisher: SEGA
+genre: Rennen, Fahren
+description:
+  Enter a new age of driving, a new form of thinking and feeling, and totally
+  immerse yourself in the most advanced driving game ever created. Your 'Kudos' is
+  the only path to success, since this is a unique test of skill, style and
+  precision, which spans the streets of London, Tokyo and San Francisco. Be
+  astounded by the realism, push your limits round 250+ different circuits, in
+  hundreds of challenging events. Indulge up to 8 people in a unique multiplayer
+  experience, and prepare yourself for the ultimate internet Kudos Challenge. From
+  established racing game developers, Bizarre Creations, and featuring music from
+  the renowned Richard Jacques, this game will change the way you think about
+  driving forever.
+release: 2001-01-16
+players: 8
+rating: 90%
+x-id: 13533
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Metropolis Street Racer (USA)[YZB].png
+assets.video: ./media/videos/Metropolis Street Racer (USA)[YZB].mp4
+
+
+game: Mortal Kombat Gold
+file: ./Mortal Kombat Gold (USA)[ECHELON].cdi
+developer: Eurocom
+publisher: Midway
+genre: Kampf
+description:
+  The first and only Mortal Kombat title to make onto the Dreamcast console,
+  Mortal Kombat Gold offered players a carbon-copy of the arcade edition of Mortal
+  Kombat 4, along with additional features and characters never before included in
+  the arcade game.
+  .
+  Using the exact same engine found in Mortal Kombat 4, the game performs
+  flawlessly on the Dreamcast platform, while also running at a higher resolution
+  than its arcade counterpart.
+release: 1999-09-09
+players: 2
+rating: 55%
+x-id: 13534
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Mortal Kombat Gold (USA)[ECHELON].png
+assets.video: ./media/videos/Mortal Kombat Gold (USA)[ECHELON].mp4
+
+
+game: Power Stone 2
+file: ./Power Stone 2 (USA)[RDC].cdi
+developer: Capcom
+publisher: Eidos Interactive
+genre: Kampf
+description:
+  Power Stone 2 bietet dir alles, was du von einer guten Fortsetzung erwarten
+  kannst: mehr Kämpfer, verbessertes Gameplay, ein größeres Waffenarsenal, noch
+  bessere Grafik und einen rasanten 4-Spieler-Modus. Interagiere mit der Umgebung:
+  Stangen, Wände, Fässer, Geschütztürme und sogar Panzer bieten dir unendliche
+  Möglichkeiten im Kampf um die PowerStones.
+release: 2000-08-23
+players: 4
+rating: 85%
+x-id: 13525
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Power Stone 2 (USA)[RDC].png
+assets.video: ./media/videos/Power Stone 2 (USA)[RDC].mp4
+
+
+game: Power Stone
+file: ./Power Stone (USA)[RDC].cdi
+developer: Capcom
+publisher: Eidos Interactive
+genre: Kampf
+description:
+  Wir schreiben das 19. Jahrhundert - eine romantische Ära, in der Legenden und
+  Aberglaube lebendig und mächtig sind. Dem Traum nach unermeßlichem Reichtum
+  nachjaged, sucht eine Reihe mutiger Abenteurer nach den legendären POWER STONES,
+  magischen Steinen, die ihrem Besitzer jeden möglichen Wunsch erfüllen sollen.
+  Power Stone ist das erste wahre, vollständige 3D-Beat_em up überhaupt.
+  Unglaubliche Interaktivität mit der Umgebung - hangeln sie an der Decke,
+  klettern sie auf Dächer, verwenden sie Bänke, Stühle, Fässer, Pfosten und andere
+  Objekte als Waffe. Atemberaubende Grafik kombinert mit rasantem Gameplay.
+  Enthält acht unterschiedliche Charaktere mit einzigartigen Fähigkeiten und
+  Kampfeigenschaften. Sammeln sie Power Stones, um ihren Konkurrenten zu besiegen
+  - drei Steine geben ihnen unglaubliche Fähigkeiten und Wupermoves. Nutzen sie
+  ein riesiges Arsenal von Waffen-Power-Ups: Bazookas, Flammenwerfer, Schwerter,
+  Zeitbomben und mehr. Viele versteckte Bonusoptionen und Secrets begleiten sie
+  durch das Spiel.
+release: 1999-09-09
+players: 2
+rating: 90%
+x-id: 13520
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Power Stone (USA)[RDC].png
+assets.video: ./media/videos/Power Stone (USA)[RDC].mp4
+
+
+game: Project Justice
+file: ./Project Justice.cdi
+developer: Capcom
+publisher: Virgin Interactive
+genre: Kampf
+description:
+  Eine verworrene Gemeinschaft alter Freunde auf der Jagd nach Ehre und
+  Perfektion. Sie überwinden ihre Rivalität und schließen sich zusammen, um das
+  Geheimnis einer Serie seltsamer Begebenheiten zu enträtseln. Wählen sie aus über
+  20 spielbaren Charakteren mit individuellen Fähigkeiten und Kampftechniken. Es
+  stehen 5 Spielvarianten zur Auswahl: Arcade, Gegeneinander, Training, Liga- und
+  Tourniermodus. Spielen sie mit bis zu 3 Kämpfern im Team gegeneinander in einer
+  wunderschön gestalteten 3D-Welt. Stellen sie ihr team auf und führen sie
+  einzigartige Kampftechniken aus für ihr gemeinsames Ziel: PROJECT JUSTICE -
+  Gerechtigkeit!
+release: 2001-05-16
+players: 4
+rating: 80%
+x-id: 13516
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Project Justice.png
+assets.video: ./media/videos/Project Justice.mp4
+
+
+game: Rayman 2 : The Great Escape
+file: ./Rayman 2 - The Great Escape (Europe) (En,Fr,De,Es,It).gdi.chd
+developer: Ubisoft
+publisher: Ubisoft
+genre: Plattform
+description:
+  Mach dich bereit für das schnellste und abgedrehteste Dreamcast Game, das du je
+  gesehen hast. Robot-Piraten aus den Tiefen des Weltalls überfallen Raymans Welt.
+  Sie stehlen die Lebensenergie des Planeten. Klar, dass nur einer sie aufhalten
+  kann: RAYMAN! Steige jetzt ein in eines der grössten Abenteuer aller Zeiten.
+  Wasserskifahren, Achterbahnfahren oder auf dem Rücken einer Rakete reiten sind
+  nur einige wahnsinnige Möglichkeiten, die dir helfen - deine Feinde aber zum
+  Verzweifeln bringen.
+release: 2000-03-17
+players: 4
+rating: 80%
+x-id: 13502
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Rayman 2 - The Great Escape (Europe) (En,Fr,De,Es,It).gdi.png
+assets.video: ./media/videos/Rayman 2 - The Great Escape (Europe) (En,Fr,De,Es,It).gdi.mp4
+
+
+game: Resident Evil Code : Veronica
+file: ./Resident Evil - Code Veronica (USA)(Disc 1 of 2)[RDC].cdi
+developer: Capcom
+publisher: Eidos Interactive
+genre: Abenteuer / Survival-Horror-Abenteuer
+description:
+  Nachdem Clair Redfield ihr letztes Horror-Abenteuer in Raccoon City nur äußerst
+  knapp überlebt hat, begibt sie sich nun auf die Suche nach ihrem vermissten
+  Bruder Chris. Zu ihrem Entsetzen muss Claire feststellen, dass Umbrellas
+  Aktivitäten sich nicht bloß auf die verlassene Stadt im Mittleren Westen
+  beschränkt. Im Gegenteil: Es scheint etwas viel Größeres vorzugehen. Furchtbare
+  Kreaturen und grauenhafte Zombies werden immer mehr zu einer globalen Bedrohung!
+  Doch wie weit erstreckt sich diese entsetzliche Verschwörung? Was hat die
+  Umbrella Corporation wirklich vor? Und wer steckt hinter diesem biologischen
+  Albtraum?
+release: 2000-03-29
+players: 1
+rating: 95%
+x-id: 13491
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Resident Evil - Code Veronica (USA)(Disc 1 of 2)[RDC].png
+assets.video: ./media/videos/Resident Evil - Code Veronica (USA)(Disc 1 of 2)[RDC].mp4
+
+
+game: Resident Evil Code : Veronica
+file: ./Resident Evil - Code Veronica (USA)(Disc 2 of 2)[RDC].cdi
+developer: Capcom
+publisher: Eidos Interactive
+genre: Abenteuer / Survival-Horror-Abenteuer
+description:
+  Nachdem Clair Redfield ihr letztes Horror-Abenteuer in Raccoon City nur äußerst
+  knapp überlebt hat, begibt sie sich nun auf die Suche nach ihrem vermissten
+  Bruder Chris. Zu ihrem Entsetzen muss Claire feststellen, dass Umbrellas
+  Aktivitäten sich nicht bloß auf die verlassene Stadt im Mittleren Westen
+  beschränkt. Im Gegenteil: Es scheint etwas viel Größeres vorzugehen. Furchtbare
+  Kreaturen und grauenhafte Zombies werden immer mehr zu einer globalen Bedrohung!
+  Doch wie weit erstreckt sich diese entsetzliche Verschwörung? Was hat die
+  Umbrella Corporation wirklich vor? Und wer steckt hinter diesem biologischen
+  Albtraum?
+release: 2000-03-29
+players: 1
+rating: 95%
+x-id: 13491
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Resident Evil - Code Veronica (USA)(Disc 1 of 2)[RDC].png
+assets.video: ./media/videos/Resident Evil - Code Veronica (USA)(Disc 1 of 2)[RDC].mp4
+
+
+game: Sonic Adventure 2
+file: ./Sonic Adventure 2 (USA)[DCRES].cdi
+developer: Sonic Team
+publisher: SEGA
+genre: Plattform
+description:
+  Die Welt kann ganz schön kompliziert und gefährlich sein, besonders wenn man zu
+  zweit ist! Sonic bekommt es mit dem neuen, bösen Igel Shadow zu tun, aber Sie
+  entscheiden über den Verlauf der Geschichte - Sie können ein Held sein oder sich
+  für die dunkle Seite entscheiden.
+release: 2001-06-19
+players: 2
+rating: 80%
+x-id: 13488
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Sonic Adventure 2 (USA)[DCRES].png
+assets.video: ./media/videos/Sonic Adventure 2 (USA)[DCRES].mp4
+
+
+game: Sonic Adventure
+file: ./Sonic Adventure (USA) (Limited Edition)[DCCM].cdi
+developer: Sonic Team
+publisher: SEGA
+genre: Plattform
+description:
+  Sonic ist wieder da! Und diesmal geht es um nichts geringeres, als die Welt vor
+  dem verrückten Wissenschaftler Dr. Robotnik zu retten. In seinem größten und
+  spannendsten Abenteuer muss Sonic mit alten und neuen Freunden, Dr. Robotnik
+  davon abhalten 7 Steine zu finden und mit Hilfe dieser Chaos auf die Welten
+  loszulassen. Sonic reist dabei in atemberaubenden 3D Welt voller lebendiger
+  Details. High Speed Verfolgungsjagden und rätselhafte Stätten zum Erforschen
+  sind dabei nur ein Bruchteil der zu bestehenden Abenteuer. Sonics Abenteuer
+  haben erst begonnen!
+release: 1999-09-09
+players: 1
+rating: 90%
+x-id: 13489
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Sonic Adventure (USA) (Limited Edition)[DCCM].png
+assets.video: ./media/videos/Sonic Adventure (USA) (Limited Edition)[DCCM].mp4
+
+
+game: SoulCalibur
+file: ./Soul Calibur (USA)[DCCM].cdi
+developer: Namco
+publisher: Namco
+genre: Kampf
+description:
+  Namco's erster Dreamcast Titel Soul Calibur hat die fantastische Spielbarkeit
+  und unglaubliche Grafik des Spielhallen-Originals und noch mehr. Steuern Sie
+  einen von bis zu 19 Charakteren, genießen Sie die realistischen Animationen und
+  meistern Sie die verschiedenen Kampfstile und Waffen. Nehmen Sie die
+  Herausforderung an, das beste Kampfspiel aller Zeiten zu meistern und begegnen
+  Sie Ihrem Schicksal.
+release: 1999-09-09
+players: 2
+rating: 95%
+x-id: 13500
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Soul Calibur (USA)[DCCM].png
+assets.video: ./media/videos/Soul Calibur (USA)[DCCM].mp4
+
+
+game: Sword of the Berserk : Guts' Rage
+file: ./Sword of the Berserk - Guts' Rage (USA).cdi
+developer: ASCII Corporation
+publisher: Eidos Interactive
+genre: Abenteuer-Beat'em Up
+description:
+  Europa befindet sich in der Zeit des geheimnisvollen un mystischen Mittelalters.
+  Der einsame Ritter Guts und seine Geliebte Casca sind die beiden einzigen
+  Überlebenden einer heimtücksichen, tödlichen Seuche, die das Land befallen hat.
+  Die parasitären Mandragoran, die um die Vorherrschaft in der Welt kämpfen,
+  infizieren auch Casca, ergreifen Besitz von ihrer Seele und drohen, sie in eine
+  widernatürliche, finstere Kreatur zu verwanderln. Guts macht sich mit dem
+  mächtigen Breitschwert, dem Dragon Slayer, auf die Suche nach einem Heilmittel.
+  Dabei setzt er sein eigenes Leben aufs Spiel, um die Kreaturen der Finsternis
+  endgültig zu vernichten.
+release: 2000-03-15
+players: 1
+rating: 65%
+x-id: 78509
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Sword of the Berserk - Guts' Rage (USA).png
+assets.video: ./media/videos/Sword of the Berserk - Guts' Rage (USA).mp4
+
+
+game: Tech Romancer
+file: ./Tech Romancer (USA)[DCRES].cdi
+developer: Capcom
+publisher: Virgin
+genre: Kampf / 3D-Kampf
+description:
+  Tech Romancer is a 3D beat-em-up with a difference; the difference being that,
+  rather than controlling one of a set of martial artists, you control one of a
+  set of huge robots (or mecha). Ranging from the absurd (A huge, spherical mech
+  with a boat and bus for feet, a house for a head, train for one arm and office
+  building with wrecking ball for another) to the "typical" anime styled mecha
+  (Beam-firing chest gem, detatchable rocket-powered fists) to a more westernised
+  idea of a mech (Huge, sluggish, equipped with heavy cannon, rockets, missiles
+  and land-mines), you're bound to find at least one which suits you.
+release: 2000-06-15
+players: 2
+rating: 75%
+x-id: 13657
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Tech Romancer (USA)[DCRES].png
+assets.video: ./media/videos/Tech Romancer (USA)[DCRES].mp4
+
+
+game: Virtua Fighter 3tb
+file: ./Virtua Fighter 3tb (USA)[RDC].cdi
+developer: Genki
+publisher: SEGA
+genre: Kampf-Kampf / 3D
+description:
+  Virtua Fighter 3tb (Team Battle) is a port of the arcade game Virtua Fighter 3
+  to the Dreamcast. The "tb" adds a team battle mode which was not present in the
+  coin-op. For those that do not know, the Virtua Fighter series is your classic
+  beat-em-up, with a bunch of characters all trying to kick, punch, throw and body
+  slam the bejesus out of each other. Each of the characters has over a hundred
+  possible moves and the game plays very faithfully to the original. The game
+  features interesting arena to fight in which are more like real locations in
+  they are not flat and some parts can be broken away during the match.
+release: 1999-10-19
+players: 2
+rating: 75%
+x-id: 13554
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Virtua Fighter 3tb (USA)[RDC].png
+assets.video: ./media/videos/Virtua Fighter 3tb (USA)[RDC].mp4
+

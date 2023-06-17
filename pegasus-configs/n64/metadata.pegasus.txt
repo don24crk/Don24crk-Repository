@@ -1,0 +1,997 @@
+collection: Nintendo 64
+shortname: n64
+extensions: bin, n64, u1, v64, z64
+launch: am start
+  -n com.retroarch/.browser.retroactivity.RetroActivityFuture
+  -e ROM {file.path}
+  -e LIBRETRO /data/data/com.retroarch/cores/mupen64plus_next_gles2_libretro_android.so
+  -e CONFIGFILE /storage/emulated/0/Android/data/com.retroarch/files/retroarch.cfg
+  -e QUITFOCUS
+  --activity-clear-task
+  --activity-clear-top
+  --activity-no-history
+game: Army Men : Air Combat
+file: ./Army Men - Air Combat (USA).zip
+developer: 3DO
+publisher: 3DO
+genre: Strategie-Shoot'em Up-Shooter / Flugzeug-Shooter
+description:
+  William Blade, Kapitän und Spielzeugpilot mehrerer Plastikhubschrauber, der mit
+  der bösen Armee und ihren schrecklichen Kriegsmaschinen kämpft. Es umfasst reale
+  Umgebungen wie Hinterhöfe, Spielplätze, Lager und riesige Sandburgen, verteilt
+  über 16 Einzelspieler-Missionen und konkurrierende Mehrspielermodi. Für Ihre
+  Kämpfe stehen Ihnen vier Helikoptertypen (Chinook, Apache, Huey und Super
+  Hengst) zur Verfügung, um Gegner wie Spielzeugroboter, elektrische Züge,
+  Killerbienen und Libellen zu bekämpfen.
+release: 2000-07-14
+players: 4
+rating: 50%
+x-id: 5621
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Army Men - Air Combat (USA).png
+assets.video: ./media/videos/Army Men - Air Combat (USA).mp4
+
+
+game: Army Men : Sarge's Heroes 2
+file: ./Army Men - Sarge's Heroes 2 (USA).zip
+developer: 3DO
+publisher: 3DO
+genre: Shoot'em Up-Shooter / Run and Gun-Shooter
+description:
+  Sarge's Heroes 2 fängt dort an, wo Sarge's Heroes aufgehört hat. Es wird
+  angekündigt, dass die Gefangennahme von Feldmarschall Tannenberg den Krieg
+  beenden wird. Da General Plastro verschwunden ist, wird vermutet, dass er ein
+  Opfer der Plastrifikation geworden ist und in der realen Welt gefangen war. Das
+  Spiel stellt Bridgette Bleu vor, eine Spionin für die Blaue Nation. Sie hat ein
+  Serum entwickelt, das die Plastrifikation rückgängig macht. Ihre Aufgabe als
+  Sarge und manchmal Vikki ist es, das Serum zu zerstören, die Bräunlichen
+  Soldaten zu eliminieren und Plastro und Tannenburg zu fangen.  nn
+release: 2000-09-26
+players: 4
+rating: 80%
+x-id: 5554
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Army Men - Sarge's Heroes 2 (USA).png
+assets.video: ./media/videos/Army Men - Sarge's Heroes 2 (USA).mp4
+
+
+game: Army Men : Sarge's Heroes
+file: ./Army Men - Sarge's Heroes (USA).zip
+developer: 3DO
+publisher: 3DO
+genre: Shoot'em Up-Shooter / Run and Gun-Shooter
+description:
+  In Army Men: Sarge's Heroes spielen Sie als Sarge, der Protagonist aus vielen
+  Army Men-Spielen. Tan Army dringt in die Basis der Grünen Armee ein; Sarge
+  rettet Oberst Grimm und sie evakuieren die Basis in einem Hubschrauber. Sarge
+  entdeckt Portale, die von der "Plastikwelt" in die "reale Welt" führen, und dass
+  die Tan Army versucht,"Massenvernichtungswaffen" aus der "realen Welt" zu
+  erwerben, zum Beispiel Spielzeug und gewöhnliche Gegenstände wie Lupen. Um die
+  Zerstörung der Grünen Armee zu vermeiden, muss Sarge die Kommandos seiner
+  eigenen Einheit, der Firma Bravo, retten, um Fahrzeuge und Portale zu zerstören
+  und schließlich den bösen General Plastro zu stoppen.
+release: 1999-09-30
+players: 4
+rating: 60%
+x-id: 5538
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Army Men - Sarge's Heroes (USA).png
+assets.video: ./media/videos/Army Men - Sarge's Heroes (USA).mp4
+
+
+game: Banjo-Kazooie
+file: ./Banjo-Kazooie (USA) (Rev A).zip
+developer: Rareware
+publisher: Nintendo
+genre: Action-Action / Abenteuer-Plattform
+description:
+  Die Hexe Gruntilda entführt Banjos kleine Schwester Tooty, um deren Schönheit
+  auf sich selbst zu übertragen. Banjo und Kazooie erfahren von dem Maulwurf
+  Bottles von der Entführung und machen sich auf den Weg durch Gruntildas Reich,
+  einer riesigen Höhle, um Tooty zu retten.
+  .
+  Sie müssen durch anfangs verschlossene Tore in verschiedenen Welten Puzzleteile
+  finden, die ihnen ein weiteres Vordringen durch die Höhle zur Hexe ermöglichen.
+  Dabei treffen sie auf den Schamanen Mumbo Jumbo, der Banjo in andere Tiere
+  verwandelt, und auf die gutmütige Schwester von Gruntilda namens Brentilda, die
+  dem Protagonistenduo Geheimnisse über ihre Schwester erzählt.
+release: 1998-06-29
+players: 1
+rating: 95%
+x-id: 5405
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Banjo-Kazooie (USA) (Rev A).png
+assets.video: ./media/videos/Banjo-Kazooie (USA) (Rev A).mp4
+
+
+game: Batman Beyond : Return of the Joker
+file: ./Batman Beyond - Return of the Joker (USA).zip
+developer: Kemco
+publisher: Ubisoft
+genre: Action-Kampf-Beat'em Up
+description:
+  Der Joker und seine ganze Gang zu schlagen ist Bruce Waynes neue Aufgabe in
+  Batman of the Future: Return of the Joker on Nintendo 64. Durch den Nahkampf und
+  den Fernkampf mit mehreren Gadgets führt der Spieler verschiedene Missionen auf
+  vier verschiedenen Levels durch.
+release: 2000-12-13
+players: 1
+rating: 50%
+x-id: 71667
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Batman Beyond - Return of the Joker (USA).png
+assets.video: ./media/videos/Batman Beyond - Return of the Joker (USA).mp4
+
+
+game: Blues Brothers 2000
+file: ./Blues Brothers 2000 (USA).zip
+developer: Player 1
+publisher: Titus
+genre: Action-Plattform-Musik und Tanz
+description:
+  Blues Brothers 2000 ist ein Actionspiel auf Nintendo 64. Du spielst Elwood
+  Blues, bist kürzlich aus dem Gefängnis geflohen und willst nur eines: seine Band
+  neu formieren. Es liegt an dir, das Chicago-Gefängnis von oben nach unten zu
+  durchsuchen, um alle Mitglieder deiner Gruppe zu finden und freizulassen. Viele
+  Hindernisse werden dir im Weg stehen, aber es liegt an dir, sie zu meiden.
+release: 2000-11-17
+players: 2
+rating: 30%
+x-id: 5601
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Blues Brothers 2000 (USA).png
+assets.video: ./media/videos/Blues Brothers 2000 (USA).mp4
+
+
+game: Castlevania : Legacy of Darkness
+file: ./Castlevania - Legacy of Darkness (USA).zip
+developer: Konami
+publisher: Konami
+genre: Action-Action / Abenteuer-Plattform
+description:
+  Im Jahr 1844 spielt das Spiel den männlichen Bestien Cornell in seinem
+  Bestreben, seine Adoptivschwester Ada davon abzuhalten, als Opfer für die
+  Wiederbelebung von Dracula benutzt zu werden. Das Spiel beginnt, als Cornell in
+  seinem Dorf ankommt, das von Draculas Gefolgsleuten niedergebrannt wurde. Er
+  findet Adas Anhänger in einer Tür und folgt ihrem Duft zu Draculas Schloss.
+  .
+  Im Laufe des Spiels stößt Cornell auf ein großes Anwesen der Familie Oldrey: J.
+  A. Oldrey, der Herr der Villa, Maria, seine Frau und Henry, ihr Sohn. Gilles de
+  Rais und Actrise haben Oldrey Senior in einen Vampir verwandelt. Auf Marys Bitte
+  führt Cornell Henry in Sicherheit. Später im Leben kehrt Henry nach Castlevania
+  zurück, um entführte Kinder zu retten.
+release: 1999-11-30
+players: 1
+rating: 80%
+x-id: 5428
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Castlevania - Legacy of Darkness (USA).png
+assets.video: ./media/videos/Castlevania - Legacy of Darkness (USA).mp4
+
+
+game: Castlevania
+file: ./Castlevania (USA) (Rev B).zip
+developer: Konami
+publisher: Konami
+genre: Abenteuer-Action-Action / Abenteuer-Plattform
+description:
+  Konamis lang laufende Serie von Castlevania-Spielen feiert ihr Debüt auf der
+  N64. Die traditionelle 2D-Grafik wurde zurückgelassen; dies ist das erste
+  Castlevania-Spiel in 3D. Das Ziel des Spiels bleibt jedoch das gleiche: Kick
+  einige Vampir-Arsch, wie Sie den bösen Grafen Dracula und seine Günstlinge in
+  diesem Platformer bekämpfen.
+  .
+  Der Spieler kann entweder Reinhardt Schneider (für die traditionelle
+  Peitschenhandlung) oder Carrie Fernandez (mit magischen Kräften) spielen. Beide
+  Charaktere haben ihre eigene Geschichte. Ein nettes Feature ist die Anwesenheit
+  einer In-Game-Uhr, die die Uhrzeit des Tages (Tag oder Nacht) ändert.
+  .
+  Reinhardt & Carrie erscheinen beide wieder im zweiten Castlevania-Spiel für das
+  N64: Castlevania: Legacy of Darkness, das neue Layouts für die Levels dieses
+  Spiels hat.
+release: 1999-01-26
+players: 1
+rating: 60%
+x-id: 5414
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Castlevania (USA) (Rev B).png
+assets.video: ./media/videos/Castlevania (USA) (Rev B).mp4
+
+
+game: Conker's Bad Fur Day
+file: ./Conker's Bad Fur Day (USA).zip
+developer: Rareware
+publisher: Rareware
+genre: Action-Plattform
+description:
+  Im Gegensatz zu allen anderen Nintendo-Spielen, die jemals gemacht wurden,
+  erlebt Conker seinen ersten Ausflug auf der N64 mit einem reifen Publikum im
+  Hinterkopf. Aber lassen Sie sich nicht die Gewalt in den Weg kommen, um diesen
+  Titel zu spielen, der anderen Rare-Jump' n' Run-Titeln ähnelt, einschließlich
+  Banjo-Kazooie.
+  .
+  In diesem Fall hat Conker eine höllische Nacht hinter sich, und wenn er
+  aufwacht, hat er nicht nur einen riesigen Kater, sondern etwas fühlt sich
+  einfach nicht richtig an. Es liegt also an Conker und seinen vielen Fähigkeiten,
+  die Dinge in Ordnung zu bringen.
+  .
+  Conker durchläuft viele wilde und verrückte Levels, von denen die meisten auf
+  klassischen Filmen wie The Matrix, Jaws, Aliens, The Terminator und sogar Eyes
+  Wide Shut basieren. Ein Multiplayer-Modus ist ebenfalls enthalten, der es 4
+  Spielern ermöglicht, in vielen verschiedenen Arten von Multiplayer-Gameplay zu
+  kämpfen.
+release: 2001-03-05
+players: 4
+rating: 80%
+x-id: 5402
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Conker's Bad Fur Day (USA).png
+assets.video: ./media/videos/Conker's Bad Fur Day (USA).mp4
+
+
+game: Diddy Kong Racing
+file: ./Diddy Kong Racing (USA) (En,Fr) (Rev A).zip
+developer: Rareware
+publisher: Rareware
+genre: Action-Rennen, Fahren-Abenteuer
+description:
+  Das böse Zauberschwein Wizpig ist auf der Insel von Taj eingefallen und hat
+  diese mit einem Fluch belegt. Da Tajs magische Kräfte nicht ausreichen, um das
+  Unheil abzuwenden, bittet er Timber und seine Freunde um Hilfe, die wiederum
+  Kontakt zu Diddy Kong aufnehmen. Um den Fluch von der Insel zu nehmen, müssen
+  sie in den vier Bereichen der Insel goldene Ballongs sammeln und die Wächter der
+  Welten von ihrem Fluch befreien, indem sie sie in einem Rennen besiegen...
+release: 1997-11-24
+players: 4
+rating: 75%
+x-id: 5409
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Diddy Kong Racing (USA) (En,Fr) (Rev A).png
+assets.video: ./media/videos/Diddy Kong Racing (USA) (En,Fr) (Rev A).mp4
+
+
+game: Donald Duck : Goin' Qu@ckers*!
+file: ./Donald Duck - Goin' Quackers (USA).zip
+developer: Disney Interactive
+publisher: Ubisoft
+genre: Plattform-Abenteuer
+description:
+  Donald Couak Angriff? ist ein Action-Spiel, das auf Nintendo 64 veröffentlicht
+  wurde. Spielen Sie als Donald Duck, wie er versucht, Daisy zu retten, entführt
+  vom Magier Merlock. Und es ist wichtig, sich zu beeilen, denn auch sein Cousin
+  hat sich auf die Suche nach ihr gemacht, und er sollte nicht dorthin kommen.
+release: 2000-12-20
+players: 1
+rating: 90%
+x-id: 5499
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Donald Duck - Goin' Quackers (USA).png
+assets.video: ./media/videos/Donald Duck - Goin' Quackers (USA).mp4
+
+
+game: Excitebike 64
+file: ./Excitebike 64 (USA).zip
+developer: Left Field Productions
+publisher: Nintendo
+genre: Sport-Rennen, Fahren-Rennen, Fahren / Motorrad
+description:
+  Excitebike 64 ist ein Motocross-Rennspiel auf Nintendo 64. Sie werden 20
+  verschiedene Indoor- und Outdoor-Kurse im Herzen haben. Zusätzlich können Sie
+  dank der drei Schwierigkeitsstufen des Titels Ihren Entwicklungsstand sehen.
+  Schließlich fordern Sie Ihre Freunde mit Multiplayer spielbar Modus bis zu 4 im
+  Split-Screen-Modus.
+release: 2000-04-30
+players: 4
+rating: 80%
+x-id: 5472
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Excitebike 64 (USA).png
+assets.video: ./media/videos/Excitebike 64 (USA).mp4
+
+
+game: Fighter Destiny 2
+file: ./Fighter Destiny 2 (USA).zip
+developer: Imagineer
+publisher: Southpeak Interactive
+genre: Kampf
+description:
+  Fighter Destiny 2 on Nintendo 64 ist ein Kampfspiel, in dem du deinen eigenen
+  Kämpfer erschaffen kannst und ihn durch Duelle gegen viele Gegner dazu bringen
+  kannst, Ränge zu gewinnen. Neben den klassischen K. O. Klassikern gibt es
+  mehrere Möglichkeiten, die Schlachten zu gewinnen.
+release: 2000-07-14
+players: 2
+rating: 40%
+x-id: 5615
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Fighter Destiny 2 (USA).png
+assets.video: ./media/videos/Fighter Destiny 2 (USA).mp4
+
+
+game: Fighters Destiny
+file: ./Fighters Destiny (USA).zip
+developer: Opus
+publisher: Ocean
+genre: Kampf-Action
+description:
+  Fighters Destiny ist ein Kampfspiel auf Nintendo 64. Das Duell findet in
+  vollständig modellierten dreidimensionalen Kampfarenen statt. Konfrontationen
+  finden punktuell statt. Jede Aktion gibt dir Punkte (Ring-out, K. O., etc.). Wer
+  die meisten hat, gewinnt das Spiel.
+release: 1998-01-31
+players: 2
+rating: 55%
+x-id: 5565
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Fighters Destiny (USA).png
+assets.video: ./media/videos/Fighters Destiny (USA).mp4
+
+
+game: F-Zero X
+file: ./F-Zero X (USA).zip
+developer: Nintendo
+publisher: Nintendo
+genre: Rennen, Fahren
+description:
+  ...in wenigen Momenten beginnt das haarsträubendste, wahnwitzigste und
+  spektakulärste Hochgeschwindigkeits-Rennen des 22. Jahrhunderts. Mit
+  futuristischen Raumgleitern, die innerhalb weniger Sekunden von 0 auf 1000
+  Stundenkilometer beschleunigen, rast Du durch verrückte Cyber-Landschaften
+  voller Loopings, Sprungschanzen und Schikanen. Nur die besten Fahrer haben eine
+  reelle Chance, lebendig das Ziel zu erreichen.
+release: 1998-10-26
+players: 4
+rating: 80%
+x-id: 5418
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/F-Zero X (USA).png
+assets.video: ./media/videos/F-Zero X (USA).mp4
+
+
+game: Hercules - The Legendary Journeys
+file: ./Hercules - The Legendary Journeys (USA).zip
+developer: Player 1
+publisher: Titus
+genre: Action-Action / Abenteuer
+description:
+  Übernimm die Kontrolle über den legendären Helden Herkules und seine Freunde
+  Iolaus und Serena, während sie versuchen, Ares von der Vollendung seiner
+  teuflischen Pläne abzuhalten. Nutze die einzigartigen Attribute eines jeden
+  Charakters: Herkules' legendäre Stärke, Iolaus' Flinkheit und Serenas
+  Genauigkeit, um deine Aufgabe zu erfüllen. Reise durch 12 einzigartige,
+  vollständig in 3D gestaltete Welten, von der sonnigen Küstenstadt Porticus bis
+  zu den verschneiten Bergen von Alpsius. Erforsche die von Banditen überrannten
+  Wälder von Traycus oder den himmlischen Olymp. Kämpfe gegen mythische,
+  furchterregende Monster wie den Minotaurus, Zyklopen und weitere!
+release: 2000-11-16
+players: 1
+rating: 65%
+x-id: 5483
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Hercules - The Legendary Journeys (USA).png
+assets.video: ./media/videos/Hercules - The Legendary Journeys (USA).mp4
+
+
+game: Hexen
+file: ./Hexen (USA).zip
+developer: Raven Software
+publisher: GT Interactive
+genre: Shooter-Shooter / 1st Pers.
+description:
+  Während Sie noch die Mächte von D'Sparil bekämpften, waren die anderen
+  Schlangenreiter schon fleissig dabei, den Samen der Zerstörung in anderen
+  Dimensionen zu tragen. Eine dieser Dimensionen ist die verfallende Welt, in der
+  "Hexen" spielt. Nur drei Menschen sind dem bösen Zauberer der Dämonen entkommen
+  - ein Kämpfer, ein Magier, ein Prister. Und diese drei tapferen Seelen haben nun
+  geschworen, die Welt von der Herrschaft des Bösen zu befreien, bevor sie völlig
+  zerstört ist.
+release: 1997-05-31
+players: 4
+rating: 90%
+x-id: 5498
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Hexen (USA).png
+assets.video: ./media/videos/Hexen (USA).mp4
+
+
+game: Mario Kart 64
+file: ./Mario Kart 64 (USA).zip
+developer: Nintendo
+publisher: Nintendo
+genre: Rennen, Fahren-Sport
+description:
+  3-2-1-Startschuß! Piste frei für den größten Rennspiel-Spaß seit der Erfindung
+  des Motors. Hier kennt die Action keine Grenzen. Rase mit bis zu drei Freunden
+  über dreidimensionale Strecken oder fordere sie im Battle-Modus zum
+  gegenseitigen Kräftemessen heraus. Im Mario Grand Prix kannst Du Dich solo
+  austoben oder im Time Trial sogar gegen Deinen eigenen Geist antreten. Vorbei
+  sind die Zeiten, in denen nur die Uhr Dein Gegner war. Innovative
+  Mehrspielermodi, genial designte Strecken und technische Perfektion sorgen für
+  Action, Spaß und Spannung in noch nie dagewesener Form!
+release: 1997-02-10
+players: 4
+rating: 80%
+x-id: 5401
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Mario Kart 64 (USA).png
+assets.video: ./media/videos/Mario Kart 64 (USA).mp4
+
+
+game: Mario Party 2
+file: ./Mario Party 2 (USA).zip
+developer: Hudson
+publisher: Nintendo
+genre: Action-Brettspiele
+description:
+  Vor einiger Zeit an einem naheliegenden Ort, erschufen Mario und seine Freunde
+  eine neue Welt mit dem Namen "Mario Land". Doch nicht jeder war mit dem Namen
+  Mario Land zufrieden. Marios Erzrivale Wario war der Meinung, dass er als
+  einziger Superheld, die Welt "Wario Land" taufen sollte! Durch diese
+  ausgesprochenen Worte entbrannte ein Streit um die Superhelden-Frage, denn
+  Prinzessin Peach wollte ebenfalls der Welt einen Namen geben: "Peach Land".
+  .
+  Zur gleichen Zeit tauchte plötzlich unerwartet Bowser auf und fing an, Mario
+  Land anzugreifen! Einen Koopa, der Mario und seine Freunde warnen wollte, dass
+  Bowser das Mario Land angreift, bemerkten die Freunde nicht da sie zu sehr in
+  ihrem Streit vertieft waren.
+  .
+  Als Bowser Mario Land zerstörte kam Toad auf die Idee: "Warum nennen wir nicht
+  die Welt nach dem Helden der Bowser besiegt"? Die Freunde stimmten einander ein
+  und machten sich auf den Weg nach "Mario Land"!
+release: 2000-01-24
+players: 4
+rating: 80%
+x-id: 5429
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Mario Party 2 (USA).png
+assets.video: ./media/videos/Mario Party 2 (USA).mp4
+
+
+game: Mario Party 3
+file: ./Mario Party 3 (USA).zip
+developer: Hudson
+publisher: Nintendo
+genre: Gelegenheitsspiel-Action-Brettspiele
+description:
+  Ein besonderer Stern wurde geboren, was nur alle 1000 Jahre passiert... Dabei
+  handelt es sich um den Millennium Stern, welcher gleich nach seiner Geburt vom
+  Himmel gefallen ist. Mario hat sich vor Peachs Schloss amüsiert, da stürzte
+  plötzlich der Millennium Stern ab. Mario und seine Freunde stritten sich, wer
+  der Besitzer sein soll. Da kam Mario die Idee, dass Problem mit einer Mario
+  Party zu lösen. Lakitu kam mit einer Spielzeugkiste angeflogen und sagte: "Na
+  klar! Mit Mario Party lösen wir die Streiterei!"
+release: 2001-05-07
+players: 4
+rating: 75%
+x-id: 5432
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Mario Party 3 (USA).png
+assets.video: ./media/videos/Mario Party 3 (USA).mp4
+
+
+game: Mario Party
+file: ./Mario Party (USA).zip
+developer: Hudson
+publisher: Nintendo
+genre: Action-Strategie-Brettspiele
+description:
+  Mario, Luigi, Peach, Yoshi, Donkey Kong und Wario streiten sich darum, wer von
+  ihnen der Superstar ist. Da sagt Toad: "Warum veranstalten wir nicht eine Party,
+  um herauszufinden, wer der Superstar ist?" Damit sind alle einverstanden und
+  somit spielen unsere Freunde ein paar Minispiele und gehen über verschieden
+  Spielbretter auf dem Weg zum Superstar. Leider steht Bowser ihnen dabei auch im
+  Weg...
+release: 1999-02-08
+players: 4
+rating: 75%
+x-id: 5399
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Mario Party (USA).png
+assets.video: ./media/videos/Mario Party (USA).mp4
+
+
+game: Monopoly
+file: ./Monopoly (USA).zip
+developer: Minds Eye
+publisher: Hasbro Interactive
+genre: Verschiedene-Strategie-Brettspiele
+description:
+  Diesmal ein Monopoly-Spiel auf Ihrem Computer, so gut es sich in Ihrer Realität
+  vorstellt. Jede Ihrer Bewegungen kann in 3D-Animation erfolgen oder
+  ausgeschaltet sein, wenn Sie keine Animationen sehen möchten. Es können bis zu 6
+  Spieler gleichzeitig sein und es kann über das Internet gespielt werden. Musik
+  ist im Midi-Format und die Tonqualität ist im WAV-Format. Rollen, drehen und
+  versäumen Sie nicht, uns ein grinsen zu geben.
+release: 1999-12-18
+players: 4
+rating: 70%
+x-id: 5630
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Monopoly (USA).png
+assets.video: ./media/videos/Monopoly (USA).mp4
+
+
+game: Paper Mario
+file: ./Paper Mario (USA).zip
+developer: Intelligent Systems
+publisher: Nintendo
+genre: Rollenspiele
+description:
+  In Paper Mario für Nintendo 64 erwartet die Mario Fans ein kunterbuntes
+  Rollenspiel-Abenteuer. Dabei begegnen Mario und seine Freunde vielen bekannten
+  Gesichtern aus dem legendären Mario-Universum. Gemeinsam durchstreifen sie 8
+  wundervoll gestaltete 3D-Welten, in denen knifflige Geheimnisse gelüftet und
+  aufregende Abenteuer bestanden werden müssen. Auch actionreiche Kämpfe mit
+  angriffslustigen Gegnern stehen den Spielhelden bevor. Das jedoch erfordert jede
+  Menge Mut und Training. Zum Glück stehen Mario auf seiner Suche nach der
+  Prinzessin Freunde mit einer Vielzahl ganz besonderer Fähigkeiten zur Seite.
+  Zusätzlich müssen die Spieler Sternsplitter einsammeln, deren magische Energie
+  dem Spielhelden nutzt, um erfolgreich gegen die Bösewichte anzutreten. Somit
+  sind Mario und seine Freunde für das fantastische Abenteuer bestens gewappnet.
+  Paper Mario für Nintendo 64: ein Rollenspiel mit erstklassiger Besetzung!
+release: 2001-02-05
+players: 1
+rating: 80%
+x-id: 5400
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Paper Mario (USA).png
+assets.video: ./media/videos/Paper Mario (USA).mp4
+
+
+game: Pokémon Stadium 2
+file: ./Pokemon Stadium 2 (USA).zip
+developer: HAL Laboratory
+publisher: Nintendo
+genre: Strategie-Kampf
+description:
+  Jetzt geht der Wettstreit um den Titel des besten Pokemon Trainers weiter. Für
+  faszinierend actionreiche Kämpfe stehen im Pokemon Stadium 2 nun alle 251
+  Pokemon aus der Goldenen, Silbernen, Roten, Blauen und Gelben Edition bereit!
+  Spektakuläre 3D-Grafiken lassen die Arenen noch lebendiger erscheinen.
+  Atemberaubende Spezialeffekte sowie eine Vielzahl von Spielmodi garantieren
+  jedem begeisterten Pokemon Freak noch spannendere Dimensionen: Alle Pokemon
+  Editionen (Gold, Silber, Rot, Blau und Gelb), die bisher für den Game Boy
+  erschienen sind, können auf dem Nintendo 64 gespielt werden. Darüber hinaus kann
+  man die im Game Boy Spiel geschnappten Pokemon in voller Dreidimensionalität auf
+  dem Nintendo 64 gegeneinander antreten lassen!
+release: 2001-03-25
+players: 4
+rating: 75%
+x-id: 5408
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Pokemon Stadium 2 (USA).png
+assets.video: ./media/videos/Pokemon Stadium 2 (USA).mp4
+
+
+game: Pokémon Stadium
+file: ./Pokemon Stadium (USA).zip
+developer: HAL Laboratory
+publisher: Nintendo
+genre: Strategie-Kampf
+description:
+  Erlebe erstmals alle Pokémon in einzigartigen 3-D-Animationen und lasse sie in
+  einer Arena gegeneinander antreten! Ganz egal, ob du gegen einen Freund, einen
+  Arenaleiter oder einen anderen Turnierteilnehmer kämpfst, du wirst Zeuge der
+  spektakulärsten Pokémon-Duelle der Geschichte! Mit Hilfe des Transfer Paks
+  kannst du deine eigenen, selbst trainierten Pokémon von deinem Pokémon Game Boy
+  Spiel auf dein Stadium-Modul übertragen. Auf diese Weise bleiben dir deine
+  treuen Freunde auch in der dreidimensionalen Pokémon-Arena erhalten. Kämpfe dich
+  auf den Spuren von Ash durch alle bekannten Arenen und erlebe das größte
+  Abenteuer deines Lebens!
+release: 2000-02-29
+players: 4
+rating: 75%
+x-id: 5407
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Pokemon Stadium (USA).png
+assets.video: ./media/videos/Pokemon Stadium (USA).mp4
+
+
+game: Shadow Man
+file: ./Shadow Man (USA).zip
+developer: Acclaim
+publisher: Acclaim
+genre: Kampf-Action / Abenteuer-Action
+description:
+  Durch den kaltblütigen Mord an seinem kleinen Bruder Luke ist Professor Mike
+  LeRoi zu einem gewissenlosen Rächer geworden. Auf der verzweifelten Suche nach
+  dem Killer verkauft LeRoi seine Seele an einen gottlosen Voodoo-Kult und wird
+  zum Sklaven der Totenwelt - Shadowman. Die Jagd nach dem Mörder führt den
+  übernatürlichen Shadowman nach New Orleans in die Welt der Untoten. Dort hat
+  sich der wahre Killer versteckt! Der Spieler kämpft gegen monströse Kreaturen
+  und abartige Ausgeburten aus anderen Welten. Erst wenn Shadowman den Mord an
+  seinem Bruder rächen kann, wird seine Seele befreit und die Erde gerettet.
+release: 1999-08-15
+players: 1
+rating: 75%
+x-id: 5421
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Shadow Man (USA).png
+assets.video: ./media/videos/Shadow Man (USA).mp4
+
+
+game: Star Fox 64
+file: ./Starfox 64 1.1 (U).zip
+developer: Nintendo
+publisher: Nintendo
+genre: Shoot'em Up-Action
+description:
+  Der böse Wissenschaftler Andross war einst durch General Pepper für seine
+  Missetaten auf den verlassenen Planeten Venom verbannt worden, doch eines Tages
+  wurden seltsame Aktivitäten in diesem Teil des Lylat-Systems wahrgenommen. Das
+  Star-Fox-Team, bestehend aus James McCloud, Pigma Dengar und Peppy Hare, wurde
+  losgeschickt, um die Ursache zu ermitteln. Auf dem Planeten angekommen verriet
+  Pigma den Rest des Teams und James und Peppy wurden von Andross gefangen
+  genommen, wobei Peppy um Haaresbreite entkommen konnte.
+  .
+  Als Andross eines Tages erneut das Lylat-System zu erobern versucht, wendet sich
+  General Pepper an das neue Star-Fox-Team, bestehend aus James? Sohn Fox McCloud,
+  Falco Lombardi, Slippy Toad und Peppy Hare. In ihren Händen liegt nun das
+  Schicksal des Lylat-Systems.
+release: 1997-06-30
+players: 4
+rating: 80%
+x-id: 5416
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Starfox 64 1.1 (U).png
+assets.video: ./media/videos/Starfox 64 1.1 (U).mp4
+
+
+game: Star Wars : Rogue Squadron
+file: ./Star Wars - Rogue Squadron (USA).zip
+developer: Factor 5
+publisher: Nintendo
+genre: Shooter
+description:
+  Fliege in Deinem X-Wing lebensgefährliche Einsätze im Kampf gegen die imperialen
+  Truppen! Zerstöre alle Stützpunkte des Imperiums und rette die Bewohner fremder
+  Planeten! Du bist Luke Skywalker, der bravouröse Kampfpilot und Anführer des
+  legendären Rogue Squadron. Mit Fliegern dieser Eliteeinheit bietest Du den
+  Soldaten des Imperiums die Stirn. Zur Seite stehen Dir gewandte Piloten der
+  Rebellenalianz sowie Deine alten Kampfgefährten Han Solo und Chewbacca!
+release: 1998-11-17
+players: 1
+rating: 90%
+x-id: 5413
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Star Wars - Rogue Squadron (USA).png
+assets.video: ./media/videos/Star Wars - Rogue Squadron (USA).mp4
+
+
+game: Star Wars : Shadows of the Empire
+file: ./Star Wars - Shadows of the Empire (USA).zip
+developer: LucasArts
+publisher: Nintendo
+genre: Shooter / 3rd Pers.-Shooter
+description:
+  Noch während sich Luke Skywalker und die Rebellen mit Darth Vader und dem
+  Imperium erbitterte Gefechte liefern, droht aus den Tiefen des Alls neue Gefahr.
+  Dark Prince Xizor, Kopf des geheimnisvollen Black Sun Syndikates, hat den Tod
+  von Luke angeordnet, um dann Dath Vader die Schuld dafür anzulasten. So erhofft
+  er sich, die Position von Vader an der Seite des Imperators einzunehmen. Als
+  Dash Rendar liegt es nun an Dir, Luke zu beschützen! Du wirst lernen müssen, die
+  unterschiedlichsten Weltraum-Kampfjäger und Sternen-Kreuzer zu fliegen. Erkunde
+  Weltraumstationen und Städte, triff auf die Stormtrooper des Imperiums, AT-AT
+  Walkers, Snowtroopers, TIE Fighter, Sternenkreuzer, Wampa Ice-Kreaturen und
+  vieles mehr! Von nun an bist Du Teil eines anderes Universums - Spüre die Macht!
+release: 1996-12-03
+players: 1
+rating: 80%
+x-id: 5419
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Star Wars - Shadows of the Empire (USA).png
+assets.video: ./media/videos/Star Wars - Shadows of the Empire (USA).mp4
+
+
+game: Star Wars Episode I : Racer
+file: ./Star Wars Episode I - Racer (USA).zip
+developer: LucasArts
+publisher: LucasArts
+genre: Rennen, Fahren
+description:
+  Steig ein, schnall Dich an und spüre, wie Dir das Adrenalin durch die Adern
+  schießt, wenn Du die Rennsequenzen aus Star Wars Episode I: Die Dunkle Bedrohung
+  neu erleben darfst. Übernimm als Anakin Skywalker, dem potentiellen Jedi, die
+  Kontrolle über Deinen Podracer, oder schlüpf in die Rolle eines der anderen 20
+  Piloten. Lass Dich von zwei riesigen Jet-Turbinen auf eine Geschwindigkeit von
+  über 950 km/h beschleunigen und flieg über acht verschiedene Welten. Bei Star
+  Wars: Episode 1 Racer meisterst Du brennende Methan-Seen, Angriffe von Tusken,
+  Anti-Grav-Tunnel und andere Hindernisse in einem Rennen, das Dich bis an Dein
+  Limit fordern wird. Ein Wettkampf, bei dem es um alles geht und jeder Pilot
+  versuchen wird, als erster die Ziellinie zu überqueren! Erlebe die Spannung und
+  Dramatik der Rennsequenzen aus Star Wars Episode I: Die Dunkle Bedrohung, wenn
+  Du mit deinem Podracer mit Deinen Nachbrennern mühelos Geschwindigkeiten von
+  über 950 Kilometern in der Stunde erreichst.
+release: 1999-05-19
+players: 2
+rating: 85%
+x-id: 5412
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Star Wars Episode I - Racer (USA).png
+assets.video: ./media/videos/Star Wars Episode I - Racer (USA).mp4
+
+
+game: Super Mario 64
+file: ./Super Mario 64 (Europe) (En,Fr,De).zip
+developer: Nintendo
+publisher: Nintendo
+genre: Plattform
+description:
+  Prinzessin Peach hat Mario einen Brief gesendet, in dem stand, dass er zum
+  Schloss kommen soll, da sie ihm einen Kuchen gebacken hat. Im Schloss
+  angekommen, ertönt eine schaurige Stimme die ihm befielt, dass er sofort das
+  Schloss verlassen soll. Daraufhin wird er von einem Toad informiert, dass
+  Prinzessin Peach von Bowser entführt wurde und er die Power Sterne des Schlosses
+  entwendet hat. Nun liegt es an Mario die Power Sterne aus den insgesamt 15
+  Welten zurückzuerobern, um sich mit ihrer Hilfe seinen Weg durchs Schloss zu
+  bahnen, um Prinzessin Peach aus den Klauen von Bowser zu befreien!
+release: 1997-03-01
+players: 1
+rating: 90%
+x-id: 5396
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Super Mario 64 (Europe) (En,Fr,De).png
+assets.video: ./media/videos/Super Mario 64 (Europe) (En,Fr,De).mp4
+
+
+game: Super Smash Bros.
+file: ./Super Smash Bros. (USA).zip
+developer: HAL Laboratory
+publisher: Nintendo
+genre: Kampf
+description:
+  Durch die umfangreiche Auswahl an Special Moves und Extras überraschen Dich die
+  Spielfiguren bei Super Smash Bros. für N64 mit immer wieder neuen, fulminanten
+  Angriffsvarianten. Kämpfe gegen besondere Gegner wie den Marionator, den
+  Riesen-Donkey oder gegen die rauflustige Polygon-Gang. Vier versteckte Kämpfer
+  und unzählige Bonusspiele mit Jump'n'Run-Einlagen bieten durchgehenden Spielspaß
+  bis zum finalen Endgegner: Giganten-Glover! Super Smash Bros. für N64 bietet
+  schnelles, actionreiches Gameplay für bis zu vier Spieler gleichzeitigmit den
+  beliebtesten Figuren aus den Nintendo Meisterwerken!
+release: 1999-04-26
+players: 4
+rating: 80%
+x-id: 5398
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Super Smash Bros. (USA).png
+assets.video: ./media/videos/Super Smash Bros. (USA).mp4
+
+
+game: Superman : The New Superman Adventures
+file: ./Superman - The New Superman Aventures (USA).zip
+developer: Titus
+publisher: Titus
+genre: Action / Abenteuer-Action
+description:
+  Lois Lane und Jimmy Olsen sind verschwunden - sie wurden von den böswilligen
+  Mächten von Lex Luthor und Braniac entführt, die sie in eine
+  Virtual-Reality-Version von Metropolis gebracht haben. Superman muss zur Rettung
+  kommen! Der Mann aus Stahl muss diese virtuelle Dimension durcharbeiten und
+  einen Weg finden, die bösen Vordenker zu besiegen, die sie erschaffen haben.
+  Erlebe die unglaublichen Kräfte von Superman aus erster Hand, während du darum
+  kämpfst, Lois Lane aus den Klauen von Metallo zu befreien, und versuche dann,
+  Jimmy Olsen aus dem stählernen Griff von Darkseid zu befreien. Rase in den
+  Weltraum, um Braniacs böser Alien-Technologie zu begegnen. Zerstören Sie vor
+  allem Luthors tödlichen Traum von einer Virtual-Reality-Metropole!
+release: 1999-05-31
+players: 4
+rating: 15%
+x-id: 5427
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Superman - The New Superman Aventures (USA).png
+assets.video: ./media/videos/Superman - The New Superman Aventures (USA).mp4
+
+
+game: The Legend of Zelda : Majora's Mask
+file: ./Legend of Zelda, The - Majora's Mask (USA).zip
+developer: Nintendo
+publisher: Nintendo
+genre: Rollenspiele
+description:
+  Ein paar Monate nach dem Ende von Ocarina of Time macht sich Link auf die Suche
+  nach seiner Fee Navi und bei einem Ritt durch einen finsteren Wald wird er aber
+  vom maskierten Skull Kid überfallen, das ihm nicht nur seine Ocarina, sondern
+  auch sein Pferd Epona stiehlt. Das setzt eine Kette von Ereignissen in Gang, die
+  Link einem so ungewöhnlichen wie beängstigenden Gegner gegenüberstellt: dem
+  Mond. Dieser droht in nur drei Tagen mit der Erde zu kollidieren und das will
+  und muss natürlich verhindert werden.
+release: 2000-10-26
+players: 1
+rating: 95%
+x-id: 5394
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Legend of Zelda, The - Majora's Mask (USA).png
+assets.video: ./media/videos/Legend of Zelda, The - Majora's Mask (USA).mp4
+
+
+game: The Legend of Zelda : Ocarina of Time Master Quest
+file: ./Legend of Zelda, The - Ocarina of Time (USA).zip
+developer: Nintendo
+publisher: Nintendo
+genre: Abenteuer-Rollenspiele-Action / Abenteuer-Action
+description:
+  The Legend of Zelda: Ocarina of Time Master Quest ist eine spezielle Version des
+  Spieles, die nicht für das N64 veröffentlicht wurde. Sie war als kostenlose
+  Beilage zur limitierten Auflage des Zelda-Teils The Wind Waker auf dem Nintendo
+  GameCube erhältlich. Zu den Unterschieden zählen die schwierigere Gestaltung der
+  Labyrinthe, veränderte Rätsel, neue Anordnung der goldene Skulltulas und es
+  werden früher im Spiel stärkere Gegner verwendet.
+release: 2003-02-28
+players: 1
+rating: 90%
+x-id: 98597
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Legend of Zelda, The - Ocarina of Time (USA).png
+assets.video: ./media/videos/Legend of Zelda, The - Ocarina of Time (USA).mp4
+
+
+game: Tony Hawk's Pro Skater 2
+file: ./Tony Hawk's Pro Skater 2 (USA).zip
+developer: Edge Of Reality
+publisher: Activision
+genre: Sport-Sport / Skateboard
+description:
+  Tony Hawk ist zurück. Mit neuer Grafik, neuen Profis und neuen Tricks. Die
+  Legende rollt weiter. Skate als einer von 13 Profis in komplett neuen Leveln
+  oder erstelle deinen ganz persönlichen Skater. Neue Moves wie Blunt Slides,
+  FS/BS Nose- und Tall-Slides und Hurricanes bringen jede Menge Knete, die du um
+  Skateshop oder für Statistikpunkte ausgeben kannst. Errichte mit dem Park-Editor
+  deine eigenen Traumpark in Echtzeit-3D und statte ihn mit Rampen, Funboxen,
+  Rails und vielem mehr aus. Verschiedenste Modi wie Karriere oder Skate for Fun
+  für einen Spieler oder Trick-Turnier, Graffiti, Loser und Gotcha für zwei
+  Spieler sorgen für Abwechslung und Spielspaß pur.
+release: 2001-08-21
+players: 2
+rating: 75%
+x-id: 5445
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Tony Hawk's Pro Skater 2 (USA).png
+assets.video: ./media/videos/Tony Hawk's Pro Skater 2 (USA).mp4
+
+
+game: Tony Hawk's Pro Skater 3
+file: ./Tony Hawk's Pro Skater 3 (USA).zip
+developer: Edge Of Reality
+publisher: Activision
+genre: Sport-Sport / Skateboard
+description:
+  Tony Hawk -- der Klassiker der Old-School-Skateboard-Games nun in der
+  überarbeiteten Version 3. Damit übertrifft sich eines der besten Funsport-Games
+  auf dem Markt selbst: einzigartige Steuerbarkeit, ausgefeilte Tricks und
+  trainierbare Trickserien, detaillierte Konfigurierbarkeit der schon legendären
+  Skater (Tony Hawk, Bucky Lasek, Rodney Mullen, Chad Muska und vielen anderen)
+  und natürlich der fulminante Soundtrack mit Originalbands wie Ramones, Red Hot
+  Chili Peppers, Motörhead und anderen. Neu sind die verbesserte grafische
+  Darstellung und einige neue Tricks. Die grafische Überarbeitung geht dabei nicht
+  auf Kosten der Spieltiefe oder Levelanzahl. Trotzdem lassen verblüffend
+  realistische Slams selbst den Zuschauer die Hände vor das Gesicht schlagen.
+release: 2002-08-20
+players: 2
+rating: 55%
+x-id: 5474
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Tony Hawk's Pro Skater 3 (USA).png
+assets.video: ./media/videos/Tony Hawk's Pro Skater 3 (USA).mp4
+
+
+game: Turok : Dinosaur Hunter
+file: ./Turok - Dinosaur Hunter (USA).zip
+developer: Iguana Entertainment
+publisher: Acclaim
+genre: Shoot'em Up-Shooter / 1st Pers.-Shooter
+description:
+  Im düsteren Urwald durchstreift der Jäger Turok halbzerfallene Ruinen und
+  verlassene Tempel, um zu ergründen, welches Ereignis seine Welt in einen Vorhof
+  der Hölle verwandelte. Anno 1997 begeisterte Iguana Entertainment die Zockerwelt
+  mit "Turok - Dinosaur Hunter", einem der grafisch spektakulärsten Spiele seiner
+  Zeit. Noch mehr Begeisterung verursachte die PC-Umsetzung des Actionspektakels,
+  die in Sachen Grafik noch einiges draufsetze, zugleich war das Spiel eines der
+  ersten, die eine 3D-Beschleunigerkarte zwingend voraussetzen. Leider kam auch
+  dieser Shooter nur in zensierter Form in den deutschen Handel. Die Zensuren von
+  Nintendo 64 und PC-version sind identisch.
+release: 1997-03-04
+players: 1
+rating: 80%
+x-id: 5433
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Turok - Dinosaur Hunter (USA).png
+assets.video: ./media/videos/Turok - Dinosaur Hunter (USA).mp4
+
+
+game: Turok : Rage Wars
+file: ./Turok - Rage Wars (USA).zip
+developer: Acclaim
+publisher: Acclaim
+genre: Sport-Shooter / 1st Pers.-Shooter
+description:
+  Seit Anbeginn der Zeit ist es Aufgabe der Turok, das stetige Gleichgewicht
+  zwischen Gut und Böse, Ordnung und Chaos im Verlorenen Land zu garantieren. Sie
+  sind die einzig wahren Hüter der Bürde des Lichts. Einem seit jeher heiligen
+  Medizinbeutels, der die letzten Reste der reinen Energiequelle umhüllt, aus
+  denen das Verlorene Land einst entstanden ist. Wer diese Macht kontrolliert,
+  beherrscht die Kraft der Schöpfung. Und um ihren Besitz wurden schon viele
+  erbitterte Schlachten geschlagen. Jetzt versucht es das wiedererstarkte Böse
+  erneut, dem Geschlecht der Turok den heiligen Medizinbeutel zu rauben. Bewahren
+  Sie das Verlorene Land vor dem Sturz in die ewige Finsternis, und erweisen Sie
+  sich Ihrer Rolle als Turok würdig. Tragen Sie die schwere Bürde des Lichts gemäß
+  den überlieferten Bestimmungen Ihrer Ahnen, und überstehen Sie die Legenden des
+  Verlorenen Landes... - Eigenständig entwickeltes Multiplayer-Spiel
+release: 1999-10-31
+players: 4
+rating: 75%
+x-id: 5468
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Turok - Rage Wars (USA).png
+assets.video: ./media/videos/Turok - Rage Wars (USA).mp4
+
+
+game: Turok 2 : Seeds Of Evil
+file: ./Turok 2 - Seeds of Evil (USA).zip
+developer: Iguana Entertainment
+publisher: Acclaim
+genre: Shoot'em Up-Shooter / 1st Pers.-Shooter
+description:
+  Die Erde und das verlorene Land sind dem Untergang geweiht. Ein tödliches,
+  außerirdisches Wesen ohne Gnade ist aus den Tiefen der Erde auferstanden.
+  Indianerheld Turok steht seinem bisher größten Feind gegenüber - dem Primagen.
+  In der am heißesten erwarteten Fortsetzung des Jahres müssen Sie als Turok mit
+  allen Mitteln verhindern, das der Primagen aus seiner unterirdischen Festung
+  entkommt und die Grenze zwischen Unterwelt und Erde überschreiten. Sonst ist die
+  Menschheit für immer verloren.
+release: 1998-10-21
+players: 4
+rating: 80%
+x-id: 5435
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Turok 2 - Seeds of Evil (USA).png
+assets.video: ./media/videos/Turok 2 - Seeds of Evil (USA).mp4
+
+
+game: Turok 3 : Shadow of Oblivion
+file: ./Turok 3 - Shadow of Oblivion (USA).zip
+developer: Acclaim
+publisher: Acclaim
+genre: Shoot'em Up-Shooter / 1st Pers.-Shooter
+description:
+  Lange bevor es die Welt von Turok 3 für N64, so wie wir sie kennen, gab,
+  existierte das Oblivion, ein monströses, kosmisches Etwas, das alles Leben
+  verschlang. Es griff sich lebende Körper und fraß sie bis auf den letzten
+  Bissen. Das Oblivion lebt von der Energie der Toten und der Sterbenden. Als der
+  Primagen in Turok 3 ausgelöscht wurde, löste das eine Kette von mächtigen Beben
+  aus, die so stark waren, daß das Universum, so wie es zu der Zeit existierte,
+  völlig ausge-öscht wurde. Auch das allmächitge Ablivion wurde beinahe voll-
+  kommen zerstört. Zum ersten Mal in seinem Leben fühlte das Oblivion in Turok 3
+  Schmerz, Angst und ... HASS!
+release: 2000-09-06
+players: 4
+rating: 65%
+x-id: 5434
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Turok 3 - Shadow of Oblivion (USA).png
+assets.video: ./media/videos/Turok 3 - Shadow of Oblivion (USA).mp4
+
+
+game: Xena : Warrior Princess - The Talisman of Fate
+file: ./Xena - Warrior Princess - The Talisman of Fate (USA).zip
+developer: Saffire
+publisher: Titus
+genre: Kampf
+description:
+  Xena wurde zum Verteidiger der Welt gewählt.\n
+  Wir haben sie in den Erinnerungen an ihre Heldentaten gesehen.\n
+  Kommt also zusammen, die größten Helden und Schurken der Erde.\n
+  Wähle deine Waffen mit Bedacht aus und lass die Schlachten beginnen!\n
+  Denk daran, jeder Sieg bringt Sie nur der Herausforderung der Verkörperung der
+  Dunkelheit näher ... Verzweiflung selbst!\n
+  Jeder der 10 Charaktere von Xena besitzt seine eigenen Waffen, Einstellungen und
+  Kampftechniken.\n
+  Die exklusive Mehrspieler-Funktion umfasst einen Dienstplan-Modus sowie Team-
+  und Einzelkämpfe.
+release: 1999-12-14
+players: 4
+rating: 80%
+x-id: 5518
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Xena - Warrior Princess - The Talisman of Fate (USA).png
+assets.video: ./media/videos/Xena - Warrior Princess - The Talisman of Fate (USA).mp4
+

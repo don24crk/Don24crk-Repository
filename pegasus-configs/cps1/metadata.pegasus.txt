@@ -1,0 +1,41 @@
+collection: CP System I
+shortname: fba
+extensions: zip
+launch: am start
+  -n com.retroarch/.browser.retroactivity.RetroActivityFuture
+  -e ROM {file.path}
+  -e LIBRETRO /data/data/com.retroarch/cores/fbalpha2012_cps1_libretro_android.so
+  -e CONFIGFILE /storage/emulated/0/Android/data/com.retroarch/files/retroarch.cfg
+  -e QUITFOCUS
+  --activity-clear-task
+  --activity-clear-top
+  --activity-no-history
+game: Street Fighter II : The World Warrior (World 910522)
+file: ./sf2.zip
+developer: Capcom
+publisher: Capcom
+genre: Kampf / Versus-Kampf
+description:
+  GET READY TO RUMBLE!
+  .
+  Aus der ganzen Welt kommen acht der wildesten Kämpfer, die die Welt je gesehen
+  hat. Wählen Sie Ihren Champion, nehmen Sie Ihren Mut zusammen und bereiten Sie
+  sich darauf vor, Ihre Gegner in einem Kampf mit bloßen Fäusten zu bekämpfen.
+  Stellen Sie sich Ken und seinem vernichtenden "Dragon Punch"! Beobachten Sie,
+  wie die Temperatur steigt, wenn Dhalsim Sie mit seiner mystischen Yogaflamme
+  verbrennt! Hören Sie, wie Ihre Wirbelsäule knackt, wenn Zangief Sie mit seinem
+  "Spinning Pile Driver" auf den Asphalt knallt! Halten Sie sich die Ohren zu,
+  wenn Guile mit der unglaublichen Kraft des Sonic Boom die Schallmauer
+  durchbricht!
+  .
+  Vernichten Sie Ihre Konkurrenten und fordern Sie das Recht, Ihre Fähigkeiten
+  gegen die knochenbrechende Kraft der Großmeister zu testen! Können Sie
+  überleben? Kann das überhaupt jemand?
+release: 1991-01-01
+players: 2
+rating: 85%
+x-id: 42982
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/sf2.png
+assets.video: ./media/videos/sf2.mp4
+

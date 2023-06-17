@@ -1,0 +1,920 @@
+collection: Game Boy/Game Boy Color
+shortname: gb
+extensions: dmg, gb, gbc
+launch: am start
+  -n com.retroarch/.browser.retroactivity.RetroActivityFuture
+  -e ROM {file.path}
+  -e LIBRETRO /data/data/com.retroarch/cores/gambatte_libretro_android.so
+  -e CONFIGFILE /storage/emulated/0/Android/data/com.retroarch/files/retroarch.cfg
+  -e QUITFOCUS
+  --activity-clear-task
+  --activity-clear-top
+  --activity-no-history
+game: Aladdin
+file: ./Aladdin (USA).zip
+developer: Virgin
+publisher: Ubisoft
+genre: Action-Plattform
+description:
+  The game from Virgin based on the 1992 animated Disney film is a side-scrolling
+  platformer.
+  .
+  The player controls Aladdin, who must make his way through several levels based
+  on locations from the movie: from the streets and rooftops of Agrabah, the Cave
+  of Wonders and the Sultan's dungeon to the final confrontation in Grand Vizier
+  Jafar's palace. The Sultan's guards and also animals of the desert want to
+  hinder Aladdin in his way. He can defend himself with his sword or by throwing
+  apples. Next to apples, Aladdin can also collect gems which can be traded for
+  lives and continues with a traveling trader. Finding Genie or Abu icons enables
+  bonus rounds. The Genie bonus round is a game of luck played for apples, gems or
+  extra lives. In Abu's bonus round, the player controls the little monkey who has
+  to catch bonus items that fall from the sky, but without touching any of the
+  unwanted objects like rocks and pots.
+  .
+  The game's humorous animations were created by Walt Disney Feature Animation.
+release: 2000-11-10
+players: 1
+rating: 55%
+x-id: 36903
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Aladdin (USA).png
+assets.video: ./media/videos/Aladdin (USA).mp4
+
+
+game: Arcade Hits - Joust & Defender
+file: ./Arcade Hits - Joust & Defender (USA, Europe).zip
+developer: Digital Eclipse
+publisher: Midway
+genre: Sammlung
+description:
+  If you're really looking for arcade hits, you can't get much bigger than JOUST
+  and DEFENDER. Lording over the game halls in the days after PAC-MAN and DONKEY
+  KONG had lost their luster, these two giants revolutionized gaming forever.
+  JOUST casts you in the role of a noble knight from the future mounting you on an
+  ostrich and sending you off into battle. Making full use of the ostrich, you'll
+  try to gain altitude and get your opponent from above, collecting magical eggs
+  for extra points. DEFENDER puts you in the pilot's seat of an aerodynamic space
+  ship and shoots you through the expanses of a futuristic city under siege.
+  You'll have to fend off other spacecraft, utilize a whole lot of impressive
+  weaponry, and keep the civilians from turning into ugly mutants. Both games are
+  notable for their influence over those to follow, and both are replicated in
+  fine detail for the Game Boys Color. Challenge the computer, or link up and do
+  battle with a friend.
+release: 1999-03-01
+players: 2
+rating: 65%
+x-id: 81932
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Arcade Hits - Joust & Defender (USA, Europe).png
+assets.video: ./media/videos/Arcade Hits - Joust & Defender (USA, Europe).mp4
+
+
+game: Astérix & Obélix vs Caesar
+file: ./Asterix & Obelix vs Caesar (Europe) (En,Fr,De,Es,Nl).zip
+developer: Tek 5
+publisher: Cryo Interactive
+genre: Action-Abenteuer
+description:
+  Relive the adventures of Asterix and Obelix. Take control of your favourite
+  cartoon heroes of totally addictive action. Take on the ranks of legionnaires,
+  the formidable Roman catapults and the unforgettable finishing levels of ever
+  increasing difficulty. Some magic potion will make you fly.
+release: 2000-08-01
+players: 1
+rating: 30%
+x-id: 81943
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Asterix & Obelix vs Caesar (Europe) (En,Fr,De,Es,Nl).png
+assets.video: ./media/videos/Asterix & Obelix vs Caesar (Europe) (En,Fr,De,Es,Nl).mp4
+
+
+game: Astérix & Obélix
+file: ./Asterix & Obelix (Europe) (En,Fr,De,Es).zip
+developer: Bit Managers
+publisher: Infogrames
+genre: Action-Plattform
+description:
+  Cäsar hat eine Palisade um das Dorf der unbeugsamen Gallier errichten lassen, um
+  sie darin gefangen zu halten. Wählt Obelix oder Asterix und reist quer durch das
+  römische Reich. Dabei werdet ihr an einem Stierkampf, einem Rugbymatch und sogar
+  an den olympischen Spielen teilnehmen. Bringt ein Andenken aus jedem besuchten
+  Land mit, um Cäsar zu beweisen, dass unsere Helden die stärkeren sind.
+release: 1999-01-01
+players: 1
+rating: 75%
+x-id: 36858
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Asterix & Obelix (Europe) (En,Fr,De,Es).png
+assets.video: ./media/videos/Asterix & Obelix (Europe) (En,Fr,De,Es).mp4
+
+
+game: Astérix : Search for Dogmatix
+file: ./Asterix - Search for Dogmatix (Europe) (En,Fr,De,Es,It,Nl).zip
+developer: Rebellion
+publisher: Infogrames
+genre: Plattform
+description:
+  Asterix and Obelix (based on the French comic book series), must embark on a
+  journey from the forests of France to the coliseums of Rome. Their goal is to
+  find Obelix's lovable pet dog, Dogmatix. Players take control of Asterix or
+  Obelix, and run, jump and punch through various well-drawn and colorful levels
+  in this side-scrolling adventure game.
+  .
+  This title is somewhat non-linear, and allows players to choose the order in
+  which to visit stages, as well as the numerous mini-games. The stage-select
+  screen is a mini-map, and after selecting to play either Asterix or Obelix,
+  players can visit the boss arena, the inn (extra energy, hints and passwords are
+  found here), as well as the the local mini-game. These mini-games become
+  available from the title-screen under the "Instant Fun" option. They vary from a
+  "Memory" style shield-matching game to humorous events such as "Throw a Roman
+  Mini Game".
+  .
+  Both Asterix and Obelix play differently as they have individual abilities and
+  limitations. Asterix is more nimble, can run faster and jump higher, whereas
+  Obelix is more powerful (being able to bash through some walls) but noticeably
+  slower. These differences are highlighted by the obstacles presented in the
+  stages - there are many jumps to make as well as many enemies (Roman soldiers,
+  boars, centurions) to dispose of. In the quest to find Dogmatix, it is vital to
+  collect keys hidden within the levels to make available new areas. Similarly, it
+  is also important to collect coins from beaten enemies as they allow the
+  purchases at each inn, (which is aptly manned by Getafix himself!).
+release: 2000-05-31
+players: 1
+rating: 85%
+x-id: 37036
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Asterix - Search for Dogmatix (Europe) (En,Fr,De,Es,It,Nl).png
+assets.video: ./media/videos/Asterix - Search for Dogmatix (Europe) (En,Fr,De,Es,It,Nl).mp4
+
+
+game: Asteroids
+file: ./Asteroids (USA, Europe).zip
+developer: Syrox Developments
+publisher: Activision
+genre: Shooter-Action
+description:
+  Unlike Activision's earlier remake of an Atari arcade classic, Battlezone, this
+  one stays close to its namesake.  Take the original, Atari coin-op game
+  Asteroids, add in the features of the Atari 2600 cartridge, then give it 3-D
+  graphics and a bunch of power-ups, and you've got Activision's Asteroids remake.
+  .
+  You are an employee of the Astro-Mining Corporation.  Your mission is to simply
+  go to an assigned area of space and clear the area of asteroids and the
+  occassional debris.  The game consists of five zones, each with a different
+  background and some with special features.  Each zone has 15 levels.  In
+  addition to the standard asteroids, there are also mined asteroids that explode;
+  indestructible asteroids that are, well, indestructible; fireball comets;
+  crystal asteroids that regenerate; alien egg asteroids containing deadly baby
+  space worms; and ancient energy asteroids that shoot back!  And there's plenty
+  of enemies in addition to the asteroids, such as Standard and Super Saucers,
+  Asteroids Tugs, Fuel Transports, Hexes, Nuke Drivers, and Vulturoids.
+  .
+  There are three types of ships to choose from, each with different strengths and
+  weaknesses.  There are also three skill levels.  If you beat the game at Expert
+  or higher, you gain access to a fourth type of ship.  All ships features the
+  standard laser, shield, flip (instantly flips your ship 180 degrees), and
+  hyperspace.  There are also limited power-ups you can  pick up such as GunSat,
+  Mines, Homing Missiles, Plasma Drill, and Trigger Bombs.
+  .
+  The game supports either one or two players.  In two player mode, the object is
+  to simply outscore your opponent in a random zone and level.  You cannot
+  directly kill your opponent by shooting him, but there are other ways....
+  .
+  Lastly, if you shoot the classic-style asteroid in level 15 of the first zone,
+  you'll find the option of "Classic Asteroids" now appearing on the main menu.
+release: 1999-09-01
+players: 2
+rating: 60%
+x-id: 36859
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Asteroids (USA, Europe).png
+assets.video: ./media/videos/Asteroids (USA, Europe).mp4
+
+
+game: Batman Beyond : Return of the Joker
+file: ./Batman Beyond - Return of the Joker (USA).zip
+developer: Kemco
+publisher: Ubisoft
+genre: Kampf-Action
+description:
+  Based off the movie, Batman Beyond puts the player on the streets of Gotham
+  (Beyond) to take out the ever-grinning Joker, but before that an obvious long
+  line of his evil minions - some of which are genetically engineered.
+  .
+  Scroll around, punch, kick, play with bat-weapons, and avoid being on the
+  receiving end of those attacks. There are multiple 'bat suits' that you can
+  choose from, each with their own special abilities and purposes.
+  .
+  Mostly a 3-D beat-the-living-sunshine-out-of-whatever-moves type.
+release: 2000-11-01
+players: 1
+rating: 50%
+x-id: 36868
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Batman Beyond - Return of the Joker (USA).png
+assets.video: ./media/videos/Batman Beyond - Return of the Joker (USA).mp4
+
+
+game: Blade
+file: ./Blade (USA, Europe).zip
+developer: HAL Laboratory
+publisher: Activision
+genre: Kampf-Action-Beat'em Up
+description:
+  You're Blade, Gothic City's baddest vampire hunter. When rival vampire clams
+  ignite a deadly feud, you go deep to do some serious demon killing. Stalk the
+  undead through 24 gothic locations, then waste an arsenal of intense weapons.
+  Plan on staying up late tonight, 'cause an even greater evil awaits.
+release: 2000-12-08
+players: 1
+rating: 55%
+x-id: 36872
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Blade (USA, Europe).png
+assets.video: ./media/videos/Blade (USA, Europe).mp4
+
+
+game: Buffy the Vampire Slayer
+file: ./Buffy the Vampire Slayer (USA, Europe).zip
+developer: Game Brains
+publisher: THQ
+genre: Kampf-Action
+description:
+  Fight against the vampires to save mankind, or at least around Sunnydale, USA.
+  .
+  Punch and kick your way through 8 side-scrolling levels as Buffy the vampire
+  slayer, beating back the vamps and staking them when the time is right. Comic
+  book style cut scenes help to explain the story as you play, as if an episode of
+  the TV show was on the handheld.
+release: 2000-11-10
+players: 1
+rating: 70%
+x-id: 36877
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Buffy the Vampire Slayer (USA, Europe).png
+assets.video: ./media/videos/Buffy the Vampire Slayer (USA, Europe).mp4
+
+
+game: Catwoman
+file: ./Catwoman (USA).zip
+developer: Kemco
+publisher: Vatical Entertainment
+genre: Simulation-Action
+description:
+  In Catwoman, the titular Batman villainess is spun off into her own game.  Talia
+  tries to hire Catwoman to steal a crystal skull, but Catwoman decides to keep it
+  for herself, not knowing Ra's al Ghul plans to use it to destroy Gotham.
+  .
+  Catwoman has dozens of moves to help her navigate and fight her way through nine
+  levels of goons and platforms.  She can attack with her claws, jump off walls,
+  flip, grab ledges and swing with her whip ala Bionic Commando.  She also has a
+  stealth option, allowing her to disappear into the background of a level and
+  sneak along silently.
+release: 1999-12-01
+players: 1
+rating: 50%
+x-id: 36882
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Catwoman (USA).png
+assets.video: ./media/videos/Catwoman (USA).mp4
+
+
+game: Centipede
+file: ./Centipede (USA).zip
+developer: Morning Star Multimedia
+publisher: Majesco
+genre: Action-Shooter-Shooter / Wie Space Invaders
+description:
+  The classic arcade hit CENTIPEDE comes to Game Boy Color in this slightly
+  enhanced version of the old favorite. This one- or two-player game has you
+  firing pesticide at an oncoming centipede that is threatening the garden. As the
+  pest weaves its way through the mushrooms dispersed throughout the screen,
+  you'll have to use strategy as well as quickness to fight it off. The classic
+  gameplay is replicated perfectly in this arcade port. You can play two players
+  competitively by alternating on a single Game Boy, or grab two copies of the
+  game and a Game Boy Link Cable to cooperate against the buggy bad guys.
+  CENTIPEDE is enhanced for Game Boy Color, with all new brightly colored graphics
+  that will take you back to the arcades of the '80s. Centipede is compatible with
+  all Game Boy systems.
+release: 1998-01-01
+players: 1
+rating: 80%
+x-id: 36883
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Centipede (USA).png
+assets.video: ./media/videos/Centipede (USA).mp4
+
+
+game: Commander Keen
+file: ./Commander Keen (USA, Europe).zip
+developer: David A. Palmer Productions
+publisher: Activision
+genre: Action-Abenteuer
+description:
+  Activision remakes the popular PC "Commander Keen" series of games in a new Game
+  Boy Color version. With new worlds, aliens, and lots more familiar candy,
+  Commander Keen journeys again to the far reaches of outer space, this time to
+  save the sacred Crystals, stolen by the evil Droidicus.\n
+  You play the role of Billy Blaze, who, when he isn't tinkering in his secret
+  workshop building new inventions, dons his brothers football helmet and
+  transforms into - COMMANDER KEEN - DEFENDER OF EARTH!  - when the universe is in
+  trouble.
+release: 2001-05-30
+players: 1
+rating: 45%
+x-id: 36887
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Commander Keen (USA, Europe).png
+assets.video: ./media/videos/Commander Keen (USA, Europe).mp4
+
+
+game: Die Schöne und das Biest : Spielesammlung
+file: ./Beauty and the Beast - A Board Game Adventure (USA) (SGB Enhanced).zip
+developer: Left Field Productions
+publisher: Nintendo
+genre: Brettspiele
+description:
+  Disney's BEAUTY AND THE BEAST: A Board Game Adventure packs the personality and
+  fun of the popular Disney characters into a wild board game filled with a
+  variety of mini-games. Select your favorite BEAUTY AND THE BEAST character and
+  play against three opponents as you race to the finish line. Since everything
+  depends on the roll of the dice, there is a bit of luck involved but skill
+  enters into the mix when you land on one of the mini-game squares. When you do,
+  you'll be whisked to one of 10 side games that will test your reflexes, memory,
+  and skill. Up to four players can play this game by passing the system around
+  after each turn no link cable required! If you want to try something a little
+  different when playing by yourself, challenge the game's Story mode, where you
+  must race the villainous Gaston to the finish of each board.
+release: 1999-10-25
+players: 1
+rating: 65%
+x-id: 81995
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Beauty and the Beast - A Board Game Adventure (USA) (SGB Enhanced).png
+assets.video: ./media/videos/Beauty and the Beast - A Board Game Adventure (USA) (SGB Enhanced).mp4
+
+
+game: Extreme Ghostbusters
+file: ./Extreme Ghostbusters (Europe) (En,Fr,De,Es,It,Pt).zip
+developer: Magic Pockets
+publisher: Dreamcatcher
+genre: Plattform
+description:
+  In an attempt to takeover the world, the newly liberated and powerful
+  ectoplasmic forces, led by the half-human, half-demo Count Mercharior, have
+  kidnapped two key members of the Extreme Ghostbusters team. Without wasting a
+  second, Eduardo and Kylie jump into the famous Ecto-1 ambulance and race off to
+  the rescue... Play as Eduardo and Kylie as you uncover the clues to the
+  kidnapping, confront the evil Count Mercharior and return your teammates, Roland
+  and Garrett, to safety!
+release: 2001-04-02
+players: 1
+rating: 30%
+x-id: 82170
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Extreme Ghostbusters (Europe) (En,Fr,De,Es,It,Pt).png
+assets.video: ./media/videos/Extreme Ghostbusters (Europe) (En,Fr,De,Es,It,Pt).mp4
+
+
+game: Fix & Foxi : Episode 1 Lupo
+file: ./Fix & Foxi - Episode 1 Lupo (Europe) (En,Fr,De).zip
+developer: Conspiracy Entertainment
+publisher: Classified Games
+genre: Plattform
+description:
+  In Fix & Foxi - Episode 1 Lupo you must help the plucky and cool Lupo on his
+  incredible adventure to make it through the enchanted lands and out the other
+  side alive and in one piece! You only have a certain amount of lives to make it
+  through each level so tread wisely and jump on all the enemies to eliminate them
+  and collect the precious coins they leave behind!
+players: 1
+x-id: 82179
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Fix & Foxi - Episode 1 Lupo (Europe) (En,Fr,De).png
+assets.video: ./media/videos/Fix & Foxi - Episode 1 Lupo (Europe) (En,Fr,De).mp4
+
+
+game: Frogger 2
+file: ./Frogger 2 (USA).zip
+developer: Game Titan
+publisher: Majesco
+genre: Action
+description:
+  It's fast and furious action from start to finish for Frogger and his new
+  friend, Lillie Frog. Help them save the Frog Babies from Swampy the crocodile.
+release: 2000-09-23
+players: 1
+rating: 60%
+x-id: 37078
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Frogger 2 (USA).png
+assets.video: ./media/videos/Frogger 2 (USA).mp4
+
+
+game: Frogger
+file: ./Frogger (USA).zip
+developer: Konami
+publisher: Majesco
+genre: Action
+description:
+  Your task in this arcade conversion is to guide a frog across a treacherous road
+  and river, and to safety at the top of the screen. Both these sections are
+  fraught with a variety of hazards, each of which will kill the frog and cost you
+  a life if contact is made.
+  .
+  The road is full of cars and trucks, at variable speeds. The river water itself
+  is fatal, as are the snakes which hover within on later levels. Frogger must use
+  the arrangement of logs, turtles (which are only there for a short time) and
+  alligators (but stay away form their faces), and then jump into one of the open
+  home-cells, ideally one containing a fly for extra points. Once all holes have
+  been filled, you move onto the next, harder, level.
+release: 1998-12-31
+players: 2
+rating: 60%
+x-id: 36917
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Frogger (USA).png
+assets.video: ./media/videos/Frogger (USA).mp4
+
+
+game: Galaga : Destination Earth
+file: ./Galaga - Destination Earth (USA).zip
+developer: Pipedream Interactive, Inc.
+publisher: Majesco
+genre: Shooter-Action-Shoot'em Up / Vertikal-Shoot'em Up
+description:
+  Diese Handheld-Version entspricht dem der Konsolen-Cousins, mit Ausnahme der
+  Grafik und der 3D-Perspektive. Diese Version hat vier verschiedene Hintergründe,
+  die zusammen mit einer Vielzahl bunter feindlicher Schiffe vertikal scrollen.
+  .
+  Spieler können auf mächtigere Waffen upgraden, einschließlich der Verdoppelung
+  ihrer Feuerkraft, indem sie ihre Schiffe zurückerobern, die von
+  Galaga-Kommandoschiffen erobert werden können. Diese Version hat jedoch keine
+  Herausforderungsstufen wie die anderen Versionen.
+release: 2000-09-01
+players: 1
+rating: 60%
+x-id: 37079
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Galaga - Destination Earth (USA).png
+assets.video: ./media/videos/Galaga - Destination Earth (USA).mp4
+
+
+game: Little Nicky
+file: ./Little Nicky (USA).zip
+developer: Digital Eclipse
+publisher: Ubisoft
+genre: Plattform
+description:
+  Satan wants to appoint a new ruler in Hell. However, nobody meets his high
+  standards, so the dark prince must remain atop Hell's throne. Displeased by
+  their father's lack of confidence in them, Adrian and Cassius leave Hell and go
+  to Earth to create a new Hell. Since Satan has no time to deal with Adrian and
+  Cassius, he sends his other son Nicky to stop them. You take the role of Nicky
+  as he travels through 24 levels, where he must collect a certain number of items
+  or destroy demons. However, the key to making it through all of the levels is
+  Nicky's power. When Nicky gets close to fire, his powers increase. He will run
+  faster, jump higher, and spit fireballs. Should he get too hot, Nicky will be
+  unable to control his powers until he cools down. Help Nicky capture Adrian and
+  Cassius in LITTLE NICKY.
+release: 2000-01-01
+players: 1
+rating: 30%
+x-id: 82388
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Little Nicky (USA).png
+assets.video: ./media/videos/Little Nicky (USA).mp4
+
+
+game: Lufia: The Legend Returns
+file: ./Lufia - The Legend Returns (USA).zip
+developer: Neverland Co., Ltd.
+publisher: Natsume
+genre: Rollenspiele
+description:
+  Erlebe ein Abenteuer voller Mythen und Sagen, phantastischer Kreaturen und
+  sagenumwobener Helden! Der dritte Teil der erfolgreichen Rollenspiel-Saga. Die
+  Insel der Sinistrals, Doom Island, versank nach dem zweiten Doom-Island-Krieg in
+  den Tiefen des Ozeans. Man glaubte, dass sie in einen ewigen Schlaf versunken
+  sei, aber insgeheim begann sie neu aufzuleben und bereitete sich darauf vor, zum
+  dritten Mal am Himmel zu erscheinen. Die bösartigen Sinistrals sind wieder
+  auferstanden und verbreiten unvorstellbaren Terror im Land. Eine Kraft erwacht
+  in Dir, eine spirituelle Kraft, die Dich in einen Kampf führt, welcher die Welt
+  retten wird!
+release: 2001-09-07
+players: 1
+rating: 55%
+x-id: 37118
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Lufia - The Legend Returns (USA).png
+assets.video: ./media/videos/Lufia - The Legend Returns (USA).mp4
+
+
+game: M&M's Minis Madness
+file: ./M&M's Minis Madness (USA).zip
+developer: Pipe Dream Interactive
+publisher: Majesco
+genre: Plattform
+description:
+  The Minis have escaped and are wreaking havoc on the M&M factory. It is up to
+  four intrepid heroes Red, Green, Yellow, and Blue to capture the Minis and
+  return the factory to normal. You must choose the appropriate character for each
+  situation the heroes encounter, as they each have a special skill. Blue can
+  swim, Green has a deadly kiss attack, Yellow can bounce high into the air, and
+  Red can use a spin attack to destroy enemies. If you encounter an area the
+  current character is not able to get past, you can switch to another characters
+  with the select button. Learning how and when to use these abilities is key to
+  conquering all 12 levels in the game. So play M&M MINI MADNESS and try to save
+  the factory before the Minis destroy it.
+release: 2000-12-08
+players: 1
+rating: 65%
+x-id: 82410
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/M&M's Minis Madness (USA).png
+assets.video: ./media/videos/M&M's Minis Madness (USA).mp4
+
+
+game: Mario Golf
+file: ./Mario Golf (USA).zip
+developer: Camelot Software
+publisher: Nintendo
+genre: Sport-Sport / Golf
+description:
+  Mit knackigen Farbgrafiken und einem realistischen Spielgefühl ist Mario Golf
+  wahrscheinlich das beste Golfspiel für tragbare Spielkonsolen, das jemals
+  entwickelt wurde. Mario Golf bietet vier vollständige Kurse mit je 18 Löchern,
+  11 Golfer und dieselbe präzise Steuerung, die auch die Nintendo 64-Version so
+  auszeichnete.
+  .
+  Bei Mario Golf kannst du deinen eigenen Golfer kreieren und sein/ihr Können mit
+  der Zeit ausbauen, indem du Meisterschaften absolvierst oder Kopf an Kopf mit
+  einem anderen Golfer spielst. Je öfter du spielst, desto stärker und präziser
+  wird er oder sie. Mit Hilfe des Nintendo 64 Transfer Paks kannst du deinen
+  Golfer zudem direkt in die Nintendo 64-Version von Mario Golf exportieren. Wenn
+  du mit deinem Game Boy Color-Golfer auf dem Nintendo 64 spielst, kannst du ihn
+  noch weiter aufbauen und ihn anschließend zurück auf den Game Boy Color
+  verfrachten.
+release: 1999-06-30
+players: 2
+rating: 80%
+x-id: 37123
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Mario Golf (USA).png
+assets.video: ./media/videos/Mario Golf (USA).mp4
+
+
+game: Mario Tennis
+file: ./Mario Tennis (USA).zip
+developer: Camelot Software
+publisher: Nintendo
+genre: Sport-Sport / Tennis
+description:
+  Der Mann, der den Blaumann als Tennismode auf dem Nintendo 64 salonfähig machte,
+  ist wieder da.
+  .
+  Das Bild mag kleiner sein, doch Mario Tennis macht auf dem Game Boy Color genau
+  so viel Spaß wie auf den Nintendo 64. Die Entwicklung wurde von Camelot Software
+  Planning übernommen, die auch für die Nintendo 64-Version verantwortlich waren -
+  dennoch ist Mario Tennis für Game Boy Color ein sehr eigenständiger Titel. Die
+  Steuerung ist genau so präzise, und die Tennis-Action ist genau so packend wie
+  eh und je, doch wartet die Game Boy-Version mit zahlreichen RPG-Elementen im
+  Spiel auf. Zu Beginn des Spiels hast du die Wahl, als männlicher oder weiblicher
+  Spieler anzutreten.
+release: 2000-01-16
+players: 2
+rating: 90%
+x-id: 36954
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Mario Tennis (USA).png
+assets.video: ./media/videos/Mario Tennis (USA).mp4
+
+
+game: Men in Black : The Series
+file: ./Men in Black - The Series (USA, Europe) (SGB Enhanced).zip
+developer: Tiertex
+publisher: Interplay
+genre: Shoot'em Up / Vertikal-Shoot'em Up-Plattform
+description:
+  Based on the cartoon series of the same name, MEN IN BLACK: The Series begins
+  with aliens invading the Earth. It is up to a covert organization, known only as
+  Men In Black, to stop the invasion. You take the role of Agent J as he hunts
+  down 12 different alien races, including the Skraaldians and the Fmeck. Luckily,
+  J has a wide range of weapons to help him put an end to the alien menace; most
+  notable is the Noisy Cricket. While most aliens are relatively easy to spot,
+  some can change shape and will not reveal themselves until J gets close to them
+  so keep your eyes peeled. When a stage is cleared, you are treated to an
+  animated sequence that advances the plot. Will Agent J be able to save the
+  world? Play MEN IN BLACK: The Series and find out.
+release: 1998-01-01
+players: 1
+rating: 50%
+x-id: 82455
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Men in Black - The Series (USA, Europe) (SGB Enhanced).png
+assets.video: ./media/videos/Men in Black - The Series (USA, Europe) (SGB Enhanced).mp4
+
+
+game: Men in Black 2 : The Series
+file: ./Men in Black 2 - The Series (USA) (En,Fr,De).zip
+developer: David A. Palmer Productions
+publisher: Crave Entertainment
+genre: Plattform
+description:
+  Based on the cartoon series of the same name, MEN IN BLACK: The Series 2 starts
+  with aliens invading the Earth. It is up to a covert organization, known only as
+  Men In Black, to stop the invasion. You take the role of Agent J as he hunts
+  down 12 different alien races, including the Skraaldians and the Fmeck. Luckily,
+  J has a wide range of weapons to help him put an end to the alien menace; most
+  notable is the Noisy Cricket. While most aliens are relatively easy to spot,
+  some can change shape and will not reveal themselves until J gets close to
+  them...so keep your eyes peeled. When a stage is cleared, you are treated to an
+  animated sequence that advances the plot. Will the Agent J be able to save the
+  world? Play MEN IN BLACK: The Series 2 and find out.
+release: 2000-07-09
+players: 1
+rating: 50%
+x-id: 82453
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Men in Black 2 - The Series (USA) (En,Fr,De).png
+assets.video: ./media/videos/Men in Black 2 - The Series (USA) (En,Fr,De).mp4
+
+
+game: Metal Gear Solid
+file: ./Metal Gear Solid (USA).zip
+developer: Konami
+publisher: Konami
+genre: Action
+description:
+  Metal Gear Solid (original Japanese name: Metal Gear: Ghost Babel) for GameBoy
+  Color is not the same game as the popular Playstation/PC installment of the
+  series. It is not set within the storyline of Metal Gear series, but instead
+  tells an unrelated episode featuring the same hero - special agent Solid Snake.
+  A secret government project, codenamed "Babel", attempts to revive the Metal
+  Gear project - development of a highly destructive mech weapon. But an
+  organization known as Gindran Liberation Front hijacked the Metal Gear
+  prototype, without which any further development would be useless. Solid Snake
+  is sent to infiltrate Outer Heaven, a location not entirely unfamiliar to him,
+  and to retrieve the prototype.
+  .
+  The game is similar in style and gameplay to early Metal Gear games. It is
+  viewed from top-down perspective, and its gameplay is mostly based on stealth.
+  Snake has to sneak past the guards, using various tactics to distract them or to
+  kill them silently. Weapons, gadgets, and moves are all similar to those used in
+  the other Metal Gear Solid game. From time to time Snake will also encounter
+  bosses whom he will have to defeat in order to proceed to the next area. Virtual
+  Missions for Snake are also included in this release.
+release: 2000-01-01
+players: 2
+rating: 80%
+x-id: 36958
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Metal Gear Solid (USA).png
+assets.video: ./media/videos/Metal Gear Solid (USA).mp4
+
+
+game: Midway presents Arcade Hits: Spy Hunter / Moon Patrol
+file: ./Arcade Hits - Moon Patrol & Spy Hunter (USA, Europe).zip
+developer: Digital Eclipse
+publisher: Midway
+genre: Sammlung
+description:
+  Look no further than ARCADE HITS: Moon Patrol & Spy Hunter for classic fun on
+  the run for Game Boy and Game Boy Color. Featuring two classic arcade action
+  titles, ARCADE HITS is packed full of fun. In SPY HUNTER, you play a super spy
+  trying to thwart the nefarious plots of your adversaries. Take to the road in
+  your souped-up roadster in a thrilling overhead chase. Collect power-ups to
+  increase your firepower, oil slicks to give the baddies the slip, and more. Take
+  out as many of the enemies as you can, but watch out for civilians or you'll
+  have some explaining to do! MOON PATROL takes you to the surface of the Moon,
+  driving a fully armed dune buggy in side-scrolling mayhem. Blast away at the
+  Moon critters that are out to get you, and keep an eye out for craters! Both
+  games are perfect graphical reproductions of the vintage arcade machines.
+  Classic and modern gamers can't go wrong with this awesome duo of games!
+release: 1999-05-01
+players: 1
+x-id: 81934
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Arcade Hits - Moon Patrol & Spy Hunter (USA, Europe).png
+assets.video: ./media/videos/Arcade Hits - Moon Patrol & Spy Hunter (USA, Europe).mp4
+
+
+game: Pokémon : Goldene Edition
+file: ./Pokemon - Goldene Edition (Germany) (SGB Enhanced).zip
+developer: Game Freak
+publisher: Nintendo
+genre: Rollenspiele
+description:
+  Du beginnst als unerfahrener Trainer und erforschst die Insel Johto. Dein Ziel
+  ist es, so viele Pokémon wie möglich zu fangen. Auf deinem Weg wirst du Dutzende
+  Pokémon treffen wie das Legendäre Pokémon-Trio Raikou, Entei und Suicune. Auch
+  neue Pokémon-Typen kamen damals zum Spiel hinzu! Achte auf Pokémon vom Typ Stahl
+  und vom Typ Unlicht.
+release: 2001-04-06
+players: 1
+rating: 85%
+x-id: 82619
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Pokemon - Goldene Edition (Germany) (SGB Enhanced).png
+assets.video: ./media/videos/Pokemon - Goldene Edition (Germany) (SGB Enhanced).mp4
+
+
+game: Pokémon : Silberne Edition
+file: ./Pokemon - Silberne Edition (Germany) (SGB Enhanced).zip
+developer: Game Freak
+publisher: Nintendo
+genre: Rollenspiele
+description:
+  Du beginnst als unerfahrener Trainer und erforschst die Insel Johto. Dein Ziel
+  ist es, so viele Pokémon wie möglich zu fangen. Auf deinem Weg wirst du Dutzende
+  Pokémon treffen wie das Legendäre Pokémon-Trio Raikou, Entei und Suicune. Auch
+  neue Pokémon-Typen kamen damals zum Spiel hinzu! Achte auf Pokémon vom Typ Stahl
+  und vom Typ Unlicht.
+release: 2001-04-06
+players: 1
+rating: 85%
+x-id: 82616
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Pokemon - Silberne Edition (Germany) (SGB Enhanced).png
+assets.video: ./media/videos/Pokemon - Silberne Edition (Germany) (SGB Enhanced).mp4
+
+
+game: Pokémon Pinball
+file: ./Pokemon Pinball (USA) (Rumble Version) (SGB Enhanced).zip
+developer: Jupiter Corporation
+publisher: Nintendo
+genre: Flipper
+description:
+  Ein neuer Weg um sich Pokemon zu schnappen: mit dem Flipper. Eine geniale
+  Kombination des Spiel-Konzept. Durch geschicktes Flippern kann der Spieler alle
+  150 Pokemon fangen. Die Flipper-Simulation wird durch das in der Cartridge
+  integrierte Rumble-Features noch realistischer gestaltet. Wie im echten Flipper
+  fühlt der Spieler das Aufprallen der Spielkugel - hier natürlich des Pokeballs.
+  Ein Volltreffer für den Handel.
+release: 1999-06-28
+players: 1
+rating: 70%
+x-id: 82598
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Pokemon Pinball (USA) (Rumble Version) (SGB Enhanced).png
+assets.video: ./media/videos/Pokemon Pinball (USA) (Rumble Version) (SGB Enhanced).mp4
+
+
+game: Pokémon Trading Card Game
+file: ./Pokemon Trading Card Game (Europe) (En,Fr,De) (SGB Enhanced).zip
+developer: Hudson
+publisher: Nintendo
+genre: Kartenspiele
+description:
+  Die besten Pokémon Sammelkartenspieler aller Zeiten - die Großmeister - suchen
+  eine würdigen Erben für die 4 seltenen legendären Pokémon-Karten! Sammle alle
+  Karten, besiege die 8 Clubmeister und fordere die Großmeister heraus! Tritt via
+  Universal Game Link-Kabel (separat erhältlich) gegen einen Freund an. Werde der
+  beste Kartenmeister! Das Spiel enthält über 200 Pokémon Sammelkarten und
+  exklusive neue Karten für den Game Boy!
+release: 2000-12-08
+players: 1
+rating: 75%
+x-id: 82603
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Pokemon Trading Card Game (Europe) (En,Fr,De) (SGB Enhanced).png
+assets.video: ./media/videos/Pokemon Trading Card Game (Europe) (En,Fr,De) (SGB Enhanced).mp4
+
+
+game: Pong: The Next Level
+file: ./Pong - The Next Level (USA, Europe).zip
+developer: Eastridge Technology|Morning Star Multimedia
+publisher: Hasbro Interactive
+genre: Puzzle
+description:
+  After years of game gulping cash left, right and center at the old arcade
+  machine, Pong has returned in an all new 3D title on the PC. But it isn't just
+  your simple Pong any more. Now you can play Jungle Pong, Football Pong, Ice
+  Hockey Pong and 4 player Pong. All this plus 3D graphics. Not to mention
+  animated Penguins (!?!?!).
+release: 2000-01-01
+players: 2
+rating: 100%
+x-id: 36974
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Pong - The Next Level (USA, Europe).png
+assets.video: ./media/videos/Pong - The Next Level (USA, Europe).mp4
+
+
+game: Tetris DX
+file: ./Tetris DX (World) (SGB Enhanced).zip
+developer: Nintendo
+publisher: Nintendo
+genre: Puzzle
+description:
+  Tetris und Game Boy gehören zusammen wie Mario und Luigi. Durch die prächtigen
+  Farben des Game Boy Color wird Tetris DX zu einem wahrhaft himmlischen
+  Vergnügen. Aus Achtung vor der schieren Perfektion der 1989er Game Boy-Vorlage
+  entschlossen sich die Entwickler, diese konsequent beizubehalten und einen neuen
+  Klassiker abzuliefern. Der größte Unterschied zwischen diesem Spiel und seinem
+  tragbaren Vorgänger sind die herrlichen Farbgrafiken. Die Hintergründe verändern
+  ihre Farben, während du Zeilen baust, und die prächtig gefürbten Steine sind
+  kontrastreich dargestellt. Tetris DX bietet drei verschiedene Spielmodi: den
+  traditionellen Marathon Mode, den Ultra Mode, sowie den 40 Line Mode. Im Ultra
+  Mode geht es um das Aufstellen eines Rekords (wird im Modul gespeichert)
+  innerhalb von drei Minuten. Hier ist es also besonders wichtig, viele Zeilen auf
+  einmal abzuräumen - und das so oft wie möglich. Der 40 Line Mode zwingt dich zu
+  einem Rennen gegen die Zeit. Baue und räume 40 Zeilen in möglichst kurzer Zeit
+  ab. Das Spiel zeichnet deine Rekordzeiten auf. Daher lohnt es sich, um jede
+  Sekunde zu kämpfen. Auch kannst du gegen die CPU spielen oder per Game Link
+  gegen einen Freund antreten.
+release: 1998-11-18
+players: 2
+rating: 80%
+x-id: 37208
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Tetris DX (World) (SGB Enhanced).png
+assets.video: ./media/videos/Tetris DX (World) (SGB Enhanced).mp4
+
+
+game: The Flintstones: Burgertime in Bedrock
+file: ./Flintstones, The - Burgertime in Bedrock (USA).zip
+developer: Conspiracy Entertainment
+publisher: Classified Games
+genre: Action-Plattform
+description:
+  In The Flintstones: Burgertime in Bedrock für GameBoy Color erhalten Fred
+  Feuerstein und Barney Geröllheimer einen neuen Job in dem neuen
+  Fast-Food-Restaurant. Manage das Restaurant, brate Burger und wehre Angriffe von
+  hungrigen Tieren ab. Verrückte Extras geben Dir besondere Fähigkeiten, wie
+  Geschwindigkeit, Unbesiegbarkeit oder Hilfe von Dino. The Flintstones:
+  Burgertime in Bedrock für GameBoy Color hat 25 Level, sowohl horizontal als auch
+  scrollende. Auch ein Multiplayer-Modus ist mit dem Linkkabel möglich.
+release: 2001-05-30
+players: 2
+rating: 70%
+x-id: 82181
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Flintstones, The - Burgertime in Bedrock (USA).png
+assets.video: ./media/videos/Flintstones, The - Burgertime in Bedrock (USA).mp4
+
+
+game: The Legend of Zelda : Link's Awakening DX
+file: ./Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev A) (SGB Enhanced).zip
+developer: Nintendo EAD
+publisher: Nintendo
+genre: Abenteuer-Rollenspiele
+description:
+  Gefangen in einem Traum! Link strandet auf der geheimnisvollen Insel Cocolint,
+  weit entfernt von seinem Heimatland Hyrule. Die einzige Möglichkeit das Eiland
+  wieder zu verlassen, besteht darin, dass Rätsel vom schlafenden Windfisch zu
+  lösen.\n
+  In diesem einzigartigen Abenteuer für den Game Boy begleitest du Link durch
+  düstere Labyrinthe, musst mysteriöse Geheimnisse lösen und übermächtige Gegner
+  bezwingen- und das Ganze erstmals in stimmungsvoller Farbpracht! Ein komplett
+  neues Dungeon, speziell für die Game Boy Color Version programmiert, macht
+  dieses Kultspiel zu einem einzigartigen Erlebnis!
+release: 1998-12-01
+players: 1
+rating: 90%
+x-id: 82375
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev A) (SGB Enhanced).png
+assets.video: ./media/videos/Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev A) (SGB Enhanced).mp4
+
+
+game: The Legend of Zelda : Oracle of Ages
+file: ./Legend of Zelda, The - Oracle of Ages (USA).zip
+developer: Flagship Studios
+publisher: Nintendo
+genre: Action / Abenteuer-Action-Rollenspiele
+description:
+  Die böse Zauberin Veran nimmt das „Orakel der Zeit“, die Sängerin Nayru,
+  gefangen. Mit ihrer Hilfe will sie die Vergangenheit ändern, um auf ewig die
+  Macht über das Land Labrynna zu erlangen. Link – Protagonist des Spiels – muss
+  die acht „Essenzen der Zeit“ finden, um mit Hilfe des Maku-Baumes Nayru und
+  Labrynna zu retten.
+release: 2001-05-14
+players: 1
+rating: 90%
+x-id: 82377
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Legend of Zelda, The - Oracle of Ages (USA).png
+assets.video: ./media/videos/Legend of Zelda, The - Oracle of Ages (USA).mp4
+
+
+game: The Legend of Zelda : Oracle of Seasons
+file: ./Legend of Zelda, The - Oracle of Seasons (USA).zip
+developer: Flagship Studios
+publisher: Nintendo
+genre: Action / Abenteuer-Action-Rollenspiele
+description:
+  Der niederträchtige General Onox entführt das „Orakel der Jahreszeiten“, die
+  Tänzerin Din, und verbannt den Tempel der Jahreszeiten und den dort aufbewahrten
+  Stab der vier Jahreszeiten in eine andere Welt. Ohne Din und den Stab gerät das
+  Wetter im Land Holodrum völlig durcheinander, und Link macht sich zur Rettung
+  auf. Dazu muss er die acht „Essenzen der Natur“ finden, um dem mächtigen
+  Maku-Baum zu alter Stärke zu verhelfen.
+release: 2001-05-14
+players: 1
+rating: 90%
+x-id: 82379
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box3d/Legend of Zelda, The - Oracle of Seasons (USA).png
+assets.video: ./media/videos/Legend of Zelda, The - Oracle of Seasons (USA).mp4
+
