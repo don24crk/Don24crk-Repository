@@ -10,7 +10,6 @@ launch: am start
   --activity-clear-task
   --activity-clear-top
   --activity-no-history
-  –activity-clear-top
 game: 2005 MiniGame MultiCart
 file: ./2005 Minigame Multicart (USA) (Unl).a26
 publisher: AtariAge
