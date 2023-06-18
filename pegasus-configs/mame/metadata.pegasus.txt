@@ -1,10 +1,10 @@
 collection: Arcade (various)
-shortname: fba
-extensions: 2352, 7z, MODE1, bin, ccd, cue, img, iso, sub, zip
+shortname: mame
+extensions: 7z, chd, zip
 launch: am start
   -n com.retroarch/.browser.retroactivity.RetroActivityFuture
   -e ROM {file.path}
-  -e LIBRETRO /data/data/com.retroarch/cores/fbalpha_libretro_android.so
+  -e LIBRETRO /data/data/com.retroarch/cores/mame2010_libretro_android.so
   -e CONFIGFILE /storage/emulated/0/Android/data/com.retroarch/files/retroarch.cfg
   -e QUITFOCUS
   --activity-clear-task
