@@ -1,14 +1,14 @@
 collection: Game engine
 shortname: scummvm
 extensions: #02, $00, (A), (a), (b), 0, 000, 001, 002, 003, 004, 005, 006, 007, 009, 025, 1, 101, 102, 1C, 1c, 2, 2 US, 25, 3, 4, 455, 5, 512, 6, 8, 99, ACX, ADF, ADV, AGA, ALD, ALL, ANG, AP, ASK, AUD, AVD, AVI, BAT, BIN, BLB, BMV, BND, BRO, BSF, BUN, C, C00, C06, C35, CAB, CAT, CC, CD1, CEL, CFG, CG1, CGA, CHK, CLG, CLT, CLU, CNF, CNV, COD, CPS, CRC, CRF, CSC, CUP, CUR, D$$, D00, DAT, DEF, DFW, DIR, DMU, DNR, DR1, DRV, DSK, DXR, EGA, EMC, ENC, EX1, EXE, FDT, FKR, FNT, FON, FRENCH, GAM, GDA, GERMAN, GME, GRA, GRP, GRV, H$$, HAG, HE0, HE1, HE2, HEB, HELLO, HEP, HEX, HPF, HQR, HRC, HRS, IDX, IMG, IMS, IN, INF, INI, ITK, L9, LA0, LAB, LB, LEC, LFL, LIB, LIC, LNG, LZC, M4B, MAC, MAP, MDT, MHK, MID, MIX, MMM, MOR, MPC, MS0, MSG, NL, OBJ, OGG, OPT, ORB, OUT, OVL, OVR, P56, PAK, PAL, PAR, PAT, PGM, PH1, PIC, PKD, PMV, PRC, PRG, Pat, QA, R00, R02, RED, RES, RL, RL2, RLB, ROM, RRM, RSC, SAV, SCN, SCR, SEQ, SET, SHP, SHR, SM0, SM1, SND, SNG, SOG, SOL, SOU, SOUND, SPP, SQU, STK, STR, SYN, SYS, SYS16, TAB, TEX, TLK, TOC, TRS, TXT, Text, V16, V56, VB, VGA, VMD, VOC, VQA, VXD, W16, W32, WAV, WIN, Z, Z5, ZFS, a3c, acd, acx, add, alr, asl, avi, b25c, bin, blb, blorb, bro, cab, cas, cat, cel, cup, d$$, d64, dat, dcp, dnr, doc, dsk, dxr, exe, flac, gam, game, gblorb, gfx, gmp, he0, he1, he2, hex, img, info, ini, j2, jpg, lab, lfl, m4b, mac, mhk, mma, mp3, mpc, msd, nbf, nib, nl, ogg, pat, pic, prg, rom, rsc, scumm, scummvm, sdb, slg, st, str, sub, sym, t3, tab, taf, txt, ulx, vga, voc, wav, win, woz, xfd, z1, z2, z3, z4, z4f, z5, z6, z8, zblorb, zfs, zip
-launch: am start
+launch: am start --user 0
   -n com.retroarch/.browser.retroactivity.RetroActivityFuture
   -e ROM {file.path}
   -e LIBRETRO /data/data/com.retroarch/cores/scummvm_libretro_android.so
   -e CONFIGFILE /storage/emulated/0/Android/data/com.retroarch/files/retroarch.cfg
   -e QUITFOCUS
-  --activity-clear-task
   --activity-clear-top
+  --activity-clear-task
   --activity-no-history
 game: Maniac Mansion : Day of the Tentacle
 file: ./Day of the Tentacle.zip
