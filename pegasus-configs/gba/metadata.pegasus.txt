@@ -1,14 +1,14 @@
 collection: Game Boy/Game Boy Color/Game Boy Advance
 shortname: gba
 extensions: gb, gba, gbc
-launch: am start
+launch: am start --user 0
   -n com.retroarch/.browser.retroactivity.RetroActivityFuture
   -e ROM {file.path}
   -e LIBRETRO /data/data/com.retroarch/cores/mgba_libretro_android.so
   -e CONFIGFILE /storage/emulated/0/Android/data/com.retroarch/files/retroarch.cfg
   -e QUITFOCUS
-  --activity-clear-task
   --activity-clear-top
+  --activity-clear-task
   --activity-no-history
 game: Action Man : Robot Atak
 file: ./Action Man - Robot Atak (Europe) (En,Fr,De,Es,It).zip
