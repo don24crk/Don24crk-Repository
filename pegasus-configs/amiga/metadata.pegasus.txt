@@ -1,14 +1,14 @@
 collection: Amiga
 shortname: commodore_amiga
 extensions: 7z, adf, adz, ccd, chd, cue, dms, fdi, hdf, hdz, info, ipf, iso, lha, m3u, mds, nrg, rp9, slave, uae, zip
-launch: am start
+launch: am start --user 0
   -n com.retroarch/.browser.retroactivity.RetroActivityFuture
   -e ROM {file.path}
   -e LIBRETRO /data/data/com.retroarch/cores/puae2021_libretro_android.so
   -e CONFIGFILE /storage/emulated/0/Android/data/com.retroarch/files/retroarch.cfg
   -e QUITFOCUS
-  --activity-clear-task
   --activity-clear-top
+  --activity-clear-task
   --activity-no-history
 game: Aladdin
 file: ./Aladdin_v1.7_AGA_0420.lha
