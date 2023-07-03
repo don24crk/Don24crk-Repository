@@ -1,14 +1,14 @@
 collection: Game Boy/Game Boy Color
 shortname: gb
 extensions: dmg, gb, gbc
-launch: am start
+launch: am start --user 0
   -n com.retroarch/.browser.retroactivity.RetroActivityFuture
   -e ROM {file.path}
   -e LIBRETRO /data/data/com.retroarch/cores/gambatte_libretro_android.so
   -e CONFIGFILE /storage/emulated/0/Android/data/com.retroarch/files/retroarch.cfg
   -e QUITFOCUS
-  --activity-clear-task
   --activity-clear-top
+  --activity-clear-task
   --activity-no-history
 game: 4-in-1 Fun Pak Volume II
 file: ./4-in-1 Fun Pak Volume II (USA, Europe).zip
