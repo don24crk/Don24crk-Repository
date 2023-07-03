@@ -1,14 +1,14 @@
 collection: Nintendo Entertainment System
 shortname: nes
 extensions: fds, nes, unf, unif
-launch: am start
+launch: am start --user 0
   -n com.retroarch/.browser.retroactivity.RetroActivityFuture
   -e ROM {file.path}
   -e LIBRETRO /data/data/com.retroarch/cores/fceumm_libretro_android.so
   -e CONFIGFILE /storage/emulated/0/Android/data/com.retroarch/files/retroarch.cfg
   -e QUITFOCUS
-  --activity-clear-task
   --activity-clear-top
+  --activity-clear-task
   --activity-no-history
 game: Demonic Castle Dracula
 file: ./Demonic Castle Dracula.zip
