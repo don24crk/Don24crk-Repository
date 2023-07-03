@@ -1,14 +1,14 @@
 collection: Super Nintendo Entertainment System
 shortname: snes
 extensions: bs, fig, sfc, smc, st, swc
-launch: am start
+launch: am start --user 0
   -n com.retroarch/.browser.retroactivity.RetroActivityFuture
   -e ROM {file.path}
   -e LIBRETRO /data/data/com.retroarch/cores/snes9x_libretro_android.so
   -e CONFIGFILE /storage/emulated/0/Android/data/com.retroarch/files/retroarch.cfg
   -e QUITFOCUS
-  --activity-clear-task
   --activity-clear-top
+  --activity-clear-task
   --activity-no-history
 game: Aladdin
 file: ./Aladdin (Germany).sfc
