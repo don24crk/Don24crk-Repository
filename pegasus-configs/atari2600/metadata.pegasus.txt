@@ -1,14 +1,14 @@
 collection: Atari 2600
 shortname: atari2600
 extensions: a26, bin
-launch: am start
+launch: am start --user 0
   -n com.retroarch/.browser.retroactivity.RetroActivityFuture
   -e ROM {file.path}
   -e LIBRETRO /data/data/com.retroarch/cores/stella_libretro_android.so
   -e CONFIGFILE /storage/emulated/0/Android/data/com.retroarch/files/retroarch.cfg
   -e QUITFOCUS
-  --activity-clear-task
   --activity-clear-top
+  --activity-clear-task
   --activity-no-history
 game: 2005 MiniGame MultiCart
 file: ./2005 Minigame Multicart (USA) (Unl).a26
