@@ -1,14 +1,14 @@
 collection: PlayStation
 shortname: psx
 extensions: bin, cbn, ccd, chd, cue, img, m3u, mdf, pbp, toc
-launch: am start
+launch: am start --user 0
   -n com.retroarch/.browser.retroactivity.RetroActivityFuture
   -e ROM {file.path}
   -e LIBRETRO /data/data/com.retroarch/cores/pcsx_rearmed_libretro_android.so
   -e CONFIGFILE /storage/emulated/0/Android/data/com.retroarch/files/retroarch.cfg
   -e QUITFOCUS
-  --activity-clear-task
   --activity-clear-top
+  --activity-clear-task
   --activity-no-history
 game: Bloody Roar II
 file: ./Bloody Roar 2.iso
