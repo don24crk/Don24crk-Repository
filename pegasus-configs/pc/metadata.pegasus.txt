@@ -1,14 +1,14 @@
 collection: DOS
 shortname: dos
 extensions: bat, com, conf, cue, dosz, exe, ima, img, ins, iso, jrc, m3u, m3u8, tc, vhd, zip
-launch: am start
+launch: am start --user 0
   -n com.retroarch/.browser.retroactivity.RetroActivityFuture
   -e ROM {file.path}
   -e LIBRETRO /data/data/com.retroarch/cores/dosbox_pure_libretro_android.so
   -e CONFIGFILE /storage/emulated/0/Android/data/com.retroarch/files/retroarch.cfg
   -e QUITFOCUS
-  --activity-clear-task
   --activity-clear-top
+  --activity-clear-task
   --activity-no-history
 game: JACK_ORL
 file: ./JackOrlando/JACK_ORL/JACK_ORL.zip
