@@ -1,14 +1,14 @@
 collection: C64 SuperCPU
 shortname: commodore_c64_supercpu
 extensions: bin, cmd, crt, d2m, d4m, d64, d6z, d71, d7z, d80, d81, d82, d8z, g41, g4z, g64, g6z, gz, m3u, nbz, nib, p00, prg, t64, tap, vfl, vsf, x64, x6z, zip
-launch: am start
+launch: am start --user 0
   -n com.retroarch/.browser.retroactivity.RetroActivityFuture
   -e ROM {file.path}
   -e LIBRETRO /data/data/com.retroarch/cores/vice_xscpu64_libretro_android.so
   -e CONFIGFILE /storage/emulated/0/Android/data/com.retroarch/files/retroarch.cfg
   -e QUITFOCUS
-  --activity-clear-task
   --activity-clear-top
+  --activity-clear-task
   --activity-no-history
 game: Arkanoid
 file: ./ARKANOI1.T64
