@@ -1,0 +1,14 @@
+
+
+ips patch
+https://www.romhacking.net/scratchpad/73000/
+
+Super Mario Allstars 35TH Anniversary Hack
+
+This patch modifies the Game to be to all games 35th Anniversary edition
+
+
+Database match: Super Mario All-Stars (Europe)
+Database: No-Intro: Super Nintendo Entertainment System (v. 20210222-050638)
+File/ROM SHA-1: CC41F4B229DF01A5ADF44C63B6C60E766A73C1AD
+File/ROM CRC32: 925FFA69
