@@ -1,0 +1,10 @@
+ <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<item>
+<title>Dilwale(2015)</title>
+<link>$doregex[get-M3U8]</link>
+<regex>
+<name>get-M3U8</name>
+<expres>file:"(.*?)"</expres>
+<page>https://streamkiste.tv/movie/dilwale-2015-4535650#video</page>
+</regex>
+</item> 
