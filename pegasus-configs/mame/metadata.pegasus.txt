@@ -1,4 +1,4 @@
-collection: Mame (various)
+collection: FBneo (various)
 shortname: mame
 extensions: 7z, chd, zip,
 launch: am start --user 0
