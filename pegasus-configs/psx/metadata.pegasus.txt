@@ -1,17 +1,17 @@
 collection: PlayStation
 shortname: psx
-extensions: bin, cbn, ccd, chd, cue, img, m3u, mdf, pbp, toc
+extensions: bin, cbn, ccd, chd, cue, img, m3u, mdf, pbp, toc,
 launch: am start --user 0
   -n com.retroarch/.browser.retroactivity.RetroActivityFuture
   -e ROM {file.path}
-  -e LIBRETRO /data/data/com.retroarch/cores/pcsx_rearmed_libretro_android.so
+  -e LIBRETRO /data/data/com.retroarch/cores/swanstation_libretro.so
   -e CONFIGFILE /storage/emulated/0/Android/data/com.retroarch/files/retroarch.cfg
   -e QUITFOCUS
   --activity-clear-top
   --activity-clear-task
   --activity-no-history
-game: Bloody Roar II
-file: ./Bloody Roar 2.iso
+game: Bloody Roar 2 : Bringer of the New Age
+file: ./Bloody Roar 2.PBP
 developer: Eighting
 publisher: Sony Computer Entertainment
 genre: Kampf-Kampf / 3D
@@ -27,142 +27,309 @@ description:
   einen neuen Maßstab im heißumkämpften Prügelspielgenre zu setzen. Die komplexen
   Game-Mechanics, die einfallsreichen Special-Moves sowie das faszinierende,
   Anime-inspirierte Charakter-Design machen Bloody Roar 2 zum Genre-Highlight.
-release: 1999-04-30
+release: 1999-07-15
 players: 2
 rating: 90%
 x-id: 19355
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Bloody Roar 2.png
+assets.boxfront: ./media/box2dfront/Bloody Roar 2.png
 assets.video: ./media/videos/Bloody Roar 2.mp4
 
 
-game: Breath of Fire IV
-file: ./Breath of Fire IV (German).iso
-developer: Capcom
-publisher: Capcom
+game: Castlevania : Symphony of the Night
+file: ./Castlevania Symphony of the Night - Quality hack (v1.3).PBP
+developer: Konami
+publisher: Konami
+genre: Plattform
+description:
+  Die Legende kehrt zurück\n
+  Alucard wird durch das Wiedererscheinen von Castlevania aus seinem ewigen
+  Schlummer erweckt und muss wieder einmal gegen die Knechte der Finsternis
+  antreten. Setzen sie Ihre vampirischen Kräfte sowie Waffen, Tränke und andere
+  Zaubermittel in, um die Geschicke des Kampfes zu Ihren Gunsten zu wenden. Eine
+  Mischung aus Plattformspiel und Rollenspielaction mit vielen verborgenen
+  Bereichen und Geheimnissen. Können Sie alle entdecken?
+release: 1997-11-01
+players: 1
+rating: 95%
+x-id: 19269
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box2dfront/Castlevania Symphony of the Night - Quality hack (v1.3).png
+assets.video: ./media/videos/Castlevania Symphony of the Night - Quality hack (v1.3).mp4
+
+
+game: Chrono Cross
+file: ./Chrono Cross (USA).PBP
+developer: Squaresoft
+publisher: Squaresoft
 genre: Rollenspiele
 description:
-  Eine Prinzessin. Zwei Länder im Krieg. Eine epische Suche nach Frieden. Nach
-  Jahrhunderten voller Kriege haben die beiden Länder, die an ein
-  undurchdringliches Sumpfland grenzen, endlich einen Waffenstillstand vereinbart.
-  Auf mysteriöse Weise verschwindet die edle Prinzessin Elena irgendwo in der Nähe
-  der kriegsverwüsteten Front. Verzweifelt macht sich ihre Schwester Nina alleine
-  auf die Suche nach der Prinzessin. Auf ihrer Reise trifft sie auf einem
-  geheimnisvollen jungen Krieger namen Ryu. Schon bald sind die beiden durch ihr
-  Schicksal verbunden. Das nächste Kapitel dieser epischen Geschichte um Zauber
-  und Mythen wird nun aufgeschlagen. Das Schicksal und die Zukunft liegen in ihren
-  Händen.
-release: 2001-08-03
+  Chrono Cross ist ein Videospiel der Firma Square (mittlerweile Square Enix). Es
+  ist dem Genre der Rollenspiele zuzuordnen. Es erschien 1999 in Japan und 2000 in
+  den USA für die Sony Playstation als Nachfolger des Spiels Chrono Trigger.
+  .
+  Die Geschichte in Chrono Cross spielt im fiktiven El Nido-Archipel und handelt
+  von Serge, welcher zehn Jahre zuvor eigentlich hätte ertrinken sollen, aber
+  durch eine geheimnisvolle Macht davor bewahrt wurde. Durch diesen Vorfall
+  spaltete sich die Welt in zwei parallele Dimensionen; in der einen Dimension
+  (Home World) überlebt er und lebt zehn Jahre weiter, bis das Spiel anfängt. In
+  der anderen Dimension (Another World) ertrinkt Serge an einem Strand nahe seiner
+  Heimatstadt.
+  .
+  Die Geschichte dreht sich anfangs um den luchsartigen Lynx, welcher vorerst wie
+  der spätere Hauptgegner erscheint, und später hauptsächlich um Serges
+  (unbewusste) Aufgabe, Prinzessin Schalas Bindung vom Time Devourer zu lösen. Der
+  Time Devourer ist eine Art Symbiont, der aus dem Hauptgegner von Chrono Trigger,
+  Lavos, und Schala, Prinzessin des magischem Reiches Zeal, bei einem Vorfall in
+  selbigem um 12.000 v. Chr. entstanden ist. Jahrtausende später entdeckt
+  Belthasar, welcher durch denselben Vorfall weit durch die Zeit geworfen und ein
+  früherer Guru von Zeal ist, dass der Time Devourer die gesamte Raumzeit
+  verschlingen will. Daraufhin setzt er eine äußerst komplexe Kette von
+  Ereignissen in Gang, die Serge auf seinen Weg leiten, um mit einem Artefakt
+  namens Chrono Cross die Dimensionen wieder zu verschmelzen, den Time Devourer zu
+  vernichten und Schala zu befreien.
+  .
+  Auch wenn Chrono Cross viele Elemente von Radical Dreamers verwendet, sind die
+  Geschichten beider Spiele nicht in Einklang zu bringen. Deshalb beschlossen die
+  Spieldesigner, dass die Geschehnisse in Radical Dreamers zwar stattgefunden
+  haben, allerdings in einer anderen Dimension als der, in der Chrono Cross
+  spielt. Dies wird im Spiel auch in Chronopolis, einer durch ein fehlgeschlagenes
+  Experiment in die Zeit zurückgeworfenen Stadt, angedeutet, in welcher man das an
+  einem Computer lesen kann. Chronopolis wiederum überwacht nach dem Vorfall das
+  El Nido-Archipel, um ein Zeitparadoxon zu verhindern, welche die Existenz von
+  Chronopolis in der Zukunft gefährden würde.
+  .
+  Der auffälligste Unterschied zwischen Chrono Cross und Radical Dreamers liegt in
+  der Abwesenheit des Charakters Magus, welcher in Chrono Trigger eine tragende
+  Rolle spielte. Es war zwar ursprünglich geplant, Magus ins Spiel zu integrieren,
+  die Idee wurde aber fallen gelassen, da die Entwickler als schwierig ersahen,
+  seine Geschichte neben den anderen 44 Charakteren einleuchtend zu etablieren.
+  .
+  Die Geschichte wird von vielen im Vergleich zu Chrono Trigger als sehr komplex
+  empfunden. Die meisten Dialoge bei Chrono Cross muss man sehr genau durchlesen,
+  um der Geschichte weitgehend folgen zu können, ganz im Gegensatz zu Chrono
+  Trigger, welches sehr geradlinig verläuft.
+release: 2000-08-15
+players: 1
+rating: 85%
+x-id: 19287
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box2dfront/Chrono Cross (USA).png
+assets.video: ./media/videos/Chrono Cross (USA).mp4
+
+
+game: Final Fantasy VII
+file: ./Final Fantasy VII (Germany).PBP
+developer: Squaresoft
+publisher: Squaresoft
+genre: Rollenspiele
+description:
+  Die Shinra Corporation entzieht unserem Planeten alle Lebensenergie. Cloud ein
+  eiskalter Söldner, übernimmt einen Auftrag von einer Gruppe von Öko-Kriegern.
+  Doch er weiß nicht, dass dieser ihn auf eine Reise führt, die nicht nur sein
+  Leben, sondern das Dasein aller Lebewesen im Universum verändern wird...\n
+  Willkommen bei Final Fantasy VII - In dieser Welt prallen Magie und Wissenschaft
+  aufeinander, Freundschaften werden geschlossen und wieder gelöst, und die Taten
+  eines Einzelnen können die Zukunft entscheidend prägen!
+release: 1997-11-14
+players: 1
+rating: 90%
+x-id: 19249
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box2dfront/Final Fantasy VII (Germany).png
+assets.video: ./media/videos/Final Fantasy VII (Germany).mp4
+
+
+game: Metal Gear Solid
+file: ./Metal Gear Solid (Germany).PBP
+developer: Konami
+publisher: Konami
+genre: Shooter
+description:
+  FOXHOUND, ein abtrünniges, genetisch verbessertes Spezialkommando, unternimmt
+  einen Putsch auf einem abgelegenen Archipel in Alaska, bei dem es sich in
+  Wahrheit um "Shadow Moses", eine geheime Abrüstungseinrichtung der Regierung,
+  handelt. Die Einheit unter der Leitung des Söldners Liquid Snake haben mehrere
+  atomare Sprengköpfe in ihre Gewalt gebracht sowie den Mecha Metal Gear REX, der
+  die Atomraketen abfeuern kann. Mit diesem Trumpf erpressen die Terroristen die
+  US-Regierung, um die sterblichen Überreste des legendären Söldners Big Boss zu
+  erhalten.\n
+  Solid Snake kehrt notgedrungen aus dem Ruhestand zurück und wird auf die Bitte
+  von Colonel Roy Campbell hin darauf angesetzt, die Verteidigungslinien der
+  Terroristen zu durchdringen und die terroristische Bedrohung zu zerschlagen.
+release: 1999-02-22
+players: 1
+rating: 90%
+x-id: 19260
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box2dfront/Metal Gear Solid (Germany).png
+assets.video: ./media/videos/Metal Gear Solid (Germany).mp4
+
+
+game: Mortal Kombat II
+file: ./Mortal Kombat II (Japan).PBP
+developer: Midway
+publisher: Acclaim
+genre: Kampf-Kampf / 2D-Kampf / Versus
+description:
+  Vor 500 Jahren wurde der Zauberer "Shang Tsung" auf die Erde verbannt, um es dem
+  Herrscher der "Outworld" zu ermöglichen, sie seinem Reich hinzuzufügen. Seine
+  Pläne dort wurden jedoch vom Shaolinmönch "Liu Kang" vereitelt, der sowohl
+  "Prinz Goro" als auch Shang Tsung im vorherigen Mortal Kombat Turnier bezwang.
+  Im Angesicht seiner drohenden Hinrichtung durch den Herrscher der Outworld Shao
+  Kahn bettelte er um Gnade und trug Shao Kahn seinen Plan vor, der vorsah, die
+  Erdenkrieger in die Outworld zu locken, um sie dort zu besiegen. Shao Kahn gab
+  Shang Tsung eine zweite Chance und verjüngte ihn, wodurch er noch mächtiger
+  wurde. Der Plan sieht vor, dass der stärkste der Erdenkrieger nun gegen Shao
+  Kahn selbst antreten müsste.
+release: 1996-08-02
+players: 2
+rating: 85%
+x-id: 19593
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box2dfront/Mortal Kombat II (Japan).png
+assets.video: ./media/videos/Mortal Kombat II (Japan).mp4
+
+
+game: Resident Evil 2
+file: ./Resident Evil 2 (Germany).PBP
+developer: Capcom
+publisher: Capcom
+genre: Abenteuer / Survival-Horror-Abenteuer
+description:
+  Der Anfang allen Übels war ein Unfall im Versuchslabor eines Herrenhauses.
+  Dieser Unfall hatte zur Folge, daß der T-Virus, ein bilogischer Kampfstoff der
+  Umbrella Corporation, freigesetzt wurde. Alles Leben in seiner ursprünglichen
+  Form wurde vernichtet und in schleckliche Mutationen verwandelt. Dies liegt etwa
+  zwei Monate zurück und der Fall schien abgeschlossen, doch die schrecklichen
+  Experimente der Umbrella Corporation waren alles andere als vorbei. Der T-Virus
+  war nur ein Vorbote. Ganz Raccoon City wurde durch den noch todbringenderen
+  G-Virus infiziert. Die Stadt wird von Zombies und anderen höllischen Kreaturen
+  bevölkert. Zu diesem Zeitpunkt treffen Leon. S. Kennedy und Claire Redfield
+  nichts ahnend in der Stadt ein und stürtzen Hals über Kopf in das Abenteuer
+  Ihres Lebens.
+release: 1998-01-10
+players: 1
+rating: 90%
+x-id: 19259
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box2dfront/Resident Evil 2 (Germany).png
+assets.video: ./media/videos/Resident Evil 2 (Germany).mp4
+
+
+game: Soul Blade
+file: ./Soul Blade (Europe).PBP
+developer: Namco
+publisher: Sony Computer Entertainment
+genre: Kampf
+description:
+  Namco, Schöpfer der Tekken-Serie, präsentiert die fortschrittlichste
+  Waffen-Kampfsimulation aller Zeiten! Wilde Schwertkämpfe mit Teilnehmern aus der
+  ganzen Welt – ein episches Spiel exklusiv für die PlayStation!
+release: 1997-05-01
+players: 2
+rating: 80%
+x-id: 19343
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box2dfront/Soul Blade (Europe).png
+assets.video: ./media/videos/Soul Blade (Europe).mp4
+
+
+game: Spyro : Year of the Dragon
+file: ./Spyro - Year of the Dragon (Europe) (En,Fr,De,Es,It) (v1.1).PBP
+developer: Insomniac Games
+publisher: Sony Computer Entertainment
+genre: Plattform
+description:
+  Diebe haben ein Nest mit Dracheneiern entführt, während gleichzeitig in einem
+  anderen Teil der Drachenwelt ein Tor zu vergessenen Welt entdeckt wurde. Spyro
+  der Drache muss die Eier zurückerobern. Gemeinsam mit seinem besten Freund Sparx
+  begibt er sich auf die Reise ins Unbekannte, wo ihm seine bislang schwerste
+  Prüfung bevorsteht: der Kampf gegen die böse Zauberin. Brandneue Spielfiguren,
+  irre Herausforderungen und aufregende neue Welten - Hier beginnt das Jahr des
+  Drachen. Hier kannst du durch die Lüfte gleiten, unter Wasser tauchen,
+  Skateboard fahren, durch Schnellschuss-Galerien ballern, einen Panzer fahren und
+  sogar gegen einen Yeti boxen.
+release: 2000-11-10
 players: 1
 rating: 80%
-x-id: 19372
+x-id: 19293
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Breath of Fire IV (German).png
-assets.video: ./media/videos/Breath of Fire IV (German).mp4
+assets.boxfront: ./media/box2dfront/Spyro - Year of the Dragon (Europe) (En,Fr,De,Es,It) (v1.1).png
+assets.video: ./media/videos/Spyro - Year of the Dragon (Europe) (En,Fr,De,Es,It) (v1.1).mp4
+
+
+game: Street Fighter : The Movie
+file: ./Street Fighter - The Movie (Europe).PBP
+developer: Capcom
+publisher: Capcom
+genre: Kampf
+description:
+  Street Fighter: The Movie ist ein Kampfspiel für Playstation mit digitalisierter
+  Grafik. Die App basiert auf dem Street Fighter-Film. Darüber hinaus legt das
+  Spiel mehr Wert auf die Besonderheiten der Charaktere sowie auf die
+  Kombinationen, die sie erreichen können.
+release: 1995-09-15
+players: 2
+rating: 45%
+x-id: 19558
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box2dfront/Street Fighter - The Movie (Europe).png
+assets.video: ./media/videos/Street Fighter - The Movie (Europe).mp4
 
 
 game: Street Fighter Collection
-file: ./Street Fighter Collection (E) (Disc 1) [SLES-00998].cue
+file: ./Street Fighter Collection (Europe) (Disc 2).PBP
 developer: Capcom
 publisher: Capcom
 genre: Kampf-Sammlung
 description:
-  Street Fighter Collection is a 1997 fighting game compilation released for the
-  PlayStation and Sega Saturn. It collects the original Super Street Fighter II
-  and its follow-up Super Street Fighter II Turbo, along with an enhanced version
-  of Street Fighter Alpha 2 titled Street Fighter Alpha 2 Gold exclusive to this
-  compilation.
-  .
-  This compilation contains Super Street Fighter II and Super Street Fighter II
-  Turbo (known in Japan as Super Street Fighter II X) in the first disc, with
-  Street Fighter Alpha 2 Gold (Street Fighter Zero 2 Dash in Japan) in the second
-  disc.
+  Street Fighter Collection ist eine Zusammenstellung von Kampfspielen, die 1997
+  für PlayStation und Sega Saturn veröffentlicht wurden. Es vereint den
+  ursprünglichen Super Street Fighter II und seinen Nachfolger Super Street
+  Fighter II Turbo sowie eine verbesserte Version von Street Fighter Alpha 2 mit
+  dem Titel Street Fighter Alpha 2 Gold, die exklusiv in dieser Zusammenstellung
+  erhältlich ist.\n
+  Diese Zusammenstellung enthält Super Street Fighter II und Super Street Fighter
+  II Turbo (in Japan als Super Street Fighter II X bekannt) auf der ersten CD und
+  Street Fighter Alpha 2 Gold (Street Fighter Zero 2 Dash in Japan) auf der
+  zweiten CD.
 release: 1997-12-16
 players: 2
 rating: 60%
 x-id: 103397
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Street Fighter Collection (E) (Disc 1) [SLES-00998].png
-assets.video: ./media/videos/Street Fighter Collection (E) (Disc 1) [SLES-00998].mp4
+assets.boxfront: ./media/box2dfront/Street Fighter Collection (Europe) (Disc 2).png
+assets.video: ./media/videos/Street Fighter Collection (Europe) (Disc 2).mp4
 
 
 game: Street Fighter Collection
-file: ./Street Fighter Collection (E) (Disc 1) [SLES-00998].iso
+file: ./Street Fighter Collection (Europe).PBP
 developer: Capcom
 publisher: Capcom
 genre: Kampf-Sammlung
 description:
-  Street Fighter Collection is a 1997 fighting game compilation released for the
-  PlayStation and Sega Saturn. It collects the original Super Street Fighter II
-  and its follow-up Super Street Fighter II Turbo, along with an enhanced version
-  of Street Fighter Alpha 2 titled Street Fighter Alpha 2 Gold exclusive to this
-  compilation.
-  .
-  This compilation contains Super Street Fighter II and Super Street Fighter II
-  Turbo (known in Japan as Super Street Fighter II X) in the first disc, with
-  Street Fighter Alpha 2 Gold (Street Fighter Zero 2 Dash in Japan) in the second
-  disc.
+  Street Fighter Collection ist eine Zusammenstellung von Kampfspielen, die 1997
+  für PlayStation und Sega Saturn veröffentlicht wurden. Es vereint den
+  ursprünglichen Super Street Fighter II und seinen Nachfolger Super Street
+  Fighter II Turbo sowie eine verbesserte Version von Street Fighter Alpha 2 mit
+  dem Titel Street Fighter Alpha 2 Gold, die exklusiv in dieser Zusammenstellung
+  erhältlich ist.\n
+  Diese Zusammenstellung enthält Super Street Fighter II und Super Street Fighter
+  II Turbo (in Japan als Super Street Fighter II X bekannt) auf der ersten CD und
+  Street Fighter Alpha 2 Gold (Street Fighter Zero 2 Dash in Japan) auf der
+  zweiten CD.
 release: 1997-12-16
 players: 2
 rating: 60%
 x-id: 103397
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Street Fighter Collection (E) (Disc 1) [SLES-00998].png
-assets.video: ./media/videos/Street Fighter Collection (E) (Disc 1) [SLES-00998].mp4
-
-
-game: Street Fighter Collection
-file: ./Street Fighter Collection (E) (Disc 2) [SLES-10998].cue
-developer: Capcom
-publisher: Capcom
-genre: Kampf-Sammlung
-description:
-  Street Fighter Collection is a 1997 fighting game compilation released for the
-  PlayStation and Sega Saturn. It collects the original Super Street Fighter II
-  and its follow-up Super Street Fighter II Turbo, along with an enhanced version
-  of Street Fighter Alpha 2 titled Street Fighter Alpha 2 Gold exclusive to this
-  compilation.
-  .
-  This compilation contains Super Street Fighter II and Super Street Fighter II
-  Turbo (known in Japan as Super Street Fighter II X) in the first disc, with
-  Street Fighter Alpha 2 Gold (Street Fighter Zero 2 Dash in Japan) in the second
-  disc.
-release: 1997-12-16
-players: 2
-rating: 60%
-x-id: 103397
-x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Street Fighter Collection (E) (Disc 1) [SLES-00998].png
-assets.video: ./media/videos/Street Fighter Collection (E) (Disc 1) [SLES-00998].mp4
-
-
-game: Street Fighter Collection
-file: ./Street Fighter Collection (E) (Disc 2) [SLES-10998].iso
-developer: Capcom
-publisher: Capcom
-genre: Kampf-Sammlung
-description:
-  Street Fighter Collection is a 1997 fighting game compilation released for the
-  PlayStation and Sega Saturn. It collects the original Super Street Fighter II
-  and its follow-up Super Street Fighter II Turbo, along with an enhanced version
-  of Street Fighter Alpha 2 titled Street Fighter Alpha 2 Gold exclusive to this
-  compilation.
-  .
-  This compilation contains Super Street Fighter II and Super Street Fighter II
-  Turbo (known in Japan as Super Street Fighter II X) in the first disc, with
-  Street Fighter Alpha 2 Gold (Street Fighter Zero 2 Dash in Japan) in the second
-  disc.
-release: 1997-12-16
-players: 2
-rating: 60%
-x-id: 103397
-x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Street Fighter Collection (E) (Disc 1) [SLES-00998].png
-assets.video: ./media/videos/Street Fighter Collection (E) (Disc 1) [SLES-00998].mp4
+assets.boxfront: ./media/box2dfront/Street Fighter Collection (Europe) (Disc 2).png
+assets.video: ./media/videos/Street Fighter Collection (Europe) (Disc 2).mp4
 
 
 game: Tekken 2
-file: ./Tekken 2 (USA) (v1.1).iso
+file: ./Tekken 2 (Europe).PBP
 developer: Namco
 publisher: Namco
 genre: Kampf
@@ -179,17 +346,17 @@ description:
   Millionen mal verkauft. Für die PlayStation 3 wurde diese Version im PS-Store
   hinzugefügt. Am Tag der Eröffnung gab es einen Umsatz von $ 250.000, was zu
   dieser Zeit ein Rekord war.
-release: 1996-08-25
+release: 1996-10-01
 players: 2
-rating: 70%
+rating: 85%
 x-id: 19392
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Tekken 2 (USA) (v1.1).png
-assets.video: ./media/videos/Tekken 2 (USA) (v1.1).mp4
+assets.boxfront: ./media/box2dfront/Tekken 2 (Europe).png
+assets.video: ./media/videos/Tekken 2 (Europe).mp4
 
 
 game: Tekken 3
-file: ./Tekken 3 (USA).iso
+file: ./Tekken 3 (Europe).PBP
 developer: Namco
 publisher: Namco
 genre: Kampf
@@ -199,11 +366,124 @@ description:
   das größte Kampfturnier geben, das die Welt je gesehen hat ... Tekken 3. Manche
   kämpfen für Rache, manche um Ehre. Letztendlich kämpfen alle um ihr Leben und
   das Schicksal der gesamten Menschheit.
-release: 1998-04-29
+release: 1998-09-12
 players: 2
 rating: 90%
 x-id: 19280
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Tekken 3 (USA).png
-assets.video: ./media/videos/Tekken 3 (USA).mp4
+assets.boxfront: ./media/box2dfront/Tekken 3 (Europe).png
+assets.video: ./media/videos/Tekken 3 (Europe).mp4
 
+
+game: Tomb Raider II : Starring Lara Croft
+file: ./Tomb Raider II - Starring Lara Croft (Germany).PBP
+developer: Core
+publisher: Eidos Interactive
+genre: Abenteuer-Plattform
+description:
+  Lara Croft ist zurück! In ihrem neuesten Abenteuer begibt sich die Archäologin
+  auf die Spur des Dolches von Xian. Wer diese mystische Waffe entdeckt, bekommt
+  einem alten chinesischen Glauben zufolge eine unvorstellbare Macht
+  verliehen...\n
+  Laras gefährliche Suche nach dem Dolch beginnt an der Chinesischen Mauer, doch
+  schon kurz darauf führt die abenteuerliche Reise an die verschiedensten Stätten
+  rund um den Globus. Und Lara ist nicht allein ? andere finstere Banditen haben
+  das gleiche Ziel: den magischen Dolch in die Finger zu bekommen.
+release: 1997-10-31
+players: 1
+rating: 85%
+x-id: 19274
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box2dfront/Tomb Raider II - Starring Lara Croft (Germany).png
+assets.video: ./media/videos/Tomb Raider II - Starring Lara Croft (Germany).mp4
+
+
+game: Tomb Raider III : Adventures of Lara Croft
+file: ./Tomb Raider III - Adventures of Lara Croft (Germany) (Rev 1).PBP
+developer: Core
+publisher: Eidos Interactive
+genre: Abenteuer-Plattform
+description:
+  Lara Croft kehrt zurück mit ihrem bisher gewagtesten Abenteuer. Begleiten Sie
+  die Archäologin auf der Suche nach vier rätselhaften Artefakten. Erkunden Sie
+  mit LAra mystische Stätten Indiens, unterirdische Gewölbe Londons und die
+  geheime Militärbasis Area 51 in der Wüste Nevadas. Folgen Sie den Spuren der
+  Artefakte ins ewige Eis der Antarktis und auf eine Insel im Südpazifik. Neue
+  Waffen, Fahrzeuge und Moves helfen Lara, sich gegen finstere Gestalten zu
+  wehren.
+release: 1998-11-21
+players: 1
+rating: 80%
+x-id: 19277
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box2dfront/Tomb Raider III - Adventures of Lara Croft (Germany) (Rev 1).png
+assets.video: ./media/videos/Tomb Raider III - Adventures of Lara Croft (Germany) (Rev 1).mp4
+
+
+game: Tony Hawk's Pro Skater 2
+file: ./Tony Hawk's Pro Skater 2 (Europe).PBP
+developer: Neversoft
+publisher: Activision
+genre: Sport-Sport / Skateboard
+description:
+  Tony Hawk ist zurück. Mit neuer Grafik, neuen Profis und neuen Tricks. Die
+  Legende rollt weiter. Skate als einer von 13 Profis in komplett neuen Leveln
+  oder erstelle deinen ganz persönlichen Skater. Neue Moves wie Blunt Slides,
+  FS/BS Nose- und Tall-Slides und Hurricanes bringen jede Menge Knete, die du um
+  Skateshop oder für Statistikpunkte ausgeben kannst. Errichte mit dem Park-Editor
+  deine eigenen Traumpark in Echtzeit-3D und statte ihn mit Rampen, Funboxen,
+  Rails und vielem mehr aus. Verschiedenste Modi wie Karriere oder Skate for Fun
+  für einen Spieler oder Trick-Turnier, Graffiti, Loser und Gotcha für zwei
+  Spieler sorgen für Abwechslung und Spielspaß pur.
+release: 2000-09-29
+players: 2
+rating: 80%
+x-id: 19326
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box2dfront/Tony Hawk's Pro Skater 2 (Europe).png
+assets.video: ./media/videos/Tony Hawk's Pro Skater 2 (Europe).mp4
+
+
+game: Tony Hawk's Pro Skater 3
+file: ./Tony Hawk's Pro Skater 3 (Germany).PBP
+developer: Shaba Games
+publisher: Activision
+genre: Sport-Sport / Skateboard
+description:
+  Tony Hawk -- der Klassiker der Old-School-Skateboard-Games nun in der
+  überarbeiteten Version 3. Damit übertrifft sich eines der besten Funsport-Games
+  auf dem Markt selbst: einzigartige Steuerbarkeit, ausgefeilte Tricks und
+  trainierbare Trickserien, detaillierte Konfigurierbarkeit der schon legendären
+  Skater (Tony Hawk, Bucky Lasek, Rodney Mullen, Chad Muska und vielen anderen)
+  und natürlich der fulminante Soundtrack mit Originalbands wie Ramones, Red Hot
+  Chili Peppers, Motörhead und anderen. Neu sind die verbesserte grafische
+  Darstellung und einige neue Tricks. Die grafische Überarbeitung geht dabei nicht
+  auf Kosten der Spieltiefe oder Levelanzahl. Trotzdem lassen verblüffend
+  realistische Slams selbst den Zuschauer die Hände vor das Gesicht schlagen.
+release: 2001-10-29
+players: 2
+rating: 60%
+x-id: 19475
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box2dfront/Tony Hawk's Pro Skater 3 (Germany).png
+assets.video: ./media/videos/Tony Hawk's Pro Skater 3 (Germany).mp4
+
+
+game: Vagrant Story
+file: ./Vagrant Story (Germany).PBP
+developer: Squaresoft
+publisher: Squaresoft
+genre: Rollenspiele
+description:
+  Als Ashley Lionet, Agent der Spezialeinheit "Riskbreaker", ist es Ihre Aufgabe
+  die Stadt der Schatten, Le Monde, zu infiltrieren. Benutzen Sie Heimlichkeit und
+  Kampfkunst um die großen Gefahren zu überwinden, die Sie in dieser mysteriösen
+  Welt erwarten und erlernen Sie die Kunst der Magie um die Wahrheit hinter den
+  politischen Intrigen aufzudecken.
+release: 2000-06-21
+players: 1
+rating: 90%
+x-id: 19278
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box2dfront/Vagrant Story (Germany).png
+assets.video: ./media/videos/Vagrant Story (Germany).mp4
