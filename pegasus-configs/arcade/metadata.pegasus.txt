@@ -1,0 +1,453 @@
+collection: Mame (various)
+shortname: mame
+extensions: 7z, chd, zip,
+launch: am start --user 0
+  -n com.retroarch/.browser.retroactivity.RetroActivityFuture
+  -e ROM {file.path}
+  -e LIBRETRO /data/data/com.retroarch/cores/mame2010_libretro.so
+  -e CONFIGFILE /storage/emulated/0/Android/data/com.retroarch/files/retroarch.cfg
+  -e QUITFOCUS
+  --activity-clear-top
+  --activity-clear-task
+  --activity-no-history
+game: Alien vs. Predator (USA 940520)
+file: ./avspu.zip
+developer: Capcom
+publisher: Capcom
+genre: Beat'em Up
+description:
+  Die Spieler übernehmen die Kontrolle über bis zu drei von vier Charakteren -
+  Dutch, Linn, einen Predator Hunter und einen Predator Warrior - und bekämpfen
+  die Aliens in verschiedenen Umgebungen. Im Laufe des Spiels finden die
+  Charaktere heraus, dass die Anwesenheit von Außerirdischen auf der Erde das
+  Ergebnis eines Experiments ist, das von dem abtrünnigen U.S. Colonial Marine
+  General Bush in Zusammenarbeit mit dem Weyland-Yutani Konzern geleitet wird. Sie
+  zerstören den außerirdischen Hive, indem sie ein Militärschiff in San Drad
+  abstürzen lassen, was eine riesige Explosion verursacht. Der Predator-Krieger
+  gibt Dutch und Linn seine Handgelenksschwerter als Anerkennung für ihre
+  Kriegerfähigkeiten, bevor die Predators ins All zurückkehren.
+release: 1994-05-20
+players: 3
+rating: 80%
+x-id: 37388
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box2dfront/avspu.png
+assets.video: ./media/videos/avspu.mp4
+
+
+game: Hyper Street Fighter II: The Anniversary Edition (USA 040202)
+file: ./hsf2.zip
+developer: Capcom
+publisher: Capcom
+genre: Kampf-Kampf / Versus
+description:
+  Hyper Street Fighter II: The Anniversary Edition ist ein kompetitives Kampfspiel
+  von Capcom, das ursprünglich für die PlayStation 2 im Jahr 2003 in Japan und im
+  Jahr 2004 in Nordamerika und Asien veröffentlicht wurde. Veröffentlicht, um den
+  15. Jahrestag der Street Fighter-Serie zu feiern, ist Hyper Street Fighter II
+  eine modifizierte Portierung von Super Street Fighter II Turbo, in der Spieler
+  alle Versionen der Hauptcharaktere aus den fünf Street Fighter II-Spielen
+  steuern können, die zuvor für die Spielhallen veröffentlicht wurden. Obwohl
+  ursprünglich als Heimkonsolenspiel veröffentlicht, wurde kurz darauf eine
+  Arcade-Portierung in begrenzter Stückzahl veröffentlicht, was es zur sechsten
+  und letzten Arcade-Iteration machte.
+release: 2003-12-01
+players: 2
+rating: 80%
+x-id: 149430
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box2dfront/hsf2.png
+assets.video: ./media/videos/hsf2.mp4
+
+
+game: Jackie Chan In Fists Of Fire
+file: ./jchan2.zip
+developer: Kaneko
+publisher: Kaneko
+genre: Kampf-Kampf / Versus
+description:
+  Mit digitalisierten Kämpfern sind die Bosse 3 verschiedene Versionen von Jackie
+  Chan. Ziemlich lustiges Spiel, reaktionsschnelle Kontrollen, ein bisschen Jackie
+  'engrish', viele kleine Videos und lustige Dinge.
+release: 1995-01-01
+players: 2
+rating: 50%
+x-id: 41872
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box2dfront/jchan2.png
+assets.video: ./media/videos/jchan2.mp4
+
+
+game: Metal Slug - Super Vehicle-001
+file: ./mslug.zip
+developer: Nazca
+publisher: SNK
+genre: Plattform / Shooter Scrolling-Plattform-Shooter / Run and Gun-Shooter
+description:
+  Anfang des 21. Jahrhunderts gibt es Krieg zwischen zwei Armeen: Die reguläre
+  Armee der Weltregierung und Rebellen, die eine Militärdiktatur anstreben und von
+  General Morden angeführt werden. 2026 wurden die sogenannten Metal Slugs
+  (spezielle Panzer) entwickelt, die zwei Jahre später von den Rebellen gestohlen
+  werden. Eine Spezialtruppe, genannt Peregrine Falcon, wird entsandt, um diese zu
+  zerstören.
+release: 1996-01-01
+players: 2
+rating: 90%
+x-id: 37604
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box2dfront/mslug.png
+assets.video: ./media/videos/mslug.mp4
+
+
+game: Michael Jackson's Moonwalker (World, FD1094/8751 317-0159)
+file: ./mwalk.zip
+developer: SEGA
+publisher: SEGA
+genre: Action / Labyrinth-Kampf-Action-Beat'em Up
+description:
+  „Michael Jackson's Moonwalker“ ist der Name von drei Videospielen, die auf dem
+  gleichnamigen Film „Moonwalker“ mit Michael Jackson in der Hauptrolle basieren.
+  Der Soundtrack besteht aus Stücken der Alben Bad und Thriller.\n
+  Abgesehen von der Beziehung zum Film sind diese Spiele völlig unterschiedlich,
+  je nachdem, auf welchen Plattformen sie veröffentlicht wurden: Arcade-Automaten,
+  Sega-Konsolen, Heimcomputer. Tatsächlich hängt die Art der Ansicht in diesen
+  Spielen von der Plattform ab; in isometrischer 3D-Ansicht auf Arcade, in
+  seitlicher 2D-Ansicht auf Konsole und in Draufsicht auf Computer. Die
+  Arcade-Version ist ein isometrisches 3D-Beat 'em Up, das für bis zu drei
+  Personen spielbar ist und in dem Michael Jackson gegen die Gefolgsleute von Mr.
+  Big antritt.
+release: 1990-01-01
+players: 3
+rating: 70%
+x-id: 63190
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box2dfront/mwalk.png
+assets.video: ./media/videos/mwalk.mp4
+
+
+game: Mortal Kombat 2 (rev L3.1)
+file: ./mk2.zip
+developer: Midway
+publisher: Midway
+genre: Kampf-Kampf / Versus-Kampf / 2D
+description:
+  Mortal Kombat II, allgemein als MKII abgekürzt, ist ein Kampfvideospiel, das von
+  der amerikanischen Firma Midway Manufacturing Company entwickelt und erstmals im
+  November 1993 für Arcade-Automaten veröffentlicht wurde. Dies ist der zweite
+  Titel der Mortal Kombat-Reihe.\n
+  Nach seiner Niederlage fleht Shang Tsung seinen Meister Shao Kahn an, sein Leben
+  zu verschonen. Er sagt ihr, dass die Einladung zum Mortal Kombat-Turnier nicht
+  abgelehnt werden kann und dass Krieger des Erdkönigreichs anwesend sein müssen,
+  wenn das Turnier in der Unterwelt stattfindet. Kahn stimmt diesem Grundsatz zu
+  und gibt Tsung Gesundheit und Jugend zurück. Er spricht Raidens Einladung aus,
+  der seinerseits seine Kämpfer einlädt, sich ihm anzuschließen, und alle gehen in
+  die Unterwelt. Das Turnier ist gefährlich, weil Shao Kahn den Vorteil hat, in
+  seinem Element zu sein, und ein Sieg des bösen Königreichs würde die Situation
+  aus dem Gleichgewicht bringen und es bösen Mächten ermöglichen, die Erde zu
+  überwältigen.\n
+  Die Geschichte folgt der des ersten Werks und insgesamt ist diese Episode
+  reichhaltiger als die vorherige.
+release: 1993-06-25
+players: 2
+rating: 80%
+x-id: 78948
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box2dfront/mk2p.png
+assets.video: ./media/videos/mk2p.mp4
+
+
+game: Mortal Kombat 2
+file: ./mk2p.zip
+developer: Midway
+publisher: Midway
+genre: Kampf-Kampf / Versus-Kampf / 2D
+description:
+  Mortal Kombat II, allgemein als MKII abgekürzt, ist ein Kampfvideospiel, das von
+  der amerikanischen Firma Midway Manufacturing Company entwickelt und erstmals im
+  November 1993 für Arcade-Automaten veröffentlicht wurde. Dies ist der zweite
+  Titel der Mortal Kombat-Reihe.\n
+  Nach seiner Niederlage fleht Shang Tsung seinen Meister Shao Kahn an, sein Leben
+  zu verschonen. Er sagt ihr, dass die Einladung zum Mortal Kombat-Turnier nicht
+  abgelehnt werden kann und dass Krieger des Erdkönigreichs anwesend sein müssen,
+  wenn das Turnier in der Unterwelt stattfindet. Kahn stimmt diesem Grundsatz zu
+  und gibt Tsung Gesundheit und Jugend zurück. Er spricht Raidens Einladung aus,
+  der seinerseits seine Kämpfer einlädt, sich ihm anzuschließen, und alle gehen in
+  die Unterwelt. Das Turnier ist gefährlich, weil Shao Kahn den Vorteil hat, in
+  seinem Element zu sein, und ein Sieg des bösen Königreichs würde die Situation
+  aus dem Gleichgewicht bringen und es bösen Mächten ermöglichen, die Erde zu
+  überwältigen.\n
+  Die Geschichte folgt der des ersten Werks und insgesamt ist diese Episode
+  reichhaltiger als die vorherige.
+release: 1993-06-25
+players: 2
+rating: 80%
+x-id: 78948
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box2dfront/mk2p.png
+assets.video: ./media/videos/mk2p.mp4
+
+
+game: Pac Man
+file: ./pacman.zip
+developer: Tomytronic
+publisher: Tomytronic
+genre: Action
+description:
+  Pac Man kann Pillen essen, indem er sich von rechts nach links bewegt. Ab Level
+  4 wird das Spiel automatisch schwer, mit drei Geistern pro Labyrinth statt der
+  anfänglichen zwei.\n
+  Jede Pille gibt 2 Punkte, ein Stern ist 50 Punkte wert, ein gefressener Geist
+  gibt 100 bis 400 Punkte, eine gegessene Kirsche gibt 100 bis 400 Punkte (je nach
+  Level). Kirschen erscheinen jedes Mal, wenn Pac Man 8 Pillen isst (maximal 2
+  Kirschen pro Level). Ein Lebensbonus wird bei 2000 Punkten vergeben.
+release: 1981-01-01
+players: 1
+x-id: 88080
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box2dfront/pacman.png
+assets.video: ./media/videos/pacman.mp4
+
+
+game: Street Fighter II' : Champion Edition (USA 920803)
+file: ./sf2ceuc.zip
+developer: Capcom
+publisher: Capcom
+genre: Kampf-Kampf / Versus
+description:
+  Aus allen Ecken der Welt kommen zwölf der härtesten Kämpfer, die je durch die
+  Straßen gezogen sind. Wählen Sie Ihren Champion und betreten Sie die Arena als
+  einer der acht ursprünglichen Herausforderer oder als einer der vier
+  Großmeister! Schlagen Sie Ihren Gegner als Balrog und setzen Sie ihn außer
+  Gefecht. Turme als Sagat über deine Beute und betäube sie mit deinem
+  furchterregenden Tiger Shot. Schlitzen Sie Ihren Gegner mit der Klaue von Vega
+  auf und schicken Sie ihn in Deckung. Oder jage deinen Feinden als M. Bison, dem
+  größten Großmeister von allen, Angst ein!
+release: 1992-03-01
+players: 2
+rating: 90%
+x-id: 37377
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box2dfront/sf2ceuc.png
+assets.video: ./media/videos/sf2ce.mp4
+
+
+game: Street Fighter II' : Champion Edition (World 920513)
+file: ./sf2ce.zip
+developer: Capcom
+publisher: Capcom
+genre: Kampf-Kampf / Versus
+description:
+  Aus allen Ecken der Welt kommen zwölf der härtesten Kämpfer, die je durch die
+  Straßen gezogen sind. Wählen Sie Ihren Champion und betreten Sie die Arena als
+  einer der acht ursprünglichen Herausforderer oder als einer der vier
+  Großmeister! Schlagen Sie Ihren Gegner als Balrog und setzen Sie ihn außer
+  Gefecht. Turme als Sagat über deine Beute und betäube sie mit deinem
+  furchterregenden Tiger Shot. Schlitzen Sie Ihren Gegner mit der Klaue von Vega
+  auf und schicken Sie ihn in Deckung. Oder jage deinen Feinden als M. Bison, dem
+  größten Großmeister von allen, Angst ein!
+release: 1992-01-01
+players: 2
+rating: 90%
+x-id: 37377
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box2dfront/sf2ce.png
+assets.video: ./media/videos/sf2ce.mp4
+
+
+game: Street Fighter II : The World Warrior (World 910522)
+file: ./sf2.zip
+developer: Capcom
+publisher: Capcom
+genre: Kampf / Versus-Kampf
+description:
+  GET READY TO RUMBLE!
+  .
+  Aus der ganzen Welt kommen acht der wildesten Kämpfer, die die Welt je gesehen
+  hat. Wählen Sie Ihren Champion, nehmen Sie Ihren Mut zusammen und bereiten Sie
+  sich darauf vor, Ihre Gegner in einem Kampf mit bloßen Fäusten zu bekämpfen.
+  Stellen Sie sich Ken und seinem vernichtenden "Dragon Punch"! Beobachten Sie,
+  wie die Temperatur steigt, wenn Dhalsim Sie mit seiner mystischen Yogaflamme
+  verbrennt! Hören Sie, wie Ihre Wirbelsäule knackt, wenn Zangief Sie mit seinem
+  "Spinning Pile Driver" auf den Asphalt knallt! Halten Sie sich die Ohren zu,
+  wenn Guile mit der unglaublichen Kraft des Sonic Boom die Schallmauer
+  durchbricht!
+  .
+  Vernichten Sie Ihre Konkurrenten und fordern Sie das Recht, Ihre Fähigkeiten
+  gegen die knochenbrechende Kraft der Großmeister zu testen! Können Sie
+  überleben? Kann das überhaupt jemand?
+release: 1991-01-01
+players: 2
+rating: 85%
+x-id: 42982
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box2dfront/sf2.png
+assets.video: ./media/videos/sf2.mp4
+
+
+game: Sunset Riders (2 Players ver ABD)
+file: ./ssridersabd.zip
+developer: Konami
+publisher: Konami
+genre: Shooter-Shooter / Horizontal-Plattform-Plattform / Shooter Scrolling-Shooter / Run and Gun
+description:
+  Der Wilde Westen... voll von kriminellen Verbrechen. Sir Richard Rose, das meist
+  verachtete Gesicht der Verbrecherbanden, hat genügend Macht um die
+  Bergbauanlagen, Viehfarmen und die Handelsgemeinschaften zu kontrollieren und
+  alles zu seinen Gunsten zu wenden. Mit dieser Macht, kann er sich buchstäblich
+  den Wilden Westen kaufen und alles kontrollieren! Die Menschen brauchen Hilfe,
+  sie sind verzweifelt. Und als die Dinge am finstersten aussahen, kamen 4 Männer
+  in die Stadt geritten, die einen Pakt geschlossen haben: Sir Richard Rose
+  niederzustrecken, um den Menschen im Wilden Westen ein sicheres und friedvolles
+  Leben zu ermöglichen. Steve, Bob, Billy und Cormano sind die Sunset Riders und
+  sie sind dabei die wildeste Schießerei zu führen, die der Wilde Westen je
+  gesehen hat.
+release: 1991-01-01
+players: 4
+rating: 90%
+x-id: 43289
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box2dfront/ssridersabd.png
+assets.video: ./media/videos/ssridersabd.mp4
+
+
+game: Teenage Mutant Ninja Turtles (World 4 Players, version X)
+file: ./tmnt.zip
+developer: Konami
+publisher: Konami
+genre: Beat'em Up
+description:
+  Teenage Mutant Ninja Turtles is a side-scrolling beat 'em up released by Konami
+  in 1989. It is based on the first Teenage Mutant Ninja Turtles animated series
+  which began airing in the winter of 1987. The player chooses from one of the
+  four Ninja Turtles: Leonardo, Michelangelo, Donatello, and Raphael. After
+  Shredder kidnaps the Turtles' friend April O'Neil and their mentor Splinter,
+  they must give chase, save their comrades, and defeat the evil Shredder. Up to
+  four players (two in some versions) can take control of any of the Turtles.
+  Donatello has slower attacks but a longer range, Michelangelo and Raphael have
+  faster attacks but a shorter range, and Leonardo is a well-rounded Turtle with
+  average range and speed. Most of the enemies the Turtles face are the Foot
+  Soldiers, all color-coded to indicate their attack patterns and weapon of
+  choices. Some enemies, such as the standard purple-clad Foot Soldiers and
+  Roadkill Rodney robots, have the ability to restrain the Turtles' mobility and
+  drain their health, leaving the player open to attack for other enemies. The
+  bosses in the game include Rocksteady and Bebop (individually at first in that
+  order, and later the two of them together), Baxter Stockman, Granitor, General
+  Traag, Krang, and Shredder himself.
+release: 1989-01-01
+players: 4
+rating: 80%
+x-id: 149955
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box2dfront/tmnt.png
+assets.video: ./media/videos/tmnt.mp4
+
+
+game: Teenage Mutant Ninja Turtles: Turtles in Time (2 Players ver UDA)
+file: ./tmnt22p.zip
+developer: Konami
+publisher: Konami
+genre: Beat'em Up
+description:
+  Die Einführungsszene zeigt die vier Turtles, die sich einen Nachrichtenbericht
+  von April O'Neil über Liberty Island im TV ansehen und entsetzt zusehen müssen,
+  wie Krang die Freiheitsstatue stiehlt. Die Turtles machen sich sofort auf und
+  verfolgen Shredder und die Foot Gang bis hin zum Technodrome, wo Shredder sie in
+  eine Raum-Zeit-Falle schickt.\n
+  Somit startet das Spiel in den Straßen von New York City und zieht sich u.a.
+  über die prähistorische Geschichte, den Wilden Westen bis hin zu Shredders
+  Stützpunkt im Jahre 2100 in der Zukunft.
+release: 1991-09-18
+players: 4
+rating: 90%
+x-id: 43646
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box2dfront/tmnt22p.png
+assets.video: ./media/videos/tmnt22p.mp4
+
+
+game: The Simpsons (2 Players World, set 1)
+file: ./simpsons2p.zip
+developer: Konami
+publisher: Konami
+genre: Kampf / 2.5D-Kampf-Beat'em Up
+description:
+  Ein Schmuckraub geht schief, Mr. Burns' Kumpel Smithers entführt Maggie und
+  rennt davon. In diesem farbenfrohen, horizontalen Beat-Em-Up von Konami
+  schlüpfen ein bis vier Spieler in die Rolle von Homer, Marge, Lisa oder Bart.
+  Jeder Simpsons-Charakter hat seinen eigenen Angriffszug. Marge ist mit einem
+  Staubsauger bewaffnet, Lisa hat ein Springseil, Bart hat sein Skateboard und
+  Homer kämpft mit seinen Fäusten. Die Spieler müssen sich ihren Weg durch eine
+  Vielzahl von Levels mit Simpsons-Thema – wie Springfield und Krustyland –
+  kämpfen, gegen Schläger, Zombies, Betrunkene, Feuerwehrleute und mehrere
+  Simpsons-Stammgäste. Viele Simpsons-Charaktere, die nicht als Feinde auftreten,
+  haben „Cameo“-Szenen im Spiel (Otto arbeitet beispielsweise an einem Stand in
+  Krustyland). Am Ende jeder Stufe erwartet die Spieler der archetypische
+  „Boss“-Charakter. Das Spiel endet mit einer letzten Konfrontation mit dem bösen
+  Mr. Burns in seiner luxuriösen Villa.
+release: 1991-04-03
+players: 4
+rating: 90%
+x-id: 149954
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box2dfront/simpsons2p.png
+assets.video: ./media/videos/simpsons2p.mp4
+
+
+game: Ultimate Mortal Kombat 3 (rev 1.2)
+file: ./umk3.zip
+developer: Midway
+publisher: Midway
+genre: Kampf-Kampf / Versus
+description:
+  Dieses Spiel ist das gleiche wie Mortal Kombat 3, außer dass es neue
+  Hintergründe und mehr Charaktere enthält (insgesamt 22 spielbar). Diese Version
+  markiert die Rückkehr von Scorpion, Reptile, Kitana und Jade (ganz zu schweigen
+  von den Ausdauerrunden). Zu den versteckten Charakteren gehören Human Smoke,
+  Classic Sub-Zero, Mileena, Ermac, Rain und Noob Saibot (Rain und Noob Saibot
+  sind in keiner Weise wählbar).
+release: 1995-11-06
+players: 8
+rating: 90%
+x-id: 43829
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box2dfront/umk3p.png
+assets.video: ./media/videos/umk3p.mp4
+
+
+game: Ultimate Mortal Kombat 3
+file: ./umk3p.zip
+developer: Midway
+publisher: Midway
+genre: Kampf-Kampf / Versus
+description:
+  Dieses Spiel ist das gleiche wie Mortal Kombat 3, außer dass es neue
+  Hintergründe und mehr Charaktere enthält (insgesamt 22 spielbar). Diese Version
+  markiert die Rückkehr von Scorpion, Reptile, Kitana und Jade (ganz zu schweigen
+  von den Ausdauerrunden). Zu den versteckten Charakteren gehören Human Smoke,
+  Classic Sub-Zero, Mileena, Ermac, Rain und Noob Saibot (Rain und Noob Saibot
+  sind in keiner Weise wählbar).
+release: 1995-11-06
+players: 8
+rating: 90%
+x-id: 43829
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box2dfront/umk3p.png
+assets.video: ./media/videos/umk3p.mp4
+
+
+game: ZZZ(notgame):#bios
+file: ./neogeo.zip
+publisher: SNK
+genre: Verschiedene / System-Verschiedene
+description:
+  A cartridge-based arcade system board. The MVS stands for Multi Video System,
+  and as its name suggest, offers owners the ability to put up to six different
+  arcade titles into a single cabinet, a key economic consideration for operators
+  with limited floorspace. With its games stored on self-contained cartridges, a
+  game cabinet can be exchanged for a different game title by swapping the game's
+  ROM-cartridge and cabinet artwork.
+release: 1990-01-01
+players: 2
+x-id: 152761
+x-source: ScreenScraper.fr
+
