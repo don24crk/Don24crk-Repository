@@ -1,17 +1,17 @@
-collection: Amiga
-shortname: commodore_amiga
-extensions: 7z, adf, adz, ccd, chd, cue, dms, fdi, hdf, hdz, info, ipf, iso, lha, m3u, mds, nrg, rp9, slave, uae, zip
+collection: Commodore Amiga
+shortname: amiga
+extensions: 7z, adf, adz, ccd, chd, cue, dms, fdi, hdf, hdz, info, ipf, iso, lha, m3u, mds, nrg, rp9, slave, uae, zip,
 launch: am start --user 0
   -n com.retroarch/.browser.retroactivity.RetroActivityFuture
   -e ROM {file.path}
-  -e LIBRETRO /data/data/com.retroarch/cores/puae2021_libretro_android.so
+  -e LIBRETRO /data/data/com.retroarch/cores/puae2021_libretro.so
   -e CONFIGFILE /storage/emulated/0/Android/data/com.retroarch/files/retroarch.cfg
   -e QUITFOCUS
   --activity-clear-top
   --activity-clear-task
   --activity-no-history
 game: Aladdin
-file: ./Aladdin_v1.7_AGA_0420.lha
+file: ./Aladdin.lha
 developer: Disney Interactive
 publisher: Virgin
 genre: Plattform
@@ -40,8 +40,34 @@ players: 1
 rating: 90%
 x-id: 33245
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Aladdin_v1.7_AGA_0420.png
-assets.video: ./media/videos/Aladdin_v1.7_AGA_0420.mp4
+assets.boxfront: ./media/box2dfront/Aladdin.png
+assets.video: ./media/videos/Aladdin.mp4
+
+
+game: Alien 3
+file: ./Alien3_v2.2.lha
+developer: Virgin
+publisher: Acclaim
+genre: Plattform
+description:
+  Alien3 ist ein Videospiel, das auf dem gleichnamigen Film basiert. Die Handlung
+  des Films setzt direkt nach dem Ende von Aliens ein. Ellen Ripley, die
+  Hauptfigur der Alien-Reihe, befindet sich im Kryoschlaf an Bord des Raumschiffs
+  Sulaco. Unglücklicherweise haben sich ein oder zwei Aliens als blinde Passagiere
+  auf der Sulaco eingeschlichen und im Schiff Chaos angerichtet. Daher stürzt es
+  auf dem Gefängniskolonieplaneten Fiorina 161 ab. Ripley und die unbewaffneten
+  Gefangenen müssen einen Weg finden, die Aliens zu überleben, die die Kolonie
+  terrorisieren, bis Hilfe eintrifft. Das Gameplay der verschiedenen
+  Alien3-Umsetzungen variiert von Plattform zu Plattform. Diese Version ist ein
+  seitlich verlaufendes Actionspiel mit großen labyrinthartigen Levels. In jedem
+  Level müssen Sie alle gefangenen Gefangenen retten und sich dann zum Ausgang
+  durchschlagen, während Sie mehrere Alienangriffe überleben.
+release: 1992-01-01
+players: 1
+x-id: 33370
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box2dfront/Alien3_v2.2.png
+assets.video: ./media/videos/Alien3_v2.2.mp4
 
 
 game: Bad Dudes
@@ -50,70 +76,55 @@ developer: Ocean
 publisher: Imagine
 genre: Beat'em Up
 description:
-  The gameplay of Bad Dudes is roughly similar to the 1985 Konami side-scrolling
-  arcade game Rush'n Attack and the 1984 side-scrolling beat-'em-up Kung Fu
-  Master, but allows up to two players to play at once. Player One controls the
-  character named "Blade" wearing white pants and Player Two controls the
-  character named "Striker" wearing green pants. Players start with the ability to
-  do basic punches, kicks and jumps. Some moves are special like spinning kicks
-  and the ability to charge themselves up with "inner energy" (Qi) by holding the
-  punch button to throw a powerful long-range attack that hits all opponents in
-  front of the player. Players will also come across several power-ups; some are
-  weapons like knives and nunchakus and some recharge a player's health, and yet
-  others add a few seconds to the remaining time.[7]
-  .
-  .
-  .
-  The various types of enemies encountered in the game have their own means of
-  attack. The basic blue-colored ninja directly charge the player, while some leap
-  with their swords, or throw shuriken and makibishi; there are also acrobatic
-  kunoichi female ninja, attack dogs, and even people who are on fire. The enemies
-  may be beaten down or avoided. Most enemies can be beaten with only a single hit
-  of any kind, and multiple enemies can be defeated with one hit if they are
-  standing close together.
-  .
-  .
-  .
-  At the end of each level, one of the "super warrior" bosses will appear which
-  needs to be defeated to progress to the next level. The first of them is Karnov,
-  who cameos from the Data East game of the same name;[8] the background music
-  during the fight with him is similar to the main theme in Karnov as well.[note
-  1] Each boss has their own special attacks: Karnov, for example, can breathe
-  fire at the player. At the successful completion of each level, the dude(s)
-  strike a "bad" pose and proclaim, "I'm bad!". The shout, and the game's American
-  wordmark logo are both similar to the Michael Jackson song "Bad" released the
-  previous year. In the Japanese version of the game, this quote was originally a
-  battle cry.
+  Bad Dudes ist ein Side-Scrolling-Beat-'em-up, ähnlich wie Rush'n Attack und Kung
+  Fu Master. Es bietet Einzel- oder Koop-Spiel für zwei Spieler: Spieler Eins
+  steuert "Blade" (weiße Hosen), Spieler Zwei "Striker" (grüne Hosen). Zu Beginn
+  können Spieler einfache Schläge, Tritte und Sprünge ausführen, aber auch
+  Spezialmoves wie Drehtritte und einen aufgeladenen Qi-Fernangriff. Verschiedene
+  Power-Ups bieten Waffen wie Messer und Nunchakus oder füllen Gesundheit auf. Die
+  Feinde, meist Ninjas, haben individuelle Angriffe, z. B. Shuriken werfen oder
+  Schwerter schwingen. Jeder Level endet mit einem Bosskampf. Der erste Boss ist
+  Karnov, der Feuer speien kann. Nach jedem Level sagen die Helden stolz: „Ich bin
+  böse!“, inspiriert von Michael Jacksons Song „Bad“.
 release: 1989-01-01
 players: 1
 x-id: 33991
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/BadDudes_v1.2_NTSC_2425.png
+assets.boxfront: ./media/box2dfront/BadDudes_v1.2_NTSC_2425.png
 assets.video: ./media/videos/BadDudes_v1.2_NTSC_2425.mp4
 
 
 game: Fire And Ice
 file: ./Fire&Ice_v2.2_CD32.lha
 developer: Renegade Software
-publisher: Graftgold
+publisher: Graftgold Creative Software
 genre: Verschiedene-Plattform / Jump'n'Run Scrolling-Plattform
 description:
-  Fire And Ice is an action game where you play a funny coyote who fights by
-  throwing ice cubes at his opponents and then breaking them! He must collect all
-  the key parts they drop in order to advance to the next level.
+  Die Hintergrundgeschichte von Fire & Ice ist schnell erzählt: Ein Kojote (Sie)
+  rennt, Eiswürfel werfend, durch verschiedene Welten. In den Levels müssen Sie
+  auf Plattformen springen und Ihre Feinde töten. Die Feinde (zum Beispiel Vögel
+  und Pinguine) können mit Ihren Eiswürfeln erschossen werden; sie frieren ein,
+  sodass Sie sie zerschlagen müssen. Manchmal hinterlassen sie nach ihrer
+  Zerstörung einen Teil eines Schlüssels. Der vollständige Schlüssel,
+  zusammengesetzt aus allen Teilen, öffnet die Tür zur nächsten Welt. In diesem
+  „Jump & Run“ können Sie auch einige Power-Ups erhalten. Sie können einige
+  Kojotenwelpen finden; diese Welpen folgen Ihnen, sind unverwundbar und schießen
+  ebenfalls auf Feinde. In höheren Regionen finden Sie einige Schneeflocken; wenn
+  Sie genug davon haben, erhalten Sie einen großen Schneeball, mit dem Sie weitere
+  Feinde auf dem Bildschirm einfrieren können.
 release: 1992-01-01
 players: 1
 x-id: 172431
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Fire&Ice_v2.2_CD32.png
+assets.boxfront: ./media/box2dfront/Fire&Ice_v2.2_CD32.png
 assets.video: ./media/videos/Fire&Ice_v2.2_CD32.mp4
 
 
 game: First Samurai
 file: ./FirstSamurai_v1.6_1182.lha
-developer: Image Works
-publisher: Vivid Image
-genre: Plattform
+developer: Vivid Image
+publisher: Image Works
+genre: Plattform-Beat'em Up
 description:
   Wir sind ein Samurai in Japan, der seinen durch den Dämonenkönig ermordeten
   Meister rächen will. Wir werden uns einen Weg durch 4 Unterschiedliche
@@ -129,89 +140,107 @@ players: 1
 rating: 85%
 x-id: 33337
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/FirstSamurai_v1.6_1182.png
+assets.boxfront: ./media/box2dfront/FirstSamurai_v1.6_1182.png
 assets.video: ./media/videos/FirstSamurai_v1.6_1182.mp4
 
 
-game: Ghosts'n Goblins
+game: Ghosts 'n Goblins
 file: ./Ghosts 'N' Goblins.zip
-developer: Capcom
-publisher: Capcom
+developer: Elite Systems
+publisher: Elite Systems
 genre: Plattform
 description:
-  Ghosts 'n Goblins is a platform game where the player controls a knight, named
-  Sir Arthur, who must defeat zombies, ogres, demons, cyclops, dragons and other
-  monsters in order to rescue Princess Prin Prin, who has been kidnapped by Satan,
-  king of Demon World. Along the way the player can pick up new weapons, bonuses
-  and extra suits of armor that can help in this task.[2]
-  .
-  The game is often considered very difficult by arcade standards and is commonly
-  regarded as one of the most difficult games ever released. The player can only
-  be hit twice before losing a life (the first hit takes away Arthur's armor, and
-  the player must continue on in his underwear until completing the level or
-  finding replacement armor). If the player loses a life, he is returned to the
-  start of the level, or the halfway point if he has managed to get that far.
-  Furthermore, each life can only last a certain length of time (generally around
-  three minutes), the clock being reset at the start of a level. If the clock does
-  run out, the player instantly loses that life.
-  .
-  After defeating the final boss, but only with the cross weapon (if the player
-  does not have the cross weapon, they will be prompted that it is needed to
-  defeat the boss and restart at the beginning of level 5 and must repeat round 5
-  and 6 again regardless if the weapon is obtained immediately or not) for the
-  first time the player is informed that the battle was "a trap devised by Satan".
-  The player must then replay the entire game on a higher difficulty level to
-  reach the genuine final battle.
+  „Ghosts 'n Goblins“ ist ein Plattformspiel, in dem der Spieler Sir Arthur, einen
+  Ritter, steuert. Er muss Prinzessin Prin Prin retten, die von Satan, dem König
+  der Dämonenwelt, entführt wurde. Auf seinem Weg kämpft er gegen Zombies, Oger,
+  Dämonen, Zyklopen und Drachen. Dabei kann der Spieler neue Waffen, Boni und
+  Rüstungen finden. Das Spiel ist berüchtigt für seinen hohen Schwierigkeitsgrad.
+  Sir Arthur kann nur zweimal getroffen werden: Der erste Treffer entfernt seine
+  Rüstung, und er muss in Unterwäsche weiterspielen, bis er neue Rüstung findet
+  oder das Level abschließt. Verliert er ein Leben, beginnt er am Anfang des
+  Levels oder an einem Kontrollpunkt. Jedes Leben hat zudem ein Zeitlimit, und
+  wenn dieses abläuft, verliert er sofort. Nach dem ersten Sieg über den
+  Endgegner, allerdings nur mit der richtigen Waffe (dem Kreuz), erfährt man, dass
+  der Kampf eine Falle war. Er muss das gesamte Spiel erneut auf einem höheren
+  Schwierigkeitsgrad spielen, um den echten Endkampf zu erreichen.
 release: 1990-01-01
 players: 1
 x-id: 33227
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Ghosts 'N' Goblins.png
-assets.video: ./media/videos/Ghosts 'N' Goblins.mp4
+assets.boxfront: ./media/box2dfront/GhostsNGoblins_v1.2.png
+assets.video: ./media/videos/GhostsNGoblins_v1.2.mp4
 
 
-game: Ghosts'n Goblins
+game: Ghosts 'n Goblins
 file: ./GhostsNGoblins_v1.2.lha
-developer: Capcom
-publisher: Capcom
+developer: Elite Systems
+publisher: Elite Systems
 genre: Plattform
 description:
-  Ghosts 'n Goblins is a platform game where the player controls a knight, named
-  Sir Arthur, who must defeat zombies, ogres, demons, cyclops, dragons and other
-  monsters in order to rescue Princess Prin Prin, who has been kidnapped by Satan,
-  king of Demon World. Along the way the player can pick up new weapons, bonuses
-  and extra suits of armor that can help in this task.[2]
-  .
-  The game is often considered very difficult by arcade standards and is commonly
-  regarded as one of the most difficult games ever released. The player can only
-  be hit twice before losing a life (the first hit takes away Arthur's armor, and
-  the player must continue on in his underwear until completing the level or
-  finding replacement armor). If the player loses a life, he is returned to the
-  start of the level, or the halfway point if he has managed to get that far.
-  Furthermore, each life can only last a certain length of time (generally around
-  three minutes), the clock being reset at the start of a level. If the clock does
-  run out, the player instantly loses that life.
-  .
-  After defeating the final boss, but only with the cross weapon (if the player
-  does not have the cross weapon, they will be prompted that it is needed to
-  defeat the boss and restart at the beginning of level 5 and must repeat round 5
-  and 6 again regardless if the weapon is obtained immediately or not) for the
-  first time the player is informed that the battle was "a trap devised by Satan".
-  The player must then replay the entire game on a higher difficulty level to
-  reach the genuine final battle.
+  „Ghosts 'n Goblins“ ist ein Plattformspiel, in dem der Spieler Sir Arthur, einen
+  Ritter, steuert. Er muss Prinzessin Prin Prin retten, die von Satan, dem König
+  der Dämonenwelt, entführt wurde. Auf seinem Weg kämpft er gegen Zombies, Oger,
+  Dämonen, Zyklopen und Drachen. Dabei kann der Spieler neue Waffen, Boni und
+  Rüstungen finden. Das Spiel ist berüchtigt für seinen hohen Schwierigkeitsgrad.
+  Sir Arthur kann nur zweimal getroffen werden: Der erste Treffer entfernt seine
+  Rüstung, und er muss in Unterwäsche weiterspielen, bis er neue Rüstung findet
+  oder das Level abschließt. Verliert er ein Leben, beginnt er am Anfang des
+  Levels oder an einem Kontrollpunkt. Jedes Leben hat zudem ein Zeitlimit, und
+  wenn dieses abläuft, verliert er sofort. Nach dem ersten Sieg über den
+  Endgegner, allerdings nur mit der richtigen Waffe (dem Kreuz), erfährt man, dass
+  der Kampf eine Falle war. Er muss das gesamte Spiel erneut auf einem höheren
+  Schwierigkeitsgrad spielen, um den echten Endkampf zu erreichen.
 release: 1990-01-01
 players: 1
 x-id: 33227
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Ghosts 'N' Goblins.png
-assets.video: ./media/videos/Ghosts 'N' Goblins.mp4
+assets.boxfront: ./media/box2dfront/GhostsNGoblins_v1.2.png
+assets.video: ./media/videos/GhostsNGoblins_v1.2.mp4
+
+
+game: Giana Sisters: Special Edition
+file: ./GianaSistersSE_v1.2.lha
+developer: Reimagine Games
+publisher: Pixelglass Games
+genre: Plattform / Jump'n'Run-Plattform
+description:
+  Erleben Sie den Amiga-Klassiker und sein zeitloses Gameplay erneut, aber diesmal
+  mit brandneuen, erstaunlichen Grafiken und Soundeffekten! Giana Sisters Special
+  Edition ist ein inoffizieller Hack der ursprünglichen Amiga-Version, der den
+  gesamten visuellen Aspekt des Spiels ersetzt! Die neuen Grafiken sind entweder
+  komplett neue Designs oder remasterte Originale, während Giana und einige Gegner
+  direkt von der Nintendo DS-Version von 2009 inspiriert sind.
+release: 2018-06-20
+players: 2
+x-id: 214661
+x-source: ScreenScraper.fr
+assets.video: ./media/videos/GianaSistersSE_v1.2.mp4
+
+
+game: Giana Sisters: Special Edition
+file: ./GianaSistersSE_v1.2.zip
+developer: Reimagine Games
+publisher: Pixelglass Games
+genre: Plattform / Jump'n'Run-Plattform
+description:
+  Erleben Sie den Amiga-Klassiker und sein zeitloses Gameplay erneut, aber diesmal
+  mit brandneuen, erstaunlichen Grafiken und Soundeffekten! Giana Sisters Special
+  Edition ist ein inoffizieller Hack der ursprünglichen Amiga-Version, der den
+  gesamten visuellen Aspekt des Spiels ersetzt! Die neuen Grafiken sind entweder
+  komplett neue Designs oder remasterte Originale, während Giana und einige Gegner
+  direkt von der Nintendo DS-Version von 2009 inspiriert sind.
+release: 2018-06-20
+players: 2
+x-id: 214661
+x-source: ScreenScraper.fr
+assets.video: ./media/videos/GianaSistersSE_v1.2.mp4
 
 
 game: Shadow Dancer
 file: ./Shadow Dancer.zip
-developer: U.S. Gold
-publisher: SEGA
-genre: Beat'em Up-Plattform / Kampf Scrolling-Plattform
+developer: Images Design
+publisher: U.S. Gold
+genre: Plattform / Kampf Scrolling-Plattform
 description:
   Shadow Dancer ist ein Spiel für einen Spieler, in dem du Shinobi steuerst. Mit
   der Hilfe deines Hundes musst du deine Feinde töten, während du dich durch Orte
@@ -231,15 +260,15 @@ players: 1
 rating: 70%
 x-id: 34087
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Shadow Dancer.png
+assets.boxfront: ./media/box2dfront/Shadow Dancer.png
 assets.video: ./media/videos/Shadow Dancer.mp4
 
 
 game: Shadow Dancer
 file: ./ShadowDancer_v1.2_0202.lha
-developer: U.S. Gold
-publisher: SEGA
-genre: Beat'em Up-Plattform / Kampf Scrolling-Plattform
+developer: Images Design
+publisher: U.S. Gold
+genre: Plattform / Kampf Scrolling-Plattform
 description:
   Shadow Dancer ist ein Spiel für einen Spieler, in dem du Shinobi steuerst. Mit
   der Hilfe deines Hundes musst du deine Feinde töten, während du dich durch Orte
@@ -259,7 +288,7 @@ players: 1
 rating: 70%
 x-id: 34087
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Shadow Dancer.png
+assets.boxfront: ./media/box2dfront/Shadow Dancer.png
 assets.video: ./media/videos/Shadow Dancer.mp4
 
 
@@ -289,7 +318,7 @@ players: 1
 rating: 70%
 x-id: 33532
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Addams Family, The.png
+assets.boxfront: ./media/box2dfront/Addams Family, The.png
 assets.video: ./media/videos/Addams Family, The.mp4
 
 
@@ -319,13 +348,13 @@ players: 1
 rating: 70%
 x-id: 33532
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Addams Family, The.png
+assets.boxfront: ./media/box2dfront/Addams Family, The.png
 assets.video: ./media/videos/Addams Family, The.mp4
 
 
 game: The Great Giana Sisters
 file: ./Great Giana Sisters, The.zip
-developer: Time Warp Productions
+developer: Time Warp Software
 publisher: Rainbow Arts
 genre: Plattform
 description:
@@ -346,5 +375,6 @@ players: 2
 rating: 80%
 x-id: 33378
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Great Giana Sisters, The.png
+assets.boxfront: ./media/box2dfront/Great Giana Sisters, The.png
 assets.video: ./media/videos/Great Giana Sisters, The.mp4
+
