@@ -1,10 +1,10 @@
-collection: Game Boy/Game Boy Color/Game Boy Advance
+collection: Nintendo Gameboy Advance
 shortname: gba
-extensions: gb, gba, gbc
+extensions: gba, zip,
 launch: am start --user 0
   -n com.retroarch/.browser.retroactivity.RetroActivityFuture
   -e ROM {file.path}
-  -e LIBRETRO /data/data/com.retroarch/cores/mgba_libretro_android.so
+  -e LIBRETRO /data/data/com.retroarch/cores/mgba_libretro.so
   -e CONFIGFILE /storage/emulated/0/Android/data/com.retroarch/files/retroarch.cfg
   -e QUITFOCUS
   --activity-clear-top
@@ -27,7 +27,7 @@ players: 1
 rating: 65%
 x-id: 4242
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Action Man - Robot Atak (Europe) (En,Fr,De,Es,It).png
+assets.boxfront: ./media/box2dfront/Action Man - Robot Atak (Europe) (En,Fr,De,Es,It).png
 assets.video: ./media/videos/Action Man - Robot Atak (Europe) (En,Fr,De,Es,It).mp4
 
 
@@ -50,7 +50,7 @@ players: 2
 rating: 75%
 x-id: 72006
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Activision Anthology (USA).png
+assets.boxfront: ./media/box2dfront/Activision Anthology (USA).png
 assets.video: ./media/videos/Activision Anthology (USA).mp4
 
 
@@ -73,7 +73,7 @@ players: 1
 rating: 75%
 x-id: 3933
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Aladdin (USA) (En,Fr,De,Es).png
+assets.boxfront: ./media/box2dfront/Aladdin (USA) (En,Fr,De,Es).png
 assets.video: ./media/videos/Aladdin (USA) (En,Fr,De,Es).mp4
 
 
@@ -94,7 +94,7 @@ players: 2
 rating: 60%
 x-id: 4139
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Altered Beast - Guardian of the Realms (USA).png
+assets.boxfront: ./media/box2dfront/Altered Beast - Guardian of the Realms (USA).png
 assets.video: ./media/videos/Altered Beast - Guardian of the Realms (USA).mp4
 
 
@@ -124,7 +124,7 @@ players: 2
 rating: 70%
 x-id: 3817
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Asterix & Obelix XXL (Europe) (En,Fr,De,Es,It,Nl).png
+assets.boxfront: ./media/box2dfront/Asterix & Obelix XXL (Europe) (En,Fr,De,Es,It,Nl).png
 assets.video: ./media/videos/Asterix & Obelix XXL (Europe) (En,Fr,De,Es,It,Nl).mp4
 
 
@@ -143,7 +143,7 @@ players: 2
 rating: 60%
 x-id: 4257
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Atari Anniversary Advance (USA).png
+assets.boxfront: ./media/box2dfront/Atari Anniversary Advance (USA).png
 assets.video: ./media/videos/Atari Anniversary Advance (USA).mp4
 
 
@@ -168,7 +168,7 @@ players: 1
 rating: 70%
 x-id: 3999
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Batman - Vengeance (USA) (En,Fr,Es).png
+assets.boxfront: ./media/box2dfront/Batman - Vengeance (USA) (En,Fr,Es).png
 assets.video: ./media/videos/Batman - Vengeance (USA) (En,Fr,Es).mp4
 
 
@@ -178,22 +178,17 @@ developer: Nobilis
 publisher: Kemco
 genre: Action-Puzzle
 description:
-  Based on the original Boulder Dash, you must find your way through each puzzle
-  to collect the gems in order to open the exit door, while moving boulders out of
-  the way and dodging enemies.
-  .
-  Boulder Dash EX includes a brand new, updated version of the classic title, with
-  a new main character and 6 worlds full of puzzle action. Also on the cart is the
-  original Boulder Dash emulated from its PC form.
-  .
-  The 4 player mode has you and 3 other gamers going head-to-head to gain the most
-  gems, while dropping boulders and bombs at each other.
+  Boulder Dash EX ist ein Puzzle-Spiel für den Gameboy Advance. Das Ziel des
+  Spiels ist einfach: Du musst eine bestimmte Anzahl von Edelsteinen einsammeln,
+  um eine Tür zum nächsten Level erscheinen zu lassen. Natürlich ist der
+  Schwierigkeitsgrad progressiv. Du musst auch verschiedene Boni sammeln, die hier
+  und da verstreut sind.
 release: 2003-09-18
 players: 4
 rating: 80%
 x-id: 4305
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Boulder Dash EX (USA).png
+assets.boxfront: ./media/box2dfront/Boulder Dash EX (USA).png
 assets.video: ./media/videos/Boulder Dash EX (USA).mp4
 
 
@@ -221,7 +216,7 @@ players: 2
 rating: 70%
 x-id: 3844
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Breath of Fire II (USA).png
+assets.boxfront: ./media/box2dfront/Breath of Fire II (USA).png
 assets.video: ./media/videos/Breath of Fire II (USA).mp4
 
 
@@ -246,7 +241,7 @@ players: 2
 rating: 70%
 x-id: 3829
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Breath of Fire (USA).png
+assets.boxfront: ./media/box2dfront/Breath of Fire (USA).png
 assets.video: ./media/videos/Breath of Fire (USA).mp4
 
 
@@ -256,17 +251,18 @@ developer: Vicarious Vision
 publisher: Universal Interactive
 genre: Action-Plattform
 description:
-  The legendary Bruce Lee is back as Hai Feng! Master Bruce's fists of fury,
-  nunchaku and dozens of awesome moves as you travel across the globe to locations
-  of mystery and intrigue in this epic martial arts adventure! Use the environment
-  to your advantage, evade your enemies by scaling walls, fight like the
-  Masterwith multiple combo and power-up attacks.
+  Der legendäre Bruce Lee ist zurück als Hai Feng! Meistern Sie Bruces wütende
+  Fäuste, Nunchaku und Dutzende fantastischer Bewegungen, während Sie in diesem
+  epischen Kampfkunst-Abenteuer rund um den Globus zu Orten voller Geheimnisse und
+  Intrigen reisen! Nutzen Sie die Umgebung zu Ihrem Vorteil, weichen Sie Ihren
+  Feinden aus, indem Sie Wände erklimmen, kämpfen Sie wie der Meister mit mehreren
+  Combo- und Power-Up-Angriffen.
 release: 2003-03-28
 players: 1
 rating: 80%
 x-id: 4187
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Bruce Lee - Return of the Legend (USA).png
+assets.boxfront: ./media/box2dfront/Bruce Lee - Return of the Legend (USA).png
 assets.video: ./media/videos/Bruce Lee - Return of the Legend (USA).mp4
 
 
@@ -276,19 +272,20 @@ developer: Natsume
 publisher: THQ
 genre: Kampf-Plattform
 description:
-  Years ago, the Darkhul King was banished to a hidden dimension. But somehow he
-  has found his way back to Earth, and now he's ready to unleash his powers on the
-  unsuspecting public of Sunnydale. Of course, Sunnydale is also the home of the
-  one and only Buffy. Using her experience against the many monsters, and her
-  amazing strength and fighting techniques, your job is to guide her along through
-  each level and defeat the many vampires and other evil beings before taking on
-  the prime evil, the Darkhul King itself.
+  Vor Jahren wurde der Darkhul-König in eine verborgene Dimension verbannt. Aber
+  irgendwie hat er den Weg zurück zur Erde gefunden und ist nun bereit, seine
+  Kräfte auf die ahnungslosen Bewohner von Sunnydale loszulassen. Natürlich ist
+  Sunnydale auch die Heimat der einzigartigen Buffy. Indem Sie ihre Erfahrung im
+  Kampf gegen zahlreiche Monster, ihre erstaunliche Kraft und Kampftechniken zu
+  Nutze machen, liegt es an Ihnen, die Dämonenjägerin durch jedes Level zu führen
+  und die vielen Vampire und anderen bösen Wesen zu besiegen, bevor Sie es mit dem
+  größten Übel, dem Darkhul-König selbst, aufnehmen.
 release: 2003-06-25
 players: 1
 rating: 60%
 x-id: 4127
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Buffy the Vampire Slayer - Wrath of the Darkhul King (USA, Europe).png
+assets.boxfront: ./media/box2dfront/Buffy the Vampire Slayer - Wrath of the Darkhul King (USA, Europe).png
 assets.video: ./media/videos/Buffy the Vampire Slayer - Wrath of the Darkhul King (USA, Europe).mp4
 
 
@@ -296,7 +293,7 @@ game: Castlevania : Circle of the Moon
 file: ./Castlevania - Circle of the Moon (USA).zip
 developer: Konami
 publisher: Konami
-genre: Abenteuer
+genre: Abenteuer-Plattform
 description:
   Bekämpfe die Wurzeln des Bösen!\n
   Man schreibt das Jahr 1830.In den Gemäuern eines verfallenen Schlosses an der
@@ -308,8 +305,8 @@ players: 1
 rating: 85%
 x-id: 3780
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Castlevania - Circle of the Moon (USA).png
-assets.video: ./media/videos/Castlevania (Europe).mp4
+assets.boxfront: ./media/box2dfront/Castlevania - Circle of the Moon (USA).png
+assets.video: ./media/videos/Castlevania - Circle of the Moon (USA).mp4
 
 
 game: Castlevania : Harmony of Dissonance
@@ -328,7 +325,7 @@ players: 1
 rating: 85%
 x-id: 3798
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Castlevania - Harmony of Dissonance (USA).png
+assets.boxfront: ./media/box2dfront/Castlevania - Harmony of Dissonance (USA).png
 assets.video: ./media/videos/Castlevania - Harmony of Dissonance (USA).mp4
 
 
@@ -350,7 +347,7 @@ players: 1
 rating: 80%
 x-id: 83316
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Castlevania Double Pack (USA).png
+assets.boxfront: ./media/box2dfront/Castlevania Double Pack (USA).png
 assets.video: ./media/videos/Castlevania Double Pack (USA).mp4
 
 
@@ -358,7 +355,7 @@ game: Castlevania
 file: ./Castlevania (Europe).zip
 developer: Konami
 publisher: Konami
-genre: Abenteuer
+genre: Abenteuer-Plattform
 description:
   Bekämpfe die Wurzeln des Bösen!\n
   Man schreibt das Jahr 1830.In den Gemäuern eines verfallenen Schlosses an der
@@ -370,8 +367,8 @@ players: 1
 rating: 85%
 x-id: 3780
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Castlevania (Europe).png
-assets.video: ./media/videos/Castlevania (Europe).mp4
+assets.boxfront: ./media/box2dfront/Castlevania (Europe).png
+assets.video: ./media/videos/Castlevania - Circle of the Moon (USA).mp4
 
 
 game: Catwoman
@@ -389,7 +386,7 @@ players: 1
 rating: 10%
 x-id: 4052
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Catwoman (USA, Europe) (En,Fr,De,Es,It,Nl).png
+assets.boxfront: ./media/box2dfront/Catwoman (USA, Europe) (En,Fr,De,Es,It,Nl).png
 assets.video: ./media/videos/Catwoman (USA, Europe) (En,Fr,De,Es,It,Nl).mp4
 
 
@@ -407,7 +404,7 @@ players: 2
 rating: 75%
 x-id: 4405
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Chicken Shoot 2 (USA).png
+assets.boxfront: ./media/box2dfront/Chicken Shoot 2 (USA).png
 assets.video: ./media/videos/Chicken Shoot 2 (USA).mp4
 
 
@@ -431,7 +428,7 @@ players: 2
 rating: 25%
 x-id: 4645
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Chicken Shoot (USA).png
+assets.boxfront: ./media/box2dfront/Chicken Shoot (USA).png
 assets.video: ./media/videos/Chicken Shoot (USA).mp4
 
 
@@ -455,7 +452,7 @@ players: 1
 rating: 60%
 x-id: 4243
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Comix Zone (Europe) (En,Fr,De,Es,It).png
+assets.boxfront: ./media/box2dfront/Comix Zone (Europe) (En,Fr,De,Es,It).png
 assets.video: ./media/videos/Comix Zone (Europe) (En,Fr,De,Es,It).mp4
 
 
@@ -475,7 +472,7 @@ players: 2
 rating: 70%
 x-id: 4087
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Contra Advance - The Alien Wars EX (USA).png
+assets.boxfront: ./media/box2dfront/Contra Advance - The Alien Wars EX (USA).png
 assets.video: ./media/videos/Contra Advance - The Alien Wars EX (USA).mp4
 
 
@@ -496,7 +493,7 @@ players: 1
 rating: 55%
 x-id: 4095
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Daredevil (USA, Europe).png
+assets.boxfront: ./media/box2dfront/Daredevil (USA, Europe).png
 assets.video: ./media/videos/Daredevil (USA, Europe).mp4
 
 
@@ -504,11 +501,22 @@ game: Yu-Gi-Oh! - Destiny Board Traveler + Yu-Gi-Oh! - D
 file: ./Yu-Gi-Oh! Double Pack 2 (USA) (En,Fr,De,Es,It).zip
 publisher: Konami
 genre: Sammlung
+description:
+  Choose from two classic Yu-Gi-Oh! adventures
+  .
+  Destiny Board Travelers\n
+  An exciting fusion of board games, dice and "Yu-Gi-Oh! Duel Monsters"! It's a
+  new spin on board games!
+  .
+  Dungeon Dice Monsters\n
+  Duel against characters from the Yu-Gi-Oh! TV series using magical dice,
+  powerful traps and fierce monsters. Create dungeons, defeat your opponents and
+  become the ultimate dice duelist!
 release: 2006-01-01
 players: 1
 x-id: 84989
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Yu-Gi-Oh! Double Pack 2 (USA) (En,Fr,De,Es,It).png
+assets.boxfront: ./media/box2dfront/Yu-Gi-Oh! Double Pack 2 (USA) (En,Fr,De,Es,It).png
 assets.video: ./media/videos/Yu-Gi-Oh! Double Pack 2 (USA) (En,Fr,De,Es,It).mp4
 
 
@@ -530,7 +538,7 @@ players: 2
 rating: 65%
 x-id: 3810
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Yu-Gi-Oh! - World Championship Tournament 2004 (USA) (En,Ja,Fr,De,Es,It).png
+assets.boxfront: ./media/box2dfront/Yu-Gi-Oh! - World Championship Tournament 2004 (USA) (En,Ja,Fr,De,Es,It).png
 assets.video: ./media/videos/Yu-Gi-Oh! - World Championship Tournament 2004 (USA) (En,Ja,Fr,De,Es,It).mp4
 
 
@@ -548,7 +556,7 @@ players: 2
 rating: 70%
 x-id: 85003
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Yu-Gi-Oh! - 7 Trials to Glory - World Championship Tournament 2005 (USA) (En,Ja,Fr,De,Es,It).png
+assets.boxfront: ./media/box2dfront/Yu-Gi-Oh! - 7 Trials to Glory - World Championship Tournament 2005 (USA) (En,Ja,Fr,De,Es,It).png
 assets.video: ./media/videos/Yu-Gi-Oh! - 7 Trials to Glory - World Championship Tournament 2005 (USA) (En,Ja,Fr,De,Es,It).mp4
 
 
@@ -575,18 +583,23 @@ players: 4
 rating: 35%
 x-id: 3900
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Yu-Gi-Oh! - Destiny Board Traveler (USA).png
+assets.boxfront: ./media/box2dfront/Yu-Gi-Oh! - Destiny Board Traveler (USA).png
 assets.video: ./media/videos/Yu-Gi-Oh! - Destiny Board Traveler (USA).mp4
 
 
 game: Yu-Gi-Oh! Double Pack
 file: ./Yu-Gi-Oh! Double Pack (USA).zip
 publisher: Konami
+genre: Sammlung
+description:
+  This double pack is a compilation of two Yu-Gi-Oh! games, previously released
+  individually for the GBA: Yu-Gi-Oh!: The Sacred Cards Yu-Gi-Oh!: Reshef of
+  Destruction
 release: 2006-01-01
 players: 1
 x-id: 84988
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Yu-Gi-Oh! Double Pack (USA).png
+assets.boxfront: ./media/box2dfront/Yu-Gi-Oh! Double Pack (USA).png
 assets.video: ./media/videos/Yu-Gi-Oh! Double Pack (USA).mp4
 
 
@@ -596,16 +609,16 @@ developer: Konami
 publisher: Konami
 genre: Puzzle-Strategie
 description:
-  In Dungeon Dice Monsters, a new strategic board game, duel against characters
-  from the Yu-Gi-Oh! TV series using magical dice, powerful traps and fierce
-  monsters. Create dungeons, defeat your opponents and become the ultimate dice
-  duelist!
+  In Dungeon Dice Monsters, einem neuen strategischen Brettspiel, duellieren Sie
+  sich mit Charakteren aus dem Yu-Gi-Oh! Fernsehserie mit magischen Würfeln,
+  mächtigen Fallen und wilden Monstern. Erstelle Dungeons, besiege deine Gegner
+  und werde zum ultimativen Würfelduellanten!
 release: 2003-02-12
 players: 2
 rating: 65%
 x-id: 3828
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Yu-Gi-Oh! - Dungeon Dice Monsters (USA) (En,Es).png
+assets.boxfront: ./media/box2dfront/Yu-Gi-Oh! - Dungeon Dice Monsters (USA) (En,Es).png
 assets.video: ./media/videos/Yu-Gi-Oh! - Dungeon Dice Monsters (USA) (En,Es).mp4
 
 
@@ -627,7 +640,7 @@ players: 1
 rating: 80%
 x-id: 3808
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Yu-Gi-Oh! GX - Duel Academy (USA).png
+assets.boxfront: ./media/box2dfront/Yu-Gi-Oh! GX - Duel Academy (USA).png
 assets.video: ./media/videos/Yu-Gi-Oh! GX - Duel Academy (USA).mp4
 
 
@@ -648,7 +661,7 @@ players: 2
 rating: 60%
 x-id: 85013
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Yu-Gi-Oh! - Reshef of Destruction (USA).png
+assets.boxfront: ./media/box2dfront/Yu-Gi-Oh! - Reshef of Destruction (USA).png
 assets.video: ./media/videos/Yu-Gi-Oh! - Reshef of Destruction (USA).mp4
 
 
@@ -668,7 +681,7 @@ players: 2
 rating: 70%
 x-id: 85016
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Yu-Gi-Oh! - The Eternal Duelist Soul (USA).png
+assets.boxfront: ./media/box2dfront/Yu-Gi-Oh! - The Eternal Duelist Soul (USA).png
 assets.video: ./media/videos/Yu-Gi-Oh! - The Eternal Duelist Soul (USA).mp4
 
 
@@ -689,7 +702,7 @@ players: 1
 rating: 65%
 x-id: 85018
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Yu-Gi-Oh! - The Sacred Cards (USA).png
+assets.boxfront: ./media/box2dfront/Yu-Gi-Oh! - The Sacred Cards (USA).png
 assets.video: ./media/videos/Yu-Gi-Oh! - The Sacred Cards (USA).mp4
 
 
@@ -709,7 +722,7 @@ players: 2
 rating: 85%
 x-id: 85024
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Yu-Gi-Oh! - Ultimate Masters - World Championship Tournament 2006 (USA) (En,Ja,Fr,De,Es,It).png
+assets.boxfront: ./media/box2dfront/Yu-Gi-Oh! - Ultimate Masters - World Championship Tournament 2006 (USA) (En,Ja,Fr,De,Es,It).png
 assets.video: ./media/videos/Yu-Gi-Oh! - Ultimate Masters - World Championship Tournament 2006 (USA) (En,Ja,Fr,De,Es,It).mp4
 
 
@@ -731,6 +744,5 @@ players: 2
 rating: 70%
 x-id: 85027
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Yu-Gi-Oh! - Worldwide Edition - Stairway to the Destined Duel (USA) (En,Ja,Fr,De,Es,It).png
+assets.boxfront: ./media/box2dfront/Yu-Gi-Oh! - Worldwide Edition - Stairway to the Destined Duel (USA) (En,Ja,Fr,De,Es,It).png
 assets.video: ./media/videos/Yu-Gi-Oh! - Worldwide Edition - Stairway to the Destined Duel (USA) (En,Ja,Fr,De,Es,It).mp4
-
