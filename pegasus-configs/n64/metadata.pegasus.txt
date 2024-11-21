@@ -1,19 +1,18 @@
 collection: Nintendo 64
 shortname: n64
-extensions: bin, n64, u1, v64, z64
+extensions: bin, n64, u1, v64, z64, zip,
 launch: am start --user 0
   -n com.retroarch/.browser.retroactivity.RetroActivityFuture
   -e ROM {file.path}
-  -e LIBRETRO /data/data/com.retroarch/cores/mupen64plus_next_gles2_libretro_android.so
+  -e LIBRETRO /data/data/com.retroarch/cores/mupen64plus_next_libretro.so
   -e CONFIGFILE /storage/emulated/0/Android/data/com.retroarch/files/retroarch.cfg
   -e QUITFOCUS
   --activity-clear-top
   --activity-clear-task
   --activity-no-history
-game: Army Men : Air Combat
 file: ./Army Men - Air Combat (USA).zip
-developer: 3DO
-publisher: 3DO
+developer: The 3DO Company
+publisher: The 3DO Company
 genre: Strategie-Shoot'em Up-Shooter / Flugzeug-Shooter
 description:
   William Blade, Kapitän und Spielzeugpilot mehrerer Plastikhubschrauber, der mit
@@ -23,19 +22,19 @@ description:
   Kämpfe stehen Ihnen vier Helikoptertypen (Chinook, Apache, Huey und Super
   Hengst) zur Verfügung, um Gegner wie Spielzeugroboter, elektrische Züge,
   Killerbienen und Libellen zu bekämpfen.
-release: 2000-07-14
+release: 2000-07-18
 players: 4
 rating: 50%
 x-id: 5621
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Army Men - Air Combat (USA).png
+assets.boxfront: ./media/box2dfront/Army Men - Air Combat (USA).png
 assets.video: ./media/videos/Army Men - Air Combat (USA).mp4
 
 
 game: Army Men : Sarge's Heroes 2
 file: ./Army Men - Sarge's Heroes 2 (USA).zip
-developer: 3DO
-publisher: 3DO
+developer: The 3DO Company
+publisher: The 3DO Company
 genre: Shoot'em Up-Shooter / Run and Gun-Shooter
 description:
   Sarge's Heroes 2 fängt dort an, wo Sarge's Heroes aufgehört hat. Es wird
@@ -51,14 +50,14 @@ players: 4
 rating: 80%
 x-id: 5554
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Army Men - Sarge's Heroes 2 (USA).png
+assets.boxfront: ./media/box2dfront/Army Men - Sarge's Heroes 2 (USA).png
 assets.video: ./media/videos/Army Men - Sarge's Heroes 2 (USA).mp4
 
 
 game: Army Men : Sarge's Heroes
 file: ./Army Men - Sarge's Heroes (USA).zip
-developer: 3DO
-publisher: 3DO
+developer: The 3DO Company
+publisher: The 3DO Company
 genre: Shoot'em Up-Shooter / Run and Gun-Shooter
 description:
   In Army Men: Sarge's Heroes spielen Sie als Sarge, der Protagonist aus vielen
@@ -75,7 +74,7 @@ players: 4
 rating: 60%
 x-id: 5538
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Army Men - Sarge's Heroes (USA).png
+assets.boxfront: ./media/box2dfront/Army Men - Sarge's Heroes (USA).png
 assets.video: ./media/videos/Army Men - Sarge's Heroes (USA).mp4
 
 
@@ -83,7 +82,7 @@ game: Banjo-Kazooie
 file: ./Banjo-Kazooie (USA) (Rev A).zip
 developer: Rareware
 publisher: Nintendo
-genre: Action-Action / Abenteuer-Plattform
+genre: Plattform
 description:
   Die Hexe Gruntilda entführt Banjos kleine Schwester Tooty, um deren Schönheit
   auf sich selbst zu übertragen. Banjo und Kazooie erfahren von dem Maulwurf
@@ -100,7 +99,7 @@ players: 1
 rating: 95%
 x-id: 5405
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Banjo-Kazooie (USA) (Rev A).png
+assets.boxfront: ./media/box2dfront/Banjo-Kazooie (USA) (Rev A).png
 assets.video: ./media/videos/Banjo-Kazooie (USA) (Rev A).mp4
 
 
@@ -108,7 +107,7 @@ game: Batman Beyond : Return of the Joker
 file: ./Batman Beyond - Return of the Joker (USA).zip
 developer: Kemco
 publisher: Ubisoft
-genre: Action-Kampf-Beat'em Up
+genre: Beat'em Up
 description:
   Der Joker und seine ganze Gang zu schlagen ist Bruce Waynes neue Aufgabe in
   Batman of the Future: Return of the Joker on Nintendo 64. Durch den Nahkampf und
@@ -119,7 +118,7 @@ players: 1
 rating: 50%
 x-id: 71667
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Batman Beyond - Return of the Joker (USA).png
+assets.boxfront: ./media/box2dfront/Batman Beyond - Return of the Joker (USA).png
 assets.video: ./media/videos/Batman Beyond - Return of the Joker (USA).mp4
 
 
@@ -127,7 +126,7 @@ game: Blues Brothers 2000
 file: ./Blues Brothers 2000 (USA).zip
 developer: Player 1
 publisher: Titus
-genre: Action-Plattform-Musik und Tanz
+genre: Plattform
 description:
   Blues Brothers 2000 ist ein Actionspiel auf Nintendo 64. Du spielst Elwood
   Blues, bist kürzlich aus dem Gefängnis geflohen und willst nur eines: seine Band
@@ -139,7 +138,7 @@ players: 2
 rating: 30%
 x-id: 5601
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Blues Brothers 2000 (USA).png
+assets.boxfront: ./media/box2dfront/Blues Brothers 2000 (USA).png
 assets.video: ./media/videos/Blues Brothers 2000 (USA).mp4
 
 
@@ -147,7 +146,7 @@ game: Castlevania : Legacy of Darkness
 file: ./Castlevania - Legacy of Darkness (USA).zip
 developer: Konami
 publisher: Konami
-genre: Action-Action / Abenteuer-Plattform
+genre: Action-Action / Abenteuer
 description:
   Im Jahr 1844 spielt das Spiel den männlichen Bestien Cornell in seinem
   Bestreben, seine Adoptivschwester Ada davon abzuhalten, als Opfer für die
@@ -165,7 +164,7 @@ players: 1
 rating: 80%
 x-id: 5428
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Castlevania - Legacy of Darkness (USA).png
+assets.boxfront: ./media/box2dfront/Castlevania - Legacy of Darkness (USA).png
 assets.video: ./media/videos/Castlevania - Legacy of Darkness (USA).mp4
 
 
@@ -173,7 +172,7 @@ game: Castlevania
 file: ./Castlevania (USA) (Rev B).zip
 developer: Konami
 publisher: Konami
-genre: Abenteuer-Action-Action / Abenteuer-Plattform
+genre: Plattform
 description:
   Konamis lang laufende Serie von Castlevania-Spielen feiert ihr Debüt auf der
   N64. Die traditionelle 2D-Grafik wurde zurückgelassen; dies ist das erste
@@ -194,7 +193,7 @@ players: 1
 rating: 60%
 x-id: 5414
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Castlevania (USA) (Rev B).png
+assets.boxfront: ./media/box2dfront/Castlevania (USA) (Rev B).png
 assets.video: ./media/videos/Castlevania (USA) (Rev B).mp4
 
 
@@ -202,7 +201,6 @@ game: Conker's Bad Fur Day
 file: ./Conker's Bad Fur Day (USA).zip
 developer: Rareware
 publisher: Rareware
-genre: Action-Plattform
 description:
   Im Gegensatz zu allen anderen Nintendo-Spielen, die jemals gemacht wurden,
   erlebt Conker seinen ersten Ausflug auf der N64 mit einem reifen Publikum im
@@ -225,7 +223,7 @@ players: 4
 rating: 80%
 x-id: 5402
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Conker's Bad Fur Day (USA).png
+assets.boxfront: ./media/box2dfront/Conker's Bad Fur Day (USA).png
 assets.video: ./media/videos/Conker's Bad Fur Day (USA).mp4
 
 
@@ -233,7 +231,7 @@ game: Diddy Kong Racing
 file: ./Diddy Kong Racing (USA) (En,Fr) (Rev A).zip
 developer: Rareware
 publisher: Rareware
-genre: Action-Rennen, Fahren-Abenteuer
+genre: Rennen, Fahren
 description:
   Das böse Zauberschwein Wizpig ist auf der Insel von Taj eingefallen und hat
   diese mit einem Fluch belegt. Da Tajs magische Kräfte nicht ausreichen, um das
@@ -246,13 +244,13 @@ players: 4
 rating: 75%
 x-id: 5409
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Diddy Kong Racing (USA) (En,Fr) (Rev A).png
+assets.boxfront: ./media/box2dfront/Diddy Kong Racing (USA) (En,Fr) (Rev A).png
 assets.video: ./media/videos/Diddy Kong Racing (USA) (En,Fr) (Rev A).mp4
 
 
 game: Donald Duck : Goin' Qu@ckers*!
 file: ./Donald Duck - Goin' Quackers (USA).zip
-developer: Disney Interactive
+developer: Ubisoft
 publisher: Ubisoft
 genre: Plattform-Abenteuer
 description:
@@ -265,7 +263,7 @@ players: 1
 rating: 90%
 x-id: 5499
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Donald Duck - Goin' Quackers (USA).png
+assets.boxfront: ./media/box2dfront/Donald Duck - Goin' Quackers (USA).png
 assets.video: ./media/videos/Donald Duck - Goin' Quackers (USA).mp4
 
 
@@ -285,15 +283,15 @@ players: 4
 rating: 80%
 x-id: 5472
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Excitebike 64 (USA).png
+assets.boxfront: ./media/box2dfront/Excitebike 64 (USA).png
 assets.video: ./media/videos/Excitebike 64 (USA).mp4
 
 
 game: Fighter Destiny 2
 file: ./Fighter Destiny 2 (USA).zip
-developer: Imagineer
+developer: Genki
 publisher: Southpeak Interactive
-genre: Kampf
+genre: Kampf-Kampf / 3D-Kampf / Versus
 description:
   Fighter Destiny 2 on Nintendo 64 ist ein Kampfspiel, in dem du deinen eigenen
   Kämpfer erschaffen kannst und ihn durch Duelle gegen viele Gegner dazu bringen
@@ -304,15 +302,15 @@ players: 2
 rating: 40%
 x-id: 5615
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Fighter Destiny 2 (USA).png
+assets.boxfront: ./media/box2dfront/Fighter Destiny 2 (USA).png
 assets.video: ./media/videos/Fighter Destiny 2 (USA).mp4
 
 
 game: Fighters Destiny
 file: ./Fighters Destiny (USA).zip
-developer: Opus
+developer: Opus Software
 publisher: Ocean
-genre: Kampf-Action
+genre: Kampf-Kampf / Versus
 description:
   Fighters Destiny ist ein Kampfspiel auf Nintendo 64. Das Duell findet in
   vollständig modellierten dreidimensionalen Kampfarenen statt. Konfrontationen
@@ -323,7 +321,7 @@ players: 2
 rating: 55%
 x-id: 5565
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Fighters Destiny (USA).png
+assets.boxfront: ./media/box2dfront/Fighters Destiny (USA).png
 assets.video: ./media/videos/Fighters Destiny (USA).mp4
 
 
@@ -344,7 +342,7 @@ players: 4
 rating: 80%
 x-id: 5418
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/F-Zero X (USA).png
+assets.boxfront: ./media/box2dfront/F-Zero X (USA).png
 assets.video: ./media/videos/F-Zero X (USA).mp4
 
 
@@ -368,15 +366,15 @@ players: 1
 rating: 65%
 x-id: 5483
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Hercules - The Legendary Journeys (USA).png
+assets.boxfront: ./media/box2dfront/Hercules - The Legendary Journeys (USA).png
 assets.video: ./media/videos/Hercules - The Legendary Journeys (USA).mp4
 
 
 game: Hexen
 file: ./Hexen (USA).zip
-developer: Raven Software
-publisher: GT Interactive
-genre: Shooter-Shooter / 1st Pers.
+developer: Software Creations
+publisher: GT Interactive Software
+genre: Shooter-Shooter / 1. Pers.
 description:
   Während Sie noch die Mächte von D'Sparil bekämpften, waren die anderen
   Schlangenreiter schon fleissig dabei, den Samen der Zerstörung in anderen
@@ -390,7 +388,7 @@ players: 4
 rating: 90%
 x-id: 5498
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Hexen (USA).png
+assets.boxfront: ./media/box2dfront/Hexen (USA).png
 assets.video: ./media/videos/Hexen (USA).mp4
 
 
@@ -413,7 +411,7 @@ players: 4
 rating: 80%
 x-id: 5401
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Mario Kart 64 (USA).png
+assets.boxfront: ./media/box2dfront/Mario Kart 64 (USA).png
 assets.video: ./media/videos/Mario Kart 64 (USA).mp4
 
 
@@ -421,7 +419,7 @@ game: Mario Party 2
 file: ./Mario Party 2 (USA).zip
 developer: Hudson
 publisher: Nintendo
-genre: Action-Brettspiele
+genre: Brettspiele
 description:
   Vor einiger Zeit an einem naheliegenden Ort, erschufen Mario und seine Freunde
   eine neue Welt mit dem Namen "Mario Land". Doch nicht jeder war mit dem Namen
@@ -443,7 +441,7 @@ players: 4
 rating: 80%
 x-id: 5429
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Mario Party 2 (USA).png
+assets.boxfront: ./media/box2dfront/Mario Party 2 (USA).png
 assets.video: ./media/videos/Mario Party 2 (USA).mp4
 
 
@@ -451,7 +449,7 @@ game: Mario Party 3
 file: ./Mario Party 3 (USA).zip
 developer: Hudson
 publisher: Nintendo
-genre: Gelegenheitsspiel-Action-Brettspiele
+genre: Gelegenheitsspiel-Brettspiele
 description:
   Ein besonderer Stern wurde geboren, was nur alle 1000 Jahre passiert... Dabei
   handelt es sich um den Millennium Stern, welcher gleich nach seiner Geburt vom
@@ -465,7 +463,7 @@ players: 4
 rating: 75%
 x-id: 5432
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Mario Party 3 (USA).png
+assets.boxfront: ./media/box2dfront/Mario Party 3 (USA).png
 assets.video: ./media/videos/Mario Party 3 (USA).mp4
 
 
@@ -473,7 +471,7 @@ game: Mario Party
 file: ./Mario Party (USA).zip
 developer: Hudson
 publisher: Nintendo
-genre: Action-Strategie-Brettspiele
+genre: Strategie-Brettspiele
 description:
   Mario, Luigi, Peach, Yoshi, Donkey Kong und Wario streiten sich darum, wer von
   ihnen der Superstar ist. Da sagt Toad: "Warum veranstalten wir nicht eine Party,
@@ -486,7 +484,7 @@ players: 4
 rating: 75%
 x-id: 5399
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Mario Party (USA).png
+assets.boxfront: ./media/box2dfront/Mario Party (USA).png
 assets.video: ./media/videos/Mario Party (USA).mp4
 
 
@@ -494,7 +492,7 @@ game: Monopoly
 file: ./Monopoly (USA).zip
 developer: Minds Eye
 publisher: Hasbro Interactive
-genre: Verschiedene-Strategie-Brettspiele
+genre: Brettspiele
 description:
   Diesmal ein Monopoly-Spiel auf Ihrem Computer, so gut es sich in Ihrer Realität
   vorstellt. Jede Ihrer Bewegungen kann in 3D-Animation erfolgen oder
@@ -507,7 +505,7 @@ players: 4
 rating: 70%
 x-id: 5630
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Monopoly (USA).png
+assets.boxfront: ./media/box2dfront/Monopoly (USA).png
 assets.video: ./media/videos/Monopoly (USA).mp4
 
 
@@ -534,7 +532,7 @@ players: 1
 rating: 80%
 x-id: 5400
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Paper Mario (USA).png
+assets.boxfront: ./media/box2dfront/Paper Mario (USA).png
 assets.video: ./media/videos/Paper Mario (USA).mp4
 
 
@@ -559,7 +557,7 @@ players: 4
 rating: 75%
 x-id: 5408
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Pokemon Stadium 2 (USA).png
+assets.boxfront: ./media/box2dfront/Pokemon Stadium 2 (USA).png
 assets.video: ./media/videos/Pokemon Stadium 2 (USA).mp4
 
 
@@ -583,7 +581,7 @@ players: 4
 rating: 75%
 x-id: 5407
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Pokemon Stadium (USA).png
+assets.boxfront: ./media/box2dfront/Pokemon Stadium (USA).png
 assets.video: ./media/videos/Pokemon Stadium (USA).mp4
 
 
@@ -591,7 +589,7 @@ game: Shadow Man
 file: ./Shadow Man (USA).zip
 developer: Acclaim
 publisher: Acclaim
-genre: Kampf-Action / Abenteuer-Action
+genre: Action / Abenteuer-Action
 description:
   Durch den kaltblütigen Mord an seinem kleinen Bruder Luke ist Professor Mike
   LeRoi zu einem gewissenlosen Rächer geworden. Auf der verzweifelten Suche nach
@@ -606,7 +604,7 @@ players: 1
 rating: 75%
 x-id: 5421
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Shadow Man (USA).png
+assets.boxfront: ./media/box2dfront/Shadow Man (USA).png
 assets.video: ./media/videos/Shadow Man (USA).mp4
 
 
@@ -614,7 +612,7 @@ game: Star Fox 64
 file: ./Starfox 64 1.1 (U).zip
 developer: Nintendo
 publisher: Nintendo
-genre: Shoot'em Up-Action
+genre: Shoot'em Up
 description:
   Der böse Wissenschaftler Andross war einst durch General Pepper für seine
   Missetaten auf den verlassenen Planeten Venom verbannt worden, doch eines Tages
@@ -633,7 +631,7 @@ players: 4
 rating: 80%
 x-id: 5416
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Starfox 64 1.1 (U).png
+assets.boxfront: ./media/box2dfront/Starfox 64 1.1 (U).png
 assets.video: ./media/videos/Starfox 64 1.1 (U).mp4
 
 
@@ -654,7 +652,7 @@ players: 1
 rating: 90%
 x-id: 5413
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Star Wars - Rogue Squadron (USA).png
+assets.boxfront: ./media/box2dfront/Star Wars - Rogue Squadron (USA).png
 assets.video: ./media/videos/Star Wars - Rogue Squadron (USA).mp4
 
 
@@ -662,7 +660,7 @@ game: Star Wars : Shadows of the Empire
 file: ./Star Wars - Shadows of the Empire (USA).zip
 developer: LucasArts
 publisher: Nintendo
-genre: Shooter / 3rd Pers.-Shooter
+genre: Shooter / 3. Pers.-Shooter
 description:
   Noch während sich Luke Skywalker und die Rebellen mit Darth Vader und dem
   Imperium erbitterte Gefechte liefern, droht aus den Tiefen des Alls neue Gefahr.
@@ -679,7 +677,7 @@ players: 1
 rating: 80%
 x-id: 5419
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Star Wars - Shadows of the Empire (USA).png
+assets.boxfront: ./media/box2dfront/Star Wars - Shadows of the Empire (USA).png
 assets.video: ./media/videos/Star Wars - Shadows of the Empire (USA).mp4
 
 
@@ -707,7 +705,7 @@ players: 2
 rating: 85%
 x-id: 5412
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Star Wars Episode I - Racer (USA).png
+assets.boxfront: ./media/box2dfront/Star Wars Episode I - Racer (USA).png
 assets.video: ./media/videos/Star Wars Episode I - Racer (USA).mp4
 
 
@@ -730,7 +728,7 @@ players: 1
 rating: 90%
 x-id: 5396
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Super Mario 64 (Europe) (En,Fr,De).png
+assets.boxfront: ./media/box2dfront/Super Mario 64 (Europe) (En,Fr,De).png
 assets.video: ./media/videos/Super Mario 64 (Europe) (En,Fr,De).mp4
 
 
@@ -753,7 +751,7 @@ players: 4
 rating: 80%
 x-id: 5398
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Super Smash Bros. (USA).png
+assets.boxfront: ./media/box2dfront/Super Smash Bros. (USA).png
 assets.video: ./media/videos/Super Smash Bros. (USA).mp4
 
 
@@ -778,7 +776,7 @@ players: 4
 rating: 15%
 x-id: 5427
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Superman - The New Superman Aventures (USA).png
+assets.boxfront: ./media/box2dfront/Superman - The New Superman Aventures (USA).png
 assets.video: ./media/videos/Superman - The New Superman Aventures (USA).mp4
 
 
@@ -800,7 +798,7 @@ players: 1
 rating: 95%
 x-id: 5394
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Legend of Zelda, The - Majora's Mask (USA).png
+assets.boxfront: ./media/box2dfront/Legend of Zelda, The - Majora's Mask (USA).png
 assets.video: ./media/videos/Legend of Zelda, The - Majora's Mask (USA).mp4
 
 
@@ -808,7 +806,7 @@ game: The Legend of Zelda : Ocarina of Time Master Quest
 file: ./Legend of Zelda, The - Ocarina of Time (USA).zip
 developer: Nintendo
 publisher: Nintendo
-genre: Abenteuer-Rollenspiele-Action / Abenteuer-Action
+genre: Rollenspiele
 description:
   The Legend of Zelda: Ocarina of Time Master Quest ist eine spezielle Version des
   Spieles, die nicht für das N64 veröffentlicht wurde. Sie war als kostenlose
@@ -821,7 +819,7 @@ players: 1
 rating: 90%
 x-id: 98597
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Legend of Zelda, The - Ocarina of Time (USA).png
+assets.boxfront: ./media/box2dfront/Legend of Zelda, The - Ocarina of Time (USA).png
 assets.video: ./media/videos/Legend of Zelda, The - Ocarina of Time (USA).mp4
 
 
@@ -845,7 +843,7 @@ players: 2
 rating: 75%
 x-id: 5445
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Tony Hawk's Pro Skater 2 (USA).png
+assets.boxfront: ./media/box2dfront/Tony Hawk's Pro Skater 2 (USA).png
 assets.video: ./media/videos/Tony Hawk's Pro Skater 2 (USA).mp4
 
 
@@ -870,7 +868,7 @@ players: 2
 rating: 55%
 x-id: 5474
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Tony Hawk's Pro Skater 3 (USA).png
+assets.boxfront: ./media/box2dfront/Tony Hawk's Pro Skater 3 (USA).png
 assets.video: ./media/videos/Tony Hawk's Pro Skater 3 (USA).mp4
 
 
@@ -878,7 +876,7 @@ game: Turok : Dinosaur Hunter
 file: ./Turok - Dinosaur Hunter (USA).zip
 developer: Iguana Entertainment
 publisher: Acclaim
-genre: Shoot'em Up-Shooter / 1st Pers.-Shooter
+genre: Shoot'em Up-Shooter / 1. Pers.-Shooter
 description:
   Im düsteren Urwald durchstreift der Jäger Turok halbzerfallene Ruinen und
   verlassene Tempel, um zu ergründen, welches Ereignis seine Welt in einen Vorhof
@@ -894,7 +892,7 @@ players: 1
 rating: 80%
 x-id: 5433
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Turok - Dinosaur Hunter (USA).png
+assets.boxfront: ./media/box2dfront/Turok - Dinosaur Hunter (USA).png
 assets.video: ./media/videos/Turok - Dinosaur Hunter (USA).mp4
 
 
@@ -902,7 +900,7 @@ game: Turok : Rage Wars
 file: ./Turok - Rage Wars (USA).zip
 developer: Acclaim
 publisher: Acclaim
-genre: Sport-Shooter / 1st Pers.-Shooter
+genre: Sport-Shooter / 1. Pers.-Shooter
 description:
   Seit Anbeginn der Zeit ist es Aufgabe der Turok, das stetige Gleichgewicht
   zwischen Gut und Böse, Ordnung und Chaos im Verlorenen Land zu garantieren. Sie
@@ -921,7 +919,7 @@ players: 4
 rating: 75%
 x-id: 5468
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Turok - Rage Wars (USA).png
+assets.boxfront: ./media/box2dfront/Turok - Rage Wars (USA).png
 assets.video: ./media/videos/Turok - Rage Wars (USA).mp4
 
 
@@ -929,7 +927,7 @@ game: Turok 2 : Seeds Of Evil
 file: ./Turok 2 - Seeds of Evil (USA).zip
 developer: Iguana Entertainment
 publisher: Acclaim
-genre: Shoot'em Up-Shooter / 1st Pers.-Shooter
+genre: Shoot'em Up-Shooter / 1. Pers.-Shooter
 description:
   Die Erde und das verlorene Land sind dem Untergang geweiht. Ein tödliches,
   außerirdisches Wesen ohne Gnade ist aus den Tiefen der Erde auferstanden.
@@ -943,7 +941,7 @@ players: 4
 rating: 80%
 x-id: 5435
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Turok 2 - Seeds of Evil (USA).png
+assets.boxfront: ./media/box2dfront/Turok 2 - Seeds of Evil (USA).png
 assets.video: ./media/videos/Turok 2 - Seeds of Evil (USA).mp4
 
 
@@ -951,7 +949,7 @@ game: Turok 3 : Shadow of Oblivion
 file: ./Turok 3 - Shadow of Oblivion (USA).zip
 developer: Acclaim
 publisher: Acclaim
-genre: Shoot'em Up-Shooter / 1st Pers.-Shooter
+genre: Shoot'em Up-Shooter / 1. Pers.-Shooter
 description:
   Lange bevor es die Welt von Turok 3 für N64, so wie wir sie kennen, gab,
   existierte das Oblivion, ein monströses, kosmisches Etwas, das alles Leben
@@ -967,7 +965,7 @@ players: 4
 rating: 65%
 x-id: 5434
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Turok 3 - Shadow of Oblivion (USA).png
+assets.boxfront: ./media/box2dfront/Turok 3 - Shadow of Oblivion (USA).png
 assets.video: ./media/videos/Turok 3 - Shadow of Oblivion (USA).mp4
 
 
@@ -992,6 +990,5 @@ players: 4
 rating: 80%
 x-id: 5518
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Xena - Warrior Princess - The Talisman of Fate (USA).png
+assets.boxfront: ./media/box2dfront/Xena - Warrior Princess - The Talisman of Fate (USA).png
 assets.video: ./media/videos/Xena - Warrior Princess - The Talisman of Fate (USA).mp4
-
