@@ -1,37 +1,15 @@
 collection: Super Nintendo Entertainment System
 shortname: snes
-extensions: bs, fig, sfc, smc, st, swc
+extensions: bs, fig, sfc, smc, st, swc,
 launch: am start --user 0
   -n com.retroarch/.browser.retroactivity.RetroActivityFuture
   -e ROM {file.path}
-  -e LIBRETRO /data/data/com.retroarch/cores/snes9x_libretro_android.so
+  -e LIBRETRO /data/data/com.retroarch/cores/snes9x_libretro.so
   -e CONFIGFILE /storage/emulated/0/Android/data/com.retroarch/files/retroarch.cfg
   -e QUITFOCUS
   --activity-clear-top
   --activity-clear-task
   --activity-no-history
-game: Aladdin
-file: ./Aladdin (Germany).sfc
-developer: Capcom
-publisher: Capcom
-genre: Plattform
-description:
-  Das Spiel zum Disney Film von 1992. Anders als bei Sega war hier Capcom für die
-  Entwicklung verantwortlich. Auch hier handelt es sich um einen 2D Plattformer,
-  in dem man diverse Schauplätze aus dem Film plus einige weitere, die nicht im
-  Film vorkommen, meistert. Aladdin setzt sich gegen die Wachen des Sultans und
-  weiteren magischen Kreaturen zur Wehr. Dies geschieht entweder durch einen
-  Sprung auf den Kopf oder durch das Werfen von Äpfeln. Sprünge können durch ein
-  Tuch wie mit einem Fallschirm vergrößert werden.
-release: 1994-01-27
-players: 1
-rating: 80%
-x-id: 2170
-x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Aladdin (Germany).png
-assets.video: ./media/videos/Aladdin (Germany).mp4
-
-
 game: Arkanoid : Doh It Again
 file: ./Arkanoid - Doh It Again (Europe).sfc
 developer: Taito
@@ -49,7 +27,7 @@ players: 2
 rating: 65%
 x-id: 2603
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Arkanoid - Doh It Again (Europe).png
+assets.boxfront: ./media/box2dfront/Arkanoid - Doh It Again (Europe).png
 assets.video: ./media/videos/Arkanoid - Doh It Again (Europe).mp4
 
 
@@ -67,19 +45,19 @@ description:
   Heimatkaff Highland und randalieren zu Heavy Metal Musik.
   .
   Das Spiel ist kurzweilig und Fans der Serie haben ihren Spaß.
-release: 1994-11-01
+release: 1995-09-01
 players: 2
 rating: 55%
 x-id: 2478
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Beavis and Butt-Head (USA).png
+assets.boxfront: ./media/box2dfront/Beavis and Butt-Head (USA).png
 assets.video: ./media/videos/Beavis and Butt-Head (USA).mp4
 
 
 game: Bishoujo Senshi Sailor Moon : Another Story
 file: ./Pretty Soldier Sailor Moon - Another Story (J) [T+Ger1.10_snes-projects.de].smc
 developer: Angel
-publisher: Bandai Namco
+publisher: Bandai
 genre: Rollenspiele
 description:
   Ein weiterer Ableger der beliebten Sailor Moon Reihe. Anders als in den anderen
@@ -93,12 +71,12 @@ description:
   Wie es das Genre so liefert, erhält man episch lange Handlungsstränge, erlebt
   rundenbasierte Zufallskämpfe und levelt die Sailor Kriegerinnen mit
   Trefferpunkten und stärkeren Waffen auf.
-release: 1995-09-20
+release: 1995-09-22
 players: 1
 rating: 85%
 x-id: 2404
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Pretty Soldier Sailor Moon - Another Story (J) [T+Ger1.10_snes-projects.de].png
+assets.boxfront: ./media/box2dfront/Pretty Soldier Sailor Moon - Another Story (J) [T+Ger1.10_snes-projects.de].png
 assets.video: ./media/videos/Pretty Soldier Sailor Moon - Another Story (J) [T+Ger1.10_snes-projects.de].mp4
 
 
@@ -122,10 +100,10 @@ description:
   Einwohner aus entfernten Gegenden in deinen eigenen Ort.
 release: 1996-04-25
 players: 1
-rating: 80%
+rating: 85%
 x-id: 2188
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Breath of Fire II (German).png
+assets.boxfront: ./media/box2dfront/Breath of Fire II (German).png
 assets.video: ./media/videos/Breath of Fire II (German).mp4
 
 
@@ -150,14 +128,14 @@ players: 1
 rating: 70%
 x-id: 2217
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Breath of Fire (German) [!].png
+assets.boxfront: ./media/box2dfront/Breath of Fire (German) [!].png
 assets.video: ./media/videos/Breath of Fire (German) [!].mp4
 
 
 game: Chrono Trigger
 file: ./Chrono Trigger (GER).smc
-developer: Square
-publisher: Square
+developer: Squaresoft
+publisher: Squaresoft
 genre: Rollenspiele
 description:
   Chrono Trigger ist ein Vertreter der Konsolen-Rollenspiele. Der Spieler steuert
@@ -173,18 +151,18 @@ description:
   Kämpfe ?aufgezwungen?.
 release: 1995-08-11
 players: 1
-rating: 90%
+rating: 95%
 x-id: 2143
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Chrono Trigger (GER).png
+assets.boxfront: ./media/box2dfront/Chrono Trigger (GER).png
 assets.video: ./media/videos/Chrono Trigger (GER).mp4
 
 
 game: Classic Kong
-file: ./DonkeyKongClassic (Shiru).smc
+file: ./DonkeyKongClassic (Shiru).sfc
 developer: Shiru
-publisher: BubbleZap Games
-genre: Action-Plattform / Jump'n'Run-Plattform
+publisher: Bubble Zap Games
+genre: Plattform / Jump'n'Run-Plattform
 description:
   Was macht mehr Spaß als ein Fass voller Affen? Ein Donkey Kong Doppelpack! In
   DONKEY KONG wirst du Fassbomben und brennende Feuerbälle aus dem Weg gehen,
@@ -198,12 +176,12 @@ players: 2
 rating: 70%
 x-id: 97397
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/DonkeyKongClassic (Shiru).png
+assets.boxfront: ./media/box2dfront/DonkeyKongClassic (Shiru).png
 assets.video: ./media/videos/DonkeyKongClassic (Shiru).mp4
 
 
 game: Contra III : The Alien Wars
-file: ./Contra III - The Alien Wars (USA).smc
+file: ./Contra III - The Alien Wars (USA).sfc
 developer: Konami
 publisher: Konami
 genre: Shooter / Run and Gun-Shooter-Shoot'em Up / Horizontal-Shoot'em Up
@@ -222,8 +200,30 @@ players: 2
 rating: 80%
 x-id: 19017
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Contra III - The Alien Wars (USA).png
+assets.boxfront: ./media/box2dfront/Contra III - The Alien Wars (USA).png
 assets.video: ./media/videos/Contra III - The Alien Wars (USA).mp4
+
+
+game: Disney's Aladdin
+file: ./Aladdin (Germany).sfc
+developer: Capcom
+publisher: Capcom
+genre: Plattform
+description:
+  Das Spiel zum Disney Film von 1992. Anders als bei Sega war hier Capcom für die
+  Entwicklung verantwortlich. Auch hier handelt es sich um einen 2D Plattformer,
+  in dem man diverse Schauplätze aus dem Film plus einige weitere, die nicht im
+  Film vorkommen, meistert. Aladdin setzt sich gegen die Wachen des Sultans und
+  weiteren magischen Kreaturen zur Wehr. Dies geschieht entweder durch einen
+  Sprung auf den Kopf oder durch das Werfen von Äpfeln. Sprünge können durch ein
+  Tuch wie mit einem Fallschirm vergrößert werden.
+release: 1994-01-27
+players: 1
+rating: 80%
+x-id: 2170
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box2dfront/Aladdin (Germany).png
+assets.video: ./media/videos/Aladdin (Germany).mp4
 
 
 game: Donkey Kong Country 2 : Diddy's Kong Quest
@@ -246,10 +246,9 @@ description:
   werden sie von Cranky Kong, Funky Kong und Wrinkly Kong unterstützt.
 release: 1995-11-14
 players: 2
-rating: 95%
 x-id: 2169
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Donkey Kong Country 2 - Diddy's Kong Quest (Germany) (En,De).png
+assets.boxfront: ./media/box2dfront/Donkey Kong Country 2 - Diddy's Kong Quest (Germany) (En,De).png
 assets.video: ./media/videos/Donkey Kong Country 2 - Diddy's Kong Quest (Germany) (En,De).mp4
 
 
@@ -272,7 +271,7 @@ players: 2
 rating: 90%
 x-id: 2181
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Donkey Kong Country 3 - Dixie Kong's Double Trouble! (Europe) (En,Fr,De).png
+assets.boxfront: ./media/box2dfront/Donkey Kong Country 3 - Dixie Kong's Double Trouble! (Europe) (En,Fr,De).png
 assets.video: ./media/videos/Donkey Kong Country 3 - Dixie Kong's Double Trouble! (Europe) (En,Fr,De).mp4
 
 
@@ -280,7 +279,7 @@ game: Donkey Kong Country
 file: ./Donkey Kong Country (Europe) (En,Fr,De).sfc
 developer: Rareware
 publisher: Nintendo
-genre: Action-Plattform / Jump'n'Run-Plattform
+genre: Plattform / Jump'n'Run-Plattform
 description:
   König K. Rool hat Donkey Kongs Bananenvorrat gestohlen und jetzt braucht er
   deine Hilfe, um sie zurückzuholen!
@@ -289,12 +288,12 @@ description:
   K. Rools Gefolgsleute, in den Weg. Zum Glück begleitet Donkey Kongs bester
   Freund, Diddy Kong ihn auf seiner Reise um die ganze Donkey Kong Insel, denn die
   Bananen werden von bösen Bossen bewacht!
-release: 1994-11-24
+release: 1994-11-18
 players: 2
 rating: 80%
 x-id: 2149
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Donkey Kong Country (Europe) (En,Fr,De).png
+assets.boxfront: ./media/box2dfront/Donkey Kong Country (Europe) (En,Fr,De).png
 assets.video: ./media/videos/Donkey Kong Country (Europe) (En,Fr,De).mp4
 
 
@@ -318,7 +317,7 @@ players: 2
 rating: 65%
 x-id: 2365
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Double Dragon V - The Shadow Falls (USA).png
+assets.boxfront: ./media/box2dfront/Double Dragon V - The Shadow Falls (USA).png
 assets.video: ./media/videos/Double Dragon V - The Shadow Falls (USA).mp4
 
 
@@ -340,44 +339,15 @@ players: 3
 rating: 65%
 x-id: 2333
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Dragon - The Bruce Lee Story (USA).png
+assets.boxfront: ./media/box2dfront/Dragon - The Bruce Lee Story (USA).png
 assets.video: ./media/videos/Dragon - The Bruce Lee Story (USA).mp4
 
 
-game: Dragon Ball Z : Super Saiya Densetsu
-file: ./Dragon Ball Z - Super Saiya Densetsu .smc
-developer: Bandai Namco
-publisher: Bandai Namco
-genre: Rollenspiele
-description:
-  Cho Saiya Densetsu basiert auf der beliebten Manga/Animé-Serie Dragon Ball. Es
-  folgt den Ereignissen, die am Anfang von Dragon Ball Z beschrieben werden, dem
-  zweiten Storyblock, der von der Verbindung des Helden Son Goku mit einer
-  mächtigen Alienrasse und neuen mächtigen Gegnern von weit entfernten Planeten
-  erzählt. Das Spiel beginnt genau dort, wo die Geschichte von Dragon Ball
-  beginnt. Son Goku geht zu seinen Freunden, wird aber von einem mysteriösen
-  Fremden namens Raditz aufgehalten, der Son Goku erzählt, dass sie verwandt sind.
-  Raditz verlangt von ihm, die Menschheit zu vernichten, und als Son Goku sich
-  weigert, nimmt er seinen Sohn Son Gohan als Geisel. Um seinen Sohn zu retten,
-  verbündet sich Son Goku mit seinem Erzrivalen, dem Dämonenkönig Piccolo, der
-  offensichtlich seine eigenen Pläne bezüglich Raditz hat. Und so beginnt die
-  Geschichte, in der Son Goku seine wahre Herkunft erfahren wird...
-  .
-  Das Spiel ist ein RPG, ähnlich wie die kartenbasierten Dragon Ball Z RPGs für
-  das NES. Während der Kämpfe wählst du Karten aus deinem Karteninventar, die die
-  Art und Stärke der Angriffe deiner Charaktere bestimmen. Du kannst deine
-  Charaktere auch in Trainingshäusern trainieren und ihre speziellen Ki-Kräfte
-  verbessern. Im Gegensatz zu frühen DBZ-Rollenspielen kannst du dich in Cho Saiya
-  Densetsu frei bewegen und deine Bewegungen werden nicht durch Karten bestimmt.
-  Sie können auch um die Welt fliegen und Ihr spezielles Drachen-Radar verwenden,
-  um den Standort der magischen Dragon Balls zu entdecken.
-release: 1992-01-25
+game: Dragonball Z - Die Legende der Supersayajins
+file: ./Dragonball Z - Die Legende der Supersayajins.smc
 players: 1
-rating: 50%
-x-id: 2272
+x-id: 0
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Dragon Ball Z - Super Saiya Densetsu .png
-assets.video: ./media/videos/Dragon Ball Z - Super Saiya Densetsu .mp4
 
 
 game: Final Fantasy III
@@ -429,10 +399,10 @@ description:
   mehr verwüstet und unfruchtbar macht.
 release: 1994-10-11
 players: 2
-rating: 80%
+rating: 95%
 x-id: 2146
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Final Fantasy 3 (V1.1) (German) [!].png
+assets.boxfront: ./media/box2dfront/Final Fantasy 3 (V1.1) (German) [!].png
 assets.video: ./media/videos/Final Fantasy 3 (V1.1) (German) [!].mp4
 
 
@@ -454,7 +424,7 @@ players: 1
 rating: 80%
 x-id: 2148
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Final Fantasy 2 (V1.1) (German).png
+assets.boxfront: ./media/box2dfront/Final Fantasy 2 (V1.1) (German).png
 assets.video: ./media/videos/Final Fantasy 2 (V1.1) (German).mp4
 
 
@@ -479,10 +449,10 @@ description:
   lieben.
 release: 1992-12-06
 players: 1
-rating: 70%
+rating: 80%
 x-id: 2168
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Final Fantasy V (German).png
+assets.boxfront: ./media/box2dfront/Final Fantasy V (German).png
 assets.video: ./media/videos/Final Fantasy V (German).mp4
 
 
@@ -490,7 +460,7 @@ game: F-Zero
 file: ./F-Zero (USA).smc
 developer: Nintendo
 publisher: Nintendo
-genre: Rennen, Fahren-Rennen 3rd Pers.
+genre: Rennen, Fahren-Rennen 3. Pers.
 description:
   F-Zero ist ein futuristisches Rennspiel, in dem die Charaktere fliegende Autos
   steuern und an einem intergalaktischen Turnier teilnehmen.\n
@@ -504,28 +474,30 @@ description:
   Ziellinie am Ende eines Rennens überquert und dabei bestimmte Schadensbereiche
   auf den Strecken vermeidet. Jedes Fahrzeug verfügt über eine eigene
   Energieanzeige, mit der die Haltbarkeit der Maschinen gemessen werden kann.
-release: 1991-08-23
+release: 1992-06-04
 players: 1
 rating: 80%
 x-id: 2208
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/F-Zero (USA).png
+assets.boxfront: ./media/box2dfront/F-Zero (USA).png
 assets.video: ./media/videos/F-Zero (USA).mp4
 
 
 game: Hyper Street Kart
 file: ./Hyper Street Kart (USA).sfc
-developer: The Real Phoenix and Tenshu
+developer: The Real Phoenix & Ten Shu
 publisher: The Real Phoenix & Ten Shu
-genre: Rennen, Fahren-Rennen 3rd Pers.
+genre: Rennen, Fahren-Rennen 3. Pers.
 description:
-  Hack of Super Mario Kart. All the 8 drivers sprites have been replaced with
-  fighters from Street Fighter II. New and modified Tracks.
+  Hyper Street Kart ist ein Hack von Super Mario Kart, der 2016 vom Team The Real
+  Phoenix und von Ten Shu erstellt wurde. Alle Charaktere wurden durch Charaktere
+  aus Street Fighter II ersetzt, ebenso wie die Rennen, die alle im Thema Street
+  Fighter II geändert wurden.
 release: 2016-07-17
 players: 2
 x-id: 143002
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Hyper Street Kart (USA).png
+assets.boxfront: ./media/box2dfront/Hyper Street Kart (USA).png
 assets.video: ./media/videos/Hyper Street Kart (USA).mp4
 
 
@@ -547,7 +519,7 @@ players: 2
 rating: 95%
 x-id: 2216
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Kirby Super Star (USA).png
+assets.boxfront: ./media/box2dfront/Kirby Super Star (USA).png
 assets.video: ./media/videos/Kirby Super Star (USA).mp4
 
 
@@ -582,7 +554,7 @@ players: 2
 rating: 80%
 x-id: 2355
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Kirby's Dream Course (USA).png
+assets.boxfront: ./media/box2dfront/Kirby's Dream Course (USA).png
 assets.video: ./media/videos/Kirby's Dream Course (USA).mp4
 
 
@@ -605,7 +577,7 @@ players: 2
 rating: 85%
 x-id: 2268
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Kirby's Dream Land 3 (USA).png
+assets.boxfront: ./media/box2dfront/Kirby's Dream Land 3 (USA).png
 assets.video: ./media/videos/Kirby's Dream Land 3 (USA).mp4
 
 
@@ -613,7 +585,7 @@ game: Lester the Unlikely
 file: ./Lester the Unlikely (GER).smc
 developer: Visual Concepts
 publisher: DTMC
-genre: Plattform-Action
+genre: Plattform
 description:
   Eines Tages lief Lester durch die Ladedocks von Seaport City und las die neue
   Ausgabe seines Lieblingscomics "Super Duper Hero Squad". Er fühlte sich ein
@@ -638,8 +610,32 @@ players: 1
 rating: 80%
 x-id: 2687
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Lester the Unlikely (GER).png
+assets.boxfront: ./media/box2dfront/Lester the Unlikely (GER).png
 assets.video: ./media/videos/Lester the Unlikely (GER).mp4
+
+
+game: Little Medusa
+file: ./Little Medusa (World) (Aftermarket) (Unl).sfc
+developer: Mega Cat Studios
+publisher: Mega Cat Studios
+genre: Puzzle
+description:
+  Little Medusa ist ein Action-Puzzle-Spiel mit einem ähnlichen Gameplay wie
+  „Adventures of Lolo“ oder „Kickle Cubicle“. Die Göttin Artemis, Tochter von Zeus
+  und Thronfolgerin auf dem Olymp, ist sehr eitel. Um sie zu bestrafen, verwandelt
+  Fiora, die Göttin der Konflikte und Magie, sie in Medusa und lässt die anderen
+  Götter glauben, dass Artemis verschwunden ist. Fiora befreit dann die Titanen
+  und erobert den Thron. Jetzt hat nur noch Medusa die Macht, sie zu stoppen...
+  Das Spiel besteht aus fünf Welten mit mehreren Levels und am Ende jeder der
+  Welten musst du gegen einen der von Fiora befreiten Titanen antreten: Ariadne
+  (Wasser), Coeus (Wind), Ermolai (Erde), Thia (Feuer) und natürlich Fiora (Magie
+  und Zwietracht) selbst.
+release: 2018-08-07
+players: 1
+x-id: 367852
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box2dfront/Little Medusa (World) (Aftermarket) (Unl).png
+assets.video: ./media/videos/Little Medusa (World) (Aftermarket) (Unl).mp4
 
 
 game: Lufia II : Rise of the Sinistrals
@@ -683,7 +679,7 @@ players: 1
 rating: 80%
 x-id: 2259
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Lufia II - Rise of the Sinistrals (GERMAN).png
+assets.boxfront: ./media/box2dfront/Lufia II - Rise of the Sinistrals (GERMAN).png
 assets.video: ./media/videos/Lufia.mp4
 
 
@@ -728,7 +724,7 @@ players: 1
 rating: 80%
 x-id: 2259
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Lufia.png
+assets.boxfront: ./media/box2dfront/Lufia.png
 assets.video: ./media/videos/Lufia.mp4
 
 
@@ -742,7 +738,7 @@ release: 2019-11-21
 players: 4
 x-id: 200012
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/New Super Mario Land (J) (V1.3).png
+assets.boxfront: ./media/box2dfront/New Super Mario Land (J) (V1.3).png
 assets.video: ./media/videos/New Super Mario Land (J) (V1.3).mp4
 
 
@@ -750,7 +746,7 @@ game: Nightmare Busters
 file: ./Nightmare Busters (Unreleased) (E) [!].sfc
 developer: Arcade Zone
 publisher: Nichibutsu
-genre: Plattform-Action
+genre: Plattform
 description:
   Als ein böser Unhold namens Tyrann die Träume kleiner Kinder entführt und
   verdirbt, treten zwei mutige Kobolde namens Flynn und Floyd in Aktion, um ihn
@@ -768,15 +764,72 @@ players: 2
 rating: 70%
 x-id: 59607
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Nightmare Busters (Unreleased) (E) [!].png
+assets.boxfront: ./media/box2dfront/Nightmare Busters (Unreleased) (E) [!].png
 assets.video: ./media/videos/Nightmare Busters (Unreleased) (E) [!].mp4
+
+
+game: Ninja Gaiden Trilogy
+file: ./Ninja Gaiden Trilogy (U) [!].smc
+developer: Team Ninja
+publisher: Tecmo
+genre: Plattform
+description:
+  Die Ninja-Gaiden-Trilogie beinhaltet die ersten drei NES-Spiele der
+  Ninja-Gaiden-Reihe:
+  .
+  Ninja Gaiden\n
+  Ninja Gaiden II: The Dark Sword of Chaos\n
+  Ninja Gaiden III: The Ancient Ship of Doom
+  .
+  Alle drei Spiele erzählen die Geschichte vom Ninja Ryu Hayabusa durch
+  cinematische Zwischensequenzen und Level mit 2D-Side-Scrolling Action.
+  .
+  Die grafische und soundtechnische Qualität wurden gegenüber den
+  Originalversionen nur dezent verändert.
+release: 1995-08-10
+players: 1
+rating: 80%
+x-id: 2444
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box2dfront/Ninja Gaiden Trilogy (U) [!].png
+assets.video: ./media/videos/Ninja Gaiden Trilogy (U) [!].mp4
+
+
+game: Ninjawarriors
+file: ./Ninja_Warriors_The_U.smc
+developer: Natsume
+publisher: Titus
+genre: Beat'em Up
+description:
+  Das Land steht unter dem Einfluss eines Tyrannen namens Benglar, der in der Lage
+  ist, die von ihm gefangenen Personen einer Gehirnwäsche zu unterziehen. Mit
+  dieser Fähigkeit hat er die Streitkräfte übernommen und scheint nun nicht mehr
+  aufzuhalten zu sein. Die von Mulk angeführten Widerstandskräfte haben jedoch
+  eine neue Waffe entwickelt: Kybernetische Spezialkräfte mit der Fähigkeit zu
+  denken. Ungetestet erhalten diese Maschinen den Befehl, Benglar zu ermorden ...
+  .
+  Ninja Warriors wird als Side-Scrolling-Spiel gespielt und ist eine
+  Einzelspieler-Adaption des Arcade-Spiels The Ninja Warriors. Spieler können
+  zwischen 3 verschiedenen Ninja-Kriegern wählen: Ninja, Kunoichi oder Kamaitachi.
+  Die Charaktere werden unterschiedlich gespielt, haben jedoch einige gemeinsame
+  Steuerelemente. Jeder kann angreifen, springen, den Feind ergreifen, Angriffe
+  blockieren oder einen speziellen Angriff auf dem gesamten Bildschirm auslösen.
+  Dieser Spezialangriff wird allmählich aufgeladen und kann durch Stoßen auf den
+  Boden zurückgesetzt werden.
+release: 1994-02-02
+players: 1
+rating: 80%
+x-id: 2377
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box2dfront/Ninja_Warriors_The_U.png
+assets.video: ./media/videos/Ninja_Warriors_The_U.mp4
 
 
 game: Puzzle Bobble : Bust-A-Move
 file: ./Puzzle Bobble - Bust-A-Move (Europe).sfc
 developer: Taito
 publisher: Taito
-genre: Puzzle
+genre: Puzzle-Puzzle / Werfen
 description:
   In Bust-A-Move, müssen Bub und Bob farbige Blasen aus einer Kanone an den oberen
   Bildschirmrand schießen. Das Duo muss Gruppen von drei gleichfarbigen Kugeln
@@ -793,7 +846,7 @@ players: 2
 rating: 80%
 x-id: 2530
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Puzzle Bobble - Bust-A-Move (Europe).png
+assets.boxfront: ./media/box2dfront/Puzzle Bobble - Bust-A-Move (Europe).png
 assets.video: ./media/videos/Puzzle Bobble - Bust-A-Move (Europe).mp4
 
 
@@ -831,11 +884,47 @@ description:
   stellen sich mächtigen Gegnern.
 release: 1995-09-18
 players: 1
-rating: 75%
+rating: 90%
 x-id: 2142
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Secret of Evermore (Germany).png
+assets.boxfront: ./media/box2dfront/Secret of Evermore (Germany).png
 assets.video: ./media/videos/Secret of Evermore (Germany).mp4
+
+
+game: Secret of Mana 2
+file: ./Secret of Mana 2(Deutsch).sfc
+developer: Square Enix
+publisher: Square Enix
+genre: Rollenspiele-Action-RPG
+description:
+  Es sind einige Jahre vergangen als die Manakräfte, mithilfe des Manaschwertes in
+  acht sogenannte Manasamen gebannt wurden. Diese wurden auf die acht Königreiche
+  verteilt. Es gibt einige Leute, die über die Macht Bescheid wissen und diese
+  nicht zum wohle für die Menscheit nutzen wollen sondern für Ihre ganz
+  persönlichen Ziele... Wie das Königreich Altena, welches langsam einfriert und
+  diese legendäre Macht braucht um sich zu retten.
+  .
+  Das Spiel bietet mehrere Storyplots welche jeweils den Hintergrund eines Helden
+  oder einer Heldin beleuchten. Am Anfang kann man aus sechs verschiedenen Klassen
+  wählen. Duran der Krieger, Angela die junge Zauberin, Lisa die Amazone, Carlie
+  die Klerikerin, Kevin der Wrestler und Hawk der Dieb. Die Geschichten starten
+  jeweils an verschiedenen Orten und im Spielverlauf treffen die Charaktere an
+  einigen Punkten aufeinander und am Ende wird aus den losen Storyfäden eine
+  Geschichte.
+  .
+  Secret of Mana 2 (Seiken Densetsu 3 im jap. original) wurde leider nie in den
+  USA oder Europa veröffentlicht, sonder nur in Japan und ist genau genommen schon
+  der dritte Teil der Mana-Serie. Deshalb findet man Spiel auch nur auf japanisch
+  oder Mithilfe von Fanpatches auch in anderen Sprachen. Wie aber bei Secret of
+  Mana finden die Kämpfe in Echtzeit statt und man kann in diesem RPG auch die
+  Klassen zweimal wechseln.....
+release: 1995-09-30
+players: 3
+rating: 85%
+x-id: 2164
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box2dfront/Seiken Densetsu 3 (GERMAN).png
+assets.video: ./media/videos/Seiken Densetsu 3 (GERMAN).mp4
 
 
 game: Secret of Mana
@@ -864,10 +953,10 @@ description:
   das Schwert zu nutzen und die Welt zu retten, denn noch ist es nicht zu spät!
 release: 1994-11-24
 players: 3
-rating: 80%
+rating: 90%
 x-id: 2141
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Secret of Mana (Germany).png
+assets.boxfront: ./media/box2dfront/Secret of Mana (Germany).png
 assets.video: ./media/videos/Secret of Mana (Germany).mp4
 
 
@@ -900,18 +989,18 @@ description:
   Klassen zweimal wechseln.....
 release: 1995-09-30
 players: 3
-rating: 75%
+rating: 85%
 x-id: 2164
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Seiken Densetsu 3 (GERMAN).png
+assets.boxfront: ./media/box2dfront/Seiken Densetsu 3 (GERMAN).png
 assets.video: ./media/videos/Seiken Densetsu 3 (GERMAN).mp4
 
 
-game: StarWing 2
+game: Star Fox 2
 file: ./Star Fox 2.smc
 developer: Nintendo EAD
 publisher: Nintendo
-genre: Shooter / 3rd Pers.-Strategie-Shooter
+genre: Shooter / 3. Pers.-Strategie-Shooter
 description:
   StarWing 2 / Star Fox 2 - Der geplante Nachfolger baute auf dem Spielprinzip von
   StarWing auf, erweitere dieses aber grundlegend. Statt vorgeschriebenen und
@@ -947,7 +1036,7 @@ players: 2
 rating: 70%
 x-id: 136591
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Star Fox 2.png
+assets.boxfront: ./media/box2dfront/Star Fox 2.png
 assets.video: ./media/videos/Star Fox 2.mp4
 
 
@@ -979,8 +1068,31 @@ players: 1
 rating: 80%
 x-id: 19196
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Starwing (Germany).png
+assets.boxfront: ./media/box2dfront/Starwing (Germany).png
 assets.video: ./media/videos/Starwing (Germany).mp4
+
+
+game: Street Fighter II Turbo
+file: ./Street Fighter II Turbo (Europe) (Rev 1).sfc
+developer: Capcom
+publisher: Capcom
+genre: Kampf
+description:
+  In den 1990ern hat Street Figher II einen Standard für Videospiele gesetzt und
+  so das Genre der Kampfspiele revolutioniert. Street Fighter? II Turbo: Hyper
+  Fighting gilt als eines der besten Spiele aller Zeiten und ist der dritte und
+  letzte Ableger der originalen Street Fighter II-Reihe. Mit den acht
+  ursprünglichen Kämpfern wie z. B. Ryu, Chun-Li und Guile und den spielbaren
+  Endgegnern Balrog, Vega, Sagat und M. Bison bietet Street Fighter? II Turbo:
+  Hyper Fighting erweitertes Gameplay und eine verbesserte Ausgewogenheit der
+  Charaktere.
+release: 1993-08-01
+players: 2
+rating: 95%
+x-id: 2176
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box2dfront/Street Fighter II Turbo (Europe) (Rev 1).png
+assets.video: ./media/videos/Street Fighter II Turbo (Europe) (Rev 1).mp4
 
 
 game: Street Fighter II Turbo
@@ -1002,12 +1114,12 @@ players: 2
 rating: 95%
 x-id: 2176
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Street Fighter II Turbo (USA).png
-assets.video: ./media/videos/Street Fighter II Turbo (USA).mp4
+assets.boxfront: ./media/box2dfront/Street Fighter II Turbo (Europe) (Rev 1).png
+assets.video: ./media/videos/Street Fighter II Turbo (Europe) (Rev 1).mp4
 
 
 game: Street Fighter II
-file: ./Street Fighter II (USA).smc
+file: ./Street Fighter II (Europe).sfc
 developer: Capcom
 publisher: Capcom
 genre: Kampf
@@ -1042,8 +1154,8 @@ players: 2
 rating: 80%
 x-id: 2162
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Street Fighter II (USA).png
-assets.video: ./media/videos/Street Fighter II (USA).mp4
+assets.boxfront: ./media/box2dfront/Street Fighter II (Europe).png
+assets.video: ./media/videos/Street Fighter II (Europe).mp4
 
 
 game: Street Racer
@@ -1067,7 +1179,7 @@ players: 4
 rating: 70%
 x-id: 2247
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Street Racer (USA).png
+assets.boxfront: ./media/box2dfront/Street Racer (USA).png
 assets.video: ./media/videos/Street Racer (USA).mp4
 
 
@@ -1075,7 +1187,7 @@ game: Sunset Riders
 file: ./Sunset Riders (USA).smc
 developer: Konami
 publisher: Konami
-genre: Action-Shooter
+genre: Shooter-Shooter / Run and Gun
 description:
   Der Wilde Westen... voll von kriminellen Verbrechen. Sir Richard Rose, das meist
   verachtete Gesicht der Verbrecherbanden, hat genügend Macht um die
@@ -1095,7 +1207,7 @@ players: 2
 rating: 75%
 x-id: 2292
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Sunset Riders (USA).png
+assets.boxfront: ./media/box2dfront/Sunset Riders (USA).png
 assets.video: ./media/videos/Sunset Riders (USA).mp4
 
 
@@ -1103,7 +1215,7 @@ game: Super Ghouls'n Ghosts
 file: ./Super Ghouls'n Ghosts (USA).smc
 developer: Capcom
 publisher: Capcom
-genre: Plattform-Action-Plattform / Kampf Scrolling
+genre: Plattform-Plattform / Kampf Scrolling
 description:
   Super Ghouls'n Ghosts ist das dritte Spiel in der legendären Ghosts'n
   Goblins-Reihe und folgt dem tapferen Sir Arthur auf seinem Weg durch
@@ -1113,20 +1225,27 @@ description:
   bleiben nur noch seine Boxershorts! Dieses herausfordernde Jump'n'Run,
   ursprünglich ein Exklusivtitel für Super NES, wurde von Kritikern hochgelobt und
   zu einem sofortigen Verkaufsschlager.
-release: 1991-11-01
+release: 1992-12-10
 players: 1
 rating: 80%
 x-id: 2180
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Super Ghouls'n Ghosts (USA).png
+assets.boxfront: ./media/box2dfront/Super Ghouls'n Ghosts (USA).png
 assets.video: ./media/videos/Super Ghouls'n Ghosts (USA).mp4
 
 
+game: Super Mario All-Stars V3
+file: ./Super Mario All-Stars V3.sfc
+players: 1
+x-id: 0
+x-source: ScreenScraper.fr
+
+
 game: Super Mario All-Stars
-file: ./Super Mario All-Stars (USA).sfc
+file: ./Super Mario All-Stars.sfc
 developer: Nintendo
 publisher: Nintendo
-genre: Plattform-Sammlung-Action
+genre: Plattform-Sammlung
 description:
   Super Mario All-Stars ist eine Videospielesammlung der Firma Nintendo für das
   Super Nintendo Entertainment System, die am 1. Januar 1994 erschien. Die
@@ -1134,20 +1253,20 @@ description:
   Super Mario Bros., Super Mario Bros.: The Lost Levels, Super Mario Bros. 2 und
   Super Mario Bros. 3, die grafisch und akustisch an das Niveau der Konsole
   angepasst wurden
-release: 1993-08-01
+release: 1993-12-16
 players: 2
 rating: 80%
 x-id: 2174
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Super Mario All-Stars (USA).png
-assets.video: ./media/videos/Super Mario All-Stars (USA).mp4
+assets.boxfront: ./media/box2dfront/Super Mario All-Stars.png
+assets.video: ./media/videos/Super Mario All-Stars.mp4
 
 
 game: Super Mario Kart
 file: ./Super Mario Kart (USA).smc
 developer: Nintendo
 publisher: Nintendo
-genre: Rennen 3rd Pers.-Rennen, Fahren
+genre: Rennen 3. Pers.-Rennen, Fahren
 description:
   Eine Sammlung an Super Mario Charakteren, unter anderem: Mario, Luigi, Yoshi,
   Peach, Bowser und Donkey Kong Jr. sind unterwegs um die Super Mario Kart
@@ -1160,12 +1279,12 @@ description:
   Cup, jeweils mit einer Auswahl an verschiedensten Rennstrecken die an Super
   Mario World angelehnt sind. Außerdem gibt es einen 2-Spieler-Kampf-Modus, wobei
   derjenige gewinnt, der seinem Gegenspieler alle drei Ballons zum platzen bringt.
-release: 1992-09-01
+release: 1993-01-21
 players: 2
 rating: 80%
 x-id: 2153
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Super Mario Kart (USA).png
+assets.boxfront: ./media/box2dfront/Super Mario Kart (USA).png
 assets.video: ./media/videos/Super Mario Kart (USA).mp4
 
 
@@ -1198,7 +1317,7 @@ players: 1
 rating: 90%
 x-id: 2171
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Super Mario RPG - Legend of the Seven Stars.png
+assets.boxfront: ./media/box2dfront/Super Mario RPG - Legend of the Seven Stars.png
 assets.video: ./media/videos/Super Mario RPG - Legend of the Seven Stars.mp4
 
 
@@ -1226,7 +1345,7 @@ game: Super Mario World
 file: ./Super Mario World (V1.1) (Deutsch) [!].smc
 developer: Nintendo
 publisher: Nintendo
-genre: Plattform-Plattform / Jump'n'Run
+genre: Plattform / Jump'n'Run-Plattform
 description:
   Mario und Luigi machen sich auf ins Dinosaurierland, denn Bowser und die
   Koopalinge haben Prinzessin Peach erneut entführt!
@@ -1244,7 +1363,7 @@ players: 2
 rating: 85%
 x-id: 2144
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Super Mario World (V1.1) (Deutsch) [!].png
+assets.boxfront: ./media/box2dfront/Super Mario World (V1.1) (Deutsch) [!].png
 assets.video: ./media/videos/Super Mario World (V1.1) (Deutsch) [!].mp4
 
 
@@ -1252,7 +1371,7 @@ game: Super Metroid
 file: ./Super Metroid (Europe) (En,Fr,De).sfc
 developer: Nintendo
 publisher: Nintendo
-genre: Action-Abenteuer
+genre: Abenteuer-Plattform-Action / Abenteuer-Action
 description:
   Super Metroid spielt nach den Geschehnissen von Metroid II: Return of Samus. Die
   Weltraumpiraten haben ihren Stützpunkt auf dem Planeten Zebes wieder errichtet.
@@ -1278,7 +1397,7 @@ players: 1
 rating: 80%
 x-id: 2147
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Super Metroid (Europe) (En,Fr,De).png
+assets.boxfront: ./media/box2dfront/Super Metroid (Europe) (En,Fr,De).png
 assets.video: ./media/videos/Super Metroid (Europe) (En,Fr,De).mp4
 
 
@@ -1317,12 +1436,12 @@ description:
   mit einer Serie von erfolgreichen Angriffen, ist dieser ein paar Sekunden
   verwirrt und man kann ihn ungefährdet attackieren. Trifft man dabei den ersten
   Schlag im richtigen Moment, geht der Gegner zu Boden.
-release: 1994-10-01
+release: 1995-01-26
 players: 1
 rating: 75%
 x-id: 2202
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Super Punch-Out!! (USA).png
+assets.boxfront: ./media/box2dfront/Super Punch-Out!! (USA).png
 assets.video: ./media/videos/Super Punch-Out!! (USA).mp4
 
 
@@ -1330,7 +1449,7 @@ game: Super Star Wars : Return of the Jedi
 file: ./Super Star Wars - Return of the Jedi (USA).smc
 developer: Sculptured Software
 publisher: JVC
-genre: Plattform-Action
+genre: Plattform
 description:
   Die Fortsetzung zu Super Star Wars: Das Imperium schlägt zurück basiert, wie der
   Name schon vermuten lässt, auf Episode VI: Die Rückkehr der Jedi-Ritter, dem
@@ -1345,12 +1464,12 @@ description:
   wechseln: Luke Skywalker, Han Solo und Chewbacca sind bereits aus den vorherigen
   Spielen bekannt, neu hinzu kommen jetzt: Prinzessin Leia Organa und Wicket der
   Ewok.
-release: 1994-10-01
+release: 1995-03-30
 players: 1
 rating: 80%
 x-id: 2226
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Super Star Wars - Return of the Jedi (USA).png
+assets.boxfront: ./media/box2dfront/Super Star Wars - Return of the Jedi (USA).png
 assets.video: ./media/videos/Super Star Wars - Return of the Jedi (USA).mp4
 
 
@@ -1358,7 +1477,7 @@ game: Super Star Wars : The Empire Strikes Back
 file: ./Super Star Wars - The Empire Strikes Back (USA).smc
 developer: Sculptured Software
 publisher: JVC
-genre: Plattform-Action
+genre: Plattform
 description:
   Die Fortsetzung zu Super Star Wars basiert, wie der Name schon vermuten lässt,
   auf Episode V: Das Imperium schlägt zurück, dem zweiten Film der originalen Star
@@ -1377,12 +1496,12 @@ description:
   seinen Weg durch die Gegner, Han besitzt Granaten und einen kraftvollen
   Rutschangriff und Luke kann mit seinem Lichtschwert entgegenkommende Geschosse
   abwehren.
-release: 1993-10-01
+release: 1994-02-24
 players: 1
 rating: 75%
 x-id: 2265
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Super Star Wars - The Empire Strikes Back (USA).png
+assets.boxfront: ./media/box2dfront/Super Star Wars - The Empire Strikes Back (USA).png
 assets.video: ./media/videos/Super Star Wars - The Empire Strikes Back (USA).mp4
 
 
@@ -1390,7 +1509,7 @@ game: Super Star Wars
 file: ./Super Star Wars (USA).smc
 developer: Sculptured Software
 publisher: JVC
-genre: Plattform-Action
+genre: Plattform
 description:
   Die Geschichte von Super Star Wars basiert auf Episode IV: Eine neue Hoffnung,
   dem ersten Film der originalen Star Wars Trilogie. Der Spieler kontrolliert
@@ -1402,12 +1521,12 @@ description:
   wichtigsten Sequenzen nachspielen kann, wie beispielsweise die Suche nach
   Obi-Wan Kenobi, die Rettung von Prinzessin Leia, oder den letzten Kampf gegen
   den Todesstern und seine Tie-Jäger, angeführt von dem mysteriösen Darth Vader.
-release: 1992-11-01
+release: 1993-04-02
 players: 1
 rating: 75%
 x-id: 2185
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Super Star Wars (USA).png
+assets.boxfront: ./media/box2dfront/Super Star Wars (USA).png
 assets.video: ./media/videos/Super Star Wars (USA).mp4
 
 
@@ -1415,7 +1534,7 @@ game: Super Street Fighter II
 file: ./Super Street Fighter II - The New Challengers (USA).sfc
 developer: Capcom
 publisher: Capcom
-genre: Kampf-Action
+genre: Kampf
 description:
   Super Street Fighter II das beste Beat ?em up im 16-Bit Sektor ist. Denn kein
   anderes Modul hat so viele Spielmodi, charismatische Charaktere und Tonnen von
@@ -1443,8 +1562,46 @@ players: 2
 rating: 80%
 x-id: 2201
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Super Street Fighter II - The New Challengers (USA).png
+assets.boxfront: ./media/box2dfront/Super Street Fighter II - The New Challengers (USA).png
 assets.video: ./media/videos/Super Street Fighter II - The New Challengers (USA).mp4
+
+
+game: Super Turrican
+file: ./Super Turrican (U).smc
+developer: Factor 5
+publisher: Hudson
+genre: Plattform-Plattform / Shooter Scrolling
+description:
+  Eine echte Legende machte sich 1993 bereit ihr Debüt auf dem Super Nintendo zu
+  bestreiten. Nach unzähligen Amiga und C64 Versionen bekam das Super Nintendo
+  nämlich schließlich einen eigenen Ableger der populären Turrican-Reihe, der sich
+  daraufhin schnell zu einem der besten Actiontitel für Nintendos 16Bit Konsole
+  mauserte.
+  .
+  In den Levels werdet ihr viele Container finden, in denen ihr z. B.
+  Lebensenergie, Schutzschilde oder Extrawaffen bekommt. So gehören zu den
+  Extrawaffen der Fächerschuss, der gut für Gegnermassen ist, der Bouncer
+  (Plasmaschuss) der am besten in Höhlen oder engen Gängen zur Geltung kommt oder
+  man nimmt einfach den durchschlagenden Laser, den man auch aufbauen kann.
+  .
+  .
+  Wie aus den Vorgängern bekannt habt ihr wieder die ''Smartlines''. Das sind
+  Laserwände, die alles über den Haufen fegen was auf dem Bildschirm befindet und
+  natürlich darf auch der Lähmstrahl nicht fehlen, den man in jede Richtung
+  beliebig schwenken kann. Mit dieser Waffe könnt ihr kurz euere Gegner einfrieren
+  und dann mit den normalen Waffen aufs Korn nehmen. Wie bei Metroid kann sich die
+  Turrican-Einheit in eine Kugel verwandeln um an gewisse Stellen des Levels zu
+  kommen, wo man normalerweise nicht hin schafft. In der Form der Kugel ist die
+  Turrican-Einheit aber nicht wehrlos. Mittels Bomben werden die Gegner auf
+  Distanz gehalten. So gilt es 13 Levels zu durchlaufen die Grafisch sowie
+  Spielerisch unglaublich abwechslungsreich sind.
+release: 1993-01-01
+players: 1
+rating: 75%
+x-id: 2326
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box2dfront/Super Turrican (U).png
+assets.video: ./media/videos/Super Turrican (U).mp4
 
 
 game: Tales of Phantasia
@@ -1466,10 +1623,10 @@ description:
   die Signalglocke für Notfälle und das Dorf ist nicht mehr wiederzuerkennen.
 release: 1995-12-15
 players: 2
-rating: 75%
+rating: 90%
 x-id: 2161
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Tales of Phantasia (Deutsch).png
+assets.boxfront: ./media/box2dfront/Tales of Phantasia (Deutsch).png
 assets.video: ./media/videos/Tales of Phantasia (Deutsch).mp4
 
 
@@ -1477,7 +1634,7 @@ game: Terranigma
 file: ./Terranigma.sfc
 developer: Quintet
 publisher: Enix
-genre: Rollenspiele-Action-Action / Abenteuer
+genre: Rollenspiele
 description:
   Vor langer, langer Zeit, als die Menschen noch an Mythen, Magie und Dämonen
   glaubten, trug sich auf dem blauen Planeten eine Geschichte zu, die um ein Haar
@@ -1493,10 +1650,10 @@ description:
   garantiert somit langanhaltenden Spielspaß!
 release: 1996-12-19
 players: 1
-rating: 75%
+rating: 90%
 x-id: 2160
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Terranigma.png
+assets.boxfront: ./media/box2dfront/Terranigma.png
 assets.video: ./media/videos/Terranigma.mp4
 
 
@@ -1517,7 +1674,7 @@ players: 2
 rating: 75%
 x-id: 2335
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Tetris & Dr. Mario (USA).png
+assets.boxfront: ./media/box2dfront/Tetris & Dr. Mario (USA).png
 assets.video: ./media/videos/Tetris & Dr. Mario (USA).mp4
 
 
@@ -1525,7 +1682,7 @@ game: The Death and Return of Superman
 file: ./Death and Return of Superman, The (Europe).sfc
 developer: Sunsoft
 publisher: Blizzard Entertainment
-genre: Beat'em Up-Action
+genre: Beat'em Up
 description:
   Jetzt geht's aufs Ganze! Bereite Dich auf ein Abenteuer vor, das Dich in die
   Welt dieses klassisches DC Comics entführt. Als Superman kämpfst Du gegen den
@@ -1539,7 +1696,7 @@ players: 1
 rating: 65%
 x-id: 2409
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Death and Return of Superman, The (Europe).png
+assets.boxfront: ./media/box2dfront/Death and Return of Superman, The (Europe).png
 assets.video: ./media/videos/Death and Return of Superman, The (Europe).mp4
 
 
@@ -1547,7 +1704,7 @@ game: The Incredible Hulk
 file: ./Incredible Hulk, The (Europe).sfc
 developer: U.S. Gold
 publisher: Probe Software
-genre: Plattform-Action
+genre: Plattform
 description:
   Eine neue Herausforderung für The Incredible Hulk. Man will ihn aus dem Weg
   räumen, bevor die geplante Invasion auf der Erde beginnt. Jetzt geht's für Hulk
@@ -1559,7 +1716,7 @@ players: 1
 rating: 40%
 x-id: 2538
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Incredible Hulk, The (Europe).png
+assets.boxfront: ./media/box2dfront/Incredible Hulk, The (Europe).png
 assets.video: ./media/videos/Incredible Hulk, The (Europe).mp4
 
 
@@ -1567,7 +1724,7 @@ game: The Legend of Zelda : A Link to the Past
 file: ./Legend of Zelda, The - A Link to the Past (Germany).sfc
 developer: Nintendo
 publisher: Nintendo
-genre: Abenteuer-Action / Abenteuer-Rollenspiele-Action
+genre: Rollenspiele
 description:
   Der böse Ganon, in Gestalt des Zauberers Agahnim, versucht das Siegel zu
   brechen, welches ihn in der Schattenwelt, dem ehemaligen Goldenen Land, gefangen
@@ -1582,42 +1739,86 @@ players: 1
 rating: 95%
 x-id: 2138
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Legend of Zelda, The - A Link to the Past (Germany).png
+assets.boxfront: ./media/box2dfront/Legend of Zelda, The - A Link to the Past (Germany).png
 assets.video: ./media/videos/Legend of Zelda, The - A Link to the Past (Germany).mp4
 
 
-game: Trials of Mana
-file: ./Secret of Mana 2(Deutsch).sfc
-developer: Square Enix
-publisher: Square Enix
-genre: Rollenspiele-Action-RPG
+game: The Magical Quest Starring Mickey Mouse
+file: ./Magical Quest Starring Mickey Mouse, The (U) [!].smc
+developer: Capcom
+publisher: Capcom
+genre: Plattform
 description:
-  Es sind einige Jahre vergangen als die Manakräfte, mithilfe des Manaschwertes in
-  acht sogenannte Manasamen gebannt wurden. Diese wurden auf die acht Königreiche
-  verteilt. Es gibt einige Leute, die über die Macht Bescheid wissen und diese
-  nicht zum wohle für die Menscheit nutzen wollen sondern für Ihre ganz
-  persönlichen Ziele... Wie das Königreich Altena, welches langsam einfriert und
-  diese legendäre Macht braucht um sich zu retten.
+  Mickey, Pluto, Goofy und Donald spielen im Park. Als Goofy an der Reihe ist, den
+  Ball zu werfen, wirft er versehentlich viel zu weit und Pluto rennt los um ihn
+  zu verfolgen. Keine Spur von Pluto, versichert Goofy ihn zu finden und macht
+  sich auf den Weg.
   .
-  Das Spiel bietet mehrere Storyplots welche jeweils den Hintergrund eines Helden
-  oder einer Heldin beleuchten. Am Anfang kann man aus sechs verschiedenen Klassen
-  wählen. Duran der Krieger, Angela die junge Zauberin, Lisa die Amazone, Carlie
-  die Klerikerin, Kevin der Wrestler und Hawk der Dieb. Die Geschichten starten
-  jeweils an verschiedenen Orten und im Spielverlauf treffen die Charaktere an
-  einigen Punkten aufeinander und am Ende wird aus den losen Storyfäden eine
-  Geschichte.
+  Nach einer Weile entschließt sich Mickey nach seinen Freunden zu suchen, fällt
+  aber eine Klippe in ein magisches Land hinunter. Daraufhin trifft Mickey einen
+  alten Zauberer, der ihm erzählt, dass Pluto vom bösen König Pete gekidnappt
+  wurde.
   .
-  Secret of Mana 2 (Seiken Densetsu 3 im jap. original) wurde leider nie in den
-  USA oder Europa veröffentlicht, sonder nur in Japan und ist genau genommen schon
-  der dritte Teil der Mana-Serie. Deshalb findet man Spiel auch nur auf japanisch
-  oder Mithilfe von Fanpatches auch in anderen Sprachen. Wie aber bei Secret of
-  Mana finden die Kämpfe in Echtzeit statt und man kann in diesem RPG auch die
-  Klassen zweimal wechseln.....
-release: 1995-09-30
-players: 3
-rating: 75%
-x-id: 2164
+  Mickey macht sich auf den Weg um seine Freunde zu finden und Pete's Tyrannei zu
+  beenden.
+release: 1992-12-01
+players: 2
+rating: 80%
+x-id: 2237
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Secret of Mana 2(Deutsch).png
-assets.video: ./media/videos/Seiken Densetsu 3 (GERMAN).mp4
+assets.boxfront: ./media/box2dfront/Magical Quest Starring Mickey Mouse, The (U) [!].png
+assets.video: ./media/videos/Magical Quest Starring Mickey Mouse, The (U) [!].mp4
+
+
+game: Total Carnage
+file: ./Total Carnage (U) [!].smc
+developer: Black Pearl Software
+publisher: Malibu Games
+genre: Shooter-Shooter / Run and Gun
+description:
+  Der Krieg von 1999 hat das Land Kookistan in Schutt und Asche gelegt. Natürlich
+  übernahm ein Diktator namens General Akhboob die Kontrolle über die
+  angeschlagene Nation und begann, eine Armee radioaktiver Mutanten zu schaffen.
+  Mit einer praktisch uneinnehmbaren Festung, einer Reihe von Geiseln und einer
+  Legion von Mutanten unter seinem Kommando macht der böse Despot vor nichts Halt,
+  außer der Weltherrschaft. Nur zwei Männer haben den Mut und die idealistische
+  Naivität, es mit Akhboob und seinen Truppen aufzunehmen: Captain Carnage und
+  Major Mayhem, auch bekannt als die Doomsday Squad.
+  .
+  Als Captain Carnage oder Major Mayhem liegt es an dir oder an dir und einem
+  Freund (in gleichzeitiger Aktion), die Geiseln zu retten und dabei Hunderte von
+  Mutanten zu erschießen, die auf deine Zerstörung aus sind. Während du vorwärts,
+  rückwärts, links, rechts und diagonal durch 20 Kampfzonen voller Nonstop-Action
+  läufst, hast du dein Maschinengewehr immer an deiner Seite. Zu den zusätzlichen
+  Waffen, die du auf deinem Weg finden kannst, gehören Granatwerfer,
+  Raketenwerfer, Plasma-Maschinengewehre, Flammenwerfer, Sprühfeuergewehre,
+  Verteidigungsklingen und eine Reihe von Bomben.
+release: 1993-11-01
+players: 2
+rating: 75%
+x-id: 2731
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box2dfront/Total Carnage (U) [!].png
+assets.video: ./media/videos/Total Carnage (U) [!].mp4
+
+
+game: Zero the Kamikaze Squirrel
+file: ./Zero the Kamikaze Squirrel (U) [!].smc
+developer: Iguana Entertainment
+publisher: Sunsoft
+genre: Plattform
+description:
+  Zero the Kamikaze Squirrel ist ein Spin-off der Aero the Acrobat-Spiele und ein
+  übertriebener Plattformer, der Sonic the Hedgehog sehr ähnlich spielt. In den
+  Aero the Acrobat-Spielen ist Zero einer der Bösewichte. Diesmal kämpft Zero
+  jedoch darum, seine Heimat vor einem bösen Holzfäller zu retten.
+release: 1994-11-01
+players: 1
+rating: 85%
+x-id: 2696
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box2dfront/Zero the Kamikaze Squirrel (U) [!].png
+assets.video: ./media/videos/Zero the Kamikaze Squirrel (U) [!].mp4
+
+
 
