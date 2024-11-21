@@ -1,10 +1,10 @@
 collection: Nintendo Entertainment System
 shortname: nes
-extensions: fds, nes, unf, unif
+extensions: nes, zip,
 launch: am start --user 0
   -n com.retroarch/.browser.retroactivity.RetroActivityFuture
   -e ROM {file.path}
-  -e LIBRETRO /data/data/com.retroarch/cores/fceumm_libretro_android.so
+  -e LIBRETRO /data/data/com.retroarch/cores/fceumm_libretro.so
   -e CONFIGFILE /storage/emulated/0/Android/data/com.retroarch/files/retroarch.cfg
   -e QUITFOCUS
   --activity-clear-top
@@ -30,7 +30,7 @@ players: 4
 rating: 55%
 x-id: 1350
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Nightmare on Elm Street, A (USA).png
+assets.boxfront: ./media/box2dfront/Nightmare on Elm Street, A (USA).png
 assets.video: ./media/videos/Nightmare on Elm Street, A (USA).mp4
 
 
@@ -55,15 +55,8 @@ players: 1
 rating: 65%
 x-id: 1319
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Aladdin (1995) (Unl) [!].png
+assets.boxfront: ./media/box2dfront/Aladdin (1995) (Unl) [!].png
 assets.video: ./media/videos/Aladdin (1995) (Unl) [!].mp4
-
-
-game: ANOES_SOHM_DEMAKE_v0.02
-file: ./ANOES_SOHM_DEMAKE_v0.02.nes
-players: 1
-x-id: 0
-x-source: ScreenScraper.fr
 
 
 game: Balloon Fight
@@ -87,7 +80,7 @@ players: 2
 rating: 70%
 x-id: 1453
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Balloon Fight (USA).png
+assets.boxfront: ./media/box2dfront/Balloon Fight (USA).png
 assets.video: ./media/videos/Balloon Fight (USA).mp4
 
 
@@ -119,20 +112,28 @@ players: 2
 rating: 80%
 x-id: 1304
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Bubble Bobble (GER).png
+assets.boxfront: ./media/box2dfront/Bubble Bobble (GER).png
 assets.video: ./media/videos/Bubble Bobble (GER).mp4
 
 
-game: CandymanBMV_Demake_V0.12
+game: Candyman - Be My Victim
 file: ./CandymanBMV_Demake_V0.12.nes
+developer: Fista Productions
+publisher: Fista Productions
+description:
+  Spielen Sie als Candyman und weiden Sie jeden aus, der es wagt, Ihren Namen 5
+  Mal vor einem Spiegel zu sagen.
+release: 2006-06-10
 players: 1
-x-id: 0
+x-id: 434213
 x-source: ScreenScraper.fr
+assets.boxfront: ./media/box2dfront/CandymanBMV_Demake_V0.12.png
+assets.video: ./media/videos/CandymanBMV_Demake_V0.12.mp4
 
 
 game: Castlevania II : Simon's Quest
 file: ./Castlevania II - Simon's Quest (GER).nes
-developer: Nintendo
+developer: Konami
 publisher: Konami
 genre: Abenteuer
 description:
@@ -154,7 +155,7 @@ players: 1
 rating: 80%
 x-id: 1281
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Castlevania II - Simon's Quest (GER).png
+assets.boxfront: ./media/box2dfront/Castlevania II - Simon's Quest (GER).png
 assets.video: ./media/videos/Castlevania II - Simon's Quest (GER).mp4
 
 
@@ -173,7 +174,7 @@ players: 1
 rating: 80%
 x-id: 1268
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Castlevania (GER).png
+assets.boxfront: ./media/box2dfront/Castlevania (GER).png
 assets.video: ./media/videos/Castlevania (GER).mp4
 
 
@@ -193,7 +194,7 @@ players: 2
 rating: 70%
 x-id: 18641
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Donkey Kong Classics (GER).png
+assets.boxfront: ./media/box2dfront/Donkey Kong Classics (GER).png
 assets.video: ./media/videos/Donkey Kong Classics (GER).mp4
 
 
@@ -217,13 +218,33 @@ players: 2
 rating: 70%
 x-id: 1351
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Donkey Kong Jr. (World).png
+assets.boxfront: ./media/box2dfront/Donkey Kong Jr. (World).png
 assets.video: ./media/videos/Donkey Kong Jr. (World).mp4
+
+
+game: Donkey Kong
+file: ./Donkey Kong (World) (Rev A).nes
+developer: Nintendo
+publisher: Nintendo
+genre: Plattform
+description:
+  Können Sie Marios Freundin aus den Fängen von Donkey Kong retten? Sie müssen
+  Mario helfen, Pauline zu befreien, bevor es zu spät ist. Sie müssen Fässern mit
+  Sprengfallen, Feuerbällen und allem anderen ausweichen, was Donkey Kong auf Sie
+  wirft, um Sie zu stoppen. Wenn Sie also auf der Suche nach Action sind, hören
+  Sie auf mit den Mätzchen!
+release: 1986-10-15
+players: 1
+rating: 60%
+x-id: 1306
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box2dfront/Donkey Kong (World) (Rev A).png
+assets.video: ./media/videos/Donkey Kong (World) (Rev A).mp4
 
 
 game: Double Dragon II : The Revenge
 file: ./Double Dragon II - The Revenge (USA).nes
-developer: Technos Japan Corp.
+developer: Technos Japan
 publisher: Acclaim
 genre: Beat'em Up
 description:
@@ -243,7 +264,7 @@ players: 2
 rating: 90%
 x-id: 1277
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Double Dragon II - The Revenge (USA).png
+assets.boxfront: ./media/box2dfront/Double Dragon II - The Revenge (USA).png
 assets.video: ./media/videos/Double Dragon II - The Revenge (USA).mp4
 
 
@@ -272,8 +293,34 @@ players: 2
 rating: 75%
 x-id: 1340
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Dr. Mario (Japan, USA).png
+assets.boxfront: ./media/box2dfront/Dr. Mario (Japan, USA).png
 assets.video: ./media/videos/Dr. Mario (Japan, USA).mp4
+
+
+game: Duck Hunt
+file: ./Duck Hunt (World).nes
+developer: Nintendo
+publisher: Nintendo
+genre: Lightgun Shooter-Jagen-Jagen und Angeln
+description:
+  Duck Hunt wurde 1984 als NES-Spiel in Japan veröffentlicht. Gleichzeitig
+  erschien der NES Zapper, eine Lightgun, die es dem Spieler ermöglicht auf den
+  Bildschirm zu zielen und somit eine echte Entenjagd zu simulieren. Nicht zuletzt
+  durch dieses Zubehörteil erlangte es einen Kultstatus unter NES-Fans und wird
+  oftmals unter den Top-10-Spielen für die Konsole genannt.
+  .
+  Das Spiel selbst ist in drei Modi unterteilt, zu denen zwei Umsetzungen der
+  Entenjagd gehören. Bei diesen Spielen wird der Spieler von einem Hund begleitet,
+  der hämisch lacht, sobald eine Ente nicht getroffen wurde. Zusätzlich gibt es
+  ein Tontaubenschießen, bei dem auf wesentlich kleinere Objekte gezielt werden
+  muss. Für jedes Objekt stehen drei Schüsse zur Verfügung.
+release: 1987-08-15
+players: 2
+rating: 70%
+x-id: 1260
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box2dfront/Duck Hunt (World).png
+assets.video: ./media/videos/Duck Hunt (World).mp4
 
 
 game: Excitebike
@@ -295,22 +342,15 @@ players: 1
 rating: 70%
 x-id: 1371
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Excitebike (Japan, USA).png
+assets.boxfront: ./media/box2dfront/Excitebike (Japan, USA).png
 assets.video: ./media/videos/Excitebike (Japan, USA).mp4
-
-
-game: F13RTCB_DEMAKE_v1.52
-file: ./F13RTCB_DEMAKE_v1.52.nes
-players: 1
-x-id: 0
-x-source: ScreenScraper.fr
 
 
 game: Final Fantasy
 file: ./Final Fantasy (GER).nes
 developer: Squaresoft
 publisher: Nintendo
-genre: Rollenspiele
+genre: Rollenspiele-Japanisches Rollenspiel
 description:
   Zu Beginn des Spiels scheinen die vier Elemente, die die Welt beherrschen, aus
   den Fugen zu geraten: Die Erde verdorrt, Feuer verbrennen das Land, die Meere
@@ -335,7 +375,7 @@ players: 1
 rating: 70%
 x-id: 1252
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Final Fantasy (GER).png
+assets.boxfront: ./media/box2dfront/Final Fantasy (GER).png
 assets.video: ./media/videos/Final Fantasy (GER).mp4
 
 
@@ -343,7 +383,7 @@ game: Friday the 13th
 file: ./Friday the 13th (GER).nes
 developer: Pack In Video
 publisher: LJN
-genre: Action
+genre: Abenteuer
 description:
   Basierend auf der beliebten Filmreihe "Freitag der 13." schlüpfst du in die
   Rolle eines von sechs Betreuern (drei Mädchen oder drei Jungen) im berüchtigten
@@ -362,8 +402,15 @@ players: 1
 rating: 45%
 x-id: 1456
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Friday the 13th (GER).png
+assets.boxfront: ./media/box2dfront/Friday the 13th (GER).png
 assets.video: ./media/videos/Friday the 13th (GER).mp4
+
+
+game: Friday the 13th_fiesta_games
+file: ./Friday the 13th_fiesta_games.nes
+players: 1
+x-id: 0
+x-source: ScreenScraper.fr
 
 
 game: Galaga : Demons of Death
@@ -395,7 +442,7 @@ players: 2
 rating: 75%
 x-id: 1531
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Galaga - Demons of Death (USA).png
+assets.boxfront: ./media/box2dfront/Galaga - Demons of Death (USA).png
 assets.video: ./media/videos/Galaga - Demons of Death (USA).mp4
 
 
@@ -403,7 +450,7 @@ game: Ghosts 'n Goblins
 file: ./Ghosts'n Goblins (USA).nes
 developer: Capcom
 publisher: Capcom
-genre: Action-Plattform
+genre: Plattform
 description:
   Ghosts'n Goblins ist ein seitwärts scrollender Action-Plattformer, der sich über
   sechs Levels erstreckt, von denen jeder innerhalb von drei Minuten abgeschlossen
@@ -423,7 +470,7 @@ players: 2
 rating: 75%
 x-id: 1273
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Ghosts'n Goblins (USA).png
+assets.boxfront: ./media/box2dfront/Ghosts'n Goblins (USA).png
 assets.video: ./media/videos/Ghosts'n Goblins (USA).mp4
 
 
@@ -448,12 +495,12 @@ players: 2
 rating: 70%
 x-id: 1339
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Gradius (USA).png
+assets.boxfront: ./media/box2dfront/Gradius (USA).png
 assets.video: ./media/videos/Gradius (USA).mp4
 
 
-game: HALLO31_DEMAKE_v0.02
-file: ./HALLO31_DEMAKE_v0.02.nes
+game: Halloween
+file: ./Halloween.nes
 players: 1
 x-id: 0
 x-source: ScreenScraper.fr
@@ -480,15 +527,40 @@ players: 2
 rating: 60%
 x-id: 1356
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Ice Climber (GER).png
-assets.video: ./media/videos/Ice Climber (GER).mp4
+assets.boxfront: ./media/box2dfront/Ice Climber (U).png
+assets.video: ./media/videos/Ice Climber (U).mp4
+
+
+game: Ice Climber
+file: ./Ice Climber (U).nes
+developer: Nintendo
+publisher: Nintendo
+genre: Plattform-Plattform / Jump'n'Run
+description:
+  In Ice Climber müssen ein oder zwei Spieler den Gipfel von 32 verschiedenen
+  Bergen erklimmen. Jeder Berg ist in acht Ebenen mit Plattformen unterteilt, und
+  auf der Spitze befindet sich eine Bonus-Ebene. Verschiedene Kreaturen, vom
+  Eisbären bis zum Kondor, sowie tückische Landschaften mit herabfallenden
+  Eiszapfen, sich bewegenden Plattformen und vereisten Böden versuchen, Sie am
+  Aufstieg zu hindern. Als einzige Waffe steht Ihnen ein Hammer zur Verfügung, mit
+  dem Sie sowohl Gegner ausschalten als auch Ziegelsteine von den Plattformen
+  wegsprengen können, um Platz für den Sprung auf die nächste Ebene zu schaffen.
+  Wenn Sie endlich oben angekommen sind, ist es Zeit, zum nächsten, schwierigeren
+  Level überzugehen.
+release: 1986-09-01
+players: 2
+rating: 60%
+x-id: 1356
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box2dfront/Ice Climber (U).png
+assets.video: ./media/videos/Ice Climber (U).mp4
 
 
 game: Ikari III : The Rescue
 file: ./Ikari III - The Rescue (USA).nes
 developer: SNK
 publisher: SNK
-genre: Action-Beat'em Up
+genre: Beat'em Up
 description:
   Die Tochter des Präsidentschaftskandidaten wurde gekidnappt! Deine Aufgabe ist
   es, die feindlichen Linien zu überwinden und sie zu retten. Dies ist das dritte
@@ -502,7 +574,7 @@ players: 2
 rating: 75%
 x-id: 1694
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Ikari III - The Rescue (USA).png
+assets.boxfront: ./media/box2dfront/Ikari III - The Rescue (USA).png
 assets.video: ./media/videos/Ikari III - The Rescue (USA).mp4
 
 
@@ -510,7 +582,7 @@ game: Ikari Warriors II : Victory Road
 file: ./Ikari Warriors II - Victory Road (USA).nes
 developer: SNK
 publisher: SNK
-genre: Action-Shooter-Shooter / Run and Gun
+genre: Shooter-Shooter / Run and Gun
 description:
   Die Geschichte setzt direkt am Ende von Ikari Warriors ein. Von General Kawasaki
   für ihre Rettung gelobt, kehren Paul und Vince (auch Ralf und Clark genannt) in
@@ -527,7 +599,7 @@ players: 2
 rating: 40%
 x-id: 1772
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Ikari Warriors II - Victory Road (USA).png
+assets.boxfront: ./media/box2dfront/Ikari Warriors II - Victory Road (USA).png
 assets.video: ./media/videos/Ikari Warriors II - Victory Road (USA).mp4
 
 
@@ -546,7 +618,7 @@ players: 2
 rating: 50%
 x-id: 1346
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Ikari Warriors (USA).png
+assets.boxfront: ./media/box2dfront/Ikari Warriors (USA).png
 assets.video: ./media/videos/Ikari Warriors (USA).mp4
 
 
@@ -567,7 +639,7 @@ release: 2020-01-20
 players: 2
 x-id: 367540
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Jay and Silent Bob - Mall Brawl (U).png
+assets.boxfront: ./media/box2dfront/Jay and Silent Bob - Mall Brawl (U).png
 assets.video: ./media/videos/Jay and Silent Bob - Mall Brawl (U).mp4
 
 
@@ -590,7 +662,7 @@ players: 1
 rating: 90%
 x-id: 1368
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Kickle Cubicle (USA).png
+assets.boxfront: ./media/box2dfront/Kickle Cubicle (USA).png
 assets.video: ./media/videos/Kickle Cubicle (USA).mp4
 
 
@@ -616,7 +688,7 @@ players: 1
 rating: 75%
 x-id: 1276
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Kid Icarus (GER).png
+assets.boxfront: ./media/box2dfront/Kid Icarus (GER).png
 assets.video: ./media/videos/Kid Icarus (GER).mp4
 
 
@@ -640,7 +712,7 @@ players: 1
 rating: 80%
 x-id: 1279
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Kirby's Adventure (USA).png
+assets.boxfront: ./media/box2dfront/Kirby's Adventure (USA).png
 assets.video: ./media/videos/Kirby's Adventure (USA).mp4
 
 
@@ -649,13 +721,14 @@ file: ./Pokemon Yellow[!].nes
 developer: Shenzhen Nanjing
 publisher: Shenzhen Nanjing
 description:
-  Lei Dian Huang Bi Ka Qiu Chuan Shuo (also known as Pokémon Yellow) is a pirated
-  game for the NES made by Shenzhen Nanjing. It's generally regarded as being of
-  higher quality compared to Shenzhen Nanjing's other games.
+  Lei Dian Huang Bi Ka Qiu Chuan Shuo (auch bekannt als Pokémon Gelb) ist ein
+  Raubkopienspiel für das NES von Shenzhen Nanjing. Es wird im Allgemeinen als von
+  höherer Qualität im Vergleich zu den anderen Spielen von Shenzhen Nanjing
+  angesehen.
 players: 1
 x-id: 192723
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Pokemon Yellow[!].png
+assets.boxfront: ./media/box2dfront/Pokemon Yellow[!].png
 
 
 game: Mario Bros.
@@ -677,7 +750,7 @@ players: 2
 rating: 70%
 x-id: 1271
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Mario Bros. (GER).png
+assets.boxfront: ./media/box2dfront/Mario Bros. (GER).png
 assets.video: ./media/videos/Mario Bros. (GER).mp4
 
 
@@ -685,7 +758,7 @@ game: Mega Man 2
 file: ./Mega Man 2 (GER).nes
 developer: Capcom
 publisher: Capcom
-genre: Plattform
+genre: Plattform-Plattform / Shooter Scrolling
 description:
   Nachdem man in Mega Man die sechs Roboter von Dr. Light besiegt hatte, die vom
   schurkischen Dr. Wily umprogrammiert worden waren, schien die Welt in Sicherheit
@@ -698,7 +771,7 @@ players: 1
 rating: 80%
 x-id: 1255
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Mega Man 2 (GER).png
+assets.boxfront: ./media/box2dfront/Mega Man 2 (GER).png
 assets.video: ./media/videos/Mega Man 2 (GER).mp4
 
 
@@ -706,7 +779,7 @@ game: Metroid
 file: ./Metroid (GER).nes
 developer: Nintendo
 publisher: Nintendo
-genre: Plattform
+genre: Plattform-Abenteuer
 description:
   Metroid ist das erste Spiel der Metroid-Reihe. Es erschien Ende der 1980er Jahre
   für das Nintendo Entertainment System. Das Spiel wurde von Gunpei Yokoi
@@ -723,8 +796,47 @@ players: 1
 rating: 80%
 x-id: 1256
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Metroid (GER).png
+assets.boxfront: ./media/box2dfront/Metroid (GER).png
 assets.video: ./media/videos/Metroid (GER).mp4
+
+
+game: Metroid
+file: ./Metroid (USA).nes
+developer: Nintendo
+publisher: Nintendo
+genre: Plattform-Abenteuer
+description:
+  Metroid ist das erste Spiel der Metroid-Reihe. Es erschien Ende der 1980er Jahre
+  für das Nintendo Entertainment System. Das Spiel wurde von Gunpei Yokoi
+  produziert, der unter anderem den Game Boy entwarf. Ein Remake des Spiels
+  erschien für den Game Boy Advance unter dem Titel Metroid: Zero Mission.
+  Innerhalb dieses Remakes ist das Original-Metroid ein freischaltbares Extra,
+  desweiteren wurde das Spiel auch innerhalb der Classic-Serie für den GBA
+  portiert, und erschien als Download der Virtual Console für Wii. Zusätzlich kann
+  man das Spiel in Metroid Prime freischalten, indem man ein durchgespieltes
+  Metroid Prime-Spiel per Game Boy Advance Game Cube Kabel mit Metroid Fusion
+  verbindet.
+release: 1986-08-01
+players: 1
+rating: 80%
+x-id: 1256
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box2dfront/Metroid (USA).png
+assets.video: ./media/videos/Metroid (GER).mp4
+
+
+game: Nes Classic Mini
+file: ./Nes Classic Mini.nes
+players: 1
+x-id: 0
+x-source: ScreenScraper.fr
+
+
+game: Nightmare on elm Street, A_fista_games
+file: ./Nightmare on elm Street, A_fista_games.nes
+players: 1
+x-id: 0
+x-source: ScreenScraper.fr
 
 
 game: Ninja Gaiden
@@ -747,7 +859,7 @@ players: 1
 rating: 80%
 x-id: 18922
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Ninja Gaiden (GER).png
+assets.boxfront: ./media/box2dfront/Ninja Gaiden (GER).png
 assets.video: ./media/videos/Ninja Gaiden (GER).mp4
 
 
@@ -779,7 +891,7 @@ players: 2
 rating: 80%
 x-id: 1327
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Pac-Man (USA).png
+assets.boxfront: ./media/box2dfront/Pac-Man (USA).png
 assets.video: ./media/videos/Pac-Man (USA).mp4
 
 
@@ -808,8 +920,37 @@ players: 2
 rating: 60%
 x-id: 1569
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Popeye (GER).png
-assets.video: ./media/videos/Popeye (GER).mp4
+assets.boxfront: ./media/box2dfront/Popeye (GER).png
+assets.video: ./media/videos/Popeye (World) (Rev A).mp4
+
+
+game: Popeye
+file: ./Popeye (World) (Rev A).nes
+developer: Nintendo
+publisher: Nintendo
+genre: Plattform
+description:
+  Popeye ist eine Umsetzung des Arcade-Action-Plattformspiels. Als Popeye
+  versuchst du, die Liebe von Olive Oyl zu gewinnen! Sie ist am oberen Rand des
+  Bildschirms und lässt Zeichen ihrer Liebe fallen, die du einsammeln musst, bevor
+  sie auf dem Boden aufschlagen. Wenn du die erforderliche Anzahl von Gegenständen
+  gesammelt hast, kannst du zum nächsten, schwierigeren Level übergehen. Es gibt
+  jedoch viele Hindernisse, die dich davon abhalten wollen, deine Aufgabe zu
+  erfüllen! Brutus wandert auf dem Bildschirm herum und versucht ständig, dich zu
+  fangen. Wenn du eine Dose Spinat einsammelst, kannst du ihn vorübergehend außer
+  Gefecht setzen, andernfalls wird Brutus dich ausknocken. Andere Objekte wie
+  Flaschen oder Vögel fliegen ebenfalls auf dem Bildschirm herum und führen dazu,
+  dass du eines deiner Leben verlierst, wenn du getroffen wirst. In jedem Level
+  gibt es eine andere Anordnung von Plattformen und Leitern, und du musst immer
+  wieder andere Gegenstände einsammeln, die zum unteren Rand des Bildschirms
+  schweben.
+release: 1986-01-09
+players: 2
+rating: 60%
+x-id: 1569
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box2dfront/Popeye (World) (Rev A).png
+assets.video: ./media/videos/Popeye (World) (Rev A).mp4
 
 
 game: Punch-Out!!
@@ -836,38 +977,35 @@ players: 1
 rating: 85%
 x-id: 1259
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Punch-Out!! (USA).png
+assets.boxfront: ./media/box2dfront/Punch-Out!! (USA).png
 assets.video: ./media/videos/Punch-Out!! (USA).mp4
 
 
 game: Somari
 file: ./Somari.nes
 developer: Somari Team
-publisher: Ge De Industry Co.
+publisher: Ge De Industry
 genre: Abenteuer-Plattform
 description:
-  Somari  the Adventurer is a Sonic the Hedgehog port for the NES, with a twist.
-  Instead of Sonic, the player controls Somari, which can be described as Mario in
-  Sonic's shoes, literally.
-  .
-  Overall, the gameplay is quite faithful to the original game, though Somari can
-  spindash (by pressing down and A or B), a feature fist introduced in Sonic the
-  Hedgehog 2. Somari has to collect rings, but unlike in Sonic, if he's hit by an
-  enemy, only three rings will fly out of him, no matter how many rings he's
-  currently carrying.
-  .
-  The level sequence is faithful to the original game, with the exception of the
-  Scrap Brain level, which wasn't finished and thus was removed from the final
-  product. The level design ins't faithful to the original version, with constant
-  changes throughout the game. The items and monsters are the same found in the
-  original game, and the music is as faithfully translated to the NES as possible,
-  with some tempo variations.
+  Somari the Adventurer ist eine Sonic the Hedgehog-Portierung für das NES mit
+  einem Twist. Anstelle von Sonic steuert der Spieler Somari, der buchstäblich als
+  Mario in Sonics Schuhen beschrieben werden kann. Insgesamt ist das Gameplay dem
+  ursprünglichen Spiel ziemlich treu, obwohl Somari Spindashen kann, eine
+  Feature-Faust, die in Sonic the Hedgehog 2 eingeführt wurde. Somari muss Ringe
+  sammeln, aber im Gegensatz zu Sonic, wenn er von einem Feind getroffen wird,
+  fliegen nur drei Ringe aus ihm heraus, egal wie viele Ringe er derzeit trägt.
+  Die Level-Sequenz ist dem ursprünglichen Spiel treu, mit Ausnahme des
+  Scrap-Brain-Levels, das nicht fertig war und somit aus dem Endprodukt entfernt
+  wurde. Das Level-Design ist der Originalversion nicht treu, mit ständigen
+  Änderungen während des Spiels. Die Gegenstände und Monster sind die gleichen,
+  die im Originalspiel zu finden sind, und die Musik ist so treu wie möglich auf
+  das NES übersetzt, mit einigen Tempovariationen.
 release: 1994-01-01
 players: 1
 rating: 50%
 x-id: 18866
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Somari.png
+assets.boxfront: ./media/box2dfront/Somari.png
 assets.video: ./media/videos/Somari.mp4
 
 
@@ -896,7 +1034,7 @@ players: 1
 rating: 75%
 x-id: 1539
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/StarTropics (USA).png
+assets.boxfront: ./media/box2dfront/StarTropics (USA).png
 assets.video: ./media/videos/StarTropics (USA).mp4
 
 
@@ -921,52 +1059,61 @@ players: 2
 rating: 80%
 x-id: 1513
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Super C (USA).png
+assets.boxfront: ./media/box2dfront/Super C (USA).png
 assets.video: ./media/videos/Super C (USA).mp4
 
 
-game: Super Mario All-Stars NES (emu_v3-24-20)
-file: ./Super Mario All-Stars NES (emu_v3-24-20).nes
+game: Super Mario Bros All-Star Levels
+file: ./Super Mario All-Stars.nes
 players: 1
-x-id: 0
+x-id: 455063
 x-source: ScreenScraper.fr
 
 
-game: Super Mario Bros. 2 The Lost Levels V2
-file: ./Super Mario Bros. 2 The Lost Levels V2.nes
-players: 1
-x-id: 0
-x-source: ScreenScraper.fr
-
-
-game: Super Mario Bros.
-file: ./Super Mario Bros. (25 Anniversary Hack By Don24crk).nes
+game: Super Mario Bros. 2
+file: ./Super Mario Bros 2.nes
 developer: Nintendo
 publisher: Nintendo
 genre: Plattform-Plattform / Jump'n'Run
 description:
-  Super Mario Bros. ist ein Jump-'n'-Run-Videospiel des japanischen Unternehmens
-  Nintendo.\n
-  Der Spieler übernimmt die Rolle des Klempners Mario, der Hindernisse überwinden
-  und Gegner bezwingen muss, um Prinzessin Toadstool aus den Fängen von König
-  Koopa zu befreien. Dazu rennt und springt Mario durch die zweidimensional in
-  Seitenansicht dargestellte Spielwelt.
-  .
-  Die schwarzmagischen Koopas haben das Pilz-Königreich eingenommen und dessen
-  Bewohner, die Mushroom Retainer, in Blöcke, Steine und Pflanzen verwandelt.
-  Prinzessin Toadstool ist als Monarchin des Reiches als einzige in der Lage, den
-  Zauber umzukehren. Allerdings hat König Koopa sie entführt.
-  .
-  Der italienische Klempner Mario erfährt von diesen Geschehnissen. Er bricht zu
-  einem Abenteuer auf, um die Prinzessin aus den Fängen König Koopas zu befreien,
-  damit sie den Zauber umkehren und das Pilzkönigreich retten kann.
-release: 1987-05-15
-players: 2
+  Super Mario Bros. 2 ist ein Jump-'n'-Run-Videospiel. Die japanische Firma
+  Nintendo produzierte es unter der Leitung von Kensuke Tanabe für das Nintendo
+  Entertainment System (NES). Das Ziel des Spiels ist, die fiktive Welt Subcon zu
+  retten. Dafür müssen die vier Protagonisten Mario, dessen Bruder Luigi, die
+  Prinzessin und Toad den König Wart besiegen.
+release: 1989-04-28
+players: 1
 rating: 90%
-x-id: 1245
+x-id: 1248
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Super Mario Bros. (25 Anniversary Hack By Don24crk).png
-assets.video: ./media/videos/Super Mario Bros. (25 Anniversary Hack By Don24crk).mp4
+assets.boxfront: ./media/box2dfront/Super Mario Bros 2.png
+assets.video: ./media/videos/Super Mario Bros 2.mp4
+
+
+game: Super Mario Bros. 3
+file: ./Super Mario Bros.nes
+developer: Nintendo
+publisher: Nintendo
+genre: Plattform-Plattform / Jump'n'Run
+description:
+  Super Mario Bros. 3 ist ein zweidimensionales Jump 'n' Run-Videospiel der
+  japanischen Firma Nintendo.
+  .
+  König Koopas sieben Kinder, die Koopalinge, haben je ein Königreich (im Spiel
+  als Welt bezeichnet) besetzt und den König eines jeden Reichs in ein Tier
+  verwandelt. Insgesamt gibt es acht solcher Welten, die die Pilz-Welt bilden. Die
+  Klempner Mario und Luigi müssen nun die Welten durchqueren und am Ende jeder
+  Welt gegen einen Koopaling kämpfen, um den Zauberstab zurückzuerlangen und den
+  König zurückverwandeln zu können. Außerdem hat König Koopa die Prinzessin der
+  Pilz-Welt, Prinzessin Toadstool, entführt. In der achten Welt muss schließlich
+  gegen ihn gekämpft werden, um die Prinzessin zu retten.
+release: 1991-08-29
+players: 2
+rating: 95%
+x-id: 1246
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box2dfront/Super Mario Bros.png
+assets.video: ./media/videos/Super Mario Bros.mp4
 
 
 game: Super Mario World
@@ -991,7 +1138,7 @@ players: 1
 rating: 55%
 x-id: 124553
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Super Mario World.png
+assets.boxfront: ./media/box2dfront/Super Mario World.png
 assets.video: ./media/videos/Super Mario World.mp4
 
 
@@ -1017,15 +1164,15 @@ players: 2
 rating: 70%
 x-id: 1982
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Tecmo Bowl (USA).png
+assets.boxfront: ./media/box2dfront/Tecmo Bowl (USA).png
 assets.video: ./media/videos/Tecmo Bowl (USA).mp4
 
 
 game: Tetris
-file: ./Tetris (USA).nes
+file: ./Tetris (GB-Music-Hack).nes
 developer: Nintendo
 publisher: Nintendo
-genre: Puzzle
+genre: Puzzle-Puzzle / Fallen
 description:
   Diese Version von Tetris ist eine von vielen Umsetzungen des berühmten
   Blockstapelspiels, sowie die bekannteste (aber nicht die einzige) Version auf
@@ -1047,8 +1194,36 @@ players: 1
 rating: 80%
 x-id: 1291
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Tetris (USA).png
-assets.video: ./media/videos/Tetris (USA).mp4
+assets.boxfront: ./media/box2dfront/Tetris (GB-Music-Hack).png
+assets.video: ./media/videos/Tetris (GB-Music-Hack).mp4
+
+
+game: The Legend of Zelda
+file: ./Legend of Zelda, The (Europe).nes
+developer: Nintendo
+publisher: Nintendo
+genre: Rollenspiele
+description:
+  Stelle Dich der Herausforderung eines grenzenlosen Abenteuers.
+  .
+  Herzlich willkommen bei der Sage von Zelda.
+  .
+  Wo der einzig hörbare Laut das Pochen Deines Herzens ist. Wo Du durch tiefe
+  Wälder streifst. Wo Dich bei Deinem Versuch, wieder Frieden in dem Land Hyrule
+  zu schaffen, Seen, Berge und labyrinthartige Burgverliese erwarten. Wo Dich auf
+  Deinen Wegen Tektiten, Wizzroben und eine endlose Phalanx anderer skrupelloser
+  Kreaturen herausfordern, denen jedes Mittel recht ist, Dich von deinem Vorhaben
+  abzuhalten, die verlorengegangenen Bruchstücke der dreifachen Macht der Weisheit
+  zu finden. Aber verzweifele nicht! Mit ein wenig Glück und sehr viel Mut wirst
+  Du alle Widrigkeiten überwinden und die Bruchstücke der dreifachen Macht
+  vereinigen, um das Geheimnis der Sage von Zelda zu enthüllen!
+release: 1987-11-27
+players: 1
+rating: 90%
+x-id: 1250
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box2dfront/Legend of Zelda, The (GER).png
+assets.video: ./media/videos/Legend of Zelda, The (U) (PRG0) [!].mp4
 
 
 game: The Legend of Zelda
@@ -1075,15 +1250,43 @@ players: 1
 rating: 90%
 x-id: 1250
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Legend of Zelda, The (GER).png
-assets.video: ./media/videos/Legend of Zelda, The (GER).mp4
+assets.boxfront: ./media/box2dfront/Legend of Zelda, The (GER).png
+assets.video: ./media/videos/Legend of Zelda, The (U) (PRG0) [!].mp4
+
+
+game: The Legend of Zelda
+file: ./Legend of Zelda, The (U) (PRG0) [!].nes
+developer: Nintendo
+publisher: Nintendo
+genre: Rollenspiele
+description:
+  Stelle Dich der Herausforderung eines grenzenlosen Abenteuers.
+  .
+  Herzlich willkommen bei der Sage von Zelda.
+  .
+  Wo der einzig hörbare Laut das Pochen Deines Herzens ist. Wo Du durch tiefe
+  Wälder streifst. Wo Dich bei Deinem Versuch, wieder Frieden in dem Land Hyrule
+  zu schaffen, Seen, Berge und labyrinthartige Burgverliese erwarten. Wo Dich auf
+  Deinen Wegen Tektiten, Wizzroben und eine endlose Phalanx anderer skrupelloser
+  Kreaturen herausfordern, denen jedes Mittel recht ist, Dich von deinem Vorhaben
+  abzuhalten, die verlorengegangenen Bruchstücke der dreifachen Macht der Weisheit
+  zu finden. Aber verzweifele nicht! Mit ein wenig Glück und sehr viel Mut wirst
+  Du alle Widrigkeiten überwinden und die Bruchstücke der dreifachen Macht
+  vereinigen, um das Geheimnis der Sage von Zelda zu enthüllen!
+release: 1987-07-01
+players: 1
+rating: 90%
+x-id: 1250
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box2dfront/Legend of Zelda, The (U) (PRG0) [!].png
+assets.video: ./media/videos/Legend of Zelda, The (U) (PRG0) [!].mp4
 
 
 game: Yie Ar Kung-Fu
 file: ./Yie Ar Kung-Fu (J) (V1.4).nes
 developer: Konami
 publisher: Konami
-genre: Kampf
+genre: Kampf-Kampf / Versus
 description:
   Yie Ar Kung-Fu basiert auf dem beliebten Arcade-Spiel und folgt Oolongs
   Bestreben, ein Kung-Fu-Meister zu werden. Dazu muss er natürlich gegen eine
@@ -1098,7 +1301,7 @@ players: 1
 rating: 60%
 x-id: 1787
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Yie Ar Kung-Fu (J) (V1.4).png
+assets.boxfront: ./media/box2dfront/Yie Ar Kung-Fu (J) (V1.4).png
 assets.video: ./media/videos/Yie Ar Kung-Fu (J) (V1.4).mp4
 
 
@@ -1126,6 +1329,5 @@ players: 1
 rating: 80%
 x-id: 1254
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Zelda II - The Adventure of Link (GER).png
+assets.boxfront: ./media/box2dfront/Zelda II - The Adventure of Link (GER).png
 assets.video: ./media/videos/Zelda II - The Adventure of Link (GER).mp4
-
