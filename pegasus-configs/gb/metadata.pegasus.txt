@@ -1,10 +1,10 @@
-collection: Game Boy/Game Boy Color
+collection: Nintendo Gameboy 
 shortname: gb
-extensions: dmg, gb, gbc
+extensions: gb, zip,
 launch: am start --user 0
   -n com.retroarch/.browser.retroactivity.RetroActivityFuture
   -e ROM {file.path}
-  -e LIBRETRO /data/data/com.retroarch/cores/gambatte_libretro_android.so
+  -e LIBRETRO /data/data/com.retroarch/cores/mgba_libretro.so
   -e CONFIGFILE /storage/emulated/0/Android/data/com.retroarch/files/retroarch.cfg
   -e QUITFOCUS
   --activity-clear-top
@@ -14,7 +14,7 @@ game: 4-in-1 Fun Pak Volume II
 file: ./4-in-1 Fun Pak Volume II (USA, Europe).zip
 developer: Beam Software
 publisher: Interplay
-genre: Verschiedene-Brettspiele
+genre: Brettspiele
 description:
   Jetzt kannst du vier der beliebtesten Brettspiele aller Zeiten auf deinem GAME
   BOY haben ... alles zusammen in einem unterhaltsamen Paket! Sargon Chess...
@@ -28,7 +28,7 @@ players: 2
 rating: 65%
 x-id: 59620
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/4-in-1 Fun Pak Volume II (USA, Europe).png
+assets.boxfront: ./media/box2dfront/4-in-1 Fun Pak Volume II (USA, Europe).png
 assets.video: ./media/videos/4-in-1 Fun Pak Volume II (USA, Europe).mp4
 
 
@@ -36,7 +36,7 @@ game: 4-in-1 Fun Pak
 file: ./4-in-1 Fun Pak (USA, Europe).zip
 developer: Beam Software
 publisher: Interplay
-genre: Verschiedene-Brettspiele
+genre: Brettspiele
 description:
   4-in-1 Fun Pak verbinden vier Brettspiele die du gegen die CPU oder ein anderen
   Spieler spielen kannst.\n
@@ -51,7 +51,7 @@ players: 2
 rating: 60%
 x-id: 46495
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/4-in-1 Fun Pak (USA, Europe).png
+assets.boxfront: ./media/box2dfront/4-in-1 Fun Pak (USA, Europe).png
 assets.video: ./media/videos/4-in-1 Fun Pak (USA, Europe).mp4
 
 
@@ -72,7 +72,7 @@ players: 1
 rating: 85%
 x-id: 170144
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Aladdin (USA) (SGB Enhanced).png
+assets.boxfront: ./media/box2dfront/Aladdin (USA) (SGB Enhanced).png
 assets.video: ./media/videos/Aladdin (USA) (SGB Enhanced).mp4
 
 
@@ -105,7 +105,7 @@ players: 2
 rating: 70%
 x-id: 59736
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Arcade Classic No. 1 - Asteroids & Missile Command (USA, Europe) (SGB Enhanced).png
+assets.boxfront: ./media/box2dfront/Arcade Classic No. 1 - Asteroids & Missile Command (USA, Europe) (SGB Enhanced).png
 assets.video: ./media/videos/Arcade Classic No. 1 - Asteroids & Missile Command (USA, Europe) (SGB Enhanced).mp4
 
 
@@ -113,7 +113,7 @@ game: Arcade Classic No. 2 : Centipede & Millipede
 file: ./Arcade Classic No. 2 - Centipede & Millipede (USA, Europe) (SGB Enhanced).zip
 developer: The Code Monkeys
 publisher: Nintendo
-genre: Shoot'em Up-Shooter-Sammlung
+genre: Shooter-Sammlung
 description:
   Centipede
   .
@@ -139,7 +139,7 @@ players: 1
 rating: 80%
 x-id: 59737
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Arcade Classic No. 2 - Centipede & Millipede (USA, Europe) (SGB Enhanced).png
+assets.boxfront: ./media/box2dfront/Arcade Classic No. 2 - Centipede & Millipede (USA, Europe) (SGB Enhanced).png
 assets.video: ./media/videos/Arcade Classic No. 2 - Centipede & Millipede (USA, Europe) (SGB Enhanced).mp4
 
 
@@ -172,7 +172,7 @@ players: 2
 rating: 75%
 x-id: 59738
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Arcade Classic No. 3 - Galaga & Galaxian (USA) (SGB Enhanced).png
+assets.boxfront: ./media/box2dfront/Arcade Classic No. 3 - Galaga & Galaxian (USA) (SGB Enhanced).png
 assets.video: ./media/videos/Arcade Classic No. 3 - Galaga & Galaxian (USA) (SGB Enhanced).mp4
 
 
@@ -180,60 +180,50 @@ game: Arcade Classic No. 4 : Defender & Joust
 file: ./Arcade Classic No. 4 - Defender & Joust (USA, Europe) (SGB Enhanced).zip
 developer: Williams
 publisher: Nintendo
-genre: Shoot'em Up-Action-Sammlung
+genre: Shoot'em Up-Sammlung
 description:
-  Defender
+  Defender:\n
+  Weltraumschieß-Action in einem Hochgeschwindigkeitsschiff! Bewegen Sie sich von
+  Planet zu Planet in einem tödlichen Versuch, die feindliche Bedrohung zu
+  beseitigen! Nutzen Sie ein unglaubliches Waffenarsenal und retten Sie die
+  Menschheit!
   .
-  Space Shooting Action in a High-Speed Ship!\n
-  Advance from planet to planet in a deadly attempt to eliminate the enemy threat!
-  Utilize an outrageous arsenal of weapons and save the human race!
-  .
-  Joust
-  .
-  A Feather-Ruffling Romp on a Futuristic Bird!\n
-  Get ready to climb on a futuristic flying ostrich for frenzied wing-flapping
-  fun! Ram rival jousters in an all-out effort to knock them off their mounts!
-  .
-  - Two classic "get-them-before-they-get-you" arcade games!\n
-  - Double game pak for twice the challenge!\n
-  - Programmed to take full advantage of Super Game Boy features!\n
-  - Incredible entertainment for arcade fans of all ages!
+  Joust\n
+  Ein federleichtes Toben auf einem futuristischen Vogel! Machen Sie sich bereit,
+  auf einen futuristischen fliegenden Strauß zu klettern und wilden
+  Flügelschlagspaß zu erleben! Ramme rivalisierende Turnierspieler mit aller
+  Kraft, um sie von ihren Pferden zu stoßen!
 release: 1995-01-01
 players: 2
 rating: 65%
 x-id: 59739
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Arcade Classic No. 4 - Defender & Joust (USA, Europe) (SGB Enhanced).png
+assets.boxfront: ./media/box2dfront/Arcade Classic No. 4 - Defender & Joust (USA, Europe) (SGB Enhanced).png
 assets.video: ./media/videos/Arcade Classic No. 4 - Defender & Joust (USA, Europe) (SGB Enhanced).mp4
 
 
 game: Beavis and Butt-Head
 file: ./Beavis and Butt-Head (USA, Europe).zip
 developer: Viacom New Media
-publisher: GT Interactive
+publisher: GT Interactive Software
 genre: Plattform-Action-Abenteuer
 description:
-  Beavis and Butt-head need you! Help the boys escape from Buzzcut's detention!
-  Steer your favorite morons through sewers, parks, Burger World, karate school,
-  and loads of nose-picking, head-banging action! You'll dodge Todd's gang! Kill
-  Cockroaches! Deliver Burgers! And master the dreaded Nad-kick!
-  .
-  Features:
-  .
-  - More than 10 adventure-packed areas of moronic mayhem - escape detention, flee
-  gangs, outrun rabid dogs, and tear up a karate school.
-  .
-  - Varied game play views: side-scrolling and overhead perspectives along with
-  challenging mini-games.
-  .
-  - Diverse environments including the school grounds, city jail, Burger World,
-  the karate school, and more.
+  Beavis und Butt-head brauchen dich! Helfen Sie den Jungs, aus Buzzcuts Haft zu
+  fliehen! Steuern Sie Ihre Lieblingsidioten durch Abwasserkanäle, Parks, Burger
+  World, die Karateschule und jede Menge Nasenbohr- und Headbanging-Action! Du
+  wirst Todds Bande ausweichen! Töte Kakerlaken! Liefere Burger! Und meistere den
+  gefürchteten Nad-Kick! Features: - Mehr als 10 abenteuerreiche Gebiete voll
+  schwachsinnigem Chaos – entkommen Sie der Haft, fliehen Sie vor Banden,
+  entkommen Sie tollwütigen Hunden und zerstören Sie eine Karate-Schule. -
+  Abwechslungsreiche Spielansichten: Side-Scrolling- und Overhead-Perspektiven
+  sowie herausfordernde Minispiele. - Verschiedene Umgebungen, darunter das
+  Schulgelände, das Stadtgefängnis, Burger World, die Karateschule und mehr.
 release: 1999-03-01
 players: 1
 rating: 35%
 x-id: 3398
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Beavis and Butt-Head (USA, Europe).png
+assets.boxfront: ./media/box2dfront/Beavis and Butt-Head (USA, Europe).png
 assets.video: ./media/videos/Beavis and Butt-Head (USA, Europe).mp4
 
 
@@ -241,25 +231,26 @@ game: Frogger
 file: ./Frogger (USA).zip
 developer: Konami
 publisher: Majesco
-genre: Shooter-Action
+genre: Shooter-Action-Action / Labyrinth
 description:
-  Your task in this arcade game is to guide a frog across a treacherous road and
-  river, and to safety at the top of the screen. Both these sections are fraught
-  with a variety of hazards, each of which will kill the frog and cost you a life
-  if contact is made.
-  .
-  The road is full of cars and trucks, at variable speeds. The river water itself
-  is fatal, as are the snakes which hover within on later levels. Frogger must use
-  the arrangement of logs, turtles (which are only there for a short time) and
-  alligators (but stay away from their faces), and then jump into one of the open
-  home-cells, ideally one containing a fly for extra points. Once all holes have
-  been filled, you move onto the next, harder, level.
+  Ihre Aufgabe in diesem Arcade-Spiel ist es, einen Frosch über eine tückische
+  Straße und einen Fluss zu führen und ihn oben auf dem Bildschirm in Sicherheit
+  zu bringen. Beide Abschnitte bergen eine Vielzahl von Gefahren, von denen jeder
+  den Frosch tötet und Sie bei Kontakt das Leben kostet. Die Straße ist voller
+  Autos und Lastwagen mit unterschiedlichen Geschwindigkeiten. Das Flusswasser
+  selbst ist tödlich, ebenso wie die Schlangen, die auf späteren Ebenen darin
+  herumschwirren. Frogger muss die Anordnung aus Baumstämmen, Schildkröten (die
+  nur für kurze Zeit dort sind) und Alligatoren verwenden (aber sich von ihren
+  Gesichtern fernhalten) und dann in eine der offenen Heimzellen springen,
+  idealerweise in eine, in der sich eine Fliege befindet, um zusätzliche Punkte zu
+  erhalten . Sobald alle Löcher gefüllt sind, geht es zum nächsten, schwierigeren
+  Level.
 release: 1998-08-01
 players: 2
 rating: 80%
 x-id: 3437
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Frogger (USA).png
+assets.boxfront: ./media/box2dfront/Frogger (USA).png
 assets.video: ./media/videos/Frogger (USA).mp4
 
 
@@ -285,7 +276,7 @@ players: 2
 rating: 90%
 x-id: 69972
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Pokemon - Blaue Edition (Germany) (SGB Enhanced).png
+assets.boxfront: ./media/box2dfront/Pokemon - Blaue Edition (Germany) (SGB Enhanced).png
 assets.video: ./media/videos/Pokemon - Blaue Edition (Germany) (SGB Enhanced).mp4
 
 
@@ -304,7 +295,7 @@ players: 2
 rating: 90%
 x-id: 70017
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Pokemon - Gelbe Edition - Special Pikachu Edition (Germany) (GBC,SGB Enhanced).png
+assets.boxfront: ./media/box2dfront/Pokemon - Gelbe Edition - Special Pikachu Edition (Germany) (GBC,SGB Enhanced).png
 assets.video: ./media/videos/Pokemon - Gelbe Edition - Special Pikachu Edition (Germany) (GBC,SGB Enhanced).mp4
 
 
@@ -324,7 +315,7 @@ players: 1
 rating: 85%
 x-id: 82619
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Pokemon - Goldene Edition (Germany) (SGB Enhanced).png
+assets.boxfront: ./media/box2dfront/Pokemon - Goldene Edition (Germany) (SGB Enhanced).png
 assets.video: ./media/videos/Pokemon - Goldene Edition (Germany) (SGB Enhanced).mp4
 
 
@@ -350,7 +341,7 @@ players: 2
 rating: 90%
 x-id: 69990
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Pokemon - Rote Edition (Germany) (SGB Enhanced).png
+assets.boxfront: ./media/box2dfront/Pokemon - Rote Edition (Germany) (SGB Enhanced).png
 assets.video: ./media/videos/Pokemon - Rote Edition (Germany) (SGB Enhanced).mp4
 
 
@@ -370,7 +361,7 @@ players: 1
 rating: 85%
 x-id: 82616
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Pokemon - Silberne Edition (Germany) (SGB Enhanced).png
+assets.boxfront: ./media/box2dfront/Pokemon - Silberne Edition (Germany) (SGB Enhanced).png
 assets.video: ./media/videos/Pokemon - Silberne Edition (Germany) (SGB Enhanced).mp4
 
 
@@ -391,7 +382,7 @@ players: 1
 rating: 75%
 x-id: 82603
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Pokemon Trading Card Game (Europe) (En,Fr,De) (SGB Enhanced).png
+assets.boxfront: ./media/box2dfront/Pokemon Trading Card Game (Europe) (En,Fr,De) (SGB Enhanced).png
 assets.video: ./media/videos/Pokemon Trading Card Game (Europe) (En,Fr,De) (SGB Enhanced).mp4
 
 
@@ -418,7 +409,7 @@ players: 1
 rating: 90%
 x-id: 142935
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Super Mario Land DX.png
+assets.boxfront: ./media/box2dfront/Super Mario Land DX.png
 assets.video: ./media/videos/Super Mario Land DX.mp4
 
 
@@ -426,24 +417,23 @@ game: Tetris Flash
 file: ./Tetris 2 (USA, Europe) (SGB Enhanced).zip
 developer: Nintendo
 publisher: Nintendo
-genre: Puzzle-Action
+genre: Puzzle-Action-Puzzle / Fallen
 description:
-  Unlike the original Tetris, Tetris 2 has you clearing the field of blocks in a
-  different way. Each play field starts with different colored dots (in this case
-  black, gray and white), with one of each color flashing.
-  .
-  The blocks are made up of the same three colors, and by matching blocks of the
-  same color over the top or to the side of the dot will clear the dot and those
-  blocks from the screen. If you clear a flashing dot, all the corresponding dots
-  of the same color will be cleared.
-  .
-  To complete the round just clear the dots, not the blocks themselves.
+  Im Gegensatz zum ursprünglichen Tetris müssen Sie bei Tetris 2 das Feld auf
+  andere Weise von Blöcken befreien. Jedes Spielfeld beginnt mit
+  verschiedenfarbigen Punkten (in diesem Fall schwarz, grau und weiß), wobei
+  jeweils einer in jeder Farbe blinkt. Die Blöcke bestehen aus den gleichen drei
+  Farben. Wenn Sie Blöcke derselben Farbe über oder an der Seite des Punkts
+  anordnen, werden der Punkt und diese Blöcke vom Bildschirm entfernt. Wenn Sie
+  einen blinkenden Punkt löschen, werden alle entsprechenden Punkte derselben
+  Farbe gelöscht. Um die Runde abzuschließen, räumen Sie einfach die Punkte ab,
+  nicht die Blöcke selbst.
 release: 1993-12-02
 players: 2
 rating: 85%
 x-id: 3300
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Tetris 2 (USA, Europe) (SGB Enhanced).png
+assets.boxfront: ./media/box2dfront/Tetris 2 (USA, Europe) (SGB Enhanced).png
 assets.video: ./media/videos/Tetris 2 (USA, Europe) (SGB Enhanced).mp4
 
 
@@ -451,20 +441,21 @@ game: Tetris Plus
 file: ./Tetris Plus (USA, Europe) (SGB Enhanced).zip
 developer: Jaleco
 publisher: Jaleco
-genre: Puzzle-Action
+genre: Puzzle-Action-Puzzle / Fallen
 description:
-  This is yet another updated version of Tetris which was released for
-  PlayStation, Saturn, and Game Boy.  This version features Classic mode, Puzzle
-  mode, Versus mode, and Edit mode.  In Puzzle mode, you must save the professor
-  who climbs his way to the top.  In order to do that, you must clear the blocks
-  away and bring him to the bottom.  Versus mode brings you head to head with
-  another player.  Edit mode allows you to create and save your own custom levels.
+  Dies ist eine weitere aktualisierte Version von Tetris, die für PlayStation,
+  Saturn und Game Boy veröffentlicht wurde. Diese Version bietet den klassischen
+  Modus, den Puzzle-Modus, den Versus-Modus und den Bearbeitungsmodus. Im
+  Puzzle-Modus müssen Sie den Professor retten, der nach oben klettert. Dazu
+  müssen Sie die Blöcke wegräumen und ihn nach unten bringen. Im Versus-Modus
+  treten Sie gegen einen anderen Spieler an. Im Bearbeitungsmodus können Sie Ihre
+  eigenen benutzerdefinierten Ebenen erstellen und speichern.
 release: 1996-01-01
 players: 2
 rating: 70%
 x-id: 3484
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Tetris Plus (USA, Europe) (SGB Enhanced).png
+assets.boxfront: ./media/box2dfront/Tetris Plus (USA, Europe) (SGB Enhanced).png
 assets.video: ./media/videos/Tetris Plus (USA, Europe) (SGB Enhanced).mp4
 
 
@@ -487,15 +478,15 @@ players: 2
 rating: 80%
 x-id: 2976
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Tetris (World) (Rev A).png
+assets.boxfront: ./media/box2dfront/Tetris (World) (Rev A).png
 assets.video: ./media/videos/Tetris (World) (Rev A).mp4
 
 
 game: Turrican
 file: ./Turrican (USA, Europe).zip
-developer: Rainbow Arts
+developer: The Code Monkeys
 publisher: Accolade
-genre: Shoot'em Up-Action-Plattform / Shooter Scrolling-Plattform
+genre: Plattform / Shooter Scrolling-Plattform
 description:
   Ziel des Spiels ist es, durch eine Welt namens Alterra hindurchzugehen und den
   Endgegner Morgul zu finden und zu vernichten. Alterra wird beschrieben als eine
@@ -506,12 +497,12 @@ description:
   Funktionen haben sich daraufhin verselbstständigt. Der Spieler schlüpft in die
   Rolle des Helden (Turrican) und wird nach Alterra geschickt, um die Kolonie
   wieder für die Menschheit zurückzugewinnen.
-release: 1991-11-01
+release: 1992-01-01
 players: 1
 rating: 70%
 x-id: 3290
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Turrican (USA, Europe).png
+assets.boxfront: ./media/box2dfront/Turrican (USA, Europe).png
 assets.video: ./media/videos/Turrican (USA, Europe).mp4
 
 
@@ -519,7 +510,7 @@ game: Wario Land : Super Mario Land 3
 file: ./Wario Land - Super Mario Land 3 (World).zip
 developer: Nintendo
 publisher: Nintendo
-genre: Action-Plattform / Jump'n'Run-Plattform
+genre: Plattform / Jump'n'Run-Plattform
 description:
   Auf der Pfeffer-Insel brodelt in Super Mario Land 3: Wario Land für GameBoy die
   Gerüchteküche! Wario hat doch tatsächlich vor, den Schatz der Piraten zu klauen,
@@ -534,7 +525,7 @@ players: 1
 rating: 90%
 x-id: 2980
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Wario Land - Super Mario Land 3 (World).png
+assets.boxfront: ./media/box2dfront/Wario Land - Super Mario Land 3 (World).png
 assets.video: ./media/videos/Wario Land - Super Mario Land 3 (World).mp4
 
 
@@ -556,6 +547,5 @@ players: 1
 rating: 75%
 x-id: 2978
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Wario Land II (USA, Europe) (SGB Enhanced).png
+assets.boxfront: ./media/box2dfront/Wario Land II (USA, Europe) (SGB Enhanced).png
 assets.video: ./media/videos/Wario Land II (USA, Europe) (SGB Enhanced).mp4
-
