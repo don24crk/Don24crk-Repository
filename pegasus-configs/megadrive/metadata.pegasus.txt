@@ -1,10 +1,10 @@
-collection: Sega 8/16-bit (Various)
+collection: Sega Megadrive
 shortname: megadrive
-extensions: 68k, bin, bms, chd, cue, gen, gg, iso, m3u, md, mdx, sg, sgd, smd, sms
+extensions: gen, md, mdx, sg, sgd, smd, 
 launch: am start --user 0
   -n com.retroarch/.browser.retroactivity.RetroActivityFuture
   -e ROM {file.path}
-  -e LIBRETRO /data/data/com.retroarch/cores/genesis_plus_gx_libretro_android.so
+  -e LIBRETRO /data/data/com.retroarch/cores/picodrive_libretro.so
   -e CONFIGFILE /storage/emulated/0/Android/data/com.retroarch/files/retroarch.cfg
   -e QUITFOCUS
   --activity-clear-top
@@ -14,7 +14,7 @@ game: Aladdin
 file: ./Aladdin (GERMAN).zip
 developer: Virgin
 publisher: SEGA
-genre: Plattform-Action
+genre: Plattform
 description:
   SEGA präsentiert eine brilliante, Disney/Virgin Games Koproduktion von Disney's
   Aladdin. Haltet euch am Teppich fest, jetzt kommen Spaß, Abenteuer, Fantasie und
@@ -27,7 +27,7 @@ players: 1
 rating: 90%
 x-id: 8
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Aladdin (GERMAN).png
+assets.boxfront: ./media/box2dfront/Aladdin (GERMAN).png
 assets.video: ./media/videos/Aladdin (GERMAN).mp4
 
 
@@ -47,7 +47,7 @@ players: 1
 rating: 90%
 x-id: 36
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Alien Soldier (Europe).png
+assets.boxfront: ./media/box2dfront/Alien Soldier (Europe).png
 assets.video: ./media/videos/Alien Soldier (Europe).mp4
 
 
@@ -67,13 +67,13 @@ players: 2
 rating: 65%
 x-id: 15
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Altered Beast (USA, Europe).png
+assets.boxfront: ./media/box2dfront/Altered Beast (USA, Europe).png
 assets.video: ./media/videos/Altered Beast (USA, Europe).mp4
 
 
 game: Batman : Revenge of the Joker
 file: ./Batman - Revenge of the Joker (USA).zip
-developer: Ringler Studios
+developer: Ringler
 publisher: Sunsoft
 genre: Plattform
 description:
@@ -94,7 +94,7 @@ players: 1
 rating: 35%
 x-id: 199
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Batman - Revenge of the Joker (USA).png
+assets.boxfront: ./media/box2dfront/Batman - Revenge of the Joker (USA).png
 assets.video: ./media/videos/Batman - Revenge of the Joker (USA).mp4
 
 
@@ -117,7 +117,7 @@ players: 2
 rating: 70%
 x-id: 333
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Blades of Vengeance (USA, Europe).png
+assets.boxfront: ./media/box2dfront/Blades of Vengeance (USA, Europe).png
 assets.video: ./media/videos/Blades of Vengeance (USA, Europe).mp4
 
 
@@ -125,7 +125,7 @@ game: Boogerman : A Pick and Flick Adventure
 file: ./Boogerman - A Pick and Flick Adventure (USA).zip
 developer: Interplay
 publisher: Interplay
-genre: Action-Plattform
+genre: Plattform
 description:
   Stehe unserem Helden, dem Boogerman, bei, wenn er versucht, die Welt vor dem
   widerlichen Booger Meister zu retten, und erlebe das absolute Spitzenspiel der
@@ -140,7 +140,7 @@ players: 1
 rating: 80%
 x-id: 18371
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Boogerman - A Pick and Flick Adventure (USA).png
+assets.boxfront: ./media/box2dfront/Boogerman - A Pick and Flick Adventure (USA).png
 assets.video: ./media/videos/Boogerman - A Pick and Flick Adventure (USA).mp4
 
 
@@ -148,7 +148,7 @@ game: Castle of Illusion Starring Mickey Mouse
 file: ./Castle of Illusion Starring Mickey Mouse (USA, Europe).zip
 developer: SEGA
 publisher: SEGA
-genre: Plattform-Action-Plattform / Jump'n'Run Scrolling
+genre: Plattform-Plattform / Jump'n'Run Scrolling
 description:
   Castle of Illusion mit Mickey Mouse auf Megadrive ist ein Plattformspiel, in dem
   Sie Minnie vor den Klauen der Hexe Mizrabel retten müssen. Spielen Sie als
@@ -159,7 +159,7 @@ players: 1
 rating: 75%
 x-id: 22
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Castle of Illusion Starring Mickey Mouse (USA, Europe).png
+assets.boxfront: ./media/box2dfront/Castle of Illusion Starring Mickey Mouse (USA, Europe).png
 assets.video: ./media/videos/Castle of Illusion Starring Mickey Mouse (USA, Europe).mp4
 
 
@@ -167,7 +167,7 @@ game: Castlevania : Bloodlines
 file: ./Castlevania - Bloodlines (USA).zip
 developer: Konami
 publisher: Konami
-genre: Plattform
+genre: Plattform-Plattform / Kampf Scrolling
 description:
   Im Jahre 1897 wurde Dracula von Quincy Morris - einem entfernten Verwandten der
   Belmont Familie - endgültig besiegt.\n
@@ -181,7 +181,7 @@ players: 1
 rating: 90%
 x-id: 40
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Castlevania - Bloodlines (USA).png
+assets.boxfront: ./media/box2dfront/Castlevania - Bloodlines (USA).png
 assets.video: ./media/videos/Castlevania - Bloodlines (USA).mp4
 
 
@@ -189,7 +189,7 @@ game: Comix Zone
 file: ./Comix Zone (GERMAN).zip
 developer: SEGA
 publisher: SEGA
-genre: Beat'em Up-Action
+genre: Beat'em Up
 description:
   Hinein in die Comix Zone... den ersten wirklich interaktiven Comic Strip!!
   Merkwürdige Umstände halten Comic-Zeichner Sketch in den Seiten seines
@@ -202,7 +202,7 @@ players: 1
 rating: 80%
 x-id: 35
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Comix Zone (GERMAN).png
+assets.boxfront: ./media/box2dfront/Comix Zone (GERMAN).png
 assets.video: ./media/videos/Comix Zone (GERMAN).mp4
 
 
@@ -222,7 +222,7 @@ players: 1
 rating: 65%
 x-id: 104
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Cool Spot (USA).png
+assets.boxfront: ./media/box2dfront/Cool Spot (USA).png
 assets.video: ./media/videos/Cool Spot (USA).mp4
 
 
@@ -245,7 +245,7 @@ players: 4
 rating: 75%
 x-id: 407
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Crue Ball - Heavy Metal Pinball (USA, Europe).png
+assets.boxfront: ./media/box2dfront/Crue Ball - Heavy Metal Pinball (USA, Europe).png
 assets.video: ./media/videos/Crue Ball - Heavy Metal Pinball (USA, Europe).mp4
 
 
@@ -253,7 +253,7 @@ game: Double Dragon V : The Shadow Falls
 file: ./Double Dragon V - The Shadow Falls (USA).zip
 developer: Leland Interactive Media
 publisher: Tradewest
-genre: Action-Kampf
+genre: Kampf
 description:
   Double Dragon kehrt zurück, dieses Mal als VS. Fighter, in der gleichen Form wie
   Street Fighter. Basierend auf der Double Dragon-Zeichentrickserie, die lose auf
@@ -269,15 +269,15 @@ players: 2
 rating: 20%
 x-id: 352
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Double Dragon V - The Shadow Falls (USA).png
+assets.boxfront: ./media/box2dfront/Double Dragon V - The Shadow Falls (USA).png
 assets.video: ./media/videos/Double Dragon V - The Shadow Falls (USA).mp4
 
 
 game: Gods
 file: ./Gods (USA).zip
-developer: Graftgold
+developer: Graftgold Creative Software
 publisher: Mindscape
-genre: Action-Plattform
+genre: Plattform
 description:
   Um Dir als Herkules Deinen Platz unter den Unsterblichen zu sichern, musst Du
   Deinen ganzen Verstand einsetzen. Erforsche phantastische Tempel, verlorene
@@ -291,7 +291,7 @@ players: 1
 rating: 70%
 x-id: 357
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Gods (USA).png
+assets.boxfront: ./media/box2dfront/Gods (USA).png
 assets.video: ./media/videos/Gods (USA).mp4
 
 
@@ -299,7 +299,7 @@ game: Gunstar Heroes
 file: ./Gunstar Heroes (GERMAN).zip
 developer: Treasure
 publisher: SEGA
-genre: Beat'em Up-Action-Shooter / Run and Gun-Shooter
+genre: Plattform / Shooter Scrolling-Plattform-Shooter / Run and Gun-Shooter
 description:
   In Gunstar Heroes für Mega Drive wird auf dem Planeten Gunstar 9 nach einer
   langen Friedensperiode der ältere Zwillingsbruder der Gunstars vom bösen
@@ -312,7 +312,7 @@ players: 2
 rating: 80%
 x-id: 89
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Gunstar Heroes (GERMAN).png
+assets.boxfront: ./media/box2dfront/Gunstar Heroes (GERMAN).png
 assets.video: ./media/videos/Gunstar Heroes (GERMAN).mp4
 
 
@@ -320,7 +320,7 @@ game: Lightening Force : Quest for the Darkstar
 file: ./Thunder Force IV (U).zip
 developer: Technosoft
 publisher: SEGA
-genre: Shoot'em Up-Action-Shoot'em Up / Horizontal
+genre: Shoot'em Up-Shoot'em Up / Horizontal
 description:
   11 Jahre nach den Ereignissen von Thunder Force V hat die Erde endlich begonnen,
   sich von der wütenden KI "Guardian" zu erholen, die den Planeten beinahe
@@ -338,15 +338,15 @@ players: 1
 rating: 90%
 x-id: 55
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Thunder Force IV (U).png
+assets.boxfront: ./media/box2dfront/Thunder Force IV (U).png
 assets.video: ./media/videos/Thunder Force IV (U).mp4
 
 
 game: Mazin Saga : Mutant Fighter
 file: ./Mazin Saga - Mutant Fighter (USA).zip
-developer: Almanic Corp.
+developer: Almanic
 publisher: Vic Tokai
-genre: Action-Beat'em Up
+genre: Beat'em Up
 description:
   Mazin Saga: Mutant Fighters ist ein sehr einfaches Spiel, aber eines, das sehr
   viel Spaß macht. Künstlerisch ist das Spiel sehr detailliert und besteht aus
@@ -359,7 +359,7 @@ players: 1
 rating: 90%
 x-id: 18405
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Mazin Saga - Mutant Fighter (USA).png
+assets.boxfront: ./media/box2dfront/Mazin Saga - Mutant Fighter (USA).png
 assets.video: ./media/videos/Mazin Saga - Mutant Fighter (USA).mp4
 
 
@@ -367,7 +367,7 @@ game: Mystical Fighter
 file: ./Mystical Fighter (USA).zip
 developer: Kindle Imagine Develop
 publisher: DreamWorks
-genre: Beat'em Up-Action
+genre: Beat'em Up
 description:
   Ein Samurai betritt ein Zeitportal, um in die Shogun-Dynastie zurückzukehren und
   den bösen Lord Kabuki zu besiegen. Das Spiel ist im Grunde ein
@@ -383,7 +383,7 @@ players: 2
 rating: 60%
 x-id: 1120
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Mystical Fighter (USA).png
+assets.boxfront: ./media/box2dfront/Mystical Fighter (USA).png
 assets.video: ./media/videos/Mystical Fighter (USA).mp4
 
 
@@ -404,7 +404,7 @@ players: 1
 rating: 80%
 x-id: 30
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Phantasy Star IV (USA).png
+assets.boxfront: ./media/box2dfront/Phantasy Star IV (USA).png
 assets.video: ./media/videos/Phantasy Star IV (USA).mp4
 
 
@@ -425,7 +425,7 @@ players: 1
 rating: 70%
 x-id: 187
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Phantom 2040 (USA).png
+assets.boxfront: ./media/box2dfront/Phantom 2040 (USA).png
 assets.video: ./media/videos/Phantom 2040 (USA).mp4
 
 
@@ -450,7 +450,7 @@ players: 1
 rating: 85%
 x-id: 570
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Scooby-Doo Mystery (USA).png
+assets.boxfront: ./media/box2dfront/Scooby-Doo Mystery (USA).png
 assets.video: ./media/videos/Scooby-Doo Mystery (USA).mp4
 
 
@@ -476,7 +476,7 @@ players: 2
 rating: 70%
 x-id: 410
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Second Samurai (Europe).png
+assets.boxfront: ./media/box2dfront/Second Samurai (Europe).png
 assets.video: ./media/videos/Second Samurai (Europe).mp4
 
 
@@ -484,7 +484,7 @@ game: Shadow Dancer : The Secret of Shinobi
 file: ./Shadow Dancer - The Secret of Shinobi (World).zip
 developer: SEGA
 publisher: SEGA
-genre: Beat'em Up-Action-Plattform
+genre: Plattform
 description:
   Die Shinobi-Explosion ist zurück in Shadow Dancer: The Secret of Shinobi für
   Mega Drive! Der Meister der Tarnung und der todbringenden Kunst von Shuriken
@@ -504,7 +504,7 @@ players: 1
 rating: 85%
 x-id: 82
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Shadow Dancer - The Secret of Shinobi (World).png
+assets.boxfront: ./media/box2dfront/Shadow Dancer - The Secret of Shinobi (World).png
 assets.video: ./media/videos/Shadow Dancer - The Secret of Shinobi (World).mp4
 
 
@@ -512,7 +512,7 @@ game: Shining Force II
 file: ./Shining Force II (USA).zip
 developer: Camelot Software
 publisher: SEGA
-genre: Rollenspiele
+genre: Rollenspiele-Taktisches Rollenspiel
 description:
   Shining Force II ist ein taktisches RPG auf Mega Drive. Die Geschichte folgt den
   Ereignissen des Spiels Shining Force Gaiden: Final Conflict, das auf Game Gear
@@ -526,7 +526,7 @@ players: 1
 rating: 80%
 x-id: 44
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Shining Force II (USA).png
+assets.boxfront: ./media/box2dfront/Shining Force II (USA).png
 assets.video: ./media/videos/Shining Force II (USA).mp4
 
 
@@ -546,7 +546,7 @@ players: 1
 rating: 90%
 x-id: 11
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Shinobi III - Return of the Ninja Master (GERMAN).png
+assets.boxfront: ./media/box2dfront/Shinobi III - Return of the Ninja Master (GERMAN).png
 assets.video: ./media/videos/Shinobi III - Return of the Ninja Master (GERMAN).mp4
 
 
@@ -554,7 +554,7 @@ game: Sonic 3
 file: ./Sonic The Hedgehog 3 (USA).wide.zip
 developer: Sonic Team
 publisher: SEGA
-genre: Plattform-Action
+genre: Plattform
 description:
   Sechs riesige Welten -- dreimal umfangreicher als Sonic 2!\n
   Zwei völlig neue Bonuslevel. Viele neue Gegener in Sonics bisher größtem
@@ -565,7 +565,7 @@ players: 2
 rating: 80%
 x-id: 1187
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Sonic The Hedgehog 3 (USA).wide.png
+assets.boxfront: ./media/box2dfront/Sonic The Hedgehog 3 (USA).wide.png
 assets.video: ./media/videos/Sonic The Hedgehog 3 (USA).wide.mp4
 
 
@@ -573,7 +573,7 @@ game: Sonic The Hedgehog 2
 file: ./Sonic The Hedgehog 2 (World) (Rev A).wide.zip
 developer: SEGA
 publisher: SEGA
-genre: Plattform-Action
+genre: Plattform
 description:
   Der Fuchs Tails beobachtet Sonic und wird sein Freund, da er ebenfalls fast so
   schnell wie Sonic laufen bzw. fliegen kann.
@@ -595,12 +595,12 @@ description:
   Mit allen sieben Chaos Emeralds verwandelt sich Sonic, sofern man sie gesammelt
   hat, in Super Sonic, sofern man sie nicht gesammelt hat fliegt nun Sonic auf den
   Tragflächen von Sonics Propellerflugzeug Tornado davon.
-release: 1992-01-01
+release: 1992-11-24
 players: 2
 rating: 80%
 x-id: 3
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Sonic The Hedgehog 2 (World) (Rev A).wide.png
+assets.boxfront: ./media/box2dfront/Sonic The Hedgehog 2 (World) (Rev A).wide.png
 assets.video: ./media/videos/Sonic The Hedgehog 2 (World) (Rev A).wide.mp4
 
 
@@ -608,7 +608,7 @@ game: Sonic The Hedgehog
 file: ./Sonic The Hedgehog (USA, Europe).wide.zip
 developer: SEGA
 publisher: SEGA
-genre: Plattform-Action
+genre: Plattform
 description:
   Durchbrechen Sie die Videospiel-Geschwindigkeitsbarriere mit Sonic The Hedgehog.
   Fetzen Sie mit dem Super Sonic Spin Attack (Überschall-Drehangriff) wie ein
@@ -620,7 +620,7 @@ players: 1
 rating: 80%
 x-id: 5
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Sonic The Hedgehog (USA, Europe).wide.png
+assets.boxfront: ./media/box2dfront/Sonic The Hedgehog (USA, Europe).wide.png
 assets.video: ./media/videos/Sonic The Hedgehog (USA, Europe).wide.mp4
 
 
@@ -657,7 +657,7 @@ players: 2
 rating: 80%
 x-id: 20
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Streets of Rage 2 (USA).png
+assets.boxfront: ./media/box2dfront/Streets of Rage 2 (USA).png
 assets.video: ./media/videos/Streets of Rage 2 (USA).mp4
 
 
@@ -665,7 +665,7 @@ game: Streets of Rage 3
 file: ./Streets of Rage 3 (USA).zip
 developer: SEGA
 publisher: SEGA
-genre: Action-Beat'em Up
+genre: Beat'em Up
 description:
   Endlich: Die Fortsetzung der Kampfsportknaller-Serie! 24 Meg randvoll mit
   knallharter Action. In über einem halben Dutzend Levels musst du die Unschuld
@@ -676,7 +676,7 @@ players: 2
 rating: 80%
 x-id: 143230
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Streets of Rage 3 (USA).png
+assets.boxfront: ./media/box2dfront/Streets of Rage 3 (USA).png
 assets.video: ./media/videos/Streets of Rage 3 (USA).mp4
 
 
@@ -702,7 +702,7 @@ players: 2
 rating: 90%
 x-id: 80
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/SF II' - Turbo (USA) (Proto) (Unl) (Pirate) [b].png
+assets.boxfront: ./media/box2dfront/SF II' - Turbo (USA) (Proto) (Unl) (Pirate) [b].png
 assets.video: ./media/videos/SF II' - Turbo (USA) (Proto) (Unl) (Pirate) [b].mp4
 
 
@@ -724,7 +724,7 @@ players: 2
 rating: 55%
 x-id: 122
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Teenage Mutant Ninja Turtles - Tournament Fighters (USA).png
+assets.boxfront: ./media/box2dfront/Teenage Mutant Ninja Turtles - Tournament Fighters (USA).png
 assets.video: ./media/videos/Teenage Mutant Ninja Turtles - Tournament Fighters (USA).mp4
 
 
@@ -732,7 +732,7 @@ game: The Adventures of Batman & Robin
 file: ./Adventures of Batman & Robin, The (USA).zip
 developer: Clockworks Entertainment
 publisher: SEGA
-genre: Beat'em Up-Action
+genre: Beat'em Up
 description:
   Basierend auf der preisgekrönten TV-Serie "Die Abenteuer von Batman und Robin"
   tritt der Spieler gegen den teuflischen Mr. Freeze an, der Gotham mit einer
@@ -751,6 +751,5 @@ players: 2
 rating: 70%
 x-id: 52
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Adventures of Batman & Robin, The (USA).png
+assets.boxfront: ./media/box2dfront/Adventures of Batman & Robin, The (USA).png
 assets.video: ./media/videos/Adventures of Batman & Robin, The (USA).mp4
-
