@@ -1,15 +1,89 @@
-collection: Game engine
+collection: ScummVM Game Engine
 shortname: scummvm
-extensions: #02, $00, (A), (a), (b), 0, 000, 001, 002, 003, 004, 005, 006, 007, 009, 025, 1, 101, 102, 1C, 1c, 2, 2 US, 25, 3, 4, 455, 5, 512, 6, 8, 99, ACX, ADF, ADV, AGA, ALD, ALL, ANG, AP, ASK, AUD, AVD, AVI, BAT, BIN, BLB, BMV, BND, BRO, BSF, BUN, C, C00, C06, C35, CAB, CAT, CC, CD1, CEL, CFG, CG1, CGA, CHK, CLG, CLT, CLU, CNF, CNV, COD, CPS, CRC, CRF, CSC, CUP, CUR, D$$, D00, DAT, DEF, DFW, DIR, DMU, DNR, DR1, DRV, DSK, DXR, EGA, EMC, ENC, EX1, EXE, FDT, FKR, FNT, FON, FRENCH, GAM, GDA, GERMAN, GME, GRA, GRP, GRV, H$$, HAG, HE0, HE1, HE2, HEB, HELLO, HEP, HEX, HPF, HQR, HRC, HRS, IDX, IMG, IMS, IN, INF, INI, ITK, L9, LA0, LAB, LB, LEC, LFL, LIB, LIC, LNG, LZC, M4B, MAC, MAP, MDT, MHK, MID, MIX, MMM, MOR, MPC, MS0, MSG, NL, OBJ, OGG, OPT, ORB, OUT, OVL, OVR, P56, PAK, PAL, PAR, PAT, PGM, PH1, PIC, PKD, PMV, PRC, PRG, Pat, QA, R00, R02, RED, RES, RL, RL2, RLB, ROM, RRM, RSC, SAV, SCN, SCR, SEQ, SET, SHP, SHR, SM0, SM1, SND, SNG, SOG, SOL, SOU, SOUND, SPP, SQU, STK, STR, SYN, SYS, SYS16, TAB, TEX, TLK, TOC, TRS, TXT, Text, V16, V56, VB, VGA, VMD, VOC, VQA, VXD, W16, W32, WAV, WIN, Z, Z5, ZFS, a3c, acd, acx, add, alr, asl, avi, b25c, bin, blb, blorb, bro, cab, cas, cat, cel, cup, d$$, d64, dat, dcp, dnr, doc, dsk, dxr, exe, flac, gam, game, gblorb, gfx, gmp, he0, he1, he2, hex, img, info, ini, j2, jpg, lab, lfl, m4b, mac, mhk, mma, mp3, mpc, msd, nbf, nib, nl, ogg, pat, pic, prg, rom, rsc, scumm, scummvm, sdb, slg, st, str, sub, sym, t3, tab, taf, txt, ulx, vga, voc, wav, win, woz, xfd, z1, z2, z3, z4, z4f, z5, z6, z8, zblorb, zfs, zip
+extensions: #02, $00, (A), (a), (b), 0, 000, 001, 002, 003, 004, 005, 006, 007, 009, 025, 1, 101, 102, 1C, 1c, 2, 2 US, 25, 3, 4, 455, 5, 512, 6, 8, 99, ACX, ADF, ADV, AGA, ALD, ALL, ANG, AP, ASK, AUD, AVD, AVI, BAT, BIN, BLB, BMV, BND, BRO, BSF, BUN, C, C00, C06, C35, CAB, CAT, CC, CD1, CEL, CFG, CG1, CGA, CHK, CLG, CLT, CLU, CNF, CNV, COD, CPS, CRC, CRF, CSC, CUP, CUR, D$$, D00, DAT, DEF, DFW, DIR, DMU, DNR, DR1, DRV, DSK, DXR, EGA, EMC, ENC, EX1, EXE, FDT, FKR, FNT, FON, FRENCH, GAM, GDA, GERMAN, GME, GRA, GRP, GRV, H$$, HAG, HE0, HE1, HE2, HEB, HELLO, HEP, HEX, HPF, HQR, HRC, HRS, IDX, IMG, IMS, IN, INF, INI, ITK, L9, LA0, LAB, LB, LEC, LFL, LIB, LIC, LNG, LZC, M4B, MAC, MAP, MDT, MHK, MID, MIX, MMM, MOR, MPC, MS0, MSG, NL, OBJ, OGG, OPT, ORB, OUT, OVL, OVR, P56, PAK, PAL, PAR, PAT, PGM, PH1, PIC, PKD, PMV, PRC, PRG, Pat, QA, R00, R02, RED, RES, RL, RL2, RLB, ROM, RRM, RSC, SAV, SCN, SCR, SEQ, SET, SHP, SHR, SM0, SM1, SND, SNG, SOG, SOL, SOU, SOUND, SPP, SQU, STK, STR, SYN, SYS, SYS16, TAB, TEX, TLK, TOC, TRS, TXT, Text, V16, V56, VB, VGA, VMD, VOC, VQA, VXD, W16, W32, WAV, WIN, Z, Z5, ZFS, a3c, acd, acx, add, alr, asl, avi, b25c, bin, blb, blorb, bro, cab, cas, cat, cel, cup, d$$, d64, dat, dcp, dnr, doc, dsk, dxr, exe, flac, gam, game, gblorb, gfx, gmp, he0, he1, he2, hex, img, info, ini, j2, jpg, lab, lfl, m4b, mac, mhk, mma, mp3, mpc, msd, nbf, nib, nl, ogg, pat, pic, prg, rom, rsc, scumm, scummvm, sdb, slg, st, str, sub, sym, t3, tab, taf, txt, ulx, vga, voc, wav, win, woz, xfd, z1, z2, z3, z4, z4f, z5, z6, z8, zblorb, zfs, zip,
 launch: am start --user 0
   -n com.retroarch/.browser.retroactivity.RetroActivityFuture
   -e ROM {file.path}
-  -e LIBRETRO /data/data/com.retroarch/cores/scummvm_libretro_android.so
+  -e LIBRETRO /data/data/com.retroarch/cores/scummvm_libretro.so
   -e CONFIGFILE /storage/emulated/0/Android/data/com.retroarch/files/retroarch.cfg
   -e QUITFOCUS
   --activity-clear-top
   --activity-clear-task
   --activity-no-history
+game: Bud Tucker In Double Trouble
+file: ./TUCKER.zip
+developer: Merit Studios Limited
+publisher: Topware Interactive
+genre: Abenteuer / Point und Klick-Abenteuer
+description:
+  Dieses verrückte Abenteuer versetzt den Spieler in die Lage von Bud Tucker, der
+  Pizzabote am Tag und nachts Laborassistent ist. Eines Tages fand Bud den
+  Professor vermisst und erfuhr später, dass er von dem bösen Dick Tate entführt
+  wurde! Tate, ein Wahnsinnigesr, wünscht sich eine Welt voller Menschen, die er
+  am meisten liebt... sich selbst. Zu diesem Zweck plant er, eine der Erfindungen
+  des Professors zu verwenden und eine Milliarde Versionen von sich selbst zu
+  klonen, um die Welt zu bevölkern. Es liegt an Bud Tucker, den Loon und den
+  Professor aufzuspüren, bevor Barryville zu Tate Town wird.\n
+  Bud Tucker in Double Trouble ist ein Point & Click-Abenteuer, in dem der Spieler
+  Hinweise in einer Stadt namens Barryville erforscht und aufdeckt. Das Spiel
+  besteht darin, Gegenstände aufzunehmen und bei Bedarf zu verwenden. Der Spieler
+  kann verschiedene Aktionen ausführen (aufheben, verwenden usw.), die in Worten
+  und Symbolen angezeigt werden können. Das Spiel ist in drei Teile unterteilt,
+  beginnend mit Bud Tucker, der in einem bröckeligen Hotel in der Seedy Street
+  eingesperrt ist. Sprache ist im Spiel ebenso verfügbar wie Untertitel.
+release: 1997-01-01
+players: 1
+rating: 60%
+x-id: 99521
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box2dfront/TUCKER.png
+assets.video: ./media/videos/TUCKER.mp4
+
+
+game: Das Geheimnis von Monkey Island
+file: ./Monkey.zip
+developer: Lucasfilm Games
+publisher: Lucasfilm Games
+genre: Abenteuer / Point und Klick-Abenteuer
+description:
+  In The Secret of Monkey Island übemehmen Sie die Rolle von Guybrush Threepwood,
+  einem jungen Mann, der gerade auf Melee Island (das liegt irgendwo in der
+  Karibik) angekommen ist. Hier möchte unser Held das Training erhalten, um seine
+  Lebensbestimmung anzutreten: ein Dasein als Piraten-Kapitän.\n
+  Guybrush weiß noch nichts von den vielen seltsamen Dingen, die sich in der
+  Gegend von Melee Island und insbesondere auf dem geheimnisvollen Monkey\n
+  Island ereignet haben. Im Laufe der Geschichte wird Guybrush erkennen müssen,
+  daß es Dinge gibt, vor denen sich sogar Piraten fürchten dürfen...
+release: 1990-01-01
+players: 1
+rating: 85%
+x-id: 99855
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box2dfront/Monkey.png
+assets.video: ./media/videos/Monkey.mp4
+
+
+game: Flight of the Amazon Queen
+file: ./Flight of the Amazon Queen.zip
+developer: Interactive Binary Illusions
+publisher: Renegade Software
+genre: Abenteuer-Abenteuer / Point und Klick
+description:
+  Flight of the Amazon Queen folgt einem Piloten namens Joe King, der angeheuert
+  wird, um eine berühmte Schauspielerin zu ihrem nächsten Job zu fliegen. Er gerät
+  jedoch in einen Gewittersturm und stürzt tief im Amazonasdschungel ab. Im
+  Dschungel deckt Joe eine Verschwörung eines verrückten Wissenschaftlers auf, der
+  die Welt erobern will, indem er eine Armee von Dinosaurierfrauen erschafft, die
+  aus Amazonen geschaffen wurden.
+release: 1995-01-01
+players: 1
+rating: 75%
+x-id: 156921
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box2dfront/Flight of the Amazon Queen.png
+assets.video: ./media/videos/Flight of the Amazon Queen.mp4
+
+
 game: Maniac Mansion : Day of the Tentacle
 file: ./Day of the Tentacle.zip
 developer: LucasArts
@@ -34,20 +108,101 @@ players: 1
 rating: 70%
 x-id: 156369
 x-source: ScreenScraper.fr
-assets.boxfront: ./media/box3d/Day of the Tentacle.png
+assets.boxfront: ./media/box2dfront/Day of the Tentacle.png
 assets.video: ./media/videos/Day of the Tentacle.mp4
 
 
-game: Sam N Max Hit the Road
-file: ./Sam N Max Hit the Road.zip
+game: Maniac Mansion
+file: ./MANIAC.zip
+developer: Lucasfilm Games
+publisher: Lucasfilm Games
+genre: Abenteuer / Point und Klick-Abenteuer
+description:
+  Es leben einige seltsame Leute im Maniac Mansion: Dr. Fred, ein ?pensionierter?
+  Hausarzt, der zum verrückten Wissenschaftler wurde, Schwester Edna, eine
+  ehemalige professionelle Pflegerin, deren Hobbies sogar einen Seemann erröten
+  lassen würden, ?Weird? Ed, ein militanter Jugendlicher mit einem Hamster-Tick -
+  und dann ist da noch der tote Cousin Ted, und das Tentakel, und jemand - oder
+  eher etwas - weiteres...\n
+  Und was macht ein süßes, junges Cheerleader-Mädchen namens Sandy in Dr. Freds
+  Keller?
+release: 1987-10-05
 players: 1
-x-id: 0
+rating: 75%
+x-id: 99767
 x-source: ScreenScraper.fr
+assets.boxfront: ./media/box2dfront/MANIAC.png
+assets.video: ./media/videos/MANIAC.mp4
 
 
-game: The Curse Of Monkey Island
-file: ./The Curse Of Monkey Island.zip
+game: Monkey Island 2 - Lechuck's Revenge
+file: ./Monkey Island 2 LeChuck's Revenge.zip
+developer: LucasArts
+publisher: LucasArts
+genre: Abenteuer / Point und Klick-Abenteuer
+description:
+  Im Nachfolger des bekannten Point-&-Click-Adventures „Monkey Island“ schlüpfen
+  Sie abermals in die Rolle des tollpatschigen Piraten „Guybrush Threepwood“. Auf
+  der Suche nach einem versteckten Schatz müssen Sie in den Besitz von vier
+  Kartenteilen kommen, auf denen zusammen der Standort enthüllt werden soll. Dabei
+  überqueren Sie die ganze Insel und besuchen skurrile Ortschaften. Im Verlauf der
+  Geschichte lernen Sie neue Charaktere kennen und treffen auf alte Bekannte. Der
+  Geisterpirat „LeChuck“ ist in diesem Teil ebenfalls dabei und will für das
+  letzte Aufeinandertreffen mit Guybrush Rache üben.
+release: 1991-01-01
 players: 1
-x-id: 0
+rating: 85%
+x-id: 156455
 x-source: ScreenScraper.fr
+assets.boxfront: ./media/box2dfront/Monkey Island 2 LeChuck's Revenge.png
+assets.video: ./media/videos/Monkey Island 2 LeChuck's Revenge.mp4
+
+
+game: Sam & Max Hit the Road
+file: ./Sam & Max Hit the Road.zip
+developer: LucasArts
+publisher: LucasArts
+genre: Abenteuer
+description:
+  Die Handlung des Spieles führt die beiden vom Spieler zu steuernden Hauptfiguren
+  Sam, einen anthropomorphen Hund, und Max, einen psychopathischen und
+  angriffslustigen weißen Hasen, auf der Suche nach einem verschwundenen Yeti
+  durch ein von Kitsch und Absurditäten durchzogenes Amerika.
+  .
+  Bei diesem Spiel änderte LucasArts erstmals die bewährte Benutzerführung und
+  verzichtete auf die permanente Anzeige der Aktionsverben und des Inventars.
+  Stattdessen wurde der Bildschirm vollständig für die Spielegrafik genutzt. Die
+  möglichen Aktionen konnten durch die rechte Maustaste gewählt werden. Das
+  Inventar wurde in einen eigenen Bildschirm ausgelagert. Auch das Dialogsystem
+  wurde verändert, sodass nicht mehr vorgefertigte Sätze gewählt werden konnten,
+  sondern anhand von Icons nur der Charakter der nächsten Aussage bestimmt werden
+  konnte.
+release: 1993-01-11
+players: 1
+x-id: 156234
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box2dfront/Sam & Max Hit the Road.png
+assets.video: ./media/videos/Sam & Max Hit the Road.mp4
+
+
+game: The Curse of Monkey Island
+file: ./comi.zip
+developer: LucasArts
+publisher: LucasArts
+genre: Abenteuer / Point und Klick-Abenteuer
+description:
+  Zu Beginn des Spiels versucht der böse und gerissene Pirat LeChuck um Elaine zu
+  werben und sie zu seiner untoten Braut zu machen. Aber Guybrush, selber in der
+  Hoffnung, sie heiraten zu können, steckt ihr einen verfluchten Ring an, der sie
+  in eine goldene Statue verwandelt. Er muß einen Weg finden den Fluch von Elaine
+  zu nehmen, wobei er zwischendurch gegen unzählige hundsgemeine Schurken und Grog
+  gurgelnde Piraten kämpfen muß, bevor er LeChuck endgültig von der Ausführung
+  seiner düsteren Pläne abhalten kann.
+release: 1997-10-31
+players: 1
+rating: 85%
+x-id: 99907
+x-source: ScreenScraper.fr
+assets.boxfront: ./media/box2dfront/comi.png
+assets.video: ./media/videos/comi.mp4
 
