@@ -21,16 +21,16 @@
         function init() {
             var protData = {
                 "com.widevine.alpha": {
-                    "serverURL": "https://drm-widevine-licensing.axtest.net/AcquireLicense",
+                    "serverURL": "https://api.vod-prd.s.joyn.de/v1/license?token=CiRkZjBiYmFiOC04OGYyLTQ2YTUtYTE3Yi1kMGU4NzZiMWI0OGM.Cg1hX3BiZGpkdml0M3J1EAEaEHNvZnR3YXJlLW5vbi12bXAg4rftugYo7P33ugYyJGI2YzNkYTMwLWZhOTEtNDk5ZS1iY2QyLTU2ZmM4NjhjMmQ0NDjABEIkMzlhNTg1MDktZmNmMS00YjFkLTllZmItM2E1MDJlMjMxY2ViSgh3aWRldmluZVCsqO66BlgA.wtEZOM0JNREgfFKQe3txzWItCqUN5j71h5lhy6_siSE&keyId=",
                     "httpRequestHeaders": {
-                        "X-AxDRM-Message": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ2ZXJzaW9uIjoxLCJjb21fa2V5X2lkIjoiYjMzNjRlYjUtNTFmNi00YWUzLThjOTgtMzNjZWQ1ZTMxYzc4IiwibWVzc2FnZSI6eyJ0eXBlIjoiZW50aXRsZW1lbnRfbWVzc2FnZSIsImtleXMiOlt7ImlkIjoiOWViNDA1MGQtZTQ0Yi00ODAyLTkzMmUtMjdkNzUwODNlMjY2IiwiZW5jcnlwdGVkX2tleSI6ImxLM09qSExZVzI0Y3Iya3RSNzRmbnc9PSJ9XX19.4lWwW46k-oWcah8oN18LPj5OLS5ZU-_AQv7fe0JhNjA"
+                        "X-AxDRM-Message": "YgIAAAEAAQBYAjwAVwBSAE0ASABFAEEARABFAFIAIAB4AG0AbABuAHMAPQAiAGgAdAB0AHAAOgAvAC8AcwBjAGgAZQBtAGEAcwAuAG0AaQBjAHIAbwBzAG8AZgB0AC4AYwBvAG0ALwBEAFIATQAvADIAMAAwADcALwAwADMALwBQAGwAYQB5AFIAZQBhAGQAeQBIAGUAYQBkAGUAcgAiACAAdgBlAHIAcwBpAG8AbgA9ACIANAAuADAALgAwAC4AMAAiAD4APABEAEEAVABBAD4APABQAFIATwBUAEUAQwBUAEkATgBGAE8APgA8AEsARQBZAEwARQBOAD4AMQA2ADwALwBLAEUAWQBMAEUATgA+ADwAQQBMAEcASQBEAD4AQQBFAFMAQwBUAFIAPAAvAEEATABHAEkARAA+ADwALwBQAFIATwBUAEUAQwBUAEkATgBGAE8APgA8AEMASABFAEMASwBTAFUATQA+AFgAMQBSAGMASQBsAHkAZQBRAEMANAA9ADwALwBDAEgARQBDAEsAUwBVAE0APgA8AEsASQBEAD4AawA4AFMAUgBOAFcAdwBaAHMAOABXAGMAaQB0AFkAcQBHAGsAMgBtAHAAQQA9AD0APAAvAEsASQBEAD4APABMAEEAXwBVAFIATAA+AGgAdAB0AHAAcwA6AC8ALwBhAHAAaQAuAHYAbwBkAC0AcAByAGQALgBzAC4AagBvAHkAbgAuAGQAZQA8AC8ATABBAF8AVQBSAEwAPgA8AC8ARABBAFQAQQA+ADwALwBXAFIATQBIAEUAQQBEAEUAUgA+AA=="
                     },
                     priority: 0
                 }
             };
             var video,
                 player,
-                url = "https://media.axprod.net/TestVectors/v7-MultiDRM-SingleKey/Manifest_1080p.mpd";
+                url = "https://joyn-vod-prd.akamaized.net/v2/dash/CiQwMjYwN2RlZC0xNjU4LTQyMDMtODNjNC1iYzk0NGI0MmJkY2M.Cg1hX3BiZGpkdml0M3J1EAEYwAQiJDM5YTU4NTA5LWZjZjEtNGIxZC05ZWZiLTNhNTAyZTIzMWNlYg.mO7FOoM5HRilExBuvjKrL9jvb94KZ3nZT7Ea1G0xf18/a_pbdjdvit3ru/.mpd?filter=CiQ5MDYzODZkYi02YjYxLTQ1ZmMtOTljNy1lOGY4YjczODVhNjM.Cg1hX3BiZGpkdml0M3J1GMAEIAEoADAB._cLl2YmIFdbipr8GRgG5YBBz1of1XCgjNKdqgoOaR5s";
 
             video = document.querySelector("video");
             player = dashjs.MediaPlayer().create();
