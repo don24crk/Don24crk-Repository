@@ -1,0 +1,5 @@
+name= ERT1 url= "https://anacon.org/app/chans/gr/ert1s2.php" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_1.png?raw=true"
+name= ERT2 url= "https://anacon.org/app/chans/gr/ert2s2.php" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_2.png?raw=true"
+name= ERT3 url= "https://anacon.org/app/chans/gr/ert3s2.php" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_3.png?raw=true"
+name= ERTWORLD url= "https://ertflix.akamaized.net/ertlive/ertworld/default/index.m3u8" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_World.png?raw=true"
+name= ERTNEWS url= "https://ertflix.akamaized.net/ertlive/ertnews/default/playlist.m3u8" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_NEWS.png?raw=true"
