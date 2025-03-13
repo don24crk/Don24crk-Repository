@@ -1,5 +1,5 @@
-name= Markos Seferlis 2025 I Was Carried Away By The Current Best Of url= "plugin://plugin.video.youtube/play/?video_id=rYSRHVYC8Jw" logo= "https://s1.dmcdn.net/v/W7uW81d5-KOkeB79s/x1080"
-name= Markos Seferlis 2025 Greece the Musicult Best Of url= "plugin://plugin.video.youtube/play/?video_id=MwOdDId01bo " logo= "https://i.ytimg.com/vi/EHf3jUOMZIc/maxresdefault.jpg"
+name= Markos Seferlis 2025 I Was Carried Away By The Current Best Of url= "https://www.youtube.com/embed/rYSRHVYC8Jw" logo= "https://s1.dmcdn.net/v/W7uW81d5-KOkeB79s/x1080"
+name= Markos Seferlis 2025 Greece the Musicult Best Of url= "https://www.youtube.com/embed/MwOdDId01bo " logo= "https://i.ytimg.com/vi/EHf3jUOMZIc/maxresdefault.jpg"
 
 
 
