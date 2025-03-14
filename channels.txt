@@ -5,7 +5,7 @@ name= ERTWORLD url= "https://ertflix.akamaized.net/ertlive/ertworld/default/inde
 name= ERTNEWS url= "https://ertflix.akamaized.net/ertlive/ertnews/default/playlist.m3u8" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_NEWS.png?raw=true"
 name= ERTMusic url= "https://ertflix.akamaized.net/ertlive/music/default/index.mpd" logo= "https://i.ibb.co/7GL1WL6/ertmusic.jpg"
 name= MEGATV url= "http://wow.anixa.tv/live/mega/playlist.m3u8" logo= "https://i.imgur.com/HIcqDaY.png"
-name= ANT1 url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ANT1.strm|referer= ffmpeg://user-agent=PS4 libhttp/1.60" logo= "https://i.imgur.com/GTFFtOR.png"
+name= ANT1 url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ANT1.strm" logo= "https://i.imgur.com/GTFFtOR.png"
 name= ANT1 DRAMA url= "https://mcdn.antennaplus.gr/live/media0/Drama/HLS/Drama.m3u8|refer= VLC/3.0.18 LibVLC/3.0.21" logo= "https://i.imgur.com/5QDNhXo.png"
 name= ANT1 COMEDY url= "https://mcdn.antennaplus.gr/live/media0/Comedy/HLS/Comedy.m3u8"|refer="VLC/3.0.18 LibVLC/3.0.21" logo= "https://i.imgur.com/V1byeFi.png"
 name= ANT1 JUST MUSIC url= "https://mcdn.antennaplus.gr/live/media0/Just_Music/HLS/Just_Music.m3u8"|refer="VLC/3.0.18 LibVLC/3.0.21" logo= "https://i.imgur.comhz41PMx.png"
