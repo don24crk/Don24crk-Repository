@@ -13,7 +13,7 @@ name= ALPHATV url= "https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN2
 name= STARTV url= "https://livestar.siliconweb.com/media/star4/star4.m3u8" logo= "https://i.imgur.com/AazwSEQ.png"
 name= SKAITV url= "https://skai-live.siliconweb.com/media/cambria4/index.m3u8" logo= "https://i.imgur.com/o2aft6Q.png"
 name= OPENTV url= "https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8" logo= "https://i.imgur.com/cshmF4s.png"
-name= MAKTV url= "https://raw.githubusercontent.com/jimgate07/grtv/master/Metadoseis/maktv.m3u8" logo= "https://i.imgur.com/RVs0GZa.png"
+name= MAKTV url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/MAKTV.strm" logo= "https://i.imgur.com/RVs0GZa.png"
 name= STAR INTERNATIONAL url= "https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8" logo= "https://i.imgur.com/AazwSEQ.png"
 name= SMILETVCY url= "https://s1.cystream.net/live/smile/playlist.m3u8" logo= "https://i.imgur.com/8ZCpwfv.png"
 name= OMEGACY url= "https://l1.cloudskep.com/omegatv/omcy/playlist.m3u8" logo= "https://i.imgur.com/Np7xLfk.png"
