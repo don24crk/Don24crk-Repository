@@ -1,2 +1,5 @@
-https://anacon.org/app/chans/gr/ant1.php|User-Agent=Lavf53.32.100
+#EXTINF:0,ANT1
+#EXTVLCOPT:http-referrer=https://anacon.org/app/chans/gr/ant1.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+https://s2.cystream.net/live/ant1gr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNC8yMDI1IDEwOjU2OjEwIFBNJmhhc2hfdmFsdWU9b0FTeHQvSkRaOWlSdnVTVVdFSVJBdz09JnZhbGlkbWludXRlcz0yMA==
 
