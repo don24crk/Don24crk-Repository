@@ -1,1 +1,2 @@
-https://mcdn.antennaplus.gr/live/media0/Ant1/HLS/Ant1.m3u8|referer= "ffmpeg://user-agent=PS4 libhttp/1.60"
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://mcdn.antennaplus.gr/live/media0/Ant1/HLS/Ant1.m3u8
