@@ -1,4 +1,4 @@
-name= ERT1 url= "https://ertflix.akamaized.net/ertlive/ert1/clrdef24723b/playlist.m3u8" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_1.png?raw=true" thumbnail= "https://images6.alphacoders.com/316/thumb-1920-316330.jpg"
+name= ERT1 url= "https://ertflix.akamaized.net/ertlive/ert1/clrdef24723b/playlist.m3u8" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_1.png?raw=true" fanart= "https://i.ibb.co/BVfGbLJY/fanart.jpg"
 name= ERT1 BUP url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ERT1.strm" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_1.png?raw=true" fanart= "https://images6.alphacoders.com/316/thumb-1920-316330.jpg" epg= "https://ext.greektv.app/epg/epg.xml.gz"
 name= ERT2 url= "https://ertflix.akamaized.net/ertlive/ert2/clrdef24828z/playlist.m3u8" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_2.png?raw=true"
 name= ERT3 url= "https://ertflix.akamaized.net/ertlive/ert3/clrdef24828n/playlist.m3u8" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_3.png?raw=true"
