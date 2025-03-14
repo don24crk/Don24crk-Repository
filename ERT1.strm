@@ -1,4 +1,6 @@
-#EXTINF:-1 tvg-id="https://ext.greektv.app/epg/epg.xml.gz" tvg-name="ERT1 BUP" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_1.png?raw=true" 
-#EXTVLCOPT:Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6778.135 Mobile Safari/537.36 
-https://s2.cystream.net/live/ert1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNC8yMDI1IDM6MDI6MjIgUE0maGFzaF92YWx1ZT1MM0xaZnZSd1FtQTZYanpDK2JHRk1BPT0mdmFsaWRtaW51dGVzPTIw|Referer=https://anacon.org/app/chans/gr/ert1s2.php
+#EXTINF:-1 tvg-id="MNCTV HD - [Channel 432].id" tvg-logo="https://iili.io/JMp3kla.png" group-title="NASIONAL",MNCTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=828e0aba9825c3546a2831e4c0c36f7f:f85d3dcd38981368ab3da597e97ebdcc
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+https://d1abp075u76pbq.cloudfront.net/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
