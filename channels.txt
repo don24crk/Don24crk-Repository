@@ -6,18 +6,33 @@ name= ERTNEWS url= "https://ertflix.akamaized.net/ertlive/ertnews/default/playli
 name= ERTMusic url= "https://ertflix.akamaized.net/ertlive/music/default/index.mpd" logo= "https://i.ibb.co/7GL1WL6/ertmusic.jpg"
 name= MEGATV url= "http://wow.anixa.tv/live/mega/playlist.m3u8" logo= "https://i.imgur.com/HIcqDaY.png"
 name= ANT1 url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ANT1.strm" logo= "https://i.imgur.com/GTFFtOR.png"
-name= ANT1 DRAMA url= "https://mcdn.antennaplus.gr/live/media0/Drama/HLS/Drama.m3u8|refer= VLC/3.0.18 LibVLC/3.0.21" logo= "https://i.imgur.com/5QDNhXo.png"
-name= ANT1 COMEDY url= "https://mcdn.antennaplus.gr/live/media0/Comedy/HLS/Comedy.m3u8"|refer="VLC/3.0.18 LibVLC/3.0.21" logo= "https://i.imgur.com/V1byeFi.png"
-name= ANT1 JUST MUSIC url= "https://mcdn.antennaplus.gr/live/media0/Just_Music/HLS/Just_Music.m3u8"|refer="VLC/3.0.18 LibVLC/3.0.21" logo= "https://i.imgur.comhz41PMx.png"
-name= ALPHATV url= "https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8" logo= "https://i.imgur.com/0i4MUcc.png"
-name= STARTV url= "https://livestar.siliconweb.com/media/star4/star4.m3u8" logo= "https://i.imgur.com/AazwSEQ.png"
+name= ANT1 DRAMA url= "https://mcdn.antennaplus.gr/live/media0/Drama/HLS/Drama.m3u8 logo= "https://i.imgur.com/5QDNhXo.png"
+name= ANT1 COMEDY url= "https://mcdn.antennaplus.gr/live/media0/Comedy/HLS/Comedy.m3u8" logo= "https://i.imgur.com/V1byeFi.png"
+name= ANT1 JUST MUSIC url= "https://mcdn.antennaplus.gr/live/media0/Just_Music/HLS/Just_Music.m3u8" logo= "https://i.imgur.comhz41PMx.png"
+name= ALPHATV url= "https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/alphatvlive/live_720p/chunks.m3u8" logo= "https://i.imgur.com/0i4MUcc.png"
+name= STARTV url= "https://livestar.siliconweb.com/starvod/star4/star4newhd.m3u8" logo= "https://i.imgur.com/AazwSEQ.png"
 name= SKAITV url= "https://skai-live.siliconweb.com/media/cambria4/index.m3u8" logo= "https://i.imgur.com/o2aft6Q.png"
 name= OPENTV url= "https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8" logo= "https://i.imgur.com/cshmF4s.png"
-name= MAKTV url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/MAKTV.strm"|refer="VLC/3.0.18 LibVLC/3.0.21" logo= "https://i.imgur.com/RVs0GZa.png"
+name= MAKTV url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/MAKTV.strm" logo= "https://i.imgur.com/RVs0GZa.png"
 name= STAR INTERNATIONAL url= "https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8" logo= "https://i.imgur.com/AazwSEQ.png"
 name= SMILETVCY url= "https://s1.cystream.net/live/smile/playlist.m3u8" logo= "https://i.imgur.com/8ZCpwfv.png"
 name= OMEGACY url= "https://l1.cloudskep.com/omegatv/omcy/playlist.m3u8" logo= "https://i.imgur.com/Np7xLfk.png"
 name= SIGMACY url= "http://l10.cloudskep.com/sigmatv/stv/playlist.m3u8" logo= "https://i.imgur.com/lFjBmPF.png"
+name= DELTATV url= "http://81.171.10.42:1935/liveD/smil:DStream.sdp.smil/chunklist_w1766980251_b659600_slen.m3u8" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/DELTA_TV.png?raw=true"
+name= GALAXYGR url= "https://ssh101stream.ssh101.com/akamaissh101/ssh101/galaxygr/playlist.m3u8" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/GALAXY.png?raw=true"
+name= BARAZA TV GREEK HITS url= "https://eco.streams.ovh:8081/barazatv/playlist.m3u8" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/BARAZA_RADIO_TV.png?raw=true"
+name= NETTV EUROPE url= "https://eu1.vectromdigital.com:1936/netveurope/netveurope/playlist.m3u8" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQluyWfUH1if9Ae5H5dUXsPSSQFu-QpxYz4eQ&s"
+name= NETTV TORONTO url= "https://eu1.vectromdigital.com:1936/netvtoronto/netvtoronto/playlist.m3u8" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQluyWfUH1if9Ae5H5dUXsPSSQFu-QpxYz4eQ&s"
+name= IONIATV url= "https://ssh101-fl.bozztv.com/ssh101/tvioniathess/playlist.m3u8" logo= "https://ioniantv.gr/wp-content/uploads/2023/04/ionianlive.png"
+name= PELLATV url= "https://video.streams.ovh:1936/pellatv/pellatv/master.m3u8" logo= "https://pellatv.gr/wp-content/themes/pellatv/images/pellatv.jpg"
+name= ELLASWORLD url= "http://ellastv.gotdns.com:88/freetv/promo/index.m3u8" logo= "https://ellastvmax.com/wp-content/uploads/2022/05/ellastvpromo.png"
+name= CINEMA CLASSICS url= "https://tv.mediacp.eu:8081/cinemaclassics/index.m3u8" logo= "https://upload.wikimedia.org/wikipedia/en/7/7d/Greek_Cinema_Channel.png"
+name= VILLAGE WORLD url= "http://ellastv.gotdns.com:88/freetv/village-world/index.m3u8" logo= "https://www.infocom.gr/wp-content/uploads/2012/06/ote_village.jpg"
+
+
+
+
+
 
 
 
