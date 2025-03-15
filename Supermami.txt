@@ -1,4 +1,4 @@
-name= SuperMammy S01E12 url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/%E2%80%9EGreece%20the%20Musicult%E2%80%9C%20%E2%80%93%20(Markos%20Seferlis%20%E2%80%93%20Delfinario%202018).strm" logo= "https://greek-movies.com/icon/series/Supermammy2022.jpg"
+name= SuperMammy S01E12 url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/supermami12.strm" logo= "https://greek-movies.com/icon/series/Supermammy2022.jpg"
 name= Super Mammy S01E11 HDTV url= "https://rubyvidhub.com/embed-uv9yohlsjuxa.html" logo= "https://greek-movies.com/icon/series/Supermammy2022.jpg"
 
 
