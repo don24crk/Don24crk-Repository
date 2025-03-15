@@ -1,4 +1,4 @@
-name= Super Mammy S01E12 HDTV url= "plugin://plugin.video.smr_link_tester/?mode=play_link&amp;link=https%3A%2F%2Fstreamruby.com%2Fik3o061qw93j" logo= "https://greek-movies.com/icon/series/Supermammy2022.jpg"
+name= Super Mammy S01E12 HDTV url= "plugin://plugin.video.smr_link_tester/?mode=play_link&amp;link=https%3A%2F%2Frubyvidhub.com%2F-embdedik3o061qw93j" logo= "https://greek-movies.com/icon/series/Supermammy2022.jpg"
 name= Super Mammy S01E11 HDTV url= "https://rubyvidhub.com/embed-uv9yohlsjuxa.html" logo= "https://greek-movies.com/icon/series/Supermammy2022.jpg"
 
 
