@@ -1,6 +1,6 @@
 name= Énas Ándras me Syneídisi - Níkos Xanthópoulos 1969 url= "plugin://plugin.video.youtube/play/?video_id=Ovw5-4WmfTc" logo= "https://media.themoviedb.org/t/p/w500/j7aaVKG2K0HNxQK8ZfihCLh35m1.jpg"
 name= Glykeiá mou - Ellinikí Tainía 1965 url= "plugin://plugin.video.youtube/play/?video_id=Ks4cOatyFL4" logo= "https://i.ytimg.com/vi/Ks4cOatyFL4/mqdefault.jpg"
-name= O... Erastís!!! (1990) url= "plugin://plugin.video.youtube/play/?video_id=0SR4j5R3nwk" logo= "https://i.ytimg.com/vi/Ks4cOatyFL4/mqdefault.jpg"
+name= O... Erastís!!! (1990) url= "plugin://plugin.video.youtube/play/?video_id=0SR4j5R3nwk" logo= "https://i.ebayimg.com/images/g/HTkAAOSwmpFhNQi7/s-l1200.jpg"
 name= Ta Saḯnia url= "plugin://plugin.video.youtube/play/?video_id=AQjV_QMSfJo" logo= "https://greek-movies.com/icon/movie/%CE%A4%CE%B1%CF%83%CE%B1%CF%8A%CE%BD%CE%B9%CE%B11982.jpg"
 name= TAMTAKO PROCHORA XEVROMISE TI CHORA url= "plugin://plugin.video.youtube/play/?video_id=qhR5BhlAlXY" logo= "https://i.ytimg.com/vi/qhR5BhlAlXY/maxresdefault.jpg"
 name= TAMTAKOS O ILEKTRONIKOS GYFTOS url= "plugin://plugin.video.youtube/play/?video_id=vt-Wy6I_peY" logo= "https://greek-movies.com/icon/movie/tamtakosoilektronikosguftos.jpg"
