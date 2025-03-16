@@ -6,7 +6,7 @@ name= ERTNEWS url= "https://ertflix.akamaized.net/ertlive/ertnews/default/playli
 name= ERTMusic url= "https://ertflix.akamaized.net/ertlive/music/default/index.mpd" logo= "https://i.ibb.co/7GL1WL6/ertmusic.jpg"
 name= MEGATV url= "http://wow.anixa.tv/live/mega/playlist.m3u8" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MEGA_red.png?raw=true"
 name= ANT1 url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ANT1.strm" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ANT1_wite.png?raw=true"
-name= ANT1 DRAMA url= "https://mcdn.antennaplus.gr/live/media0/Drama/HLS/Drama.m3u8 logo= "https://i.imgur.com/5QDNhXo.png"
+name= ANT1 DRAMA url= "https://mcdn.antennaplus.gr/live/media0/Drama/HLS/Drama.m3u8" logo= "https://i.imgur.com/5QDNhXo.png"
 name= ANT1 COMEDY url= "https://mcdn.antennaplus.gr/live/media0/Comedy/HLS/Comedy.m3u8" logo= "https://i.imgur.com/V1byeFi.png"
 name= ANT1 JUST MUSIC url= "https://mcdn.antennaplus.gr/live/media0/Just_Music/HLS/Just_Music.m3u8" logo= "https://www.radiotvlink.com/images/logos/television-stations/ant1_plus-black-3-900.jpg"
 name= ALPHATV url= "https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/alphatvlive/live_720p/chunks.m3u8" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ALPHA.png?raw=true"
