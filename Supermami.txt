@@ -1,4 +1,4 @@
-name= SuperMammy S01E12 url= "https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=2JslSw38XeU" logo= "https://greek-movies.com/icon/series/Supermammy2022.jpg"
+name= SuperMammy S01E12 url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/supermami12.strm" logo= "https://greek-movies.com/icon/series/Supermammy2022.jpg"
 name= Super Mammy S01E11 HDTV url= "https://rubyvidhub.com/embed-uv9yohlsjuxa.html" logo= "https://greek-movies.com/icon/series/Supermammy2022.jpg"
 
 
