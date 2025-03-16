@@ -1,5 +1,10 @@
-name= SuperMammy S01E12 url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/supermami12.strm" logo= "https://greek-movies.com/icon/series/Supermammy2022.jpg"
-name= Super Mammy S01E11 HDTV url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/supermami11.strm" logo= "https://greek-movies.com/icon/series/Supermammy2022.jpg"
+name= SuperMammy S01E1 url= "plugin://plugin.video.youtube/play/?video_id=S1cT4lLcS4k" logo= "https://greek-movies.com/icon/series/Supermammy2022.jpg"
+name= Super Mammy S01E2 url= "plugin://plugin.video.youtube/play/?video_id=AWntVb9tZPs" logo= "https://greek-movies.com/icon/series/Supermammy2022.jpg"
+name= Super Mammy S01E3 url= "plugin://plugin.video.youtube/play/?video_id=ruQe1n0WigE" logo= "https://greek-movies.com/icon/series/Supermammy2022.jpg"
+name= Super Mammy S01E4 url= "plugin://plugin.video.youtube/play/?video_id=GjLmylwtC90" logo= "https://greek-movies.com/icon/series/Supermammy2022.jpg"
+name= Super Mammy S01E8 url= "plugin://plugin.video.youtube/play/?video_id=an3HcCnACCg" logo= "https://greek-movies.com/icon/series/Supermammy2022.jpg"
+name= Super Mammy S01E12 url= "plugin://plugin.video.youtube/play/?video_id=2JslSw38XeU" logo= "https://greek-movies.com/icon/series/Supermammy2022.jpg"
+
 
 
 
