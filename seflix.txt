@@ -1,11 +1,12 @@
-name= Peter Panic Seferlis 2019 url= "https://s-delivery45.mxcontent.net/d/pkrno7r6tgg3jlz/auyryv15nxhhryeuc2iq3?ab=0&r=https%3A%2F%2Fmixdrop.sb%2Ff%2Fpkrno7r6tgg3jlz" logo= "https://greek-movies.com/icon/theater/PeterPanicSeferlis2019.jpg"
-name= Markos Seferlis 2025 Greece the Musicult url= "https://a-delivery50.mxcontent.net/d/0vedrlm6ixovd3/1b9j2hkgslm15tzk8fs4lt6fx3up3zh0?ab=0&r=https%3A%2F%2Fmixdrop.sb%2Ff%2F0vedrlm6ixovd3" logo= "https://i.ytimg.com/vi/EHf3jUOMZIc/maxresdefault.jpg"
-name= Dettolmi kai Goiteía url= "https://s-delivery39.mxcontent.net/d/pkn0kz90igde04w/rlswtx9honllkwjpy1hor9hk8bnxrb?ab=0&r=https%3A%2F%2Fmixdrop.sb%2Ff%2Fpkn0kz90igde04w" logo= "https://www.webmusic.gr/wp-content/uploads/2020/06/seferlis-1.jpg"
-name= Me Parésyre To Révma url= "https://s-delivery43.mxcontent.net/d/4ngr8exxf0m1g7/tbtzz8srohltibmnd04q?ab=0&r=https%3A%2F%2Fmixdrop.sb%2Ff%2F4ngr8exxf0m1g7" logo= "https://greek-movies.com/icon/theater/%CE%9C%CE%B5%CE%A0%CE%B1%CF%81%CE%AD%CF%83%CF%85%CF%81%CE%B5%CE%A4%CE%BF%CE%A1%CE%B5%CF%8D%CE%BC%CE%B12023.jpg"
-name= Práktor 00 leftá url= "https://a-delivery30.mxcontent.net/d/1vr1x949ig80dz/4k6t6oycjnxvs8xrrj3?ab=0&r=https%3A%2F%2Fmixdrop.sb%2Ff%2F1vr1x949ig80dz" logo= "https://greek-movies.com/icon/theater/%CE%A0%CF%81%CE%AC%CE%BA%CF%84%CF%89%CF%8100%CE%BB%CE%B5%CF%86%CF%84%CE%AC2022.jpg"
-name= Des ta re Elláda óla aftá url= "https://s-delivery43.mxcontent.net/d/84z1jm4vtov8q/i2u5axhw1i5xew12z14vetllstl8h0?ab=0&r=https%3A%2F%2Fmixdrop.sb%2Ff%2F84z1jm4vtov8q" logo= "https://greek-movies.com/icon/theater/%CE%94%CE%B5%CF%82%CE%A4%CE%B1%CE%A1%CE%B5%CE%95%CE%BB%CE%BB%CE%AC%CE%B4%CE%B1%CE%8C%CE%BB%CE%B1%CE%91%CF%85%CF%84%CE%AC2021.jpg"
-name= Agápi móno url= "https://a-delivery29.mxcontent.net/d/4nen7pd4c4kqg6/0lm6mjq0z0gbh5834tgmjfd28?ab=0&r=https%3A%2F%2Fmixdrop.sb%2Ff%2F4nen7pd4c4kqg6" logo= "https://i.ytimg.com/vi/LFF65Ay3aNY/maxresdefault.jpg"
-name= 10 chrónia gámou url= "https://a-delivery30.mxcontent.net/d/en768044f7v601/4but6jsndf4rdsri?ab=0&r=https%3A%2F%2Fmixdrop.sb%2Ff%2Fen768044f7v601" logo= "https://cosmopoliti.com/wp-content/uploads/2019/02/51672195_10156311222093687_3350911296538148864_n.jpg"
+name= Penínta Apochróseis to Greece! (Márkos Seferlís - Delfinário 2015) url= "plugin://plugin.video.youtube/play/?video_id=t3Oo99CTOVs" logo= "https://www.happydeals.gr/image_deals/deals/2015/0903/14412662693013.jpg"
+name= Markos Seferlis 2025 Greece the Musicult url= "plugin://plugin.video.youtube/play/?video_id=EHf3jUOMZIc" logo= "https://i.ytimg.com/vi/EHf3jUOMZIc/maxresdefault.jpg"
+name= Dettolmi kai Goiteía url= "plugin://plugin.video.youtube/play/?video_id=M85FC5HzhdU" logo= "https://www.webmusic.gr/wp-content/uploads/2020/06/seferlis-1.jpg"
+name= ZITEITAI SEF TIS KOMODIAS Márkos Seferlís - Delfinário 2019 url= "plugin://plugin.video.youtube/play/?video_id=7YRwk7ZYc30" logo= "https://s1.dmcdn.net/v/XUVP41dLCpgtXgcD0/x1080"
+name= Práktor 00 leftá url= "plugin://plugin.video.youtube/play/?video_id=50-kGB4PX7M" logo= "https://greek-movies.com/icon/theater/%CE%A0%CF%81%CE%AC%CE%BA%CF%84%CF%89%CF%8100%CE%BB%CE%B5%CF%86%CF%84%CE%AC2022.jpg"
+name= Allou Fun Mark - Márkos Seferlís Théatro Delfinário url= "plugin://plugin.video.youtube/play/?video_id=dMrCqEG-neM" logo= "https://i.ytimg.com/vi/dMrCqEG-neM/sddefault.jpg"
+name= Agápi móno url= "plugin://plugin.video.youtube/play/?video_id=LFF65Ay3aNY" logo= "https://i.ytimg.com/vi/LFF65Ay3aNY/maxresdefault.jpg"
+name= 10 chrónia gámou url= "plugin://plugin.video.youtube/play/?video_id=EwpAm5BQ68Y" logo= "https://cosmopoliti.com/wp-content/uploads/2019/02/51672195_10156311222093687_3350911296538148864_n.jpg"
+name= Állos gia Survivor Márkos Seferlís - Delfinário 2017 url= "plugin://plugin.video.youtube/play/?video_id=t4URBaERibQ" logo= "https://cosmopoliti.com/wp-content/uploads/2019/02/51672195_10156311222093687_3350911296538148864_n.jpg"
 
 
 
