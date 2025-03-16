@@ -1,4 +1,4 @@
-name= Iléktra episodio 2.119 (2025-03-13) url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/hlectra.strm" logo= "https://greek-movies.com/icon/series/%CE%97%CE%BB%CE%AD%CE%BA%CF%84%CF%81%CE%B12023.jpg"
+name= Iléktra episodio 2.119 (2025-03-13) url= "plugin://plugin.video.smr_link_tester/?mode=play_link&amp;link=https%3A%2F%2FSmoothpre.com%2Fembed%2Fe37pfu6x6ikh" logo= "https://greek-movies.com/icon/series/%CE%97%CE%BB%CE%AD%CE%BA%CF%84%CF%81%CE%B12023.jpg"
 name= Iléktra episodio 2.120 (2025-03-14) url= "https://s-delivery49.mxcontent.net/d/mk9lx4l4b741rv/ibqoy3wakqlhh9wicxx3vh2o35?ab=0&r=https%3A%2F%2Fmixdrop.sb%2Ff%2Fmk9lx4l4b741rv" logo= "https://greek-movies.com/icon/series/%CE%97%CE%BB%CE%AD%CE%BA%CF%84%CF%81%CE%B12023.jpg"
 
 
