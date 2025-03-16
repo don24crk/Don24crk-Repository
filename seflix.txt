@@ -6,7 +6,7 @@ name= Práktor 00 leftá url= "plugin://plugin.video.youtube/play/?video_id=50-k
 name= Allou Fun Mark - Márkos Seferlís Théatro Delfinário url= "plugin://plugin.video.youtube/play/?video_id=dMrCqEG-neM" logo= "https://i.ytimg.com/vi/dMrCqEG-neM/sddefault.jpg"
 name= Agápi móno url= "plugin://plugin.video.youtube/play/?video_id=LFF65Ay3aNY" logo= "https://i.ytimg.com/vi/LFF65Ay3aNY/maxresdefault.jpg"
 name= 10 chrónia gámou url= "plugin://plugin.video.youtube/play/?video_id=EwpAm5BQ68Y" logo= "https://cosmopoliti.com/wp-content/uploads/2019/02/51672195_10156311222093687_3350911296538148864_n.jpg"
-name= Állos gia Survivor Márkos Seferlís - Delfinário 2017 url= "plugin://plugin.video.youtube/play/?video_id=t4URBaERibQ" logo= "https://cosmopoliti.com/wp-content/uploads/2019/02/51672195_10156311222093687_3350911296538148864_n.jpg"
+name= Állos gia Survivor Márkos Seferlís - Delfinário 2017 url= "plugin://plugin.video.youtube/play/?video_id=t4URBaERibQ" logo= "https://i.ytimg.com/vi/t4URBaERibQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDB_xQ6ta-66uUFTlGsI8dhWn8gqA"
 
 
 
