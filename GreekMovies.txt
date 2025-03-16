@@ -1,0 +1,27 @@
+name= Énas Ándras me Syneídisi - Níkos Xanthópoulos 1969 url= "plugin://plugin.video.youtube/play/?video_id=Ovw5-4WmfTc" logo= "https://media.themoviedb.org/t/p/w500/j7aaVKG2K0HNxQK8ZfihCLh35m1.jpg"
+name= Glykeiá mou - Ellinikí Tainía 1965 url= "plugin://plugin.video.youtube/play/?video_id=Ks4cOatyFL4" logo= "https://i.ytimg.com/vi/Ks4cOatyFL4/mqdefault.jpg"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
