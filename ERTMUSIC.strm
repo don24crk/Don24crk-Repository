@@ -1,3 +1,3 @@
 #EXTINF:-1 tvg-name="ertmusic" tvg-id="ertmusic" group-title="Ελλάδα" tvg-logo="https://i.ibb.co/7GL1WL6/ertmusic.jpg",ERTMUSIC
-#KODIPROP:inputstream=inputstream.ffmpeg.direct
+#KODIPROP:inputstream=inputstream.adaptive
 https://ertflix.akamaized.net/ertlive/music/default/playlist.m3u8
