@@ -14,7 +14,7 @@ name= ANT1 DRAMA url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repos
 name= ANT1 COMEDY url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ANT1%20COMEDY.strm" logo= "https://i.imgur.com/V1byeFi.png"
 name= ANT1 JUST MUSIC url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ANT1JUSTMUSIC.strm" logo= "https://www.radiotvlink.com/images/logos/television-stations/ant1_plus-black-3-900.jpg"
 name= ALPHATV url= "https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/alphatvlive/live_720p/chunks.m3u8" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ALPHA.png?raw=true"
-name= ALPHATV BUP url= "https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/alphatvlive/live_720p/chunks.m3u8" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ALPHA.png?raw=true"
+name= ALPHATV BUP url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ALPHA.strm" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ALPHA.png?raw=true"
 name= STARTV url= "https://livestar.siliconweb.com/starvod/star4/star4newhd.m3u8" logo= "https://www.star.gr/tv/images/640x360/jpg/files/star1200x630n.jpg"
 name= STARTV BUP url= "https://livestar.siliconweb.com/starvod/star4/star4newhd.m3u8" logo= "https://www.star.gr/tv/images/640x360/jpg/files/star1200x630n.jpg"
 name= SKAITV url= "https://skai-live.siliconweb.com/media/cambria4/index.m3u8" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/SKAI.png?raw=true"
