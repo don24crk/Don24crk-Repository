@@ -7,7 +7,7 @@ name= ERT3 BUP url= "https://ertflix.akamaized.net/ertlive/ert3/clrdef24828n/pla
 name= ERTWORLD url= "https://ertflix.akamaized.net/ertlive/ertworld/default/index.m3u8" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_World.png?raw=true"
 name= ERTNEWS url= "https://ertflix.akamaized.net/ertlive/ertnews/default/playlist.m3u8" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_NEWS.png?raw=true"
 name= ERTMusic url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ERTMUSIC.strm" logo= "https://i.ibb.co/7GL1WL6/ertmusic.jpg"
-name= MEGATV url= "http://wow.anixa.tv/live/mega/playlist.m3u8" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MEGA_red.png?raw=true"
+name= MEGATV url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/MEGA.strm" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MEGA_red.png?raw=true"
 name= ANT1 url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ANT1.strm" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ANT1_wite.png?raw=true"
 name= ANT1 DRAMA url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ANT1%20DRAMA.strm" logo= "https://i.imgur.com/5QDNhXo.png"
 name= ANT1 COMEDY url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ANT1%20COMEDY.strm" logo= "https://i.imgur.com/V1byeFi.png"
