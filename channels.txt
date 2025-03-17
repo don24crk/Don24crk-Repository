@@ -11,7 +11,7 @@ name= ERTKIDS url= "https://raw.githubusercontent.com/don24crk/Don24crk-Reposito
 name= MEGATV url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/MEGA.strm" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MEGA_red.png?raw=true"
 name= MEGATV BUP url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/MEGA2.strm" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MEGA_red.png?raw=true"
 name= ANT1 url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ANT1.strm" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ANT1_wite.png?raw=true"
-name= ANT1 BUP url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ANT1.strm" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ANT1_wite.png?raw=true"
+name= ANT1 BUP url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ANT12.strm" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ANT1_wite.png?raw=true"
 name= ANT1 DRAMA url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ANT1%20DRAMA.strm" logo= "https://i.imgur.com/5QDNhXo.png"
 name= ANT1 COMEDY url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ANT1%20COMEDY.strm" logo= "https://i.imgur.com/V1byeFi.png"
 name= ANT1 JUST MUSIC url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ANT1JUSTMUSIC.strm" logo= "https://www.radiotvlink.com/images/logos/television-stations/ant1_plus-black-3-900.jpg"
