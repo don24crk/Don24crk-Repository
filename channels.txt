@@ -20,7 +20,7 @@ name= STARTV BUP url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repos
 name= SKAITV url= "https://skai-live.siliconweb.com/media/cambria4/index.m3u8" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/SKAI.png?raw=true"
 name= SKAITV BUP url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/SKAI.strm" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/SKAI.png?raw=true"
 name= OPENTV url= "https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/OPEN_BEYOND.png?raw=true"
-name= OPENTV BUP url= "https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/OPEN_BEYOND.png?raw=true"
+name= OPENTV BUP url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/OPEN.strm" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/OPEN_BEYOND.png?raw=true"
 name= MAKTV url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/MAKTV.strm" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MAKEDONIA-tv.png?raw=true"
 name= STAR INTERNATIONAL url= "https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8" logo= "https://i.imgur.com/AazwSEQ.png"
 name= SMILETVCY url= "https://s1.cystream.net/live/smile/playlist.m3u8" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/SMILE_TV.png?raw=true"
