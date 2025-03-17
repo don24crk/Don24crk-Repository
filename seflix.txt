@@ -11,6 +11,11 @@ name= Markos Seferlis 2025 MAMMA MIA url= "plugin://plugin.video.youtube/play/?v
 name= Mrs.Doubtfire (Márkos Seferlís - Théatro Peroké 2010/2011) url= "plugin://plugin.video.youtube/play/?video_id=glzTEUUC7gQ" logo= "https://i.ytimg.com/vi/glzTEUUC7gQ/mqdefault.jpg"
 name= Márkos Seferlís Daddy Cool 2010 url= "plugin://plugin.video.youtube/play/?video_id=G-qOSlIdl78" logo= "https://i.ytimg.com/vi/Rmr-ODiDtMM/hqdefault.jpg"
 name= Márkos Seferlís - Delfinário 2025 Des ta re Elláda óla aftá url= "plugin://plugin.video.youtube/play/?video_id=gTAzq5SlitI" logo= "https://www.comedyfactory.gr/wp-content/uploads/2024/01/NEW_SLIDER.jpeg"
+name= akyvérnito karávi i patrída mas Márkos Seferlís url= "plugin://plugin.video.youtube/play/?video_id=HHeFv088-AE" logo= "https://www.agon.gr/wp-content/uploads/2023/09/seferlis-akyvernito-960x676.jpg"
+name= Markos Seferlis 2025 Me Parésyre To Révma url= "plugin://plugin.video.youtube/play/?video_id=1kbkOxhqBFk" logo= "https://cosmopoliti.com/wp-content/uploads/2023/01/BANNER_816X465.jpg"
+
+
+
 
 
 
