@@ -1,4 +1,6 @@
-plugin://plugin.video.f4mTester/?url=https://s2.cystream.net/galanos/star/chunks.m3u8?nimblesessionid=17561745&wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDI1IDk6MzE6MzIgUE0maGFzaF92YWx1ZT0zOVBCRktWL3Y3UFRTVHBoV2U5bUp3PT0mdmFsaWRtaW51dGVzPTIw&amp;streamtype=M3u8DOWNLOADER&amp;name=GR:STAR
+#EXTINF:-1 tvg-name="ant1" tvg-id="ant1" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ant1.png",ANT1
+#KODIPROP:inputstream=inputstream.adaptive
+https://mcdn.antennaplus.gr/live/media0/Ant1/HLS/Ant1.m3u8
 
 
 
