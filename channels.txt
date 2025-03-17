@@ -3,7 +3,7 @@ name= ERT1 BUP url= "https://raw.githubusercontent.com/don24crk/Don24crk-Reposit
 name= ERT2 url= "https://ertflix.akamaized.net/ertlive/ert2/clrdef24828z/playlist.m3u8" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_2.png?raw=true"
 name= ERT2 BUP url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ERT2.strm" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_2.png?raw=true"
 name= ERT3 url= "https://ertflix.akamaized.net/ertlive/ert3/clrdef24828n/playlist.m3u8" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_3.png?raw=true"
-name= ERT3 BUP url= "https://ertflix.akamaized.net/ertlive/ert3/clrdef24828n/playlist.m3u8" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_3.png?raw=true"
+name= ERT3 BUP url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ERT3.strm" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_3.png?raw=true"
 name= ERTWORLD url= "https://ertflix.akamaized.net/ertlive/ertworld/default/index.m3u8" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_World.png?raw=true"
 name= ERTNEWS url= "https://ertflix.akamaized.net/ertlive/ertnews/default/playlist.m3u8" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_NEWS.png?raw=true"
 name= ERTMusic url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ERTMUSIC.strm" logo= "https://i.ibb.co/7GL1WL6/ertmusic.jpg"
