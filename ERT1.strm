@@ -1,2 +1,2 @@
 #EXTINF:-1 tvg-name="ert1" tvg-id="ert1" group-title="Ελλάδα" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_1.png?raw=true",ERT1
-https://anacon.org/app/chans/gr/ert3s2.php|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0|referer=vlc
+https://s2.cystream.net/live/ert3/l_985_76768640_9839.ts?nimblesessionid=17657096&wmsAuthSign=c2VydmVyX3RpbWU9My8xOC8yMDI1IDEwOjEwOjAzIFBNJmhhc2hfdmFsdWU9T1MwWE1JcXVzdkhPbVBaTXkxbGVmdz09JnZhbGlkbWludXRlcz0yMA==|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0|referer=vlc
