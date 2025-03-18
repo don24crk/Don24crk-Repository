@@ -1,4 +1,3 @@
-#EXTTXT url-tvg="https://ext.greektv.app/epg/epg.xml.gz"
 name= ERT1 url= "https://ertflix.akamaized.net/ertlive/ert1/clrdef24723b/playlist.m3u8" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_1.png?raw=true"
 name= ERT1 BUP url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ERT1.strm" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_1.png?raw=true" epg="https://tvepg.eu/de/greece/channel/ert1#now"
 name= ERT2 url= "https://ertflix.akamaized.net/ertlive/ert2/clrdef24828z/playlist.m3u8" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_2.png?raw=true"
@@ -40,6 +39,7 @@ name= ELLASWORLD url= "http://ellastv.gotdns.com:88/freetv/promo/index.m3u8" log
 name= CINEMA CLASSICS url= "https://tv.mediacp.eu:8081/cinemaclassics/index.m3u8" logo= "https://upload.wikimedia.org/wikipedia/en/7/7d/Greek_Cinema_Channel.png"
 name= VILLAGE WORLD url= "http://ellastv.gotdns.com:88/freetv/village-world/index.m3u8" logo= "https://www.infocom.gr/wp-content/uploads/2012/06/ote_village.jpg"
 name= DIAVATATV url= "https://ssh101stream.ssh101.com/akamaissh101/ssh101/diavatatvweb/playlist.m3u8" logo= "https://diavatatv.weebly.com/uploads/1/4/2/4/142474112/published/diavatatv.png?1708012166"
+
 
 
 
