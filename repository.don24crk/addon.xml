@@ -4,7 +4,7 @@
 		<dir minversion="0" maxversion="1.0">
             <info compressed="false">https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/repository.don24crk/addon.xml</info>
 			<checksum verify="sha256">https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/repository.don24crk/addons.xml.sha256</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/repository.don24crk/zips/</datadir>
+            <datadir zip="true">https://raw.githubusercontent.com/don24crk/Don24crk-Repository/tree/master/repository.don24crk/zips/</datadir>
 
         </dir>
 	</extension>	
@@ -15,7 +15,7 @@
 		<language>en</language>
 		<platform>all</platform>
 		<license>GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007</license>
-		<source>https://github.com/streamxstream</source>
+		<source>https://github.com/don24crk/Don24crk-Repository/tree/master</source>
 		<assets>
 			<icon>resources/icon.png</icon>
 			<fanart>resources/fanart.jpg</fanart>
