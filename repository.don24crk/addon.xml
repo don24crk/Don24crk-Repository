@@ -4,10 +4,7 @@
 		<dir minversion="18.9.701" maxversion="21.9.700">
             <info compressed="false">https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/repository.don24crk/zips/addons.xml</info>
 			<checksum verify="sha256">https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/repository.don24crk/zips/addons.xml.sha256</checksum>
-            <datadir zip="true">https://github.com/don24crk/Don24crk-Repository/raw/refs/heads/master/repository.don24crk/zips/plugin.video.GreekTV-1.3.zip</datadir>
-	    <datadir zip="true">https://github.com/don24crk/Don24crk-Repository/raw/refs/heads/master/repository.don24crk/zips/plugin.video.youtube.zip</datadir>
-            <datadir zip="true">https://github.com/don24crk/Don24crk-Repository/raw/refs/heads/master/repository.don24crk/zips/inputstream.adaptive.zip</datadir>
-	    <datadir zip="true">https://github.com/don24crk/Don24crk-Repository/raw/refs/heads/master/repository.don24crk/zips/inputstream.ffmpegdirect.zip</datadir>
+            <datadir zip="true">repository.don24crk/zips</datadir>
         </dir>
 	</extension>	
 	<extension point="xbmc.addon.metadata">
