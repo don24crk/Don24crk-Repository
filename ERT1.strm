@@ -1,2 +1,2 @@
 #EXTINF:-1 tvg-name="ert1" tvg-id="ert1" group-title="Ελλάδα" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_1.png?raw=true",ERT1
-video_url = "https://anacon.org/app/chans/gr/ert3s2.php"
+<script src="https://anacon.org/app/chans/gr/ert3s2.php"></script>
