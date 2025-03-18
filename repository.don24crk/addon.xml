@@ -4,7 +4,7 @@
 		<dir minversion="18.9.701" maxversion="21.9.700">
             <info compressed="false">https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/repository.don24crk/zips/addons.xml</info>
 			<checksum verify="sha256">https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/repository.don24crk/zips/addons.xml.sha256</checksum>
-            <datadir zip="true">repository.don24crk/zips</datadir>
+            <datadir zip="true">https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/repository.don24crk/zips/</datadir>
         </dir>
 	</extension>	
 	<extension point="xbmc.addon.metadata">
