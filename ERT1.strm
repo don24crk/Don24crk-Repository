@@ -1,3 +1,16 @@
 #EXTINF:-1 tvg-name="ert1" tvg-id="ert1" group-title="Ελλάδα" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_1.png?raw=true",ERT1
-https://s2.cystream.net/live/ert1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xOS8yMDI1IDQ6NTc6MDYgUE0maGFzaF92YWx1ZT10b3FSejkxSG11QkVqb1BrRnVQRVNnPT0mdmFsaWRtaW51dGVzPTIw|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0|refer=https://anacon.org|origin=https://www.ertflix.gr|connection=keep-alive|server=Nimble/4.1.8-2
 
+
+<link href="//domain.com/videojs/skins/nuevo/videojs.min.css" rel="stylesheet">
+<script src="//domain.com/videojs/video.min.js"></script>
+<script src="//domain.com/videojs/nuevo.min.js"></script>
+
+
+<video id="ERT1" width=640 height=480 class="video-js  vjs-16-9" poster="https://img.freepik.com/fotos-kostenlos/schoene-griechische-flagge_23-2149323079.jpg" controls preload="none">
+<source src="https://s2.cystream.net/live/ert1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xOS8yMDI1IDQ6NTc6MDYgUE0maGFzaF92YWx1ZT10b3FSejkxSG11QkVqb1BrRnVQRVNnPT0mdmFsaWRtaW51dGVzPTIw|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0|refer=https://anacon.org|origin=https://anacon.org|connection=keep-alive" type="application/vnd.apple.mpegurl" 
+</video>
+
+<script>
+var player = videojs('ERT1')
+player.nuevo()
+</script>
