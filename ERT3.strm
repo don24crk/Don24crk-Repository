@@ -1,2 +1,3 @@
 #EXTINF:-1 tvg-name="ert3" tvg-id="ert3" group-title="Ελλάδα" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_3.png?raw=true",ERT3
-https://s2.cystream.net/live/ert3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xOS8yMDI1IDQ6Mzk6MjYgUE0maGFzaF92YWx1ZT1abi82SnAvNzdPbWRXL29uKzVtSENnPT0mdmFsaWRtaW51dGVzPTIw
+https://s2.cystream.net/live/ert3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xOS8yMDI1IDQ6Mzk6MjYgUE0maGFzaF92YWx1ZT1abi82SnAvNzdPbWRXL29uKzVtSENnPT0mdmFsaWRtaW51dGVzPTIw|user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.95 Mobile Safari/537.36|refer=https://anacon.org|origin=https://anacon.org|connection=keep-alive
+
