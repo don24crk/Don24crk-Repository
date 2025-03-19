@@ -1,2 +1,2 @@
 #EXTINF:-1 tvg-name="ert1" tvg-id="ert1" group-title="Ελλάδα" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_1.png?raw=true",ERT1
-https://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1.m3u8|user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.95 Mobile Safari/537.36|referer=http://ertflix.akamaized.net|origin=http://ertflix.akamaized.net|connection=keep-alive
+https://ertflix.akamaized.net/ertlive/ert1/clrdef24723b/index.m3u8|user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.95 Mobile Safari/537.36|referer=http://ertflix.akamaized.net|origin=http://ertflix.akamaized.net|connection=keep-alive
