@@ -1,2 +1,3 @@
 #EXTINF:-1 tvg-name="ant1justmusic" tvg-id="ant1justmusic" group-title="Ελλάδα" tvg-logo="https://www.radiotvlink.com/images/logos/television-stations/ant1_plus-black-3-900.jpg",ANT1JUSTMUSIC
-https://mcdn.antennaplus.gr/live/media0/Just_Music/HLS/Just_Music.m3u8|user-agent=ExoPlayer
+#KODIPROP:inputstream=inputstream.adaptive
+https://mcdn.antennaplus.gr/live/media0/Just_Music/HLS/Just_Music.m3u8
