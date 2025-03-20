@@ -1,2 +1,2 @@
 #EXTINF:-1 tvg-name="star" tvg-id="star" group-title="Ελλάδα" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/STAR_Channel.png?raw=true",STARTV
-https://s2.cystream.net/galanos/star/chunks.m3u8?nimblesessionid=17671666&wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDI1IDY6MDM6MTUgUE0maGFzaF92YWx1ZT1Yd3k2SlNrTWtOMVQ3clovSFBjUit3PT0mdmFsaWRtaW51dGVzPTIw|user-agent=ExoPlayer|refer=https://anacon.org|connection=keep-alive
+https://s2.cystream.net/galanos/star/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDI1IDk6MjU6MzQgUE0maGFzaF92YWx1ZT0zZjVMdWF5YktSVDNQbzc0Y1FpZWlBPT0mdmFsaWRtaW51dGVzPTIw|user-agent=ExoPlayer
