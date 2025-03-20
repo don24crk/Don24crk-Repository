@@ -1,3 +1,2 @@
 #EXTINF:-1 tvg-name="ertkids" tvg-id="ertkids" group-title="Ελλάδα" tvg-logo="https://i.ibb.co/Tv1hStJ/ertkids.jpg",ERTKIDS
-#KODIPROP:inputstream=inputstream.ffmpeg.direct
-http://195.226.218.163/vid/kidstv-hbbtv/mpeg.2ts
+http://195.226.218.163/vid/kidstv-hbbtv/mpeg.2ts|user-agent=ExoPlayer
