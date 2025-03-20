@@ -1,5 +1,5 @@
 #EXTINF:-1 tvg-name="ant1" tvg-id="ant1" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ant1.png",ANT1
-https://raw.githubusercontent.com/jimgate07/grtv/master/Metadoseis/ant1.m3u8|user-agent=ExoPlayer
+https://cdn1.smart-tv-data.com/live/ant1/playlist.m3u8|user-agent=ExoPlayer
 
 
 
