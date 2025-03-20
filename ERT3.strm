@@ -1,3 +1,2 @@
 #EXTINF:-1 tvg-name="ert3" tvg-id="ert3" group-title="Ελλάδα" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_3.png?raw=true",ERT3
-http://vip84.fritzinet.com:80/nova/FST2aPPpyh/93024|user-agent=VLC/3.0.20 LibVLC/3.0.20|refer=vip84.fritzinet.com:80|connection=keep-alive
-
+https://s2.cystream.net/live/ert3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDI1IDU6NDA6MzEgUE0maGFzaF92YWx1ZT02VkVPMnlQQWJIZHBtaVFjY2VvaVZnPT0mdmFsaWRtaW51dGVzPTIw|user-agent=Exoplayer|referer=https://anacon.org|connection=keep-alive
