@@ -1,4 +1,3 @@
 #EXTINF:-1 tvg-name="ert3" tvg-id="ert3" group-title="Ελλάδα" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_3.png?raw=true",ERT3
-#KODIPROP:inputstream=inputstream.adaptive
 http://vip84.fritzinet.com:80/nova/FST2aPPpyh/93024|user-agent=VLC/3.0.20 LibVLC/3.0.20|refer=vip84.fritzinet.com:80|connection=keep-alive
 
