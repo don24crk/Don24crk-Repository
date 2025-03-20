@@ -1,2 +1,2 @@
 #EXTINF:-1 tvg-name="ert1" tvg-id="ert1" group-title="Ελλάδα" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_1.png?raw=true",ERT1
-https://s2.cystream.net/live/ert1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDI1IDU6Mjg6MjAgUE0maGFzaF92YWx1ZT1mdGlXSFN6Ti9hdi9LVmtzaCs5aU1BPT0mdmFsaWRtaW51dGVzPTIw|user-agent=Exoplayer|referer=https://anacon.org|connection=keep-alive
+https://s2.cystream.net/live/ert1/chunks.m3u8?nimblesessionid=17671227&wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDI1IDU6Mjg6MjAgUE0maGFzaF92YWx1ZT1mdGlXSFN6Ti9hdi9LVmtzaCs5aU1BPT0mdmFsaWRtaW51dGVzPTIw|user-agent=Exoplayer|referer=https://anacon.org|connection=keep-alive
