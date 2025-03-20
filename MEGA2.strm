@@ -1,3 +1,2 @@
 #EXTINF:-1 tvg-name="mega" tvg-id="mega" group-title="Ελλάδα" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MEGA_red.png?raw=true",MEGATV
-https://s2.cystream.net/live/megagr/chunks.m3u8?nimblesessionid=17671558&wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDI1IDU6NTI6MDQgUE0maGFzaF92YWx1ZT0yRUNxRzlEaC9FT2Q2eS92NUw1RlhRPT0mdmFsaWRtaW51dGVzPTIw|user-agent=ExoPlayer|refer=https://anacon.org|connection=keep-alive
-
+https://s2.cystream.net/live/megagr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDI1IDk6MTg6NTQgUE0maGFzaF92YWx1ZT11QXhYZnJKT3NPMUh5YUlUYTNYclNRPT0mdmFsaWRtaW51dGVzPTIw|user-agent=ExoPlayer
