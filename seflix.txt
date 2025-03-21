@@ -10,9 +10,13 @@ name= Állos gia Survivor Márkos Seferlís - Delfinário 2017 url= "plugin://pl
 name= Markos Seferlis 2025 MAMMA MIA url= "plugin://plugin.video.youtube/play/?video_id=TtJVsBNDFCk" logo= "https://i.ytimg.com/vi/TtJVsBNDFCk/maxresdefault.jpg"
 name= Mrs.Doubtfire (Márkos Seferlís - Théatro Peroké 2010/2011) url= "plugin://plugin.video.youtube/play/?video_id=glzTEUUC7gQ" logo= "https://i.ytimg.com/vi/glzTEUUC7gQ/mqdefault.jpg"
 name= Márkos Seferlís Daddy Cool 2010 url= "plugin://plugin.video.youtube/play/?video_id=G-qOSlIdl78" logo= "https://i.ytimg.com/vi/Rmr-ODiDtMM/hqdefault.jpg"
-name= Márkos Seferlís - Delfinário 2025 Des ta re Elláda óla aftá url= "plugin://plugin.video.youtube/play/?video_id=gTAzq5SlitI" logo= "https://www.comedyfactory.gr/wp-content/uploads/2024/01/NEW_SLIDER.jpeg"
+name= Márkos Seferlís - Delfinário 2025 Des ta re Elláda óla aftá url= "plugin://plugin.video.youtube/play/?video_id=UYX3raDOWj8" logo= "https://www.comedyfactory.gr/wp-content/uploads/2024/01/NEW_SLIDER.jpeg"
 name= akyvérnito karávi i patrída mas Márkos Seferlís url= "plugin://plugin.video.youtube/play/?video_id=HHeFv088-AE" logo= "https://www.agon.gr/wp-content/uploads/2023/09/seferlis-akyvernito-960x676.jpg"
 name= Markos Seferlis 2025 Me Parésyre To Révma url= "plugin://plugin.video.youtube/play/?video_id=1kbkOxhqBFk" logo= "https://cosmopoliti.com/wp-content/uploads/2023/01/BANNER_816X465.jpg"
+name= Márkos Seferlís - Tróei Story 30 Chrónia tóra url= "plugin://plugin.video.youtube/play/?video_id=9HHPYE_yJvg" logo= "https://i.ytimg.com/vi/f4NfRuls-AE/mqdefault.jpg"
+name= PA.SO.K mou Sorry (Márkos Seferlís - Théatro Peroké 2003/2004) url= "plugin://plugin.video.youtube/play/?video_id=5jiPu3y9mRw" logo= "https://markosseferlis.gr/wp-content/uploads/2024/05/Pasok-Mou-Sorry-Poster11.jpg"
+name= Black Friday kai 13 2025 márkos seferlís url= "plugin://plugin.video.youtube/play/?video_id=SPR9iG7WLx8" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrbPu5StewCoDr1fxwYIdZ8GPnvvommzfSQg&s"
+
 
 
 
