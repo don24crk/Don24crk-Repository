@@ -1,2 +1,2 @@
 #EXTINF:-1 tvg-name="ert3" tvg-id="ert3" group-title="Ελλάδα" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_3.png?raw=true",ERT3
-https://s2.cystream.net/live/ert3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDI1IDk6MzE6NDYgUE0maGFzaF92YWx1ZT1JWDR3akd5bmhNdUxJUTdWOWNKVEJBPT0mdmFsaWRtaW51dGVzPTIw|user-agent=ExoPlayer
+https://cdn1.smart-tv-data.com/vid/ert3/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/553.27 (KHTML, like Gecko) Chrome/175.0.1847.859 Safari/553.27
