@@ -1,2 +1,3 @@
 #EXTINF:-1 tvg-name="star" tvg-id="star" group-title="Ελλάδα" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/STAR_Channel.png?raw=true",STARTV
+#KODIPROP:inputstream=inputstream.ffmpeg.direct
 http://wow.anixa.tv/live/star/playlist.m3u8
