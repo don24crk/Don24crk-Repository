@@ -1,2 +1,2 @@
 #EXTINF:-1 tvg-name="alphatv" tvg-id="alphatv" group-title="Ελλάδα" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ALPHA.png?raw=true",ALPHATV
-http://wow.anixa.tv/live/alpha/playlist.m3u8https://wow.anixa.tv/live/star/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/553.27 (KHTML, like Gecko) Chrome/175.0.1847.859
+http://wow.anixa.tv/live/alpha/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/553.27 (KHTML, like Gecko) Chrome/175.0.1847.859
