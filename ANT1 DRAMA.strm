@@ -1,3 +1,2 @@
 #EXTINF:-1 tvg-name="ant1drama" tvg-id="ant1drama" group-title="Ελλάδα" tvg-logo="https://i.imgur.com/5QDNhXo.png",ANT1DRAMA
-#KODIPROP:inputstream=inputstream.adaptive
-https://mcdn.antennaplus.gr/live/media0/Drama/HLS/Drama.m3u8
+https://mcdn.antennaplus.gr/live/media0/Drama/HLS/Drama.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/553.27 (KHTML, like Gecko) Chrome/175.0.1847.859
