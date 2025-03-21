@@ -1,5 +1,5 @@
 #EXTINF:-1 tvg-name="mtv" tvg-id="mtv" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/makedoniatv.png",MAK TV
 #KODIPROP:inputstream=inputstream.adaptive
-https://raw.githubusercontent.com/jimgate07/grtv/master/Metadoseis/maktv.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 13; SM-918) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/jimgate07/grtv/master/Metadoseis/maktv.m3u8
 
 
