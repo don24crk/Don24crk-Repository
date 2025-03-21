@@ -10,6 +10,10 @@ name= Oi Póntioi 1986 url= "plugin://plugin.video.youtube/play/?video_id=gdsVeA
 name= Stathis Psaltis - Kleftroni ke tsentelman url= "plugin://plugin.video.youtube/play/?video_id=hg68JTkkFKk" logo= "https://m.media-amazon.com/images/M/MV5BNGQyODI0NjAtNTZkNC00YjRkLTkwMTgtZjZkZmMwMWIwMzNkXkEyXkFqcGc@._V1_.jpg"
 name= Mántepse Ti Káno Ta Vrádia (1984) [Ellinikí Tainía] url= "plugin://plugin.video.youtube/play/?video_id=1JlvuV_2HJo" logo= "https://i.ytimg.com/vi/1JlvuV_2HJo/maxresdefault.jpg"
 name= TA KÍTRINA GÁNTIA url= "plugin://plugin.video.youtube/play/?video_id=jXFuSVAnk48" logo= "https://finosflixweb.eu-central-1.linodeobjects.com/uploaded/trailers/348/cover.jpg"
+name= Kamikázi Agápi Mou (1983) [Ellinikí Tainía] url= "plugin://plugin.video.youtube/play/?video_id=mDSmMCp6LnM" logo= "https://m.media-amazon.com/images/M/MV5BNzZlNWZlN2QtZTI4Yi00NDkwLWIyZjEtNzk1ZGIyOGVlYTYwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+name= Stathis Psaltis - Trelathiko Politilias url= "plugin://plugin.video.youtube/play/?video_id=SsgKBwdtzbY" logo= "https://i.ytimg.com/vi/SsgKBwdtzbY/hqdefault.jpg"
+
+
 
 
 
