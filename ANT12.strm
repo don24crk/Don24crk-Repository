@@ -1,3 +1,2 @@
 #EXTINF:-1 tvg-name="ant1" tvg-id="ant1" group-title="Ελλάδα" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ANT1_wite.png?raw=true",ANT1
-#KODIPROP:inputstream=inputstream.adaptive
-https://wow.anixa.tv/live/ant1/chunklist_.m3u8
+https://cdn1.smart-tv-data.com/live/ant1_srt/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/553.27 (KHTML, like Gecko) Chrome/175.0.1847.859 Safari/553.27
