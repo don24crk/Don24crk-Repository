@@ -32,7 +32,7 @@ name= SIGMACY url= "http://l10.cloudskep.com/sigmatv/stv/playlist.m3u8|user-agen
 name= DELTATV url= "http://81.171.10.42:1935/liveD/smil:DStream.sdp.smil/playlist.m3u8" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/DELTA_TV.png?raw=true"
 name= GALAXYGR url= "https://ssh101stream.ssh101.com/akamaissh101/ssh101/galaxygr/playlist.m3u8" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/GALAXY.png?raw=true"
 name= BARAZA TV GREEK HITS url= "https://eco.streams.ovh:8081/barazatv/playlist.m3u8" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/BARAZA_RADIO_TV.png?raw=true"
-name= NETTV EUROPE url= "https://eu1.vectromdigital.com:1936/netveurope/netveurope/playlist.m3u8" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQluyWfUH1if9Ae5H5dUXsPSSQFu-QpxYz4eQ&s"
+name= NETTV EUROPE url= "https://eu1.vectromdigital.com:1936/netveurope/netveurope/playlist.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; SM-918) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQluyWfUH1if9Ae5H5dUXsPSSQFu-QpxYz4eQ&s"
 name= NETTV TORONTO url= "https://eu1.vectromdigital.com:1936/netvtoronto/netvtoronto/playlist.m3u8" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQluyWfUH1if9Ae5H5dUXsPSSQFu-QpxYz4eQ&s"
 name= IONIATV url= "http://stream.ioniantv.gr:8081/ionian/live/playlist.m3u8" logo= "https://ioniantv.gr/wp-content/uploads/2023/04/ionianlive.png"
 name= PELLATV url= "https://video.streams.ovh:1936/pellatv/pellatv/master.m3u8" logo= "https://pellatv.gr/wp-content/themes/pellatv/images/pellatv.jpg"
