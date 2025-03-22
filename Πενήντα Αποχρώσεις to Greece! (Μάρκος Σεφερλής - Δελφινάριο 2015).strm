@@ -1,1 +1,3 @@
-plugin.video.youtube/play/?video_id=t3Oo99CTOVs
+#EXTINF:-1 tvg-name="seflix" tvg-id="seflix" group-title="Ελλάδα",SEFLIX
+#KODIPROP:inputstream=inputstream.adaptive
+https://www.youtube.com/watch?v=t3Oo99CTOVs
