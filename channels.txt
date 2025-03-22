@@ -38,7 +38,7 @@ name= IONIATV url= "http://stream.ioniantv.gr:8081/ionian/live/playlist.m3u8" lo
 name= PELLATV url= "https://video.streams.ovh:1936/pellatv/pellatv/master.m3u8" logo= "https://pellatv.gr/wp-content/themes/pellatv/images/pellatv.jpg"
 name= ELLASWORLD url= "http://ellastv.gotdns.com:88/freetv/promo/index.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; SM-918) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" logo= "https://ellastvmax.com/wp-content/uploads/2022/05/ellastvpromo.png"
 name= CINEMA CLASSICS url= "https://tv.mediacp.eu:8081/cinemaclassics/index.m3u8" logo= "https://upload.wikimedia.org/wikipedia/en/7/7d/Greek_Cinema_Channel.png"
-name= VILLAGE WORLD url= "http://ellastv.gotdns.com:88/freetv/village-world/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/553.27 (KHTML, like Gecko) Chrome/175.0.1847.859 Safari/553.27" logo= "https://www.infocom.gr/wp-content/uploads/2012/06/ote_village.jpg"
+name= VILLAGE WORLD url= "https://ellastvmax.better-than.tv/freetv/village-world/index.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; SM-918) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" logo= "https://www.infocom.gr/wp-content/uploads/2012/06/ote_village.jpg"
 name= DIAVATATV url= "https://ssh101stream.ssh101.com/akamaissh101/ssh101/diavatatvweb/playlist.m3u8" logo= "https://diavatatv.weebly.com/uploads/1/4/2/4/142474112/published/diavatatv.png?1708012166"
 
 
