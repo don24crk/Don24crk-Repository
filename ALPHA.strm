@@ -1,3 +1,2 @@
 #EXTINF:-1 tvg-name="alphatv" tvg-id="alphatv" group-title="Ελλάδα" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ALPHA.png?raw=true",ALPHATV
-#KODIPROP:inputstream=inputstream.adaptive
-http://wow.anixa.tv/live/alpha/playlist.m3u8
+http://wow.anixa.tv/live/alpha/playlist.m3u8|user-agent=ExoPlayer
