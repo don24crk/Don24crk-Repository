@@ -1,3 +1,4 @@
 #EXTINF:-1 tvg-name="seflix" tvg-id="seflix" group-title="Ελλάδα",SEFLIX
-#KODIPROP:inputstream=inputstream.ffmpeg.direct
-https://www.youtube.com/watch?v=t3Oo99CTOVs
+#KODIPROP:inputstream.ffmpegdirect.default_url=https://www.youtube.com/watch?v=t3Oo99CTOVs
+
+
