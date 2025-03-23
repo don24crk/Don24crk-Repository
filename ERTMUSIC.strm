@@ -1,2 +1,2 @@
 #EXTINF:-1 tvg-name="ertmusic" tvg-id="ertmusic" group-title="Ελλάδα" tvg-logo="https://i.ibb.co/7GL1WL6/ertmusic.jpg",ERTMUSIC
-https://hbbtv.ert.gr/stream.php/v/vid_ertplay5_mpeg.2ts|user-agent=ExoPlayer|refer=https://hbbtv.ert.gr/stream.php/v|connection=keep-a-live 
+https://hbbtv.ert.gr/stream.php/v/vid_ertplay5_mpeg.2ts|user-agent=ExoPlayer|connection=keep-a-live 
