@@ -1,2 +1,4 @@
 #EXTINF:-1 tvg-name="ertkids" tvg-id="ertkids" group-title="Ελλάδα" tvg-logo="https://i.ibb.co/Tv1hStJ/ertkids.jpg",ERTKIDS
-http://195.226.218.163/vid/kidstv-hbbtv/mpeg.2ts|user-agent=VLC/3.0.20 LibVLC/3.0.20
+https://cdn3.smart-tv-data.com/vid/kidstv-hbbtv/playlist.m3u8|user-agent=VLC/3.0.20 LibVLC/3.0.20
+
+
