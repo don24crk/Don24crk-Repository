@@ -1,3 +1,3 @@
 #EXTINF:-1 tvg-name="star" tvg-id="star" group-title="Ελλάδα" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/STAR_Channel.png?raw=true",STARTV
 #KODIPROP:inputstream=inputstream.ffmpeg.direct
-https://wow.anixa.tv/live/star/chunklist_w1246387071.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; SM-918) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
+https://wow.anixa.tv/live/star/chunklist_w1246387071.m3u8
