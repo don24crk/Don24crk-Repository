@@ -1,2 +1,2 @@
 #EXTINF:-1 tvg-name="mega" tvg-id="mega" group-title="Ελλάδα" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MEGA_red.png?raw=true",MEGA
-https://wow.anixa.tv/live/mega/chunklist_w754215790.m3u8|user-agent=ExoPlayer
+https://wow.anixa.tv:80/live/mega/chunklist_w754215790.m3u8|user-agent=ExoPlayer
