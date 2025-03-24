@@ -1,4 +1,4 @@
-name= Penínta Apochróseis to Greece! (Márkos Seferlís - Delfinário 2015) url= "plugin://plugin.video.youtube/play/?video_id=t3Oo99CTOVs" logo= "https://www.happydeals.gr/image_deals/deals/2015/0903/14412662693013.jpg" 
+name= Penínta Apochróseis to Greece! (Márkos Seferlís - Delfinário 2015) iframe width="660" height="371" src="https://www.youtube.com/embed/t3Oo99CTOVs" logo= "https://www.happydeals.gr/image_deals/deals/2015/0903/14412662693013.jpg" 
 name= Markos Seferlis 2025 Greece the Musicult url= "plugin://plugin.video.youtube/play/?video_id=EHf3jUOMZIc" logo= "https://i.ytimg.com/vi/EHf3jUOMZIc/maxresdefault.jpg"
 name= Dettolmi kai Goiteía url= "plugin://plugin.video.youtube/play/?video_id=M85FC5HzhdU" logo= "https://www.webmusic.gr/wp-content/uploads/2020/06/seferlis-1.jpg"
 name= ZITEITAI SEF TIS KOMODIAS Márkos Seferlís - Delfinário 2019 url= "plugin://plugin.video.youtube/play/?video_id=Y4K7ny09Wg0" logo= "https://s1.dmcdn.net/v/XUVP41dLCpgtXgcD0/x1080"
