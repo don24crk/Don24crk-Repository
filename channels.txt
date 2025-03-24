@@ -20,7 +20,7 @@ name= ALPHA TV url= "https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/pl
 name= ALPHA TV BUP url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ALPHA.strm" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ALPHA.png?raw=true"
 name= STAR TV url= "https://livestar.siliconweb.com/media/star4/star4newhd.m3u8" logo= "https://www.star.gr/tv/images/640x360/jpg/files/star1200x630n.jpg"
 name= STAR TV BUP url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/STAR.strm" logo= "https://www.star.gr/tv/images/640x360/jpg/files/star1200x630n.jpg"
-name= SKAI TV url= "https://skai-live-drm.siliconweb.com/skaidrm/en2/playlist.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 13; SM-918) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/SKAI.png?raw=true"
+name= SKAI TV url= "https://skai-live.siliconweb.com/media/cambria4/index.m3u8" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/SKAI.png?raw=true"
 name= SKAI TV BUP url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/SKAI.strm" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/SKAI.png?raw=true"
 name= OPEN TV url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/OPEN.strm" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/OPEN_BEYOND.png?raw=true"
 name= OPENTV BUP url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/OPEN.strm" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/OPEN_BEYOND.png?raw=true"
