@@ -25,7 +25,7 @@ name= SKAI TV BUP url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repo
 name= OPEN TV url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/OPEN.strm" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/OPEN_BEYOND.png?raw=true"
 name= OPENTV BUP url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/OPEN.strm" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/OPEN_BEYOND.png?raw=true"
 name= MAK TV url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/MAKTV.strm" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MAKEDONIA-tv.png?raw=true"
-name= MAK TV BUP url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/MAKTV.strm" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MAKEDONIA-tv.png?raw=true"
+name= MAK TV BUP url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/mak12.strm" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MAKEDONIA-tv.png?raw=true"
 name= STAR INTERNATIONAL url= "https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8" logo= "https://i.imgur.com/AazwSEQ.png"
 name= SMILE TV CY url= "https://s1.cystream.net/live/smile/playlist.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; SM-918) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/SMILE_TV.png?raw=true"
 name= OMEGA CY url= "https://l1.cloudskep.com/omegatv/omcy/playlist.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; SM-918) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/OMEGA.png?raw=true"
