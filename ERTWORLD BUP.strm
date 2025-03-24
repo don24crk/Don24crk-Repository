@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-name="ertworld" tvg-id="ertworld" group-title="Ελλάδα" tvg-logo="https://i.imgur.com/pu1amqH.png",ERT WORLD 
+#KODIPROP:inputstream=inputstream.ffmpeg.direct
+http://hbbtvapp.ert.gr/stream.php/v/vid_ertworld_mpeg.2ts
