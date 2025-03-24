@@ -1,2 +1,3 @@
+#EXTINF:-1 tvg-name="mtv" tvg-id="mtv" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/makedoniatv.png",MAK TV
 #KODIPROP:inputstream=inputstream.adaptive
 https://mcdn.antennaplus.gr/live/media0/MAK/HLS/MAK.m3u8
