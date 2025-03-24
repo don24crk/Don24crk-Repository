@@ -1,49 +1,49 @@
 #EXTINF:-1 tvg-name="Penínta Apochróseis to Greece! (Márkos Seferlís - Delfinário 2015)" tvg-id="comedy" group-title="Seflix" tvg-logo="https://www.happydeals.gr/image_deals/deals/2015/0903/14412662693013.jpg"
-https://www.youtube.com/watch?v=t3Oo99CTOVs  
+plugin://plugin.video.youtube/play/?video_id=t3Oo99CTOVs
 #EXTINF:-1 tvg-name="Markos Seferlis 2025 Greece the Musicult" tvg-id="comedy" group-title="Seflix" tvg-logo="https://i.ytimg.com/vi/EHf3jUOMZIc/maxresdefault.jpg"
-https://www.youtube.com/watch?v=EHf3jUOMZIc
+plugin://plugin.video.youtube/play/?video_id=EHf3jUOMZIc
 #EXTINF:-1 tvg-name="Dettolmi kai Goiteía" tvg-id="comedy" group-title="Seflix" tvg-logo="https://www.webmusic.gr/wp-content/uploads/2020/06/seferlis-1.jpg"
-https://www.youtube.com/watch?v=M85FC5HzhdU  
+plugin://plugin.video.youtube/play/?video_id=M85FC5HzhdU  
 #EXTINF:-1 tvg-name="ZITEITAI SEF TIS KOMODIAS Márkos Seferlís - Delfinário 2019" tvg-id="comedy" group-title="Seflix" tvg-logo="https://s1.dmcdn.net/v/XUVP41dLCpgtXgcD0/x1080"
-https://www.youtube.com/watch?v=Y4K7ny09Wg0 
+plugin://plugin.video.youtube/play/?video_id=Y4K7ny09Wg0 
 #EXTINF:-1 tvg-name="Práktor 00 leftá" tvg-id="comedy" group-title="Seflix" tvg-logo="https://greek-movies.com/icon/theater/%CE%A0%CF%81%CE%AC%CE%BA%CF%84%CF%89%CF%8100%CE%BB%CE%B5%CF%86%CF%84%CE%AC2022.jpg"
-https://www.youtube.com/watch?v=50-kGB4PX7M 
+plugin://plugin.video.youtube/play/?video_id=50-kGB4PX7M 
 #EXTINF:-1 tvg-name="Allou Fun Mark - Márkos Seferlís Théatro Delfinário" tvg-id="comedy" group-title="Seflix" tvg-logo="https://i.ytimg.com/vi/dMrCqEG-neM/sddefault.jpg"
-https://www.youtube.com/watch?v=dMrCqEG-neM 
+plugin://plugin.video.youtube/play/?video_id=dMrCqEG-neM 
 #EXTINF:-1 tvg-name="Agápi móno" tvg-id="comedy" group-title="Seflix" tvg-logo="https://i.ytimg.com/vi/LFF65Ay3aNY/maxresdefault.jpg"
-https://www.youtube.com/watch?v=LFF65Ay3aNY 
+plugin://plugin.video.youtube/play/?video_id=LFF65Ay3aNY 
 #EXTINF:-1 tvg-name="10 chrónia gámou" tvg-id="comedy" group-title="Seflix" tvg-logo="https://cosmopoliti.com/wp-content/uploads/2019/02/51672195_10156311222093687_3350911296538148864_n.jpg"
-https://www.youtube.com/watch?v=0c43msG-d5I 
+plugin://plugin.video.youtube/play/?video_id=0c43msG-d5I 
 #EXTINF:-1 tvg-name="Állos gia Survivor Márkos Seferlís - Delfinário 2017" tvg-id="comedy" group-title="Seflix" tvg-logo="https://www.happydeals.gr/image_deals/deals/2017/0907/15047824448486.jpg"
-https://www.youtube.com/watch?v=t4URBaERibQ 
+plugin://plugin.video.youtube/play/?video_id=t4URBaERibQ 
 #EXTINF:-1 tvg-name="Markos Seferlis 2025 MAMMA MIA" tvg-id="comedy" group-title="Seflix" tvg-logo="https://i.ytimg.com/vi/TtJVsBNDFCk/maxresdefault.jpg" 
 https://www.youtube.com/watch?v=TtJVsBNDFCk 
 #EXTINF:-1 tvg-name="Mrs.Doubtfire (Márkos Seferlís - Théatro Peroké 2010/2011)" tvg-id="comedy" group-title="Seflix" tvg-logo="https://i.ytimg.com/vi/glzTEUUC7gQ/mqdefault.jpg"
-https://www.youtube.com/watch?v=glzTEUUC7gQ 
+plugin://plugin.video.youtube/play/?video_id=glzTEUUC7gQ 
 #EXTINF:-1 tvg-name="Márkos Seferlís Daddy Cool 2010" tvg-id="comedy" group-title="Seflix" tvg-logo="https://i.ytimg.com/vi/Rmr-ODiDtMM/hqdefault.jpg"
 https://www.youtube.com/watch?v=G-qOSlIdl78 
 #EXTINF:-1 tvg-name="Márkos Seferlís - Delfinário 2025 Des ta re Elláda óla aftá" tvg-id="comedy" group-title="Seflix" tvg-logo="https://www.comedyfactory.gr/wp-content/uploads/2024/01/NEW_SLIDER.jpeg"  
-https://www.youtube.com/watch?v=UYX3raDOWj8 
+plugin://plugin.video.youtube/play/?video_id=UYX3raDOWj8 
 #EXTINF:-1 tvg-name="akyvérnito karávi i patrída mas Márkos Seferlís" tvg-id="comedy" group-title="Seflix" tvg-logo="https://www.agon.gr/wp-content/uploads/2023/09/seferlis-akyvernito-960x676.jpg"
-https://www.youtube.com/watch?v=nVJd52UTL5c 
+plugin://plugin.video.youtube/play/?video_id=nVJd52UTL5c 
 #EXTINF:-1 tvg-name="Markos Seferlis 2025 Me Parésyre To Révma" tvg-id="comedy" group-title="Seflix" tvg-logo="https://cosmopoliti.com/wp-content/uploads/2023/01/BANNER_816X465.jpg"
-https://www.youtube.com/watch?v=1kbkOxhqBFk 
+plugin://plugin.video.youtube/play/?video_id=1kbkOxhqBFk 
 #EXTINF:-1 tvg-name="Márkos Seferlís - Tróei Story 30 Chrónia tóra" tvg-id="comedy" group-title="Seflix" tvg-logo="https://i.ytimg.com/vi/f4NfRuls-AE/mqdefault.jpg"
-https://www.youtube.com/watch?v=9HHPYE_yJvg 
+plugin://plugin.video.youtube/play/?video_id=9HHPYE_yJvg 
 #EXTINF:-1 tvg-name="PA.SO.K mou Sorry (Márkos Seferlís - Théatro Peroké 2003/2004)" tvg-id="comedy" group-title="Seflix" tvg-logo="https://markosseferlis.gr/wp-content/uploads/2024/05/Pasok-Mou-Sorry-Poster11.jpg" 
-https://www.youtube.com/watch?v=5jiPu3y9mRw 
+plugin://plugin.video.youtube/play/?video_id=5jiPu3y9mRw 
 #EXTINF:-1 tvg-name="Black Friday kai 13 2025 márkos seferlís" tvg-id="comedy" group-title="Seflix" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrbPu5StewCoDr1fxwYIdZ8GPnvvommzfSQg&s"  
-https://www.youtube.com/watch?v=SPR9iG7WLx8 
+plugin://plugin.video.youtube/play/?video_id=SPR9iG7WLx8 
 #EXTINF:-1 tvg-name="O Mágos Tou Roz (Márkos Seferlís - Delfinário 2010) seferlís" tvg-id="comedy" group-title="Seflix" tvg-logo="https://i.ytimg.com/vi/O68aj7EVMkI/hqdefault.jpg"
-https://www.youtube.com/watch?v=O68aj7EVMkI 
+plugin://plugin.video.youtube/play/?video_id=O68aj7EVMkI 
 #EXTINF:-1 tvg-name="Gámos alá Plágia (Márkos Seferlís - Théatro Delfinário 2005)" tvg-id="comedy" group-title="Seflix" tvg-logo="https://i.ytimg.com/vi/0uxkxQ-GhnQ/hqdefault.jpg"
-https://www.youtube.com/watch?v=0uxkxQ-GhnQ 
+plugin://plugin.video.youtube/play/?video_id=0uxkxQ-GhnQ 
 #EXTINF:-1 tvg-name="Fame Zori (Márkos Seferlís - Théatro Athiná 2004/2005)" tvg-id="comedy" group-title="Seflix" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGJiMTRlN2MtYzJlOS00ZTI5LWExNGUtNzIxMDNjM2UxNGM5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
-https://www.youtube.com/watch?v=sKOGZNEXal0 
+plugin://plugin.video.youtube/play/?video_id=sKOGZNEXal0 
 #EXTINF:-1 tvg-name="Apáta ton plisíon sou - Márkos Seferlís (Théatro Kaloutá 2000)" tvg-id="comedy" group-title="Seflix" tvg-logo="https://i.ytimg.com/vi/BRs-aTnxuWo/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AGOBYAC4AOKAgwIABABGH8gSSgqMA8=&rs=AOn4CLCnVf8pV2QoSYKnAKprZYGhl1l_yg"
-https://www.youtube.com/watch?v=BRs-aTnxuWo 
+plugin://plugin.video.youtube/play/?video_id=BRs-aTnxuWo 
 #EXTINF:-1 tvg-name="Kai o Simítis thélei ...ton Germanó tou" tvg-id="comedy" group-title="Seflix" 
-https://www.youtube.com/watch?v=NIIigo2BUxY tvg-logo= "https://markosseferlis.gr/wp-content/uploads/2024/02/Kai-O-Simitis-Thelei-Ton-Germano-Tou-Poster.jpeg"
+plugin://plugin.video.youtube/play/?video_id=NIIigo2BUxY tvg-logo= "https://markosseferlis.gr/wp-content/uploads/2024/02/Kai-O-SimitisThelei-Ton-Germano-Tou-Poster.jpeg"
 
 
 
