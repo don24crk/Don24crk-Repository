@@ -1,2 +1,3 @@
 #EXTINF:-1 tvg-name="mtv" tvg-id="mtv" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/makedoniatv.png",MAK TV
-https://s2.cystream.net/live/ant1gr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDI1IDEwOjIxOjEyIFBNJmhhc2hfdmFsdWU9R0tyRkZGWDZSMWw4RXNaeCtDOHpLUT09JnZhbGlkbWludXRlcz0yMA==|user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.135 Mobile Safari/537.36"|referer="https://anacon.org"|origin="https://anacon.org"|connection="keep-a-live"
+#KODIPROP:inputstream=inputstream.adaptive
+https://raw.githubusercontent.com/jimgate07/grtv/master/Metadoseis/maktv.m3u8
