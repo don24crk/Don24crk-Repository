@@ -1,2 +1,3 @@
 #EXTINF:-1 tvg-name="alphatv" tvg-id="alphatv" group-title="Ελλάδα" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ALPHA.png?raw=true",ALPHATV
-https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/alphatvlive/live_source/chunks.m3u8
+#KODIPROP:inputstream=inputstream.adaptive
+https://wow.anixa.tv/live/alpha/chunklist_w1990246929.m3u8
