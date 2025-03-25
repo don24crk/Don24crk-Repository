@@ -1,2 +1,2 @@
 #EXTINF:-1 tvg-name="open" tvg-id="open" group-title="Ελλάδα" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/OPEN_BEYOND.png?raw=true",OPENTV
-https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
+https://s2.cystream.net/galanos/open/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDI1IDEwOjMzOjA0IFBNJmhhc2hfdmFsdWU9VHNYdVVlZERrN2dtYm1vT0F0MDRQdz09JnZhbGlkbWludXRlcz0yMA==|user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.135 Mobile Safari/537.36"|referer="https://anacon.org"|origin="https://anacon.org"|connection="keep-a-live"
