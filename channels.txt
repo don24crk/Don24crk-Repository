@@ -1,4 +1,4 @@
-name= ERT1 url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ERT1.strm" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_1.png?raw=true" image= "https://img.freepik.com/vektoren-kostenlos/bollywood-schriftzug-mit-mandala-thema_23-2148466809.jpg" 
+name= ERT1 url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ERT1.strm" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_1.png?raw=true" 
 name= ERT1 BUP url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ERT1.strm" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_1.png?raw=true" 
 name= ERT2 url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ERT2.strm" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_2.png?raw=true"
 name= ERT2 BUP url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ERT2.strm" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_2.png?raw=true"
