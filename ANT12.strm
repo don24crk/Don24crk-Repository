@@ -1,2 +1,3 @@
 #EXTINF:-1 tvg-name="ant1" tvg-id="ant1" group-title="Ελλάδα" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ANT1_wite.png?raw=true",ANT1
+#KODIPROP:inputstream=inputstream.adaptive
 https://wow.anixa.tv/live/ant1/chunklist_w690481919.m3u8
