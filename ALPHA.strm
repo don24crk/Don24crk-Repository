@@ -1,2 +1,2 @@
 #EXTINF:-1 tvg-name="alphatv" tvg-id="alphatv" group-title="Ελλάδα" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ALPHA.png?raw=true",ALPHATV
-https://s2.cystream.net/live/alphagr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDI1IDEwOjM0OjE5IFBNJmhhc2hfdmFsdWU9S3RuaGF2NWlxa1hyb1c5OW9UWW1tdz09JnZhbGlkbWludXRlcz0yMA==|user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.135 Mobile Safari/537.36"|referer="https://anacon.org"|origin="https://anacon.org"|connection="keep-a-live"
+https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/alphatvlive/live_source/chunks.m3u8
