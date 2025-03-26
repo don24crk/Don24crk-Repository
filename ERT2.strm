@@ -1,2 +1,2 @@
-#EXTINF:-1 tvg-name="ert2" tvg-id="ert2" group-title="Ελλάδα" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_2.png?raw=true" user-agent="VLC/3.0.20 LibVLC/3.0.20",ERT2
+#EXTINF:-1 tvg-name="ert2" tvg-id="ert2" group-title="Ελλάδα" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_2.png?raw=true" user-agent="zilla/5.0 (Linux; Android 13; SM-918) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36",ERT2
 https://s2.cystream.net/live/ert2/chunks.m3u8?nimblesessionid=18081601&wmsAuthSign=c2VydmVyX3RpbWU9My8yNi8yMDI1IDEwOjMxOjE3IFBNJmhhc2hfdmFsdWU9WVJVZlVxUlZyOWRnV2VIaTZqanhzZz09JnZhbGlkbWludXRlcz0yMA==
