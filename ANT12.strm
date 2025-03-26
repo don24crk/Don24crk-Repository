@@ -1,2 +1,2 @@
-#EXTINF:-1 tvg-name="ant1" tvg-id="ant1" group-title="Ελλάδα" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ANT1_wite.png?raw=true",ANT1
+#EXTINF:-1 tvg-name="ant1" tvg-id="ant1" group-title="Ελλάδα" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ANT1_wite.png?raw=true" user-agent="VLC/3.0.20 LibVLC/3.0.20",ANT1
 https://wow.anixa.tv/live/ant1/playlist.m3u8
