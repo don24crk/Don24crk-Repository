@@ -10,7 +10,7 @@ name= ERTNEWS url= "https://ertflix.akamaized.net/ertlive/ertnews/default/playli
 name= ERT KIDS url= "https://cdn3.smart-tv-data.com/vid/kidstv-hbbtv/playlist.m3u8|user-agent=Mozilla/5.0 (Android 15; Mobile; LG-M255; rv:136.0) Gecko/136.0 Firefox/136.0" logo= "https://i.imgur.com/RvrQSAs.png"
 name= ERT MUSIC url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ERTMUSIC.strm" logo= "https://i.imgur.com/Q4rTipR.png"
 name= ANT1 url= "https://cdn1.smart-tv-data.com/live/ant1_srt/playlist.m3u8" logo= "https://i.imgur.com/GTFFtOR.png"
-name= ANT1 BUP url= "https://cdn1.smart-tv-data.com/live/ant1_srt/playlist.m3u8" logo= "https://i.imgur.com/GTFFtOR.png"
+name= ANT1 BUP url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ANT12.strm" logo= "https://i.imgur.com/GTFFtOR.png"
 name= ANT1 DRAMA url= "https://mcdn.antennaplus.gr/live/media0/Drama/HLS/Drama.m3u8" logo= "https://i.imgur.com/5QDNhXo.png"
 name= ANT1 COMEDY url= "https://mcdn.antennaplus.gr/live/media0/Comedy/HLS/Comedy.m3u8" logo= "https://i.imgur.com/V1byeFi.png"
 name= ALPHA TV url= "https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/playlist.m3u8" logo= "https://i.imgur.com/0i4MUcc.png"
