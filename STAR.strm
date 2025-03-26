@@ -1,2 +1,2 @@
-#EXTINF:-1 tvg-name="star" tvg-id="star" group-title="Ελλάδα" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/STAR_Channel.png?raw=true",STARTV
+#EXTINF:-1 tvg-name="star" tvg-id="star" group-title="Ελλάδα" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/STAR_Channel.png?raw=true" user-agent="VLC/3.0.20 LibVLC/3.0.20",STARTV
 https://livestar.siliconweb.com/media/star4/star4.m3u8
