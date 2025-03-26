@@ -1,4 +1,4 @@
-name= Yalancı Bahar 76. Bölüm İzle url= "plugin://plugin.video.dailymotion_com/?url=1inadmfto69c1fa2df9&mode=playVideo" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIOZuXa0W94ROCKuD1yKURzYTrYiR2-7nZfw&s"
+name= Yalancı Bahar 76. Bölüm İzle url= "plugin://plugin.video.dailymotion_com/?url=x7wf8lk&mode=playVideo" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIOZuXa0W94ROCKuD1yKURzYTrYiR2-7nZfw&s"
 
 
 
