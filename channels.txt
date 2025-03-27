@@ -13,6 +13,8 @@ name= ANT1 url= "https://cdn1.smart-tv-data.com/live/ant1_srt/playlist.m3u8" log
 name= ANT1 BUP url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ANT12.strm" logo= "https://i.imgur.com/GTFFtOR.png"
 name= ANT1 DRAMA url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ANT1%20DRAMA.strm" logo= "https://i.imgur.com/5QDNhXo.png"
 name= ANT1 COMEDY url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ANT1%20COMEDY.strm" logo= "https://i.imgur.com/V1byeFi.png"
+name= MAKTV url= "https://mcdn.antennaplus.gr/live/media0/MAK/HLS/MAK.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 13; SM-918) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" logo= "https://i.imgur.com/V1byeFi.png"
+name= MAKTV BUP url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ANT1%20COMEDY.strm" logo= "https://i.imgur.com/V1byeFi.png"
 name= ALPHA TV url= "https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/playlist.m3u8" logo= "https://i.imgur.com/0i4MUcc.png"
 name= ALPHA TV BUP url= "https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/playlist.m3u8" logo= "https://i.imgur.com/0i4MUcc.png"
 name= OPEN TV url= "https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8" logo= "https://i.imgur.com/cshmF4s.png"
