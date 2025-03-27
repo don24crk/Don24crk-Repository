@@ -17,7 +17,7 @@ name= ShowTurk.tr url= "http://stream.tvcdn.net/ulusal-yurt-disi/show-turk.m3u8"
 name= Kanal7Avrupa.tr url= "http://stream.tvcdn.net/ulusal-yurt-disi/kanal-7-avrupa.m3u8" logo= "http://assets.tvcdn.net/d52bb3d8-b362-47c0-9b8e-bddc4ceb4fe5.png"
 name= TRTHaber.tr url= "http://stream.tvcdn.net/haber/trt-haber.m3u8" logo= "http://assets.tvcdn.net/06e7abd9-0fbb-441f-af63-b895513d3aaa.png"
 name= AHaber.tr url= "http://stream.tvcdn.net/haber/a-haber.m3u8" logo= "http://assets.tvcdn.net/06e7abd9-0fbb-441f-af63-b895513d3aaa.png"
-name= CNNTurk.tr url= "http://stream.tvcdn.net/haber/cnn-turk.m3u8" logo= "http://assets.tvcdn.net/db0e3f2f-3191-4af2-9cde-5345eb7543e4.png"
+name= CNNTurk.tr url= "https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8?&live=true&app=com.cnnturk&st=nuD-5IOVFqJix3MW0RsLHg&e=1743116567" logo= "http://assets.tvcdn.net/db0e3f2f-3191-4af2-9cde-5345eb7543e4.png"
 
 
 
