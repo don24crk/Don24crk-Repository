@@ -1,15 +1,13 @@
+name= Sahte Kabadayı Türk Filmi _Kemal Sunal Filmleri url= "plugin://plugin.video.dailymotion_com/?url=x8hbt9g&mode=playVideo" logo= "https://i.ytimg.com/vi/YHEQO9slYjI/maxresdefault.jpg"
+name= Köseyi Dönen Adam 1978 Kemal Sunal Vhs Türk Film url= "plugin://plugin.video.dailymotion_com/?url=x95x6f4&mode=playVideo" logo= "https://storage.evrimagaci.org/old/mi_media/f365bbae108799e298133e88ac67f87f.jpeg"
+name= Sakar Şakir Türk Filmi - 4k ULTRA HD - KEMAL SUNAL - ALİ ŞEN url= "plugin://plugin.video.dailymotion_com/?url=x8pirfe&mode=playVideo" logo= "https://i.ytimg.com/vi/OW9UPh0i__k/sddefault.jpg"
+name= Hababam Sınıfı url= "plugin://plugin.video.dailymotion_com/?url=x4cfgzx&mode=playVideo" logo= "https://www.kinoundco.de/image/posters/rpiU1Y0xNEsxM1bwqFEZZCOqR3J.jpg"
+name= Yedi Bela Hüsnü (1982) - Kemal Sunal url= "plugin://plugin.video.dailymotion_com/?url=x8l2p2v&mode=playVideo" logo= "https://i.ytimg.com/vi/gPbAredRRqw/sddefault.jpg"
+name= Kapıcılar Kralı - Kemal Sunal (1976) url= "plugin://plugin.video.dailymotion_com/?url=x8ni2un&mode=playVideo" logo= "https://im.haberturk.com/tv_program/2020/07/03/ver11111/864348_620x349.jpg?v=1593675805"
 name= Kemal Sunal url= "plugin://plugin.video.dailymotion_com/?url=x9bknxo&mode=playVideo" logo= "https://s2.dmcdn.net/v/VKv7x1dPrlYO7DDiu/x240"
 name= Kemal Sunal Filmleri url= "plugin://plugin.video.dailymotion_com/?url=x8iwf28&mode=playVideo" logo= "https://s2.dmcdn.net/v/UyK1t1bylamy0aj5G/x240"
 name= Kemal Sunal Filmleri2 url= "plugin://plugin.video.dailymotion_com/?url=x8l2p2v&mode=playVideo" logo= "https://s2.dmcdn.net/v/VPoO_1derbc-YZD_5/x240"
-name= Kemal Sunal url= "plugin://plugin.video.dailymotion_com/?url=x9bknxo&mode=playVideo" logo= "https://s2.dmcdn.net/v/VKv7x1dPrlYO7DDiu/x240"
-name= Kemal Sunal Filmleri url= "plugin://plugin.video.dailymotion_com/?url=x8iwf28&mode=playVideo" logo= "https://s2.dmcdn.net/v/UyK1t1bylamy0aj5G/x240"
-name= Kemal Sunal Filmleri2 url= "plugin://plugin.video.dailymotion_com/?url=x8l2p2v&mode=playVideo" logo= "https://s2.dmcdn.net/v/VPoO_1derbc-YZD_5/x240"
-name= Kemal Sunal url= "plugin://plugin.video.dailymotion_com/?url=x9bknxo&mode=playVideo" logo= "https://s2.dmcdn.net/v/VKv7x1dPrlYO7DDiu/x240"
-name= Kemal Sunal Filmleri url= "plugin://plugin.video.dailymotion_com/?url=x8iwf28&mode=playVideo" logo= "https://s2.dmcdn.net/v/UyK1t1bylamy0aj5G/x240"
-name= Kemal Sunal Filmleri2 url= "plugin://plugin.video.dailymotion_com/?url=x8l2p2v&mode=playVideo" logo= "https://s2.dmcdn.net/v/VPoO_1derbc-YZD_5/x240"
-name= Kemal Sunal url= "plugin://plugin.video.dailymotion_com/?url=x9bknxo&mode=playVideo" logo= "https://s2.dmcdn.net/v/VKv7x1dPrlYO7DDiu/x240"
-name= Kemal Sunal Filmleri url= "plugin://plugin.video.dailymotion_com/?url=x8iwf28&mode=playVideo" logo= "https://s2.dmcdn.net/v/UyK1t1bylamy0aj5G/x240"
-name= Kemal Sunal Filmleri2 url= "plugin://plugin.video.dailymotion_com/?url=x8l2p2v&mode=playVideo" logo= "https://s2.dmcdn.net/v/VPoO_1derbc-YZD_5/x240"
+
 
 
 
