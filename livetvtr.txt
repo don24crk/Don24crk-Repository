@@ -1,11 +1,12 @@
 name= TRT1.tr url= "https://cdn402.canlitv.vin/trt1.m3u8?tkn=3k4SZzopgKTXZuOhxSXQCQ&tms=1743117492&hst=www.canlitv.vin&ip=2003:e5:471e:2360:9cdb:f2df:eb15:9163|user-agent=Mozilla/5.0 (Android 15; Mobile; LG-M255; rv:136.0" logo= "http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png"
+name= TRT2 url= "https://tv-trt2.medya.trt.com.tr/master.m3u8" logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/TRT_2_logo.svg/1200px-TRT_2_logo.svg.png"
 name= ATV.tr url= "https://cdn7.canlitv.me/atv.m3u8?tkn=HHDiElHKQCfJ8K5hIx797w&tms=1743122790&hst=www.canlitv.me&ip=2003:e5:471e:2360:9cdb:f2df:eb15:9163" logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Atv_logo_2010.svg/1200px-Atv_logo_2010.svg.png"
 name= atvavrupa url= "https://trkvz-live.ercdn.net/atvavrupa/atvavrupa.m3u8?st=ItGHwUyB_tTEQs9GfrXv-w&e=1743152453" logo= "http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png"
-name= KanalD url= "https://cdn405.canlitv.vin/kanald.m3u8?tkn=ceQqCfmFBn8ga7etwbg9vg&tms=1743118631&hst=www.canlitv.vin&ip=2003:e5:471e:2360:9cdb:f2df:eb15:9163|user-agent=Mozilla/5.0 (Android 15; Mobile; LG-M255; rv:136.0" logo= "http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png"
+name= Avrupa Star url= "https://mn-nl.mncdn.com/dogusdyg_eurostar/live_1080p3000000kbps/index.m3u8?st=Jc9XZzKXhksOPBQMDgfqnw&e=1743195858" logo= "https://www.eurostartv.com.tr/Content/img/eurostar-logo.png"
 name= Now.tr url= "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=shgNkLfxAGp_ZdBJjYAgMA&e=1743121514" logo= "http://assets.tvcdn.net/80eb8816-1855-41f5-9002-7a05cc93fe4f.png"
 name= ShowTV.tr url= "https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&st=RBzhSuGauna0OGld-DJUVA&e=1664766175&tv=1&ppid=aeb92c83ed1b958fd7e172f5052406b6" logo= "http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png"
 name= BeyazTV.tr url= "https://beyaztv.daioncdn.net/beyaztv/beyaztv.m3u8?app=fcd5c66b-da9d-44ba-a410-4f34805c397d&ce=3" logo= "http://assets.tvcdn.net/60d7aaf4-817b-46be-bbab-68f8b30de8fb.png"
-name= Kanal7.tr url= "https://kanal7.daioncdn.net/kanal7/kanal7.m3u8?app=f99587ad-1637-494d-8255-da35b09d17a1&ce=3&ppid=72a516bc675329c341c848b77d2f0261|user-agent=Mozilla/5.0 (Android 15; Mobile; LG-M255; rv:136.0" logo= "http://assets.tvcdn.net/1125734c-3525-4390-b8ed-c50380c70e4d.png"
+name= Kanal7.tr url= "https://kanal7.daioncdn.net/kanal7/kanal7.m3u8?app=f99587ad-1637-494d-8255-da35b09d17a1&ce=3&ppid=72a516bc675329c341c848b77d2f0261" logo= "http://assets.tvcdn.net/1125734c-3525-4390-b8ed-c50380c70e4d.png"
 name= TV8.tr url= "https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3&ppid=18fa627120b1652e92157253bd0a5719" logo= "http://assets.tvcdn.net/f91342d2-bcae-4ee0-a6f8-76a8d32b891b.png"
 name= StarTV.tr url= "https://dogus.daioncdn.net/startv/startv.m3u8?ce=3&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ppid=61d2f078a76a6a5d33fc555320e82212&gdpr=1&gdpr_consent=CQO7UVgQO7UVgAcABBTRBiFsAP_gAEPgAChQK8tX_G__bWlr8T73aftkeY1P99h77sQxBgbJE-4FzLvW_JwXx2E5NAz6tqIKmRIAu3TBIQNlHJDURVCgaogVrSDMaEyUoTNKJ6BkiFMRI2dYCFxvm4tjeQCY5vr991cx2B-t7dr83dzyy4hHn3a5_2S1WJCdAYetDfv9bROb-9IOd_x8v4v4_F7pE2-eS1l_tWvp7D9-Yts_9X299_bbff5Pn__ul_-_X_vf_n37v942CvIBJhoVEEZZEgIRKBhBAgBUFYQEUCAIAAEgaICAEwYFOQMAF1hIgBACgAGCAEAAIMAAQAACQAIRABQAUCAACAQKAAMACAYCABgYAAwAWAgEAAIDoGKYEEAgWACRmRQaYEoACQQEtlQgkAQIK4QhFngEACImCgAABAAKQABAeCwOJJASsSCALiCaAAAgAACCAAoRSdmAIIAzZai8GT6MrTAsHzBM0pgGQBEEZGSbEJv2gAAA.f_wACHwAAAAA" logo= "http://assets.tvcdn.net/0c5204fb-e613-4084-b300-8cdcc46309f9.png"
 name= 360.tr url= "https://turkmedya-live.ercdn.net/tv360/tv360.m3u8" logo= "http://assets.tvcdn.net/e1c3f150-4f79-4ac4-a893-4cc1144eb2d5.png"
@@ -15,10 +16,13 @@ name= TRTAvaz.tr url= "https://tv-trtavaz.medya.trt.com.tr/master.m3u8" logo= "h
 name= EuroD.tr url= "https://cdn7.canlitvstream.com/eurod.m3u8?tkn=W3MyzMOx3I4h8Nj2bWpzKg&tms=1743122360&hst=tr.canlitvstream.com&ip=2003:e5:471e:2360:9cdb:f2df:eb15:9163" logo= "http://assets.tvcdn.net/f4a83153-48c6-4ece-8082-1b370768f88a.png"
 name= TGRTEU.tr url= "https://cdn900.canlitv.me/tgrteu.m3u8?tkn=01KELa1gSVHLARMnnZYpHA&tms=1743122517&hst=www.canlitv.me&ip=2003:e5:471e:2360:9cdb:f2df:eb15:9163" logo= "http://assets.tvcdn.net/01032651-eac6-48ea-b6ef-78acf8e95daa.png"
 name= ShowTurk.tr url= "https://ciner-live.ercdn.net/showturk/playlist.m3u8?e=1743114120&st=ffJLR9w3ibWkaEPnmf1YQw&tv=1" logo= "http://assets.tvcdn.net/d4d340ec-891e-4601-9776-e979a750b7e3.png"
-name= Kanal7Avrupa.tr url= "http://stream.tvcdn.net/ulusal-yurt-disi/kanal-7-avrupa.m3u8" logo= "http://assets.tvcdn.net/d52bb3d8-b362-47c0-9b8e-bddc4ceb4fe5.png"
+name= Kanal7Avrupa.tr url= "https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8" logo= "http://assets.tvcdn.net/d52bb3d8-b362-47c0-9b8e-bddc4ceb4fe5.png"
 name= TRTHaber.tr url= "http://stream.tvcdn.net/haber/trt-haber.m3u8" logo= "http://assets.tvcdn.net/06e7abd9-0fbb-441f-af63-b895513d3aaa.png"
 name= AHaber.tr url= "https://trkvz-live.ercdn.net/ahaberhd/ahaberhd.m3u8?st=qzgXkK0odA0e6sF2pHme7A&e=1743153403" logo= "http://assets.tvcdn.net/06e7abd9-0fbb-441f-af63-b895513d3aaa.png"
 name= CNNTurk.tr url= "https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8?&live=true&app=com.cnnturk&st=nuD-5IOVFqJix3MW0RsLHg&e=1743116567" logo= "http://assets.tvcdn.net/db0e3f2f-3191-4af2-9cde-5345eb7543e4.png"
+name= canli24 url= "https://turkmedya-live.ercdn.net/tv24/tv24.m3u8" logo= "https://www.yirmidort.tv/assets/header/logoWhite.png"
+
+
 
 
 
