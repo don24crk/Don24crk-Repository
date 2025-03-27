@@ -5,8 +5,8 @@ name= Hababam Sınıfı url= "plugin://plugin.video.dailymotion_com/?url=x4cfgzx
 name= Yedi Bela Hüsnü (1982) - Kemal Sunal url= "plugin://plugin.video.dailymotion_com/?url=x8l2p2v&mode=playVideo" logo= "https://i.ytimg.com/vi/gPbAredRRqw/sddefault.jpg"
 name= Kapıcılar Kralı - Kemal Sunal (1976) url= "plugin://plugin.video.dailymotion_com/?url=x8ni2un&mode=playVideo" logo= "https://im.haberturk.com/tv_program/2020/07/03/ver11111/864348_620x349.jpg?v=1593675805"
 name= Kemal Sunal url= "plugin://plugin.video.dailymotion_com/?url=x9bknxo&mode=playVideo" logo= "https://s2.dmcdn.net/v/VKv7x1dPrlYO7DDiu/x240"
-name= Kemal Sunal Filmleri url= "plugin://plugin.video.dailymotion_com/?url=x8iwf28&mode=playVideo" logo= "https://s2.dmcdn.net/v/UyK1t1bylamy0aj5G/x240"
-name= Kemal Sunal Filmleri2 url= "plugin://plugin.video.dailymotion_com/?url=x8l2p2v&mode=playVideo" logo= "https://s2.dmcdn.net/v/VPoO_1derbc-YZD_5/x240"
+name= Polizei (1988) - Kemal Sunal url= "plugin://plugin.video.dailymotion_com/?url=x8njwou&mode=playVideo" logo= "https://i.ytimg.com/vi/RPBofKLiBzU/maxresdefault.jpg"
+name= Gurbetçi Şaban (1985) - Kemal Sunal url= "plugin://plugin.video.dailymotion_com/?url=x8n15b5&mode=playVideo" logo= "https://m.media-amazon.com/images/M/MV5BZmI3N2Q1MWMtMGViZC00MDZhLWE1NGItOTcxZmUyZTcxZDg4XkEyXkFqcGc@._V1_QL75_UX820_.jpg"
 
 
 
