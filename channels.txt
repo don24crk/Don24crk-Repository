@@ -1,9 +1,9 @@
 name= ERT1 url= "https://wow.anixa.tv/live/ert1/playlist.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 13; SM-918) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_1.png?raw=true"
-name= ERT2 url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ERT2.strm" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_2.png?raw=true"
+name= ERT2 url= "https://cdn1.smart-tv-data.com/vid/ert2/playlist.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 13; SM-918) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_2.png?raw=true"
 name= ERT3 url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ERT3.strm" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_3.png?raw=true"
 name= ERT1 BUP url= "https://wow.anixa.tv/live/ert1/playlist.m3u8|user-agent=Mozilla/5.0 (Android 15; Mobile; LG-M255; rv:136.0) Gecko/136.0 Firefox/136.0" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_1.png?raw=true"
 name= ERT2 BUP url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ERT2.strm" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_2.png?raw=true"
-name= ERT3 BUP url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ERT3.strm" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_3.png?raw=true"
+name= ERT3 BUP url= "https://cdn1.smart-tv-data.com/vid/ert3/playlist.m3u8|user-agent=Mozilla/5.0 (Android 15; Mobile; LG-M255; rv:136.0) Gecko/136.0 Firefox/136.0" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_3.png?raw=true"
 name= ERTWORLD url= "https://ertflix.akamaized.net/ertlive/ertworld/default/index.m3u8" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_World.png?raw=true"
 name= ERTWORLD BUP url= "http://hbbtv.ert.gr/stream.php/v/vid_ertworld_mpeg.2ts|user-agent=Mozilla/5.0 (Android 15; Mobile; LG-M255; rv:136.0" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_World.png?raw=true"
 name= ERTNEWS url= "https://ertflix.akamaized.net/ertlive/ertnews/default/playlist.m3u8" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_NEWS.png?raw=true"
@@ -38,7 +38,13 @@ name= NET TV TORONTO url= "https://eu1.vectromdigital.com:1936/netvtoronto/netvt
 name= CINEMA CLASSICS url= "https://tv.mediacp.eu:8081/cinemaclassics/index.m3u8" logo= "https://i.imgur.com/6STBhNL.png"
 name= IONIA TV url= "https://ssh101stream.ssh101.com/akamaissh101/ssh101/tvioniathess/playlist.m3u8" logo= "https://i.imgur.com/jFVVQW0.png"
 name= Pella TV url= "https://cdn5.smart-tv-data.com/local/pellatv_i/playlist.m3u8" logo= "https://i.imgur.com/9RXdElf.png"
-name= ELLAS WORLD url= "http://ellastv.gotdns.com:88/freetv/promo/index.m3u8" logo= "https://i.imgur.com/9RXdElf.png"
+name= ELLAS WORLD url= "http://ellastv.gotdns.com:88/freetv/promo/index.m3u8" logo= "https://ellastvmax.com.au/wp-content/uploads/2022/05/ellastvpromo.png"
+name= VILLAGE WORLD url= "http://ellastv.gotdns.com:88/freetv/village-world/index.m3u8|user-agent=Mozilla/5.0 (Android 15; Mobile; LG-M255; rv:136.0) Gecko/136.0 Firefox/136.0" logo= "https://i.imgur.com/WftpxK2.png"
+name= MAD TV url= "http://ellastv.gotdns.com:88/freetv/madworldtv/index.m3u8" logo= "https://i.imgur.com/zoS5RWU.png"
+name= DIAVATA TV url= "https://ssh101stream.ssh101.com/akamaissh101/ssh101/diavatatvweb/playlist.m3u8" logo= "https://i.imgur.com/1DxMmHL.png"
+name= LAMPSI TV url= "https://livetv.streams.ovh:8081/lampsitv/index.m3u8" logo= "https://i.imgur.com/jUr8BZA.png"
+
+
 
 
 
