@@ -13,7 +13,7 @@ name= TRTTurk.tr url= "http://stream.tvcdn.net/ulusal-yurt-disi/trt-turk.m3u8|us
 name= TRTAvaz.tr url= "http://stream.tvcdn.net/ulusal-yurt-disi/trt-avaz.m3u8" logo= "http://assets.tvcdn.net/53dd1d5f-aa72-4bea-91d0-8c2d00783367.png"
 name= EuroD.tr url= "http://stream.tvcdn.net/ulusal-yurt-disi/euro-d.m3u8" logo= "http://assets.tvcdn.net/f4a83153-48c6-4ece-8082-1b370768f88a.png"
 name= TGRTEU.tr url= "http://stream.tvcdn.net/ulusal-yurt-disi/tgrt-eu.m3u8" logo= "http://assets.tvcdn.net/01032651-eac6-48ea-b6ef-78acf8e95daa.png"
-name= ShowTurk.tr url= "http://stream.tvcdn.net/ulusal-yurt-disi/show-turk.m3u8" logo= "http://assets.tvcdn.net/d4d340ec-891e-4601-9776-e979a750b7e3.png"
+name= ShowTurk.tr url= "https://cdn402.canlitv.me/showturk.m3u8?tkn=6JKFX-w0bw1gWkgxNEtkJw&tms=1743120403&hst=www.canlitv.me&ip=2003:e5:471e:2360:9cdb:f2df:eb15:9163|user-agent=Mozilla/5.0 (Android 15; Mobile; LG-M255; rv:136.0" logo= "http://assets.tvcdn.net/d4d340ec-891e-4601-9776-e979a750b7e3.png"
 name= Kanal7Avrupa.tr url= "http://stream.tvcdn.net/ulusal-yurt-disi/kanal-7-avrupa.m3u8" logo= "http://assets.tvcdn.net/d52bb3d8-b362-47c0-9b8e-bddc4ceb4fe5.png"
 name= TRTHaber.tr url= "http://stream.tvcdn.net/haber/trt-haber.m3u8" logo= "http://assets.tvcdn.net/06e7abd9-0fbb-441f-af63-b895513d3aaa.png"
 name= AHaber.tr url= "http://stream.tvcdn.net/haber/a-haber.m3u8" logo= "http://assets.tvcdn.net/06e7abd9-0fbb-441f-af63-b895513d3aaa.png"
