@@ -1,4 +1,4 @@
-name= TRT1.tr url= "https://trt.daioncdn.net/trt-1/master_1080p.m3u8?&sid=79y323mookp0&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2" logo= "http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png"
+name= TRT1.tr url= "https://cdn405.canlitv.vin/trt1.m3u8?tkn=NXs58R3on2LMlLdGo_tHWQ&tms=1743117514&hst=www.canlitv.vin&ip=2003:e5:471e:2360:9cdb:f2df:eb15:9163|user-agent=Mozilla/5.0 (Android 15; Mobile; LG-M255; rv:136.0" logo= "http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png"
 name= ATV.tr url= "http://stream.tvcdn.net/ulusal/atv.m3u8|user-agent=Mozilla/5.0 (Android 15; Mobile; LG-M255; rv:136.0" logo= "http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png"
 name= KanalD url= "https://demiroren.daioncdn.net/kanald/kanald_480p.m3u8?&sid=79y2x7oiiu4g&app=da2109ea-5dfe-4107-89ab-23593336ed61&ce=3|user-agent=Mozilla/5.0 (Android 15; Mobile; LG-M255; rv:136.0" logo= "http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png"
 name= Now.tr url= "http://stream.tvcdn.net/ulusal/now-tv.m3u8" logo= "http://assets.tvcdn.net/80eb8816-1855-41f5-9002-7a05cc93fe4f.png"
