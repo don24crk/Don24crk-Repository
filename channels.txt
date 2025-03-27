@@ -13,8 +13,9 @@ name= ANT1 url= "https://cdn1.smart-tv-data.com/live/ant1_srt/playlist.m3u8" log
 name= ANT1 BUP url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ANT12.strm" logo= "https://i.imgur.com/GTFFtOR.png"
 name= ANT1 DRAMA url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ANT1%20DRAMA.strm" logo= "https://i.imgur.com/5QDNhXo.png"
 name= ANT1 COMEDY url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ANT1%20COMEDY.strm" logo= "https://i.imgur.com/V1byeFi.png"
-name= MAKTV url= "https://mcdn.antennaplus.gr/live/media0/MAK/HLS/MAK.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 13; SM-918) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" logo= "https://i.imgur.com/V1byeFi.png"
-name= MAKTV BUP url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ANT1%20COMEDY.strm" logo= "https://i.imgur.com/V1byeFi.png"
+name= ANT1 JUST MUSIC url= "https://mcdn.antennaplus.gr/live/media0/Just_Music/HLS/Just_Music.m3u8|user-agent=Mozilla/5.0 (Android 15; Mobile; LG-M255; rv:136.0) Gecko/136.0 Firefox/136.0" logo= "https://i.imgur.com/hz41PMx.png"
+name= MAKTV url= "https://mcdn.antennaplus.gr/live/media0/MAK/HLS/MAK.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 13; SM-918) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" logo= "https://i.imgur.com/RVs0GZa.png"
+name= MAKTV BUP url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/MAKTV.strm" logo= "https://i.imgur.com/RVs0GZa.png"
 name= ALPHA TV url= "https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/playlist.m3u8" logo= "https://i.imgur.com/0i4MUcc.png"
 name= ALPHA TV BUP url= "https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/playlist.m3u8" logo= "https://i.imgur.com/0i4MUcc.png"
 name= OPEN TV url= "https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8" logo= "https://i.imgur.com/cshmF4s.png"
@@ -29,6 +30,16 @@ name= MEGA BUP url= "https://wow.anixa.tv/live/mega/playlist.m3u8|user-agent=Moz
 name= OMEGA url= "http://l1.cloudskep.com/omegatv/omcy/playlist.m3u8|user-agent=Mozilla/5.0 (Android 15; Mobile; LG-M255; rv:136.0) Gecko/136.0 Firefox/136.0" logo= "https://i.imgur.com/Np7xLfk.png"
 name= SIGMA url= "http://l10.cloudskep.com/sigmatv/stv/playlist.m3u8|user-agent=Mozilla/5.0 (Android 15; Mobile; LG-M255; rv:136.0) Gecko/136.0 Firefox/136.0" logo= "https://i.imgur.com/lFjBmPF.png"
 name= SMILE TV url= "https://s1.cystream.net/live/smile/playlist.m3u8|user-agent=Mozilla/5.0 (Android 15; Mobile; LG-M255; rv:136.0) Gecko/136.0 Firefox/136.0" logo= "https://i.imgur.com/8ZCpwfv.png"
+name= GalaxyGR url= "https://ssh101-fl.bozztv.com/ssh101/galaxygr/playlist.m3u8|user-agent=Mozilla/5.0 (Android 15; Mobile; LG-M255; rv:136.0) Gecko/136.0 Firefox/136.0" logo= "https://i.imgur.com/kmrkryQ.png"
+name= DELTA TV url= "https://eu1.vectromdigital.com:1936/tvdelta/tvdelta/playlist.m3u8" logo= "https://i.imgur.com/YiVVg6n.png"
+name= Baraza TV Greek hits url= "https://eco.streams.ovh:8081/barazatv/index.m3u8" logo= "https://i.imgur.com/NlN4lmc.png"
+name= NET TV EUROPE url= "https://eu1.vectromdigital.com:1936/netveurope/netveurope/playlist.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; SM-918) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" logo= "https://i.imgur.com/Lzkw32k.png"
+name= NET TV TORONTO url= "https://eu1.vectromdigital.com:1936/netvtoronto/netvtoronto/playlist.m3u8" logo= "https://i.imgur.com/Lzkw32k.png"
+name= CINEMA CLASSICS url= "https://tv.mediacp.eu:8081/cinemaclassics/index.m3u8" logo= "https://i.imgur.com/6STBhNL.png"
+name= IONIA TV url= "https://ssh101stream.ssh101.com/akamaissh101/ssh101/tvioniathess/playlist.m3u8" logo= "https://i.imgur.com/jFVVQW0.png"
+name= Pella TV url= "https://cdn5.smart-tv-data.com/local/pellatv_i/playlist.m3u8" logo= "https://i.imgur.com/9RXdElf.png"
+name= ELLAS WORLD url= "http://ellastv.gotdns.com:88/freetv/promo/index.m3u8" logo= "https://i.imgur.com/9RXdElf.png"
+
 
 
 
