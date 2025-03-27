@@ -4,7 +4,7 @@ name= KanalD url= "https://cdn405.canlitv.vin/kanald.m3u8?tkn=ceQqCfmFBn8ga7etwb
 name= Now.tr url= "http://stream.tvcdn.net/ulusal/now-tv.m3u8" logo= "http://assets.tvcdn.net/80eb8816-1855-41f5-9002-7a05cc93fe4f.png"
 name= ShowTV.tr url= "http://stream.tvcdn.net/ulusal/show-tv.m3u8" logo= "http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png"
 name= BeyazTV.tr url= "http://stream.tvcdn.net/ulusal/beyaz-tv.m3u8" logo= "http://assets.tvcdn.net/60d7aaf4-817b-46be-bbab-68f8b30de8fb.png"
-name= Kanal7.tr url= "hhttp://stream.tvcdn.net/ulusal/kanal-7.m3u8|user-agent=Mozilla/5.0 (Android 15; Mobile; LG-M255; rv:136.0" logo= "http://assets.tvcdn.net/1125734c-3525-4390-b8ed-c50380c70e4d.png"
+name= Kanal7.tr url= "https://kanal7.daioncdn.net/kanal7/kanal7_720p.m3u8?&sid=79y60ogo3h59&app=f99587ad-1637-494d-8255-da35b09d17a1&ce=3|user-agent=Mozilla/5.0 (Android 15; Mobile; LG-M255; rv:136.0" logo= "http://assets.tvcdn.net/1125734c-3525-4390-b8ed-c50380c70e4d.png"
 name= TV8.tr url= "http://stream.tvcdn.net/ulusal/tv8.m3u8" logo= "http://assets.tvcdn.net/f91342d2-bcae-4ee0-a6f8-76a8d32b891b.png"
 name= StarTV.tr url= "http://stream.tvcdn.net/ulusal/star-tv.m3u8" logo= "http://assets.tvcdn.net/0c5204fb-e613-4084-b300-8cdcc46309f9.png"
 name= 360.tr url= "https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8" logo= "http://assets.tvcdn.net/e1c3f150-4f79-4ac4-a893-4cc1144eb2d5.png"
