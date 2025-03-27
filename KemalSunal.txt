@@ -1,6 +1,16 @@
 name= Kemal Sunal url= "plugin://plugin.video.dailymotion_com/?url=x9bknxo&mode=playVideo" logo= "https://s2.dmcdn.net/v/VKv7x1dPrlYO7DDiu/x240"
 name= Kemal Sunal Filmleri url= "plugin://plugin.video.dailymotion_com/?url=x8iwf28&mode=playVideo" logo= "https://s2.dmcdn.net/v/UyK1t1bylamy0aj5G/x240"
 name= Kemal Sunal Filmleri2 url= "plugin://plugin.video.dailymotion_com/?url=x8l2p2v&mode=playVideo" logo= "https://s2.dmcdn.net/v/VPoO_1derbc-YZD_5/x240"
+name= Kemal Sunal url= "plugin://plugin.video.dailymotion_com/?url=x9bknxo&mode=playVideo" logo= "https://s2.dmcdn.net/v/VKv7x1dPrlYO7DDiu/x240"
+name= Kemal Sunal Filmleri url= "plugin://plugin.video.dailymotion_com/?url=x8iwf28&mode=playVideo" logo= "https://s2.dmcdn.net/v/UyK1t1bylamy0aj5G/x240"
+name= Kemal Sunal Filmleri2 url= "plugin://plugin.video.dailymotion_com/?url=x8l2p2v&mode=playVideo" logo= "https://s2.dmcdn.net/v/VPoO_1derbc-YZD_5/x240"
+name= Kemal Sunal url= "plugin://plugin.video.dailymotion_com/?url=x9bknxo&mode=playVideo" logo= "https://s2.dmcdn.net/v/VKv7x1dPrlYO7DDiu/x240"
+name= Kemal Sunal Filmleri url= "plugin://plugin.video.dailymotion_com/?url=x8iwf28&mode=playVideo" logo= "https://s2.dmcdn.net/v/UyK1t1bylamy0aj5G/x240"
+name= Kemal Sunal Filmleri2 url= "plugin://plugin.video.dailymotion_com/?url=x8l2p2v&mode=playVideo" logo= "https://s2.dmcdn.net/v/VPoO_1derbc-YZD_5/x240"
+name= Kemal Sunal url= "plugin://plugin.video.dailymotion_com/?url=x9bknxo&mode=playVideo" logo= "https://s2.dmcdn.net/v/VKv7x1dPrlYO7DDiu/x240"
+name= Kemal Sunal Filmleri url= "plugin://plugin.video.dailymotion_com/?url=x8iwf28&mode=playVideo" logo= "https://s2.dmcdn.net/v/UyK1t1bylamy0aj5G/x240"
+name= Kemal Sunal Filmleri2 url= "plugin://plugin.video.dailymotion_com/?url=x8l2p2v&mode=playVideo" logo= "https://s2.dmcdn.net/v/VPoO_1derbc-YZD_5/x240"
+
 
 
 
