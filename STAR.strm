@@ -1,2 +1,3 @@
-#EXTINF:-1 tvg-name="star" tvg-id="star" group-title="Ελλάδα" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/STAR_Channel.png?raw=true" user-agent="VLC/3.0.20 LibVLC/3.0.20",STARTV
-https://wow.anixa.tv/live/star/playlist.m3u8
+#EXTINF:-1 tvg-name="star" tvg-id="star" group-title="Ελλάδα" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/STAR_Channel.png?raw=true",STARTV
+https://s2.cystream.net/galanos/star/chunks.m3u8?nimblesessionid=18193900&wmsAuthSign=c2VydmVyX3RpbWU9My8yOC8yMDI1IDY6NDU6MjkgUE0maGFzaF92YWx1ZT1OL3FDRWdyQVhic1JLN2FKQUxCa3ZnPT0mdmFsaWRtaW51dGVzPTIw|user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+
