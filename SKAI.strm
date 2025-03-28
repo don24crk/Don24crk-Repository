@@ -1,7 +1,6 @@
 #EXTINF:-1 tvg-name="skai" tvg-id="skai" group-title="Ελλάδα" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/SKAI.png?raw=true",SKAITV
-#KODIPROP:inputstream=inputsream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream=inputsream.adaptive.license_key=https://eu-fps.ezdrm.com/api/licenses/bd2b9942-dc1e-4554-8fe6-8bbd53aa2f6b?token=B9eh3ew4m1vhB0Aw5kVIIQ&smil=en2&expires=1743201708
-https://skai-live-drm.siliconweb.com/skaidrm/en2/manifest.mpd
+#KODIPROP:inputstream=inputsream.adaptive
+https://wow.anixa.tv/live/skai/playlist.m3u8
 
 
 
