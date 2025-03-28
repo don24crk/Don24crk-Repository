@@ -1,5 +1,5 @@
 name= Yalancı Bahar 76. Bölüm İzle url= "plugin://plugin.video.dailymotion_com/?url=x7wf8lk&mode=playVideo" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIOZuXa0W94ROCKuD1yKURzYTrYiR2-7nZfw&s"
-name= Yalancı Bahar 77. Bölüm İzle url= "plugin://plugin.video.dailymotion_com/?url=x7wl6mok&mode=playVideo" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIOZuXa0W94ROCKuD1yKURzYTrYiR2-7nZfw&s"
+name= Yalancı Bahar 77. Bölüm İzle url= "plugin://plugin.video.dailymotion_com/?url=x7wl6mo&mode=playVideo" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIOZuXa0W94ROCKuD1yKURzYTrYiR2-7nZfw&s"
 name= Yalancı Bahar 78. Bölüm İzle url= "plugin://plugin.video.dailymotion_com/?url=x7wl6mp&mode=playVideo" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIOZuXa0W94ROCKuD1yKURzYTrYiR2-7nZfw&s"
 name= Yalancı Bahar 79. Bölüm İzle url= "plugin://plugin.video.dailymotion_com/?url=x7wl6mq&mode=playVideo" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIOZuXa0W94ROCKuD1yKURzYTrYiR2-7nZfw&s"
 name= Yalancı Bahar 80. Bölüm İzle url= "plugin://plugin.video.dailymotion_com/?url=x7wl6mr&mode=playVideo" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIOZuXa0W94ROCKuD1yKURzYTrYiR2-7nZfw&s"
