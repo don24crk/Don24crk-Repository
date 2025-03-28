@@ -1,5 +1,5 @@
 #EXTINF:-1 tvg-name="ert1" tvg-id="ert1" group-title="Ελλάδα" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_1.png?raw=true",ERT1
 KODIPROP:inputstream.adaptive.manifest_type=mpd
 KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-KODIPROP:inputstream.adaptive.license_key=https://eu-fps.ezdrm.com/api/licenses/bd2b9942-dc1e-4554-8fe6-8bbd53aa2f6b?token=6SndtpS6XpDn8aM2n26SgA&smil=en2&expires=1743196072
+KODIPROP:inputstream.adaptive.license_key=https://widevine-dash.ezdrm.com/widevine-php/widevine-foreignkey.php?pX=9A657F&token=6SndtpS6XpDn8aM2n26SgA&smil=en2&expires=1743196072
 https://skai-live-drm.siliconweb.com/skaidrm/en2/manifest.mpd
