@@ -1,4 +1,4 @@
 #EXTINF:-1 tvg-name="alphatv" tvg-id="alphatv" group-title="Ελλάδα" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ALPHA.png?raw=true" user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36,ALPHATV
 #KODIPROP:inputstream=inputstream.adaptive
-https://wow.anixa.tv/live/star/playlist.m3u8
+https://stream3.anixe.net/live/alpha/mpeg.2ts
 
