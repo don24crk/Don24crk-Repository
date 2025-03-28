@@ -1,4 +1,4 @@
-#EXTINF:-1 tvg-name="alphatv" tvg-id="alphatv" group-title="Ελλάδα" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ALPHA.png?raw=true",ALPHATV
+#EXTINF:-1 tvg-name="alphatv" tvg-id="alphatv" group-title="Ελλάδα" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ALPHA.png?raw=true" user-agent=VLC/3.0.20 LibVLC/3.0.20,ALPHATV
 #KODIPROP:inputstream=inputstream.adaptive
 https://stream3.anixe.net/live/alpha/mpeg.2ts
 
