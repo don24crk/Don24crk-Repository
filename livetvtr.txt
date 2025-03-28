@@ -16,18 +16,18 @@ name= 360.tr url= "https://turkmedya-live.ercdn.net/tv360/tv360.m3u8" logo= "htt
 name= TV100.tr url= "https://tv100.daioncdn.net/tv100/tv100.m3u8?app=web&ppid=e3af06790a283e3b95603f22d7436ccd" logo= "http://assets.tvcdn.net/d7741078-ccce-47d8-ba1c-a041b659bad6.png"
 name= TRTTurk.tr url= "https://tv-trtturk.medya.trt.com.tr/master.m3u8" logo= "http://assets.tvcdn.net/fbaaa75c-0a2d-4ed6-b498-d32a59ddb899.png"
 name= TRTAvaz.tr url= "https://tv-trtavaz.medya.trt.com.tr/master.m3u8" logo= "http://assets.tvcdn.net/53dd1d5f-aa72-4bea-91d0-8c2d00783367.png"
-name= EuroD.tr url= "https://mn-nl.mncdn.com/blutv_eurod2/live.m3u8|user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36" logo= "http://assets.tvcdn.net/f4a83153-48c6-4ece-8082-1b370768f88a.png"
-name= TGRTEU.tr url= "https://cdn900.canlitv.me/tgrteu.m3u8?tkn=01KELa1gSVHLARMnnZYpHA&tms=1743122517&hst=www.canlitv.me&ip=2003:e5:471e:2360:9cdb:f2df:eb15:9163" logo= "http://assets.tvcdn.net/01032651-eac6-48ea-b6ef-78acf8e95daa.png"
+name= EuroD.tr url= "https://cdn402.canlitv.me/kanald.m3u8?tkn=ui5qww16ESCZq2I-H-B06w&tms=1743189046&hst=www.canlitv.me&ip=2003:e5:471e:23bf:1c20:4d5e:a9cb:79ef|user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36" logo= "http://assets.tvcdn.net/f4a83153-48c6-4ece-8082-1b370768f88a.png"
 name= ShowTurk.tr url= "https://ciner-live.ercdn.net/showturk/playlist.m3u8?e=1743114120&st=ffJLR9w3ibWkaEPnmf1YQw&tv=1" logo= "http://assets.tvcdn.net/d4d340ec-891e-4601-9776-e979a750b7e3.png"
 name= Kanal7Avrupa.tr url= "https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8" logo= "http://assets.tvcdn.net/d52bb3d8-b362-47c0-9b8e-bddc4ceb4fe5.png"
 name= TRTHaber.tr url= "http://stream.tvcdn.net/haber/trt-haber.m3u8" logo= "http://assets.tvcdn.net/06e7abd9-0fbb-441f-af63-b895513d3aaa.png"
 name= AHaber.tr url= "https://trkvz-live.ercdn.net/ahaberhd/ahaberhd.m3u8?st=qzgXkK0odA0e6sF2pHme7A&e=1743153403" logo= "http://assets.tvcdn.net/06e7abd9-0fbb-441f-af63-b895513d3aaa.png"
 name= CNNTurk.tr url= "https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8?&live=true&app=com.cnnturk&st=nuD-5IOVFqJix3MW0RsLHg&e=1743116567" logo= "http://assets.tvcdn.net/db0e3f2f-3191-4af2-9cde-5345eb7543e4.png"
 name= canli24 url= "https://turkmedya-live.ercdn.net/tv24/tv24.m3u8" logo= "https://www.yirmidort.tv/assets/header/logoWhite.png"
-name= A2 url= "http://antalya.tvizlehd.com/live/a2tv.m3u8|user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36" logo= "https://i.ibb.co/Y2fyvM7/a2.png"
+name= A2 url= "https://trkvz-live.ercdn.net/a2tv/a2tv.m3u8?st=fpyrjjmmA7NoClLWVP0pVQ&e=1743219458|user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36" logo= "https://i.ibb.co/Y2fyvM7/a2.png"
 name= Show Max url= "https://ciner-live.ercdn.net/showmax/playlist.m3u8?e=1743181000&st=awTccWoOXFeWbsBIGUCBBQ&tv=1|user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36" logo= "https://i.ibb.co/gWMPdrc/showmax.png"
-name= Cine5 TV url= "https://host.onlineradyotv.net:8081/cine5/tracks-v1a1/mono.m3u8|user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36" logo= "https://i.ibb.co/HFLtSG8/cine5.png"
-name= TRT Çocuk url= "https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8" logo= "https://i.ibb.co/cQs3vjD/trtcocuk.png"
+name= Cine5 TV url= "https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8|user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36" logo= "https://i.ibb.co/HFLtSG8/cine5.png"
+name= TRT Çocuk url= "https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8|user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36" logo= "https://i.ibb.co/cQs3vjD/trtcocuk.png"
+name= TGRTEU.tr url= "https://cdn900.canlitv.me/tgrteu.m3u8?tkn=01KELa1gSVHLARMnnZYpHA&tms=1743122517&hst=www.canlitv.me&ip=2003:e5:471e:2360:9cdb:f2df:eb15:9163|user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36" logo= "http://assets.tvcdn.net/01032651-eac6-48ea-b6ef-78acf8e95daa.png"
 
 
 
