@@ -1,3 +1,3 @@
-#EXTINF:-1 tvg-name="alphatv" tvg-id="alphatv" group-title="Ελλάδα" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ALPHA.png?raw=true" user-agent="VLC/3.0.20 LibVLC/3.0.20",ALPHATV
+#EXTINF:-1 tvg-name="alphatv" tvg-id="alphatv" group-title="Ελλάδα" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ALPHA.png?raw=true",ALPHATV
 https://s2.cystream.net/live/alphagr/chunks.m3u8?nimblesessionid=18193415&wmsAuthSign=c2VydmVyX3RpbWU9My8yOC8yMDI1IDY6NDA6MDEgUE0maGFzaF92YWx1ZT1XNWhzYzlEajg3VFhvaVJRVXNRMWlBPT0mdmFsaWRtaW51dGVzPTIw|user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 
