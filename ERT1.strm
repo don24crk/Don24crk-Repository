@@ -1,5 +1,5 @@
 #EXTINF:-1 tvg-name="ert1" tvg-id="ert1" group-title="Ελλάδα" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_1.png?raw=true",ERT1
 KODIPROP:inputstream.adaptive.manifest_type=mpd
 KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-KODIPROP:inputstream.adaptive.license_key=AAAAQ3Bzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACMIARIQNZHEkxlsxbOcitYqGk2mpCINYV9wYmRqZHZpdDNydQ==
+KODIPROP:inputstream.adaptive.license_key=https://api.vod-prd.s.joyn.de/v1/license?token=CiRlNWVmNzFiNy03YjNlLTQ4ZDgtODRhNi00MmMxMzc0ZWUyNmU.Cg1hX3BiZGpkdml0M3J1EAEaEHNvZnR3YXJlLW5vbi12bXAgxN7dvQYozqTovQYyJDEwZjQyOTY0LTA3NzYtNDEwNi1hM2IxLWZjYTNkNmIxNzVlZTjABEIkMzlhNTg1MDktZmNmMS00YjFkLTllZmItM2E1MDJlMjMxY2ViSgh3aWRldmluZVCOz969BlgA.nGOVBE1OXOJDMgkCGrJEVZVKRFRXLGUD-lgMAEOd7JA
 https://delivery.vod-prd.s.joyn.de/v2/dash/CiQwMjYwN2RlZC0xNjU4LTQyMDMtODNjNC1iYzk0NGI0MmJkY2M.Cg1hX3BiZGpkdml0M3J1EAEYwAQiJDM5YTU4NTA5LWZjZjEtNGIxZC05ZWZiLTNhNTAyZTIzMWNlYg.mO7FOoM5HRilExBuvjKrL9jvb94KZ3nZT7Ea1G0xf18/a_pbdjdvit3ru/.mpd?filter=CiQ5MDYzODZkYi02YjYxLTQ1ZmMtOTljNy1lOGY4YjczODVhNjM.Cg1hX3BiZGpkdml0M3J1GMAEIAEoADAB._cLl2YmIFdbipr8GRgG5YBBz1of1XCgjNKdqgoOaR5s
