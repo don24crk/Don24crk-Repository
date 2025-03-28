@@ -1,3 +1,2 @@
 #EXTINF:-1 tvg-name="ert2" tvg-id="ert2" group-title="Ελλάδα" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_2.png?raw=true",ERT2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-https://cdn1.smart-tv-data.com/vid/ert3/playlist.m3u8
+https://s2.cystream.net/live/ert2/chunks.m3u8?nimblesessionid=18183362&wmsAuthSign=c2VydmVyX3RpbWU9My8yOC8yMDI1IDQ6MjQ6MjMgUE0maGFzaF92YWx1ZT1oMjdNd0M1RVpUamxRVWVZa0ViaDNBPT0mdmFsaWRtaW51dGVzPTIw|user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
