@@ -1,2 +1,2 @@
-#EXTINF:-1 tvg-name="ant1" tvg-id="ant1" group-title="Ελλάδα" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ANT1_wite.png?raw=true" user-agent="VLC/3.0.20 LibVLC/3.0.20",ANT1
+#EXTINF:-1 tvg-name="ant1" tvg-id="ant1" group-title="Ελλάδα" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ANT1_wite.png?raw=true",ANT1
 https://s2.cystream.net/live/ant1gr/chunks.m3u8?nimblesessionid=18193511&wmsAuthSign=c2VydmVyX3RpbWU9My8yOC8yMDI1IDY6NDE6MjEgUE0maGFzaF92YWx1ZT1lUE82MUpqWTdNeENNZjYzRGJGSkhRPT0mdmFsaWRtaW51dGVzPTIw|user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
