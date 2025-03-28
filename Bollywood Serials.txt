@@ -9,7 +9,7 @@ name= Yalancı Bahar 83. Bölüm İzle url= "plugin://plugin.video.dailymotion_c
 name= Yalancı Bahar 84. Bölüm İzle url= "plugin://plugin.video.dailymotion_com/?url=x7wqt0w&mode=playVideo" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIOZuXa0W94ROCKuD1yKURzYTrYiR2-7nZfw&s"
 name= Yalancı Bahar 85. Bölüm İzle url= "plugin://plugin.video.dailymotion_com/?url=x7wqt0y&mode=playVideo" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIOZuXa0W94ROCKuD1yKURzYTrYiR2-7nZfw&s"
 name= Yalancı Bahar 86. Bölüm İzle url= "plugin://plugin.video.dailymotion_com/?url=x7wqt0z&mode=playVideo" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIOZuXa0W94ROCKuD1yKURzYTrYiR2-7nZfw&s"
-name= Seninle Yeniden - 54. Bölüm url= "plugin://plugin.video.dailymotion_com/?url=kN74OkxGLlaLKCyvPiw&mode=playVideo" logo= "https://s2.dmcdn.net/v/UPHSZ1ZTlNtAyDMcB/x1080"
+name= Seninle Yeniden - 54. Bölüm url= "https://s454vla.storage.yandex.net/rdisk/f85f515d61a4ace0ba959ec5dd78b679dab66df6f49b99091b96ded4b640d148/67e71dc8/ZZRxTpYvzamMS6EWMFs778LrdQo1YPMjtluI8B3b147UyKAkeO2NJvq9AoMJ3BHpiiGUoZEA-hp7B8A-s4r1CA==?uid=0&filename=SY%2054.mp4&disposition=attachment&hash=&limit=0&content_type=video%2Fmp4&owner_uid=0&fsize=281635707&hid=8dafeac719caecf7b5ca54aac7a966df&media_type=video&tknv=v2&etag=b8c142ef5bc54f70a33940de01074237&ts=6316e4e2d0200&s=468408099ce24a155e374dd1d1fbb656f4eb8c12c88dcd6e0a0a416549b12d28&pb=U2FsdGVkX18-aROFJu5Dz0cybaUy59r4gcxV8CPQTYzUnfmfC3QQqTWU0GQpsYQ6K2ik0S1pNVSWXvDi9fWw7G-UQzu_CwNjKEqhjEU-Lok" logo= "https://s2.dmcdn.net/v/UPHSZ1ZTlNtAyDMcB/x1080"
 
 
 
