@@ -1,2 +1,5 @@
 #EXTINF:-1 tvg-name="ert1" tvg-id="ert1" group-title="Ελλάδα" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_1.png?raw=true",ERT1
-https://s2.cystream.net/live/ert1/chunks.m3u8?nimblesessionid=18183174&wmsAuthSign=c2VydmVyX3RpbWU9My8yOC8yMDI1IDQ6MjE6NTYgUE0maGFzaF92YWx1ZT1yZmUwZ2l0MmNiNWJSbXlSOThIY2pnPT0mdmFsaWRtaW51dGVzPTIw|user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36 
+KODIPROP:inputstream.adaptive.manifest_type=mpd
+KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_key=AAAAQ3Bzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACMIARIQNZHEkxlsxbOcitYqGk2mpCINYV9wYmRqZHZpdDNydQ==
+https://delivery.vod-prd.s.joyn.de/v2/dash/CiQwMjYwN2RlZC0xNjU4LTQyMDMtODNjNC1iYzk0NGI0MmJkY2M.Cg1hX3BiZGpkdml0M3J1EAEYwAQiJDM5YTU4NTA5LWZjZjEtNGIxZC05ZWZiLTNhNTAyZTIzMWNlYg.mO7FOoM5HRilExBuvjKrL9jvb94KZ3nZT7Ea1G0xf18/a_pbdjdvit3ru/.mpd?filter=CiQ5MDYzODZkYi02YjYxLTQ1ZmMtOTljNy1lOGY4YjczODVhNjM.Cg1hX3BiZGpkdml0M3J1GMAEIAEoADAB._cLl2YmIFdbipr8GRgG5YBBz1of1XCgjNKdqgoOaR5s
