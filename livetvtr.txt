@@ -37,7 +37,7 @@ name= A Spor url= "https://trkvz-live.ercdn.net/asporhd/asporhd_480p.m3u8?st=5Q5
 name= FBTV url= "https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8|user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36" logo= "https://yt3.googleusercontent.com/ytc/AIdro_kG04jzq7wxoRvUmeqFO1zzt6CDop8OltgqJ9E9PXj1PuU=s900-c-k-c0x00ffffff-no-rj"
 name= GSTV url= "plugin://plugin.video.youtube/play/?video_id=oPsPUX8U6Rg" logo= "https://upload.wikimedia.org/wikipedia/en/c/c2/Gstv_00.png"
 name= Şaban TV url= "https://cdn900.freebroadcast.vip/sabantv.m3u8?tkn=ly98eMFPCUJM4GAhB-G-VA&tms=1743282858&hst=www.freebroadcast.vip&ip=2003:e5:471e:2345:45fa:1fea:10bd:28c1|user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36" logo= "https://play-lh.googleusercontent.com/SahnJWNFBkwHuFICDtfXCdPU1OpbjGB-IpX59dYjdzr2SGduXzrqaJLhm9P34YxF4Vw"
-name= DMAX url= "https://yayin2.canlitv.fun/live/dmax.stream/playlist.m3u8?hash=03f676f8dbe04182e0d46c1bd781ed7a" logo= "https://yt3.googleusercontent.com/7caGBnut6H9aFvL71oqhRbMEy1sE0VIO3oOvuhONRRdQKNzjNqjLW3ySJr-8NR1dnjKcNI62_g=s900-c-k-c0x00ffffff-no-rj"
+name= DMAX url= "https://yayin2.canlitv.fun/live/dmax.stream/playlist.m3u8?hash=03f676f8dbe04182e0d46c1bd781ed7a|user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36" logo= "https://yt3.googleusercontent.com/7caGBnut6H9aFvL71oqhRbMEy1sE0VIO3oOvuhONRRdQKNzjNqjLW3ySJr-8NR1dnjKcNI62_g=s900-c-k-c0x00ffffff-no-rj"
 
 
 
