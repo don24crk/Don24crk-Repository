@@ -30,7 +30,7 @@ name= canli24 url= "https://turkmedya-live.ercdn.net/tv24/tv24.m3u8" logo= "http
 name= A2 url= "https://trkvz-live.ercdn.net/a2tv/a2tv_720p.m3u8?st=lYUJ_0x59KRHpzd_9ws8yA&e=1743309071" logo= "https://i.ibb.co/Y2fyvM7/a2.png"
 name= Show Max url= "https://ciner-live.ercdn.net/showmax/showmax_1080p.m3u8?e=1743270976&st=K9bS7jsYqDS9FR4-m_9YLQ&tv=1" logo= "https://i.ibb.co/gWMPdrc/showmax.png"
 name= Cine5 TV url= "https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8|user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36" logo= "https://i.ibb.co/HFLtSG8/cine5.png"
-name= TRT Çocuk url= "https://tv-trtcocuk.medya.trt.com.tr/master_360.m3u8" logo= "https://i.ibb.co/cQs3vjD/trtcocuk.png"
+name= TRT Çocuk url= "https://proxy.canlitvplayer.com/tgn.bozztv.com/gin-dvrfl05/gin-trt4cocuk/tracks-v1a1/mono.m3u8?nimblesessionid=911905356&wmsAuthSign=c2VydmVyX3RpbWU9My8yOS8yMDI1IDU6NDQ6NDMgUE0maGFzaF92YWx1ZT1UNWZwYzhBRjFWSitXY0hZZkVYbjdBPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjU=" logo= "https://i.ibb.co/cQs3vjD/trtcocuk.png"
 name= TGRTEU url= "plugin://plugin.video.youtube/play/?video_id=Gq20kW8WsU0" logo= "http://assets.tvcdn.net/01032651-eac6-48ea-b6ef-78acf8e95daa.png"
 name= N-TV url= "plugin://plugin.video.youtube/play/?video_id=DbQ4HGgr7Xo" logo= "https://upload.wikimedia.org/wikipedia/commons/b/b5/NTV_logo.png"
 name= A Spor url= "https://trkvz-live.ercdn.net/asporhd/asporhd_480p.m3u8?st=5Q5ftctLwA3elnMJE_HKzQ&e=1743306822" logo= "https://cdn6.aptoide.com/imgs/7/f/d/7fd636ea06646d1a9aaefe27a11dfb58_icon.png"
