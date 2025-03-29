@@ -1,5 +1,5 @@
 name= TRT1 url= "https://trt.daioncdn.net/trt-1/master_1080p.m3u8?&sid=7a4jzlfys22i&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2|user-agent=Mozilla/5.0 (Android 15; Mobile; LG-M255; rv:136.0" logo= "http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png"
-name= TRT2 url= "" logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/TRT_2_logo.svg/1200px-TRT_2_logo.svg.png"
+name= TRT2 url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/TRT%202.strm" logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/TRT_2_logo.svg/1200px-TRT_2_logo.svg.png"
 name= TRTTürk url= "https://tv-trtturk.medya.trt.com.tr/master.m3u8" logo= "http://assets.tvcdn.net/fbaaa75c-0a2d-4ed6-b498-d32a59ddb899.png"
 name= TRTAvaz url= "https://tv-trtavaz.medya.trt.com.tr/master.m3u8" logo= "http://assets.tvcdn.net/53dd1d5f-aa72-4bea-91d0-8c2d00783367.png"
 name= TRT Müzik url= "https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8" logo= "https://cdnuploads.aa.com.tr/uploads/Contents/2024/11/22/thumbs_b_c_4e7965815cc1a5296b366e7e65352364.jpg"
