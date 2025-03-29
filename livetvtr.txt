@@ -35,7 +35,7 @@ name= TGRTEU.tr url= "https://cdn900.canlitv.me/tgrteu.m3u8?tkn=akJxruN4F3LHAbO_
 name= N-TV url= "https://cdn7.canlitv.me/ntv.m3u8?tkn=_E6_RcTfK_vq7MpLn0zbSw&tms=1743190528&hst=www.canlitv.me&ip=2003:e5:471e:23bf:1c20:4d5e:a9cb:79ef|user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36" logo= "https://upload.wikimedia.org/wikipedia/commons/b/b5/NTV_logo.png"
 name= A Spor url= "https://yayin2.canlitv.fun/live/aspor.stream/playlist.m3u8?hash=03f676f8dbe04182e0d46c1bd781ed7a" logo= "https://cdn6.aptoide.com/imgs/7/f/d/7fd636ea06646d1a9aaefe27a11dfb58_icon.png"
 name= FBTV url= "https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8|user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36" logo= "https://yt3.googleusercontent.com/ytc/AIdro_kG04jzq7wxoRvUmeqFO1zzt6CDop8OltgqJ9E9PXj1PuU=s900-c-k-c0x00ffffff-no-rj"
-name= GSTV url= "https://cdn900.canlitv.me/gstv.m3u8?tkn=ZGoLv4P2JuYAAoXtsLNfVQ&tms=1743191536&hst=www.canlitv.me&ip=2003:e5:471e:23bf:1c20:4d5e:a9cb:79ef|user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36" logo= "https://upload.wikimedia.org/wikipedia/en/c/c2/Gstv_00.png"
+name= GSTV url= "plugin://plugin.video.youtube/play/?video_id=oPsPUX8U6Rg" logo= "https://upload.wikimedia.org/wikipedia/en/c/c2/Gstv_00.png"
 
 
 
