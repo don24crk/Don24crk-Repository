@@ -1,3 +1,3 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="ert2" tvg-id="ert2" group-title="Ελλάδα" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_2.png?raw=true",ERT2
-http://aslaniptv.com:80/Danielvondaniel/eMkd5DGgTX/147798|user-agent=ExoPlayer
+https://cdn3.smart-tv-data.com/vidabr/ert2abr/playlist.m3u8|user-agent=ExoPlayer
