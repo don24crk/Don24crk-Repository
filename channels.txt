@@ -31,7 +31,7 @@ name= OMEGA url= "http://l1.cloudskep.com/omegatv/omcy/playlist.m3u8|user-agent=
 name= SIGMA url= "http://l10.cloudskep.com/sigmatv/stv/playlist.m3u8|user-agent=Mozilla/5.0 (Android 15; Mobile; LG-M255; rv:136.0) Gecko/136.0 Firefox/136.0" logo= "https://i.imgur.com/lFjBmPF.png"
 name= SMILE TV url= "https://s1.cystream.net/live/smile/playlist.m3u8|user-agent=Mozilla/5.0 (Android 15; Mobile; LG-M255; rv:136.0) Gecko/136.0 Firefox/136.0" logo= "https://i.imgur.com/8ZCpwfv.png"
 name= GalaxyGR url= "https://ssh101-fl.bozztv.com/ssh101/galaxygr/playlist.m3u8|user-agent=Mozilla/5.0 (Android 15; Mobile; LG-M255; rv:136.0) Gecko/136.0 Firefox/136.0" logo= "https://i.imgur.com/kmrkryQ.png"
-name= DELTA TV url= "https://eu1.vectromdigital.com:1936/tvdelta/tvdelta/playlist.m3u8" logo= "https://i.imgur.com/YiVVg6n.png"
+name= DELTA TV url= "https://cdn5.smart-tv-data.com/local/liveD/playlist.m3u8" logo= "https://i.imgur.com/YiVVg6n.png"
 name= Baraza TV Greek hits url= "https://eco.streams.ovh:8081/barazatv/index.m3u8" logo= "https://i.imgur.com/NlN4lmc.png"
 name= NET TV EUROPE url= "https://eu1.vectromdigital.com:1936/netveurope/netveurope/playlist.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; SM-918) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" logo= "https://i.imgur.com/Lzkw32k.png"
 name= NET TV TORONTO url= "https://eu1.vectromdigital.com:1936/netvtoronto/netvtoronto/playlist.m3u8" logo= "https://i.imgur.com/Lzkw32k.png"
@@ -41,7 +41,7 @@ name= Pella TV url= "https://cdn5.smart-tv-data.com/local/pellatv_i/playlist.m3u
 name= ELLAS WORLD url= "http://ellastv.gotdns.com:88/freetv/promo/index.m3u8" logo= "https://ellastvmax.com.au/wp-content/uploads/2022/05/ellastvpromo.png"
 name= VILLAGE WORLD url= "http://ellastv.gotdns.com:88/freetv/village-world/index.m3u8|user-agent=Mozilla/5.0 (Android 15; Mobile; LG-M255; rv:136.0) Gecko/136.0 Firefox/136.0" logo= "https://i.imgur.com/WftpxK2.png"
 name= MAD TV url= "http://ellastv.gotdns.com:88/freetv/madworldtv/index.m3u8" logo= "https://i.imgur.com/zoS5RWU.png"
-name= DIAVATA TV url= "https://ssh101stream.ssh101.com/akamaissh101/ssh101/diavatatvweb/playlist.m3u8" logo= "https://i.imgur.com/1DxMmHL.png"
+name= DIAVATA TV url= "https://raw.githubusercontent.com/jimgate07/grtv/master/streams/diabatatv.m3u8" logo= "https://i.imgur.com/1DxMmHL.png"
 name= LAMPSI TV url= "https://livetv.streams.ovh:8081/lampsitv/index.m3u8" logo= "https://i.imgur.com/jUr8BZA.png"
 
 
