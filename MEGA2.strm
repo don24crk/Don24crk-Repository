@@ -1,4 +1,3 @@
 #EXTINF:-1 tvg-name="mega" tvg-id="mega" group-title="Ελλάδα" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MEGA_red.png?raw=true" user-agent=VLC/3.0.20 LibVLC/3.0.20,MEGA
-#KODIPROP:inputstream=inputstream.adaptive
 https://wow.anixa.tv/live/mega/playlist.m3u8
 
