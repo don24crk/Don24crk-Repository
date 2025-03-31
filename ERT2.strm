@@ -1,3 +1,3 @@
-#EXTINF:-1 tvg-name="ert2" tvg-id="ert2" group-title="Ελλάδα" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_2.png?raw=true"user-agent=Exoplayer,ERT2
+#EXTINF:-1 tvg-name="ert2" tvg-id="ert2" group-title="Ελλάδα" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_2.png?raw=true",ERT2
 #KODIPROP:inputstream=inputstream.adaptive
 https://ertflix.akamaized.net/ertlive/ert2/clrdef24828z/playlist.m3u8|user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 14.7; rv:136.0) Gecko/20100101 Firefox/136.0
