@@ -10,9 +10,9 @@ name= TAMTAKOS O MARANTONA TIS AGIAS VARVARAS url= "plugin://plugin.video.dailym
 name= Oi Póntioi 1986 url= "plugin://plugin.video.youtube/play/?video_id=gdsVeAcjSdM" logo= "https://i.ytimg.com/vi/gdsVeAcjSdM/maxresdefault.jpg"
 name= Stathis Psaltis - Kleftroni ke tsentelman url= "plugin://plugin.video.dailymotion_com/?url=x8xfl52&mode=playVideo" logo= "https://m.media-amazon.com/images/M/MV5BNGQyODI0NjAtNTZkNC00YjRkLTkwMTgtZjZkZmMwMWIwMzNkXkEyXkFqcGc@._V1_.jpg"
 name= Mántepse Ti Káno Ta Vrádia (1984) [Ellinikí Tainía] url= "plugin://plugin.video.dailymotion_com/?url=x8ms2t5&mode=playVideo" logo= "https://i.ytimg.com/vi/1JlvuV_2HJo/maxresdefault.jpg"
-name= TA KÍTRINA GÁNTIA url= "plugin://plugin.video.youtube/play/?video_id=jXFuSVAnk48" logo= "https://finosflixweb.eu-central-1.linodeobjects.com/uploaded/trailers/348/cover.jpg"
+name= TA KÍTRINA GÁNTIA url= "plugin://plugin.video.youtube/play/?video_id=jLCI_6XJ4CE" logo= "https://finosflixweb.eu-central-1.linodeobjects.com/uploaded/trailers/348/cover.jpg"
 name= Kamikázi Agápi Mou (1983) [Ellinikí Tainía] url= "plugin://plugin.video.dailymotion_com/?url=x8wr6sk&mode=playVideo" logo= "https://m.media-amazon.com/images/M/MV5BNzZlNWZlN2QtZTI4Yi00NDkwLWIyZjEtNzk1ZGIyOGVlYTYwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
-name= Stathis Psaltis - Trelathiko Politilias url= "plugin://plugin.video.dailymotion_com/?url=x8wr6sk&mode=playVideo" logo= "https://i.ytimg.com/vi/SsgKBwdtzbY/hqdefault.jpg"
+name= Stathis Psaltis - Trelathiko Politilias url= "plugin://plugin.video.youtube/play/?video_id=0yBbnI90cmo" logo= "https://i.ytimg.com/vi/SsgKBwdtzbY/hqdefault.jpg"
 
 
 
