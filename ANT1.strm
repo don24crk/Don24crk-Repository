@@ -1,5 +1,6 @@
 #EXTINF:-1 tvg-name="ant1" tvg-id="ant1" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ant1.png",ANT1
-https://cdn1.smart-tv-data.com/live/ant1_srt/playlist.m3u8|User-Agent=ExoPlayer 
+#KODIPROP:inputstream=inputstream.adaptive
+
 
 
 
