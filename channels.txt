@@ -22,7 +22,7 @@ name= OPEN TV url= "https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVL
 name= OPEN TV BUP url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/OPEN.strm" logo= "https://i.imgur.com/cshmF4s.png"
 name= SKAI TV url= "https://stream3.anixe.net/live/skai/playlist.m3u8|user-agent=Mozilla/5.0 (Android 15; Mobile; LG-M255; rv:136.0" logo= "https://i.imgur.com/o2aft6Q.png"
 name= SKAI TV BUP url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/SKAI.strm" logo= "https://i.imgur.com/o2aft6Q.png"
-name= STAR TV url= "https://livestar.siliconweb.com/media/star4/star4.m3u8" logo= "https://i.imgur.com/AazwSEQ.png"
+name= STAR TV url= "https://livestar.siliconweb.com/media/star4/star4.m3u8|user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36" logo= "https://i.imgur.com/AazwSEQ.png"
 name= STAR TV BUP url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/STAR.strm" logo= "https://i.imgur.com/AazwSEQ.png"
 name= STAR INTERNATIONAL url= "https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8" logo= "https://i.imgur.com/AazwSEQ.png"
 name= MEGA url= "https://s2.cystream.net/live/megagr/chunks.m3u8?nimblesessionid=18656778&wmsAuthSign=c2VydmVyX3RpbWU9NC8zLzIwMjUgMzozODoyNyBQTSZoYXNoX3ZhbHVlPWFvVTl3dWJPWk1CU08wTE1va2laR1E9PSZ2YWxpZG1pbnV0ZXM9MjA=|user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36" logo= "https://i.imgur.com/HIcqDaY.png"
@@ -36,12 +36,12 @@ name= Baraza TV Greek hits url= "https://eco.streams.ovh:8081/barazatv/index.m3u
 name= NET TV EUROPE url= "https://eu1.vectromdigital.com:1936/netveurope/netveurope/playlist.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; SM-918) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" logo= "https://i.imgur.com/Lzkw32k.png"
 name= NET TV TORONTO url= "https://eu1.vectromdigital.com:1936/netvtoronto/netvtoronto/playlist.m3u8" logo= "https://i.imgur.com/Lzkw32k.png"
 name= CINEMA CLASSICS url= "https://tv.mediacp.eu:8081/cinemaclassics/index.m3u8" logo= "https://i.imgur.com/6STBhNL.png"
-name= IONIA TV url= "https://ssh101stream.ssh101.com/akamaissh101/ssh101/tvioniathess/playlist.m3u8" logo= "https://i.imgur.com/jFVVQW0.png"
+name= IONIA TV url= "https://ssh101stream.ssh101.com/akamaissh101/ssh101/tvioniathess/playlist.m3u8|user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36" logo= "https://i.imgur.com/jFVVQW0.png"
 name= Pella TV url= "https://cdn5.smart-tv-data.com/local/pellatv_i/playlist.m3u8" logo= "https://i.imgur.com/9RXdElf.png"
 name= ELLAS WORLD url= "http://ellastv.gotdns.com:88/freetv/promo/index.m3u8" logo= "https://ellastvmax.com.au/wp-content/uploads/2022/05/ellastvpromo.png"
 name= VILLAGE WORLD url= "http://ellastv.gotdns.com:88/freetv/village-world/index.m3u8|user-agent=Mozilla/5.0 (Android 15; Mobile; LG-M255; rv:136.0) Gecko/136.0 Firefox/136.0" logo= "https://i.imgur.com/WftpxK2.png"
 name= MAD TV url= "http://ellastv.gotdns.com:88/freetv/madworldtv/index.m3u8" logo= "https://i.imgur.com/zoS5RWU.png"
-name= DIAVATA TV url= "https://raw.githubusercontent.com/jimgate07/grtv/master/streams/diabatatv.m3u8" logo= "https://i.imgur.com/1DxMmHL.png"
+name= DIAVATA TV url= "https://raw.githubusercontent.com/jimgate07/grtv/master/streams/diabatatv.m3u8|user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36" logo= "https://i.imgur.com/1DxMmHL.png"
 name= LAMPSI TV url= "https://livetv.streams.ovh:8081/lampsitv/index.m3u8" logo= "https://i.imgur.com/jUr8BZA.png"
 
 
