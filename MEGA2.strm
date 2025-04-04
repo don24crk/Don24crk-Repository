@@ -1,3 +1,3 @@
 #EXTINF:-1 tvg-name="mega" tvg-id="mega" group-title="Ελλάδα" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/MEGA_red.png?raw=true" User-Agent=ExoPlayer,MEGA
 #KODIPROP:inputstream=inputstream.ffmpeg.direct
-http://line.myunityhost.com:80/play/live.php?mac=00:1A:79:D8:CE:85&stream=307882&extension=ts&play_token=0l6KUvp8Do
+http://line.myunityhost.com:80/play/live.php?mac=00:1A:79:D8:CE:85&stream=307882&extension=ts&play_token=0l6KUvp8Do|User-Agent=ExoPlayer
