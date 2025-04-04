@@ -1,3 +1,3 @@
-#EXTINF:-1 tvg-name="alpha" tvg-id="alpha" group-title="Ελλάδα" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ALPHA.png?raw=true",ALPHA User-Agent=ExoPlayer 
+#EXTINF:-1 tvg-name="alpha" tvg-id="alpha" group-title="Ελλάδα" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ALPHA.png?raw=true",ALPHA 
 http://line.myunityhost.com:80/play/live.php?mac=00:1A:79:D8:CE:85&stream=307898&extension=ts&play_token=Lmr1YwAPKD|user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 
