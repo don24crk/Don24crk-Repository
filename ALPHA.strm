@@ -1,3 +1,2 @@
 #EXTINF:-1 tvg-name="alpha" tvg-id="alpha" group-title="Ελλάδα" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ALPHA.png?raw=true",ALPHA
-#KODIPROP:inputstream=inputstream.ffmpeg.direct
 http://line.myunityhost.com:80/play/live.php?mac=00:1A:79:D8:CE:85&stream=307898&extension=ts&play_token=Lmr1YwAPKD.ts
