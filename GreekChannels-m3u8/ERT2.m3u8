@@ -1,2 +1,4 @@
-#EXTINF:0,http://line.myunityhost.com:80/play/live.php?mac=00:1A:79:D8:CE:85&stream=307906&extension=ts&play_token=xZdytHiEwG:ERT 2
-http://line.myunityhost.com:80/play/live.php?mac=00:1A:79:D8:CE:85&stream=307906&extension=ts&play_token=xZdytHiEwG:ERT%202
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=301013,FRAME-RATE=25,RESOLUTION=640x360,CODECS="avc1.64001e,mp4a.40.2"
+http://line.myunityhost.com:80/play/live.php?mac=00:1A:79:D8:CE:85&stream=307906&extension=ts&play_token=xZdytHiEwG:ERT%2
