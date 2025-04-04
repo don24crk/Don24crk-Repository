@@ -1,5 +1,2 @@
-#EXTINF:-1 tvg-name="skai" tvg-id="skai" group-title="Ελλάδα" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/SKAI.png?raw=true",SKAITV
-#KODIPROP:inputstream=inputstream.ffmpeg.direct
-http://line.myunityhost.com:80/play/live.php?mac=00:1A:79:D8:CE:85&stream=307889&extension=ts&play_token=TsiGUg3Y9N|User-Agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-
-
+#EXTINF:-0 tvg-name="skai" tvg-id="skai" group-title="Ελλάδα" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/SKAI.png?raw=true",SKAITV
+http://line.myunityhost.com:80/play/live.php?mac=00:1A:79:D8:CE:85&stream=307889&extension=ts&play_token=TsiGUg3Y9N:Skai|User-Agent=VLC
