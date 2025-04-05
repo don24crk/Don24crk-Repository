@@ -1,3 +1,2 @@
 #EXTINF:-1 tvg-name="ant1" tvg-id="ant1" group-title="Ελλάδα" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ANT1_wite.png?raw=true" User-Agent=ExoPlayer,ANT1
-#KODIPROP:inputstream=inputstream.adaptive
-https://mcdn.antennaplus.gr/live/media0/Ant1/HLS/Ant1.m3u8
+https://s2.cystream.net/live/ant1gr/chunks.m3u8?nimblesessionid=18837696&wmsAuthSign=c2VydmVyX3RpbWU9NC81LzIwMjUgMjo1NjoyOCBQTSZoYXNoX3ZhbHVlPW1NYXZnSjRmU1pTdUE4N0szaG50M0E9PSZ2YWxpZG1pbnV0ZXM9MjA=|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A137.0)%20Gecko%2F20100101%20Firefox%2F137.0&Referer=https%3A%2F%2Fanacon.org%2F
