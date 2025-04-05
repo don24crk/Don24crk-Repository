@@ -1,2 +1,2 @@
 #EXTINF:-0 tvg-name="skai" tvg-id="skai" group-title="Ελλάδα" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/SKAI.png?raw=true",SKAITV
-http://line.myunityhost.com:80/play/live.php?mac=00:1A:79:D8:CE:85&stream=307889&extension=ts&play_token=TsiGUg3Y9N:Skai|User-Agent=VLC
+https://s2.cystream.net/galanos/skai/chunks.m3u8?nimblesessionid=18835799&wmsAuthSign=c2VydmVyX3RpbWU9NC81LzIwMjUgMjoyMzo1MSBQTSZoYXNoX3ZhbHVlPWVCQmZWajMyKzJYT1J3aTZENTQreWc9PSZ2YWxpZG1pbnV0ZXM9MjA=|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A137.0)%20Gecko%2F20100101%20Firefox%2F137.0&Referer=https%3A%2F%2Fanacon.org%2F
