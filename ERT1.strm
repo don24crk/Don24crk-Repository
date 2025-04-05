@@ -1,3 +1,3 @@
 #EXTINF:-1 tvg-name="ert1" tvg-id="ert1",ERT1
 #KODIPROP:inputstream=inputstream.ffmeg.direct
-http://line.myunityhost.com:80/play/live.php?mac=00:1A:79:D8:CE:85&stream=307908&extension=ts&play_token=GMUAfWCMqF|user-agent=https://cdnjs.cloudflare.com/ajax/libs/flowplayer/7.2.7/flowplayer.js
+https://s2.cystream.net/live/ert1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC81LzIwMjUgODowNDozOSBQTSZoYXNoX3ZhbHVlPSsrdlJKYlorS3J4Y3ovSmZSem1HbXc9PSZ2YWxpZG1pbnV0ZXM9MjA=|user-agent=https://cdnjs.cloudflare.com/ajax/libs/flowplayer/7.2.7/flowplayer.js
