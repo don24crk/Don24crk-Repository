@@ -1,2 +1,3 @@
 #EXTINF:0,Mega
+#KODIPROP:inputstream=inputstream.ffmeg.direct
 http://line.myunityhost.com:80/play/live.php?mac=00:1A:79:D8:CE:85&stream=307882&extension=ts|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A137.0)%20Gecko%2F20100101%20Firefox%2F137.0
