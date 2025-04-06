@@ -1,2 +1,2 @@
 #EXTINF:-1 tvg-name="ert1" tvg-id="ert1",ERT1
-https://s2.cystream.net/live/ert1/chunks.m3u8?nimblesessionid=18931576&wmsAuthSign=c2VydmVyX3RpbWU9NC82LzIwMjUgNjoyMzo0MCBQTSZoYXNoX3ZhbHVlPU5CY2ROMGc2dFBWRXBvOXkrTzhVNXc9PSZ2YWxpZG1pbnV0ZXM9MjA=|user-agent=https://vjs.zencdn.net/8.16.1/video.min.js
+https://s2.cystream.net/live/ert1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC82LzIwMjUgOToyMDoyMCBQTSZoYXNoX3ZhbHVlPXlMSjlzUG8vZUY1UEpmcURXZENOQmc9PSZ2YWxpZG1pbnV0ZXM9MjA=|user-agent=https://vjs.zencdn.net/8.16.1/video.min.js
