@@ -1,2 +1,2 @@
 #EXTINF:-1 tvg-name="open" tvg-id="open",OPENTV
-https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8|User-Agent=https://tv.canlitvvolo.com/js/show.js
+https://s2.cystream.net/galanos/open/chunks.m3u8?nimblesessionid=18932524&wmsAuthSign=c2VydmVyX3RpbWU9NC82LzIwMjUgNjozMzo0NiBQTSZoYXNoX3ZhbHVlPXZTaWFRR3lDSDl0TUg5cThvV2xpTlE9PSZ2YWxpZG1pbnV0ZXM9MjA=|user-agent=https://vjs.zencdn.net/8.16.1/video.min.js
