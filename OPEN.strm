@@ -1,2 +1,2 @@
 #EXTINF:-1 tvg-name="open" tvg-id="open",OPENTV
-https://s2.cystream.net/galanos/open/chunks.m3u8?nimblesessionid=18932524&wmsAuthSign=c2VydmVyX3RpbWU9NC82LzIwMjUgNjozMzo0NiBQTSZoYXNoX3ZhbHVlPXZTaWFRR3lDSDl0TUg5cThvV2xpTlE9PSZ2YWxpZG1pbnV0ZXM9MjA=|user-agent=https://vjs.zencdn.net/8.16.1/video.min.js
+https://s2.cystream.net/galanos/open/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC82LzIwMjUgOToyNzo0MSBQTSZoYXNoX3ZhbHVlPUNXeHhNSS90aUZaT1l1Znk2bTRjYWc9PSZ2YWxpZG1pbnV0ZXM9MjA=|user-agent=https://vjs.zencdn.net/8.16.1/video.min.js
