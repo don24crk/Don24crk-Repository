@@ -1,2 +1,3 @@
 #EXTINF:-1 tvg-name="ant1",ANT1
-http://antglantennatv-lh.akamaihd.net/i/live_1@421307/master.m3u8|user-agent=https://vjs.zencdn.net/8.16.1/video.min.js
+#KODIPROP:inputstream=inputstream.adaptive
+https://mcdn.antennaplus.gr/live/media0/Ant1/HLS/Ant1.m3u8
