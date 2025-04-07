@@ -1,2 +1,6 @@
 #EXTINF:-0,SKAITV
-http://master.cystreams.com:25461/live/greek/athienitis/42.ts|user-agent=https://vjs.zencdn.net/8.16.1/video.min.js
+KODIPROP:inputstream.adaptive.manifest_type=mpd
+KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_key=https://widevine-dash.ezdrm.com/widevine-php/widevine-foreignkey.php?pX=9A657F&token=WUfBD6EsOLKpNNMgHZ3e9w&smil=en2&expires=1744046542
+https://skai-live-drm.siliconweb.com/skaidrm/en2/manifest.mpd
+
