@@ -1,5 +1,5 @@
 name= TRT1 url= "http://185.234.111.229:8000/play/a00c" logo= "http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png"
-name= TRT2 url= "http://line.myunityhost.com:80/play/live.php?mac=00:1A:79:D8:CE:85&stream=912456&extension=ts&play_token=sAJI5I5xSXuser-agent=ExoPlayer" logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/TRT_2_logo.svg/1200px-TRT_2_logo.svg.png"
+name= TRT2 url= "http://line.myunityhost.com:80/play/live.php?mac=00:1A:79:D8:CE:85&stream=912456&extension=ts&play_token=sAJI5I5xSX|user-agent=ExoPlayer" logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/TRT_2_logo.svg/1200px-TRT_2_logo.svg.png"
 name= TRTTürk url= "https://tv-trtturk.medya.trt.com.tr/master.m3u8|user-agent=ExoPlayer" logo= "http://assets.tvcdn.net/fbaaa75c-0a2d-4ed6-b498-d32a59ddb899.png"
 name= TRTAvaz url= "https://tv-trtavaz.medya.trt.com.tr/master.m3u8|user-agent=ExoPlayer" logo= "http://assets.tvcdn.net/53dd1d5f-aa72-4bea-91d0-8c2d00783367.png"
 name= TRT Müzik url= "https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A137.0)%20Gecko%2F20100101%20Firefox%2F137.0&Referer=https%3A%2F%2Ftrtmuzik.net.tr%2F" logo= "https://cdnuploads.aa.com.tr/uploads/Contents/2024/11/22/thumbs_b_c_4e7965815cc1a5296b366e7e65352364.jpg"
