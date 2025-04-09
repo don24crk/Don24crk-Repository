@@ -1,10 +1,10 @@
 #EXTM3U url-tvg="https://ext.greektv.app/epg/epg.xml.gz"
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert1" tvg-logo="https://i.imgur.com/oh9E9sK.png",ERT1 HD
-http://line.myunityhost.com/play/live.php?mac=00:1A:79:D8:CE:85&stream=307908&extension=ts&play_token=GMUAfWCMqF|User-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 14.7; rv:137.0) Gecko/20100101 Firefox/137.0
+https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ERT1%20(2).m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert2" tvg-logo="https://i.imgur.com/ndZMSTX.png",ERT2 HD
-http://line.myunityhost.com/play/live.php?mac=00:1A:79:D8:CE:85&stream=307906&extension=ts&play_token=xZdytHiEwG|User-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 14.7; rv:137.0) Gecko/20100101 Firefox/137.0
+https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ERT2.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert3" tvg-logo="https://i.imgur.com/oKxPmQJ.png",ERT3 HD
-http://line.myunityhost.com/play/live.php?mac=00:1A:79:D8:CE:85&stream=307904&extension=ts&play_token=m3D50eqnCc|User-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 14.7; rv:137.0) Gecko/20100101 Firefox/137.0
+https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ERT3.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ertnews" tvg-logo="https://i.imgur.com/9fxyYWl.png",ERT NEWS
 http://hbbtvapp.ert.gr/stream.php/v/vid_ertnews_mpeg.2ts
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ertnews" tvg-logo="https://i.imgur.com/9fxyYWl.png",ERT NEWS BUP
