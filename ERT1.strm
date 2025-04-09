@@ -1,2 +1,2 @@
 #EXTINF:-1 tvg-name="ert1" tvg-id="ert1",ERT1
-https://s2.cystream.net/live/ert1/chunks.m3u8?nimblesessionid=19178653&wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjUgMzo0NjoyNSBQTSZoYXNoX3ZhbHVlPTVtQzRXZzFtOVhvTmhwMVpoU1FWMWc9PSZ2YWxpZG1pbnV0ZXM9MjA=|user-agent=https://cdnjs.cloudflare.com/ajax/libs/videojs-contrib-hls/5.15.0/videojs-contrib-hls.min.js
+https://s2.cystream.net/live/ert1/chunks.m3u8?nimblesessionid=19178653&wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjUgMzo0NjoyNSBQTSZoYXNoX3ZhbHVlPTVtQzRXZzFtOVhvTmhwMVpoU1FWMWc9PSZ2YWxpZG1pbnV0ZXM9MjA=|user-agent=https://cdn.jsdelivr.net/npm/video.js@8.22.0/dist/video.min.js
