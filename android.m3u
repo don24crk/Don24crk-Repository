@@ -1,10 +1,10 @@
 #EXTM3U url-tvg="https://ext.greektv.app/epg/epg.xml.gz"
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert1" tvg-logo="https://i.imgur.com/oh9E9sK.png",ERT1 HD
-http://line.myunityhost.com:80/play/live.php?mac=00:1A:79:D8:CE:85&stream=307908&extension=ts&play_token=GMUAfWCMqF|User-agent=ExoPlayer
+http://line.myunityhost.com/play/live.php?mac=00:1A:79:D8:CE:85&stream=307908&extension=ts&play_token=GMUAfWCMqF|User-agent=ExoPlayer
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert2" tvg-logo="https://i.imgur.com/ndZMSTX.png",ERT2 HD
-http://line.myunityhost.com:80/play/live.php?mac=00:1A:79:D8:CE:85&stream=307906&extension=ts&play_token=xZdytHiEwG|User-agent=ExoPlayer
+http://line.myunityhost.com/play/live.php?mac=00:1A:79:D8:CE:85&stream=307906&extension=ts&play_token=xZdytHiEwG|User-agent=ExoPlayer
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert3" tvg-logo="https://i.imgur.com/oKxPmQJ.png",ERT3 HD
-http://line.myunityhost.com:80/play/live.php?mac=00:1A:79:D8:CE:85&stream=307904&extension=ts&play_token=m3D50eqnCc|User-agent=ExoPlayer
+http://line.myunityhost.com/play/live.php?mac=00:1A:79:D8:CE:85&stream=307904&extension=ts&play_token=m3D50eqnCc|User-agent=ExoPlayer
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ertnews" tvg-logo="https://i.imgur.com/9fxyYWl.png",ERT NEWS
 http://hbbtvapp.ert.gr/stream.php/v/vid_ertnews_mpeg.2ts
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ertnews" tvg-logo="https://i.imgur.com/9fxyYWl.png",ERT NEWS BUP
@@ -12,19 +12,19 @@ http://195.226.218.10:80/vid/ertnews/mpeg.2ts
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ertnews" tvg-logo="https://i.imgur.com/9fxyYWl.png",ERT NEWS BUP 2
 https://ertflix.akamaized.net/ertlive/ertnews/default/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="mega" tvg-logo="https://i.imgur.com/HIcqDaY.png",MEGA HD
-https://s2.cystream.net:80/live/megagr/chunks.m3u8?nimblesessionid=19244905&wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjUgOToyMjo0NSBQTSZoYXNoX3ZhbHVlPS91ZnJtbDYyQTBjZEl3azB6bEFWU2c9PSZ2YWxpZG1pbnV0ZXM9MjA=|User-agent=ExoPlayer
+https://s2.cystream.net/live/megagr/chunks.m3u8?nimblesessionid=19244905&wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjUgOToyMjo0NSBQTSZoYXNoX3ZhbHVlPS91ZnJtbDYyQTBjZEl3azB6bEFWU2c9PSZ2YWxpZG1pbnV0ZXM9MjA=|User-agent=ExoPlayer
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ant1" tvg-logo="https://i.imgur.com/GTFFtOR.png",ANT1 HD
 https://mcdn.antennaplus.gr/live/media0/Ant1/HLS/Ant1.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ant1" tvg-logo="https://i.imgur.com/GTFFtOR.png",ANT1 BUP HD
 https://mcdn.antennaplus.gr/live/media0/Ant1/HLS/Ant1-avc1_8000000=1141144780.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="alpha" tvg-logo="https://i.imgur.com/0i4MUcc.png",ALPHA HD
-http://line.myunityhost.com:80/play/live.php?mac=00:1A:79:D8:CE:85&stream=307898&extension=ts&play_token=Lmr1YwAPKD|User-agent=ExoPlayer
+http://line.myunityhost.com/play/live.php?mac=00:1A:79:D8:CE:85&stream=307898&extension=ts&play_token=Lmr1YwAPKD|User-agent=ExoPlayer
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="alpha" tvg-logo="https://i.imgur.com/0i4MUcc.png",ALPHA SAT 
-http://line.myunityhost.com:80/play/live.php?mac=00:1A:79:D8:CE:85&stream=942248&extension=ts&play_token=lk72XnhCW4|User-agent=ExoPlayer
+http://line.myunityhost.com/play/live.php?mac=00:1A:79:D8:CE:85&stream=942248&extension=ts&play_token=lk72XnhCW4|User-agent=ExoPlayer
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="star" tvg-logo="https://i.imgur.com/AazwSEQ.png",STAR HD 
-http://line.myunityhost.com:80/play/live.php?mac=00:1A:79:D8:CE:85&stream=307893&extension=ts&play_token=4ZKKe2PVoO|User-agent=ExoPlayer
+http://line.myunityhost.com/play/live.php?mac=00:1A:79:D8:CE:85&stream=307893&extension=ts&play_token=4ZKKe2PVoO|User-agent=ExoPlayer
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="skai" tvg-logo="https://i.imgur.com/o2aft6Q.png",SKAI HD 
-http://line.myunityhost.com:80/play/live.php?mac=00:1A:79:D8:CE:85&stream=307889&extension=ts&play_token=TsiGUg3Y9N|User-agent=ExoPlayer
+http://line.myunityhost.com/play/live.php?mac=00:1A:79:D8:CE:85&stream=307889&extension=ts&play_token=TsiGUg3Y9N|User-agent=ExoPlayer
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="skai" tvg-logo="https://i.imgur.com/o2aft6Q.png",SKAI HD BUP 
 https://stream3.anixe.net/live/skai/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="skai" tvg-logo="https://i.imgur.com/o2aft6Q.png",SKAI HD BUP 2
