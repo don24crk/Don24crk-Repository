@@ -1,4 +1,4 @@
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1,MEGATV
-http://88.99.254.101/megaHD/index.m3u8
+http://88.99.254.101:80/megaHD/index.m3u8
