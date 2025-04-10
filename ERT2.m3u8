@@ -1,5 +1,5 @@
 #KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
+#KODIPROP:mimetype=video/m2ts
 #KODIPROP:inputstream.ffmpegdirect.program_number=307906
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #EXTINF:-1,ERT 2
