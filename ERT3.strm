@@ -1,2 +1,3 @@
 #EXTINF:0,ERT 3
-http://line.myunityhost.com/play/live.php?mac=00:1A:79:D8:CE:85&stream=307904&extension=ts&play_token=m3D50eqnCc:ERT 3
+#KODIPROP:inputstream=inputstream.ffmpeg.direct
+http://norhrgr.top:8080/11172813637254/71730032914339/4588|user-agent=ExoPlayer
