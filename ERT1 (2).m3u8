@@ -1,4 +1,3 @@
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1,ERT 1
-http://88.99.254.101/ert1/index.m3u8|user-agent=https://www.webofstories.com/scripts/jwplayer-8.4.2/jwplayer.js
+http://88.99.254.101/ert1/index.m3u8|user-agent=https://www.webofstories.com/scripts/jwplayer-8.4.2/provider.hlsjs.js
+
