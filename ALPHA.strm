@@ -1,2 +1,4 @@
 #EXTINF:0,Alpha 
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 http://213.7.193.54:4000/play/a00f/index.m3u8
