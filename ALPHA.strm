@@ -1,2 +1,2 @@
 #EXTINF:0,Alpha 
-http://213.7.193.54:4000/play/a00f/index.m3u8|user-agent=https://cdn.jsdelivr.net/npm/videojs-contrib-hls@5.15.0/dist/videojs-contrib-hls.min.js
+http://213.7.193.54:4000/play/a00f/index.m3u8|user-agent=https://www.webofstories.com/scripts/jwplayer-8.4.2/jwplayer.js
