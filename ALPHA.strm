@@ -1,2 +1,3 @@
 #EXTINF:0,Alpha 
-http://line.myunityhost.com:80/play/live.php?mac=00:1A:79:D8:CE:85&stream=307898&extension=ts&play_token=Lmr1YwAPKD:Alpha|user-agent=https://unpkg.com/cordova-plugin-exoplayer@2.5.4/www/exoplayer.js
+#KODIPROP:inputstream=inputstream.ffmpeg.direct
+http://norhrgr.top:8080/11172813637254/71730032914339/57260|user-agent=ExoPlayer
