@@ -1,2 +1,2 @@
 #EXTINF:0,Alpha 
-http://88.99.254.101/alphaHD/index.m3u8|user-agent=https://www.webofstories.com/scripts/jwplayer-8.4.2/jwplayer.js
+http://88.99.254.101:80/alphaHD/index.m3u8|user-agent=https://www.webofstories.com/scripts/jwplayer-8.4.2/jwplayer.js
