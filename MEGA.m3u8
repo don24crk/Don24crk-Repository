@@ -1,1 +1,4 @@
-http://line.myunityhost.com/play/live.php?mac=00:1A:79:D8:CE:85&stream=307882&extension=ts&play_token=0l6KUvp8Do|User-agent=https://www.webofstories.com/scripts/jwplayer-8.4.2/jwplayer.js
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:-1,MEGATV
+http://88.99.254.101/megaHD/index.m3u8
