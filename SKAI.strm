@@ -1,2 +1,3 @@
 #EXTINF:-0,SKAITV
-http://line.myunityhost.com/play/live.php?mac=00:1A:79:D8:CE:85&stream=307889&extension=ts&play_token=TsiGUg3Y9N:Skai
+#KODIPROP:inputstream=inputstream.ffmpeg.direct
+http://norhrgr.top:8080/11172813637254/71730032914339/4629|user-agent=ExoPlayer
