@@ -1,2 +1,6 @@
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.program_number=4757
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #EXTINF:0,STAR
-http://norhrgr.top:8080/11172813637254/71730032914339/4757|useragent=iptv_smarters_player_lite/1.0.5 VLC/3.1.2 LibVLC/3.1.2
+http://norhrgr.top:8080/11172813637254/71730032914339/4757
