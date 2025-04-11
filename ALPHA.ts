@@ -1,2 +1,0 @@
-#EXTINF:0,ALPHA
-http://norhrgr.top:8080/11172813637254/71730032914339/57260|useragent=iptv_smarters_player_lite/1.0.5 VLC/3.1.2 LibVLC/3.1.2
