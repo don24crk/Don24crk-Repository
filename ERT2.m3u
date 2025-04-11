@@ -1,6 +1,7 @@
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.program_number=4587
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#EXTM3U
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:0,ERT 2
 http://norhrgr.top:8080/11172813637254/71730032914339/4587
