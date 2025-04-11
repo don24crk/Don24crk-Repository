@@ -4,4 +4,4 @@
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
 #EXTINF:1,STAR
-http://line.myunityhost.com/play/live.php?mac=00:1A:79:D8:CE:85&stream=307893&extension=ts&play_token=4ZKKe2PVoO:STAR (#)
+https://livestar.siliconweb.com/media/star4/star4.m3u8
