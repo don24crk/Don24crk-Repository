@@ -1,7 +1,2 @@
-#EXTM3U
-#EXT-X-VERSION:6
-#EXT-X-MEDIA-SEQUENCE:1
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:http-reconnect=true
 #EXTINF:1,ALPHA
 https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/playlist.m3u8
