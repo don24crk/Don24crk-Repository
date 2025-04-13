@@ -29,7 +29,7 @@ name= STAR INTERNATIONAL url= "https://livestar.siliconweb.com/starvod/star_int/
 name= MEGA url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/MEGA.strm" logo= "https://i.imgur.com/HIcqDaY.png"
 name= MEGA BUP url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/MEGA.strm" logo= "https://i.imgur.com/HIcqDaY.png"
 name= OMEGA url= "http://l1.cloudskep.com/omegatv/omcy/playlist.m3u8|user-agent=Mozilla/5.0 (Android 15; Mobile; LG-M255; rv:136.0) Gecko/136.0 Firefox/136.0" logo= "https://i.imgur.com/Np7xLfk.png"
-name= SIGMA url= "http://l10.cloudskep.com/sigmatv/stv/playlist.m3u8|user-agent=Mozilla/5.0 (Android 15; Mobile; LG-M255; rv:136.0) Gecko/136.0 Firefox/136.0" logo= "https://i.imgur.com/lFjBmPF.png"
+name= SIGMA url= "https://sl2.sigmatv.com/hls/live.m3u8|user-agent=Mozilla/5.0 (Android 15; Mobile; LG-M255; rv:136.0) Gecko/136.0 Firefox/136.0" logo= "https://i.imgur.com/lFjBmPF.png"
 name= SMILE TV url= "https://s1.cystream.net/live/smile/playlist.m3u8|user-agent=Mozilla/5.0 (Android 15; Mobile; LG-M255; rv:136.0) Gecko/136.0 Firefox/136.0" logo= "https://i.imgur.com/8ZCpwfv.png"
 name= GalaxyGR url= "https://ssh101.bozztv.com/ssh101/galaxygr/playlist.m3u8|user-agent=Mozilla/5.0 (Android 15; Mobile; LG-M255; rv:136.0) Gecko/136.0 Firefox/136.0" logo= "https://i.imgur.com/kmrkryQ.png"
 name= DELTA TV url= "https://cdn5.smart-tv-data.com/local/liveD/playlist.m3u8" logo= "https://i.imgur.com/YiVVg6n.png"
