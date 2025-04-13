@@ -1,3 +1,5 @@
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #EXTINF:1,ERT 1
-#KODIPROP:inputstream=inputstream.adaptive
 http://norhrgr.top:8080/1071723124638173/935e0c1676f1/4586
