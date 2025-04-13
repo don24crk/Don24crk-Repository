@@ -1,3 +1,3 @@
 #EXTINF:1,STAR
-#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream=inputstream.ffmpeg.direct
 https://livestar.siliconweb.com/media/star4/star4.m3u8
