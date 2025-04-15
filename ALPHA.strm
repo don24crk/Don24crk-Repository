@@ -1,2 +1,2 @@
 #EXTINF:1,ALPHA
-http://line.myunityhost.com:80/play/live.php?mac=194.219.134.234:80&stream=307898&extension=ts&play_token=Lmr1YwAPKD|user-agent=https://app.unpkg.com/cordova-plugin-exoplayer@2.5.4/files/www/exoplayer.js
+http://line.myunityhost.com:80/play/live.php?mac=194.219.134.234:80&stream=307898&extension=ts&play_token=Lmr1YwAPKD|user-agent=https://vjs.zencdn.net/8.16.1/video.min.js
