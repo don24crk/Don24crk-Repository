@@ -1,2 +1,3 @@
 #EXTINF:1,ERT 3
-http://line.myunityhost.com/play/live.php?mac=00:1A:79:D8:CE:85&stream=307904&extension=ts&play_token=m3D50eqnCc|user-agent=83.212.82.176:3128
+https://s2.cystream.net/live/ert3/chunks.m3u8?nimblesessionid=19896057&wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDI1IDQ6NDY6MDEgUE0maGFzaF92YWx1ZT1MVDBUM1o3ZlN1M01OWUR1MmFDY2d3PT0mdmFsaWRtaW51dGVzPTIw|user-agent=https://pac.proxynova.com
+
