@@ -1,2 +1,2 @@
 #EXTINF:1,ERT 2
-xbmc.Player().play(https://anacon.org/app/chans/gr/ert2s2.php, li)
+https://s2.cystream.net/live/ert2/chunks.m3u8?nimblesessionid=20099254&wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDI1IDExOjUxOjA3IFBNJmhhc2hfdmFsdWU9TW1TYmpTVVFHamZma2lTK3JYb2NRUT09JnZhbGlkbWludXRlcz0yMA==
