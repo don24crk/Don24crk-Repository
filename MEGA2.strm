@@ -1,3 +1,3 @@
 #EXTINF:1,MEGA
-#KODIPROP:inputstream=inputstream.ffmpeg.direct
+#KODIPROP:inputstream=inputstream.adaptive
 http://line.myunityhost.com/play/live.php?mac=00:1A:79:D8:CE:85&stream=307882&extension=ts&play_token=0l6KUvp8Do|user-agent=//vjs.zencdn.net/8.21.0/video.min.js
