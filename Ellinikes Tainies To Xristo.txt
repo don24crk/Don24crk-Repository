@@ -1,1 +1,2 @@
-gfhf
+
+plugin://plugin.video.youtube/play/?video_id=B2eLJCbT9lc
