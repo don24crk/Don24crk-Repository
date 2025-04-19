@@ -24,7 +24,7 @@ name= Márkos Seferlís - Tróei Story 30 Chrónia tóra url= "plugin://plugin.v
 name= Márkos Seferlís - Tróei Story 30 Chrónia tóra part 2 url= "plugin://plugin.video.dailymotion_com/?url=x8svvno&mode=playVideo" logo= "https://i.ytimg.com/vi/f4NfRuls-AE/mqdefault.jpg"
 name= PA.SO.K mou Sorry (Márkos Seferlís - Théatro Peroké 2003/2004) url= "plugin://plugin.video.youtube/play/?video_id=5jiPu3y9mRw" logo= "https://markosseferlis.gr/wp-content/uploads/2024/05/Pasok-Mou-Sorry-Poster11.jpg"
 name= Peter Panic Seferlis Part1 url= "plugin://plugin.video.youtube/play/?video_id=CP14xdACS8g" logo= "https://www.ogdoo.gr/media/k2/items/cache/e96c5c3a7c7d097c1e271309ba841d4a_M.jpg"
-name= Peter Panic Seferlis 2025 Part2 url= "plugin://plugin.video.youtube/play/?video_id=90yNS46tD5A" logo= "https://www.ogdoo.gr/media/k2/items/cache/e96c5c3a7c7d097c1e271309ba841d4a_M.jpg"
+name= Peter Panic Seferlis Part2 url= "plugin://plugin.video.youtube/play/?video_id=90yNS46tD5A" logo= "https://www.ogdoo.gr/media/k2/items/cache/e96c5c3a7c7d097c1e271309ba841d4a_M.jpg"
 name= Black Friday kai 13 2025 márkos seferlís url= "plugin://plugin.video.dailymotion_com/?url=x8zx9e8&mode=playVideo" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrbPu5StewCoDr1fxwYIdZ8GPnvvommzfSQg&s"
 name= Black Friday kai 13 2025 márkos seferlís part 2 url= "plugin://plugin.video.dailymotion_com/?url=x8zx9ea&mode=playVideo" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrbPu5StewCoDr1fxwYIdZ8GPnvvommzfSQg&s"
 name= O Mágos Tou Roz (Márkos Seferlís - Delfinário 2010) seferlís url= "plugin://plugin.video.youtube/play/?video_id=O68aj7EVMkI" logo= "https://i.ytimg.com/vi/O68aj7EVMkI/hqdefault.jpg"
