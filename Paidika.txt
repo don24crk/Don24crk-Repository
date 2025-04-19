@@ -1,1 +1,9 @@
+name= TRECHATE PODARAKIA MOU (OZZY METAGL.) url= "plugin://plugin.video.youtube/play/?video_id=_ReS_NYl0pc" logo= "https://i.ytimg.com/vi/_ReS_NYl0pc/hqdefault.jpg" 
+name= Asterix & I MEGALI MACHI url= "plugin://plugin.video.youtube/play/?video_id=-c2m9tlQRkw" logo= "https://i.ibb.co/x3cm24p/image.jpg" 
+name= I KATASTROFI TIS TROIAS & OI PERIPETEIES TOU ODYSSEA url= "plugin://plugin.video.youtube/play/?video_id=tkihAfXcF-M" logo= "https://greek-movies.com/icon/movie/%CE%97%CE%BA%CE%B1%CF%84%CE%B1%CF%83%CF%84%CF%81%CE%BF%CF%86%CE%AE%CF%84%CE%B7%CF%82%CE%A4%CF%81%CE%BF%CE%AF%CE%B1%CF%82%CE%BA%CE%B1%CE%B9%CE%BF%CE%B9%CF%80%CE%B5%CF%81%CE%B9%CF%80%CE%AD%CF%84%CE%B5%CE%B9%CE%B5%CF%82%CF%84%CE%BF%CF%85%CE%9F%CE%B4%CF%85%CF%83%CF%83%CE%AD%CE%B12005.jpg"
+name= O Íroas tou Vythoú 2: I Palírroia - Metaglottisméni OLOKLIRI url= "plugin://plugin.video.youtube/play/?video_id=wHWJpADJzN4" logo= "https://i.ytimg.com/vi/wHWJpADJzN4/maxresdefault.jpg"
+name= EL SINT: O IPPOTIS kinoúmena schédia sta Elliniká url= "plugin://plugin.video.youtube/play/?video_id=nq0n03EpwYs" logo= "https://i.ytimg.com/vi/nq0n03EpwYs/mqdefault.jpg"
+name= To gatoxórki kinoúmena schédia tainíes disney pixar netflix url= "plugin://plugin.video.youtube/play/?video_id=_oY3Rn8zLGE" logo= "https://www.athinorama.gr/Content/ImagesDatabase/lmnts/events/cinema/10059509/Poster.jpg?w=250&h=300&mode=pad&bgcolor=191919"
+name= ΤΑΡΖΑΝ HD ΚΙΝΟΥΜΕΝΑ ΣΧΕΔΙΑ ΣΤΑ ΕΛΛΗΝΙΚΑ url= "plugin://plugin.video.youtube/play/?video_id=z6C0H4lXxtI" logo= "https://i.ytimg.com/vi/z6C0H4lXxtI/sddefault.jpg"
+
 
