@@ -5,5 +5,7 @@ name= HERCULES / Ηρακλής (Ολόκληρη η ταινία) url= "plugin:
 name= EL SINT: O IPPOTIS kinoúmena schédia sta Elliniká url= "plugin://plugin.video.youtube/play/?video_id=nq0n03EpwYs" logo= "https://i.ytimg.com/vi/nq0n03EpwYs/mqdefault.jpg"
 name= Astynómos Saḯnis - Sto Vóreio Pólo (1985 próti metaglóttisi ERT) url= "plugin://plugin.video.youtube/play/?video_id=cB7uoXEhp3A" logo= "https://i.ytimg.com/vi/cB7uoXEhp3A/mqdefault.jpg"
 name= ΤΑΡΖΑΝ HD ΚΙΝΟΥΜΕΝΑ ΣΧΕΔΙΑ ΣΤΑ ΕΛΛΗΝΙΚΑ url= "plugin://plugin.video.youtube/play/?video_id=z6C0H4lXxtI" logo= "https://i.ytimg.com/vi/z6C0H4lXxtI/sddefault.jpg"
+name= Asteríx stous indiánous url= "plugin://plugin.video.youtube/play/?video_id=56y355Z0I-o" logo= "https://comicstrip.gr/image/cache//catalog/product/o-asterix-kai-oi-indianoi-800x800.png"
+
 
 
