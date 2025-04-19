@@ -1,2 +1,2 @@
+name= JESUS (Greek) url= "plugin://plugin.video.youtube/play/?video_id=B2eLJCbT9lc" logo= "https://i.ytimg.com/vi/B2eLJCbT9lc/hqdefault.jpg" 
 
-plugin://plugin.video.youtube/play/?video_id=B2eLJCbT9lc
