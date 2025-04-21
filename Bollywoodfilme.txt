@@ -50,7 +50,7 @@ name= Krrish der Sternenheld url= "plugin://plugin.video.youtube/play/?video_id=
 name= Om Shanti Om url= "plugin://plugin.video.youtube/play/?video_id=0yBbnI90cmo" logo= "https://i.ytimg.com/vi/SsgKBwdtzbY/hqdefault.jpg"
 name= In guten wie in schweren Tagen url= "plugin://plugin.video.youtube/play/?video_id=0yBbnI90cmo" logo= "https://i.ytimg.com/vi/SsgKBwdtzbY/hqdefault.jpg"
 name= Duplicate - Doppelgänger url= "plugin://plugin.video.youtube/play/?video_id=0yBbnI90cmo" logo= "https://i.ytimg.com/vi/SsgKBwdtzbY/hqdefault.jpg"
-name= Sternenkind url= "plugin://plugin.video.youtube/play/?video_id=0yBbnI90cmo" logo= "https://i.ytimg.com/vi/SsgKBwdtzbY/hqdefault.jpg"
+name= Sternenkind url= "plugin://plugin.video.youtube/play/?video_id=G_ticVgQm70" logo= "https://i.ytimg.com/vi/SsgKBwdtzbY/hqdefault.jpg"
 name= PK | Andere Sterne, andere Sitten url= "plugin://plugin.video.youtube/play/?video_id=0yBbnI90cmo" logo= "https://i.ytimg.com/vi/SsgKBwdtzbY/hqdefault.jpg"
 name= Krrish 2 url= "plugin://plugin.video.youtube/play/?video_id=zNlLotDBxtQ" logo= "https://i.ytimg.com/vi/SsgKBwdtzbY/hqdefault.jpg"
 name= Krrish 3 url= "plugin://plugin.video.youtube/play/?video_id=O4HDJh_Gcsk" logo= "https://i.ytimg.com/vi/SsgKBwdtzbY/hqdefault.jpg"
