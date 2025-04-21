@@ -1,0 +1,3 @@
+#KODIPROP:inputstream.adaptive
+#KODIPROP.inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.c learkey|a1bc31ead58b48648fd67210e18f9941:73e807940 cd60193e1c0a8e7ee8ab5fe
