@@ -1,4 +1,4 @@
-name= Josh Making Of url= "https://archive.org/download/josh-making-of/Josh - Making of.mp4|user-agent=//domain.com/videojs/video.min.js" logo= "https://m.media-amazon.com/images/I/51YAC8JTDTL._AC_UF894,1000_QL80_.jpg"
+name= Josh Making Of url= "https://ia800308.us.archive.org/18/items/josh-making-of/Josh%20-%20Making%20of.mp4|user-agent=//domain.com/videojs/video.min.js" logo= "https://m.media-amazon.com/images/I/51YAC8JTDTL._AC_UF894,1000_QL80_.jpg"
 name= Booming Bombay - Dokumentation von NZZ Format url= "plugin://plugin.video.youtube/play/?video_id=0r1PFaIUGGs" logo= "https://i.ytimg.com/vi/0r1PFaIUGGs/mqdefault.jpg"
 name= Shahrukh Khan: Mein Leben url= "plugin://plugin.video.youtube/play/?video_id=szuF-J8nTs0" logo= "https://m.media-amazon.com/images/I/81mV2TYaCML._AC_UF894,1000_QL80_.jpg"
 name= Journal Interview | Shah Rukh Khan url= "plugin://plugin.video.youtube/play/?video_id=k4Dg_SN8qHg" logo= "https://i.ytimg.com/vi/J1s1yj4u9I4/hqdefault.jpg"
