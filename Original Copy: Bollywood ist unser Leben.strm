@@ -1,4 +1,6 @@
 #KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://delivery.vod-prd.s.joyn.de/v2/dash/CiQwMjYwN2RlZC0xNjU4LTQyMDMtODNjNC1iYzk0NGI0MmJkY2M.Cg1hX3BiZGpkdml0M3J1EAEYwAQiJDM5YTU4NTA5LWZjZjEtNGIxZC05ZWZiLTNhNTAyZTIzMWNlYg.mO7FOoM5HRilExBuvjKrL9jvb94KZ3nZT7Ea1G0xf18/a_pbdjdvit3ru/.mpd?filter=CiQzNjc5NWU3OS1lMTY2LTQ5M2UtYWMxMy1jNTI2ZGI0MWQxYWM.Cg1hX3BiZGpkdml0M3J1GMAEIAEoADAB.kFkOsNH9hUb_Q4-xwBSrgAeLYgSBD6VZHADLuBzku-c
 #KODIPROP:inputstream.adaptive.license_key
