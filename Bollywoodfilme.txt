@@ -1,7 +1,7 @@
 name= One 2 Ka 4 - Der Babysitter Cop url= "https://archive.org/download/one-2-ka-4/One%202%20Ka%204.mp4" logo= "https://m.media-amazon.com/images/I/618LJnaxubL._UF894,1000_QL80_.jpg"
 name= Happy New Year url= "https://archive.org/download/happy-new-year_202402/Happy%20New%20Year.mp4" logo= "https://image.tmdb.org/t/p/original/2t47Xm1YkYaICKybxbpa55KJvQr.jpg"
 name= Chalte Chalte - Wohin das Schicksal uns führt url= "https://archive.org/download/chalte-chalte_202402/Chalte%20Chalte.mp4" logo= "https://m.media-amazon.com/images/I/61EnsdfHFRL._AC_UF894,1000_QL80_.jpg"
-name= Main Hoon Na - Ich bin immer für dich da! url= "https://archive.org/download/main-hoon-na/Main Hoon Na.mkv" logo= "https://m.media-amazon.com/images/I/71ueqMQZ1NL._AC_UF894,1000_QL80_.jpg"
+name= Main Hoon Na - Ich bin immer für dich da! url= "https://archive.org/download/main-hoon-na/Main Hoon Na.mkv|user-agent=https://app.unpkg.com/cordova-plugin-exoplayer@2.5.4/files/www/exoplayer.js" logo= "https://m.media-amazon.com/images/I/71ueqMQZ1NL._AC_UF894,1000_QL80_.jpg"
 name= Don - Das Spiel beginnt url= "plugin://plugin.video.youtube/play/?video_id=22vaIklRmog" logo= "https://www.e-katastima.com/datafiles/2646.jpg"
 name= Don 2 - The King Is Back url= "plugin://plugin.video.dailymotion_com/?url=x8n5dwz&mode=playVideo" logo= "https://i.ytimg.com/vi/qhR5BhlAlXY/maxresdefault.jpg"
 name= Im Wendekreis der Liebe url= "https://pmd.netzkino-seite.netzkino.de/CLA_flat_NK/Wendekreis_der_Liebe.mp4|user-agent=VLC" logo= "https://greek-movies.com/icon/movie/tamtakosoilektronikosguftos.jpg"
