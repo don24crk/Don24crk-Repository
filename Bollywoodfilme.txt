@@ -54,6 +54,15 @@ name= Sternenkind url= "plugin://plugin.video.youtube/play/?video_id=0yBbnI90cmo
 name= PK | Andere Sterne, andere Sitten url= "plugin://plugin.video.youtube/play/?video_id=0yBbnI90cmo" logo= "https://i.ytimg.com/vi/SsgKBwdtzbY/hqdefault.jpg"
 name= Krrish 2 url= "plugin://plugin.video.youtube/play/?video_id=0yBbnI90cmo" logo= "https://i.ytimg.com/vi/SsgKBwdtzbY/hqdefault.jpg"
 name= Krrish 3 url= "plugin://plugin.video.youtube/play/?video_id=0yBbnI90cmo" logo= "https://i.ytimg.com/vi/SsgKBwdtzbY/hqdefault.jpg"
+name= Anjaam - Heute Liebe Morgen Rache url= "plugin://plugin.video.youtube/play/?video_id=0yBbnI90cmo" logo= "https://i.ytimg.com/vi/SsgKBwdtzbY/hqdefault.jpg"
+name= FAN url= "plugin://plugin.video.youtube/play/?video_id=0yBbnI90cmo" logo= "https://i.ytimg.com/vi/SsgKBwdtzbY/hqdefault.jpg"
+name= Raees url= "plugin://plugin.video.youtube/play/?video_id=0yBbnI90cmo" logo= "https://i.ytimg.com/vi/SsgKBwdtzbY/hqdefault.jpg"
+name= Jawan url= "plugin://plugin.video.youtube/play/?video_id=0yBbnI90cmo" logo= "https://i.ytimg.com/vi/SsgKBwdtzbY/hqdefault.jpg"
+name= Josh - Mein Herz gehört dir url= "plugin://plugin.video.youtube/play/?video_id=0yBbnI90cmo" logo= "https://i.ytimg.com/vi/SsgKBwdtzbY/hqdefault.jpg"
+name= Baazigar - Betrogene Liebe url= "plugin://plugin.video.youtube/play/?video_id=0yBbnI90cmo" logo= "https://i.ytimg.com/vi/SsgKBwdtzbY/hqdefault.jpg"
+name= Deewana - Im zeichen der liebe url= "plugin://plugin.video.youtube/play/?video_id=0yBbnI90cmo" logo= "https://i.ytimg.com/vi/SsgKBwdtzbY/hqdefault.jpg"
+
+
 
 
 
