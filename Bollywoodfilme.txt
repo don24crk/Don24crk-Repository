@@ -65,7 +65,7 @@ name= Ich Gehöre Dir, Meine Liebe url= "https://ia801302.us.archive.org/22/item
 name= Eine Reise Für Die Liebe url= "https://ia800604.us.archive.org/15/items/eine-reise-fur-die-liebe/Eine%20Reise%20f%C3%BCr%20die%20Liebe.ia.mp4" logo= "https://m.media-amazon.com/images/I/71tEB-CAjhL._AC_UF894,1000_QL80_.jpg"
 name= Dunki url= "https://ia804608.us.archive.org/8/items/dunki_202501/Dunki.ia.mp4" logo= "https://m.media-amazon.com/images/M/MV5BMThhZjM4M2UtYmE1NC00YTMzLTk3ZTAtNmQ1ZmI4YmRmZGE1XkEyXkFqcGc@._V1_.jpg"
 name= Koyla - Glut der Rache url= "https://ia601500.us.archive.org/24/items/glut-der-rache/Glut%20der%20Rache.ia.mp4" logo= "https://m.media-amazon.com/images/I/619IuF5ZcVL._AC_UF894,1000_QL80_.jpg"
-name= Dil Se - Vom Ganzen Herzen url= "plugin://plugin.video.youtube/play/?video_id=/embed/MqHtvccRbOg" logo= "https://m.media-amazon.com/images/I/61ZfKTpT0IL._AC_UF894,1000_QL80_.jpg"
+name= Dil Se - Vom Ganzen Herzen url= "plugin://plugin.video.youtube/play/?video_id=MqHtvccRbOg" logo= "https://m.media-amazon.com/images/I/61ZfKTpT0IL._AC_UF894,1000_QL80_.jpg"
 name= Devdas – Flamme Unserer Liebe url= "plugin://plugin.video.youtube/play/?video_id=LEzImzYidOI" logo= "https://images.justwatch.com/poster/313450413/s718/Devdas-Flamme-unserer-Liebe.jpg"
 
 
