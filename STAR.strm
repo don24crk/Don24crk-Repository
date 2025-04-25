@@ -1,2 +1,2 @@
 #EXTINF:1,STAR
-http://line.myunityhost.com:80/play/live.php?mac=00:1A:79:D8:CE:85&stream=307893&extension=ts&play_token=4ZKKe2PVoO|user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+http://line.myunityhost.com:80/play/live.php?mac=00:1A:79:D8:CE:85&stream=307893&extension=ts&play_token=4ZKKe2PVoO|user-agent=https://cdnjs.cloudflare.com/ajax/libs/shaka-player/4.12.6/shaka-player.compiled.min.js
