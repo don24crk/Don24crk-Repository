@@ -1,3 +1,2 @@
 #EXTINF:-1,ERT WORLD 
-#KODIPROP:inputstream=inputstream.ffmpeg.direct
-http://hbbtvapp.ert.gr/stream.php/v/vid_ertworld_mpeg.2ts
+http://hbbtvapp.ert.gr/stream.php/v/vid_ertworld_mpeg.2ts|user-agent=ExoPlayer
