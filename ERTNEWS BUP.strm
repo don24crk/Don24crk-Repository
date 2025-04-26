@@ -1,3 +1,2 @@
 #EXTINF:-1,ERTNEWS BUP
-#KODIPROP:inputstream=inputstream.ffmpeg.direct
-http://195.226.218.10:80/vid/ertnews/mpeg.2ts
+http://195.226.218.10:80/vid/ertnews/mpeg.2ts|user-agent=ExoPlayer
