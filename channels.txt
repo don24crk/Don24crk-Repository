@@ -7,7 +7,7 @@ name= ERT3 BUP url= "https://raw.githubusercontent.com/don24crk/Don24crk-Reposit
 name= ERTWORLD url= "http://cdn4.smart-tv-data.com/vid/ertworld/playlist.m3u8" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_World.png?raw=true"
 name= ERTWORLD BUP url= "http://hbbtv.ert.gr/stream.php/v/vid_ertworld_mpeg.2ts|user-agent=Mozilla/5.0 (Android 15; Mobile; LG-M255; rv:136.0" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_World.png?raw=true"
 name= ERTNEWS url= "http://cdn4.smart-tv-data.com/vid/ertnews/playlist.m3u8" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_NEWS.png?raw=true"
-name= ERTNEWS BUP url= "http://cdn4.smart-tv-data.com/vid/ertnews/playlist.m3u8" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_NEWS.png?raw=true"
+name= ERTNEWS BUP url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ERTNEWS%20BUP.strm" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_NEWS.png?raw=true"
 name= ERT KIDS url= "https://cdn3.smart-tv-data.com/vid/kidstv-hbbtv/playlist.m3u8|user-agent=Mozilla/5.0 (Android 15; Mobile; LG-M255; rv:136.0) Gecko/136.0 Firefox/136.0" logo= "https://i.imgur.com/RvrQSAs.png"
 name= ERT MUSIC url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ERTMUSIC.strm" logo= "https://i.imgur.com/Q4rTipR.png"
 name= ANT1 url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ANT12.strm" logo= "https://i.imgur.com/GTFFtOR.png"
