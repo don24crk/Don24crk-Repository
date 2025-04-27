@@ -1,2 +1,2 @@
 #EXTINF:1,ALPHASAT
-http://88.99.254.101/alphaHD/index.m3u8|user-agent=VLC
+http://88.99.254.101:80/alpha/index.m3u8|user-agent=VLC
