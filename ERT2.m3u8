@@ -1,0 +1,13 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:7
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:4.166667,
+https://s2.cystream.net/live/ert2/chunks.m3u8?nimblesessionid=20696257&wmsAuthSign=c2VydmVyX3RpbWU9NC8yOC8yMDI1IDEwOjI0OjQzIFBNJmhhc2hfdmFsdWU9c29Ma2dJMEFYbVl4V3E2Q2t1dWIzZz09JnZhbGlkbWludXRlcz0yMA
+#EXTINF:4.200000,
+https://s2.cystream.net/live/ert2/chunks.m3u8?nimblesessionid=20696257&wmsAuthSign=c2VydmVyX3RpbWU9NC8yOC8yMDI1IDEwOjI0OjQzIFBNJmhhc2hfdmFsdWU9c29Ma2dJMEFYbVl4V3E2Q2t1dWIzZz09JnZhbGlkbWludXRlcz0yMA
+#EXTINF:6.166667,
+https://s2.cystream.net/live/ert2/chunks.m3u8?nimblesessionid=20696257&wmsAuthSign=c2VydmVyX3RpbWU9NC8yOC8yMDI1IDEwOjI0OjQzIFBNJmhhc2hfdmFsdWU9c29Ma2dJMEFYbVl4V3E2Q2t1dWIzZz09JnZhbGlkbWludXRlcz0yMA
+#EXTINF:6.666667,
+https://s2.cystream.net/live/ert2/chunks.m3u8?nimblesessionid=20696257&wmsAuthSign=c2VydmVyX3RpbWU9NC8yOC8yMDI1IDEwOjI0OjQzIFBNJmhhc2hfdmFsdWU9c29Ma2dJMEFYbVl4V3E2Q2t1dWIzZz09JnZhbGlkbWludXRlcz0yMA
+#EXT-X-ENDLIST
