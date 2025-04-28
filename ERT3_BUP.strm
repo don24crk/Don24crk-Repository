@@ -1,2 +1,2 @@
 #EXTINF:1,ERT3
-http://88.99.254.101/ert3/index.m3u8|user-agent=93.174.121.131
+https://s2.cystream.net/live/ert3/chunks.m3u8?nimblesessionid=20674151&wmsAuthSign=c2VydmVyX3RpbWU9NC8yOC8yMDI1IDU6MzA6MzQgUE0maGFzaF92YWx1ZT1CdzQzenFkdS9QaDBQNHdCUjdLeUJnPT0mdmFsaWRtaW51dGVzPTIw|user-agent=93.174.121.131|referer=https://anacon.org|origin=https://anacon.org
