@@ -1,4 +1,4 @@
 #EXTM3U
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 15; Mobile; LG-M255; rv:138.0) Gecko/138.0 Firefox/138.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.7103.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https:anacon.org
 https://s2.cystream.net/live/alphagr/chunks.m3u8?nimblesessionid=20793787&wmsAuthSign=c2VydmVyX3RpbWU9NC8zMC8yMDI1IDY6MzA6MjggUE0maGFzaF92YWx1ZT1YUlp0R3hXRXdNa3BRck1UTVpDYUx3PT0mdmFsaWRtaW51dGVzPTIw
