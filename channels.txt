@@ -22,7 +22,7 @@ name= ALPHA TV BUP 2 url= "https://raw.githubusercontent.com/don24crk/Don24crk-R
 name= ALPHA TV BUP url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ALPHA.strm" logo= "https://i.imgur.com/0i4MUcc.png"
 name= OPEN TV url= "https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8" logo= "https://i.imgur.com/cshmF4s.png"
 name= OPEN TV BUP url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/OPEN.strm" logo= "https://i.imgur.com/cshmF4s.png"
-name= SKAI TV url= "https://stream3.anixe.net/live/skai/playlist.m3u8|user-agent=Mozilla/5.0 (Android 15; Mobile; LG-M255; rv:136.0" logo= "https://i.imgur.com/o2aft6Q.png"
+name= SKAI TV url= "https://s2.cystream.net/galanos/skai/chunks.m3u8?nimblesessionid=20832405&wmsAuthSign=c2VydmVyX3RpbWU9NC8zMC8yMDI1IDk6NTU6NDMgUE0maGFzaF92YWx1ZT0zZlNrdWpMci90dlVseEFYSXVNQ3JRPT0mdmFsaWRtaW51dGVzPTIw|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A138.0)%20Gecko%2F20100101%20Firefox%2F138.0&Referer=https%3A%2F%2Fanacon.org%2F" logo= "https://i.imgur.com/o2aft6Q.png"
 name= SKAI TV BUP url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/SKAI.strm" logo= "https://i.imgur.com/o2aft6Q.png"
 name= STAR TV url= "https://livestar.siliconweb.com/media/star4/star4.m3u8" logo= "https://i.imgur.com/AazwSEQ.png"
 name= STAR TV BUP url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/STAR.strm" logo= "https://i.imgur.com/AazwSEQ.png"
