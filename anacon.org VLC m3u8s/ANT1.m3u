@@ -1,4 +1,5 @@
-#EXTM3U
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+EXTM3U
+#EXTINF:1,ANT1
+#EXTVLCOPT:http-user-agent=https://vjs.zencdn.net/8.16.1/video.min.js
 #EXTVLCOPT:http-referrer=https:anacon.org
-https://s2.cystream.net/live/ant1gr/chunks.m3u8?nimblesessionid=20793700&wmsAuthSign=c2VydmVyX3RpbWU9NC8zMC8yMDI1IDY6Mjk6NDAgUE0maGFzaF92YWx1ZT0rbndQYjBMWmk3cU1xMnYzUzVkelJBPT0mdmFsaWRtaW51dGVzPTIw
+https://s2.cystream.net/live/ant1gr/chunks.m3u8?nimblesessionid=20911225&wmsAuthSign=c2VydmVyX3RpbWU9NS8yLzIwMjUgMjozNzo0MSBQTSZoYXNoX3ZhbHVlPWc5aWlqcjJtc3Q0NzdENWI4Y1lER1E9PSZ2YWxpZG1pbnV0ZXM9MjA=
