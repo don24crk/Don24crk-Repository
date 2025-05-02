@@ -1,4 +1,5 @@
 #EXTM3U
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.7103.60 Mobile Safari/537.36
+#EXTINF:1,ALPHA
+#EXTVLCOPT:http-user-agent=https://vjs.zencdn.net/8.16.1/video.min.js
 #EXTVLCOPT:http-referrer=https:anacon.org
-https://s2.cystream.net/live/alphagr/chunks.m3u8?nimblesessionid=20831116&wmsAuthSign=c2VydmVyX3RpbWU9NC8zMC8yMDI1IDk6MjY6MjkgUE0maGFzaF92YWx1ZT1RSTNXZmcrSkk4U3dHMzJFVnRtZjJRPT0mdmFsaWRtaW51dGVzPTIw
+https://s2.cystream.net/live/alphagr/chunks.m3u8?nimblesessionid=20911280&wmsAuthSign=c2VydmVyX3RpbWU9NS8yLzIwMjUgMjozOTowMSBQTSZoYXNoX3ZhbHVlPUpoTmlycXlHcFFzdHNZU1psQnRxNGc9PSZ2YWxpZG1pbnV0ZXM9MjA=
