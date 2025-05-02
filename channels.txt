@@ -42,7 +42,7 @@ name= CINEMA CLASSICS url= "https://tv.mediacp.eu:8081/cinemaclassics/index.m3u8
 name= IONIAN TV url= "https://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8|user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36" logo= "https://i.imgur.com/jFVVQW0.png"
 name= Pella TV url= "https://cdn5.smart-tv-data.com/local/pellatv_i/playlist.m3u8" logo= "https://i.imgur.com/9RXdElf.png"
 name= ELLAS WORLD url= "http://ellastv.gotdns.com:88/freetv/promo/index.m3u8" logo= "https://ellastvmax.com.au/wp-content/uploads/2022/05/ellastvpromo.png"
-name= ExtaCy url= "https://fr.crystalweb.net:1936/extacytv/extacytv/playlist.m3u8" logo= "https://i.ibb.co/bs7j4wR/extacy-tv-new-logo.png"
+name= ExtaCy url= "https://fr.crystalweb.net:1936/extacytvcinema/extacytvcinema/playlist.m3u8" logo= "https://i.ibb.co/bs7j4wR/extacy-tv-new-logo.png"
 name= ExtaCy Greeks url= "https://fr.crystalweb.net:1936/extacytvgreeks/extacytvgreeks/playlist.m3u8" logo= "https://i.ibb.co/gMBRJrJM/extacygr.png"
 name= VILLAGE WORLD url= "http://ellastv.gotdns.com:88/freetv/village-world/index.m3u8|user-agent=Mozilla/5.0 (Android 15; Mobile; LG-M255; rv:136.0) Gecko/136.0 Firefox/136.0" logo= "https://i.imgur.com/WftpxK2.png"
 name= MAD TV url= "http://ellastv.gotdns.com:88/freetv/madworldtv/index.m3u8" logo= "https://i.imgur.com/zoS5RWU.png"
