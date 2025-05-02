@@ -1,4 +1,4 @@
-EXTM3U
+#EXTM3U
 #EXTINF:1,ANT1
 #EXTVLCOPT:http-user-agent=https://vjs.zencdn.net/8.16.1/video.min.js
 #EXTVLCOPT:http-referrer=https:anacon.org
