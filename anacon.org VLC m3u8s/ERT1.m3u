@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:1,ERT1
 #EXTVLCOPT:http-user-agent=//vjs.zencdn.net/8.23.3/video.min.js
-#EXTVLCOPT:http-referrer=https:anacon.org
-#EXTVLCOPT:http-livestream=true
+#EXTVLCOPT:http-referrer=https:lakatamia.xyz
+#EXTVLCOPT:https-livestream=true
 https://s2.cystream.net/live/ert1/chunks.m3u8?nimblesessionid=20936754&wmsAuthSign=c2VydmVyX3RpbWU9NS8yLzIwMjUgODo0MjozNCBQTSZoYXNoX3ZhbHVlPUJRV0prUitlcVJIc0M3ZWVuUlZEaGc9PSZ2YWxpZG1pbnV0ZXM9MjA=
