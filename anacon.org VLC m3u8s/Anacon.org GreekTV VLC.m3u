@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="ALPHATV" tvg-id="anacon.org" group-title="GreekTV" tvg-logo="Logo",Name2
+https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/anacon.org%20VLC%20m3u8s/ALPHATV.m3u
+#EXTINF:-1 tvg-name="ANT1" tvg-id="anacon.org" group-title="GreekTV" tvg-logo="https://goo.gl/q5aDRg",ANT1
+https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/anacon.org%20VLC%20m3u8s/ANT1.m3u
+#EXTINF:-1 tvg-name="ERT1" tvg-id="anacon.org" group-title="GreekTV" tvg-logo="https://i.ibb.co/Y71vkKs/ERT1.jpg",ERT1
+https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/anacon.org%20VLC%20m3u8s/ERT1.m3u
+#EXTINF:-1 tvg-name="ERT2" tvg-id="anacon.org" group-title="GreekTV" tvg-logo="https://i.ibb.co/c6gWKyh/ERT2.jpg",ERT2
+https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/anacon.org%20VLC%20m3u8s/ERT2.m3u
+#EXTINF:-1 tvg-name="ERT3" tvg-id="anacon.org" group-title="GreekTV" tvg-logo="https://i.ibb.co/5YQmVqj/ERT3.jpg",ERT3
+https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/anacon.org%20VLC%20m3u8s/ERT3.m3u
+#EXTINF:-1 tvg-name="MEGATV" tvg-id="lakatamia.xyz" group-title="GreekTV" tvg-logo="https://i.ibb.co/f2rCKjh/mega.jpg",MEGATV
+https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/anacon.org%20VLC%20m3u8s/MEGATV.m3u
+#EXTINF:-1 tvg-name="SKAI" tvg-id="anacon.org" group-title="GreekTV" tvg-logo="https://i.ibb.co/2MdmBxK/skai.jpg",SKAI
+https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/anacon.org%20VLC%20m3u8s/SKAI.m3u
+#EXTINF:-1 tvg-name="STARTV" tvg-id="lakatamia.xyz" group-title="GreekTV" tvg-logo="https://i.ibb.co/7Gj7KTj/star.jpg",STARTV
+https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/anacon.org%20VLC%20m3u8s/STAR.m3u
+#EXTINF:-1 tvg-name="TVOPEN" tvg-id="anacon.org" group-title="GreekTV" tvg-logo="https://img.onesignal.com/t/aa4f01d5-1349-424d-9c50-6ccfcf20dd0d.png",TVOPEN
+https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/anacon.org%20VLC%20m3u8s/TVOPEN.m3u
