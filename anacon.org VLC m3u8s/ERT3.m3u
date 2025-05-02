@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF:1,ERT3
-#EXTVLCOPT:http-user-agent=https://vjs.zencdn.net/8.16.1/video.min.js
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0
 #EXTVLCOPT:http-referrer=https:anacon.org
 https://s2.cystream.net/live/ert3/chunks.m3u8?nimblesessionid=20911203&wmsAuthSign=c2VydmVyX3RpbWU9NS8yLzIwMjUgMjozNjo1MCBQTSZoYXNoX3ZhbHVlPXpWVGZCK2NRRnlqQjlrS1hnR3BFSmc9PSZ2YWxpZG1pbnV0ZXM9MjA=
