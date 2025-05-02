@@ -2,5 +2,5 @@
 #EXTINF:1,STARTV
 #EXTVLCOPT:http-user-agent=//vjs.zencdn.net/8.23.3/video.min.js
 #EXTVLCOPT:http-referrer=https:anacon.org
-#EXTVLCOPT:http-livestream=true
+#EXTVLCOPT:https-livestream=true
 https://s2.cystream.net/galanos/star/chunks.m3u8?nimblesessionid=20911382&wmsAuthSign=c2VydmVyX3RpbWU9NS8yLzIwMjUgMjo0MjoyOSBQTSZoYXNoX3ZhbHVlPVRMMUhLV1ZQbEJPaHdTMVdRaHhwTmc9PSZ2YWxpZG1pbnV0ZXM9MjA=
