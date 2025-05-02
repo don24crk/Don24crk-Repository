@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF:1,MEGATV
 #EXTVLCOPT:http-user-agent=https://vjs.zencdn.net/8.16.1/video.min.js
-#EXTVLCOPT:http-referrer=https:lakatamia.xyz
+#EXTVLCOPT:http-referrer=https:anacon.org
 https://s2.cystream.net/live/megagr/chunks.m3u8?nimblesessionid=20911318&wmsAuthSign=c2VydmVyX3RpbWU9NS8yLzIwMjUgMjo0MDoxNSBQTSZoYXNoX3ZhbHVlPTMwdVBrNWxUdkIrZTBYQ1hZOTRHTXc9PSZ2YWxpZG1pbnV0ZXM9MjA=
