@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:1,SKAI
-#EXTVLCOPT:http-user-agent=https://vjs.zencdn.net/8.16.1/video.min.js
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.7103.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https:anacon.org
 #EXTVLCOPT:http-livestream=true
 https://skai-live-drm.siliconweb.com/skaidrm/en2/playlist.m3u8
