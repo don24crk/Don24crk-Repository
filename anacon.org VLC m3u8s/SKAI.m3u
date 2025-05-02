@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:1,SKAI
-#EXTVLCOPT:http-user-agent=https://www.n-tv.de/resources/04065117/adaptive/js/main.min.js
+#EXTVLCOPT:http-user-agent=https://vjs.zencdn.net/8.16.1/video.min.js
 #EXTVLCOPT:http-referrer=https:anacon.org
 #EXTVLCOPT:http-livestream=true
 https://skai-live-drm.siliconweb.com/skaidrm/en2/playlist.m3u8
