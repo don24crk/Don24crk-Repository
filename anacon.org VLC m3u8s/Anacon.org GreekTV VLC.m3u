@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="ALPHATV" tvg-id="anacon.org" group-title="GreekTV" tvg-logo="Logo",Name2
+#EXTINF:-1 tvg-name="ALPHATV" tvg-id="anacon.org" group-title="GreekTV" tvg-logo="https://www.tornosnews.gr/en/files/Alpha_TV_Logo_100618079.png",ALPHATV
 https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/anacon.org%20VLC%20m3u8s/ALPHATV.m3u
 #EXTINF:-1 tvg-name="ANT1" tvg-id="anacon.org" group-title="GreekTV" tvg-logo="https://goo.gl/q5aDRg",ANT1
 https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/anacon.org%20VLC%20m3u8s/ANT1.m3u
