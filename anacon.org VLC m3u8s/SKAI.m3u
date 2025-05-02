@@ -3,4 +3,4 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.7103.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https:anacon.org
 #EXTVLCOPT:http-livestream=true
-https://skai-live-drm.siliconweb.com/skaidrm/en2/playlist.m3u8
+https://s2.cystream.net/galanos/skai/chunks.m3u8?nimblesessionid=20911347&wmsAuthSign=c2VydmVyX3RpbWU9NS8yLzIwMjUgMjo0MToyMiBQTSZoYXNoX3ZhbHVlPUsxZFkvTDgydXZtcFVlZDVkcUZBNlE9PSZ2YWxpZG1pbnV0ZXM9MjA=
