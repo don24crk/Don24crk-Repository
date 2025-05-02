@@ -2,5 +2,5 @@
 #EXTINF:1,TV OPEN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0
 #EXTVLCOPT:http-referrer=https:anacon.org
-#EXTVLCOPT:http-reconnect
+#EXTVLCOPT:http-livestream=true
 https://s2.cystream.net/galanos/open/chunks.m3u8?nimblesessionid=20915693&wmsAuthSign=c2VydmVyX3RpbWU9NS8yLzIwMjUgNDo0Mjo1MiBQTSZoYXNoX3ZhbHVlPTdqNDdYWElvZkRBU3p2YUxxVzdzYnc9PSZ2YWxpZG1pbnV0ZXM9MjA=
