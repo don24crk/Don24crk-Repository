@@ -1,6 +1,4 @@
 #EXTM3U
 #EXTINF:1,ERT2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.7103.60 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https:anacon.org
 #EXTVLCOPT:http-livestream=true
 https://s2.cystream.net/live/ert2/chunks.m3u8?nimblesessionid=20911164&wmsAuthSign=c2VydmVyX3RpbWU9NS8yLzIwMjUgMjozNTowMSBQTSZoYXNoX3ZhbHVlPWlqSFRjZVpNTUpqMzdMVkRueW5aOGc9PSZ2YWxpZG1pbnV0ZXM9MjA=
