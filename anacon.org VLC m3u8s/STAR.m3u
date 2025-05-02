@@ -1,5 +1,6 @@
 #EXTM3U
 #EXTINF:1,STARTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0
-#EXTVLCOPT:http-referrer=https:lakatamia.xyz
+#EXTVLCOPT:http-referrer=https:anacon.org
+#EXTVLCOPT:http-reconnect
 https://s2.cystream.net/galanos/star/chunks.m3u8?nimblesessionid=20911382&wmsAuthSign=c2VydmVyX3RpbWU9NS8yLzIwMjUgMjo0MjoyOSBQTSZoYXNoX3ZhbHVlPVRMMUhLV1ZQbEJPaHdTMVdRaHhwTmc9PSZ2YWxpZG1pbnV0ZXM9MjA=
