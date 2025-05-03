@@ -1,4 +1,5 @@
 #EXTM3U
 #EXTINF:1,MEGATV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; ASUS_Z01QD Build/PQ3B.190801.11191547)
+#EXTVLCOPT:http-referrer=https:anacon.org
 https://s2.cystream.net/live/megagr/chunks.m3u8?nimblesessionid=20970859&wmsAuthSign=c2VydmVyX3RpbWU9NS8zLzIwMjUgNDozMjo0MSBQTSZoYXNoX3ZhbHVlPWZMRGQ2KzNtd3ZqQWY5d3Y0K1VTQnc9PSZ2YWxpZG1pbnV0ZXM9MjA=
