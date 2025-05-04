@@ -1,2 +1,2 @@
 #EXTINF:1,SKAI
-udp://87.118.164.52:8888/udp/238.194.14.6:5501|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36|connection=keep-alive|livestream=true
+https://skai-live.siliconweb.com/media/cambria4/index.m3u8
