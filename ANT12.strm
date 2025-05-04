@@ -1,2 +1,3 @@
 #EXTINF:1,Ant1
-https://s2.cystream.net/live/ant1gr/chunks.m3u8?nimblesessionid=21033870&wmsAuthSign=c2VydmVyX3RpbWU9NS80LzIwMjUgNDo0MToyNSBQTSZoYXNoX3ZhbHVlPXByOFYzWGJzUFdJejRiQ05IVG1tOXc9PSZ2YWxpZG1pbnV0ZXM9MjA=|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36|connection=keep-alive|livestream=true
+#KODIPROP:inputstream=inputstream.adaptive
+https://mcdn.antennaplus.gr/live/media0/Ant1/HLS/Ant1.m3u8
