@@ -1,5 +1,0 @@
-#EXTM3U
-#EXTINF:1,ERT3
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; ASUS_Z01QD Build/PQ3B.190801.11191547)
-#EXTVLCOPT:http-referrer=https:anacon.org
-https://s2.cystream.net/live/ert3/chunks.m3u8?nimblesessionid=20970364&wmsAuthSign=c2VydmVyX3RpbWU9NS8zLzIwMjUgNDoyMjoyOCBQTSZoYXNoX3ZhbHVlPUQ5WnI0Y1hMZkQvdGNTcWhxQ3FjUEE9PSZ2YWxpZG1pbnV0ZXM9MjA=
