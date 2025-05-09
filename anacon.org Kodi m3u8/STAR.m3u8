@@ -1,0 +1,12 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:9
+#EXT-X-MEDIA-SEQUENCE:6786
+#EXTINF:7.08,
+https://s2.cystream.net/live/star/l_4849_50131160_6786.ts?nimblesessionid=21343227&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjUgMjo1Njo1MSBQTSZoYXNoX3ZhbHVlPWpxZk16dFo1b1lpR3FOK0lheXRreHc9PSZ2YWxpZG1pbnV0ZXM9MjA=
+#EXTINF:5.28,
+https://s2.cystream.net/live/star/l_4849_50138240_6787.ts?nimblesessionid=21343227&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjUgMjo1Njo1MSBQTSZoYXNoX3ZhbHVlPWpxZk16dFo1b1lpR3FOK0lheXRreHc9PSZ2YWxpZG1pbnV0ZXM9MjA=
+#EXTINF:5.2,
+https://s2.cystream.net/live/star/l_4849_50143520_6788.ts?nimblesessionid=21343227&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjUgMjo1Njo1MSBQTSZoYXNoX3ZhbHVlPWpxZk16dFo1b1lpR3FOK0lheXRreHc9PSZ2YWxpZG1pbnV0ZXM9MjA=
+#EXTINF:8.16,
+https://s2.cystream.net/live/star/l_4849_50148720_6789.ts?nimblesessionid=21343227&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjUgMjo1Njo1MSBQTSZoYXNoX3ZhbHVlPWpxZk16dFo1b1lpR3FOK0lheXRreHc9PSZ2YWxpZG1pbnV0ZXM9MjA=
