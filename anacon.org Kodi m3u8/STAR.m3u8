@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=718358,FRAME-RATE=25,RESOLUTION=640x360,CODECS="avc1.64001e,mp4a.40.2"
-https://s2.cystream.net/galanos/star/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjUgMzo1ODoxNyBQTSZoYXNoX3ZhbHVlPWdmMlBSVndFVzNqYTdrb0xtendMcUE9PSZ2YWxpZG1pbnV0ZXM9MjA=
+https://s2.cystream.net/galanos/star/chunks.m3u8?nimblesessionid=21348878&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjUgNDo1MjowMyBQTSZoYXNoX3ZhbHVlPXYxOTdOTjlTUlUyQXREUXBkY3p1amc9PSZ2YWxpZG1pbnV0ZXM9MjA=
