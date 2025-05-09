@@ -2,5 +2,5 @@
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=4694800,FRAME-RATE=25,RESOLUTION=1920x1080,CODECS="avc1.64001e,mp4a.40.2"
 #EXTINF:1,STAR
-http://line.myunityhost.com:80/play/live.php?mac=00:1A:79:D8:CE:85&stream=307893&extension=ts&play_token=4ZKKe2PVoO|user-agent=//vjs.zencdn.net/8.23.3/video.min.js
+http://line.myunityhost.com:80/play/live.php?mac=00:1A:79:1E:9F:6C&stream=1432020&extension=ts&play_token=4VMqJOtlje|user-agent=//vjs.zencdn.net/8.23.3/video.min.js
 
