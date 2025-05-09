@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1028012,RESOLUTION=1280x720,FRAME-RATE=25.000,CODECS="avc1.4d0029,mp4a.40.2"
-https://ucxipzwkyhms02.streamruby.net/hls2/04/00065/29mrzcfl5m04_h/index-v1-a1.m3u8?t=18l7hOUy0CAA3itLPtY-xPg0L_RtfjyIFmxMyg_rwTA&s=1746731581&e=28800&v=461267229&i=2003:e5:4733:8671&sp=0
+https://ucxipzwkyhms02.streamruby.net/hls2/04/00065/29mrzcfl5m04_h/index-v1-a1.m3u8?t=18l7hOUy0CAA3itLPtY-xPg0L_RtfjyIFmxMyg_rwTA&s=1746731581&e=28800&v=461267229&i=2003:e5:4733:8671&sp=0|proxy=62.103.66.18:3128
