@@ -1,5 +1,3 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=437936,FRAME-RATE=25,RESOLUTION=1920x1080,CODECS="avc1.64001e,mp4a.40.2"
 #EXTINF:1,MEGA
-http://line.myunityhost.com:80/play/live.php?mac=00:1A:79:EF:4B:3A&stream=1432026&extension=ts&play_token=DoQm1AtdBf
+http://line.myunityhost.com:80/play/live.php?mac=00:1A:79:EF:4B:3A&stream=1432026&extension=ts&play_token=DoQm1AtdBf|proxy=62.103.66.18:3128
+
