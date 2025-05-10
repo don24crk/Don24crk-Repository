@@ -1,4 +1,2 @@
 #EXTINF:1,STAR
-http://line.myunityhost.com:80/play/live.php?mac=00:1A:79:1E:9F:6C&stream=1432020&extension=ts&play_token=4VMqJOtlje|user-agent=//vjs.zencdn.net/8.23.3/video.min.js
-
-
+http://line.myunityhost.com:80/play/live.php?mac=00:1A:79:1E:9F:6C&stream=1432020&extension=ts&play_token=4VMqJOtlje|proxy=62.103.66.18:3128
