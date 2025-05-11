@@ -16,7 +16,3 @@ name= To Xýlo vgíke apó ton Parádeiso (1959) url= "https://raw.githubusercon
 name= Ypolochagós Natása (1970) url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/AlikiVougioklaki/Ypolochag%C3%B3s%20Nat%C3%A1sa%20(1970).m3u8|user-agent=VLC" logo= "https://greek-movies.com/icon/movie/%CE%A5%CF%80%CE%BF%CE%BB%CE%BF%CF%87%CE%B1%CE%B3%CE%BF%CF%82%CE%9D%CE%B1%CF%84%CE%B1%CF%83%CF%83%CE%B11970.jpg"
 name= S'agapó (1971) url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/AlikiVougioklaki/S'agap%C3%B3.m3u8|user-agent=VLC" logo= "https://greek-movies.com/icon/movie/%CE%A3%CE%91%CE%93%CE%91%CE%A0%CE%A91971.jpg"
 name= Mantaléna (1960) url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/AlikiVougioklaki/Mantal%C3%A9na.m3u8|user-agent=VLC" logo= "https://greek-movies.com/icon/movie/%CE%9C%CE%B1%CE%BD%CF%84%CE%B1%CE%BB%CE%AD%CE%BD%CE%B1.jpg"
-
-
-
-
