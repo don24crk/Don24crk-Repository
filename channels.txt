@@ -26,7 +26,7 @@ name= OPEN TV url= "https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVL
 name= OPEN TV BUP url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/OPEN.strm" logo= "https://i.imgur.com/cshmF4s.png"
 name= SKAI TV url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/SKAI_BUP.strm" logo= "https://i.imgur.com/o2aft6Q.png"
 name= SKAI TV BUP url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/SKAI.strm" logo= "https://i.imgur.com/o2aft6Q.png"
-name= STAR TV url= "https://s2.cystream.net/galanos/star/chunks.m3u8?nimblesessionid=21649563&wmsAuthSign=c2VydmVyX3RpbWU9NS8xNC8yMDI1IDM6Mjc6MDEgUE0maGFzaF92YWx1ZT1mSmpVblhPOW9EWVhhRlFMYzJwemtBPT0mdmFsaWRtaW51dGVzPTIw|User-Agent=Mozilla/5.0 (Android 15; Mobile; rv:138.0) Gecko/138.0 Firefox/138.0|referer=https://lakatamia.tv|origin=https://lakatamia.tv/|connection=keep-alive|proxy=83.212.82.116:3128" logo= "https://i.imgur.com/AazwSEQ.png"
+name= STAR TV url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/star3.strm" logo= "https://i.imgur.com/AazwSEQ.png"
 name= STAR TV BUP url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/star2.strm" logo= "https://i.imgur.com/AazwSEQ.png"
 name= STAR INTERNATIONAL url= "https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8" logo= "https://i.imgur.com/AazwSEQ.png"
 name= MEGA url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/MEGA.strm" logo= "https://i.imgur.com/HIcqDaY.png"
