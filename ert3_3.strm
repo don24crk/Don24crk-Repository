@@ -1,3 +1,2 @@
 #EXTINF:1,ERT3
-https://s2.cystream.net/live/ert3/chunks.m3u8?nimblesessionid=21707709&wmsAuthSign=c2VydmVyX3RpbWU9NS8xNS8yMDI1IDM6MjQ6MDEgUE0maGFzaF92YWx1ZT13YXVXblVxS293MVZiRmV2WWovSUdnPT0mdmFsaWRtaW51dGVzPTIw|referrer=https://lakatamia.tv/app/chans/gr/stargr.php|livestream=true|connection=true
-|User-Agent=Mozilla/5.0 (Android 15; Mobile; rv:138.0) Gecko/138.0 Firefox/138.0
+https://s2.cystream.net/live/ert3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNS8yMDI1IDM6MjQ6MDEgUE0maGFzaF92YWx1ZT13YXVXblVxS293MVZiRmV2WWovSUdnPT0mdmFsaWRtaW51dGVzPTIw|User-Agent=Mozilla/5.0 (Android 15; Mobile; rv:138.0) Gecko/138.0 Firefox/138.0|referrer=https://lakatamia.tv/app/chans/gr/stargr.php|livestream=true|connection=keep-alive
