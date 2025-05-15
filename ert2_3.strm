@@ -1,2 +1,3 @@
 #EXTINF:1,ERT2
-https://s2.cystream.net/live/ert2/chunks.m3u8?nimblesessionid=21673958&wmsAuthSign=c2VydmVyX3RpbWU9NS8xNC8yMDI1IDg6MjA6MzUgUE0maGFzaF92YWx1ZT1OVDI5UzhyTHZLQWVrMmxCQVhCeFhRPT0mdmFsaWRtaW51dGVzPTIw|User-Agent=Mozilla/5.0 (Android 15; Mobile; rv:138.0) Gecko/138.0 Firefox/138.0|referrer=https://anacon.org/app/chans/gr/ert2s2.php|livestream=true
+https://s2.cystream.net/live/ert2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNS8yMDI1IDM6MjU6MDQgUE0maGFzaF92YWx1ZT0yRlplWWZxM2ZhNGlXT0dyWVU2WDNnPT0mdmFsaWRtaW51dGVzPTIw|referrer=https://lakatamia.tv/app/chans/gr/stargr.php|livestream=true|connection=true
+|User-Agent=Mozilla/5.0 (Android 15; Mobile; rv:138.0) Gecko/138.0 Firefox/138.0
