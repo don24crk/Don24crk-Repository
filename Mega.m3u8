@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=560210,CODECS="avc1.64001e,mp4a.40.2",RESOLUTION=640x360
-https://s2.cystream.net/live/megagr/chunks.m3u8?nimblesessionid=21899700&wmsAuthSign=c2VydmVyX3RpbWU9NS8xNy8yMDI1IDM6NTM6NDMgUE0maGFzaF92YWx1ZT00MWordXRlUFgwZkZZSHJ3bDA5dTlBPT0mdmFsaWRtaW51dGVzPTIw
+https://s2.cystream.net/live/megagr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNy8yMDI1IDU6MTM6MzQgUE0maGFzaF92YWx1ZT1NcmkzR3Z0cWlab3RnVDEyQ3B5L0pRPT0mdmFsaWRtaW51dGVzPTIw
