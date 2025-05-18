@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=5952000,CODECS="avc1.64001e,mp4a.40.2",RESOLUTION=640x360
-http://line.myunityhost.com:80/play/live.php?mac=00:1A:79:2C:09:5B&stream=1432031&extension=ts&play_token=qoCjAVEcxU
+https://s2.cystream.net/live/ert3/chunks.m3u8?nimblesessionid=22067530&wmsAuthSign=c2VydmVyX3RpbWU9NS8xOC8yMDI1IDEyOjQ4OjAyIFBNJmhhc2hfdmFsdWU9ZG5zY0N6RXc1NVdrbUJnTlVhM0VDZz09JnZhbGlkbWludXRlcz0yMA==
