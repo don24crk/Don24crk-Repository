@@ -408,11 +408,11 @@ https://ellastvmax.better-than.tv/freetv/vertis/index.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/ehsQ316.png",SUPERSTAR TV
 https://eu1.streams.gr:8081/superstartv/index.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="Ant1 Drama" tvg-logo="https://i.imgur.com/5QDNhXo.png",ANT1 DRAMA
-https://mcdn.antennaplus.gr/live/media0/Drama/HLS/Drama.m3u8
+https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ANT1%20DRAMA.strm
 #EXTINF:-1 group-title="WEB TV" tvg-name="Ant1 Comedy" tvg-logo="https://i.imgur.com/V1byeFi.png",ANT1 COMEDY BUP
-https://mcdn.antennaplus.gr/live/media0/Comedy/HLS/Comedy.m3u8
+https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ANT1%20COMEDY.strm
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-name="Just Music" tvg-logo="https://i.imgur.com/hz41PMx.png",ANT1 JUST MUSIC
-https://mcdn.antennaplus.gr/live/media0/Just_Music/HLS/Just_Music.m3u8
+https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ANT1JUSTMUSIC.strm
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/2Irz733.png",F1 VIDEOS
 https://is.gd/rVSZEu?US600011Q2.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="Naftemporikitv" tvg-logo="https://i.imgur.com/ifKWsaY.png",NAFTEMPORIKΙ TV
