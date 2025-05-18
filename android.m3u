@@ -28,7 +28,7 @@ https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/alphatvlive/live_source
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="alpha" tvg-logo="https://i.imgur.com/0i4MUcc.png",ALPHA HD BUP
 https://alphatvlive2.siliconweb.com/alphatvlive/live_source/chunks.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="star" tvg-logo="https://i.imgur.com/AazwSEQ.png",STAR HD 
-https://livestar.siliconweb.com/media/star4/star4newhd.m3u8
+https://s2.cystream.net/galanos/star/chunks.m3u8?nimblesessionid=22082526&wmsAuthSign=c2VydmVyX3RpbWU9NS8xOC8yMDI1IDY6MTc6MDUgUE0maGFzaF92YWx1ZT12RlNQRE9TUmZrQWwxWnJWd3JUeDRnPT0mdmFsaWRtaW51dGVzPTIw|user-agent=Dalvik/2.1.0 (Linux; U; Android 9; ASUS_Z01QD Build/PQ3B.190801.11191547)|connection=keep-alive
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="star" tvg-logo="https://i.imgur.com/AazwSEQ.png",STAR HD BUP 
 https://s2.cystream.net/galanos/star/chunks.m3u8?nimblesessionid=22076636&wmsAuthSign=c2VydmVyX3RpbWU9NS8xOC8yMDI1IDQ6MzQ6MzEgUE0maGFzaF92YWx1ZT1Wa29vY2JsOHdGVEVtQVNDVnZwYyt3PT0mdmFsaWRtaW51dGVzPTIw|user-agent=Dalvik/2.1.0 (Linux; U; Android 9; ASUS_Z01QD Build/PQ3B.190801.11191547)|connection=keep-alive
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="skai" tvg-logo="https://i.imgur.com/o2aft6Q.png",SKAI HD 
