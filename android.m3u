@@ -4,11 +4,11 @@ http://cdn4.smart-tv-data.com/vid/ert1/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert1" tvg-logo="https://i.imgur.com/oh9E9sK.png",ERT1 HD BUP
 http://195.226.218.163/vid/ert1/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert2" tvg-logo="https://i.imgur.com/ndZMSTX.png",ERT2 HD
-https://s2.cystream.net/live/ert2/chunks.m3u8?nimblesessionid=22128389&wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDI1IDM6MDY6MzAgUE0maGFzaF92YWx1ZT1jdTdLR3ZkMCtyWlRrVWVvVWtONUVnPT0mdmFsaWRtaW51dGVzPTIw|user-agent=Dalvik/2.1.0 (Linux; U; Android 9; ASUS_Z01QD Build/PQ3B.190801.11191547)|connection=keep-alive|liveui=true
+https://s2.cystream.net/live/ert2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMC8yMDI1IDM6Mzk6MjAgUE0maGFzaF92YWx1ZT03Y0RRWDdicTlpcGM0bW15WWZFV2tRPT0mdmFsaWRtaW51dGVzPTIw|user-agent=Dalvik/2.1.0 (Linux; U; Android 9; ASUS_Z01QD Build/PQ3B.190801.11191547)|connection=keep-alive|liveui=true|proxy=194.219.134.234:80
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert2" tvg-logo="https://i.imgur.com/ndZMSTX.png",ERT2 HD BUP
 https://ertflix.akamaized.net/ertlive/ert2/clrdef24828z/ERT2-audio_104621_und=104400-video=5000000.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert3" tvg-logo="https://i.imgur.com/oKxPmQJ.png",ERT3 HD
-https://s2.cystream.net/live/ert3/chunks.m3u8?nimblesessionid=22128401&wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDI1IDM6MDc6MjQgUE0maGFzaF92YWx1ZT1OUzFjelpFUE52U1h5YjRlM1RwdUtnPT0mdmFsaWRtaW51dGVzPTIw|user-agent=Dalvik/2.1.0 (Linux; U; Android 9; ASUS_Z01QD Build/PQ3B.190801.11191547)|connection=keep-alive|liveui=true
+https://s2.cystream.net/live/ert3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMC8yMDI1IDM6NDA6MjIgUE0maGFzaF92YWx1ZT1jb1hjWXkyVDJRTUN1N2UwaS95WE5nPT0mdmFsaWRtaW51dGVzPTIw|user-agent=Dalvik/2.1.0 (Linux; U; Android 9; ASUS_Z01QD Build/PQ3B.190801.11191547)|connection=keep-alive|liveui=true|proxy=194.219.134.234:80
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert3" tvg-logo="https://i.imgur.com/oKxPmQJ.png",ERT3 HD BUP
 https://ertflix.akamaized.net/ertlive/ert3/clrdef24828n/ERT3-audio_104621_und=104400-video=5000000.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ertnews" tvg-logo="https://i.imgur.com/9fxyYWl.png",ERT NEWS
@@ -16,21 +16,23 @@ http://cdn4.smart-tv-data.com/vid/ertnews/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ertnews" tvg-logo="https://i.imgur.com/9fxyYWl.png",ERT NEWS BUP 2
 http://hbbtvapp.ert.gr/stream.php/v/vid_ertnews_mpeg.2ts
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="mega" tvg-logo="https://i.imgur.com/HIcqDaY.png",MEGA HD
-https://s2.cystream.net/live/megagr/chunks.m3u8?nimblesessionid=22128410&wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDI1IDM6MDg6MTAgUE0maGFzaF92YWx1ZT1HTVVUSzhuSlZFcThmb0lOZENmUTJBPT0mdmFsaWRtaW51dGVzPTIw|user-agent=Dalvik/2.1.0 (Linux; U; Android 9; ASUS_Z01QD Build/PQ3B.190801.11191547)|connection=keep-alive|liveui=true
+https://s2.cystream.net/live/megagr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMC8yMDI1IDM6MzY6MzYgUE0maGFzaF92YWx1ZT1aNEY4WTBGeTBBVGdKcmRmbDlvZHV3PT0mdmFsaWRtaW51dGVzPTIw|user-agent=Dalvik/2.1.0 (Linux; U; Android 9; ASUS_Z01QD Build/PQ3B.190801.11191547)|connection=keep-alive|liveui=true|proxy=194.219.134.234:80
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="mega" tvg-logo="https://i.imgur.com/HIcqDaY.png",MEGA HD BUP
-https://s2.cystream.net/live/megagr/chunks.m3u8?nimblesessionid=22128410&wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDI1IDM6MDg6MTAgUE0maGFzaF92YWx1ZT1HTVVUSzhuSlZFcThmb0lOZENmUTJBPT0mdmFsaWRtaW51dGVzPTIw|user-agent=Dalvik/2.1.0 (Linux; U; Android 9; ASUS_Z01QD Build/PQ3B.190801.11191547)|connection=keep-alive|liveui=true
+https://s2.cystream.net/live/megagr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMC8yMDI1IDM6MzY6MzYgUE0maGFzaF92YWx1ZT1aNEY4WTBGeTBBVGdKcmRmbDlvZHV3PT0mdmFsaWRtaW51dGVzPTIw|user-agent=Dalvik/2.1.0 (Linux; U; Android 9; ASUS_Z01QD Build/PQ3B.190801.11191547)|connection=keep-alive|liveui=true|proxy=194.219.134.234:80
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ant1" tvg-logo="https://i.imgur.com/GTFFtOR.png",ANT1 HD
 https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ANT1.strm
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ant1" tvg-logo="https://i.imgur.com/GTFFtOR.png",ANT1 HD BUP
-https://s2.cystream.net/live/ant1gr/chunks.m3u8?nimblesessionid=22128419&wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDI1IDM6MDg6NTcgUE0maGFzaF92YWx1ZT1aL1JMTVVTSEQvZzFBZlllQ3pDYi9BPT0mdmFsaWRtaW51dGVzPTIw|user-agent=Dalvik/2.1.0 (Linux; U; Android 9; ASUS_Z01QD Build/PQ3B.190801.11191547)|connection=keep-alive|liveui=true
+https://s2.cystream.net/live/ant1gr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMC8yMDI1IDM6NTA6MzIgUE0maGFzaF92YWx1ZT1aZlZxQ05CQWVNSWlreWljdmM2eUZ3PT0mdmFsaWRtaW51dGVzPTIw|user-agent=Dalvik/2.1.0 (Linux; U; Android 9; ASUS_Z01QD Build/PQ3B.190801.11191547)|connection=keep-alive|liveui=true|proxy=194.219.134.234:80
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ant1" tvg-logo="https://i.imgur.com/GTFFtOR.png",ANT1 HD
+https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ANT1.strm
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="alpha" tvg-logo="https://i.imgur.com/0i4MUcc.png",ALPHA HD
 https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/alphatvlive/live_source/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="alpha" tvg-logo="https://i.imgur.com/0i4MUcc.png",ALPHA HD BUP
 https://alphatvlive2.siliconweb.com/alphatvlive/live_source/chunks.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="star" tvg-logo="https://i.imgur.com/AazwSEQ.png",STAR HD 
-https://s2.cystream.net/galanos/star/chunks.m3u8?nimblesessionid=22128438&wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDI1IDM6MDk6MzggUE0maGFzaF92YWx1ZT1NSjh1bUFLdFdyc2xSaG1jZXpmYUhnPT0mdmFsaWRtaW51dGVzPTIw|user-agent=Dalvik/2.1.0 (Linux; U; Android 9; ASUS_Z01QD Build/PQ3B.190801.11191547)|connection=keep-alive|liveui=true
+https://s2.cystream.net/galanos/star/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMC8yMDI1IDM6Mzc6NTAgUE0maGFzaF92YWx1ZT00RjllTkYxeWhqZDU1V0NmTEVOUHl3PT0mdmFsaWRtaW51dGVzPTIw|user-agent=Dalvik/2.1.0 (Linux; U; Android 9; ASUS_Z01QD Build/PQ3B.190801.11191547)|connection=keep-alive|liveui=true|proxy=194.219.134.234:80
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="star" tvg-logo="https://i.imgur.com/AazwSEQ.png",STAR HD BUP 
-https://s2.cystream.net/galanos/star/chunks.m3u8?nimblesessionid=22128438&wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDI1IDM6MDk6MzggUE0maGFzaF92YWx1ZT1NSjh1bUFLdFdyc2xSaG1jZXpmYUhnPT0mdmFsaWRtaW51dGVzPTIw|user-agent=Dalvik/2.1.0 (Linux; U; Android 9; ASUS_Z01QD Build/PQ3B.190801.11191547)|connection=keep-alive|liveui=true
+https://s2.cystream.net/galanos/star/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMC8yMDI1IDM6Mzc6NTAgUE0maGFzaF92YWx1ZT00RjllTkYxeWhqZDU1V0NmTEVOUHl3PT0mdmFsaWRtaW51dGVzPTIw|user-agent=Dalvik/2.1.0 (Linux; U; Android 9; ASUS_Z01QD Build/PQ3B.190801.11191547)|connection=keep-alive|liveui=true|proxy=194.219.134.234:80
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="skai" tvg-logo="https://i.imgur.com/o2aft6Q.png",SKAI HD 
 https://skai-live.siliconweb.com/media/cambria4/index.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="skai" tvg-logo="https://i.imgur.com/o2aft6Q.png",SKAI HD BUP
