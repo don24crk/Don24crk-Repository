@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=599356,CODECS="avc1.64001e,mp4a.40.2",RESOLUTION=640x360
-https://s2.cystream.net/live/megagr/chunks.m3u8?nimblesessionid=22242344&wmsAuthSign=c2VydmVyX3RpbWU9NS8yMS8yMDI1IDg6MjA6MzUgUE0maGFzaF92YWx1ZT0yVDRralFkT2VjLzFRT2g0Z0xJajdnPT0mdmFsaWRtaW51dGVzPTIw
+#EXT-X-STREAM-INF:BANDWIDTH=1774056,CODECS="avc1.42c01f,mp4a.40.2",RESOLUTION=1280x720
+https://live20.bozztv.com/giatv/giatv-diavatatvonline/diavatatvonline/chunks.m3u8
