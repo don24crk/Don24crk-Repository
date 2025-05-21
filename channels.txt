@@ -51,5 +51,5 @@ name= ExtaCy url= "https://fr.crystalweb.net:1936/extacytvcinema/extacytvcinema/
 name= ExtaCy Greeks url= "https://fr.crystalweb.net:1936/extacytvgreeks/extacytvgreeks/playlist.m3u8" logo= "https://i.ibb.co/gMBRJrJM/extacygr.png"
 name= VILLAGE WORLD url= "https://ellastvmax.gotdns.com/freetv/village-world/index.m3u8" logo= "https://i.imgur.com/WftpxK2.png"
 name= MAD TV url= "https://ellastvmax.gotdns.com/freetv/madworldtv/index.m3u8" logo= "https://i.imgur.com/zoS5RWU.png"
-name= DIAVATA TV url= "https://live20.bozztv.com/giatv/giatv-diavatatvonline/diavatatvonline/playlist.m3u8|user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36" logo= "https://i.imgur.com/1DxMmHL.png"
+name= DIAVATA TV url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/diavatatv.m3u8|user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36" logo= "https://i.imgur.com/1DxMmHL.png"
 name= LAMPSI TV url= "https://livetv.streams.ovh:8081/lampsitv/index.m3u8" logo= "https://i.imgur.com/jUr8BZA.png"
