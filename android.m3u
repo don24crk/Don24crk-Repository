@@ -4,23 +4,23 @@ http://cdn4.smart-tv-data.com/vid/ert1/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert1" tvg-logo="https://i.imgur.com/oh9E9sK.png",ERT1 HD BUP
 http://195.226.218.163/vid/ert1/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert2" tvg-logo="https://i.imgur.com/ndZMSTX.png",ERT2 HD
-http://135.181.180.153:8976/Ert2/index.m3u8|user-agent=Dalvik/2.1.0 (Linux; U; Android 9; ASUS_Z01QD Build/PQ3B.190801.11191547)|proxy=194.219.134.234:80
+https://s2.cystream.net/live/ert2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMS8yMDI1IDY6NTY6NTYgUE0maGFzaF92YWx1ZT1uYlRsWDlhbGRSRDJ5Z05YOE9pQnVRPT0mdmFsaWRtaW51dGVzPTIw|user-agent=Dalvik/2.1.0 (Linux; U; Android 9; ASUS_Z01QD Build/PQ3B.190801.11191547)|proxy=194.219.134.234:80
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert2" tvg-logo="https://i.imgur.com/ndZMSTX.png",ERT2 HD BUP
 https://ertflix.akamaized.net/ertlive/ert2/clrdef24828z/ERT2-audio_104621_und=104400-video=5000000.m3u8|user-agent=Dalvik/2.1.0 (Linux; U; Android 9; ASUS_Z01QD Build/PQ3B.190801.11191547)|proxy=194.219.134.234:80
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert3" tvg-logo="https://i.imgur.com/oKxPmQJ.png",ERT3 HD
-http://88.99.254.101/ert3/index.m3u8|user-agent=Dalvik/2.1.0 (Linux; U; Android 9; ASUS_Z01QD Build/PQ3B.190801.11191547)|proxy=194.219.134.234:80
+https://s2.cystream.net/live/ert3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMS8yMDI1IDY6NTg6MDUgUE0maGFzaF92YWx1ZT13Z3RFTDFhSVZqNlIwbDk1YWFTbER3PT0mdmFsaWRtaW51dGVzPTIw|user-agent=Dalvik/2.1.0 (Linux; U; Android 9; ASUS_Z01QD Build/PQ3B.190801.11191547)|proxy=194.219.134.234:80
 https://ertflix.akamaized.net/ertlive/ert3/clrdef24828n/ERT3-audio_104621_und=104400-video=5000000.m3u8|user-agent=Dalvik/2.1.0 (Linux; U; Android 9; ASUS_Z01QD Build/PQ3B.190801.11191547)|proxy=194.219.134.234:80
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ertnews" tvg-logo="https://i.imgur.com/9fxyYWl.png",ERT NEWS
 http://cdn4.smart-tv-data.com/vid/ertnews/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ertnews" tvg-logo="https://i.imgur.com/9fxyYWl.png",ERT NEWS BUP 2
 http://hbbtvapp.ert.gr/stream.php/v/vid_ertnews_mpeg.2ts
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="mega" tvg-logo="https://i.imgur.com/HIcqDaY.png",MEGA HD
-http://88.99.254.101/megaHD/index.m3u8|user-agent=Dalvik/2.1.0 (Linux; U; Android 9; ASUS_Z01QD Build/PQ3B.190801.11191547)|proxy=194.219.134.234:80
+https://s2.cystream.net/live/megagr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMS8yMDI1IDY6NTg6MjMgUE0maGFzaF92YWx1ZT1iV0N0aUJkWkxGYWZBRG4vTDAzNlBBPT0mdmFsaWRtaW51dGVzPTIw|user-agent=Dalvik/2.1.0 (Linux; U; Android 9; ASUS_Z01QD Build/PQ3B.190801.11191547)|proxy=194.219.134.234:80
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="mega" tvg-logo="https://i.imgur.com/HIcqDaY.png",MEGA HD BUP
-http://88.99.254.101/megaHD/index.m3u8|user-agent=Dalvik/2.1.0 (Linux; U; Android 9; ASUS_Z01QD Build/PQ3B.190801.11191547)|proxy=194.219.134.234:80
+https://s2.cystream.net/live/megagr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMS8yMDI1IDY6NTg6MjMgUE0maGFzaF92YWx1ZT1iV0N0aUJkWkxGYWZBRG4vTDAzNlBBPT0mdmFsaWRtaW51dGVzPTIw|user-agent=Dalvik/2.1.0 (Linux; U; Android 9; ASUS_Z01QD Build/PQ3B.190801.11191547)|proxy=194.219.134.234:80
 https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ANT1.strm
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ant1" tvg-logo="https://i.imgur.com/GTFFtOR.png",ANT1 HD BUP
-http://213.7.193.54:4000/play/a001/index.m3u8|user-agent=Dalvik/2.1.0 (Linux; U; Android 9; ASUS_Z01QD Build/PQ3B.190801.11191547)|proxy=194.219.134.234:80
+https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ANT12.strm|user-agent=Dalvik/2.1.0 (Linux; U; Android 9; ASUS_Z01QD Build/PQ3B.190801.11191547)|proxy=194.219.134.234:80
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="alpha" tvg-logo="https://i.imgur.com/0i4MUcc.png",ALPHA HD 
 https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/alphatvlive/live_source/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="alpha" tvg-logo="https://i.imgur.com/0i4MUcc.png",ALPHA HD BUP
