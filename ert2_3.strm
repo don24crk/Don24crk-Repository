@@ -2,4 +2,4 @@
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-https://ertflix.akamaized.net/ertlive/ert2/clrdef24828z/playlist.m3u8
+https://s2.cystream.net/live/ert2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMi8yMDI1IDM6NDQ6NDAgUE0maGFzaF92YWx1ZT11QWtjUzY3clE3aUYzUVlrWUt2N2lRPT0mdmFsaWRtaW51dGVzPTIw
