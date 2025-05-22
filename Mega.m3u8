@@ -1,5 +1,4 @@
 #EXTM3U
-#EXT-X-VERSION:3
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/mega%20bup.m3u8
