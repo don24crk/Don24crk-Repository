@@ -1,4 +1,5 @@
 #EXTINF:1,ERT2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXT-X-STREAM-INF:BANDWIDTH=841918,FRAME-RATE=25,RESOLUTION=640x360,CODECS="avc1.64001e,mp4a.40.2"
 https://s2.cystream.net/live/ert2/chunks.m3u8?nimblesessionid=22273592&wmsAuthSign=c2VydmVyX3RpbWU9NS8yMi8yMDI1IDM6NDQ6NDAgUE0maGFzaF92YWx1ZT11QWtjUzY3clE3aUYzUVlrWUt2N2lRPT0mdmFsaWRtaW51dGVzPTIw
