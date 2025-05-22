@@ -3,4 +3,4 @@
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-udp://152.89.62.76:8880/29us12103n05/afdfr34r34/31188
+https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/test.m3u8
