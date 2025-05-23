@@ -33,6 +33,7 @@ name= Fame Zori (Márkos Seferlís - Théatro Athiná 2004/2005) url= "plugin://
 name= Fame Zori (Márkos Seferlís - Théatro Athiná 2004/2005) part 2 url= "plugin://plugin.video.dailymotion_com/?url=x30znwf&mode=playVideo" logo= "https://m.media-amazon.com/images/M/MV5BOGJiMTRlN2MtYzJlOS00ZTI5LWExNGUtNzIxMDNjM2UxNGM5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
 name= Apáta ton plisíon sou - Márkos Seferlís (Théatro Kaloutá 2000) url= "plugin://plugin.video.youtube/play/?video_id=BRs-aTnxuWo" logo= "https://i.ytimg.com/vi/BRs-aTnxuWo/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AGOBYAC4AOKAgwIABABGH8gSSgqMA8=&rs=AOn4CLCnVf8pV2QoSYKnAKprZYGhl1l_yg"
 name= Kai o Simítis thélei ...ton Germanó tou url= "plugin://plugin.video.youtube/play/?video_id=NIIigo2BUxY" logo= "https://markosseferlis.gr/wp-content/uploads/2024/02/Kai-O-Simitis-Thelei-Ton-Germano-Tou-Poster.jpeg"
+name= Markos Seferlis 2025 20 Chrónia Delfinário url= "plugin://plugin.video.youtube/play/?video_id=rxtWjxJATvI" logo= "https://i.ytimg.com/vi/aQ6QUkFvVXg/sddefault.jpg"
 name= ΧΑΛΒΑΗ 5-0 (2020) 720p HDTV url= "plugin://plugin.video.dailymotion_com/?url=x8mpynk&mode=playVideo" logo= "https://www.enternity.gr/files/Image/Movies-TV_Series/Xalvai_5_0/Xalvai_5_0_Review_Intro.jpg"
 
 
