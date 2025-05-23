@@ -30,7 +30,7 @@ https://alphatvlive2.siliconweb.com/alphatvlive/live_source/chunks.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="star" tvg-logo="https://i.imgur.com/AazwSEQ.png",STAR HD 
 http://livestar.siliconweb.com/starvod/star4/star4.m3u8|user-agent=Dalvik/2.1.0 (Linux; U; Android 9; ASUS_Z01QD Build/PQ3B.190801.11191547)|proxy=194.219.134.234:80
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="star" tvg-logo="https://i.imgur.com/AazwSEQ.png",STAR HD BUP 
-http://livestar.siliconweb.com/starvod/star4/star4.m3u8|user-agent=Dalvik/2.1.0 (Linux; U; Android 9; ASUS_Z01QD Build/PQ3B.190801.11191547)|proxy=194.219.134.234:80
+https://s2.cystream.net/galanos/star/chunks.m3u8?nimblesessionid=22341377&wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDI1IDI6NTQ6NTkgUE0maGFzaF92YWx1ZT0yU1VqUmJWeEtIRE9jOFhWSGVPaldnPT0mdmFsaWRtaW51dGVzPTIw|user-agent=https://vjs.zencdn.net/8.23.3/video.min.js|origin=https://lakatamia.tv/app/chans/gr/stargr.php|referer=https://lakatamia.tv/app/chans/gr/stargr.php
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="skai" tvg-logo="https://i.imgur.com/o2aft6Q.png",SKAI HD 
 https://skai-live.siliconweb.com/media/cambria4/index.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="skai" tvg-logo="https://i.imgur.com/o2aft6Q.png",SKAI HD BUP
