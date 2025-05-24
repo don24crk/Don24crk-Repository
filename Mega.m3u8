@@ -1,3 +1,0 @@
-#EXTM3U
-#EXT-X-STREAM-INF:BANDWIDTH=5952000,CODECS="mp4a.40.5,avc1.640029",RESOLUTION=1920x1080
-https://embed.vindral.com/?core.channelId=alteregomedia_megatv1_ci_6cc490c7-e5c6-486b-acf0-9bb9c20fa670&core.minBufferTime=2000&player.aspectRatio=16:9.m3u8|user-agent=ExoPlayer
