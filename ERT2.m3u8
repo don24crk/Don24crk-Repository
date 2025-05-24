@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTVLCOPT:User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.7103.126 Mobile Safari/537.36
+#EXTINF:1,ERT2
+http://line.myunityhost.com:80/play/live.php?mac=00:1A:79:4F:63:36&stream=307906&extension=ts&play_token=QVkQ2rerTo
