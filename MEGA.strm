@@ -1,6 +1,4 @@
 #EXTINF:1,MEGA
-#KODIPROP:inputstream.ffmpeg.direct.manifest_type=hls
-#KODIPROP:inputstream=inputstream.ffmpeg.direct
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 https://skai-live-drm.siliconweb.com/skaidrm/en2/playlist.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0&Referer=https://anacon.org/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0|proxy=194.219.134.234:80
