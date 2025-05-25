@@ -1,3 +1,3 @@
 #EXTM3U
 #EXTINF:1,ERT3
-https://ertflix.akamaized.net/ertlive/ert3/clrdef24828n/ERT3-audio_104621_und=104400-video=5000000.m3u8|user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.7103.126 Mobile Safari/537.36
+http://line.myunityhost.com:80/play/live.php?mac=00:1A:79:C1:3A:A9&stream=1432030&extension=ts&play_token=HyUxAzovUx
