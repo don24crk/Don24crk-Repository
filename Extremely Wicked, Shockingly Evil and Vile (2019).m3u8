@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1,Extremely Wicked, Shockingly Evil and Vile (2019)
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=1773666,CODECS="avc1.640028,mp4a.40.2",RESOLUTION=1920x808
+#EXT-X-STREAM-INF:BANDWIDTH=2101560,CODECS="avc1.640028,mp4a.40.2",RESOLUTION=1920x808
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
