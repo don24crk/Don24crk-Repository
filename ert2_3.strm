@@ -1,5 +1,2 @@
 #EXTINF:1,ERT2
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXT-X-STREAM-INF:BANDWIDTH=841918,FRAME-RATE=25,RESOLUTION=640x360,CODECS="avc1.64001e,mp4a.40.2"
-https://s2.cystream.net/live/ert2/chunks.m3u8?nimblesessionid=22275124&wmsAuthSign=c2VydmVyX3RpbWU9NS8yMi8yMDI1IDM6NTc6MTEgUE0maGFzaF92YWx1ZT1pdWtpOHFmcTZ3N1gwZDVmeTFzZ1ZRPT0mdmFsaWRtaW51dGVzPTIw
+https://s2.cystream.net/live/ert2/chunks.m3u8?nimblesessionid=22540398&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNy8yMDI1IDU6MTk6MTggUE0maGFzaF92YWx1ZT1INzRsWnVrLzBTbFEvZEdJWi9qb0ZRPT0mdmFsaWRtaW51dGVzPTIw|user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.7103.126 Mobile Safari/537.36|origin=https://anacon.org/app/chans/gr/ert2s2.php|referer=https://anacon.org/app/chans/gr/ert2s2.php|connection=keep-alive
