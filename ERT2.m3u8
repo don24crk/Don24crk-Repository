@@ -1,3 +1,4 @@
 #EXTM3U
-#EXTINF:1,ERT3
-http://line.myunityhost.com:80/play/live.php?mac=00:1A:79:C1:3A:A9&stream=1432030&extension=ts&play_token=HyUxAzovUx
+#EXTINF:-1,ERT2
+#EXTVLCOPT:http-user-agent=avc1.64001e,mp4a.40.2
+https://s2.cystream.net/live/ert2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xLzIwMjUgMjoxNjowNSBQTSZoYXNoX3ZhbHVlPWRKcHBSVmFCY2paRXp2MlZJLzJFcnc9PSZ2YWxpZG1pbnV0ZXM9MjA=
