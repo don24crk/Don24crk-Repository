@@ -1,3 +1,3 @@
 #EXTINF:-1,ERT3
-#EXTVLCOPT:http-user-agent=avc1.64001e,mp4a.40.2
-https://s2.cystream.net/live/ert3/chunks.m3u8?nimblesessionid=22832374&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xLzIwMjUgMjozMzoxOCBQTSZoYXNoX3ZhbHVlPUQ2TGxmSy9RTGtQMTdIb2IzWTRYNnc9PSZ2YWxpZG1pbnV0ZXM9MjA=
+https://s2.cystream.net/live/ert3/chunks.m3u8?nimblesessionid=22832374&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xLzIwMjUgMjozMzoxOCBQTSZoYXNoX3ZhbHVlPUQ2TGxmSy9RTGtQMTdIb2IzWTRYNnc9PSZ2YWxpZG1pbnV0ZXM9MjA=|user-agent=avc1.64001e,mp4a.40.2
+
