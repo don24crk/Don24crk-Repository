@@ -1,2 +1,4 @@
-#EXTINF:1,ERT 2
-https://s2.cystream.net/live/ert2/chunks.m3u8?nimblesessionid=22589743&wmsAuthSign=c2VydmVyX3RpbWU9NS8yOC8yMDI1IDU6NDI6NTMgUE0maGFzaF92YWx1ZT0rTlhnNHhjK1pKdDkxUzhjS21IZSt3PT0mdmFsaWRtaW51dGVzPTIw|user-agent=Dalvik/2.1.0 (Linux; U; Android 9; ASUS_Z01QD Build/PQ3B.190801.11191547)|proxy=194.219.134.234
+#EXTM3U
+#EXTINF:-1,ERT2
+#EXTVLCOPT:http-user-agent=avc1.64001e,mp4a.40.2
+https://s2.cystream.net/live/ert2/chunks.m3u8?nimblesessionid=22832354&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xLzIwMjUgMjozMjozOSBQTSZoYXNoX3ZhbHVlPUZld0RnNFdjTysxK3NrbXdGQVZDcHc9PSZ2YWxpZG1pbnV0ZXM9MjA=
