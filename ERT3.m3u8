@@ -1,5 +1,4 @@
 #EXTM3U
 #EXTINF:-1,ERT3
 #EXTVLCOPT:http-user-agent=avc1.4d401f,mp4a.40.2
-#EXTINF:-1,ERT3
 http://cdn4.smart-tv-data.com/vid/ertworld/chunks.m3u8
