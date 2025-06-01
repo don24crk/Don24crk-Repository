@@ -1,3 +1,4 @@
 #EXTM3U
-#EXTINF:1,MEGA
-https://s2.cystream.net/live/ert2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yNS8yMDI1IDEyOjAzOjMzIEFNJmhhc2hfdmFsdWU9V2MrSWdjeHQrVTI2OUNqQVo2dDhldz09JnZhbGlkbWludXRlcz0yMA==|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A138.0)%20Gecko%2F20100101%20Firefox%2F138.0&Referer=https%3A%2F%2Fanacon.org%2F|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A138.0)%20Gecko%2F20100101%20Firefox%2F138.0&Origin=https%3A%2F%2Flakatamia.tv%2F
+#EXTINF:-1,MEGA
+#EXTVLCOPT:http-user-agent=avc1.64001e,mp4a.40.2
+https://s2.cystream.net/live/megagr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xLzIwMjUgMjowNzo0OCBQTSZoYXNoX3ZhbHVlPTQzRFAxVlNBT0k2QWdzMmZ4eXRTbXc9PSZ2YWxpZG1pbnV0ZXM9MjA=
