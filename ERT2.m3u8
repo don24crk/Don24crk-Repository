@@ -1,4 +1,4 @@
 #EXTM3U
-#EXTINF:-1,ERT2
+#EXTINF:-0,ERT2
 #EXTVLCOPT:http-user-agent=93.174.121.75
 https://s2.cystream.net/live/ert2/chunks.m3u8?nimblesessionid=22957158&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yLzIwMjUgMzozMjozOCBQTSZoYXNoX3ZhbHVlPXpQamdyVVQyb0czSE0rSU5nTnJiVFE9PSZ2YWxpZG1pbnV0ZXM9MjA=
