@@ -1,4 +1,4 @@
 #EXTM3U
 #EXTINF:-1,ERT3
 #EXTVLCOPT:http-user-agent=93.174.121.75
-https://s2.cystream.net/live/ert3/chunks.m3u8?nimblesessionid=22957293&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yLzIwMjUgMzozNjo1NiBQTSZoYXNoX3ZhbHVlPStvdW0wSGtHZEYzRWorU0ViTHJrWHc9PSZ2YWxpZG1pbnV0ZXM9MjA=
+http://line.myunityhost.com:80/play/live.php?mac=00:1A:79:2A:8E:19&stream=1432030&extension=ts&play_token=D32WwSfvUe
