@@ -1,2 +1,2 @@
-#EXTINF:1,ERT 1
+#EXTINF:1,ERT 1 url-tvg="https://ext.greektv.app/epg/epg.xml.gz"
 http://195.226.218.163/vid/ert1/playlist.m3u8
