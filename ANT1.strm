@@ -1,4 +1,4 @@
-#EXTINF:1,Ant1
+#EXTINF:1,Ant1 url-tvg="https://ext.greektv.app/epg/epg.xml.gz"
 #KODIPROP:inputstream=inputstream.adaptive
 https://mcdn.antennaplus.gr/live/media0/Ant1/HLS/Ant1.m3u8
 
