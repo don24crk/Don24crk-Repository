@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1,ERT2
+#EXTINF:-1,ERT2 url-tvg="https://ext.greektv.app/epg/epg.xml.gz"
 https://s2.cystream.net/live/ert2/chunks.m3u8?nimblesessionid=22957158&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yLzIwMjUgMzozMjozOCBQTSZoYXNoX3ZhbHVlPXpQamdyVVQyb0czSE0rSU5nTnJiVFE9PSZ2YWxpZG1pbnV0ZXM9MjA=|user-agent=93.174.121.75
