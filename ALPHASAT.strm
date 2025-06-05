@@ -1,2 +1,2 @@
-#EXTINF:1,ALPHASAT url-tvg="https://ext.greektv.app/epg/epg.xml.gz"
-http://line.myunityhost.com:80/play/live.php?mac=00:1A:79:C1:4F:70&stream=942248&extension=ts&play_token=9wHePfWZH5|proxy=62.103.66.18:3128
+#EXTINF:1,ALPHASAT 
+http://line.myunityhost.com:80/play/live.php?mac=00:1A:79:C1:4F:70&stream=942248&extension=ts&play_token=9wHePfWZH5|proxy=62.103.66.18:3128 url-tvg="https://ext.greektv.app/epg/epg.xml.gz"
