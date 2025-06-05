@@ -1,2 +1,2 @@
-#EXTINF:1,Ant1
+#EXTINF:1,Ant1 url-tvg="https://ext.greektv.app/epg/epg.xml.gz"
 http://line.myunityhost.com:80/play/live.php?mac=00:1A:79:C1:3A:A9&stream=1432024&extension=ts&play_token=x7fMkzpYjT
