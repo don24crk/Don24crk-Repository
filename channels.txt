@@ -1,4 +1,4 @@
-url-tvg="https://ext.greektv.app/epg/epg.xml.gz"
+#EXTTXT url-tvg="https://ext.greektv.app/epg/epg.xml.gz"
 name= ERT1 url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ERT1_2.strm" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_1.png?raw=true"
 name= ERT2 url= "http://line.myunityhost.com:80/play/live.php?mac=00:1A:79:2A:8E:19&stream=1432032&extension=ts&play_token=CA1SGpNbB8|user-agent=93.174.121.75" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_2.png?raw=true"
 name= ERT3 url= "http://line.myunityhost.com:80/play/live.php?mac=00:1A:79:2A:8E:19&stream=1432030&extension=ts&play_token=D32WwSfvUe|user-agent=93.174.121.75" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_3.png?raw=true"
