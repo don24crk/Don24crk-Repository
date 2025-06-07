@@ -2,5 +2,5 @@
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_mode=timeshift
-#KODIPROP:inputstream.adaptive.is_realtime_stream=true
+#KODIPROP:inputstream.adaptive.is_realtime_stream=false
 https://s2.cystream.net/galanos/star/chunks.m3u8?nimblesessionid=23341930&wmsAuthSign=c2VydmVyX3RpbWU9Ni83LzIwMjUgNjowNTo0OSBQTSZoYXNoX3ZhbHVlPTNFeXp4YUZpRk9ubExlbXp4aGplS3c9PSZ2YWxpZG1pbnV0ZXM9MjA=|user-agent=Mozilla/5.0 (Android 15; Mobile; rv:68.0) Gecko/68.0 Firefox/139.0|proxy=93.174.121.75:80
