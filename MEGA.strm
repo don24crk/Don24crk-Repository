@@ -1,2 +1,6 @@
 #EXTINF:-1,MEGA 
-https://cdn.nclr.eu/hls/MegaSD_src.m3u8|user-agent=93.174.121.75 url-tvg="https://ext.greektv.app/epg/epg.xml.gz"
+#KODIPROP:inputstream=inputstream.adaptive
+inputstream.adaptive.manifest_type=m3u8
+MimeType=application/vnd.apple.mpegurl
+#KODIPROP:inputstream.adaptive.is_realtime_stream=false
+https://s2.cystream.net/live/megagr/chunks.m3u8?nimblesessionid=23333821&wmsAuthSign=c2VydmVyX3RpbWU9Ni83LzIwMjUgMjo1MjoxNyBQTSZoYXNoX3ZhbHVlPXpPbUUxemRQdkZjSEhZSUtNZVlBL3c9PSZ2YWxpZG1pbnV0ZXM9MjA=
