@@ -1,5 +1,5 @@
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=false
 #EXTINF:-1,MEGA 
 https://s2.cystream.net/live/megagr/chunks.m3u8?nimblesessionid=23333821&wmsAuthSign=c2VydmVyX3RpbWU9Ni83LzIwMjUgMjo1MjoxNyBQTSZoYXNoX3ZhbHVlPXpPbUUxemRQdkZjSEhZSUtNZVlBL3c9PSZ2YWxpZG1pbnV0ZXM9MjA=
