@@ -1,6 +1,6 @@
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=false
 #EXTINF:-1,MEGA 
 https://s2.cystream.net/live/megagr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni83LzIwMjUgMjo1MjoxNyBQTSZoYXNoX3ZhbHVlPXpPbUUxemRQdkZjSEhZSUtNZVlBL3c9PSZ2YWxpZG1pbnV0ZXM9MjA=|user-agent=Mozilla/5.0 (Android 15; Mobile; rv:68.0) Gecko/68.0 Firefox/139.0|proxy=93.174.121.75:80
