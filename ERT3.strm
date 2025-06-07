@@ -1,2 +1,6 @@
 #EXTINF:-1,ERT3 
-https://s2.cystream.net/live/ert3/chunks.m3u8?nimblesessionid=22957293&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yLzIwMjUgMzozNjo1NiBQTSZoYXNoX3ZhbHVlPStvdW0wSGtHZEYzRWorU0ViTHJrWHc9PSZ2YWxpZG1pbnV0ZXM9MjA=|user-agent=93.174.121.75 url-tvg="https://ext.greektv.app/epg/epg.xml.gz"
+#KODIPROP:inputstream=inputstream.adaptive
+inputstream.adaptive.manifest_type=m3u8
+MimeType=application/vnd.apple.mpegurl
+#KODIPROP:inputstream.adaptive.is_realtime_stream=false
+https://s2.cystream.net/live/ert3/chunks.m3u8?nimblesessionid=23333677&wmsAuthSign=c2VydmVyX3RpbWU9Ni83LzIwMjUgMjo0ODowNCBQTSZoYXNoX3ZhbHVlPXNDaFJvSUkwa1Q5UlFVSllIanh3blE9PSZ2YWxpZG1pbnV0ZXM9MjA=
