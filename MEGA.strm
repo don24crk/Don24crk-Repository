@@ -1,4 +1,5 @@
 #KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #EXTINF:-1,MEGA 
