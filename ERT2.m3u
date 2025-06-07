@@ -1,4 +1,3 @@
-#EXTM3U
 #EXTINF:-1,ERT2 
 #KODIPROP:inputstream=inputstream.adaptive
 #inputstream.adaptive.manifest_type=m3u8
