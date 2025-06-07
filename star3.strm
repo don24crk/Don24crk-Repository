@@ -2,5 +2,5 @@
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_mode=timeshift
-#KODIPROP:inputstream.adaptive.is_realtime_stream=false
+#KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://line.myunityhost.com:80/play/live.php?mac=00:1A:79:D8:CE:85&stream=307893&extension=ts&play_token=4ZKKe2PVoO|user-agent=Mozilla/5.0 (Android 15; Mobile; rv:68.0) Gecko/68.0 Firefox/139.0|proxy=93.174.121.75:80
