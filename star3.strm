@@ -1,2 +1,6 @@
 #EXTINF:-1,STAR
-https://s2.cystream.net/galanos/star/chunks.m3u8?nimblesessionid=22957372&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yLzIwMjUgMzozOTo1MiBQTSZoYXNoX3ZhbHVlPUNwN0h3Z3M1bUhuM0czZXk0c050VkE9PSZ2YWxpZG1pbnV0ZXM9MjA=|user-agent=93.174.121.75
+#KODIPROP:inputstream=inputstream.adaptive
+inputstream.adaptive.manifest_type=m3u8
+MimeType=application/vnd.apple.mpegurl
+#KODIPROP:inputstream.adaptive.is_realtime_stream=false
+https://s2.cystream.net/galanos/star/chunks.m3u8?nimblesessionid=23333771&wmsAuthSign=c2VydmVyX3RpbWU9Ni83LzIwMjUgMjo1MDozMiBQTSZoYXNoX3ZhbHVlPThVR09wa0Q0a1NLalo4MEwrT0M5ZFE9PSZ2YWxpZG1pbnV0ZXM9MjA=
