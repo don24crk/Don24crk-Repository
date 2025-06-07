@@ -1,6 +1,6 @@
 #EXTINF:-1,ERT2 
 #KODIPROP:inputstream=inputstream.adaptive
 #inputstream.adaptive.manifest_type=m3u8
-#MimeType=application/vnd.apple.mpegurl
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 https://s2.cystream.net/live/ert2/chunks.m3u8?nimblesessionid=23332908&wmsAuthSign=c2VydmVyX3RpbWU9Ni83LzIwMjUgMjoxOTozMiBQTSZoYXNoX3ZhbHVlPUVRZ2tSaGoxam1UdkZYYU5VdFZMSWc9PSZ2YWxpZG1pbnV0ZXM9MjA=|user-agent=Mozilla/5.0 (Android 15; Mobile; rv:68.0) Gecko/68.0 Firefox/139.0|proxy=93.174.121.75:80
