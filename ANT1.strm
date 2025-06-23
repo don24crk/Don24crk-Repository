@@ -1,6 +1,6 @@
 #EXTINF:1,Ant1 
 #KODIPROP:inputstream=inputstream.adaptive
-https://mcdn.antennaplus.gr/live/media0/Ant1/HLS/Ant1.m3u8 url-tvg="https://ext.greektv.app/epg/epg.xml.gz"
+https://spark3.smart-tv-data.com/ant1HD/ant1HD/playlist.m3u8
 
 
 
