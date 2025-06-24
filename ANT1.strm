@@ -1,5 +1,4 @@
-#EXTINF:1,Ant1 
-#KODIPROP:inputstream=inputstream.adaptive
+#EXTINF:-1,Ant1 
 https://spark3.smart-tv-data.com/ant1HD/ant1HD/playlist.m3u8
 
 
