@@ -38,7 +38,7 @@ name= A Spor url= "https://trkvz-live.ercdn.net/asporhd/asporhd_720p.m3u8?st=uxl
 name= FBTV url= "https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A137.0)%20Gecko%2F20100101%20Firefox%2F137.0&Referer=https%3A%2F%2Fwww.fenerbahce.org%2F" logo= "https://yt3.googleusercontent.com/ytc/AIdro_kG04jzq7wxoRvUmeqFO1zzt6CDop8OltgqJ9E9PXj1PuU=s900-c-k-c0x00ffffff-no-rj"
 name= GSTV url= "https://owifavo5.rocketcdn.com/gstv/gstv.smil/playlist.m3u8" logo= "https://upload.wikimedia.org/wikipedia/en/c/c2/Gstv_00.png"
 name= Şaban TV url= "plugin://plugin.video.youtube/play/?video_id=hfx8H7YrmTw" logo= "https://play-lh.googleusercontent.com/SahnJWNFBkwHuFICDtfXCdPU1OpbjGB-IpX59dYjdzr2SGduXzrqaJLhm9P34YxF4Vw"
-name= DMAX url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/DMAX-TR.m3u8" logo= "https://yt3.googleusercontent.com/7caGBnut6H9aFvL71oqhRbMEy1sE0VIO3oOvuhONRRdQKNzjNqjLW3ySJr-8NR1dnjKcNI62_g=s900-c-k-c0x00ffffff-no-rj"
+name= DMAX url= "https://dogus.daioncdn.net/dmax/dmax_720p.m3u8?token=NjNuUkdjZVI2RHdTVWdxRGhNQnFCWVZQZW5KYTljMjJxbi9tU2xQVWZobz0=&sid=7j8v4cqrxraa&app=5a02c599-d17e-4982-9b04-090934d51af7&ce=3" logo= "https://yt3.googleusercontent.com/7caGBnut6H9aFvL71oqhRbMEy1sE0VIO3oOvuhONRRdQKNzjNqjLW3ySJr-8NR1dnjKcNI62_g=s900-c-k-c0x00ffffff-no-rj"
 
 
 
