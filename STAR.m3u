@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:1,STAR
+#EXTVLCOPT:http-user-agent=93.174.121.131:80
+https://s2.cystream.net/galanos/star/chunks.m3u8?nimblesessionid=24513146&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOS8yMDI1IDg6MDc6MTAgUE0maGFzaF92YWx1ZT13ZUpPQXJKTlBZaWZ3YUdIN2RKZ0hBPT0mdmFsaWRtaW51dGVzPTIw
