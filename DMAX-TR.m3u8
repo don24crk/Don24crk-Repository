@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:1,DMAX-TR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 15; Mobile; rv:68.0) Gecko/68.0 Firefox/139.0
+https://cdn401.canlitv.vin/dmax.m3u8?tkn=gfkX4LPyBgx0GPXQ2-lemw&tms=1751220071&hst=www.canlitv.vin&ip=2003:e5:472d:1a91:955a:e081:c319:99fb
