@@ -27,7 +27,7 @@ name= OPEN TV BUP url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repo
 name= SKAI TV url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/SKAI_BUP.strm" logo= "https://i.imgur.com/o2aft6Q.png"
 name= SKAI TV BUP url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/SKAI.strm" logo= "https://i.imgur.com/o2aft6Q.png"
 name= STAR TV url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/star3.strm" logo= "https://i.imgur.com/AazwSEQ.png"
-name= STAR TV BUP url= "https://s2.cystream.net/galanos/star/chunks.m3u8?nimblesessionid=24688089&wmsAuthSign=c2VydmVyX3RpbWU9Ny80LzIwMjUgNDoxNDo1NCBQTSZoYXNoX3ZhbHVlPWlZb29PcEJUSkhUNXFyMHZKTGI2WUE9PSZ2YWxpZG1pbnV0ZXM9MjA=|user-agent=Mozilla/5.0 (Android 15; Mobile; rv:68.0) Gecko/68.0 Firefox/139.0" logo= "https://i.imgur.com/AazwSEQ.png"
+name= STAR TV BUP url= "https://s2.cystream.net/galanos/star/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny80LzIwMjUgODoxNDo0MiBQTSZoYXNoX3ZhbHVlPWZEYkxhc1NLT0xTRWloZ2hmWDl0YlE9PSZ2YWxpZG1pbnV0ZXM9MjA=|user-agent=Mozilla/5.0 (Android 15; Mobile; rv:68.0) Gecko/68.0 Firefox/139.0" logo= "https://i.imgur.com/AazwSEQ.png"
 name= STAR INTERNATIONAL url= "https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8" logo= "https://i.imgur.com/AazwSEQ.png"
 name= MEGA url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/MEGA.strm" logo= "https://i.imgur.com/HIcqDaY.png"
 name= MEGA BUP url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/MEGA.strm" logo= "https://i.imgur.com/HIcqDaY.png"
