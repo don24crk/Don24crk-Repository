@@ -605,15 +605,17 @@ https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/jUr8BZA.png",LAMPSI TV
 https://livetv.streams.ovh:8081/lampsitv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-name="extacy" tvg-logo="https://i.imgur.com/iEDyVxN.png",EXTACY TV
-https://fr.crystalweb.net:1936/extacytv/extacytv/playlist.m3u8|user-agent=Mozilla/5.0 (Android 15; Mobile; rv:68.0) Gecko/68.0 Firefox/139.0
+https://eu1.servers10.com:8081/8380/index.m3u8|user-agent=Mozilla/5.0 (Android 15; Mobile; rv:68.0) Gecko/68.0 Firefox/139.0
 #EXTINF:-1 group-title="CINEMA" tvg-name="extacy" tvg-logo="https://i.imgur.com/iEDyVxN.png",EXTACY TV BUP
-https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/extacytv.m3u8|user-agent=Mozilla/5.0 (Android 15; Mobile; rv:68.0) Gecko/68.0 Firefox/139.0
+https://eu1.servers10.com:8081/8380/index.m3u8|user-agent=Mozilla/5.0 (Android 15; Mobile; rv:68.0) Gecko/68.0 Firefox/139.0
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/aU7EOVz.png",EXTACY TV GREEKS
 https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/extacy%20greeks.strm
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/22dhh8I.png",EXTACY TV CINEMA
-https://fr.crystalweb.net:1936/extacytvcinema/extacytvcinema/playlist.m3u8|user-agent=Mozilla/5.0 (Android 15; Mobile; rv:68.0) Gecko/68.0 Firefox/139.0
+https://eu1.servers10.com:8081/8384/index.m3u8|user-agent=Mozilla/5.0 (Android 15; Mobile; rv:68.0) Gecko/68.0 Firefox/139.0
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/6UyasCt.png",EXTACY TV CYPRUS
-https://fr.crystalweb.net:1936/extacytvcy/extacytvcy/playlist.m3u8|user-agent=Mozilla/5.0 (Android 15; Mobile; rv:68.0) Gecko/68.0 Firefox/139.0
+https://eu1.servers10.com:8081/8388/index.m3u8|user-agent=Mozilla/5.0 (Android 15; Mobile; rv:68.0) Gecko/68.0 Firefox/139.0
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/po9IQ1U.png",EXTACY TV SERIES
+https://eu1.servers10.com:8081/8386/index.m3u8|user-agent=Mozilla/5.0 (Android 15; Mobile; rv:68.0) Gecko/68.0 Firefox/139.0
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/OLqp7PL.png",ZEYS TV
 https://fr.crystalweb.net:1936/zeustv/zeustv/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/WftpxK2.png",VILLAGE WORLD
