@@ -1,0 +1,5 @@
+bios pack
+https://archive.org/details/pack-full-bios-batocera-v-41-minicaketv
+
+link for batocera 41 amlogics905x3/4/5 y3/4/5 image
+https://mirrors.o2switch.fr/batocera/tvbox-gen3/stable/rc/batocera-s905gen3-tvbox-gen3-41-20241229.img.gz
