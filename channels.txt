@@ -26,7 +26,7 @@ name= OPEN TV url= "https://spark3.smart-tv-data.com/openHD/openHD/playlist.m3u8
 name= OPEN TV BUP url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/OPEN.strm" logo= "https://i.imgur.com/cshmF4s.png"
 name= SKAI TV url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/SKAI_BUP.strm" logo= "https://i.imgur.com/o2aft6Q.png"
 name= SKAI TV BUP url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/SKAI.strm" logo= "https://i.imgur.com/o2aft6Q.png"
-name= STAR TV url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/star3.strm" logo= "https://i.imgur.com/AazwSEQ.png"
+name= STAR TV url= "https://spark3.smart-tv-data.com/star/star/playlist.m3u8|user-agent=Mozilla/5.0 (Android 15; Mobile; rv:68.0) Gecko/68.0 Firefox/139.0" logo= "https://i.imgur.com/AazwSEQ.png"
 name= STAR TV BUP url= "https://livestar.siliconweb.com/media/star4/star4newhd.m3u8|user-agent=Mozilla/5.0 (Android 15; Mobile; rv:68.0) Gecko/68.0 Firefox/139.0" logo= "https://i.imgur.com/AazwSEQ.png"
 name= STAR INTERNATIONAL url= "https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8" logo= "https://i.imgur.com/AazwSEQ.png"
 name= MEGA url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/MEGA.strm" logo= "https://i.imgur.com/HIcqDaY.png"
@@ -53,3 +53,4 @@ name= VILLAGE WORLD url= "https://ellastvmax.gotdns.com/freetv/village-world/ind
 name= MAD TV url= "https://ellastvmax.gotdns.com/freetv/madworldtv/index.m3u8" logo= "https://i.imgur.com/zoS5RWU.png"
 name= DIAVATA TV url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/diavatatv.m3u8|user-agent=ExoPlayer" logo= "https://i.imgur.com/1DxMmHL.png"
 name= LAMPSI TV url= "https://livetv.streams.ovh:8081/lampsitv/index.m3u8" logo= "https://i.imgur.com/jUr8BZA.png"
+
