@@ -599,9 +599,9 @@ https://live.netmaxtv.com:1936/live/live/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://ellastvmax.com.au/wp-content/uploads/2022/05/ellastvpromo.png",ELLASWORLD 
 https://ellastvmax.ath.cx/freetv/promo/index.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/1DxMmHL.png",DIAVATA TV HD
-https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/diavatatv.m3u8|user-agent=ExoPlayer
+https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/diavatatv.strm
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/1DxMmHL.png",DIAVATA TV HD BUP
-https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/diavatatv.m3u8|user-agent=ExoPlayer
+https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/diavatatv.strm
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/jUr8BZA.png",LAMPSI TV
 https://livetv.streams.ovh:8081/lampsitv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-name="extacy" tvg-logo="https://i.imgur.com/iEDyVxN.png",EXTACY TV
