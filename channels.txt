@@ -32,11 +32,11 @@ name= STAR INTERNATIONAL url= "https://livestar.siliconweb.com/starvod/star_int/
 name= MEGA url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/MEGA.strm" logo= "https://i.imgur.com/HIcqDaY.png"
 name= MEGA BUP url= "http://85.11.144.9:6651/tet|user-agent=Mozilla/5.0 (Android 15; Mobile; rv:68.0) Gecko/68.0 Firefox/139.0" logo= "https://i.imgur.com/HIcqDaY.png"
 name= MEGA BUP 2 url= "http://194.156.236.18:8000/play/a008|user-agent=Mozilla/5.0 (Android 15; Mobile; rv:68.0) Gecko/68.0 Firefox/139.0" logo= "https://i.imgur.com/HIcqDaY.png"
-name= MEGANEWS url= "http://195.226.218.167/mega/meganews/mpeg.2ts|user-agent=Mozilla/5.0 (Android 15; Mobile; rv:68.0) Gecko/68.0 Firefox/139.0" logo= "https://www.tovima.com/wp-content/uploads/2025/03/28/mega_news.jpg"
+name= MEGANEWS url= "http://vid1.megatv-ctv.com/mega/meganews/mpeg.2ts|user-agent=Mozilla/5.0 (Android 15; Mobile; rv:68.0) Gecko/68.0 Firefox/139.0" logo= "https://www.tovima.com/wp-content/uploads/2025/03/28/mega_news.jpg"
 name= OMEGA url= "http://l1.cloudskep.com/omegatv/omcy/playlist.m3u8|user-agent=ExoPlayer" logo= "https://i.imgur.com/Np7xLfk.png"
 name= SIGMA url= "http://sl2.sigmatv.com/hls/live.m3u8|user-agent=ExoPlayer" logo= "https://i.imgur.com/lFjBmPF.png"
-name= SMILE TV url= "https://s1.cystream.net/live/smile/playlist.m3u8|user-agent=ExoPlayer" logo= "https://i.imgur.com/8ZCpwfv.png"
-name= OWZRA KIDS url= "http://65.108.62.57:8080/live4/kidshd.m3u8" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA6y1GP1IbynNdl0qHwmxIPtVUEheYY9z6xZEK-31VLEeqR73PNoqHVK8Dt8QlyBX0fcM&usqp=CAU"
+name= SMILE TV url= "https://spark3.smart-tv-data.com/smile/smile/playlist.m3u8" logo= "https://i.imgur.com/8ZCpwfv.png"
+name= EXTACY TV KIDS url= "https://live20.bozztv.com/akamaissh101/ssh101/extacytvkids/playlist.m3u8" logo= "https://i.imgur.com/49uhtHk.png"
 name= GalaxyGR url= "https://live20.bozztv.com/akamaissh101/ssh101/galaxygr/playlist.m3u8|user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.6943.89 Mobile Safari/537.36" logo= "https://i.imgur.com/kmrkryQ.png"
 name= DELTA TV url= "https://cdn5.smart-tv-data.com/local/liveD/playlist.m3u8" logo= "https://i.imgur.com/YiVVg6n.png"
 name= Baraza TV Greek hits url= "https://eco.streams.ovh:8081/barazatv/index.m3u8" logo= "https://i.imgur.com/NlN4lmc.png"
@@ -53,6 +53,7 @@ name= MAD TV url= "https://spark3.smart-tv-data.com/mad/mad/playlist.m3u8" logo=
 name= MAD WORLD url= "https://ellastvmax.gotdns.com/freetv/madworldtv/index.m3u8" logo= "https://i.imgur.com/zoS5RWU.png"
 name= DIAVATA TV url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/diavatatv.strm" logo= "https://i.imgur.com/1DxMmHL.png"
 name= LAMPSI TV url= "https://livetv.streams.ovh:8081/lampsitv/index.m3u8" logo= "https://i.imgur.com/jUr8BZA.png"
+
 
 
 
