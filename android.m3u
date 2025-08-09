@@ -29,7 +29,7 @@ https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="star" tvg-logo="https://i.imgur.com/AazwSEQ.png",STAR HD 
 https://spark3.smart-tv-data.com/star/star/chunks.m3u8|user-agent=Mozilla/5.0 (Android 15; Mobile; rv:68.0) Gecko/68.0 Firefox/139.0
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="star" tvg-logo="https://i.imgur.com/AazwSEQ.png",STAR HD BUP 
-https://spark3.smart-tv-data.com/star/star/chunks.m3u8|user-agent=Mozilla/5.0 (Android 15; Mobile; rv:68.0) Gecko/68.0 Firefox/139.0
+http://194.156.236.18:8000/play/a007|user-agent=Mozilla/5.0 (Android 15; Mobile; rv:68.0) Gecko/68.0 Firefox/139.0
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="skai" tvg-logo="https://i.imgur.com/o2aft6Q.png",SKAI HD 
 https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/SKAI.strm
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="skai" tvg-logo="https://i.imgur.com/o2aft6Q.png",SKAI HD BUP
