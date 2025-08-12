@@ -2,18 +2,18 @@ name= ERT1 url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/
 name= ERT2 url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ERT2.strm" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_2.png?raw=true"
 name= ERT3 url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ERT3.strm" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_3.png?raw=true"
 name= ERT1 BUP url= "https://spark3.smart-tv-data.com/vid/ert1hd/playlist.m3u8" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_1.png?raw=true"
-name= ERT2 BUP url= "http://31.121.110.30:4000/play/a02a/index.m3u8|user-agent=Mozilla/5.0 (Android 15; Mobile; rv:68.0) Gecko/68.0 Firefox/139.0" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_2.png?raw=true"
-name= ERT2 BUP 2 url= "https://speech8.anixa.tv/ert2CC/ert2CC/playlist.m3u8|user-agent=Mozilla/5.0 (Android 15; Mobile; rv:68.0) Gecko/68.0 Firefox/139.0" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_2.png?raw=true"
-name= ERT3 BUP url= "https://speech8.anixa.tv/ert3CC/ert3CC/playlist.m3u8|user-agent=Mozilla/5.0 (Android 15; Mobile; rv:68.0) Gecko/68.0 Firefox/139.0"
-name= ERT3 BUP 2 url= "http://194.156.236.18:8000/play/a00o|user-agent=Mozilla/5.0 (Android 15; Mobile; rv:68.0) Gecko/68.0 Firefox/139.0" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_3.png?raw=true"
+name= ERT2 BUP url= "http://31.121.110.30:4000/play/a02a/index.m3u8|user-agent=VLC" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_2.png?raw=true"
+name= ERT2 BUP 2 url= "https://speech8.anixa.tv/ert2CC/ert2CC/playlist.m3u8|user-agent=VLC" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_2.png?raw=true"
+name= ERT3 BUP url= "https://speech8.anixa.tv/ert3CC/ert3CC/playlist.m3u8|user-agent=VLC"
+name= ERT3 BUP 2 url= "http://194.156.236.18:8000/play/a00o|user-agent=VLC" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_3.png?raw=true"
 name= ERTWORLD url= "http://cdn4.smart-tv-data.com/vid/ertworld/playlist.m3u8" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_World.png?raw=true"
 name= ERTWORLD BUP url= "http://hbbtv.ert.gr/stream.php/v/vid_ertworld_mpeg.2ts|user-agent=Mozilla/5.0 (Android 15; Mobile; LG-M255; rv:136.0" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_World.png?raw=true"
 name= ERTNEWS url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ERTNEWS%20BUP.strm" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_NEWS.png?raw=true"
 name= ERTNEWS BUP url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ERTNEWS%20BUP.strm" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_NEWS.png?raw=true"
-name= ERT KIDS url= "https://cdn3.smart-tv-data.com/vid/kidstv-hbbtv/playlist.m3u8|user-agent=Mozilla/5.0 (Android 15; Mobile; LG-M255; rv:136.0) Gecko/136.0 Firefox/136.0" logo= "https://i.imgur.com/RvrQSAs.png"
+name= ERT KIDS url= "https://cdn3.smart-tv-data.com/vid/kidstv-hbbtv/playlist.m3u8" logo= "https://i.imgur.com/RvrQSAs.png"
 name= ERT MUSIC url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ERTMUSIC.strm" logo= "https://i.imgur.com/Q4rTipR.png"
 name= ANT1 url= "https://spark3.smart-tv-data.com/ant1HD/ant1HD/playlist.m3u8" logo= "https://i.imgur.com/GTFFtOR.png"
-name= ANT1 BUP url= "https://lcdn.antennaplus.gr/r86d08d448885424196f6cd3ddc5d1489/eu-central-1/eu-central-1/6415884360001/profile_0/chunklist.m3u8|user-agent=Mozilla/5.0 (Android 15; Mobile; rv:68.0) Gecko/68.0 Firefox/139.0" logo= "https://i.imgur.com/GTFFtOR.png"
+name= ANT1 BUP url= "https://lcdn.antennaplus.gr/r86d08d448885424196f6cd3ddc5d1489/eu-central-1/eu-central-1/6415884360001/profile_0/chunklist.m3u8|user-agent=VLC" logo= "https://i.imgur.com/GTFFtOR.png"
 name= ANT1 DRAMA url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ANT1%20DRAMA.strm" logo= "https://i.imgur.com/5QDNhXo.png"
 name= ANT1 COMEDY url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ANT1%20COMEDY.strm" logo= "https://i.imgur.com/V1byeFi.png"
 name= ANT1 JUST MUSIC url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ANT1JUSTMUSIC.strm" logo= "https://i.imgur.com/hz41PMx.png"
@@ -53,6 +53,7 @@ name= MAD TV url= "https://spark3.smart-tv-data.com/mad/mad/playlist.m3u8" logo=
 name= MAD WORLD url= "https://ellastvmax.gotdns.com/freetv/madworldtv/index.m3u8" logo= "https://i.imgur.com/zoS5RWU.png"
 name= DIAVATA TV url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/diavatatv.strm" logo= "https://i.imgur.com/1DxMmHL.png"
 name= LAMPSI TV url= "https://livetv.streams.ovh:8081/lampsitv/index.m3u8" logo= "https://i.imgur.com/jUr8BZA.png"
+
 
 
 
