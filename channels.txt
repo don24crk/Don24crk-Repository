@@ -4,7 +4,7 @@ name= ERT3 url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/
 name= ERT1 BUP url= "https://spark3.smart-tv-data.com/vid/ert1hd/playlist.m3u8" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_1.png?raw=true"
 name= ERT2 BUP url= "http://194.156.236.18:8000/play/a00n" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_2.png?raw=true"
 name= ERT2 BUP 2 url= "https://speech8.anixa.tv/ert2CC/ert2CC/playlist.m3u8" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_2.png?raw=true"
-name= ERT3 BUP url= "https://speech8.anixa.tv/ert3CC/ert3CC/playlist.m3u8"
+name= ERT3 BUP url= "https://speech8.anixa.tv/ert3CC/ert3CC/playlist.m3u8" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_3.png?raw=true"
 name= ERT3 BUP 2 url= "http://194.156.236.18:8000/play/a00o" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_3.png?raw=true"
 name= ERTWORLD url= "http://cdn4.smart-tv-data.com/vid/ertworld/playlist.m3u8" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_World.png?raw=true"
 name= ERTWORLD BUP url= "http://hbbtv.ert.gr/stream.php/v/vid_ertworld_mpeg.2ts|user-agent=Mozilla/5.0 (Android 15; Mobile; LG-M255; rv:136.0" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_World.png?raw=true"
@@ -53,6 +53,7 @@ name= MAD TV url= "https://spark3.smart-tv-data.com/mad/mad/playlist.m3u8" logo=
 name= MAD WORLD url= "https://ellastvmax.gotdns.com/freetv/madworldtv/index.m3u8" logo= "https://i.imgur.com/zoS5RWU.png"
 name= DIAVATA TV url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/diavatatv.strm" logo= "https://i.imgur.com/1DxMmHL.png"
 name= LAMPSI TV url= "https://livetv.streams.ovh:8081/lampsitv/index.m3u8" logo= "https://i.imgur.com/jUr8BZA.png"
+
 
 
 
