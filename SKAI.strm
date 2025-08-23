@@ -1,5 +1,5 @@
 #EXTINF:1,SKAI
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://eu-fps.ezdrm.com/api/licenses/bd2b9942-dc1e-4554-8fe6-8bbd53aa2f6b?token=a3S8OsXlJnvYsADXAfO2yA&smil=en2&expires=1755957577
 https://skai-live-drm.siliconweb.com/skaidrm/en2/playlist.m3u8
