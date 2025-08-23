@@ -23,9 +23,9 @@ name= ALPHA TV url= "https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/pl
 name= ALPHASAT url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ALPHASAT.strm" logo= "https://www.alphatvsat.com/wp-content/uploads/2018/03/Alpha_Sat_logo.png"
 name= ALPHA TV BUP url= "https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/alphatvlive/live_480p/chunks.m3u8" logo= "https://i.imgur.com/0i4MUcc.png"
 name= OPEN TV url= "https://liveopen.siliconweb.com/openTvLive/liveopen/playlist.m3u8" logo= "https://i.imgur.com/cshmF4s.png"
-name= OPEN TV BUP url= "https://liveopen.siliconweb.com/openTvLive/liveopen/chunklist.m3u8" logo= "https://i.imgur.com/cshmF4s.png"
+name= OPEN TV BUP url= "https://liveopen.siliconweb.com/openTvLive/liveopen/playlist.m3u8" logo= "https://i.imgur.com/cshmF4s.png"
 name= SKAI TV url= "https://skai-live.siliconweb.com/media/cambria4/index.m3u8|user-agent=Mozilla/5.0 (Android 15; Mobile; rv:68.0) Gecko/68.0 Firefox/139.0" logo= "https://i.imgur.com/o2aft6Q.png"
-name= SKAI TV BUP url= "https://skai-live-gr-cy.siliconweb.com/media/cambria4/index.m3u8|user-agent=Mozilla/5.0 (Android 15; Mobile; rv:68.0) Gecko/68.0 Firefox/139.0" logo= "https://i.imgur.com/o2aft6Q.png"
+name= SKAI TV BUP url= "https://skai-live.siliconweb.com/media/cambria4/index.m3u8|user-agent=Mozilla/5.0 (Android 15; Mobile; rv:68.0) Gecko/68.0 Firefox/139.0" logo= "https://i.imgur.com/o2aft6Q.png"
 name= STAR TV url= "https://spark3.smart-tv-data.com/star/star/playlist.m3u8" logo= "https://i.imgur.com/AazwSEQ.png"
 name= STAR TV BUP url= "https://spark3.smart-tv-data.com/star/star/chunks.m3u8" logo= "https://i.imgur.com/AazwSEQ.png"
 name= STAR INTERNATIONAL url= "https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8" logo= "https://i.imgur.com/AazwSEQ.png"
@@ -53,6 +53,7 @@ name= MAD TV url= "https://spark3.smart-tv-data.com/mad/mad/playlist.m3u8" logo=
 name= MAD WORLD url= "https://ellastvmax.gotdns.com/freetv/madworldtv/index.m3u8" logo= "https://i.imgur.com/zoS5RWU.png"
 name= DIAVATA TV url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/diavatatv.strm" logo= "https://i.imgur.com/1DxMmHL.png"
 name= LAMPSI TV url= "https://livetv.streams.ovh:8081/lampsitv/index.m3u8" logo= "https://i.imgur.com/jUr8BZA.png"
+
 
 
 
