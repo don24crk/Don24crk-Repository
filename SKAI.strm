@@ -1,5 +1,5 @@
 #EXTINF:1,SKAI
 #KODIPROP:inputstream.adaptive
-#KODIPROP.inputstream.adaptive.manifest_type=mpd
+#KODIPROP.inputstream.adaptive.manifest_type=m3u8
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.c learkey|https://eu-fps.ezdrm.com/api/licenses/bd2b9942-dc1e-4554-8fe6-8bbd53aa2f6b?token=FERLJICnj57J6uFSB1Vwig&smil=en2&expires=1755958855 
 https://skai-live-drm.siliconweb.com/skaidrm/en2/playlist.m3u8
