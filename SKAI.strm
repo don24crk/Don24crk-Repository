@@ -1,2 +1,2 @@
 #EXTINF:1,SKAI
-https://skai-live-drm.siliconweb.com/skaidrm/en2/manifest.mpd|user-agent=https://players.brightcove.net/videojs-shaka/1/videojs-shaka.js
+https://skai-live-drm.siliconweb.com/skaidrm/en2/manifest.mpd|user-agent=https://players.brightcove.net/videojs-drm/5/videojs-drm.min.js
