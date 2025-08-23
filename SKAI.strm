@@ -1,2 +1,5 @@
 #EXTINF:1,SKAI
-https://skai-live-drm.siliconweb.com/skaidrm/en2/manifest.mpd|user-agent=https://players.brightcove.net/videojs-drm/5/videojs-drm.min.js
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:mimetype=application/dash+xml
+https://skai-live-drm.siliconweb.com/skaidrm/en2/manifest.mpd
