@@ -1,5 +1,5 @@
 #EXTINF:1,SKAI
 #KODIPROP:inputstream.adaptive
-#KODIPROP.inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.c learkey|https://extreme-ip-lookup.com/json/?key=5gFy8MWTNgXtpB1XMYQj
-https://skai-live-drm.siliconweb.com/skaidrm/en2/manifest.mpd|user-agent=https://player.pstatic.gr/phaistos-player-v2/phaistosplayer.js?v=update23
+#KODIPROP.inputstream.adaptive.manifest_type=m3u8
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.c learkey|SmxC5WdPTr6kAs7dFLAa4g
+https://skai-live-back.siliconweb.com/media/cambria4/index.m3u8
