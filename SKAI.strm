@@ -1,5 +1,2 @@
 #EXTINF:1,SKAI
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-https://skai-live-drm.siliconweb.com/skaidrm/en2/manifest.mpd
+https://skai-live-gr.siliconweb.com/media/cambria4/index_media_bitrate2000K_avc1_mp4a.m3u8
