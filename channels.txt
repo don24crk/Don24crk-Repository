@@ -1,9 +1,9 @@
-name= ERT1 url= "https://ertflix.akamaized.net/ertlive/ert1/clrdef24723b/dash/ERT-video=800000.dash" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_1.png?raw=true"
-name= ERT2 url= "https://ertflix-greece.siliconweb.com/mpegts/618618_2341557/media_mpegts_0.m3u8" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_2.png?raw=true"
+name= ERT1 url= "https://ertflix.akamaized.net/ertlive/ert1/clrdef24723b/ERT-audio_104621_und=104400-video=5000000.m3u8" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_1.png?raw=true"
+name= ERT2 url= "https://ertflix-greece.siliconweb.com/mpegts/618618_2341557/media_mpegts_1.m3u8" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_2.png?raw=true"
 name= ERT3 url= "https://ertflix-greece.siliconweb.com/mpegts/618618_2341560/media_mpegts_3.m3u8" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_3.png?raw=true"
-name= ERT1 BUP url= "https://ertflix.akamaized.net/ertlive/ert1/clrdef24723b/dash/ERT-video=800000.dash" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_1.png?raw=true"
-name= ERT2 BUP url= "https://ertflix-greece.siliconweb.com/mpegts/618618_2341557/media_mpegts_0.m3u8" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_2.png?raw=true"
-name= ERT2 BUP 2 url= "https://ertflix-greece.siliconweb.com/mpegts/618618_2341557/media_mpegts_0.m3u8" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_2.png?raw=true"
+name= ERT1 BUP url= "https://ertflix.akamaized.net/ertlive/ert1/clrdef24723b/ERT-audio_104621_und=104400-video=5000000.m3u8" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_1.png?raw=true"
+name= ERT2 BUP url= "https://ertflix-greece.siliconweb.com/mpegts/618618_2341557/media_mpegts_1.m3u8" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_2.png?raw=true"
+name= ERT2 BUP 2 url= "https://ertflix-greece.siliconweb.com/mpegts/618618_2341557/media_mpegts_1.m3u8" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_2.png?raw=true"
 name= ERT3 BUP url= "https://ertflix-greece.siliconweb.com/mpegts/618618_2341560/media_mpegts_3.m3u8" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_3.png?raw=true"
 name= ERT3 BUP 2 url= "https://ertflix-greece.siliconweb.com/mpegts/618618_2341560/media_mpegts_3.m3u8" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_3.png?raw=true"
 name= ERTWORLD url= "http://cdn4.smart-tv-data.com/vid/ertworld/playlist.m3u8" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_World.png?raw=true"
@@ -53,6 +53,7 @@ name= MAD TV url= "https://spark3.smart-tv-data.com/mad/mad/playlist.m3u8" logo=
 name= MAD WORLD url= "https://ellastvmax.gotdns.com/freetv/madworldtv/index.m3u8" logo= "https://i.imgur.com/zoS5RWU.png"
 name= DIAVATA TV url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/diavatatv.strm" logo= "https://i.imgur.com/1DxMmHL.png"
 name= LAMPSI TV url= "https://livetv.streams.ovh:8081/lampsitv/index.m3u8" logo= "https://i.imgur.com/jUr8BZA.png"
+
 
 
 
