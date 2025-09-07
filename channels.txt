@@ -49,12 +49,13 @@ name= ELLAS WORLD url= "https://ellastvmax.ath.cx/freetv/promo/index.m3u8" logo=
 name= ExtaCy url= "https://eu1.servers10.com:8081/8380/index.m3u8" logo= "https://i.ibb.co/bs7j4wR/extacy-tv-new-logo.png"
 name= ExtaCy Greeks url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/extacy%20greeks.strm" logo= "https://i.ibb.co/gMBRJrJM/extacygr.png"
 name= VILLAGE WORLD url= "https://ellastvmax.gotdns.com/freetv/village-world/index.m3u8" logo= "https://i.imgur.com/WftpxK2.png"
-name= MAD TV url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/MAD-TV.strm|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34|referrer=https://player.castr.com/" logo= "https://i.imgur.com/G0iN2tt.png"
+name= MAD TV url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/MAD-TV.strm|user-agent=VLC|referrer=https://player.castr.com/" logo= "https://i.imgur.com/G0iN2tt.png"
 name= MAD WORLD url= "https://ellastvmax.gotdns.com/freetv/madworldtv/index.m3u8" logo= "https://i.imgur.com/zoS5RWU.png"
 name= DIAVATA TV url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/diavatatv.strm" logo= "https://i.imgur.com/1DxMmHL.png"
 name= LAMPSI TV url= "https://livetv.streams.ovh:8081/lampsitv/index.m3u8" logo= "https://i.imgur.com/jUr8BZA.png"
 name= ZEUS TV url= "https://eu1.servers10.com:8081/8194/tracks-v1a1/mono.m3u8" logo= "https://extacytv.gr/wp-content/uploads/2025/04/zeys_logo-dark-300x91.png"
 name= TV SUPER url= "https://eu1.servers10.com:8081/8196/tracks-v1a1/mono.m3u8" logo= "https://extacytv.gr/images/logotvsuper.png"
+
 
 
 
