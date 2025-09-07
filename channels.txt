@@ -27,7 +27,7 @@ name= OPEN TV BUP url= "https://liveopen.siliconweb.com/openTvLive/liveopen/play
 name= SKAI TV url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/SKAI.strm" logo= "https://i.imgur.com/o2aft6Q.png"
 name= SKAI TV BUP url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/SKAI.strm" logo= "https://i.imgur.com/o2aft6Q.png"
 name= STAR TV url= "https://livestar.siliconweb.com/starvod/star4/star4newhd.m3u8" logo= "https://i.imgur.com/AazwSEQ.png"
-name= STAR TV BUP url= "https://livestar.siliconweb.com/media/star4/star4newhd.m3u8" logo= "https://i.imgur.com/AazwSEQ.png"
+name= STAR TV BUP url= "https://s2.cystream.net/galanos/star/chunks.m3u8?nimblesessionid=26027643&wmsAuthSign=c2VydmVyX3RpbWU9OS83LzIwMjUgNzoxMzoxMSBQTSZoYXNoX3ZhbHVlPTZIa29sLzNhN0FnSVZ1RnpGUE54Ync9PSZ2YWxpZG1pbnV0ZXM9MjA=|user-agent=https://vjs.zencdn.net/8.16.1/video.min.js|referer=https://lakatamia.tv/" logo= "https://i.imgur.com/AazwSEQ.png"
 name= STAR INTERNATIONAL url= "https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8" logo= "https://i.imgur.com/AazwSEQ.png"
 name= MEGA url= "https://embed.vindral.com/?core.channelId=alteregomedia_megatv1_ci_6cc490c7-e5c6-486b-acf0-9bb9c20fa670" logo= "https://i.imgur.com/HIcqDaY.png"
 name= MEGA BUP url= "https://embed.vindral.com/?core.channelId=alteregomedia_megatv1_ci_6cc490c7-e5c6-486b-acf0-9bb9c20fa670" logo= "https://i.imgur.com/HIcqDaY.png"
@@ -55,6 +55,7 @@ name= DIAVATA TV url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repos
 name= LAMPSI TV url= "https://pro.free.hr:3343/live/l1llive.m3u8|user-agent=VLC|referrer=https://player.castr.com/" logo= "https://i.imgur.com/jUr8BZA.png"
 name= ZEUS TV url= "https://eu1.servers10.com:8081/8194/tracks-v1a1/mono.m3u8" logo= "https://extacytv.gr/wp-content/uploads/2025/04/zeys_logo-dark-300x91.png"
 name= TV SUPER url= "https://eu1.servers10.com:8081/8196/tracks-v1a1/mono.m3u8" logo= "https://extacytv.gr/images/logotvsuper.png"
+
 
 
 
