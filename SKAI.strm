@@ -1,2 +1,4 @@
 #EXTINF:1,SKAI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 15; Mobile; rv:68.0) Gecko/68.0 Firefox/139.0
+#EXTVLCOPT:http-referrer= https://grlivetv.com/
 https://skai-live.siliconweb.com/media/cambria4/index_media_bitrate600K_avc1_mp4a.m3u8
