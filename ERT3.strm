@@ -1,2 +1,4 @@
-#EXTINF:-1,ERT3 
-https://speech8.anixa.tv/ert3CC/ert3CC/playlist.m3u8
+#EXTINF:1,ERT3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 15; Mobile; rv:68.0) Gecko/68.0 Firefox/139.0
+#EXTVLCOPT:http-referrer= https://grlivetv.com/
+https://ertflix-greece.siliconweb.com/mpegts/618618_2341560/media_mpegts_2.m3u8
