@@ -1,26 +1,26 @@
 #EXTM3U url-tvg="https://ext.greektv.app/epg/epg.xml.gz"
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert1" tvg-logo="https://i.imgur.com/oh9E9sK.png",ERT1 HD
-https://ertflix.akamaized.net/ertlive/ert1/clrdef24723b/ERT-audio_104621_und=104400-video=2000000.m3u8
+https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/Ert1.strm
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert1" tvg-logo="https://i.imgur.com/oh9E9sK.png",ERT1 HD BUP
-https://ertflix.akamaized.net/ertlive/ert1/clrdef24723b/ERT-audio_104621_und=104400-video=2000000.m3u8
+https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/Ert1.strm
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert1" tvg-logo="https://i.imgur.com/oh9E9sK.png",ERT1 HD BUP 2
-https://ertflix.akamaized.net/ertlive/ert1/clrdef24723b/ERT-audio_104621_und=104400-video=2000000.m3u8
+https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/Ert1.strm
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert2" tvg-logo="https://i.imgur.com/ndZMSTX.png",ERT2 HD
-https://ertflix-greece.siliconweb.com/mpegts/618618_2341557/media_mpegts_2.m3u8
+https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/Ert2.strm
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert2" tvg-logo="https://i.imgur.com/ndZMSTX.png",ERT2 HD BUP
-https://ertflix-greece.siliconweb.com/mpegts/618618_2341557/media_mpegts_2.m3u8
+https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/Ert2.strm
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert3" tvg-logo="https://i.imgur.com/oKxPmQJ.png",ERT3 HD 
-https://ertflix-greece.siliconweb.com/mpegts/618618_2341560/media_mpegts_2.m3u8
+https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/Ert3.strm
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert3" tvg-logo="https://i.imgur.com/oKxPmQJ.png",ERT3 HD BUP
-https://ertflix-greece.siliconweb.com/mpegts/618618_2341560/media_mpegts_2.m3u8
+https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/Ert3.strm
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ertnews" tvg-logo="https://i.imgur.com/9fxyYWl.png",ERT NEWS
 https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ERTNEWS%20BUP.strm
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ertnews" tvg-logo="https://i.imgur.com/9fxyYWl.png",ERT NEWS BUP 
 https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ERTNEWS%20BUP.strm
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ERTWORLD" tvg-logo="https://kundenportal.lampert.at/files/uploads/Bilder%20News/ERT1.png",ERTWORLD
-https://ertflix.akamaized.net/ertlive/ertworld/default/ERTWorld-audio_104621_und=104400-video=2000000.m3u8
+https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ERTWORLD%20BUP.strm
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ERTWORLD" tvg-logo="https://kundenportal.lampert.at/files/uploads/Bilder%20News/ERT1.png",ERTWORLD BUP
-https://ertflix.akamaized.net/ertlive/ertworld/default/ERTWorld-audio_104621_und=104400-video=2000000.m3u8
+https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ERTWORLD%20BUP.strm
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="mega" tvg-logo="https://i.imgur.com/HIcqDaY.png",MEGA HD
 https://embed.vindral.com/?core.channelId=alteregomedia_megatv1_ci_6cc490c7-e5c6-486b-acf0-9bb9c20fa670
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="mega" tvg-logo="https://i.imgur.com/HIcqDaY.png",MEGA HD BUP
