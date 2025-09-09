@@ -29,9 +29,9 @@ name= SKAI TV BUP url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repo
 name= STAR TV url= "https://livestar.siliconweb.com/starvod/star4/star4newhd.m3u8" logo= "https://i.imgur.com/AazwSEQ.png"
 name= STAR TV BUP url= "https://livestar.siliconweb.com/starvod/star4/star4newhd.m3u8|user-agent=Mozilla/5.0 (Linux; Android 14; eCVLCElj8N; U; en) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.5938.153 Mobile AT/1.0.2 Safari/537.36|referer=https://lakatamia.tv/|proxy=194.219.134.234:80" logo= "https://i.imgur.com/AazwSEQ.png"
 name= STAR INTERNATIONAL url= "https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8" logo= "https://i.imgur.com/AazwSEQ.png"
-name= MEGA url= "https://embed.vindral.com/?core.channelId=alteregomedia_megatv1_ci_6cc490c7-e5c6-486b-acf0-9bb9c20fa670|user-agent=Mozilla/5.0 (Linux; Android 14; eCVLCElj8N; U; en) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.5938.153 Mobile AT/1.0.2 Safari/537.36|referer=https://lakatamia.tv/|proxy=93.174.121.131" logo= "https://i.imgur.com/HIcqDaY.png"
-name= MEGA BUP url= "https://embed.vindral.com/?core.channelId=alteregomedia_megatv1_ci_6cc490c7-e5c6-486b-acf0-9bb9c20fa670|user-agent=Mozilla/5.0 (Linux; Android 14; eCVLCElj8N; U; en) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.5938.153 Mobile AT/1.0.2 Safari/537.36|referer=https://lakatamia.tv/|proxy=93.174.121.131" logo= "https://i.imgur.com/HIcqDaY.png"
-name= MEGA BUP 2 url= "https://embed.vindral.com/?core.channelId=alteregomedia_megatv1_ci_6cc490c7-e5c6-486b-acf0-9bb9c20fa670|user-agent=Mozilla/5.0 (Linux; Android 14; eCVLCElj8N; U; en) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.5938.153 Mobile AT/1.0.2 Safari/537.36|referer=https://lakatamia.tv/|proxy=93.174.121.131" logo= "https://i.imgur.com/HIcqDaY.png"
+name= MEGA url= "http://85.11.144.9:6651/tet|user-agent=Mozilla/5.0 (Linux; Android 14; eCVLCElj8N; U; en) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.5938.153 Mobile AT/1.0.2 Safari/537.36|referer=https://lakatamia.tv/|proxy=93.174.121.131" logo= "https://i.imgur.com/HIcqDaY.png"
+name= MEGA BUP url= "http://85.11.144.9:6651/tet|user-agent=Mozilla/5.0 (Linux; Android 14; eCVLCElj8N; U; en) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.5938.153 Mobile AT/1.0.2 Safari/537.36|referer=https://lakatamia.tv/|proxy=93.174.121.131" logo= "https://i.imgur.com/HIcqDaY.png"
+name= MEGA BUP 2 url= "http://85.11.144.9:6651/tet|user-agent=Mozilla/5.0 (Linux; Android 14; eCVLCElj8N; U; en) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.5938.153 Mobile AT/1.0.2 Safari/537.36|referer=https://lakatamia.tv/|proxy=93.174.121.131" logo= "https://i.imgur.com/HIcqDaY.png"
 name= MEGANEWS url= "https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S99841657/NU0xOarAMJ5X/chunklist_b3200000.m3u8|user-agent=Mozilla/5.0 (Android 15; Mobile; rv:68.0) Gecko/68.0 Firefox/139.0" logo= "https://www.tovima.com/wp-content/uploads/2025/03/28/mega_news.jpg"
 name= OMEGA url= "http://l1.cloudskep.com/omegatv/omcy/playlist.m3u8|user-agent=ExoPlayer" logo= "https://i.imgur.com/Np7xLfk.png"
 name= SIGMA url= "http://sl2.sigmatv.com/hls/live.m3u8|user-agent=ExoPlayer" logo= "https://i.imgur.com/lFjBmPF.png"
@@ -55,6 +55,7 @@ name= DIAVATA TV url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repos
 name= LAMPSI TV url= "https://pro.free.hr:3343/live/l1llive.m3u8" logo= "https://i.imgur.com/jUr8BZA.png"
 name= ZEUS TV url= "https://eu1.servers10.com:8081/8194/tracks-v1a1/mono.m3u8" logo= "https://extacytv.gr/wp-content/uploads/2025/04/zeys_logo-dark-300x91.png"
 name= TV SUPER url= "https://eu1.servers10.com:8081/8196/tracks-v1a1/mono.m3u8" logo= "https://extacytv.gr/images/logotvsuper.png"
+
 
 
 
