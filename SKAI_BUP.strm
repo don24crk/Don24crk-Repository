@@ -1,2 +1,4 @@
 #EXTINF:1,SKAI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 15; Mobile; rv:68.0) Gecko/68.0 Firefox/139.0
+#EXTVLCOPT:http-referrer= https://skai.gr/
 https://dai.google.com/linear/hls/pa/event/SmxC5WdPTr6kAs7dFLAa4g/stream/2100420b-0878-4d93-864a-b95809300c48:BRU/variant/0ff520fdda0534e5b483af44661ae4ae/bandwidth/978000.m3u8
