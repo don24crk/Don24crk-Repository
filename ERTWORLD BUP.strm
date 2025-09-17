@@ -1,4 +1,3 @@
 #EXTINF:1,ERTWORLD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 15; Mobile; rv:68.0) Gecko/68.0 Firefox/139.0
-#EXTVLCOPT:http-referrer= https://grlivetv.com/
 https://ertflix.akamaized.net/ertlive/ertworld/default/ERTWorld-audio_104621_und=104400-video=2000000.m3u8
+
