@@ -2,13 +2,12 @@
   <players>
     <player name="VLC" type="ExternalPlayer" audio="true" video="true">
       <filename>C:\Program Files (x86)\VideoLAN\VLC\vlc.exe</filename>
+      <args>--fullscreen "{1}"</args>
       <hidexbmc>true</hidexbmc>
-      <hideconsole>false</hideconsole>
-      <warpcursor>none</warpcursor>
-    </player>
-  </players>
-  <rules action="prepend">
-    <rule filetypes="m3u8" filename=".*m3u8*" player="VLC"/>
-  </rules>
+</player>
+</players>
+<rules action="prepend">
+<rule video="true" player="VLC"/>
+</rules>
+</playercorefactory>
 
- </playercorefactory>
