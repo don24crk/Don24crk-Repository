@@ -46,10 +46,11 @@ name= CINEMA CLASSICS url= "https://tv.mediacp.eu:8081/cinemaclassics/index.m3u8
 name= IONIAN TV url= "https://stream.ioniantv.gr/ionian/live_abr/ionian/live_1080p/chunks.m3u8" logo= "https://i.imgur.com/jFVVQW0.png"
 name= ELLAS WORLD url= "https://ellastvmax.ath.cx/freetv/promo/index.m3u8" logo= "https://ellastvmax.com.au/wp-content/uploads/2022/05/ellastvpromo.png"
 name= VILLAGE WORLD url= "https://ellastvmax.gotdns.com/freetv/village-world/index.m3u8" logo= "https://i.imgur.com/WftpxK2.png"
-name= MAD TV url= "https://stream.castr.com/677fafaf8ca2a4c22070dcd7/live_630666b0fe9911ef8b76c5c61e61d902/index.m3u8|user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.0.0 Mobile Safari/537.36" logo= "https://i.imgur.com/G0iN2tt.png"
+name= MAD TV url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/MAD-TV.strm" logo= "https://i.imgur.com/G0iN2tt.png"
 name= MAD WORLD url= "https://ellastvmax.gotdns.com/freetv/madworldtv/index.m3u8" logo= "https://i.imgur.com/zoS5RWU.png"
 name= DIAVATA TV url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/diavatatv.strm" logo= "https://i.imgur.com/1DxMmHL.png"
 name= LAMPSI TV url= "https://pro.free.hr:3343/live/l1llive.m3u8" logo= "https://i.imgur.com/jUr8BZA.png"
+
 
 
 
