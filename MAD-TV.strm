@@ -1,4 +1,2 @@
 #EXTINF:1,MAD-TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 15; Mobile; rv:68.0) Gecko/68.0 Firefox/139.0
-#EXTVLCOPT:http-referrer= https://player.castr.com/
 https://stream.castr.com/677fafaf8ca2a4c22070dcd7/live_630666b0fe9911ef8b76c5c61e61d902/index.m3u8
