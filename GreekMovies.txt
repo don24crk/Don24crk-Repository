@@ -10,12 +10,13 @@ name= TAMTAKOS O MARANTONA TIS AGIAS VARVARAS url= "plugin://plugin.video.dailym
 name= Oi Póntioi 1986 url= "plugin://plugin.video.youtube/play/?video_id=gdsVeAcjSdM" logo= "https://i.ytimg.com/vi/gdsVeAcjSdM/maxresdefault.jpg"
 name= Stathis Psaltis - Kleftroni ke tsentelman url= "plugin://plugin.video.dailymotion_com/?url=x8mpynh&mode=playVideo" logo= "https://m.media-amazon.com/images/M/MV5BNGQyODI0NjAtNTZkNC00YjRkLTkwMTgtZjZkZmMwMWIwMzNkXkEyXkFqcGc@._V1_.jpg"
 name= Mántepse Ti Káno Ta Vrádia (1984) [Ellinikí Tainía] url= "plugin://plugin.video.dailymotion_com/?url=x8ms2t5&mode=playVideo" logo= "https://i.ytimg.com/vi/1JlvuV_2HJo/maxresdefault.jpg"
-name= TA KÍTRINA GÁNTIA url= "https://3uho6lzsf1c2o3i8oun9.streamruby.net/hls2/01/00032/w6njzrw7ksuc_,l,n,h,.urlset/master.m3u8?t=3AiGmB1I55L0EzgBZuCT16sb_QkbQOl_BgsLJu4_MxU&s=1749579023&e=32400&v=590702866&sp=0|user-agent=https://vjs.zencdn.net/8.23.3/video.min.js" logo= "https://finosflixweb.eu-central-1.linodeobjects.com/uploaded/trailers/348/cover.jpg"
+name= TA KÍTRINA GÁNTIA url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/Greekmovies/%CE%A4%CE%B1%20%CE%BA%CE%AF%CF%84%CF%81%CE%B9%CE%BD%CE%B1%20%CE%B3%CE%AC%CE%BD%CF%84%CE%B9%CE%B1%20(1960).m3u8" logo= "https://finosflixweb.eu-central-1.linodeobjects.com/uploaded/trailers/348/cover.jpg"
 name= Kamikázi Agápi Mou (1983) [Ellinikí Tainía] url= "plugin://plugin.video.dailymotion_com/?url=x8pxc96&mode=playVideo" logo= "https://m.media-amazon.com/images/M/MV5BNzZlNWZlN2QtZTI4Yi00NDkwLWIyZjEtNzk1ZGIyOGVlYTYwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
 name= Stathis Psaltis - Trelathiko Politilias url= "plugin://plugin.video.youtube/play/?video_id=0yBbnI90cmo" logo= "https://i.ytimg.com/vi/SsgKBwdtzbY/hqdefault.jpg"
 name= VASIKA KALISPERA SAS - 1982 - DVDRip url= "plugin://plugin.video.dailymotion_com/?url=x8pxbw1&mode=playVideo" logo= "https://i.ytimg.com/vi/_XRM6-jLXCc/hqdefault.jpg"
 name= To pio lampró bouzoúki url= "https://srv32.dropload.io/hls2/01/00278/1lis2gz7tbqx_h/master.m3u8?t=fM5ebueGnwX400B_G4dbtxjoEF1ZCy-p4MaQTmE-P3c&s=1749579089&e=14400&f=1394555&i=0.0&sp=0|user-agent=https://vjs.zencdn.net/8.23.3/video.min.js" logo= "https://greek-movies.com/icon/movie/%CE%A4%CE%BF%CF%80%CE%B9%CE%BF%CE%BB%CE%B1%CE%BC%CF%80%CF%81%CF%8C%CE%BC%CF%80%CE%BF%CF%85%CE%B6%CE%BF%CF%8D%CE%BA%CE%B9.jpg"
 name= O Kótsos stin EOK (1980) url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/Greekmovies/%CE%9F%20%CE%9A%CF%8E%CF%84%CF%83%CE%BF%CF%82%20%CF%83%CF%84%CE%B7%CE%BD%20%CE%95%CE%9F%CE%9A%20(1980).m3u8" logo= "https://www.filmy.gr/wp-content/uploads/2024/03/Kotsos-at-the-EEC-50.jpg"
+
 
 
 
