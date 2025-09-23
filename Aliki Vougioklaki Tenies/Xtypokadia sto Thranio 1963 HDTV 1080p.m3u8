@@ -1,5 +1,6 @@
 #EXTM3U
 #EXTINF:1,Xtypokadia sto Thranio 1963 HDTV 1080p
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.124 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamruby.com/7xsah4v4pzay
 https://3uho6lzsf1c2o3i8oun9.streamruby.net/hls2/01/00295/m3elkifxmbu6_h/index-v1-a1.m3u8?t=KryBlQP2q0wk2flZ3CqOCN6WtQY_aXB5CtStWsi8hnI&s=1758555334&e=32400&v=1041755578&i=2003:e5:4739:d69b&sp=0
+
