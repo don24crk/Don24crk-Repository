@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:0,ERT1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 15; Mobile; rv:68.0) Gecko/68.0 Firefox/139.0
+https://s2.cystream.net/live/ert1/chunks.m3u8?nimblesessionid=27154464&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNi8yMDI1IDU6NDY6MzggUE0maGFzaF92YWx1ZT04dmVhU3lWa01ubnZpbGxjQVNIMUtnPT0mdmFsaWRtaW51dGVzPTIw&i=PHPSESSID=cec25648c7f6e7df3de2c2db796266b4&sp=0
