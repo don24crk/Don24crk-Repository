@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:0,ERT3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 15; Mobile; rv:68.0) Gecko/68.0 Firefox/139.0
+https://ertflix-greece.siliconweb.com/mpegts/618618_2341560/media_mpegts_2.m3u8
