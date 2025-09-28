@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:0,STAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 15; Mobile; rv:68.0) Gecko/68.0 Firefox/139.0
+https://s2.cystream.net/galanos/star/chunks.m3u8?PHPSESSID=0536f8aaca3214bfef72f6cfac513922&wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDEyOjUwOjM5IFBNJmhhc2hfdmFsdWU9QThXeGt4cHV4Z1EvN2xLeHBld2J3dz09JnZhbGlkbWludXRlcz0yMA==
