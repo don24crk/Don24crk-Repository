@@ -1,4 +1,6 @@
-#cookie = "58e1621ba7532ca78dc89f1d9d8ad37e"
-#m3u8Link = "https://s2.cystream.net/live/ert1/chunks.m3u8?nimblesessionid=27304669&wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDM6NTk6MzkgUE0maGFzaF92YWx1ZT1ZUVFCalo0VWdzVXpNb2V1U3prTzVnPT0mdmFsaWRtaW51dGVzPTIw"
-#referer = "https://anacon.org/"
-#userAgent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"
+#EXTM3U
+#EXTINF:0,MEGA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
+https://s2.cystream.net/live/megagr/chunks.m3u8?nimblesessionid=27307200&wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDQ6NTU6MTMgUE0maGFzaF92YWx1ZT1tcXU0WjE4OHA0U01Xclp4RDVrMGx3PT0mdmFsaWRtaW51dGVzPTIw
+#EXTVLCOPT:cookie=58e1621ba7532ca78dc89f1d9d8ad37e
+#EXTVLCOPT:referer=https://lakatamia.tv/
