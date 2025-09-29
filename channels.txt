@@ -50,3 +50,4 @@ name= MAD TV url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repositor
 name= MAD WORLD url= "https://ellastvmax.gotdns.com/freetv/madworldtv/index.m3u8" logo= "https://i.imgur.com/zoS5RWU.png"
 name= DIAVATA TV url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/diavatatv.strm" logo= "https://i.imgur.com/1DxMmHL.png"
 name= LAMPSI TV url= "https://pro.free.hr:3343/live/l1llive.m3u8" logo= "https://i.imgur.com/jUr8BZA.png"
+
