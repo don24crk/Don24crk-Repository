@@ -1,3 +1,4 @@
-#EXTM3U
-#EXTINF:0,MEGA
-https://s2.cystream.net/live/ert1/chunks.m3u8?nimblesessionid=27304669&wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDM6NTk6MzkgUE0maGFzaF92YWx1ZT1ZUVFCalo0VWdzVXpNb2V1U3prTzVnPT0mdmFsaWRtaW51dGVzPTIw|Cookie=58e1621ba7532ca78dc89f1d9d8ad37e
+#cookie = "58e1621ba7532ca78dc89f1d9d8ad37e"
+#m3u8Link = "https://s2.cystream.net/live/ert1/chunks.m3u8?nimblesessionid=27304669&wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDM6NTk6MzkgUE0maGFzaF92YWx1ZT1ZUVFCalo0VWdzVXpNb2V1U3prTzVnPT0mdmFsaWRtaW51dGVzPTIw"
+#referer = "https://anacon.org/"
+#userAgent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"
