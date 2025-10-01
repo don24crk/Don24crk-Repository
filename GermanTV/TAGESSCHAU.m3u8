@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:0,TAGESSCHAU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
+https://tagesschau-live.ard-mcdn.de/tagesschau/live/hls/de/master.m3u8
+#EXTVLCOPT:referer=www.TAGESSCHAU.de

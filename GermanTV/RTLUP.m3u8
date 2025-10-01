@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:0,RTLUP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
+https://x.canlitvapp.com/rtlu/index.m3u8?token=531995ecedba309eba962468c4af42fbdb9544e2-b83d75f5dabefd9bebf5bcbae51d1a06-1759346623-1759335823&remote=188.213.34.178?anahtar=kC4TTtmvUswKd7PfiHNF4w&sure=1759357722&ip=188.213.34.178
+#EXTVLCOPT:referer=https://www.schauefern.com
