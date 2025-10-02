@@ -1,56 +1,82 @@
 #EXTM3U
-#EXTINF:24,3sat SD
+#EXTINF:0,3sat 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
 https://s6.hopslan.com/3sat/index.m3u8
-#EXTINF:0,ARD.m3u8
-ARD.m3u8
-#EXTINF:0,ARTE.m3u8
-ARTE.m3u8
-#EXTINF:0,DISNEYCHANNEL.m3u8
-DISNEYCHANNEL.m3u8
-#EXTINF:0,DMAX.m3u8
-DMAX.m3u8
-#EXTINF:0,KABEL1 DOKU.m3u8
-KABEL1%20DOKU.m3u8
-#EXTINF:0,KABEL1.m3u8
-KABEL1.m3u8
-#EXTINF:0,KIKA.m3u8
-KIKA.m3u8
-#EXTINF:0,NTV.m3u8
-NTV.m3u8
-#EXTINF:0,PRO7.m3u8
-PRO7.m3u8
-#EXTINF:0,PRO7MAXX.m3u8
-PRO7MAXX.m3u8
-#EXTINF:0,RTL.m3u8
-RTL.m3u8
-#EXTINF:0,RTL2.m3u8
-RTL2.m3u8
-#EXTINF:0,RTLNITRO.m3u8
-RTLNITRO.m3u8
-#EXTINF:0,RTLUP.m3u8
-RTLUP.m3u8
-#EXTINF:0,SAT1.m3u8
-SAT1.m3u8
-#EXTINF:0,SAT1GOLD.m3u8
-SAT1GOLD.m3u8
-#EXTINF:0,SIXX.m3u8
-SIXX.m3u8
-#EXTINF:0,SUPERRTL.m3u8
-SUPERRTL.m3u8
-#EXTINF:0,TAGESSCHAU.m3u8
-TAGESSCHAU.m3u8
-#EXTINF:0,TELE5.m3u8
-TELE5.m3u8
-#EXTINF:0,TLC.m3u8
-TLC.m3u8
-#EXTINF:0,VOX.m3u8
-VOX.m3u8
-#EXTINF:0,WDR.m3u8
-WDR.m3u8
-#EXTINF:0,WELTDERWUNDER.m3u8
-WELTDERWUNDER.m3u8
-#EXTINF:0,ZDF.m3u8
-ZDF.m3u8
-#EXTINF:0,ZEEONE.m3u8
-ZEEONE.m3u8
+#EXTINF:0,ARD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
+https://s6.hopslan.com/ardX/index.m3u8
+#EXTINF:0,ARTE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
+https://s6.hopslan.com/arteX/index.m3u8
+#EXTINF:0,DISNEYCHANNEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
+https://s6.hopslan.com/disneyX/index.m3u8
+#EXTINF:0,DMAX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
+https://s6.hopslan.com/dmaxX/index.m3u8
+#EXTINF:0,KABEL1 DOKU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
+https://s6.hopslan.com/dokuX/index.m3u8
+#EXTINF:0,KABEL1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
+https://s6.hopslan.com/dokuX/index.m3u8
+#EXTINF:0,KIKA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
+https://kika-live.ard-mcdn.de/kika/live/hls/de/master.m3u8
+#EXTINF:0,NTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
+https://s6.hopslan.com/ntvX/index.m3u8
+#EXTINF:0,PRO7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
+https://s6.hopslan.com/pro7z/tracks-v1a1/mono.m3u8
+#EXTINF:0,PRO7MAXX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
+https://s6.hopslan.com/pro7maxxX/index.m3u8
+#EXTINF:0,RTL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
+https://s6.hopslan.com/rtl/index.m3u8
+#EXTINF:0,RTL2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
+https://s6.hopslan.com/rtl2z/index.m3u8
+#EXTINF:0,RTLNITRO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
+https://s6.hopslan.com/nitro1/index.m3u8
+#EXTINF:0,RTLUP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
+https://x.canlitvapp.com/rtlu/index.m3u8?token=531995ecedba309eba962468c4af42fbdb9544e2-b83d75f5dabefd9bebf5bcbae51d1a06-1759346623-1759335823&remote=188.213.34.178?anahtar=kC4TTtmvUswKd7PfiHNF4w&sure=1759357722&ip=188.213.34.178
+#EXTINF:0,SAT1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
+https://s6.hopslan.com/sat1z/index.m3u8
+#EXTINF:0,SAT1GOLD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
+https://s6.hopslan.com/goldX/index.m3u8
+#EXTINF:0,SIXX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
+https://s6.hopslan.com/sixX/index.m3u8
+#EXTINF:0,SUPERRTL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
+https://s6.hopslan.com/superX/index.m3u8
+#EXTINF:0,TAGESSCHAU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
+https://tagesschau-live.ard-mcdn.de/tagesschau/live/hls/de/master.m3u8
+#EXTINF:0,TELE5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
+https://s6.hopslan.com/tele5X/index.m3u8
+#EXTINF:0,TLC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
+https://s6.hopslan.com/tlcX/index.m3u8
+#EXTINF:0,VOX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
+https://s6.hopslan.com/voxz/index.m3u8
+#EXTINF:0,WDR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
+https://wdr-live.ard-mcdn.de/wdr/live/hls/de/master.m3u8
+#EXTINF:0,WELTDERWUNDER
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
+https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
+#EXTINF:0,ZDF
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
+https://s6.hopslan.com/zdfX1/index.m3u8
+#EXTINF:0,ZEEONE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
+https://8ade9b54.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1plZU9uZV9ITFM/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakutentv.web&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_categories=IAB1&ads.content_genre=entertainment&ads.content_livestream=0&ads.device_lmt=0&ads.device_make=firefox&ads.device_model=GENERIC&ads.device_type=web&ads.device_year=1970&ads.env=prod&ads.gam_correlator=1367604152539004&ads.gdpr_consent=CQYnFYAQYnFYAAcABBDEB-FgAAAAAEPgACiQAAAVWgegALAAqABcADgAHgAQAAkABUADKAGgAagA4AB4AEcAJkAXABdADQAG8APwAhABDQCIAIkAYYAygBmgDRAHOAO4AfAA_QCEAEWAI6ASUAxQBrwDcAHEAP6Af8BF4CRAErAJiAUiArsBbAC8wGLAMsAaqA1kB44D7gH9gR2Am8BOYCdwFFQKTAVWAAAA.YAAACHwAAAAA&ads.ifa_type=ppid&ads.inv_partner_domain=rakuten.tv&ads.ip=79.251.128.111&ads.market=de&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=b5cc422d-880a-4b98-a310-ddfbf9299bae&ads.prodq=1&ads.rating=12&ads.rtv_content_id=5673&ads.rtv_content_language=deu&ads.rtvid=271862&ads.streaming_id=f0b3d6aa-6d1f-46a4-abd3-c36721790bb0&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1547
