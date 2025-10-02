@@ -19,7 +19,7 @@ https://s6.hopslan.com/dmaxX/index.m3u8
 https://s6.hopslan.com/dokuX/index.m3u8
 #EXTINF:0,KABEL1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
-https://s6.hopslan.com/dokuX/index.m3u8
+https://s6.hopslan.com/kabel1z/index.m3u8
 #EXTINF:0,KIKA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
 https://kika-live.ard-mcdn.de/kika/live/hls/de/master.m3u8
