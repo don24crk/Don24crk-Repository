@@ -42,8 +42,8 @@ https://s6.hopslan.com/rtl2z/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
 https://s6.hopslan.com/nitro1/index.m3u8
 #EXTINF:0,RTLUP
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
-https://x.canlitvapp.com/rtlu/index.m3u8?token=531995ecedba309eba962468c4af42fbdb9544e2-b83d75f5dabefd9bebf5bcbae51d1a06-1759346623-1759335823&remote=188.213.34.178?anahtar=kC4TTtmvUswKd7PfiHNF4w&sure=1759357722&ip=188.213.34.178
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15
+https://x.canlitvapp.com/rtlu/index.m3u8?token=acf077f07057dcb98f5feab582c02123633643c2-3b7dfa0019ffb671e4ef2c8ee49d0ea6-1759444163-1759433363&remote=188.213.34.126?anahtar=NwhVomtvR4-oPPdusSBQbw&sure=1759455263&ip=188.213.34.126
 #EXTINF:0,SAT1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
 https://s6.hopslan.com/sat1z/index.m3u8
