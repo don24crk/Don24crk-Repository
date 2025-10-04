@@ -1,4 +1,5 @@
 #EXTM3U
-#EXTINF:0,ERT2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 15; Mobile; rv:68.0) Gecko/68.0 Firefox/139.0
-https://s2.cystream.net/live/ert2/chunks.m3u8?PHPSESSID=0536f8aaca3214bfef72f6cfac513922&wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDEyOjQ1OjAzIFBNJmhhc2hfdmFsdWU9MGZxcXR4eGc5Qk93RzBmV0NjMklMQT09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:1,ERT2
+#EXTVLCOPT:http-user-agent=https://vjs.zencdn.net/8.16.1/video.min.js
+#EXTVLCOPT:proxy=91.211.212.6:32650
+https://s2.cystream.net/live/ert2/chunks.m3u8?nimblesessionid=27542268&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNC8yMDI1IDM6MDM6MTcgUE0maGFzaF92YWx1ZT1Cc0czdjRtSHRpMVcwTGppSkp2cmdnPT0mdmFsaWRtaW51dGVzPTIw
