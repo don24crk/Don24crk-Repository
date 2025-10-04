@@ -39,36 +39,3 @@ name= Markos Seferlis 2025 20 Chrónia Delfinário url= "plugin://plugin.video.y
 name= ΧΑΛΒΑΗ 5-0 (2020) 720p HDTV url= "plugin://plugin.video.dailymotion_com/?url=x8mpynk&mode=playVideo" logo= "https://www.enternity.gr/files/Image/Movies-TV_Series/Xalvai_5_0/Xalvai_5_0_Review_Intro.jpg"
 name= O Kalós, o Kakós kai o Diásimos | A' Méros (Márkos Seferlís - Peroké 2014 ) url= "plugin://plugin.video.youtube/play/?video_id=J6lFwEpEpZ8" logo= "https://www.athinorama.gr/Content/ImagesDatabase/p/750x422/pad/both/lmnts/articles/2503649/kaloskakosfoto.jpg?quality=81&404=default&v=4"
 name= O Kalós, o Kakós kai o Diásimos | B' Méros (Márkos Seferlís - Peroké 2014 ) url= "plugin://plugin.video.youtube/play/?video_id=EsdPDLNmxy4" logo= "https://www.athinorama.gr/Content/ImagesDatabase/p/750x422/pad/both/lmnts/articles/2503649/kaloskakosfoto.jpg?quality=81&404=default&v=4"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
