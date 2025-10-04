@@ -3,5 +3,3 @@
 #EXTVLCOPT:http-user-agent=https://vjs.zencdn.net/8.16.1/video.min.js
 #EXTVLCOPT:proxy=91.211.212.6:32650  
 https://s2.cystream.net/galanos/skai/chunks.m3u8?nimblesessionid=27541438&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNC8yMDI1IDI6NDA6NTggUE0maGFzaF92YWx1ZT1XSmtGOUtYQjYwcmNtUTdyQWlveGZBPT0mdmFsaWRtaW51dGVzPTIw
-
-
