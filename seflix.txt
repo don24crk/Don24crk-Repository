@@ -23,7 +23,10 @@ name= Markos Seferlis 2025 Me Parésyre To Révma part 2 url= "plugin://plugin.v
 name= Márkos Seferlís - Tróei Story 30 Chrónia tóra url= "plugin://plugin.video.dailymotion_com/?url=x8svura&mode=playVideo" logo= "https://i.ytimg.com/vi/f4NfRuls-AE/mqdefault.jpg"
 name= Márkos Seferlís - Tróei Story 30 Chrónia tóra part 2 url= "plugin://plugin.video.dailymotion_com/?url=x8svvno&mode=playVideo" logo= "https://i.ytimg.com/vi/f4NfRuls-AE/mqdefault.jpg"
 name= PA.SO.K mou Sorry (Márkos Seferlís - Théatro Peroké 2003/2004) url= "plugin://plugin.video.youtube/play/?video_id=5jiPu3y9mRw" logo= "https://markosseferlis.gr/wp-content/uploads/2024/05/Pasok-Mou-Sorry-Poster11.jpg"
-name= Peter Panic Seferlis url= "plugin://plugin.video.youtube/play/?video_id=8dpT33l6lO4" logo= "https://www.ogdoo.gr/media/k2/items/cache/e96c5c3a7c7d097c1e271309ba841d4a_M.jpg"
+name= Peter Panic Seferlis Part A url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/Peter%20Panic.strm" logo= "https://www.ogdoo.gr/media/k2/items/cache/e96c5c3a7c7d097c1e271309ba841d4a_M.jpg"
+Peter Panic Seferlis Part B url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/Peter%20Panic%20Part%20B.strm" logo= "https://www.ogdoo.gr/media/k2/items/cache/e96c5c3a7c7d097c1e271309ba841d4a_M.jpg"
+Peter Panic Seferlis Part C url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/Peter%20Panic%20Part%20C.strm" logo= "https://www.ogdoo.gr/media/k2/items/cache/e96c5c3a7c7d097c1e271309ba841d4a_M.jpg"
+Peter Panic Seferlis Part D url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/Peter%20Panic%20Part%20D.strm" logo= "https://www.ogdoo.gr/media/k2/items/cache/e96c5c3a7c7d097c1e271309ba841d4a_M.jpg"
 name= Black Friday kai 13 2025 márkos seferlís url= "plugin://plugin.video.dailymotion_com/?url=x8zx9e8&mode=playVideo" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrbPu5StewCoDr1fxwYIdZ8GPnvvommzfSQg&s"
 name= Black Friday kai 13 2025 márkos seferlís part 2 url= "plugin://plugin.video.dailymotion_com/?url=x8zx9ea&mode=playVideo" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrbPu5StewCoDr1fxwYIdZ8GPnvvommzfSQg&s"
 name= O Mágos Tou Roz (Márkos Seferlís - Delfinário 2010) seferlís url= "plugin://plugin.video.youtube/play/?video_id=O68aj7EVMkI" logo= "https://i.ytimg.com/vi/O68aj7EVMkI/hqdefault.jpg"
@@ -36,6 +39,7 @@ name= Markos Seferlis 2025 20 Chrónia Delfinário url= "plugin://plugin.video.y
 name= ΧΑΛΒΑΗ 5-0 (2020) 720p HDTV url= "plugin://plugin.video.dailymotion_com/?url=x8mpynk&mode=playVideo" logo= "https://www.enternity.gr/files/Image/Movies-TV_Series/Xalvai_5_0/Xalvai_5_0_Review_Intro.jpg"
 name= O Kalós, o Kakós kai o Diásimos | A' Méros (Márkos Seferlís - Peroké 2014 ) url= "plugin://plugin.video.youtube/play/?video_id=J6lFwEpEpZ8" logo= "https://www.athinorama.gr/Content/ImagesDatabase/p/750x422/pad/both/lmnts/articles/2503649/kaloskakosfoto.jpg?quality=81&404=default&v=4"
 name= O Kalós, o Kakós kai o Diásimos | B' Méros (Márkos Seferlís - Peroké 2014 ) url= "plugin://plugin.video.youtube/play/?video_id=EsdPDLNmxy4" logo= "https://www.athinorama.gr/Content/ImagesDatabase/p/750x422/pad/both/lmnts/articles/2503649/kaloskakosfoto.jpg?quality=81&404=default&v=4"
+
 
 
 
