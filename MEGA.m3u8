@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF:0,MEGA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
-#EXTVLCOPT:http-cookie=?nimblesessionid=27535487&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNC8yMDI1IDExOjE1OjA3IEFNJmhhc2hfdmFsdWU9QnNpdEFFNWF6UnoxRU1YOVJXRGVlQT09JnZhbGlkbWludXRlcz0yMA==
+#EXTVLCOPT:http-token=?nimblesessionid=27535487&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNC8yMDI1IDExOjE1OjA3IEFNJmhhc2hfdmFsdWU9QnNpdEFFNWF6UnoxRU1YOVJXRGVlQT09JnZhbGlkbWludXRlcz0yMA==
 https://s2.cystream.net/live/megagr/chunks.m3u8
