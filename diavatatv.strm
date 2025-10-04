@@ -1,2 +1,3 @@
 #EXTINF:-1,DiavataTV
-https://live20.bozztv.com/akamaissh101/ssh101/diavatatvweb/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
+https://live20.bozztv.com/giatv/giatv-diavatatvonline/diavatatvonline/chunks.m3u8
