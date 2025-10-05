@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Live Stream</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="Description" lang="en" content="">
+    <meta name="author" content="">
+    <meta name="robots" content="index, follow">
+
+    <link href="https://unpkg.com/video.js@7/dist/video-js.min.css" rel="stylesheet" />
+    <link href="https://unpkg.com/@videojs/themes@1/dist/forest/index.css" rel="stylesheet" />
+    <link rel="stylesheet" href="../../assets/css/donate.css">
+    <link rel="stylesheet" href="../../assets/css/playerpage.css">
+
+
+
+    <script src="https://vjs.zencdn.net/8.23.4/video.min.js"></script>
+
+
+</head>
+
+
+<body>
+    <div class="container">
+
+            <div class="player-container">
+
+
+                <!-- PLAYER -->
+                <div class="video-js-responsive-container vjs-hd">
+                    <video id="live-stream" class="video-js vjs-theme-forest vjs-fluid" controls autoplay preload="auto"
+					poster="https://cdn.britannica.com/49/1049-050-3AD6578E/Flag-Greece.jpg"
+                        data-setup='{}'>
+                        <source src="https://36x8fqcfqsv376o2c3bj.streamruby.net/hls2/02/00077/fjbacd629zpz_n/index-v1-a1.m3u8?t=fQmKmQ7OsqJ5UiC8RZwq_Bvj78yE6N9NuvuB60JXxbA&s=1759683621&e=32400&v=1102148371&i=2003:e5:4738:e1ae&sp=0"
+                            type="application/x-mpegURL">
+                    </video>
+                </div>
+
+                <script>
+                    const player = videojs('live-stream', {
+                        liveui: true,
+                        fluid: true,
+                        aspectRatio: '16:9'
+                    });
+                    player.on('error', () => {
+                        console.error('An error occurred:', player.error());
+                    });
+                </script>
+        </div>
+    </div>
+</body>
+
+</html>
+
+				
