@@ -1,12 +1,12 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:9
-#EXT-X-MEDIA-SEQUENCE:7521
-#EXTINF:6.72,
-l_3820_55016560_7521.ts?nimblesessionid=27715615&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNy8yMDI1IDQ6MDk6NTUgUE0maGFzaF92YWx1ZT05eGN6aFo5N0VFVVdEbWJZQ1BUNDd3PT0mdmFsaWRtaW51dGVzPTIw&liveui=true&fluid=true&Allow origin=true&withCredentials=true
-#EXTINF:5.28,
-l_3820_55023280_7522.ts?nimblesessionid=27715615&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNy8yMDI1IDQ6MDk6NTUgUE0maGFzaF92YWx1ZT05eGN6aFo5N0VFVVdEbWJZQ1BUNDd3PT0mdmFsaWRtaW51dGVzPTIw&liveui=true&fluid=true&Allow origin=true&withCredentials=true
-#EXTINF:3.8,
-l_3820_55028560_7523.ts?nimblesessionid=27715615&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNy8yMDI1IDQ6MDk6NTUgUE0maGFzaF92YWx1ZT05eGN6aFo5N0VFVVdEbWJZQ1BUNDd3PT0mdmFsaWRtaW51dGVzPTIw&liveui=true&fluid=true&Allow origin=true&withCredentials=true
-#EXTINF:8.12,
-l_3820_55032360_7524.ts?nimblesessionid=27715615&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNy8yMDI1IDQ6MDk6NTUgUE0maGFzaF92YWx1ZT05eGN6aFo5N0VFVVdEbWJZQ1BUNDd3PT0mdmFsaWRtaW51dGVzPTIw&liveui=true&fluid=true&Allow origin=true&withCredentials=true
+#EXT-X-TARGETDURATION:15
+#EXT-X-MEDIA-SEQUENCE:7612
+#EXTINF:11.4,
+l_3820_55586400_7612.ts?nimblesessionid=27714373&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNy8yMDI1IDM6Mjg6NTQgUE0maGFzaF92YWx1ZT1CTzE1eTIvbk82NGZnUDFMbjZIQUV3PT0mdmFsaWRtaW51dGVzPTIw&Allow%20origin=true&fluid=true&liveui=true&withCredentials=true
+#EXTINF:14.04,
+l_3820_55597800_7613.ts?nimblesessionid=27714373&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNy8yMDI1IDM6Mjg6NTQgUE0maGFzaF92YWx1ZT1CTzE1eTIvbk82NGZnUDFMbjZIQUV3PT0mdmFsaWRtaW51dGVzPTIw&Allow%20origin=true&fluid=true&liveui=true&withCredentials=true
+#EXTINF:4.04,
+l_3820_55611840_7614.ts?nimblesessionid=27714373&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNy8yMDI1IDM6Mjg6NTQgUE0maGFzaF92YWx1ZT1CTzE1eTIvbk82NGZnUDFMbjZIQUV3PT0mdmFsaWRtaW51dGVzPTIw&Allow%20origin=true&fluid=true&liveui=true&withCredentials=true
+#EXTINF:4.24,
+l_3820_55615880_7615.ts?nimblesessionid=27714373&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNy8yMDI1IDM6Mjg6NTQgUE0maGFzaF92YWx1ZT1CTzE1eTIvbk82NGZnUDFMbjZIQUV3PT0mdmFsaWRtaW51dGVzPTIw&Allow%20origin=true&fluid=true&liveui=true&withCredentials=true
