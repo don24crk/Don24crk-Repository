@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:1,STAR
+#EXTVLCOPT:http-user-agent=https://vjs.zencdn.net/8.23.4/video.min.js
+https://s2.cystream.net/galanos/star/chunks.m3u8?nimblesessionid=27714373&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNy8yMDI1IDM6Mjg6NTQgUE0maGFzaF92YWx1ZT1CTzE1eTIvbk82NGZnUDFMbjZIQUV3PT0mdmFsaWRtaW51dGVzPTIw&liveui=true&fluid=true&Allow origin=true&withCredentials=true
