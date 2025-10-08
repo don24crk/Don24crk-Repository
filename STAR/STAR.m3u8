@@ -1,0 +1,29 @@
+<?php
+
+$curl = curl_init('https://lakatamia.tv/app/chans/gr/stargr.php with the embedded code for the STAR/');
+curl_setopt($curl, CURLOPT_RETURNTRANSFER, TRUE);
+
+$page = curl_exec($curl);
+$stream_name = "STAR";
+
+if(curl_errno($curl)) // check for execution errors
+{
+    echo 'Scraper error: ' . curl_error($curl);
+    exit;
+}
+
+curl_close($curl);
+
+$regex = '/token=(.*?)"/';
+if ( preg_match($regex, $page, $match) )
+    $stream_url =  "https://s2.cystream.net/galanos/star/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvOC8yMDI1IDM6NDU6NTAgUE0maGFzaF92YWx1ZT1wR3RDaDJQajZ2aDllbVhndCt1dUlnPT0mdmFsaWRtaW51dGVzPTIw".$match[1];
+else ($stream_url =  "error");
+
+header('Content-Type: application/octet-stream');
+echo "#EXTM3U\n";
+echo "#EXTINF:-1," . $stream_name . "\n";
+echo $stream_url;
+
+?>
+
+RewriteRule STAR\.m3u /STAR.php
