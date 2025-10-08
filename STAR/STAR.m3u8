@@ -1,29 +1,26 @@
-<?php
+import requests
+import re
 
-$curl = curl_init('https://lakatamia.tv/app/chans/gr/stargr.php with the embedded code for the STAR/');
-curl_setopt($curl, CURLOPT_RETURNTRANSFER, TRUE);
+url = 'https://lakatamia.tv/app/chans/gr/stargr.php with the embedded code for the STAR/'
+response = requests.get(url)
 
-$page = curl_exec($curl);
-$stream_name = "STAR";
+stream_name = "STAR"
 
-if(curl_errno($curl)) // check for execution errors
-{
-    echo 'Scraper error: ' . curl_error($curl);
-    exit;
-}
+if response.status_code != 200:
+    print('Scraper error: ' + str(response.status_code))
+    exit()
 
-curl_close($curl);
+page = response.text
 
-$regex = '/token=(.*?)"/';
-if ( preg_match($regex, $page, $match) )
-    $stream_url =  "https://s2.cystream.net/galanos/star/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvOC8yMDI1IDM6NDU6NTAgUE0maGFzaF92YWx1ZT1wR3RDaDJQajZ2aDllbVhndCt1dUlnPT0mdmFsaWRtaW51dGVzPTIw".$match[1];
-else ($stream_url =  "error");
+regex = r'token=(.*?)"'
+match = re.search(regex, page)
 
-header('Content-Type: application/octet-stream');
-echo "#EXTM3U\n";
-echo "#EXTINF:-1," . $stream_name . "\n";
-echo $stream_url;
+if match:
+    stream_url = f"https://s2.cystream.net/galanos/star/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvOC8yMDI1IDM6NDU6NTAgUE0maGFzaF92YWx1ZT1wR3RDaDJQajZ2aDllbVhndCt1dUlnPT0mdmFsaWRtaW51dGVzPTIw{match.group(1)}"
+else:
+    stream_url = "error"
 
-?>
-
-RewriteRule STAR\.m3u /STAR.php
+print('Content-Type: application/octet-stream')
+print("#EXTM3U")
+print(f"#EXTINF:-1,{stream_name}")
+print(stream_url)
