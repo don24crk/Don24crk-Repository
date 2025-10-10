@@ -2,4 +2,4 @@
 #EXTINF:1,ERT2
 #EXTVLCOPT:http-user-agent=https://vjs.zencdn.net/8.23.4/video.min.js
 #EXTVLCOPT:http-Referer=https://anacon.org/app/chans/gr/ert2s2.php
-https://s2.cystream.net/live/ert2/chunks.m3u8?nimblesessionid=27903090&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTAvMjAyNSA0OjUwOjMxIFBNJmhhc2hfdmFsdWU9NEM0VUxVVUtzbVREeVYvU2xlZnM5QT09JnZhbGlkbWludXRlcz0yMA==
+https://s2.cystream.net/live/ert2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTAvMjAyNSA1OjMxOjQzIFBNJmhhc2hfdmFsdWU9aGFuYzVJZ3lDTmxKcEpkblFLSTg5dz09JnZhbGlkbWludXRlcz0yMA==
