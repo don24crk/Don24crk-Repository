@@ -1,4 +1,4 @@
 #EXTM3U
 #EXTINF:1,ERT3
 #EXTVLCOPT:http-user-agent=https://vjs.zencdn.net/8.23.4/video.min.js
-https://s2.cystream.net/live/ert3/chunks.m3u8?nimblesessionid=27669962&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNi8yMDI1IDU6MzQ6MDIgUE0maGFzaF92YWx1ZT1FcFBFcnNaUnhkK0NndXBOZk9NNThBPT0mdmFsaWRtaW51dGVzPTIw&liveui=true&fluid=true&Allow origin=true&withCredentials=true
+http://technologycloud.eu/play/live.php?mac=00:1A:79:84:B7:7B&stream=307904&extension=ts&play_token=AXyUsIIbIq
