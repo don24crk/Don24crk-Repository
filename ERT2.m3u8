@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:1,ERT2
-https://s2.cystream.net/live/ert2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTAvMjAyNSA0OjA4OjA3IFBNJmhhc2hfdmFsdWU9dFBzL2ozeHJMYlltb1JoMHJKUUtaUT09JnZhbGlkbWludXRlcz0yMA==|User-Agent=https%3A%2F%2Fvjs.zencdn.net%2F8.23.4%2Fvideo.min.js&Referer=https%3A%2F%2Fanacon.org%2F
+#EXTVLCOPT:http-user-agent=https://vjs.zencdn.net/8.23.4/video.min.js
+#EXTVLCOPT:http-Referer=https://anacon.org/app/chans/gr/ert2s2.php
+https://s2.cystream.net/live/ert2/chunks.m3u8?nimblesessionid=27903090&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTAvMjAyNSA0OjUwOjMxIFBNJmhhc2hfdmFsdWU9NEM0VUxVVUtzbVREeVYvU2xlZnM5QT09JnZhbGlkbWludXRlcz0yMA==
