@@ -1,2 +1,4 @@
-#EXTINF:-1,ERTMUSIC
-http://hbbtv.ert.gr/stream.php/v/vid_ertplay5_mpeg.2ts|user-agent=ExoPlayer
+#EXTM3U
+#EXTINF:1,PANIK TV
+#EXTINF:-1,Panik TV#EXTVLCOPT:http-user-agent=https://vjs.zencdn.net/8.16.1/video.min.js
+https://livetv.streams.ovh:1936/paniktv/paniktv/chunklist_w1098752281.m3u8
