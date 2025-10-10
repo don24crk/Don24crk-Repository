@@ -23,7 +23,7 @@ name= ALPHA TV url= "https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/pl
 name= ALPHA TV BUP url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ALPHASAT.strm" logo= "https://www.alphatvsat.com/wp-content/uploads/2018/03/Alpha_Sat_logo.png"
 name= ALPHA TV BUP 2 url= "https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/playlist.m3u8" logo= "https://i.imgur.com/0i4MUcc.png"
 name= OPEN TV url= "https://liveopen.siliconweb.com/openTvLive/liveopen/playlist.m3u8" logo= "https://i.imgur.com/cshmF4s.png"
-name= OPEN TV BUP url= "https://liveopen.siliconweb.com/openTvLive/liveopen/playlist.m3u8" logo= "https://i.imgur.com/cshmF4s.png"
+name= OPEN TV BUP url= "https://liveopen.siliconweb.com/openTvLive/liveopen/chunks.m3u8" logo= "https://i.imgur.com/cshmF4s.png"
 name= SKAI TV url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/SKAI1.m3u8" logo= "https://i.imgur.com/o2aft6Q.png"
 name= SKAI TV BUP url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/SKAI.m3u8" logo= "https://i.imgur.com/o2aft6Q.png"
 name= STAR TV url= "https://livestar.siliconweb.com/starvod/star4/star4newhd.m3u8" logo= "https://i.imgur.com/AazwSEQ.png"
@@ -50,6 +50,7 @@ name= MAD TV url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repositor
 name= MAD WORLD url= "https://ellastvmax.gotdns.com/freetv/madworldtv/index.m3u8" logo= "https://i.imgur.com/zoS5RWU.png"
 name= DIAVATA TV url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/diavatatv.strm" logo= "https://i.imgur.com/1DxMmHL.png"
 name= LAMPSI TV url= "https://pro.free.hr:3343/live/l1llive.m3u8" logo= "https://i.imgur.com/jUr8BZA.png"
+
 
 
 
