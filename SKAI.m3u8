@@ -1,3 +1,3 @@
 #EXTINF:1,SKAI BUP
 #EXTVLCOPT:http-user-agent=https://vjs.zencdn.net/8.23.4/video.min.js
-https://s2.cystream.net/galanos/skai/chunks.m3u8?nimblesessionid=27671764&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNi8yMDI1IDY6MDE6MzQgUE0maGFzaF92YWx1ZT1aN0RveDFwZGp4ZnNiR2w1VHZPM1pRPT0mdmFsaWRtaW51dGVzPTIw&liveui=true&fluid=true&Allow origin=true&withCredentials=true
+https://skai-live.siliconweb.com/media/cambria4/index_media_bitrate1200K_avc1_mp4a.m3u8
