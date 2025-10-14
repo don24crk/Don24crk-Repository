@@ -1,5 +1,4 @@
 #EXTM3U
 #EXTINF:1,MEGA-COSMOS
 #EXTVLCOPT:http-user-agent=https://vjs.zencdn.net/8.23.4/video.min.js
-#EXTVLCOPT:http-Referer=https://lakatamia.tv/app/chans/gr/mega.php
-https://s2.cystream.net/live/megagr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTAvMjAyNSA1OjM1OjI2IFBNJmhhc2hfdmFsdWU9QkNuOGVTQXBjQkkvSmZ0U2tQMjZnQT09JnZhbGlkbWludXRlcz0yMA==
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=1060885&extension=ts&play_token=3kmaHTapMv?ip=85.195.83.114
