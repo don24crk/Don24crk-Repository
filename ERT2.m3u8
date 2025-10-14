@@ -1,4 +1,4 @@
 #EXTM3U
 #EXTINF:1,ERT2
 #EXTVLCOPT:http-user-agent=https://vjs.zencdn.net/8.23.4/video.min.js
-https://ertflix-greece.siliconweb.com/cmaf/618618_2341557/index.mpd
+https://ertflix-greece.siliconweb.com:443/cmaf/618618_2341557/index.mpd
