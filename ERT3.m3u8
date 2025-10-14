@@ -1,4 +1,4 @@
 #EXTM3U
 #EXTINF:1,ERT3
 #EXTVLCOPT:http-user-agent=https://vjs.zencdn.net/8.23.4/video.min.js
-http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=307904&extension=ts&play_token=AXyUsIIbIq?ip=85.195.83.114
+https://ertflix-greece.siliconweb.com:443/cmaf/618618_2341560/index.mpd
