@@ -1,5 +1,0 @@
-#EXTM3U
-#EXTINF:1,MAD-TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.124 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://player.castr.com/
-https://stream.castr.com/677fafaf8ca2a4c22070dcd7/live_630666b0fe9911ef8b76c5c61e61d902/index.m3u8
