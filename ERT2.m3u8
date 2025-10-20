@@ -2,4 +2,3 @@
 #EXTINF:1,ERT2
 #EXTVLCOPT:http-user-agent=https://cdn.jsdelivr.net/npm/vlc-player@2.0.0/index.min.js
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=307906&extension=ts&play_token=NZ03zZjbNH&proxy=93.174.121.131:80
-
