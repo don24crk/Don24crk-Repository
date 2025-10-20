@@ -11,7 +11,7 @@ name= ERTWORLD BUP url= "https://raw.githubusercontent.com/don24crk/Don24crk-Rep
 name= ERTNEWS url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ERTNEWS%20BUP.strm" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_NEWS.png?raw=true"
 name= ERTNEWS BUP url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ERTNEWS%20BUP.strm" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_NEWS.png?raw=true"
 name= ERT KIDS url= "http://195.226.218.163/vid/kidstv-hbbtv/mpeg.2ts" logo= "https://i.imgur.com/RvrQSAs.png"
-name= TILEMOUSIKI url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ERTMUSIC.strm" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCQMclLxsBYvYpDKhaiFKAA9TNpI3A8s_RHw&s"
+name= TILEMOUSIKI url= "http://65.108.62.57:8080/live2/greekmusic.m3u8" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCQMclLxsBYvYpDKhaiFKAA9TNpI3A8s_RHw&s"
 name= ANT1 url= "https://lcdn.antennaplus.gr/r86d08d448885424196f6cd3ddc5d1489/eu-central-1/eu-central-1/6415884360001/profile_0/chunklist.m3u8|user-agent=VLC" logo= "https://i.imgur.com/GTFFtOR.png"
 name= ANT1 BUP url= "https://spark3.smart-tv-data.com/ant1HD/ant1HD/playlist.m3u8" logo= "https://i.imgur.com/GTFFtOR.png"
 name= ANT1 DRAMA url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ANT1%20DRAMA.strm" logo= "https://i.imgur.com/5QDNhXo.png"
@@ -21,7 +21,7 @@ name= MAKTV url= "https://lcdn.antennaplus.gr/r444865966c0847fca53b9b0c133af7a9/
 name= MAKTV BUP url= "https://lcdn.antennaplus.gr/r444865966c0847fca53b9b0c133af7a9/eu-central-1/eu-central-1/6415884360001/profile_0/chunklist.m3u8|user-agent=Mozilla/5.0 (Android 15; Mobile; rv:68.0) Gecko/68.0 Firefox/139.0" logo= "https://i.imgur.com/RVs0GZa.png"
 name= ALPHA TV url= "https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/playlist.m3u8" logo= "https://i.imgur.com/0i4MUcc.png"
 name= ALPHASAT url= "http://line.myunityhost.com:80/play/live.php?mac=00:1A:79:C1:4F:70&stream=942248&extension=ts&play_token=9wHePfWZH5&proxy=93.174.121.131:80" logo= "https://www.alphatvsat.com/wp-content/uploads/2018/03/Alpha_Sat_logo.png"
-name= ALPHA TV BUP url= "https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/playlist.m3u8" logo= "https://i.imgur.com/0i4MUcc.png"
+name= ALPHA TV BUP url= "https://alphatvlive2.siliconweb.com/alphatvlive/live_source/chunks.m3u8" logo= "https://i.imgur.com/0i4MUcc.png"
 name= OPEN TV url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/OPEN.m3u8" logo= "https://i.imgur.com/cshmF4s.png"
 name= OPEN TV BUP url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/OPEN2.m3u8" logo= "https://i.imgur.com/cshmF4s.png"
 name= SKAI TV url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/SKAI1.m3u8" logo= "https://i.imgur.com/o2aft6Q.png"
@@ -49,7 +49,8 @@ name= VILLAGE WORLD url= "https://ellastvmax.gotdns.com/freetv/village-world/ind
 name= MAD TV url= "http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=307841&extension=ts&play_token=iKQRG6rSLF&proxy=93.174.121.131:80" logo= "https://i.imgur.com/G0iN2tt.png"
 name= MAD WORLD url= "https://ellastvmax.gotdns.com/freetv/madworldtv/index.m3u8" logo= "https://i.imgur.com/zoS5RWU.png"
 name= DIAVATA TV url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/diavatatv.strm" logo= "https://i.imgur.com/1DxMmHL.png"
-name= LAMPSI TV url= "https://webm.pp.ua:59000/lampsitv.webm" logo= "https://i.imgur.com/jUr8BZA.png"
+name= LAMPSI TV url= "https://webm.pp.ua:59000/lampsitv.webm&user-agent=EXOPLAYER" logo= "https://i.imgur.com/jUr8BZA.png"
+
 
 
 
