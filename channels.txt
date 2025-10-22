@@ -26,8 +26,8 @@ name= OPEN TV url= "https://raw.githubusercontent.com/don24crk/Don24crk-Reposito
 name= OPEN TV BUP url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/OPEN2.m3u8" logo= "https://i.imgur.com/cshmF4s.png"
 name= SKAI TV url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/SKAI1.m3u8" logo= "https://i.imgur.com/o2aft6Q.png"
 name= SKAI TV BUP url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/SKAI.m3u8" logo= "https://i.imgur.com/o2aft6Q.png"
-name= STAR TV url= "http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=307893&extension=ts&play_token=aF4qB0jYGm&proxy=93.174.121.131" logo= "https://i.imgur.com/AazwSEQ.png"
-name= STAR TV BUP url= "http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=307893&extension=ts&play_token=aF4qB0jYGm&proxy=93.174.121.131" logo= "https://i.imgur.com/AazwSEQ.png"
+name= STAR TV url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/playlist.m3u8" logo= "https://i.imgur.com/AazwSEQ.png"
+name= STAR TV BUP url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/playlist.m3u8" logo= "https://i.imgur.com/AazwSEQ.png"
 name= STAR INTERNATIONAL url= "https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8" logo= "https://i.imgur.com/AazwSEQ.png"
 name= MEGA url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/MEGATV.m3u8" logo= "https://i.imgur.com/HIcqDaY.png"
 name= MEGA BUP url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/MEGATV.m3u8" logo= "https://i.imgur.com/HIcqDaY.png"
@@ -50,6 +50,7 @@ name= MAD TV url= "http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7
 name= MAD WORLD url= "https://ellastvmax.gotdns.com/freetv/madworldtv/index.m3u8" logo= "https://i.imgur.com/zoS5RWU.png"
 name= DIAVATA TV url= "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Diavata.m3u8" logo= "https://i.imgur.com/1DxMmHL.png"
 name= LAMPSI TV url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/Lampsi.m3u8" logo= "https://i.imgur.com/jUr8BZA.png"
+
 
 
 
