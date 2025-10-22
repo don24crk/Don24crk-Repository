@@ -1,4 +1,4 @@
 #EXTM3U
 #EXTINF:1,OPEN
 #EXTVLCOPT:Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://liveopen.siliconweb.com/openTvLive/liveopen/chunks.m3u8
+https://liveopen.siliconweb.com/openTvLive/liveopen/chunks.m3u8&proxy=93.174.121.131
