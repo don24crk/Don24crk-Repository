@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:1,STARTV
+#EXTVLCOPT:http-user-agent=https://vjs.zencdn.net/8.23.4/video.min.js
+https://s2.cystream.net:443/galanos/star/chunks.m3u8?nimblesessionid=28581383&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyNSA3OjA5OjAzIFBNJmhhc2hfdmFsdWU9VzY2Z1BpeFpjZmpiRFZzSlNNNjNNQT09JnZhbGlkbWludXRlcz0yMA==&proxy=93.174.121.131
