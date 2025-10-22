@@ -12,8 +12,8 @@ name= ERTNEWS url= "https://raw.githubusercontent.com/don24crk/Don24crk-Reposito
 name= ERTNEWS BUP url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ERTNEWS%20BUP.strm" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_NEWS.png?raw=true"
 name= ERT KIDS url= "http://195.226.218.163/vid/kidstv-hbbtv/mpeg.2ts" logo= "https://i.imgur.com/RvrQSAs.png"
 name= TILEMOUSIKI url= "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Tilemousiki1.m3u8" logo= "https://africaorigin.net/upload/source/TILEMOUSIKI%20(GR).jpg"
-name= ANT1 url= "https://lcdn.antennaplus.gr/r86d08d448885424196f6cd3ddc5d1489/eu-central-1/eu-central-1/6415884360001/profile_0/chunklist.m3u8|user-agent=VLC" logo= "https://i.imgur.com/GTFFtOR.png"
-name= ANT1 BUP url= "https://spark3.smart-tv-data.com/ant1HD/ant1HD/playlist.m3u8" logo= "https://i.imgur.com/GTFFtOR.png"
+name= ANT1 url= "https://lcdn.antennaplus.gr/r86d08d448885424196f6cd3ddc5d1489/eu-central-1/eu-central-1/6415884360001/profile_0/chunklist.m3u8" logo= "https://i.imgur.com/GTFFtOR.png"
+name= ANT1 BUP url= "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/antenna.m3u8" logo= "https://i.imgur.com/GTFFtOR.png"
 name= ANT1 DRAMA url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ANT1%20DRAMA.strm" logo= "https://i.imgur.com/5QDNhXo.png"
 name= ANT1 COMEDY url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ANT1%20COMEDY.strm" logo= "https://i.imgur.com/V1byeFi.png"
 name= ANT1 JUST MUSIC url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ANT1JUSTMUSIC.strm" logo= "https://i.imgur.com/hz41PMx.png"
@@ -50,6 +50,7 @@ name= MAD TV url= "http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7
 name= MAD WORLD url= "https://ellastvmax.gotdns.com/freetv/madworldtv/index.m3u8" logo= "https://i.imgur.com/zoS5RWU.png"
 name= DIAVATA TV url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/diavatatv.strm" logo= "https://i.imgur.com/1DxMmHL.png"
 name= LAMPSI TV url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/Lampsi.m3u8" logo= "https://i.imgur.com/jUr8BZA.png"
+
 
 
 
