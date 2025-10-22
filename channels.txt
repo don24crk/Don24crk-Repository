@@ -1,11 +1,11 @@
-name= ERT1 url= "http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=307908&extension=ts&play_token=Ujh3lBk4yk&proxy=93.174.121.131:80" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_1.png?raw=true"
-name= ERT2 url= "http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=307906&extension=ts&play_token=NZ03zZjbNH&proxy=93.174.121.131:80" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_2.png?raw=true"
-name= ERT3 url= "http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=307904&extension=ts&play_token=AXyUsIIbIq&proxy=93.174.121.131:80" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_3.png?raw=true"
-name= ERT1 BUP url= "http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=307908&extension=ts&play_token=Ujh3lBk4yk&proxy=93.174.121.131:80" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_1.png?raw=true"
-name= ERT2 BUP url= "http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=307906&extension=ts&play_token=NZ03zZjbNH&proxy=93.174.121.131:80"
-name= ERT2 BUP 2 url= "http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=307906&extension=ts&play_token=NZ03zZjbNH&proxy=93.174.121.131:80" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_2.png?raw=true"
-name= ERT3 BUP url= "http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=307904&extension=ts&play_token=AXyUsIIbIq&proxy=93.174.121.131:80" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_3.png?raw=true"
-name= ERT3 BUP 2 url= "http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=307904&extension=ts&play_token=AXyUsIIbIq&proxy=93.174.121.131:80" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_3.png?raw=true"
+name= ERT1 url= "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/ert1.m3u8" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_1.png?raw=true"
+name= ERT2 url= "https://ertflix.siliconweb.com/mpegts/618618_2341557/media_mpegts_0.m3u8" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_2.png?raw=true"
+name= ERT3 url= "https://ertflix.siliconweb.com/mpegts/618618_2341560/media_mpegts_0.m3u8" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_3.png?raw=true"
+name= ERT1 BUP url= "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/ert1.m3u8" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_1.png?raw=true"
+name= ERT2 BUP url= "https://ertflix.siliconweb.com/mpegts/618618_2341557/media_mpegts_0.m3u8"
+name= ERT2 BUP 2 url= "https://ertflix.siliconweb.com/mpegts/618618_2341557/media_mpegts_0.m3u8" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_2.png?raw=true"
+name= ERT3 BUP url= "https://ertflix.siliconweb.com/mpegts/618618_2341560/media_mpegts_0.m3u8" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_3.png?raw=true"
+name= ERT3 BUP 2 url= "https://ertflix.siliconweb.com/mpegts/618618_2341560/media_mpegts_0.m3u8" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_3.png?raw=true"
 name= ERTWORLD url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ERTWORLD%20BUP.strm" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_World.png?raw=true"
 name= ERTWORLD BUP url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ERTWORLD%20BUP.strm" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_World.png?raw=true"
 name= ERTNEWS url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ERTNEWS%20BUP.strm" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_NEWS.png?raw=true"
@@ -20,7 +20,7 @@ name= ANT1 JUST MUSIC url= "https://raw.githubusercontent.com/don24crk/Don24crk-
 name= MAKTV url= "https://lcdn.antennaplus.gr/r444865966c0847fca53b9b0c133af7a9/eu-central-1/eu-central-1/6415884360001/profile_0/chunklist.m3u8|user-agent=Mozilla/5.0 (Android 15; Mobile; rv:68.0) Gecko/68.0 Firefox/139.0" logo= "https://i.imgur.com/RVs0GZa.png"
 name= MAKTV BUP url= "https://lcdn.antennaplus.gr/r444865966c0847fca53b9b0c133af7a9/eu-central-1/eu-central-1/6415884360001/profile_0/chunklist.m3u8|user-agent=Mozilla/5.0 (Android 15; Mobile; rv:68.0) Gecko/68.0 Firefox/139.0" logo= "https://i.imgur.com/RVs0GZa.png"
 name= ALPHA TV url= "https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/playlist.m3u8" logo= "https://i.imgur.com/0i4MUcc.png"
-name= ALPHASAT url= "http://line.myunityhost.com:80/play/live.php?mac=00:1A:79:C1:4F:70&stream=942248&extension=ts&play_token=9wHePfWZH5&proxy=93.174.121.131:80|user-agent=EXOPLAYER" logo= "https://www.alphatvsat.com/wp-content/uploads/2018/03/Alpha_Sat_logo.png"
+name= ALPHASAT url= "http://line.myunityhost.com:80/play/live.php?mac=00:1A:79:C1:4F:70&stream=942248&extension=ts&play_token=9wHePfWZH5&proxy=93.174.121.131:80" logo= "https://www.alphatvsat.com/wp-content/uploads/2018/03/Alpha_Sat_logo.png"
 name= ALPHA TV BUP url= "https://alphatvlive2.siliconweb.com/alphatvlive/live_source/chunks.m3u8" logo= "https://i.imgur.com/0i4MUcc.png"
 name= OPEN TV url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/OPEN.m3u8" logo= "https://i.imgur.com/cshmF4s.png"
 name= OPEN TV BUP url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/OPEN2.m3u8" logo= "https://i.imgur.com/cshmF4s.png"
@@ -50,6 +50,7 @@ name= MAD TV url= "http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7
 name= MAD WORLD url= "https://ellastvmax.gotdns.com/freetv/madworldtv/index.m3u8" logo= "https://i.imgur.com/zoS5RWU.png"
 name= DIAVATA TV url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/diavatatv.strm" logo= "https://i.imgur.com/1DxMmHL.png"
 name= LAMPSI TV url= "https://webm.pp.ua:59000/lampsitv.webm|user-agent=https://vjs.zencdn.net/8.23.4/video.min.js" logo= "https://i.imgur.com/jUr8BZA.png"
+
 
 
 
