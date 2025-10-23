@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=3200000,CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=1280x720
-http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=307884&extension=ts&play_token=CzdfGxy9LJ
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=307884&extension=ts&play_token=CzdfGxy9LJ&proxy=93.174.121.131:80
