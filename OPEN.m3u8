@@ -1,4 +1,4 @@
 #EXTM3U
-#EXTINF:1,OPEN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
-https://liveopen.siliconweb.com/openTvLive/liveopen/playlist.m3u8
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=1986756,FRAME-RATE=25,RESOLUTION=1280x720,CODECS="avc1.4d001f,mp4a.40.2"
+https://liveopen.siliconweb.com/openTvLive/liveopen/chunks.m3u8
