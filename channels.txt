@@ -20,7 +20,7 @@ name= ANT1 JUST MUSIC url= "https://raw.githubusercontent.com/don24crk/Don24crk-
 name= MAKTV url= "https://lcdn.antennaplus.gr/r444865966c0847fca53b9b0c133af7a9/eu-central-1/eu-central-1/6415884360001/profile_0/chunklist.m3u8|user-agent=Mozilla/5.0 (Android 15; Mobile; rv:68.0) Gecko/68.0 Firefox/139.0" logo= "https://i.imgur.com/RVs0GZa.png"
 name= MAKTV BUP url= "https://lcdn.antennaplus.gr/r444865966c0847fca53b9b0c133af7a9/eu-central-1/eu-central-1/6415884360001/profile_0/chunklist.m3u8|user-agent=Mozilla/5.0 (Android 15; Mobile; rv:68.0) Gecko/68.0 Firefox/139.0" logo= "https://i.imgur.com/RVs0GZa.png"
 name= ALPHA TV url= "https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/playlist.m3u8" logo= "https://i.imgur.com/0i4MUcc.png"
-name= ALPHASAT url= "http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=942248&extension=ts&play_token=9wHePfWZH5&proxy=93.174.121.131:80" logo= "https://www.alphatvsat.com/wp-content/uploads/2018/03/Alpha_Sat_logo.png"
+name= ALPHASAT url= "http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=942248&extension=ts&play_token=9wHePfWZH5&proxy=93.174.121.131:80/get.php?username=http%3A%2F%2Ftechnologycloud.eu%3A80&password=play&type=m3u_plus" logo= "https://www.alphatvsat.com/wp-content/uploads/2018/03/Alpha_Sat_logo.png"
 name= ALPHA TV BUP url= "https://alphatvlive2.siliconweb.com/alphatvlive/live_source/chunks.m3u8" logo= "https://i.imgur.com/0i4MUcc.png"
 name= OPEN TV url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/OPEN.m3u8" logo= "https://i.imgur.com/cshmF4s.png"
 name= OPEN TV BUP url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/OPEN.m3u8" logo= "https://i.imgur.com/cshmF4s.png"
@@ -31,7 +31,7 @@ name= STAR TV BUP url= "http://technologycloud.eu:80/play/live.php?mac=00:1A:79:
 name= STAR INTERNATIONAL url= "https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8" logo= "https://i.imgur.com/AazwSEQ.png"
 name= MEGA url= "http://technologycloud.eu/play/live.php?mac=00:1A:79:84:B7:7B&stream=307884&extension=ts&play_token=CzdfGxy9LJ/get.php?username=technologycloud.eu%3A80&password=play&type=m3u_plus&proxy=93.174.121.131:80" logo= "https://i.imgur.com/HIcqDaY.png"
 name= MEGA BUP url= "http://technologycloud.eu/play/live.php?mac=00:1A:79:84:B7:7B&stream=307884&extension=ts&play_token=CzdfGxy9LJ/get.php?username=technologycloud.eu%3A80&password=play&type=m3u_plus&proxy=93.174.121.131:80" logo= "https://i.imgur.com/HIcqDaY.png"
-name= MEGA COSMOS url= "http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=1060885&extension=ts&play_token=3kmaHTapMv&proxy=93.174.121.131" logo= "https://i.ytimg.com/vi/T5_0uyUdtcQ/maxresdefault.jpg"
+name= MEGA COSMOS url= "http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=1060885&extension=ts&play_token=3kmaHTapMv&proxy=93.174.121.131:80/get.php?username=http%3A%2F%2Ftechnologycloud.eu%3A80&password=play&type=m3u_plus" logo= "https://i.ytimg.com/vi/T5_0uyUdtcQ/maxresdefault.jpg"
 name= MEGANEWS url= "https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S99841657/NU0xOarAMJ5X/chunklist_b3200000.m3u8|user-agent=Mozilla/5.0 (Android 15; Mobile; rv:68.0) Gecko/68.0 Firefox/139.0" logo= "https://www.tovima.com/wp-content/uploads/2025/03/28/mega_news.jpg"
 name= OMEGA url= "http://l1.cloudskep.com/omegatv/omcy/playlist.m3u8|user-agent=ExoPlayer" logo= "https://i.imgur.com/Np7xLfk.png"
 name= SIGMA url= "http://sl2.sigmatv.com/hls/live.m3u8|user-agent=ExoPlayer" logo= "https://i.imgur.com/lFjBmPF.png"
@@ -46,10 +46,11 @@ name= CINEMA CLASSICS url= "https://tv.mediacp.eu:8081/cinemaclassics/index.m3u8
 name= IONIAN TV url= "https://stream.ioniantv.gr/ionian/live_abr/ionian/live_1080p/chunks.m3u8" logo= "https://i.imgur.com/jFVVQW0.png"
 name= ELLAS WORLD url= "https://ellastvmax.ath.cx/freetv/promo/index.m3u8" logo= "https://ellastvmax.com.au/wp-content/uploads/2022/05/ellastvpromo.png"
 name= VILLAGE WORLD url= "https://ellastvmax.gotdns.com/freetv/village-world/index.m3u8" logo= "https://i.imgur.com/WftpxK2.png"
-name= MAD TV url= "http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=307841&extension=ts&play_token=iKQRG6rSLF&proxy=93.174.121.131" logo= "https://i.imgur.com/G0iN2tt.png"
+name= MAD TV url= "http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=307841&extension=ts&play_token=iKQRG6rSLF&proxy=93.174.121.131:80/get.php?username=http%3A%2F%2Ftechnologycloud.eu%3A80&password=play&type=m3u_plus" logo= "https://i.imgur.com/G0iN2tt.png"
 name= MAD WORLD url= "https://ellastvmax.gotdns.com/freetv/madworldtv/index.m3u8" logo= "https://i.imgur.com/zoS5RWU.png"
 name= DIAVATA TV url= "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Diavata.m3u8" logo= "https://i.imgur.com/1DxMmHL.png"
 name= LAMPSI TV url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/Lampsi.m3u8" logo= "https://i.imgur.com/jUr8BZA.png"
+
 
 
 
