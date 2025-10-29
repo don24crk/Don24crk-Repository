@@ -1,4 +1,4 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=1986756,FRAME-RATE=25,RESOLUTION=1280x720,CODECS="avc1.4d001f,mp4a.40.2"
-https://liveopen.siliconweb.com/openTvLive/liveopen/chunks.m3u8
+#EXTINF:1,OPEN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S931B Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://s2.cystream.net/galanos/open/chunks.m3u8?nimblesessionid=29014371&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjkvMjAyNSA3OjQ4OjUzIFBNJmhhc2hfdmFsdWU9N254VU0zWGpWZVpjVDdoaFZrYU5wQT09JnZhbGlkbWludXRlcz0yMA==&i=29.46.100:443
