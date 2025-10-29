@@ -1,4 +1,5 @@
 #EXTM3U
-#EXTINF:1,Ο Κώτσος στην ΕΟΚ (1980)
-#EXTVLCOPT:http-user-agent=https://vjs.zencdn.net/8.23.4/video.min.js
-https://3uho6lzsf1c2o3i8oun9.streamruby.net:443/hls2/02/00125/jc6fqgld5gm3_h/index-v1-a1.m3u8?t=nzf3gz0SBNt7H4GjYE29_2ogligylG_D2UvNhYrE4CE&s=1760373400&e=32400&v=1137793575&i=85.195&sp=0
+#EXT-X-VERSION:3
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1440992,RESOLUTION=1280x720,FRAME-RATE=25.000,CODECS="avc1.64001f,mp4a.40.2",VIDEO-RANGE=SDR
+https://3uho6lzsf1c2o3i8oun9.streamruby.net/hls2/02/00125/jc6fqgld5gm3_h/index-v1-a1.m3u8?t=M9vgixHH4sgTuHQJY_rwTqwCdirxhy-u5AsfMWihwfE&s=1761761709&e=32400&v=1208831354&i=95.129.46.100:443&sp=0
