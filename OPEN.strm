@@ -1,2 +1,3 @@
-#EXTINF:-1,OPENTV
-https://spark3.smart-tv-data.com/openHD/openHD/playlist.m3u8
+#EXTINF:-1,OPEN
+#KODIPROP:inputstream=inputstream.adaptive
+https://liveopen.siliconweb.com/openTvLive/liveopen/chunks.m3u8
