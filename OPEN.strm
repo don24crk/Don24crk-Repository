@@ -1,2 +1,3 @@
 #EXTINF:-1,OPEN
-https://liveopen.siliconweb.com/openTvLive/liveopen/chunks.m3u8|user-agent=ExoPlayer
+#EXTVLCOPT:http-user-agent=ExoPlayer
+https://liveopen.siliconweb.com/openTvLive/liveopen/chunks.m3u8
