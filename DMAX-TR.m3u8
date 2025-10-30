@@ -1,4 +1,4 @@
 #EXTM3U
-#EXTINF:1,DMAX-TR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 15; Mobile; rv:68.0) Gecko/68.0 Firefox/139.0
-https://dogus.daioncdn.net/dmax/dmax_720p.m3u8?token=NjNuUkdjZVI2RHdTVWdxRGhNQnFCWVZQZW5KYTljMjJxbi9tU2xQVWZobz0=&sid=7j8v4cqrxraa&app=5a02c599-d17e-4982-9b04-090934d51af7&ce=3
+#EXTINF:1,DMAX
+#EXTVLCOPT:http-user-agent=https://vjs.zencdn.net/8.23.4/video.min.js
+https://cdn505.freebroadcast.vip/dmax.m3u8?tkn=LOJGx5K_9xlwbP3SJCMwIg&tms=1761865849&hst=m.canlitv.direct&ip=2003:e5:473c:41a2:5515:126:888:9d89
