@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:1,TV 8.5
+#EXTVLCOPT:http-user-agent=https://vjs.zencdn.net/8.23.4/video.min.js
+https://cdn900.canlitv.direct/tv85.m3u8?tkn=ystQBeLvcNq6DRnMqEU-ew&tms=1761866919&hst=m.canlitv.direct&ip=2003:e5:473c:41a2:5515:126:888:9d89
