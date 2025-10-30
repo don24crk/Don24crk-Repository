@@ -16,8 +16,8 @@ name= ShowTV url= "https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?ex=166476
 name= BeyazTV url= "https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8" logo= "http://assets.tvcdn.net/60d7aaf4-817b-46be-bbab-68f8b30de8fb.png"
 name= Kanal 7 url= "http://stream.tvcdn.net/ulusal/kanal-7.m3u8" logo= "http://assets.tvcdn.net/1125734c-3525-4390-b8ed-c50380c70e4d.png"
 name= TV8 url= "http://stream.tvcdn.net/ulusal/tv8.m3u8" logo= "http://assets.tvcdn.net/f91342d2-bcae-4ee0-a6f8-76a8d32b891b.png"
-name= TV 8.5 url= "https://yayin2.canlitv.fun/live/tv85.stream/chunklist_w667620105.m3u8?hash=34db6dcf8e0f5e860b08a4b31e3ffba1|user-agent=https://canlitv.com/jwplayer-8-8-2/provider.hlsjs.js" logo= "https://i.ibb.co/frpQs6q/tv85.png"
-name= TV 8 Int url= "https://cdn502.freebroadcast.vip/tv8int.m3u8?tkn=HaPeX6dVT_L5VzwXh-xl2Q&tms=1761860288&hst=www.canlitv.me&ip=188.132.150.199:8080" logo= "https://i.ibb.co/YyjrbR7/tv8int.png"
+name= TV 8.5 url= "plugin://plugin.video.youtube/play/?video_id=2L6D9gil8w&pp=ygUJxZ5hYmFuIFRW" logo= "https://i.ibb.co/frpQs6q/tv85.png"
+name= TV 8 Int url= "plugin://plugin.video.youtube/play/?video_id=2L6D9gil8w&pp=ygUJxZ5hYmFuIFRW" logo= "https://i.ibb.co/YyjrbR7/tv8int.png"
 name= StarTV url= "https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=7vg1qivvu1mu&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3" logo= "http://assets.tvcdn.net/0c5204fb-e613-4084-b300-8cdcc46309f9.png"
 name= 360 TV url= "http://stream.tvcdn.net/ulusal/360-tv.m3u8" logo= "http://assets.tvcdn.net/e1c3f150-4f79-4ac4-a893-4cc1144eb2d5.png"
 name= TV100 url= "https://tv.ensonhaber.com/tv100/tv100.m3u8" logo= "http://assets.tvcdn.net/d7741078-ccce-47d8-ba1c-a041b659bad6.png"
@@ -33,12 +33,13 @@ name= A2 url= "https://trkvz-live.ercdn.net/a2tv/a2tv_720p.m3u8?st=iPCB1YZ569L1e
 name= Show Max url= "https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax_1080p.m3u8" logo= "https://i.ibb.co/gWMPdrc/showmax.png"
 name= TRT Çocuk url= "https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8" logo= "https://i.ibb.co/cQs3vjD/trtcocuk.png"
 name= TGRT EU url= "https://canli.tgrthaber.com/tgrt.m3u8" logo= "http://assets.tvcdn.net/01032651-eac6-48ea-b6ef-78acf8e95daa.png"
-name= N-TV url= "https://yayin2.canlitv.fun/live/ntv.stream/playlist.m3u8?hash=c60fc2217cd8c65b2d238c799ca7e67a|user-agent=https://canlitv.com/jwplayer-8-8-2/provider.hlsjs.js" logo= "https://upload.wikimedia.org/wikipedia/commons/b/b5/NTV_logo.png"
-name= A Spor url= "https://yayin2.canlitv.fun/live/aspor.stream/playlist.m3u8?hash=34db6dcf8e0f5e860b08a4b31e3ffba1|user-agent=https://canlitv.com/jwplayer-8-8-2/provider.hlsjs.js" logo= "https://cdn6.aptoide.com/imgs/7/f/d/7fd636ea06646d1a9aaefe27a11dfb58_icon.png"
-name= FBTV url= "yayin2.canlitv.fun/live/fbtv.stream/chunklist_w672345381.m3u8?hash=34db6dcf8e0f5e860b08a4b31e3ffba1|user-agent=https://canlitv.com/jwplayer-8-8-2/provider.hlsjs.js" logo= "https://yt3.googleusercontent.com/ytc/AIdro_kG04jzq7wxoRvUmeqFO1zzt6CDop8OltgqJ9E9PXj1PuU=s900-c-k-c0x00ffffff-no-rj"
-name= TRTSPOR url= "https://yayin2.canlitv.fun/live/trtspor.stream/playlist.m3u8?hash=34db6dcf8e0f5e860b08a4b31e3ffba1|user-agent=https://canlitv.com/jwplayer-8-8-2/provider.hlsjs.js" logo= "https://play-lh.googleusercontent.com/fL17pH3gPhrwonE_fFBaiYG3pSCjs9N-sMWhd0kAu7UNixXHCBUfnbUchTKfDy4_tzU"
-name= Şaban TV url= "plugin://plugin.video.youtube/play/?video_id=2L6D9gil8w&pp=ygUJxZ5hYmFuIFRW" logo= "https://play-lh.googleusercontent.com/SahnJWNFBkwHuFICDtfXCdPU1OpbjGB-IpX59dYjdzr2SGduXzrqaJLhm9P34YxF4Vw"
-name= DMAX url= "yayin2.canlitv.fun/live/dmax.stream/chunklist_w648620145.m3u8?hash=34db6dcf8e0f5e860b08a4b31e3ffba1|user-agent=https://canlitv.com/jwplayer-8-8-2/provider.hlsjs.js" logo= "https://yt3.googleusercontent.com/7caGBnut6H9aFvL71oqhRbMEy1sE0VIO3oOvuhONRRdQKNzjNqjLW3ySJr-8NR1dnjKcNI62_g=s900-c-k-c0x00ffffff-no-rj"
+name= N-TV url= "https://www.ntv.com.tr/canli-yayin/ntv?youtube=true" logo= "https://upload.wikimedia.org/wikipedia/commons/b/b5/NTV_logo.png"
+name= A Spor url= "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8" logo= "https://cdn6.aptoide.com/imgs/7/f/d/7fd636ea06646d1a9aaefe27a11dfb58_icon.png"
+name= FBTV url= "https://fbtv.fenerbahce.org/fenerbahcetv.stream_720p/chunklist.m3u8" logo= "https://yt3.googleusercontent.com/ytc/AIdro_kG04jzq7wxoRvUmeqFO1zzt6CDop8OltgqJ9E9PXj1PuU=s900-c-k-c0x00ffffff-no-rj"
+name= TRT SPOR url= "https://yayin2.canlitv.fun/live/trtspor.stream/playlist.m3u8?hash=34db6dcf8e0f5e860b08a4b31e3ffba1|user-agent=https://canlitv.com/jwplayer-8-8-2/provider.hlsjs.js" logo= "https://play-lh.googleusercontent.com/fL17pH3gPhrwonE_fFBaiYG3pSCjs9N-sMWhd0kAu7UNixXHCBUfnbUchTKfDy4_tzU"
+name= Şaban TV url= "https://www.youtube.com/watch?v=-2L6D9gil8w&pp=ygUJxZ5hYmFuIFRW" logo= "https://play-lh.googleusercontent.com/SahnJWNFBkwHuFICDtfXCdPU1OpbjGB-IpX59dYjdzr2SGduXzrqaJLhm9P34YxF4Vw"
+name= DMAX url= "https://dogus.daioncdn.net/dmax/dmax_720p.m3u8?token=NCt6VHN0eEZrdDRnZlJpL2ZBU0s4K09yL1BLNmNQd2JuWUVYcmZRRkVDUT0=&sid=7vgc90v5aula&app=5a02c599-d17e-4982-9b04-090934d51af7&ce=3" logo= "https://yt3.googleusercontent.com/7caGBnut6H9aFvL71oqhRbMEy1sE0VIO3oOvuhONRRdQKNzjNqjLW3ySJr-8NR1dnjKcNI62_g=s900-c-k-c0x00ffffff-no-rj"
+
 
 
 
