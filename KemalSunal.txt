@@ -1,12 +1,12 @@
 name= Sahte Kabadayı Türk Filmi _Kemal Sunal Filmleri url= "plugin://plugin.video.dailymotion_com/?url=x8hbt9g&mode=playVideo" logo= "https://i.ytimg.com/vi/YHEQO9slYjI/maxresdefault.jpg"
 name= Köseyi Dönen Adam 1978 Kemal Sunal Vhs Türk Film url= "plugin://plugin.video.dailymotion_com/?url=x95x6f4&mode=playVideo" logo= "https://storage.evrimagaci.org/old/mi_media/f365bbae108799e298133e88ac67f87f.jpeg"
-name= Sakar Şakir Türk Filmi - 4k ULTRA HD - KEMAL SUNAL - ALİ ŞEN url= "plugin://plugin.video.youtube/play/?video_id=4J3ulqHkgRM" logo= "https://i.ytimg.com/vi/OW9UPh0i__k/sddefault.jpg"
+name= Sakar Şakir Türk Filmi - 4k ULTRA HD - KEMAL SUNAL - ALİ ŞEN url= "https://www.youtube.com/watch?v=4J3ulqHkgRM" logo= "https://i.ytimg.com/vi/OW9UPh0i__k/sddefault.jpg"
 name= Hababam Sınıfı url= "plugin://plugin.video.dailymotion_com/?url=x4cfgzx&mode=playVideo" logo= "https://www.kinoundco.de/image/posters/rpiU1Y0xNEsxM1bwqFEZZCOqR3J.jpg"
-name= Yedi Bela Hüsnü (1982) - Kemal Sunal url= "plugin://plugin.video.youtube/play/?video_id=gPbAredRRqw" logo= "https://i.ytimg.com/vi/gPbAredRRqw/sddefault.jpg"
-name= Kapıcılar Kralı - Kemal Sunal (1976) url= "plugin://plugin.video.youtube/play/?video_id=kCpQSnz0udI" logo= "https://im.haberturk.com/tv_program/2020/07/03/ver11111/864348_620x349.jpg?v=1593675805"
-name= Kemal Sunal url= "plugin://plugin.video.youtube/play/?video_id=xs9XUjHvZsM" logo= "https://s2.dmcdn.net/v/VKv7x1dPrlYO7DDiu/x240"
-name= Polizei (1988) - Kemal Sunal url= "plugin://plugin.video.dailymotion_com/?url=x8njwou&mode=playVideo" logo= "https://i.ytimg.com/vi/RPBofKLiBzU/maxresdefault.jpg"
-name= Gurbetçi Şaban (1985) - Kemal Sunal url= "plugin://plugin.video.youtube/play/?video_id=0_EwZ3LbOIg" logo= "https://m.media-amazon.com/images/M/MV5BZmI3N2Q1MWMtMGViZC00MDZhLWE1NGItOTcxZmUyZTcxZDg4XkEyXkFqcGc@._V1_QL75_UX820_.jpg"
+name= Yedi Bela Hüsnü (1982) - Kemal Sunal url= "phttps://www.youtube.com/watch?v=gPbAredRRqw" logo= "https://i.ytimg.com/vi/gPbAredRRqw/sddefault.jpg"
+name= Kapıcılar Kralı - Kemal Sunal (1976) url= "https://www.youtube.com/watch?v=kCpQSnz0udI" logo= "https://im.haberturk.com/tv_program/2020/07/03/ver11111/864348_620x349.jpg?v=1593675805"
+name= Kemal Sunal url= "https://www.youtube.com/watch?v=xs9XUjHvZsM" logo= "https://s2.dmcdn.net/v/VKv7x1dPrlYO7DDiu/x240"
+name= Polizei (1988) - Kemal Sunal url= "https://www.youtube.com/watch?v=RPBofKLiBzU" logo= "https://i.ytimg.com/vi/RPBofKLiBzU/maxresdefault.jpg"
+name= Gurbetçi Şaban (1985) - Kemal Sunal url= "https://www.youtube.com/watch?v=0_EwZ3LbOIg" logo= "https://m.media-amazon.com/images/M/MV5BZmI3N2Q1MWMtMGViZC00MDZhLWE1NGItOTcxZmUyZTcxZDg4XkEyXkFqcGc@._V1_QL75_UX820_.jpg"
 
 
 
