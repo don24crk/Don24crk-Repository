@@ -19,9 +19,9 @@ name= ANT1 COMEDY url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repo
 name= REAL MUSIC TV url= "https://webtv.topwebhost.gr:3302/stream/play.m3u8" logo= "https://i.imgur.com/HmxMZOd.png"
 name= MAKTV url= "https://lcdn.antennaplus.gr/r444865966c0847fca53b9b0c133af7a9/eu-central-1/eu-central-1/6415884360001/profile_0/chunklist.m3u8|user-agent=Mozilla/5.0 (Android 15; Mobile; rv:68.0) Gecko/68.0 Firefox/139.0" logo= "https://i.imgur.com/RVs0GZa.png"
 name= MAKTV BUP url= "https://lcdn.antennaplus.gr/r444865966c0847fca53b9b0c133af7a9/eu-central-1/eu-central-1/6415884360001/profile_0/chunklist.m3u8|user-agent=Mozilla/5.0 (Android 15; Mobile; rv:68.0) Gecko/68.0 Firefox/139.0" logo= "https://i.imgur.com/RVs0GZa.png"
-name= ALPHA TV url= "http://ip96.uk:8080//live/H645668DH/7565848DHY/316354.ts?username=H645668DH&password=7565848DHY&type=m3u_plus&proxy=93.174.121.131:8080" logo= "https://i.imgur.com/0i4MUcc.png"
+name= ALPHA TV url= "http://ip96.uk:8080//live/H645668DH/7565848DHY/316354.ts" logo= "https://i.imgur.com/0i4MUcc.png"
 name= ALPHASAT url= "http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=942248&extension=ts&play_token=9wHePfWZH5&proxy=93.174.121.131:80/get.php?username=http%3A%2F%2Ftechnologycloud.eu%3A80&password=play&type=m3u_plus" logo= "https://www.alphatvsat.com/wp-content/uploads/2018/03/Alpha_Sat_logo.png"
-name= ALPHA TV BUP url= "http://ip96.uk:8080//live/H645668DH/7565848DHY/316354.ts?username=H645668DH&password=7565848DHY&type=m3u_plus&proxy=93.174.121.131:8080" logo= "https://i.imgur.com/0i4MUcc.png"
+name= ALPHA TV BUP url= "http://ip96.uk:8080//live/H645668DH/7565848DHY/316354.ts" logo= "https://i.imgur.com/0i4MUcc.png"
 name= OPEN TV url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/OPEN.strm" logo= "https://i.imgur.com/cshmF4s.png"
 name= OPEN TV BUP url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/OPEN.strm" logo= "https://i.imgur.com/cshmF4s.png"
 name= SKAI TV url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/SKAI1.m3u8" logo= "https://i.imgur.com/o2aft6Q.png"
@@ -50,6 +50,7 @@ name= MAD TV url= "http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7
 name= MAD WORLD url= "https://ellastvmax.gotdns.com/freetv/madworldtv/index.m3u8" logo= "https://i.imgur.com/zoS5RWU.png"
 name= DIAVATA TV url= "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Diavata.m3u8" logo= "https://i.imgur.com/1DxMmHL.png"
 name= LAMPSI TV url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/Lampsi.m3u8" logo= "https://i.imgur.com/jUr8BZA.png"
+
 
 
 
