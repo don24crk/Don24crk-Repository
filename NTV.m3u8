@@ -1,4 +1,4 @@
 #EXTM3U
 #EXTINF:1,NTV
-#EXTVLCOPT:http-user-agent=https://vjs.zencdn.net/8.23.4/video.min.js
-https://cdn504.freebroadcast.vip/ntv-master.m3u8?tkn=gutHHJSB7Ip7drJ3Q1hGVQ&tms=1761866033&hst=m.canlitv.direct&ip=2003:e5:473c:41a2:5515:126:888:9d89
+#EXTVLCOPT:http-user-agent=https://www.nusantarainfrastructure.com/assets/js/jwplayer/jwplayer.js
+https://yayin2.canlitv.fun/live/ntv.stream/chunklist_w180360175.m3u8?hash=34db6dcf8e0f5e860b08a4b31e3ffba1
