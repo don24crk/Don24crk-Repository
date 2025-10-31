@@ -1,2 +1,3 @@
 #EXTINF:1,ALPHA 
-https://spark3.smart-tv-data.com/alphaHD/alphaHD/playlist.m3u8
+#KODIPROP:inputstream=inputstream.adaptive
+http://ip96.uk:8080//live/H645668DH/7565848DHY/316354.ts
