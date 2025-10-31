@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:1,TV8
+#EXTVLCOPT:http-user-agent=https://www.nusantarainfrastructure.com/assets/js/jwplayer/jwplayer.js
+http://stream.tvcdn.net/ulusal/tv8.m3u8
