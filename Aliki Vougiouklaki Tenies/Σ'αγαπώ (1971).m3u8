@@ -1,4 +1,5 @@
 #EXTM3U
 #EXTINF:1,Σ'αγαπώ (1971)
-#EXTVLCOPT:http-user-agent=https://vjs.zencdn.net/8.23.4/video.min.js
-https://36x8fqcfqsv376o2c3bj.streamruby.net/hls2/02/00125/c6l7af43rswc_h/index-v1-a1.m3u8?t=h3lAEk3JX4j6mob55bGVMTTMGTFP0YqIImOtPlVuCFg&s=1761856403&e=32400&v=1213900341&i=2003:e5:473c:41a2&sp=0
+#EXTVLCOPT:http-user-agent=https://www.nusantarainfrastructure.com/assets/js/jwplayer/jwplayer.js
+https://36x8fqcfqsv376o2c3bj.streamruby.net/hls2/02/00125/c6l7af43rswc_h/index-v1-a1.m3u8?t=4AE6DuLeMBmSskQiM7GNIzIAQFMRk018lcm1J2qGJ6s&s=1762017861&e=32400&v=1222616387&i=2003:e5:473c:41fb&sp=0&proxy=93.174.121.131:443
+
