@@ -1,4 +1,4 @@
 #EXTM3U
-#EXTINF:1,Xtypokadia sto Thranio 1963 HDTV 1080p
-#EXTVLCOPT:http-user-agent=https://vjs.zencdn.net/8.23.4/video.min.js
-https://3uho6lzsf1c2o3i8oun9.streamruby.net/hls2/01/00295/m3elkifxmbu6_h/index-v1-a1.m3u8?t=_jzrkkv-cQGVbT14FwHfNaatRGx7DmX0ebjxI3QLUu8&s=1761855515&e=32400&v=1213852184&i=2003:e5:473c:41a2&sp=0
+#EXTINF:1,Xtypokadia sto Thranio
+#EXTVLCOPT:http-user-agent=https://www.nusantarainfrastructure.com/assets/js/jwplayer/jwplayer.js
+https://3uho6lzsf1c2o3i8oun9.streamruby.net/hls2/01/00295/m3elkifxmbu6_h/index-v1-a1.m3u8?t=4JCgvRHV11bnFfQmzwWzPW8NekFqzr7uWfNkkDoi7_0&s=1762016493&e=32400&v=1222500101&i=2003:e5:473c:41fb&sp=0&proxy=93.174.121.131:443
