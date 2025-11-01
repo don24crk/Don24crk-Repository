@@ -1,7 +1,8 @@
 name= Bazen Sevinç Bazen Hüzün url= "plugin://plugin.video.youtube/play/?video_id=Ap8ina2ElB0" logo= "https://img01.imgsinemalar.com/images/afis_buyuk/b/bazen-sevinc-bazen-huzun-1660916351.jpg"
 name= Benim Adım Khan url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/Benim%20Ad%C4%B1m%20Khan.m3u8" logo= "https://m.media-amazon.com/images/I/61YW-haDOIL._AC_UF1000,1000_QL80_.jpg"
-name= Yüzilin askin Devdas url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/Y%C3%BCzilin%20askin%20Devdas.m3u8" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA6mI2qwggA-xHtL8QZKP10JDHKWp9BYLptg&s"
+name= Yüzilin askin Devdas url= "plugin://plugin.video.youtube/play/?video_id=HkTlP1syW4U" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA6mI2qwggA-xHtL8QZKP10JDHKWp9BYLptg&s"
 name= Aşk Treni Türkçe Dublaj (Bollywood Filmi) izle url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/A%C5%9Fk%20Treni%20T%C3%BCrk%C3%A7e%20Dublaj%20(Bollywood%20Filmi)%20izle.m3u8" logo= "https://i.ytimg.com/vi/r6mTTwN5dmY/maxresdefault.jpg"
+
 
 
 
