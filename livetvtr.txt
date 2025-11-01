@@ -9,8 +9,8 @@ name= Dream Türk url= "https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/track_4_1
 name= PowerTürk url= "https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlists.m3u8" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz8_RRYNZb3CdFe0pB8NpqigTHHNpwRKJPXg&s"
 name= TEVE2 url= "https://demiroren.daioncdn.net/teve2/teve2_1080p.m3u8?&sid=7vfyxlhnrz18&app=6aab838a-437e-4a1b-bbd0-e30f79cdbbbd&ce=3" logo= "https://static.teve2.com.tr/assets/img/teve2logo.png?v=1"
 name= ATV url= "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8?hash=34db6dcf8e0f5e860b08a4b31e3ffba1" logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Atv_logo_2010.svg/1200px-Atv_logo_2010.svg.png"
-name= ATV Avrupa url= "https://trkvz-live.ercdn.net/atvavrupa/atvavrupa_576p.m3u8?st=9rp5VdbNCaU_3oxO6w1q_g&e=1761886936" logo= "http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png"
-name= Avrupa Star url= "https://mn-nl.mncdn.com/dogusdyg_eurostar/live_1080p3000000kbps/index.m3u8?st=Ndz8pnujJKUwrPnXrXHJHQ&e=1761928222" logo= "https://www.eurostartv.com.tr/Content/img/eurostar-logo.png"
+name= ATV Avrupa url= "https://trkvz-live.ercdn.net/atvavrupa/atvavrupa.m3u8?st=GfI_WhzUmwOcKXqAtMRqAg&e=1762049620" logo= "http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png"
+name= Avrupa Star url= "https://mn-nl.mncdn.com/dogusdyg_eurostar/live.m3u8?st=cyffgBncbFP0rrBROCoHyw&e=1762090947" logo= "https://www.eurostartv.com.tr/Content/img/eurostar-logo.png"
 name= Now TV url= "http://116.202.238.88/FOXTV_TR/index.m3u8" logo= "http://assets.tvcdn.net/80eb8816-1855-41f5-9002-7a05cc93fe4f.png"
 name= ShowTV url= "https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?ex=1664766175&st=RBzhSuGauna0OGld-DJUVA&tv=1&sid=7vfzo73sf9t5&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&ce=3" logo= "http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png"
 name= BeyazTV url= "https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8" logo= "http://assets.tvcdn.net/60d7aaf4-817b-46be-bbab-68f8b30de8fb.png"
@@ -39,6 +39,7 @@ name= FBTV url= "https://fbtv.fenerbahce.org/fenerbahcetv.stream_720p/chunklist.
 name= TRT SPOR url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/TRT%20SPOR.m3u8" logo= "https://play-lh.googleusercontent.com/fL17pH3gPhrwonE_fFBaiYG3pSCjs9N-sMWhd0kAu7UNixXHCBUfnbUchTKfDy4_tzU"
 name= Şaban TV url= "https://www.youtube.com/watch?v=-2L6D9gil8w&pp=ygUJxZ5hYmFuIFRW" logo= "https://play-lh.googleusercontent.com/SahnJWNFBkwHuFICDtfXCdPU1OpbjGB-IpX59dYjdzr2SGduXzrqaJLhm9P34YxF4Vw"
 name= DMAX url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/DMAX-TR.m3u8" logo= "https://yt3.googleusercontent.com/7caGBnut6H9aFvL71oqhRbMEy1sE0VIO3oOvuhONRRdQKNzjNqjLW3ySJr-8NR1dnjKcNI62_g=s900-c-k-c0x00ffffff-no-rj"
+
 
 
 
