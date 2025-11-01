@@ -1,4 +1,4 @@
 #EXTM3U
 #EXTINF:1,A2
 #EXTVLCOPT:http-user-agent=https://www.nusantarainfrastructure.com/assets/js/jwplayer/jwplayer.js
-https://trkvz-live.ercdn.net/a2tv/a2tv.m3u8?st=bGaSQn8qMMOmORQg4lFU5Q&e=1761977822&proxy=188.132.222.8:8080
+https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/a2tv_720p.m3u8
