@@ -1,5 +1,4 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-INDEPENDENT-SEGMENTS
-#EXT-X-STREAM-INF:BANDWIDTH=4188800,AVERAGE-BANDWIDTH=4188800,CODECS="avc1.640028,mp4a.40.2",RESOLUTION=1920x1080,FRAME-RATE=25.000,CLOSED-CAPTIONS=NONE
-https://livestar.siliconweb.com/media/star4/star4newhd.m3u8
+#EXTINF:1,STAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.123 Mobile Safari/537.36 EdgA/141.0.3537.99
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=307893&extension=ts&play_token=aF4qB0jYGm?username=technologycloud.eu%3A80&password=play&type=m3u_plus
