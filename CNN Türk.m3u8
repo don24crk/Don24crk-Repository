@@ -1,4 +1,4 @@
 #EXTM3U
 #EXTINF:1,CNN TÜRK
-#EXTVLCOPT:http-user-agent=https://www.nusantarainfrastructure.com/assets/js/jwplayer/jwplayer.js
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.123 Mobile Safari/537.36 EdgA/141.0.3537.99
 https://yayin2.canlitv.fun/live/cnnturk.stream/chunklist_w304771886.m3u8?hash=34db6dcf8e0f5e860b08a4b31e3ffba1
