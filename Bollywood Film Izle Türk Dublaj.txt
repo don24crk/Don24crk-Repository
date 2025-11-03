@@ -1,7 +1,8 @@
 name= Bazen Sevinç Bazen Hüzün url= "plugin://plugin.video.youtube/play/?video_id=Ap8ina2ElB0" logo= "https://img01.imgsinemalar.com/images/afis_buyuk/b/bazen-sevinc-bazen-huzun-1660916351.jpg"
 name= Benim Adım Khan url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/Benim%20Ad%C4%B1m%20Khan.m3u8" logo= "https://m.media-amazon.com/images/I/61YW-haDOIL._AC_UF1000,1000_QL80_.jpg"
 name= Yüzilin askin Devdas url= "plugin://plugin.video.youtube/play/?video_id=HkTlP1syW4U" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA6mI2qwggA-xHtL8QZKP10JDHKWp9BYLptg&s"
-name= Aşk Treni Türkçe Dublaj (Bollywood Filmi) izle url= "https://box-c-o-l-6.vmeas.cloud/hls/xqx2fvfri5okjiqbtfrspiyywbemckl7svpwyuivljso7ulstrhc6s5xebqq/index-v1-a1.m3u8" logo= "https://i.ytimg.com/vi/r6mTTwN5dmY/maxresdefault.jpg"
+name= Aşk Treni Türkçe Dublaj (Bollywood Filmi) izle url= "https://fcgbwu5x4pis.drewimplemnt.top/d/ggzighjjo7hvw4m6wkw5l3ystxntijmfqjqpax77ipsuz5zandkz7cxkxfm53uiopdncxy2d/A%C3%85%C2%9Fk%20Treni%20-%20Chennai%20Express%202013%201080p.mkv%20-%20Google%20Drive.mp4" logo= "https://i.ytimg.com/vi/r6mTTwN5dmY/maxresdefault.jpg"
+
 
 
 
