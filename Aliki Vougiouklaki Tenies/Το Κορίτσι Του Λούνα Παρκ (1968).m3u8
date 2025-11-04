@@ -1,4 +1,4 @@
 #EXTM3U
-#EXTINF:1,Το Κορίτσι Του Λούνα Παρκ (1968)
-#EXTVLCOPT:http-user-agent=https://www.nusantarainfrastructure.com/assets/js/jwplayer/jwplayer.js
-https://3uho6lzsf1c2o3i8oun9.streamruby.net/hls2/04/00065/4ht5c953x1gj_n/index-v1-a1.m3u8?t=gd6gzyki3QjzlsHMLbB87-ZBsd4ChNVuXwy8WzCnLXE&s=1762098915&e=32400&v=1227462968&i=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.123 Mobile Safari/537.36 EdgA/141.0.3537.99&sp=0
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2023627,RESOLUTION=1280x720,FRAME-RATE=25.000,CODECS="avc1.64001f,mp4a.40.2"
+https://3uho6lzsf1c2o3i8oun9.streamruby.net/hls2/04/00065/4ht5c953x1gj_h/index-v1-a1.m3u8?t=UnBa4Lw109qe6_9letCmyosWDRvQ_KfZx3bE_srwlgE&s=1762279089&e=32400&v=1235875737&sp=0
