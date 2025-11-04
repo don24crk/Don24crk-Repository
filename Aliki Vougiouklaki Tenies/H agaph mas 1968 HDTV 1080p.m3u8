@@ -1,4 +1,4 @@
 #EXTM3U
-#EXTINF:1,H agaph mas 1968 HDTV
-#EXTVLCOPT:http-user-agent=https://www.nusantarainfrastructure.com/assets/js/jwplayer/jwplayer.js
-https://ozovxg2t3b2c8m8g.streamruby.net/hls2/04/00295/r63pc3mpan70_h/index-v1-a1.m3u8?t=QselY1BNG32pAUk06GD6Db5ASQvuw0nRNZTJm1JPZUk&s=1762096459&e=32400&v=1227292962&i=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.123 Mobile Safari/537.36 EdgA/141.0.3537.99&sp=0
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2188986,RESOLUTION=1280x720,FRAME-RATE=25.000,CODECS="avc1.640020,mp4a.40.2"
+https://ozovxg2t3b2c8m8g.streamruby.net/hls2/04/00295/r63pc3mpan70_h/index-v1-a1.m3u8?t=pz9jqk3BZTP-Npx93J8oyKZUNzDNyNwUTnckDr_s3kM&s=1762276189&e=32400&v=1235713056&sp=0
