@@ -1,4 +1,4 @@
 #EXTM3U
-#EXTINF:1,Μοντέρνα Σταχτοπούτα
-#EXTVLCOPT:http-user-agent=https://www.nusantarainfrastructure.com/assets/js/jwplayer/jwplayer.js
-https://ucxipzwkyhms02.streamruby.net/hls2/04/00077/t0q0d5yuci3x_h/index-v1-a1.m3u8?t=Ma61YHVai-RpGT2f5GqrK4GNO2RY1svyUsVCnPTidUQ&s=1762098726&e=32400&v=1227449661&i=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.123 Mobile Safari/537.36 EdgA/141.0.3537.99&sp=0
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4806917,RESOLUTION=1280x720,FRAME-RATE=25.000,CODECS="avc1.4d0029,mp4a.40.2"
+https://ucxipzwkyhms02.streamruby.net/hls2/04/00077/t0q0d5yuci3x_h/index-v1-a1.m3u8?t=YxCiF3ICho5WNgxBzAOymJxnvTblogwurHyQdyCTdO8&s=1762278733&e=32400&v=1235856827&sp=0
