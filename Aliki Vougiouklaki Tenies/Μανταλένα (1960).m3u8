@@ -1,4 +1,4 @@
 #EXTM3U
-#EXTINF:1,Μανταλένα (1960)
-#EXTVLCOPT:http-user-agent=https://www.nusantarainfrastructure.com/assets/js/jwplayer/jwplayer.js
-https://36x8fqcfqsv376o2c3bj.streamruby.net/hls2/03/00070/r9pq1hwv2kkx_n/index-v1-a1.m3u8?t=tQ6x8Wh3jiyaNWiCKDexlHiv_OAF555Dps83OcCeaa4&s=1762098662&e=32400&v=1227445239&i=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.123 Mobile Safari/537.36 EdgA/141.0.3537.99&sp=0
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4797279,RESOLUTION=1280x720,FRAME-RATE=25.000,CODECS="avc1.4d0029,mp4a.40.2"
+https://36x8fqcfqsv376o2c3bj.streamruby.net/hls2/03/00070/r9pq1hwv2kkx_h/index-v1-a1.m3u8?t=WI43n_VXdeibqwRcxkv1UJtcbdu4q4d7Pbh9YYZrhzI&s=1762278621&e=32400&v=1235850880&sp=0
