@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000,RESOLUTION=1920x1080
-https://ciner-live.ercdn.net/showturk/showturk_1080p.m3u8?e=1762282102&st=R1NVULURYWXLX3bKHfHtaw&tv=1
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1762305344/ei/4FAKacyHFtf7xN8PgN2ZmQU/ip/2003%3Ae5%3A473e%3Ae008%3A8094%3Ad570%3Ac388%3A5cf1/id/XnvS-RZa4Qw.966/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/de/ss/1/ssa/1/bui/AdEuB5TFGpUBO6rJ8dYH1L-hFSEwfvixXlbdo8WAcGLG5sEJ0_GomGzKUtfZAFoeibdmJFR7UJZfLK6J/spc/6b0G_AGLboFJFh_Wgj8saU6Ob2wRiImqGIz9NYMvHK9ZBLdceH49NrBBIkBQ35upB5aQxBaTY2o/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhALgZ4nuMVDKCmi-TVQVLmGZfavmcQZt3ksRcfCfzmNazAiEA9TuRkyN4sGcd1PU4HV6CNid6hNzhhF9_dsz9sdzy8FU%3D/file/index.m3u8
