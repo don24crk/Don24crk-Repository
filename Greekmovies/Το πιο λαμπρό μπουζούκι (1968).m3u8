@@ -1,4 +1,4 @@
 #EXTM3U
-#EXTINF:1,Το πιο λαμπρό μπουζούκι
-#EXTVLCOPT:http-user-agent=https://www.nusantarainfrastructure.com/assets/js/jwplayer/jwplayer.js
-https://36x8fqcfqsv376o2c3bj.streamruby.net/hls2/03/00078/7r6vaaqlchoa_n/index-v1-a1.m3u8?t=zgoQuIlWEgrjptagDntCKvg0Ij0r6OrhchtHUL0-buw&s=1762099415&e=32400&v=1227498495&i=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.123 Mobile Safari/537.36 EdgA/141.0.3537.99&sp=0
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2189363,RESOLUTION=1280x720,FRAME-RATE=25.000,CODECS="avc1.640020,mp4a.40.2"
+https://36x8fqcfqsv376o2c3bj.streamruby.net/hls2/03/00078/7r6vaaqlchoa_h/index-v1-a1.m3u8?t=7bk2QrLRRlc2x1zBbRc7ymjfh8_PnnUOnY805sI4P2I&s=1762279850&e=32400&v=1235915324&sp=0
