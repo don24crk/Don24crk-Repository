@@ -1,4 +1,4 @@
 #EXTM3U
-#EXTINF:1,20 Χρόνια Δελφινάριο
-#EXTVLCOPT:http-user-agent=https://www.nusantarainfrastructure.com/assets/js/jwplayer/jwplayer.js
-https://3uho6lzsf1c2o3i8oun9.streamruby.net/hls2/01/00293/qfjcr3fr38qz_n/index-v1-a1.m3u8?t=eUh-cG0Lc8Vz7RVDx3oGW2xfRXxRDOW0uWvnfY4Ea7c&s=1762099527&e=32400&v=1227506419&i=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.123 Mobile Safari/537.36 EdgA/141.0.3537.99&sp=0
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2078157,RESOLUTION=1280x720,FRAME-RATE=25.000,CODECS="avc1.640020,mp4a.40.2"
+https://3uho6lzsf1c2o3i8oun9.streamruby.net/hls2/01/00293/qfjcr3fr38qz_h/index-v1-a1.m3u8?t=SgOEDQG0x36yG6ECpfsLbR94_F9wsYd3PF8bxFFeuBs&s=1762280111&e=32400&v=1235928891&sp=0
