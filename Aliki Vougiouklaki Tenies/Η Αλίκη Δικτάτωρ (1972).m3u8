@@ -1,4 +1,4 @@
 #EXTM3U
-#EXTINF:1,Η Αλίκη Δικτάτωρ (1972)
-#EXTVLCOPT:http-user-agent=https://www.nusantarainfrastructure.com/assets/js/jwplayer/jwplayer.js
-https://ucxipzwkyhms02.streamruby.net/hls2/02/00082/prhvncfbeqy5_n/index-v1-a1.m3u8?t=qh1aZ1ZJ6nqwbU5J8PuQwcDvNF-OZo1JQ9rmNnQmLdg&s=1762097866&e=32400&v=1227388661&i=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.123 Mobile Safari/537.36 EdgA/141.0.3537.99&sp=0
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1851776,RESOLUTION=1280x720,FRAME-RATE=24.000,CODECS="avc1.640020,mp4a.40.2"
+https://ucxipzwkyhms02.streamruby.net/hls2/02/00082/prhvncfbeqy5_h/index-v1-a1.m3u8?t=whU56H-Z3fDp8yyARw59ct9FyBXbdSm7S_QMCGNUfHY&s=1762277304&e=32400&v=1235777138&sp=0
