@@ -12,7 +12,7 @@ name= ATV url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/r
 name= ATV Avrupa url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ATV-AVRUPA.m3u8" logo= "http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png"
 name= Avrupa Star url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/EUROSTAR.m3u8" logo= "https://www.eurostartv.com.tr/Content/img/eurostar-logo.png"
 name= Now TV url= "http://116.202.238.88/FOXTV_TR/index.m3u8" logo= "http://assets.tvcdn.net/80eb8816-1855-41f5-9002-7a05cc93fe4f.png"
-name= ShowTV url= "https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?ex=1664766175&st=RBzhSuGauna0OGld-DJUVA&tv=1&sid=7vfzo73sf9t5&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&ce=3" logo= "http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png"
+name= ShowTV url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/SHOWTV.m3u8" logo= "http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png"
 name= BeyazTV url= "https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8" logo= "http://assets.tvcdn.net/60d7aaf4-817b-46be-bbab-68f8b30de8fb.png"
 name= Kanal 7 url= "http://stream.tvcdn.net/ulusal/kanal-7.m3u8" logo= "http://assets.tvcdn.net/1125734c-3525-4390-b8ed-c50380c70e4d.png"
 name= TV8 url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/TV8.m3u8" logo= "http://assets.tvcdn.net/f91342d2-bcae-4ee0-a6f8-76a8d32b891b.png"
@@ -39,6 +39,7 @@ name= FBTV url= "https://fbtv.fenerbahce.org/fenerbahcetv.stream_720p/chunklist.
 name= TRT SPOR url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/TRTSPOR" logo= "https://play-lh.googleusercontent.com/fL17pH3gPhrwonE_fFBaiYG3pSCjs9N-sMWhd0kAu7UNixXHCBUfnbUchTKfDy4_tzU"
 name= Şaban TV url= "https://www.youtube.com/watch?v=-2L6D9gil8w&pp=ygUJxZ5hYmFuIFRW" logo= "https://play-lh.googleusercontent.com/SahnJWNFBkwHuFICDtfXCdPU1OpbjGB-IpX59dYjdzr2SGduXzrqaJLhm9P34YxF4Vw"
 name= DMAX url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/DMAX-TR.m3u8" logo= "https://yt3.googleusercontent.com/7caGBnut6H9aFvL71oqhRbMEy1sE0VIO3oOvuhONRRdQKNzjNqjLW3ySJr-8NR1dnjKcNI62_g=s900-c-k-c0x00ffffff-no-rj"
+
 
 
 
