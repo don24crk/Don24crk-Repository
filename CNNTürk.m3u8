@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1730000,NAME=CNNTürk,RESOLUTION=1280x720
-https://tgn.bozztv.com/gin-dvrfl05/gin-cnn-turk/tracks-v1a1/mono.m3u8?nimblesessionid=1286807819&wmsAuthSign=c2VydmVyX3RpbWU9MTEvNC8yMDI1IDg6MzI6MjUgUE0maGFzaF92YWx1ZT1rWVAxekl6RUk5ZUorUTVINmVFK25nPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjQ=
+#EXT-X-STREAM-INF:BANDWIDTH=1372937,FRAME-RATE=25.00,CODECS="avc1.4d001f,mp4a.40.2"
+https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8?&live=true&app=com.cnnturk&st=vFCfqCCn0g740PxyYvSpRw&e=1762370255
