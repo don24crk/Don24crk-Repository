@@ -1,4 +1,3 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=1902873,CODECS="Lavf53.32.100",RESOLUTION=1920x1080
-https://yayin2.canlitv.fun/live/dmax.stream/chunklist_w1089716449.m3u8?hash=16f212d9e09663686fee71cc07f134e3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://yayin2.canlitv.fun/live/dmax.stream/chunklist_w835789590.m3u8?hash=a4be3e4e3f468dbf625266ca3b9654c6
