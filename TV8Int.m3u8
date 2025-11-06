@@ -1,4 +1,3 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1720000,NAME=TV8INT,RESOLUTION=1280x720,CODECS="Lavf53.32.100",CLOSED-CAPTIONS=NONE
-https://tgn.bozztv.com/gin-dvrfl05/gin-tv8int/tracks-v1a1/mono.m3u8?nimblesessionid=1288053946&wmsAuthSign=c2VydmVyX3RpbWU9MTEvNS8yMDI1IDg6NTM6NDAgUE0maGFzaF92YWx1ZT0yTkpJMndtUjFJMmlRSWpFR1l5MUFRPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjI=
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://mn-nl.mncdn.com/blutv_tv8_int2/live.m3u8
