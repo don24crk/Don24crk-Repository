@@ -1,4 +1,3 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1440992,RESOLUTION=1280x720,FRAME-RATE=25.000,CODECS="avc1.64001f,mp4a.40.2",VIDEO-RANGE=SDR
-https://3uho6lzsf1c2o3i8oun9.streamruby.net/hls2/02/00125/jc6fqgld5gm3_h/index-v1-a1.m3u8?t=J-SzuHlyPQrXLxaJTwpP85_2uFJJj-3yCk7V58oxpEU&s=1762279736&e=32400&v=1235909571&sp=0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/Greekmovies/%CE%9F%20%CE%9A%CF%8E%CF%84%CF%83%CE%BF%CF%82%20%CF%83%CF%84%CE%B7%CE%BD%20%CE%95%CE%9F%CE%9A-playlist.m3u8
