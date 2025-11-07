@@ -1,3 +1,4 @@
 #EXTM3U
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1383776,RESOLUTION=1280x720,FRAME-RATE=30.000,CODECS="avc1.64001f,mp4a.40.2"
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/Aliki%20Vougiouklaki%20Tenies/%CE%A3'%CE%B1%CE%B3%CE%B1%CF%80%CF%8E-playlist.m3u8
+
