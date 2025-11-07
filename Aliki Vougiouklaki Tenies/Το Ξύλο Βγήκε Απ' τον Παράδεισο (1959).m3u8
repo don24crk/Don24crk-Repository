@@ -1,4 +1,3 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4805432,RESOLUTION=1280x720,FRAME-RATE=25.000,CODECS="avc1.4d0029,mp4a.40.2"
-https://ucxipzwkyhms02.streamruby.net/hls2/04/00070/t4ox1ihvs7co_h/index-v1-a1.m3u8?t=LG5dB__wcIt0UdwQs_rj4JjCl-dgvNrAtcbITBZYGyo&s=1762279377&e=32400&v=1235890713&sp=0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/Aliki%20Vougiouklaki%20Tenies/%CE%A4%CE%BF%20%CE%9E%CF%8D%CE%BB%CE%BF%20%CE%92%CE%B3%CE%AE%CE%BA%CE%B5%20%CE%91%CF%80'%20%CF%84%CE%BF%CE%BD%20%CE%A0%CE%B1%CF%81%CE%AC%CE%B4%CE%B5%CE%B9%CF%83%CE%BF-playlist.m3u8
