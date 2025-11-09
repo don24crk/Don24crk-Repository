@@ -46,10 +46,11 @@ name= CINEMA CLASSICS url= "https://tv.mediacp.eu:8081/cinemaclassics/index.m3u8
 name= IONIAN TV url= "https://stream.ioniantv.gr/ionian/live_abr/ionian/live_1080p/chunks.m3u8" logo= "https://i.imgur.com/jFVVQW0.png"
 name= ELLAS WORLD url= "https://ellastvmax.ath.cx/freetv/promo/index.m3u8" logo= "https://ellastvmax.com.au/wp-content/uploads/2022/05/ellastvpromo.png"
 name= VILLAGE WORLD url= "https://ellastvmax.gotdns.com/freetv/village-world/index.m3u8" logo= "https://i.imgur.com/WftpxK2.png"
-name= MAD TV url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/MADTV.m3u8" logo= "https://i.imgur.com/G0iN2tt.png"
+name= MAD TV url= "https://euc13.playlist.live-video.net/v1/playlist/CpAGhYI9T6-qA2-gmmmwLoeK9FA7Cn9EH7x0DIC_z0kt6CUcOA6XAg3pW-67VX9boNzpTxC27KAnkUmQ1Jq2cqd50D30r-algzHQKKMnvtuhtPz9f5AsdLml57ODlhMfcloH4Pg7Z5l2OrO4DE-t2ZTjjRBaDgsDet16AVzUVAdGPgx8TvQ9HG256Rd7C9m5q-Bt3p2aFjJ-rebKhUo_javLSqrtfnjICcPbzfzYTjnatebnEQvWK-_Y5BzmuAk8HvmTOMxJPrUCS2UC5PcTY_I7-P3HeqbQaJ0VjoLrZ3lm0ubw_KOZmsXTiJWNfvTArkPhq-6V800MsdXrtUiPRybO4Uwq9IUIQygOo3Zx6p_j-TtCUgnhun1Z-Kbkr7eUGAg33ujg_fmaNu8ZkhI1RGP94KUbGfQrHcNDAuD0Bv3ox4VE04lCPfYxCkCHtLJQWKncOjaZIwykhQeFD-gyt1BnFCRVN17kJMGNduEIxv5dH0kNkilPEWpikPfKCTc6G58a0zYfGXhjJvT8aNxCX4_FkKSX2vSyb3f2q8FTFStQ-ZlGZWKJnsLUwDhpEaNQfPPud8u-MFS9j2rH0W0jpkkyJydIDShy1YnkkMWeFEHHbhGoPwVs1HQ5DyDnF42Zyo1wcnWCZEHDRsU7mxt4p4A69lX_rjqTehFHQqb3wXK9-QJPm1aVMbpR8p47dG1hh4ebCotYU71GFeh2ERU-gJKOpu1Dyrwygmcv0E3bFKSh7_FWFKNAQUvkL7NaFfLKtQnquf-Lo7V0Q9J8u5Tsdu1ZQVMOTarL3UERFWJQ8AdS00xjyhAYXJb5xBecoZJIK8TSI3_NEJR23CYBc3owGBDrqpLiRB4WBQ9gPQyB4OFwnuDZB9xRLzC80d1jm3WGaPmC1bU2CR8kB_cu8dXJPt-bQct34YdmWEgOPWB358xdhy-p4ze-gySgsodWicOC6rNc1337dqD3v6NvO35DZg1_vUjOeB_rPNbmR473yDS7PRGLsosMflKmZaDpXCL6uJfhkhC9V4nhMy-IcYoEntJvpxoMH3EHOmG7dvHbJsnWIAEqCWV1LXdlc3QtMjDWDQ.m3u8" logo= "https://i.imgur.com/G0iN2tt.png"
 name= MAD WORLD url= "https://ellastvmax.gotdns.com/freetv/madworldtv/index.m3u8" logo= "https://i.imgur.com/zoS5RWU.png"
 name= DIAVATA TV url= "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Diavata.m3u8" logo= "https://i.imgur.com/1DxMmHL.png"
 name= LAMPSI TV url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/Lampsi.m3u8" logo= "https://i.imgur.com/jUr8BZA.png"
+
 
 
 
