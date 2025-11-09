@@ -1,4 +1,4 @@
 #EXTM3U
 #EXTINF:1,TV8
-#EXTVLCOPT:http-user-agent=https://www.nusantarainfrastructure.com/assets/js/jwplayer/jwplayer.js
-https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8?hash=34db6dcf8e0f5e860b08a4b31e3ffba1
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48859
