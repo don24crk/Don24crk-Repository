@@ -3,7 +3,7 @@ name= TRT2 url= "https://tv-trt2.medya.trt.com.tr/master_720.m3u8" logo= "https:
 name= TRTTürk url= "https://tv-trtturk.medya.trt.com.tr/master.m3u8" logo= "http://assets.tvcdn.net/fbaaa75c-0a2d-4ed6-b498-d32a59ddb899.png"
 name= TRTAvaz url= "https://tv-trtavaz.medya.trt.com.tr/master.m3u8" logo= "http://assets.tvcdn.net/53dd1d5f-aa72-4bea-91d0-8c2d00783367.png"
 name= TRT Müzik url= "https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8" logo= "https://cdnuploads.aa.com.tr/uploads/Contents/2024/11/22/thumbs_b_c_4e7965815cc1a5296b366e7e65352364.jpg"
-name= Kral POP url= "http://dygvideo.dygdigital.com/live/hls/kralpop" logo= "https://cdn1.kralmuzik.com.tr/media/content/19-05/20/kralpop.png"
+name= Kral POP url= "http://dygvideo.dygdigital.com/live/hls/kralpop/playlist.m3u8" logo= "https://cdn1.kralmuzik.com.tr/media/content/19-05/20/kralpop.png"
 name= Cine5 TV url= "https://host.onlineradyotv.net:8081/cine5tv/tracks-v1a1/mono.m3u8" logo= "https://i.ibb.co/HFLtSG8/cine5.png"
 name= Dream Türk url= "https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/track_4_1250/playlist.m3u8?&live=true&app=com.dreamturk&st=GDE31XXu9PNbVot1TNWT6A&e=1743187099" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnX_gy3yBn7Cz90lnP8hI_HBWr2loGRyghJw&s"
 name= PowerTürk url= "https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlists.m3u8" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz8_RRYNZb3CdFe0pB8NpqigTHHNpwRKJPXg&s"
@@ -42,6 +42,7 @@ name= FBTV url= "https://fbtv.fenerbahce.org/fenerbahcetv.stream_720p/chunklist.
 name= TRT SPOR url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/TRTSPOR" logo= "https://play-lh.googleusercontent.com/fL17pH3gPhrwonE_fFBaiYG3pSCjs9N-sMWhd0kAu7UNixXHCBUfnbUchTKfDy4_tzU"
 name= Şaban TV url= "https://www.youtube.com/watch?v=-2L6D9gil8w&pp=ygUJxZ5hYmFuIFRW" logo= "https://play-lh.googleusercontent.com/SahnJWNFBkwHuFICDtfXCdPU1OpbjGB-IpX59dYjdzr2SGduXzrqaJLhm9P34YxF4Vw"
 name= DMAX url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/DMAX-TR.m3u8" logo= "https://yt3.googleusercontent.com/7caGBnut6H9aFvL71oqhRbMEy1sE0VIO3oOvuhONRRdQKNzjNqjLW3ySJr-8NR1dnjKcNI62_g=s900-c-k-c0x00ffffff-no-rj"
+
 
 
 
