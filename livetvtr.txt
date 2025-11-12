@@ -31,7 +31,7 @@ name= CNNTürk url= "https://raw.githubusercontent.com/don24crk/Don24crk-Reposit
 name= Canli24 url= "https://turkmedya-live.ercdn.net/tv24/tv24.m3u8" logo= "https://www.yirmidort.tv/assets/header/logoWhite.png"
 name= A2 url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/A2.m3u8" logo= "https://i.ibb.co/Y2fyvM7/a2.png"
 name= Show Max url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/SHOWMAX.m3u8" logo= "https://i.ibb.co/gWMPdrc/showmax.png"
-name= TRT Çocuk url= "https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8" logo= "https://i.ibb.co/cQs3vjD/trtcocuk.png"
+name= TRT Çocuk url= "https://tv-trtcocuk.medya.trt.com.tr/master_1440.m3u8" logo= "https://i.ibb.co/cQs3vjD/trtcocuk.png"
 name= TRT Diyanet Çocuk url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/TRT-Diyanet-Cocuk.m3u8" logo= "https://yt3.googleusercontent.com/B63Iy6s7806LvjKeJZCQOdmXqp5F74QmMQmPDEHfDsTpipBrVFW4zraq4E5O3OZDYm417YhAJg=s900-c-k-c0x00ffffff-no-rj"
 name= MINIKA Çocuk url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/minika-cocuk.m3u8" logo= "https://yt3.googleusercontent.com/UI3UKWRTnxXbR3YAnbDIn_sAqiXsno_UE3iOPDAOQw5tdTUS75Q3nGx1fiv8-0o9b9xgdWr8o0o=s900-c-k-c0x00ffffff-no-rj"
 name= MINIKA GO url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/minika-go.m3u8" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI9bur5dmBkuPHo27NUFmz-plwS6E-LrmN2g&s"
@@ -42,6 +42,7 @@ name= FBTV url= "https://fbtv.fenerbahce.org/fenerbahcetv.stream_720p/chunklist.
 name= TRT SPOR url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/TRTSPOR" logo= "https://play-lh.googleusercontent.com/fL17pH3gPhrwonE_fFBaiYG3pSCjs9N-sMWhd0kAu7UNixXHCBUfnbUchTKfDy4_tzU"
 name= Şaban TV url= "https://www.youtube.com/watch?v=-2L6D9gil8w&pp=ygUJxZ5hYmFuIFRW" logo= "https://play-lh.googleusercontent.com/SahnJWNFBkwHuFICDtfXCdPU1OpbjGB-IpX59dYjdzr2SGduXzrqaJLhm9P34YxF4Vw"
 name= DMAX url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/DMAX-TR.m3u8" logo= "https://yt3.googleusercontent.com/7caGBnut6H9aFvL71oqhRbMEy1sE0VIO3oOvuhONRRdQKNzjNqjLW3ySJr-8NR1dnjKcNI62_g=s900-c-k-c0x00ffffff-no-rj"
+
 
 
 
