@@ -33,7 +33,7 @@ name= Canli24 url= "https://turkmedya-live.ercdn.net/tv24/tv24.m3u8" logo= "http
 name= A2 url= "https://trkvz-live.ercdn.net/a2tv/a2tv.m3u8?st=0w_hty73-kX1lGaJZgZB9Q&e=1763100574|user-agent=ExoPlayer" logo= "https://i.ibb.co/Y2fyvM7/a2.png"
 name= Show Max url= "
 https://ciner-live.ercdn.net/showmax/showmax_1080p.m3u8?e=1763058149&st=GHGb6XAemfNCaaXjCaCoIw&tv=1|user-agent=ExoPlayer" logo= "https://i.ibb.co/gWMPdrc/showmax.png"
-name= TRT Çocuk url= "https://tv-trtcocuk.medya.trt.com.tr/master_1440.m3u8|proxy=212.174.242.114:8080" logo= "https://i.ibb.co/cQs3vjD/trtcocuk.png"
+name= TRT Çocuk url= "https://tv-trtcocuk.medya.trt.com.tr/master_1440.m3u8|proxy=188.213.34.126:443" logo= "https://i.ibb.co/cQs3vjD/trtcocuk.png"
 name= TRT Diyanet Çocuk url= "https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8|user-agent=ExoPlayer" logo= "https://yt3.googleusercontent.com/B63Iy6s7806LvjKeJZCQOdmXqp5F74QmMQmPDEHfDsTpipBrVFW4zraq4E5O3OZDYm417YhAJg=s900-c-k-c0x00ffffff-no-rj"
 name= MINIKA Çocuk url= "https://trkvz-live.ercdn.net/minikagococuk/minikagococuk.m3u8?st=9oOTt4BSLGzw46MVD8MhtA&e=1763099873|user-agent=ExoPlayer" logo= "https://yt3.googleusercontent.com/UI3UKWRTnxXbR3YAnbDIn_sAqiXsno_UE3iOPDAOQw5tdTUS75Q3nGx1fiv8-0o9b9xgdWr8o0o=s900-c-k-c0x00ffffff-no-rj"
 name= MINIKA GO url= "https://trkvz-live.ercdn.net/minikago/minikago.m3u8?st=tclIVIk1Ag2SWS2NtNSRdw&e=1763099946|user-agent=ExoPlayer" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI9bur5dmBkuPHo27NUFmz-plwS6E-LrmN2g&s"
@@ -45,6 +45,7 @@ name= TRT SPOR url= "https://yayin2.canlitv.fun/live/trtspor.stream/playlist.m3u
 name= Şaban TV url= "https://www.youtube.com/watch?v=-2L6D9gil8w&pp=ygUJxZ5hYmFuIFRW" logo= "https://play-lh.googleusercontent.com/SahnJWNFBkwHuFICDtfXCdPU1OpbjGB-IpX59dYjdzr2SGduXzrqaJLhm9P34YxF4Vw"
 name= DMAX url= "https://yayin2.canlitv.fun/live/dmax.stream/playlist.m3u8?hash=be6bdb240ae32373ee138d453329825a" logo= "https://yt3.googleusercontent.com/7caGBnut6H9aFvL71oqhRbMEy1sE0VIO3oOvuhONRRdQKNzjNqjLW3ySJr-8NR1dnjKcNI62_g=s900-c-k-c0x00ffffff-no-rj"
 name= TLC url= "https://yayin2.canlitv.fun/live/tlc.stream/chunklist_w969463432.m3u8?hash=be6bdb240ae32373ee138d453329825a" logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png"
+
 
 
 
