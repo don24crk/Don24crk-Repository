@@ -35,16 +35,17 @@ name= Show Max url= "
 https://ciner-live.ercdn.net/showmax/showmax_1080p.m3u8?e=1763058149&st=GHGb6XAemfNCaaXjCaCoIw&tv=1|user-agent=ExoPlayer" logo= "https://i.ibb.co/gWMPdrc/showmax.png"
 name= TRT Çocuk url= "https://tv-trtcocuk.medya.trt.com.tr/master_1440.m3u8" logo= "https://i.ibb.co/cQs3vjD/trtcocuk.png"
 name= TRT Diyanet Çocuk url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/TRT-Diyanet-Cocuk.m3u8" logo= "https://yt3.googleusercontent.com/B63Iy6s7806LvjKeJZCQOdmXqp5F74QmMQmPDEHfDsTpipBrVFW4zraq4E5O3OZDYm417YhAJg=s900-c-k-c0x00ffffff-no-rj"
-name= MINIKA Çocuk url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/minika-cocuk.m3u8" logo= "https://yt3.googleusercontent.com/UI3UKWRTnxXbR3YAnbDIn_sAqiXsno_UE3iOPDAOQw5tdTUS75Q3nGx1fiv8-0o9b9xgdWr8o0o=s900-c-k-c0x00ffffff-no-rj"
-name= MINIKA GO url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/minika-go.m3u8" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI9bur5dmBkuPHo27NUFmz-plwS6E-LrmN2g&s"
+name= MINIKA Çocuk url= "https://trkvz-live.ercdn.net/minikagococuk/minikagococuk.m3u8?st=9oOTt4BSLGzw46MVD8MhtA&e=1763099873|user-agent=ExoPlayer" logo= "https://yt3.googleusercontent.com/UI3UKWRTnxXbR3YAnbDIn_sAqiXsno_UE3iOPDAOQw5tdTUS75Q3nGx1fiv8-0o9b9xgdWr8o0o=s900-c-k-c0x00ffffff-no-rj"
+name= MINIKA GO url= "https://trkvz-live.ercdn.net/minikago/minikago.m3u8?st=tclIVIk1Ag2SWS2NtNSRdw&e=1763099946|user-agent=ExoPlayer" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI9bur5dmBkuPHo27NUFmz-plwS6E-LrmN2g&s"
 name= TGRT EU url= "https://canli.tgrthaber.com/tgrt.m3u8" logo= "http://assets.tvcdn.net/01032651-eac6-48ea-b6ef-78acf8e95daa.png"
 name= N-TV url= "http://dygvideo.dygdigital.com/live/hls/ntv4puhu?m3u8|user-agent=ExoPlayer" logo= "https://upload.wikimedia.org/wikipedia/commons/b/b5/NTV_logo.png"
 name= A Spor url= "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8" logo= "https://cdn6.aptoide.com/imgs/7/f/d/7fd636ea06646d1a9aaefe27a11dfb58_icon.png"
 name= FBTV url= "https://fbtv.fenerbahce.org/fenerbahcetv.stream_720p/chunklist.m3u8" logo= "https://yt3.googleusercontent.com/ytc/AIdro_kG04jzq7wxoRvUmeqFO1zzt6CDop8OltgqJ9E9PXj1PuU=s900-c-k-c0x00ffffff-no-rj"
-name= TRT SPOR url= "https://yayin2.canlitv.fun/live/trtspor.stream/chunklist_w62996576.m3u8?hash=be6bdb240ae32373ee138d453329825a" logo= "https://play-lh.googleusercontent.com/fL17pH3gPhrwonE_fFBaiYG3pSCjs9N-sMWhd0kAu7UNixXHCBUfnbUchTKfDy4_tzU"
+name= TRT SPOR url= "https://yayin2.canlitv.fun/live/trtspor.stream/playlist.m3u8?hash=be6bdb240ae32373ee138d453329825a" logo= "https://play-lh.googleusercontent.com/fL17pH3gPhrwonE_fFBaiYG3pSCjs9N-sMWhd0kAu7UNixXHCBUfnbUchTKfDy4_tzU"
 name= Şaban TV url= "https://www.youtube.com/watch?v=-2L6D9gil8w&pp=ygUJxZ5hYmFuIFRW" logo= "https://play-lh.googleusercontent.com/SahnJWNFBkwHuFICDtfXCdPU1OpbjGB-IpX59dYjdzr2SGduXzrqaJLhm9P34YxF4Vw"
-name= DMAX url= "https://yayin2.canlitv.fun:443/live/dmax.stream/chunklist_w1797206888.m3u8?hash=be6bdb240ae32373ee138d453329825a" logo= "https://yt3.googleusercontent.com/7caGBnut6H9aFvL71oqhRbMEy1sE0VIO3oOvuhONRRdQKNzjNqjLW3ySJr-8NR1dnjKcNI62_g=s900-c-k-c0x00ffffff-no-rj"
+name= DMAX url= "https://yayin2.canlitv.fun/live/dmax.stream/playlist.m3u8?hash=be6bdb240ae32373ee138d453329825a" logo= "https://yt3.googleusercontent.com/7caGBnut6H9aFvL71oqhRbMEy1sE0VIO3oOvuhONRRdQKNzjNqjLW3ySJr-8NR1dnjKcNI62_g=s900-c-k-c0x00ffffff-no-rj"
 name= TLC url= "https://yayin2.canlitv.fun/live/tlc.stream/chunklist_w969463432.m3u8?hash=be6bdb240ae32373ee138d453329825a" logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png"
+
 
 
 
