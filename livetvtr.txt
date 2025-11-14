@@ -1,5 +1,5 @@
 name= TRT1 url= "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48839" logo= "http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png"
-name= TRT2 url= "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48841" logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/TRT_2_logo.svg/1200px-TRT_2_logo.svg.png"
+name= TRT2 url= "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48841" logo= "https://cdnuploads.aa.com.tr/uploads/Contents/2025/02/21/thumbs_b_c_e29f867279fbd47cf95b2dd625372c23.jpg"
 name= TRTTürk url= "https://tv-trtturk.medya.trt.com.tr/master.m3u8" logo= "http://assets.tvcdn.net/fbaaa75c-0a2d-4ed6-b498-d32a59ddb899.png"
 name= TRTAvaz url= "https://tv-trtavaz.medya.trt.com.tr/master.m3u8" logo= "http://assets.tvcdn.net/53dd1d5f-aa72-4bea-91d0-8c2d00783367.png"
 name= TRT Müzik url= "https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8" logo= "https://cdnuploads.aa.com.tr/uploads/Contents/2024/11/22/thumbs_b_c_4e7965815cc1a5296b366e7e65352364.jpg"
@@ -44,6 +44,7 @@ name= Şaban TV url= "plugin://plugin.video.youtube/play/?video_id=VkB9S_nInbA" 
 name= Şunal TV url= "plugin://plugin.video.youtube/play/?video_id=pdyq7lixkPI" logo= "https://upload.wikimedia.org/wikipedia/en/2/2d/Kemal_Sunal.jpg"
 name= DMAX url= "https://cdn505.canlitv.me/dmax.m3u8?tkn=G5pkugDlTuLiHXg_onaAXQ&tms=1763172458&hst=www.canlitv.me&ip=2003:e5:4738:5002:30fe:652f:bc39:a67a&utkn=cc5ff88592274eb186e7ee4d2fdd509c&ch=dmax-canli-hd|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A145.0)%20Gecko%2F20100101%20Firefox%2F145.0&Cookie=_ga_EQE5CHFMFF%3DGS2.1.s1763157076%24o1%24g1%24t1763158058%24j59%24l0%24h0%3B%20_ga%3DGA1.1.1221332137.1763157077%3B%20gid_cfsx_eodmax-canli-hd%3D1763158058-3b9be8104820abc473564ae305be08c7&Referer=https%3A%2F%2Fwww.canlitv.me%2F" logo= "https://yt3.googleusercontent.com/7caGBnut6H9aFvL71oqhRbMEy1sE0VIO3oOvuhONRRdQKNzjNqjLW3ySJr-8NR1dnjKcNI62_g=s900-c-k-c0x00ffffff-no-rj"
 name= TLC url= "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48872" logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png"
+
 
 
 
