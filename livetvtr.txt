@@ -27,7 +27,7 @@ name= ShowTürk url= "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48850
 name= Kanal 7 Avrupa url= "https://livetv.radyotvonline.net/kanal7live/kanal7avr/chunklist.m3u8" logo= "http://assets.tvcdn.net/d52bb3d8-b362-47c0-9b8e-bddc4ceb4fe5.png"
 name= TRTHaber url= "http://stream.tvcdn.net/haber/trt-haber.m3u8" logo= "http://assets.tvcdn.net/06e7abd9-0fbb-441f-af63-b895513d3aaa.png"
 name= AHaber url= "https://live.canlitvulusal.xyz/live/ahaber/index.m3u8" logo= "http://assets.tvcdn.net/06e7abd9-0fbb-441f-af63-b895513d3aaa.png"
-name= CNNTürk url= "https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8?&live=true&app=com.cnnturk&st=m19LjIKTo-ytGOM3TXd21w&e=1763146295|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A145.0)%20Gecko%2F20100101%20Firefox%2F145.0&Referer=https%3A%2F%2Fwww.cnnturk.com%2F" logo= "http://assets.tvcdn.net/db0e3f2f-3191-4af2-9cde-5345eb7543e4.png"
+name= CNNTürk url= "plugin://plugin.video.youtube/play/?video_id=6N8_r2uwLEc" logo= "http://assets.tvcdn.net/db0e3f2f-3191-4af2-9cde-5345eb7543e4.png"
 name= Canli24 url= "https://turkmedya-live.ercdn.net/tv24/tv24.m3u8" logo= "https://www.yirmidort.tv/assets/header/logoWhite.png"
 name= A2 url= "http://89.187.191.41/A2-HD-TR/video.m3u8" logo= "https://i.ibb.co/Y2fyvM7/a2.png"
 name= Show Max url= "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48867" logo= "https://i.ibb.co/gWMPdrc/showmax.png"
@@ -44,6 +44,7 @@ name= Şaban TV url= "plugin://plugin.video.youtube/play/?video_id=VkB9S_nInbA" 
 name= Şunal TV url= "plugin://plugin.video.youtube/play/?video_id=pdyq7lixkPI" logo= "https://upload.wikimedia.org/wikipedia/en/2/2d/Kemal_Sunal.jpg"
 name= DMAX url= "https://live.canlitvulusal.xyz/live/dmax/index.m3u8" logo= "https://yt3.googleusercontent.com/7caGBnut6H9aFvL71oqhRbMEy1sE0VIO3oOvuhONRRdQKNzjNqjLW3ySJr-8NR1dnjKcNI62_g=s900-c-k-c0x00ffffff-no-rj"
 name= TLC url= "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48872" logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png"
+
 
 
 
