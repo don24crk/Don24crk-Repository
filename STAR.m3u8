@@ -1,4 +1,4 @@
 #EXTM3U
 #EXTINF:1,STAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.123 Mobile Safari/537.36 EdgA/141.0.3537.99
-http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=307893&extension=ts&play_token=aF4qB0jYGm?username=technologycloud.eu%3A80&password=play&type=m3u_plus
+http://technologycloud.eu:80/play/live.php?mac=00%3a1A%3a79%3a84%3aB7%3a7B&stream=307893&extension=ts&play_token=aF4qB0jYGm?username=technologycloud.eu%3A80&password=play&type=m3u_plus
