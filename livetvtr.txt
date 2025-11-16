@@ -34,7 +34,7 @@ name= Show Max url= "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48867"
 name= TRT Çocuk url= "https://tv-trtcocuk.medya.trt.com.tr/master_1440.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A145.0)%20Gecko%2F20100101%20Firefox%2F145.0&Referer=https%3A%2F%2Fwww.trtcocuk.net.tr%2F" logo= "https://i.ibb.co/cQs3vjD/trtcocuk.png"
 name= TRT Diyanet Çocuk url= "https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8" logo= "https://yt3.googleusercontent.com/B63Iy6s7806LvjKeJZCQOdmXqp5F74QmMQmPDEHfDsTpipBrVFW4zraq4E5O3OZDYm417YhAJg=s900-c-k-c0x00ffffff-no-rj"
 name= MINIKA Çocuk url= "https://trkvz-live.ercdn.net/minikagococuk/minikagococuk.m3u8?st=2HD8Zq2poEHRm2-zd7vt3g&e=1763355248" logo= "https://yt3.googleusercontent.com/UI3UKWRTnxXbR3YAnbDIn_sAqiXsno_UE3iOPDAOQw5tdTUS75Q3nGx1fiv8-0o9b9xgdWr8o0o=s900-c-k-c0x00ffffff-no-rj"
-name= MINIKA GO url= "https://trkvz-live.ercdn.net/minikago/minikago.m3u8?st=1aTOTPx0BaZzi-1WUL08XA&e=1763354990"
+name= MINIKA GO url= "https://trkvz-live.ercdn.net/minikago/minikago.m3u8?st=1aTOTPx0BaZzi-1WUL08XA&e=1763354990" ogo= "https://play-lh.googleusercontent.com/mGhIWSmUMdLUMUgFPmdMmFgxDolQ3Ynv74DIu5Zkvy9qi6kgveteUuH9RdbNK3qvrg=w240-h480-rw"
 name= TGRT EU url= "https://canli.tgrthaber.com/tgrt.m3u8" logo= "http://assets.tvcdn.net/01032651-eac6-48ea-b6ef-78acf8e95daa.png"
 name= N-TV url= "http://dygvideo.dygdigital.com/live/hls/ntv4puhu?m3u8" logo= "https://upload.wikimedia.org/wikipedia/commons/b/b5/NTV_logo.png"
 name= A Spor url= "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8" logo= "https://cdn6.aptoide.com/imgs/7/f/d/7fd636ea06646d1a9aaefe27a11dfb58_icon.png"
@@ -44,6 +44,7 @@ name= Şaban TV url= "plugin://plugin.video.youtube/play/?video_id=VkB9S_nInbA" 
 name= Şunal TV url= "plugin://plugin.video.youtube/play/?video_id=pdyq7lixkPI" logo= "https://upload.wikimedia.org/wikipedia/en/2/2d/Kemal_Sunal.jpg"
 name= DMAX url= "https://xyz.canlitvplayer.com/dmax/index.m3u8" logo= "https://yt3.googleusercontent.com/7caGBnut6H9aFvL71oqhRbMEy1sE0VIO3oOvuhONRRdQKNzjNqjLW3ySJr-8NR1dnjKcNI62_g=s900-c-k-c0x00ffffff-no-rj"
 name= TLC url= "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48872" logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png"
+
 
 
 
