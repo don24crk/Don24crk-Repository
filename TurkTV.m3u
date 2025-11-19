@@ -20,11 +20,11 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48859
 #EXTINF:1,TV8INT
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48861
 #EXTINF:1,SHOWTV
-https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?ex=1664766175&st=RBzhSuGauna0OGld-DJUVA&tv=1&sid=7xexe7kmvacg&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&ce=3&user-agent=https://gatr.hit.gemius.pl/gplayer.js
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48849
 #EXTINF:1,SHOWTÜRK
-https://ciner-live.ercdn.net/showturk/showturk_1080p.m3u8?e=1763567697&st=BLkFsJb5HN0vN334lsS1eg&tv=1&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+hhttp://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48850
 #EXTINF:1,SHOWMAX
-https://ciner-live.ercdn.net/showmax/showmax_1080p.m3u8?e=1763566593&st=Yby8ejZ7vUr7Bfk1O5QLHA&tv=1&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48867
 #EXTINF:1,NOWTV
 http://116.202.238.88/FOXTV_TR/index.m3u8
 #EXTINF:1,KANAL7
@@ -77,4 +77,5 @@ https://www.youtube.com/watch?v=_pRHXDSK8sA
 http://ch-4k-top.org:80/play/live.php?mac=00%3A1A%3A79%3A01%3A70%3A82&stream=170683&extension=ts
 #EXTINF:1,TLC
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48872
+
 
