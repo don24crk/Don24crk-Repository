@@ -70,13 +70,14 @@ http://ch-4k-top.org:80/play/live.php?mac=00%3A1A%3A79%3A01%3A70%3A82&stream=314
 #EXTINF:1,TRT SPOR
 http://ch-4k-top.org:80/play/live.php?mac=00%3A1A%3A79%3A01%3A70%3A82&stream=170679&extension=ts
 #EXTINF:1,Şunal TV
-https://www.youtube.com/watch?v=pdyq7lixkPI
+plugin://plugin.video.youtube/play/?video_id=pdyq7lixkPI
 #EXTINF:1,Şaban TV
-https://www.youtube.com/watch?v=_pRHXDSK8sA
+plugin://plugin.video.youtube/play/?video_id=_pRHXDSK8sA
 #EXTINF:1,DMAX
 http://ch-4k-top.org:80/play/live.php?mac=00%3A1A%3A79%3A01%3A70%3A82&stream=170683&extension=ts
 #EXTINF:1,TLC
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48872
+
 
 
 
