@@ -1,6 +1,7 @@
 #EXTM3U
-#EXTINF:1,Η Αρχόντισσα κι ο Αλήτης (1968)
-#EXTVLCOPT:http-user-agent=https://vjs.zencdn.net/8.23.4/video.min.js
-https://ucxipzwkyhms02.streamruby.net:443/hls2/04/00083/pxasq9rq4118_n/index-v1-a1.m3u8?t=GK21XKNjI_MXORDn1u1BhzREWbt0u2sPA3TDjm8kGho&s=1760369113&e=32400&v=1137512903&i=85.195&sp=0
-
-
+#EXT-X-STREAM-INF:BANDWIDTH=614059,RESOLUTION=640x360
+https://ucxipzwkyhms02.streamruby.net/hls2/04/00083/pxasq9rq4118_l/index-v1-a1.m3u8?t=BWz-m-_FcQm76iN7-qjX3hea9OFHQvWq0_lXGNn4qOE&s=1763667359&e=32400&v=1302026802&sp=0
+#EXT-X-STREAM-INF:BANDWIDTH=1032405,RESOLUTION=852x480
+https://ucxipzwkyhms02.streamruby.net/hls2/04/00083/pxasq9rq4118_n/index-v1-a1.m3u8?t=BWz-m-_FcQm76iN7-qjX3hea9OFHQvWq0_lXGNn4qOE&s=1763667359&e=32400&v=1302026802&sp=0
+#EXT-X-STREAM-INF:BANDWIDTH=3113911,RESOLUTION=1280x720
+https://ucxipzwkyhms02.streamruby.net/hls2/04/00083/pxasq9rq4118_h/index-v1-a1.m3u8?t=BWz-m-_FcQm76iN7-qjX3hea9OFHQvWq0_lXGNn4qOE&s=1763667359&e=32400&v=1302026802&sp=0
