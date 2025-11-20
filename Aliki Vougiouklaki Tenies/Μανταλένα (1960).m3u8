@@ -1,6 +1,7 @@
 #EXTM3U
-#EXTINF:1,Μανταλένα (1960)
-#EXTVLCOPT:http-user-agent=https://vjs.zencdn.net/8.23.4/video.min.js
-https://36x8fqcfqsv376o2c3bj.streamruby.net/hls2/03/00070/r9pq1hwv2kkx_n/index-v1-a1.m3u8?t=kplpUd_amc1lap3nDNMO3OUTdp3QnyXuh2-zOAcxxKo&s=1760370713&e=32400&v=1137616877&i=85.195&sp=0
-
-
+#EXT-X-STREAM-INF:BANDWIDTH=600986,RESOLUTION=640x360
+https://36x8fqcfqsv376o2c3bj.streamruby.net/hls2/03/00070/r9pq1hwv2kkx_l/index-v1-a1.m3u8?t=hzxUVP5ZEG7jy-VOF86nq2_NXoETqGFopg1d0STRa8Y&s=1763668461&e=32400&v=1302075662&sp=0
+#EXT-X-STREAM-INF:BANDWIDTH=997751,RESOLUTION=852x480
+https://36x8fqcfqsv376o2c3bj.streamruby.net/hls2/03/00070/r9pq1hwv2kkx_n/index-v1-a1.m3u8?t=hzxUVP5ZEG7jy-VOF86nq2_NXoETqGFopg1d0STRa8Y&s=1763668461&e=32400&v=1302075662&sp=0
+#EXT-X-STREAM-INF:BANDWIDTH=4797279,RESOLUTION=1280x720
+https://36x8fqcfqsv376o2c3bj.streamruby.net/hls2/03/00070/r9pq1hwv2kkx_h/index-v1-a1.m3u8?t=hzxUVP5ZEG7jy-VOF86nq2_NXoETqGFopg1d0STRa8Y&s=1763668461&e=32400&v=1302075662&sp=0
