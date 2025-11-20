@@ -1,2 +1,3 @@
 #EXTM3U
-https://s2.cystream.net/live/megagr/chunks.m3u8?nimblesessionid=30231580&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjAvMjAyNSA5OjM4OjI1IFBNJmhhc2hfdmFsdWU9YnBteHh4RHJwMHREZ1BFcGdwUWttdz09JnZhbGlkbWludXRlcz0yMA==|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://s2.cystream.net/live/megagr/chunks.m3u8?nimblesessionid=30231580&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjAvMjAyNSA5OjM4OjI1IFBNJmhhc2hfdmFsdWU9YnBteHh4RHJwMHREZ1BFcGdwUWttdz09JnZhbGlkbWludXRlcz0yMA==
