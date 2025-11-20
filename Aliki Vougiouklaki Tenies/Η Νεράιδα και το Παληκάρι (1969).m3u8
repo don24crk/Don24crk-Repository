@@ -1,6 +1,7 @@
 #EXTM3U
-#EXTINF:1,Η Νεράιδα και το Παληκάρι (1969)
-#EXTVLCOPT:http-user-agent=https://vjs.zencdn.net/8.23.4/video.min.js
-https://36x8fqcfqsv376o2c3bj.streamruby.net:443/hls2/02/00077/jiidt5cf1sgu_n/index-v1-a1.m3u8?t=EVAAwGbs1Gsp5mH0BjIIgShKKRG__0PUqbiHQm8wI0s&s=1760370283&e=32400&v=1137588839&i=85.195&sp=0
-
-
+#EXT-X-STREAM-INF:BANDWIDTH=577670,RESOLUTION=640x360
+https://36x8fqcfqsv376o2c3bj.streamruby.net/hls2/02/00077/jiidt5cf1sgu_l/index-v1-a1.m3u8?t=cOulfqi3zvIw2kiZg5cIrU5X1QnDeEk9o-b7X5e9xJA&s=1763667918&e=32400&v=1302051928&sp=0
+#EXT-X-STREAM-INF:BANDWIDTH=933565,RESOLUTION=852x480
+https://36x8fqcfqsv376o2c3bj.streamruby.net/hls2/02/00077/jiidt5cf1sgu_n/index-v1-a1.m3u8?t=cOulfqi3zvIw2kiZg5cIrU5X1QnDeEk9o-b7X5e9xJA&s=1763667918&e=32400&v=1302051928&sp=0
+#EXT-X-STREAM-INF:BANDWIDTH=4807007,RESOLUTION=1280x720
+https://36x8fqcfqsv376o2c3bj.streamruby.net/hls2/02/00077/jiidt5cf1sgu_h/index-v1-a1.m3u8?t=cOulfqi3zvIw2kiZg5cIrU5X1QnDeEk9o-b7X5e9xJA&s=1763667918&e=32400&v=1302051928&sp=0
