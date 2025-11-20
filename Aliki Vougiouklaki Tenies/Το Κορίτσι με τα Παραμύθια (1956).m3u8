@@ -1,6 +1,7 @@
 #EXTM3U
-#EXTINF:1,Το Κορίτσι με τα Παραμύθια (1956)
-#EXTVLCOPT:http-user-agent=https://vjs.zencdn.net/8.23.4/video.min.js
-https://ucxipzwkyhms02.streamruby.net:443/hls2/04/00082/68avsfsltgc1_n/index-v1-a1.m3u8?t=wf1cC76VpQ4z-wQ4Q0vvo-yDdI16p5SkzSVIsLIBBjU&s=1760371092&e=32400&v=1137641610&i=85.195&sp=0
-
-
+#EXT-X-STREAM-INF:BANDWIDTH=330943,RESOLUTION=640x360
+https://ucxipzwkyhms02.streamruby.net/hls2/04/00082/68avsfsltgc1_l/index-v1-a1.m3u8?t=9iHgK6HsEMCp06yL9AZrpINLV-CqX_kmKY5KVePAmsM&s=1763669619&e=32400&v=1302130515&sp=0
+#EXT-X-STREAM-INF:BANDWIDTH=533028,RESOLUTION=852x480
+https://ucxipzwkyhms02.streamruby.net/hls2/04/00082/68avsfsltgc1_n/index-v1-a1.m3u8?t=9iHgK6HsEMCp06yL9AZrpINLV-CqX_kmKY5KVePAmsM&s=1763669619&e=32400&v=1302130515&sp=0
+#EXT-X-STREAM-INF:BANDWIDTH=1052523,RESOLUTION=1280x720
+https://ucxipzwkyhms02.streamruby.net/hls2/04/00082/68avsfsltgc1_h/index-v1-a1.m3u8?t=9iHgK6HsEMCp06yL9AZrpINLV-CqX_kmKY5KVePAmsM&s=1763669619&e=32400&v=1302130515&sp=0
