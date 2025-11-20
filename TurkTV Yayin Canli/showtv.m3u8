@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=2200000,RESOLUTION=1920x1080
+https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?ex=1664766175&st=RBzhSuGauna0OGld-DJUVA&tv=1&sid=7xivsw2ahhs3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&ce=3
+#EXT-X-STREAM-INF:BANDWIDTH=1050000,RESOLUTION=1280x720
+https://ciner.daioncdn.net/showtv/showtv_720p.m3u8?ex=1664766175&st=RBzhSuGauna0OGld-DJUVA&tv=1&sid=7xivsw2ahhs3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&ce=3
+#EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=854x480
+https://ciner.daioncdn.net/showtv/showtv_480p.m3u8?ex=1664766175&st=RBzhSuGauna0OGld-DJUVA&tv=1&sid=7xivsw2ahhs3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&ce=3
+#EXT-X-STREAM-INF:BANDWIDTH=550000,RESOLUTION=640x360
+https://ciner.daioncdn.net/showtv/showtv_360p.m3u8?ex=1664766175&st=RBzhSuGauna0OGld-DJUVA&tv=1&sid=7xivsw2ahhs3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&ce=3

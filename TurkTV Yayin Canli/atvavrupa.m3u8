@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1200000,NAME=576p,RESOLUTION=1024x576
+https://trkvz-live.ercdn.net/atvavrupa/atvavrupa_576p.m3u8?st=Edo5Hpngj24_BmJetB-DgQ&e=1763700228
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=600000,NAME=360p,RESOLUTION=640x360
+https://trkvz-live.ercdn.net/atvavrupa/atvavrupa_360p.m3u8?st=Edo5Hpngj24_BmJetB-DgQ&e=1763700228
