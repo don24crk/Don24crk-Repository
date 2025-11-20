@@ -1,6 +1,7 @@
 #EXTM3U
-#EXTINF:1,Το Κορίτσι Του Λούνα Παρκ (1968)
-#EXTVLCOPT:http-user-agent=https://vjs.zencdn.net/8.23.4/video.min.js
-https://3uho6lzsf1c2o3i8oun9.streamruby.net:443/hls2/04/00065/4ht5c953x1gj_n/index-v1-a1.m3u8?t=c0qD8890rhndCakKd6uyXGj_bP6bWMiyw8UT8mjlrcs&s=1760371243&e=32400&v=1137651453&i=85.195&sp=0
-
-
+#EXT-X-STREAM-INF:BANDWIDTH=623865,RESOLUTION=640x360
+https://3uho6lzsf1c2o3i8oun9.streamruby.net/hls2/04/00065/4ht5c953x1gj_l/index-v1-a1.m3u8?t=ELewtBFC4whN96T7T7wY01BA9J18AiHlVjpVOAgvPAs&s=1763669437&e=32400&v=1302121645&sp=0
+#EXT-X-STREAM-INF:BANDWIDTH=1009062,RESOLUTION=852x480
+https://3uho6lzsf1c2o3i8oun9.streamruby.net/hls2/04/00065/4ht5c953x1gj_n/index-v1-a1.m3u8?t=ELewtBFC4whN96T7T7wY01BA9J18AiHlVjpVOAgvPAs&s=1763669437&e=32400&v=1302121645&sp=0
+#EXT-X-STREAM-INF:BANDWIDTH=2023627,RESOLUTION=1280x720
+https://3uho6lzsf1c2o3i8oun9.streamruby.net/hls2/04/00065/4ht5c953x1gj_h/index-v1-a1.m3u8?t=ELewtBFC4whN96T7T7wY01BA9J18AiHlVjpVOAgvPAs&s=1763669437&e=32400&v=1302121645&sp=0
