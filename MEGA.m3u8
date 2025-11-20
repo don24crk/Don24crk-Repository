@@ -1,4 +1,4 @@
 #EXTM3U
-#EXTINF:1,MEGATV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.123 Mobile Safari/537.36 EdgA/141.0.3537.99
-http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=307884&extension=ts&play_token=CzdfGxy9LJ?username=technologycloud.eu%3A80&password=play&type=m3u_plus
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=407756,RESOLUTION=640x360
+https://s2.cystream.net/live/megagr/chunks.m3u8?nimblesessionid=30231580&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjAvMjAyNSA5OjM4OjI1IFBNJmhhc2hfdmFsdWU9YnBteHh4RHJwMHREZ1BFcGdwUWttdz09JnZhbGlkbWludXRlcz0yMA==&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
