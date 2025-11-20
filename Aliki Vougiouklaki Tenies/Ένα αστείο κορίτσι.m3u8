@@ -1,6 +1,7 @@
 #EXTM3U
-#EXTINF:1,Ένα αστείο κορίτσι
-#EXTVLCOPT:http-user-agent=https://vjs.zencdn.net/8.23.4/video.min.js
-https://ucxipzwkyhms02.streamruby.net:443/hls2/03/00067/sfsf6u4xerik_h/index-v1-a1.m3u8?t=IZFka3i_eduHoYSE-o93kfpdI7UTlj4I_7KDYHQ2xLw&s=1760368171&e=32400&v=1137450167&i=85.195&sp=0
-
-
+#EXT-X-STREAM-INF:BANDWIDTH=535382,RESOLUTION=640x360
+https://ucxipzwkyhms02.streamruby.net/hls2/03/00067/sfsf6u4xerik_l/index-v1-a1.m3u8?t=X4So31nk15jMP4bbQ69qJpE8KFK4SQ-qaPlbqXSyeaQ&s=1763665373&e=32400&v=1301925556&sp=0
+#EXT-X-STREAM-INF:BANDWIDTH=905709,RESOLUTION=852x480
+https://ucxipzwkyhms02.streamruby.net/hls2/03/00067/sfsf6u4xerik_n/index-v1-a1.m3u8?t=X4So31nk15jMP4bbQ69qJpE8KFK4SQ-qaPlbqXSyeaQ&s=1763665373&e=32400&v=1301925556&sp=0
+#EXT-X-STREAM-INF:BANDWIDTH=3597522,RESOLUTION=1280x720
+https://ucxipzwkyhms02.streamruby.net/hls2/03/00067/sfsf6u4xerik_h/index-v1-a1.m3u8?t=X4So31nk15jMP4bbQ69qJpE8KFK4SQ-qaPlbqXSyeaQ&s=1763665373&e=32400&v=1301925556&sp=0
