@@ -1,6 +1,7 @@
 #EXTM3U
-#EXTINF:1,Το Δόλωμα (1964)
-#EXTVLCOPT:http-user-agent=https://vjs.zencdn.net/8.23.4/video.min.js
-https://ucxipzwkyhms02.streamruby.net:443/hls2/04/00070/laomretqrohh_n/index-v1-a1.m3u8?t=Y3MXXOVNbbp2Q9Jm2bk4nKurPTVDMj-DcEhutFLj2x8&s=1760371002&e=32400&v=1137635781&i=85.195&sp=0
-
-
+#EXT-X-STREAM-INF:BANDWIDTH=589864,RESOLUTION=640x360
+https://ucxipzwkyhms02.streamruby.net/hls2/04/00070/laomretqrohh_l/index-v1-a1.m3u8?t=BT9eYSPQVn7weahhwpNyH8VjCTiT0-plh2pn5V1nQqY&s=1763668973&e=32400&v=1302099648&sp=0
+#EXT-X-STREAM-INF:BANDWIDTH=982126,RESOLUTION=852x480
+https://ucxipzwkyhms02.streamruby.net/hls2/04/00070/laomretqrohh_n/index-v1-a1.m3u8?t=BT9eYSPQVn7weahhwpNyH8VjCTiT0-plh2pn5V1nQqY&s=1763668973&e=32400&v=1302099648&sp=0
+#EXT-X-STREAM-INF:BANDWIDTH=4808505,RESOLUTION=1280x720
+https://ucxipzwkyhms02.streamruby.net/hls2/04/00070/laomretqrohh_h/index-v1-a1.m3u8?t=BT9eYSPQVn7weahhwpNyH8VjCTiT0-plh2pn5V1nQqY&s=1763668973&e=32400&v=1302099648&sp=0
