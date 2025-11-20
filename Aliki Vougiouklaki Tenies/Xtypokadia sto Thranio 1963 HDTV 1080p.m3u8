@@ -1,6 +1,7 @@
 #EXTM3U
-#EXTINF:1,Xtypokadia sto Thranio 1963 HDTV 1080p
-#EXTVLCOPT:http-user-agent=https://vjs.zencdn.net/8.23.4/video.min.js
-https://3uho6lzsf1c2o3i8oun9.streamruby.net:443/hls2/01/00295/m3elkifxmbu6_l/index-v1-a1.m3u8?t=t_UzH9xXdpCMOztphrGTCVlthKX0_0vZ_8kETpGlKlg&s=1760371743&e=32400&v=1137683689&i=85.195&sp=0
-
-
+#EXT-X-STREAM-INF:BANDWIDTH=741667,RESOLUTION=640x360
+https://3uho6lzsf1c2o3i8oun9.streamruby.net/hls2/01/00295/m3elkifxmbu6_l/index-v1-a1.m3u8?t=dKDsU5RHAr2ttesR_zpcRv6C7yPR4kDfvqIDZJ-EAL4&s=1763666786&e=32400&v=1301999403&sp=0
+#EXT-X-STREAM-INF:BANDWIDTH=1243898,RESOLUTION=852x480
+https://3uho6lzsf1c2o3i8oun9.streamruby.net/hls2/01/00295/m3elkifxmbu6_n/index-v1-a1.m3u8?t=dKDsU5RHAr2ttesR_zpcRv6C7yPR4kDfvqIDZJ-EAL4&s=1763666786&e=32400&v=1301999403&sp=0
+#EXT-X-STREAM-INF:BANDWIDTH=2561397,RESOLUTION=1280x720
+https://3uho6lzsf1c2o3i8oun9.streamruby.net/hls2/01/00295/m3elkifxmbu6_h/index-v1-a1.m3u8?t=dKDsU5RHAr2ttesR_zpcRv6C7yPR4kDfvqIDZJ-EAL4&s=1763666786&e=32400&v=1301999403&sp=0
