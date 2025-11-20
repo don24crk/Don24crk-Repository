@@ -1,6 +1,7 @@
 #EXTM3U
-#EXTINF:1,Το Πιο Λαμπρό Αστέρι (1967)
-#EXTVLCOPT:http-user-agent=https://vjs.zencdn.net/8.23.4/video.min.js
-https://3uho6lzsf1c2o3i8oun9.streamruby.net:443/hls2/02/00065/n48x1d1kjd0i_n/index-v1-a1.m3u8?t=LlLpsDT_CSrPCz35BWwLhWuDqsiyl-u2Nz2OS3zwM6U&s=1760371466&e=32400&v=1137665907&i=85.195&sp=0
-
-
+#EXT-X-STREAM-INF:BANDWIDTH=561276,RESOLUTION=640x360
+https://3uho6lzsf1c2o3i8oun9.streamruby.net/hls2/02/00065/n48x1d1kjd0i_l/index-v1-a1.m3u8?t=f4QZofvB516Kq3oznNJk_EVh8BUyaXGK8OCAt0MTjW4&s=1763669947&e=32400&v=1302145937&sp=0
+#EXT-X-STREAM-INF:BANDWIDTH=934050,RESOLUTION=852x480
+https://3uho6lzsf1c2o3i8oun9.streamruby.net/hls2/02/00065/n48x1d1kjd0i_n/index-v1-a1.m3u8?t=f4QZofvB516Kq3oznNJk_EVh8BUyaXGK8OCAt0MTjW4&s=1763669947&e=32400&v=1302145937&sp=0
+#EXT-X-STREAM-INF:BANDWIDTH=1132505,RESOLUTION=1280x720
+https://3uho6lzsf1c2o3i8oun9.streamruby.net/hls2/02/00065/n48x1d1kjd0i_h/index-v1-a1.m3u8?t=f4QZofvB516Kq3oznNJk_EVh8BUyaXGK8OCAt0MTjW4&s=1763669947&e=32400&v=1302145937&sp=0
