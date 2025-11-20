@@ -1,6 +1,7 @@
 #EXTM3U
-#EXTINF:1,Μοντέρνα Σταχτοπούτα (1965)
-#EXTVLCOPT:http-user-agent=https://vjs.zencdn.net/8.23.4/video.min.js
-https://ucxipzwkyhms02.streamruby.net:443/hls2/04/00077/t0q0d5yuci3x_n/index-v1-a1.m3u8?t=8sKERz25rnOHWL4ZXrR9bgCc_rmEiPkBv_OmI6vHxaA&s=1760370825&e=32400&v=1137624234&i=85.195&sp=0
-
-
+#EXT-X-STREAM-INF:BANDWIDTH=493008,RESOLUTION=640x360
+https://ucxipzwkyhms02.streamruby.net/hls2/04/00077/t0q0d5yuci3x_l/index-v1-a1.m3u8?t=cSKSJ2ONLR2WLMGMkkGh5-fOpk1-9F7-VVmgF4W6kAA&s=1763668632&e=32400&v=1302083357&sp=0
+#EXT-X-STREAM-INF:BANDWIDTH=786472,RESOLUTION=852x480
+https://ucxipzwkyhms02.streamruby.net/hls2/04/00077/t0q0d5yuci3x_n/index-v1-a1.m3u8?t=cSKSJ2ONLR2WLMGMkkGh5-fOpk1-9F7-VVmgF4W6kAA&s=1763668632&e=32400&v=1302083357&sp=0
+#EXT-X-STREAM-INF:BANDWIDTH=4806917,RESOLUTION=1280x720
+https://ucxipzwkyhms02.streamruby.net/hls2/04/00077/t0q0d5yuci3x_h/index-v1-a1.m3u8?t=cSKSJ2ONLR2WLMGMkkGh5-fOpk1-9F7-VVmgF4W6kAA&s=1763668632&e=32400&v=1302083357&sp=0
