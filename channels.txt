@@ -25,12 +25,12 @@ name= ALPHA TV BUP url= "https://alphatvlive2.siliconweb.com/alphatvlive/live_ab
 name= OPEN TV url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/OPEN.strm" logo= "https://i.imgur.com/cshmF4s.png"
 name= OPEN TV BUP url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/OPEN.strm" logo= "https://i.imgur.com/cshmF4s.png"
 name= SKAI TV url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/SKAI1.m3u8" logo= "https://i.imgur.com/o2aft6Q.png"
-name= SKAI TV BUP url= "http://technologycloud.eu:80/play/live.php?mac=00%3A1A%3A79%3A84%3AB7%3A7B&stream=307893&extension=ts&play_token=aF4qB0jYGm?username=technologycloud.eu%3A80&password=play&type=m3u_plus" logo= "https://i.imgur.com/o2aft6Q.png"
+name= SKAI TV BUP url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/SKAI1.m3u8" logo= "https://i.imgur.com/o2aft6Q.png"
 name= STAR TV url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/STAR.m3u8" logo= "https://i.imgur.com/AazwSEQ.png"
-name= STAR TV BUP url= "http://technologycloud.eu:80/play/live.php?mac=00%3A1A%3A79%3A84%3AB7%3A7B&stream=307893&extension=ts&play_token=aF4qB0jYGm?username=technologycloud.eu%3A80&password=play&type=m3u_plus" logo= "https://i.imgur.com/AazwSEQ.png"
+name= STAR TV BUP url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/STAR.m3u8" logo= "https://i.imgur.com/AazwSEQ.png"
 name= STAR INTERNATIONAL url= "https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8" logo= "https://i.imgur.com/AazwSEQ.png"
-name= MEGA url= "http://technologycloud.eu:80/play/live.php?mac=00%3A1A%3A79%3A84%3AB7%3A7B&stream=307884&extension=ts&play_token=CzdfGxy9LJ?username=technologycloud.eu%3A80&password=play&type=m3u_plus" logo= "https://i.imgur.com/HIcqDaY.png"
-name= MEGA BUP url= "http://technologycloud.eu:80/play/live.php?mac=00%3A1A%3A79%3A84%3AB7%3A7B&stream=307884&extension=ts&play_token=CzdfGxy9LJ?username=technologycloud.eu%3A80&password=play&type=m3u_plus" logo= "https://i.imgur.com/HIcqDaY.png"
+name= MEGA url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/MEGA.m3u8" logo= "https://i.imgur.com/HIcqDaY.png"
+name= MEGA BUP url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/MEGA.m3u8" logo= "https://i.imgur.com/HIcqDaY.png"
 name= MEGA COSMOS url= "http://technologycloud.eu:80/play/live.php?mac=00%3A1A%3A79%3A84%3AB7%3A7B&stream=1060885&extension=ts&play_token=3kmaHTapMv?username=http%3A%2F%2Ftechnologycloud.eu%3A80&password=play&type=m3u_plus" logo= "https://i.ytimg.com/vi/T5_0uyUdtcQ/maxresdefault.jpg"
 name= MEGANEWS url= "https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S99841657/NU0xOarAMJ5X/chunklist_b3200000.m3u8|user-agent=Mozilla/5.0 (Android 15; Mobile; rv:68.0) Gecko/68.0 Firefox/139.0" logo= "https://www.tovima.com/wp-content/uploads/2025/03/28/mega_news.jpg"
 name= OMEGA url= "http://l1.cloudskep.com/omegatv/omcy/playlist.m3u8|user-agent=ExoPlayer" logo= "https://i.imgur.com/Np7xLfk.png"
@@ -51,6 +51,7 @@ name= MAD WORLD url= "https://ellastvmax.gotdns.com/freetv/madworldtv/index.m3u8
 name= DIAVATA TV url= "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Diavata.m3u8" logo= "https://i.imgur.com/1DxMmHL.png"
 name= LAMPSI TV url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/Lampsi.m3u8" logo= "https://i.imgur.com/jUr8BZA.png"
 name= DIPOLO TV url= "https://channel.streams.ovh:8081/dipolotv/index.m3u8" logo= "https://upload.wikimedia.org/wikipedia/en/f/fc/Thanasis_Veggos.jpg"
+
 
 
 
