@@ -1,0 +1,7 @@
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=634713,RESOLUTION=640x360
+https://36x8fqcfqsv376o2c3bj.streamruby.net/hls2/03/00078/7r6vaaqlchoa_l/index-v1-a1.m3u8?t=CPXXKVVqshAdCEtUaTdBG85w-btw-m1bgtLP1XuZqhQ&s=1763670613&e=32400&v=1302177286&sp=0
+#EXT-X-STREAM-INF:BANDWIDTH=1021404,RESOLUTION=852x480
+https://36x8fqcfqsv376o2c3bj.streamruby.net/hls2/03/00078/7r6vaaqlchoa_n/index-v1-a1.m3u8?t=CPXXKVVqshAdCEtUaTdBG85w-btw-m1bgtLP1XuZqhQ&s=1763670613&e=32400&v=1302177286&sp=0
+#EXT-X-STREAM-INF:BANDWIDTH=2189363,RESOLUTION=1280x720
+https://36x8fqcfqsv376o2c3bj.streamruby.net/hls2/03/00078/7r6vaaqlchoa_h/index-v1-a1.m3u8?t=CPXXKVVqshAdCEtUaTdBG85w-btw-m1bgtLP1XuZqhQ&s=1763670613&e=32400&v=1302177286&sp=0
