@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:2
-#EXT-X-STREAM-INF:BANDWIDTH=412571,FRAME-RATE=25.00,CODECS="avc1.42001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=412571
 https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/track_0_192/playlist.m3u8?&live=true&app=com.cnnturk&st=ocEWCpMfAs4yQixcE-yGBA&e=1763667452
 #EXT-X-STREAM-INF:BANDWIDTH=572480,FRAME-RATE=25.00,CODECS="avc1.42001e,mp4a.40.2"
 https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/track_1_320/playlist.m3u8?&live=true&app=com.cnnturk&st=ocEWCpMfAs4yQixcE-yGBA&e=1763667452
