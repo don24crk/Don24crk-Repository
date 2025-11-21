@@ -1,4 +1,3 @@
 #EXTM3U
 #EXTINF:1,MADTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://prod-fastly-eu-west-3.video.pscp.tv/Transcoding/v1/hls/ocs4XeBHUbSGwy-X22mLnFXK7FaVuSnNPWzTfsMbLl4RZNdtBKB5HhobUyiXnFl_Ay3HgwdA_V5yLuHKtB-KDQ/transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDMwXzEwIiwiSGVpZ2h0IjoxMDgwLCJLYnBzIjo1NTAwLCJXaWR0aCI6MTkyMH0.OImMZabKYJ0cs9CnIapU-4aBk6KNBiJxi1hh-6l4BZ4/tw_dynamic_highlatency.m3u8?type=live
