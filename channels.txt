@@ -20,7 +20,6 @@ name= REAL MUSIC TV url= "https://webtv.topwebhost.gr:3302/stream/play.m3u8" log
 name= MAKTV url= "https://lcdn.antennaplus.gr/r444865966c0847fca53b9b0c133af7a9/eu-central-1/eu-central-1/6415884360001/profile_0/chunklist.m3u8|user-agent=Mozilla/5.0 (Android 15; Mobile; rv:68.0) Gecko/68.0 Firefox/139.0" logo= "https://i.imgur.com/RVs0GZa.png"
 name= MAKTV BUP url= "https://lcdn.antennaplus.gr/r444865966c0847fca53b9b0c133af7a9/eu-central-1/eu-central-1/6415884360001/profile_0/chunklist.m3u8|user-agent=Mozilla/5.0 (Android 15; Mobile; rv:68.0) Gecko/68.0 Firefox/139.0" logo= "https://i.imgur.com/RVs0GZa.png"
 name= ALPHA TV url= "https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/playlist.m3u8" logo= "https://i.imgur.com/0i4MUcc.png"
-name= ALPHASAT url= "http://technologycloud.eu:80/play/live.php?mac=00%3A1A%3A79%3A84%3AB7%3A7B&stream=942248&extension=ts&play_token=9wHePfWZH5?username=http%3A%2F%2Ftechnologycloud.eu%3A80&password=play&type=m3u_plus" logo= "https://www.alphatvsat.com/wp-content/uploads/2018/03/Alpha_Sat_logo.png"
 name= ALPHA TV BUP url= "https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/playlist.m3u8" logo= "https://i.imgur.com/0i4MUcc.png"
 name= OPEN TV url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/OPEN.strm" logo= "https://i.imgur.com/cshmF4s.png"
 name= OPEN TV BUP url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/OPEN.strm" logo= "https://i.imgur.com/cshmF4s.png"
@@ -29,8 +28,8 @@ name= SKAI TV BUP url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repo
 name= STAR TV url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/STAR.m3u8" logo= "https://i.imgur.com/AazwSEQ.png"
 name= STAR TV BUP url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/STAR.m3u8" logo= "https://i.imgur.com/AazwSEQ.png"
 name= STAR INTERNATIONAL url= "https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8" logo= "https://i.imgur.com/AazwSEQ.png"
-name= MEGA url= "https://s2.cystream.net/live/megagr/chunks.m3u8?nimblesessionid=30356020&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjMvMjAyNSA0OjQxOjUzIFBNJmhhc2hfdmFsdWU9VE9FZjY0dGtDejhQMW90SFBLN3J3dz09JnZhbGlkbWludXRlcz0yMA==|user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.123 Mobile Safari/537.36 EdgA/141.0.3537.99" logo= "https://i.imgur.com/HIcqDaY.png"
-name= MEGA BUP url= "https://s2.cystream.net/live/megagr/chunks.m3u8?nimblesessionid=30356020&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjMvMjAyNSA0OjQxOjUzIFBNJmhhc2hfdmFsdWU9VE9FZjY0dGtDejhQMW90SFBLN3J3dz09JnZhbGlkbWludXRlcz0yMA==|user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.123 Mobile Safari/537.36 EdgA/141.0.3537.99" logo= "https://i.imgur.com/HIcqDaY.png"
+name= MEGA url= "https://s2.cystream.net/live/megagr/chunks.m3u8?nimblesessionid=30429048&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjQvMjAyNSA0OjI4OjE4IFBNJmhhc2hfdmFsdWU9elNkYmgwR21hODhxTTVjMUwrTkFmUT09JnZhbGlkbWludXRlcz0yMA==|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A145.0)%20Gecko%2F20100101%20Firefox%2F145.0&Referer=https%3A%2F%2Flakatamia.tv%2F" logo= "https://i.imgur.com/HIcqDaY.png"
+name= MEGA BUP url= "https://s2.cystream.net/live/megagr/chunks.m3u8?nimblesessionid=30429048&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjQvMjAyNSA0OjI4OjE4IFBNJmhhc2hfdmFsdWU9elNkYmgwR21hODhxTTVjMUwrTkFmUT09JnZhbGlkbWludXRlcz0yMA==|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A145.0)%20Gecko%2F20100101%20Firefox%2F145.0&Referer=https%3A%2F%2Flakatamia.tv%2F" logo= "https://i.imgur.com/HIcqDaY.png"
 name= MEGANEWS url= "https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S99841657/NU0xOarAMJ5X/chunklist_b3200000.m3u8|user-agent=Mozilla/5.0 (Android 15; Mobile; rv:68.0) Gecko/68.0 Firefox/139.0" logo= "https://www.tovima.com/wp-content/uploads/2025/03/28/mega_news.jpg"
 name= OMEGA url= "http://l1.cloudskep.com/omegatv/omcy/playlist.m3u8|user-agent=ExoPlayer" logo= "https://i.imgur.com/Np7xLfk.png"
 name= SIGMA url= "http://sl2.sigmatv.com/hls/live.m3u8|user-agent=ExoPlayer" logo= "https://i.imgur.com/lFjBmPF.png"
@@ -50,6 +49,7 @@ name= MAD WORLD url= "https://ellastvmax.gotdns.com/freetv/madworldtv/index.m3u8
 name= DIAVATA TV url= "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Diavata.m3u8" logo= "https://i.imgur.com/1DxMmHL.png"
 name= LAMPSI TV url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/Lampsi.m3u8" logo= "https://i.imgur.com/jUr8BZA.png"
 name= DIPOLO TV url= "https://channel.streams.ovh:8081/dipolotv/index.m3u8" logo= "https://upload.wikimedia.org/wikipedia/en/f/fc/Thanasis_Veggos.jpg"
+
 
 
 
