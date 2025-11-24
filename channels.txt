@@ -1,7 +1,7 @@
-name= ERT1 url= "https://s2.cystream.net/live/ert1/chunks.m3u8?nimblesessionid=30431424&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjQvMjAyNSA1OjE3OjA1IFBNJmhhc2hfdmFsdWU9WW1RSUowSHo4RnNzcE8wNnQ4bFpFdz09JnZhbGlkbWludXRlcz0yMA==|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A145.0)%20Gecko%2F20100101%20Firefox%2F145.0&Referer=https%3A%2F%2Fanacon.org%2F" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_1.png?raw=true"
+name= ERT1 url= "http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=307908&extension=ts&play_token=Ujh3lBk4yk|referrer=https://gitlab.openpli.org|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_1.png?raw=true"
 name= ERT2 url= "https://ertflix.siliconweb.com/mpegts/618618_2341557/media_mpegts_0.m3u8" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_2.png?raw=true"
 name= ERT3 url= "https://ertflix.siliconweb.com/mpegts/618618_2341560/media_mpegts_0.m3u8" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_3.png?raw=true"
-name= ERT1 BUP url= "https://s2.cystream.net/live/ert1/chunks.m3u8?nimblesessionid=30431424&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjQvMjAyNSA1OjE3OjA1IFBNJmhhc2hfdmFsdWU9WW1RSUowSHo4RnNzcE8wNnQ4bFpFdz09JnZhbGlkbWludXRlcz0yMA==|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A145.0)%20Gecko%2F20100101%20Firefox%2F145.0&Referer=https%3A%2F%2Fanacon.org%2F" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_1.png?raw=true"
+name= ERT1 BUP url= "http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=307908&extension=ts&play_token=Ujh3lBk4yk|referrer=https://gitlab.openpli.org|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_1.png?raw=true"
 name= ERT2 BUP url= "https://ertflix.siliconweb.com/mpegts/618618_2341557/media_mpegts_0.m3u8"
 name= ERT2 BUP 2 url= "https://ertflix.siliconweb.com/mpegts/618618_2341557/media_mpegts_0.m3u8" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_2.png?raw=true"
 name= ERT3 BUP url= "https://ertflix.siliconweb.com/mpegts/618618_2341560/media_mpegts_0.m3u8" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_3.png?raw=true"
@@ -28,8 +28,8 @@ name= SKAI TV BUP url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repo
 name= STAR TV url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/STAR.m3u8" logo= "https://i.imgur.com/AazwSEQ.png"
 name= STAR TV BUP url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/STAR.m3u8" logo= "https://i.imgur.com/AazwSEQ.png"
 name= STAR INTERNATIONAL url= "https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8" logo= "https://i.imgur.com/AazwSEQ.png"
-name= MEGA url= "https://s2.cystream.net/live/megagr/chunks.m3u8?nimblesessionid=30429048&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjQvMjAyNSA0OjI4OjE4IFBNJmhhc2hfdmFsdWU9elNkYmgwR21hODhxTTVjMUwrTkFmUT09JnZhbGlkbWludXRlcz0yMA==|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A145.0)%20Gecko%2F20100101%20Firefox%2F145.0&Referer=https%3A%2F%2Flakatamia.tv%2F" logo= "https://i.imgur.com/HIcqDaY.png"
-name= MEGA BUP url= "https://s2.cystream.net/live/megagr/chunks.m3u8?nimblesessionid=30429048&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjQvMjAyNSA0OjI4OjE4IFBNJmhhc2hfdmFsdWU9elNkYmgwR21hODhxTTVjMUwrTkFmUT09JnZhbGlkbWludXRlcz0yMA==|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A145.0)%20Gecko%2F20100101%20Firefox%2F145.0&Referer=https%3A%2F%2Flakatamia.tv%2F" logo= "https://i.imgur.com/HIcqDaY.png"
+name= MEGA url= "http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=307884&extension=ts&play_token=CzdfGxy9LJ|referrer=https://gitlab.openpli.org|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0" logo= "https://i.imgur.com/HIcqDaY.png"
+name= MEGA BUP url= "http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=307884&extension=ts&play_token=CzdfGxy9LJ|referrer=https://gitlab.openpli.org|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0" logo= "https://i.imgur.com/HIcqDaY.png"
 name= MEGANEWS url= "https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S99841657/NU0xOarAMJ5X/chunklist_b3200000.m3u8|user-agent=Mozilla/5.0 (Android 15; Mobile; rv:68.0) Gecko/68.0 Firefox/139.0" logo= "https://www.tovima.com/wp-content/uploads/2025/03/28/mega_news.jpg"
 name= OMEGA url= "http://l1.cloudskep.com/omegatv/omcy/playlist.m3u8|user-agent=ExoPlayer" logo= "https://i.imgur.com/Np7xLfk.png"
 name= SIGMA url= "http://sl2.sigmatv.com/hls/live.m3u8|user-agent=ExoPlayer" logo= "https://i.imgur.com/lFjBmPF.png"
@@ -49,6 +49,7 @@ name= MAD WORLD url= "https://ellastvmax.gotdns.com/freetv/madworldtv/index.m3u8
 name= DIAVATA TV url= "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Diavata.m3u8" logo= "https://i.imgur.com/1DxMmHL.png"
 name= LAMPSI TV url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/Lampsi.m3u8" logo= "https://i.imgur.com/jUr8BZA.png"
 name= DIPOLO TV url= "https://channel.streams.ovh:8081/dipolotv/index.m3u8" logo= "https://upload.wikimedia.org/wikipedia/en/f/fc/Thanasis_Veggos.jpg"
+
 
 
 
