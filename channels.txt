@@ -44,11 +44,12 @@ name= CINEMA CLASSICS url= "https://tv.mediacp.eu:8081/cinemaclassics/index.m3u8
 name= IONIAN TV url= "https://stream.ioniantv.gr/ionian/live_abr/ionian/live_1080p/chunks.m3u8" logo= "https://i.imgur.com/jFVVQW0.png"
 name= ELLAS WORLD url= "https://ellastvmax.ath.cx/freetv/promo/index.m3u8" logo= "https://ellastvmax.com.au/wp-content/uploads/2022/05/ellastvpromo.png"
 name= VILLAGE WORLD url= "https://ellastvmax.gotdns.com/freetv/village-world/index.m3u8" logo= "https://i.imgur.com/WftpxK2.png"
-name= MAD TV url= "https://fa723fc1b171.us-west-2.playback.live-video.net/api/video/v1/us-west-2.196233775518.channel.6orKbKhzf260.m3u8?browser_family=firefox&browser_version=145.0&cdm=wv&os_name=Windows&os_version=NT%2010.0&platform=web&player_backend=mediaplayer&player_version=1.45.0&supported_codecs=av1,h264&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6MTk2MjMzNzc1NTE4OmNoYW5uZWwvNm9yS2JLaHpmMjYwIiwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOi8va2ljay5jb20saHR0cHM6Ly93d3cuZ3N0YXRpYy5jb20saHR0cHM6Ly8qLmtpY2subGl2ZSxodHRwczovL3BsYXllci5raWNrLmNvbSxodHRwczovL2FkbWluLmtpY2suY29tLGh0dHBzOi8vYmV0YS5raWNrLmNvbSxodHRwczovL25leHQua2ljay5jb20saHR0cHM6Ly9kYXNoYm9hcmQua2ljay5jb20saHR0cHM6Ly8qLnByZXZpZXcua2ljay5jb20saHR0cHM6Ly94Ym94LmtpY2suY29tLGh0dHBzOi8vcGxheXN0YXRpb24ua2ljay5jb20iLCJhd3M6c3RyaWN0LW9yaWdpbi1lbmZvcmNlbWVudCI6ZmFsc2UsImV4cCI6MTc2NDA4MTU2N30._hX9y36UORKB7n8uWBOvG0vx0Kaw9Pl0gVfVvMuwYR2F5vhT_VLhn8hd3aOOGH6iX2CBQ5KofMStG0hQp8QrSkKUoUfI32l8wm0YMCfGALPY1sVdne5fFyN4IV7HoTS5|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A145.0)%20Gecko%2F20100101%20Firefox%2F145.0&Referer=https%3A%2F%2Fplayer.kick.com%2F" logo= "https://i.imgur.com/G0iN2tt.png"
+name= MAD TV url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/madtv-playlist.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A145.0)%20Gecko%2F20100101%20Firefox%2F145.0&Referer=https%3A%2F%2Fplayer.kick.com%2F" logo= "https://i.imgur.com/G0iN2tt.png"
 name= MAD WORLD url= "https://ellastvmax.gotdns.com/freetv/madworldtv/index.m3u8" logo= "https://i.imgur.com/zoS5RWU.png"
 name= DIAVATA TV url= "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Diavata.m3u8" logo= "https://i.imgur.com/1DxMmHL.png"
 name= LAMPSI TV url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/Lampsi.m3u8" logo= "https://i.imgur.com/jUr8BZA.png"
 name= DIPOLO TV url= "https://channel.streams.ovh:8081/dipolotv/index.m3u8" logo= "https://upload.wikimedia.org/wikipedia/en/f/fc/Thanasis_Veggos.jpg"
+
 
 
 
