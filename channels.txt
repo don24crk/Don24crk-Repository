@@ -1,7 +1,7 @@
-name= ERT1 url= "http://technologycloud.eu:80/play/live.php?mac=00%3A1A%3A79%3A84%3AB7%3A7B&stream=307908&extension=ts&play_token=Ujh3lBk4yk?username=technologycloud.eu%3A80&password=play&type=m3u_plus|referrer=https%3A%2F%2Fgitlab.openpli.org|user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A145.0)%20Gecko%2F20100101%20Firefox%2F145.0" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_1.png?raw=true"
+name= ERT1 url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ert1-playlist.m3u8" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_1.png?raw=true"
 name= ERT2 url= "https://ertflix.siliconweb.com/mpegts/618618_2341557/media_mpegts_0.m3u8" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_2.png?raw=true"
 name= ERT3 url= "https://ertflix.siliconweb.com/mpegts/618618_2341560/media_mpegts_0.m3u8" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_3.png?raw=true"
-name= ERT1 BUP url= "http://technologycloud.eu:80/play/live.php?mac=00%3A1A%3A79%3A84%3AB7%3A7B&stream=307908&extension=ts&play_token=Ujh3lBk4yk?username=technologycloud.eu%3A80&password=play&type=m3u_plus|referrer=https%3A%2F%2Fgitlab.openpli.org|user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A145.0)%20Gecko%2F20100101%20Firefox%2F145.0" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_1.png?raw=true"
+name= ERT1 BUP url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ert1-playlist.m3u8" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_1.png?raw=true"
 name= ERT2 BUP url= "https://ertflix.siliconweb.com/mpegts/618618_2341557/media_mpegts_0.m3u8"
 name= ERT2 BUP 2 url= "https://ertflix.siliconweb.com/mpegts/618618_2341557/media_mpegts_0.m3u8" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_2.png?raw=true"
 name= ERT3 BUP url= "https://ertflix.siliconweb.com/mpegts/618618_2341560/media_mpegts_0.m3u8" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_3.png?raw=true"
@@ -49,6 +49,7 @@ name= MAD WORLD url= "https://ellastvmax.gotdns.com/freetv/madworldtv/index.m3u8
 name= DIAVATA TV url= "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Diavata.m3u8" logo= "https://i.imgur.com/1DxMmHL.png"
 name= LAMPSI TV url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/Lampsi.m3u8" logo= "https://i.imgur.com/jUr8BZA.png"
 name= DIPOLO TV url= "https://channel.streams.ovh:8081/dipolotv/index.m3u8" logo= "https://upload.wikimedia.org/wikipedia/en/f/fc/Thanasis_Veggos.jpg"
+
 
 
 
