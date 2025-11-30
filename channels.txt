@@ -21,8 +21,10 @@ name= MAKTV url= "https://lcdn.antennaplus.gr/r444865966c0847fca53b9b0c133af7a9/
 name= MAKTV BUP url= "https://lcdn.antennaplus.gr/r444865966c0847fca53b9b0c133af7a9/eu-central-1/eu-central-1/6415884360001/profile_0/chunklist.m3u8|user-agent=Mozilla/5.0 (Android 15; Mobile; rv:68.0) Gecko/68.0 Firefox/139.0" logo= "https://i.imgur.com/RVs0GZa.png"
 name= ALPHA TV url= "https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/playlist.m3u8" logo= "https://i.imgur.com/0i4MUcc.png"
 name= ALPHA TV BUP url= "https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/playlist.m3u8" logo= "https://i.imgur.com/0i4MUcc.png"
-name= OPEN TV url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/OPEN.strm" logo= "https://i.imgur.com/cshmF4s.png"
-name= OPEN TV BUP url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/OPEN.strm" logo= "https://i.imgur.com/cshmF4s.png"
+name= OPEN TV url= "https://liveopen.siliconweb.com/openTvLive/liveopen/playlist.m3u8|user-agent=https://www.greektv.live/_next/static/chunks/089634ca.9b443f8c61159d97.js
+" logo= "https://i.imgur.com/cshmF4s.png"
+name= OPEN TV BUP url= "https://liveopen.siliconweb.com/openTvLive/liveopen/playlist.m3u8|user-agent=https://www.greektv.live/_next/static/chunks/089634ca.9b443f8c61159d97.js
+" logo= "https://i.imgur.com/cshmF4s.png"
 name= SKAI TV url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/SKAI1.m3u8" logo= "https://i.imgur.com/o2aft6Q.png"
 name= SKAI TV BUP url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/SKAI1.m3u8" logo= "https://i.imgur.com/o2aft6Q.png"
 name= STAR TV url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/STAR.m3u8" logo= "https://i.imgur.com/AazwSEQ.png"
@@ -49,6 +51,7 @@ name= MAD WORLD url= "https://ellastvmax.gotdns.com/freetv/madworldtv/index.m3u8
 name= DIAVATA TV url= "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Diavata.m3u8" logo= "https://i.imgur.com/1DxMmHL.png"
 name= LAMPSI TV url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/Lampsi.m3u8" logo= "https://i.imgur.com/jUr8BZA.png"
 name= DIPOLO TV url= "https://channel.streams.ovh:8081/dipolotv/index.m3u8" logo= "https://upload.wikimedia.org/wikipedia/en/f/fc/Thanasis_Veggos.jpg"
+
 
 
 
