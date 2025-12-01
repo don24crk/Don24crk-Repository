@@ -45,11 +45,12 @@ name= IONIAN TV url= "https://stream.ioniantv.gr/ionian/live_abr/ionian/live_108
 name= ELLAS WORLD url= "https://ellastvmax.ath.cx/freetv/promo/index.m3u8" logo= "https://ellastvmax.com.au/wp-content/uploads/2022/05/ellastvpromo.png"
 name= VILLAGE WORLD url= "https://ellastvmax.gotdns.com/freetv/village-world/index.m3u8" logo= "https://i.imgur.com/WftpxK2.png"
 name= MAD TV url= "https://x.com/i/broadcasts/1YqxolEgWQzKv
-https://prod-fastly-eu-west-3.video.pscp.tv/Transcoding/v1/hls/ocs4XeBHUbSGwy-X22mLnFXK7FaVuSnNPWzTfsMbLl4RZNdtBKB5HhobUyiXnFl_Ay3HgwdA_V5yLuHKtB-KDQ/transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/tw_dynamic_highlatency.m3u8?type=live|user-agent=Exoplayer" logo= "https://i.imgur.com/G0iN2tt.png"
+https://prod-fastly-eu-west-3.video.pscp.tv/Transcoding/v1/hls/ocs4XeBHUbSGwy-X22mLnFXK7FaVuSnNPWzTfsMbLl4RZNdtBKB5HhobUyiXnFl_Ay3HgwdA_V5yLuHKtB-KDQ/transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/tw_dynamic_highlatency.m3u8?type=live|user-agent=https://vjs.zencdn.net/8.23.4/video.min.js" logo= "https://i.imgur.com/G0iN2tt.png"
 name= MAD WORLD url= "https://ellastvmax.gotdns.com/freetv/madworldtv/index.m3u8" logo= "https://i.imgur.com/zoS5RWU.png"
 name= DIAVATA TV url= "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Diavata.m3u8" logo= "https://i.imgur.com/1DxMmHL.png"
 name= LAMPSI TV url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/Lampsi.m3u8" logo= "https://i.imgur.com/jUr8BZA.png"
 name= DIPOLO TV url= "https://channel.streams.ovh:8081/dipolotv/index.m3u8" logo= "https://upload.wikimedia.org/wikipedia/en/f/fc/Thanasis_Veggos.jpg"
+
 
 
 
