@@ -1,4 +1,3 @@
 #EXTM3U
 #EXTINF:1,MADTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.123 Mobile Safari/537.36 EdgA/141.0.3537.99
-http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=307841&extension=ts&play_token=iKQRG6rSLF?username=http%3A%2F%2Ftechnologycloud.eu%3A80&password=play&type=m3u_plus
+https://stream.castr.com/677fafaf8ca2a4c22070dcd7/live_630666b0fe9911ef8b76c5c61e61d902/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34&referer=https://player.castr.com/
