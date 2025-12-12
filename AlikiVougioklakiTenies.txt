@@ -17,7 +17,8 @@ name= Ypolochagós Natása (1970) url= "https://archive.org/download/20251212_20
 name= S'agapó (1971) url= "https://archive.org/download/20251212_20251212_1547/%CE%A3%27%CE%B1%CE%B3%CE%B1%CF%80%CF%8E.ia.mp4" logo= "https://greek-movies.com/icon/movie/%CE%A3%CE%91%CE%93%CE%91%CE%A0%CE%A91971.jpg"
 name= Mantaléna (1960) url= "https://archive.org/download/20251212_20251212_1556/%CE%9C%CE%B1%CE%BD%CF%84%CE%B1%CE%BB%CE%AD%CE%BD%CE%B1.ia.mp4" logo= "https://greek-movies.com/icon/movie/%CE%9C%CE%B1%CE%BD%CF%84%CE%B1%CE%BB%CE%AD%CE%BD%CE%B1.jpg"
 name= To dóloma (1964) url= "https://archive.org/download/u_20251212_202512/%CE%A4%CE%BF%20%CE%B4%CF%8C%CE%BB%CF%89%CE%BC%CE%B1.ia.mp4" logo= "https://greek-movies.com/icon/movie/%CE%94%CE%9F%CE%9B%CE%A9%CE%9C%CE%911964.jpg"
-name= Xtypokardia sto vranío (1963) url= "https://archive.org/download/u_20251212_20251212/%CE%A7%CF%84%CF%85%CF%80%CE%BF%CE%BA%CE%AC%CF%81%CE%B4%CE%B9%CE%B1%20%CF%83%CF%84%CE%BF%20%CE%B8%CF%81%CE%B1%CE%BD%CE%AF%CE%BF%20%28%CE%88%CE%B3%CF%87%CF%81%CF%89%CE%BC%CE%B7%29.mp4" logo= "https://greek-movies.com/icon/movie/%CE%A7%CF%84%CF%85%CF%80o%CE%BA%CE%AC%CF%81%CE%B4%CE%B9%CE%B1%CF%83%CF%84o%CE%B8%CF%81%CE%B1%CE%BD%CE%AFo.jpg"
+name= Xtypokardia sto vranío (1963) url= "https://archive.org/download/u_20251212_20251212/%CE%A7%CF%84%CF%85%CF%80%CE%BF%CE%BA%CE%AC%CF%81%CE%B4%CE%B9%CE%B1%20%CF%83%CF%84%CE%BF%20%CE%B8%CF%81%CE%B1%CE%BD%CE%AF%CE%BF%20%28%CE%88%CE%B3%CF%87%CF%81%CF%89%CE%BC%CE%B7%29.ia.mp4" logo= "https://greek-movies.com/icon/movie/%CE%A7%CF%84%CF%85%CF%80o%CE%BA%CE%AC%CF%81%CE%B4%CE%B9%CE%B1%CF%83%CF%84o%CE%B8%CF%81%CE%B1%CE%BD%CE%AFo.jpg"
+
 
 
 
