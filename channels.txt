@@ -1,7 +1,7 @@
 name= ERT1 url= "https://raw.githubusercontent.com:443/don24crk/Don24crk-Repository/refs/heads/master/ert1-playlist.m3u8" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_1.png?raw=true"
 name= ERT2 url= "https://ertflix.siliconweb.com/mpegts/618618_2341557/media_mpegts_0.m3u8" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_2.png?raw=true"
 name= ERT3 url= "https://ertflix.siliconweb.com/mpegts/618618_2341560/media_mpegts_0.m3u8" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_3.png?raw=true"
-name= ERT1 BUP url= "https://raw.githubusercontent.com:443/don24crk/Don24crk-Repository/refs/heads/master/ert1-playlist.m3u8" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_1.png?raw=true"
+name= ERT1 BUP url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ERT1-1.m3u8" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_1.png?raw=true"
 name= ERT2 BUP url= "https://ertflix.siliconweb.com/mpegts/618618_2341557/media_mpegts_0.m3u8"
 name= ERT2 BUP 2 url= "https://ertflix.siliconweb.com/mpegts/618618_2341557/media_mpegts_0.m3u8" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_2.png?raw=true"
 name= ERT3 BUP url= "https://ertflix.siliconweb.com/mpegts/618618_2341560/media_mpegts_0.m3u8" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_3.png?raw=true"
@@ -25,11 +25,11 @@ name= OPEN TV url= "https://liveopen.siliconweb.com/openTvLive/liveopen/playlist
 name= OPEN TV BUP url= "https://liveopen.siliconweb.com/openTvLive/liveopen/playlist.m3u8|user-agent=https://www.greektv.live/_next/static/chunks/089634ca.9b443f8c61159d97.js" logo= "https://i.imgur.com/cshmF4s.png"
 name= SKAI TV url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/SKAI1.m3u8" logo= "https://i.imgur.com/o2aft6Q.png"
 name= SKAI TV BUP url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/SKAI1.m3u8" logo= "https://i.imgur.com/o2aft6Q.png"
-name= STAR TV url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/STAR.m3u8" logo= "https://i.imgur.com/AazwSEQ.png"
+name= STAR TV url= "https://livestar.siliconweb.com/starvod/star4/star4newhd.m3u8" logo= "https://i.imgur.com/AazwSEQ.png"
 name= STAR TV BUP url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/STAR.m3u8" logo= "https://i.imgur.com/AazwSEQ.png"
 name= STAR INTERNATIONAL url= "https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8" logo= "https://i.imgur.com/AazwSEQ.png"
-name= MEGA url= "https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S99841657/NU0xOarAMJ5X/chunklist_b732000.m3u8" logo= "https://i.imgur.com/HIcqDaY.png"
-name= MEGA BUP url= "https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S99841657/NU0xOarAMJ5X/chunklist_b732000.m3u8" logo= "https://i.imgur.com/HIcqDaY.png"
+name= MEGA url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/MEGA.m3u8" logo= "https://i.imgur.com/HIcqDaY.png"
+name= MEGA BUP url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/MEGA.m3u8" logo= "https://i.imgur.com/HIcqDaY.png"
 name= MEGANEWS url= "https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S99841657/NU0xOarAMJ5X/chunklist_b3200000.m3u8|user-agent=Mozilla/5.0 (Android 15; Mobile; rv:68.0) Gecko/68.0 Firefox/139.0" logo= "https://www.tovima.com/wp-content/uploads/2025/03/28/mega_news.jpg"
 name= OMEGA url= "http://l1.cloudskep.com/omegatv/omcy/playlist.m3u8|user-agent=ExoPlayer" logo= "https://i.imgur.com/Np7xLfk.png"
 name= SIGMA url= "http://sl2.sigmatv.com/hls/live.m3u8|user-agent=ExoPlayer" logo= "https://i.imgur.com/lFjBmPF.png"
@@ -50,6 +50,7 @@ name= MAD WORLD url= "https://ellastvmax.gotdns.com/freetv/madworldtv/index.m3u8
 name= DIAVATA TV url= "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Diavata.m3u8" logo= "https://i.imgur.com/1DxMmHL.png"
 name= LAMPSI TV url= "https://pro.free.hr:3343/live/l1llive.m3u8" logo= "https://i.imgur.com/jUr8BZA.png"
 name= DIPOLO TV url= "https://channel.streams.ovh:8081/dipolotv/index.m3u8" logo= "https://upload.wikimedia.org/wikipedia/en/f/fc/Thanasis_Veggos.jpg"
+
 
 
 
