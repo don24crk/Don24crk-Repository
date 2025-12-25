@@ -1,3 +1,2 @@
 #EXTM3U
-#EXTVLCOPT:http-user-agent=https://vjs.zencdn.net/8.16.1/video.min.js
-https://s2.cystream.net/live/ert1/cl_382_35326960_5276.ts?nimblesessionid=32202841&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjUvMjAyNSA5OjEyOjIwIFBNJmhhc2hfdmFsdWU9YVZxRkVyZHo5NFhHQ3hkaHdpYWYvQT09JnZhbGlkbWludXRlcz0yMA==
+https://s2.cystream.net/live/ert1/chunks.m3u8?nimblesessionid=32207378&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjUvMjAyNSA5OjU2OjIyIFBNJmhhc2hfdmFsdWU9N3F4UERoOWI0b2lZM2FtT3huVXRNQT09JnZhbGlkbWludXRlcz0yMA==|user-agent=https://vjs.zencdn.net/8.16.1/video.min.js
