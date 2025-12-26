@@ -1,7 +1,7 @@
 name= ERT1 url= "https://raw.githubusercontent.com:443/don24crk/Don24crk-Repository/refs/heads/master/ert1-playlist.m3u8" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_1.png?raw=true"
 name= ERT2 url= "https://ertflix.siliconweb.com/mpegts/618618_2341557/media_mpegts_0.m3u8" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_2.png?raw=true"
 name= ERT3 url= "https://ertflix.siliconweb.com/mpegts/618618_2341560/media_mpegts_0.m3u8" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_3.png?raw=true"
-name= ERT1 BUP url= "https://s2.cystream.net/live/ert1/chunks.m3u8?nimblesessionid=32268904&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjYvMjAyNSA2OjQzOjQwIFBNJmhhc2hfdmFsdWU9NEZmWTA5NHV3L3lqcTlFYUtac1Qydz09JnZhbGlkbWludXRlcz0yMA==|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A146.0)%20Gecko%2F20100101%20Firefox%2F146.0&Referer=https%3A%2F%2Fanacon.org%2F" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_1.png?raw=true"
+name= ERT1 BUP url= "https://s2.cystream.net/live/ert1/chunks.m3u8?nimblesessionid=32270610&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjYvMjAyNSA3OjA4OjE4IFBNJmhhc2hfdmFsdWU9TE8wTGZJcXN6L29xL1Fadm55cHI2Zz09JnZhbGlkbWludXRlcz0yMA==|User-Agent=https%3A%2F%2Fvjs.zencdn.net%2F8.23.4%2Fvideo.min.js&Referer=https%3A%2F%2Fanacon.org%2F" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_1.png?raw=true"
 name= ERT2 BUP url= "https://ertflix.siliconweb.com/mpegts/618618_2341557/media_mpegts_0.m3u8"
 name= ERT2 BUP 2 url= "https://ertflix.siliconweb.com/mpegts/618618_2341557/media_mpegts_0.m3u8" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_2.png?raw=true"
 name= ERT3 BUP url= "https://ertflix.siliconweb.com/mpegts/618618_2341560/media_mpegts_0.m3u8" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_3.png?raw=true"
@@ -26,10 +26,10 @@ name= OPEN TV BUP url= "https://liveopen.siliconweb.com/openTvLive/liveopen/play
 name= SKAI TV url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/SKAI1.m3u8" logo= "https://i.imgur.com/o2aft6Q.png"
 name= SKAI TV BUP url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/SKAI1.m3u8" logo= "https://i.imgur.com/o2aft6Q.png"
 name= STAR TV url= "https://livestar.siliconweb.com/starvod/star4/star4newhd.m3u8" logo= "https://i.imgur.com/AazwSEQ.png"
-name= STAR TV BUP url= "https://s2.cystream.net/galanos/star/chunks.m3u8?nimblesessionid=32269182&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjYvMjAyNSA2OjQ4OjI0IFBNJmhhc2hfdmFsdWU9dmE2OGpVSkpKb2t1aFl0RWkvbUladz09JnZhbGlkbWludXRlcz0yMA==|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A146.0)%20Gecko%2F20100101%20Firefox%2F146.0&Referer=https%3A%2F%2Flakatamia.tv%2F" logo= "https://i.imgur.com/AazwSEQ.png"
+name= STAR TV BUP url= "https://s2.cystream.net/galanos/star/chunks.m3u8?nimblesessionid=32272424&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjYvMjAyNSA3OjI5OjEyIFBNJmhhc2hfdmFsdWU9dEJ0c2MxTktEZkVwZDQzZXpVTk41Zz09JnZhbGlkbWludXRlcz0yMA==|User-Agent=https%3A%2F%2Fvjs.zencdn.net%2F8.23.4%2Fvideo.min.js&Referer=https%3A%2F%2Flakatamia.tv%2F" logo= "https://i.imgur.com/AazwSEQ.png"
 name= STAR INTERNATIONAL url= "https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8" logo= "https://i.imgur.com/AazwSEQ.png"
-name= MEGA url= "https://s2.cystream.net/live/megagr/chunks.m3u8?nimblesessionid=32269222&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjYvMjAyNSA2OjQ5OjAyIFBNJmhhc2hfdmFsdWU9Z2ZNN05pY25EbHRXVFZVUGcvdkhjUT09JnZhbGlkbWludXRlcz0yMA==|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A146.0)%20Gecko%2F20100101%20Firefox%2F146.0&Referer=https%3A%2F%2Flakatamia.tv%2F" logo= "https://i.imgur.com/HIcqDaY.png"
-name= MEGA BUP url= "https://s2.cystream.net/live/megagr/chunks.m3u8?nimblesessionid=32269222&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjYvMjAyNSA2OjQ5OjAyIFBNJmhhc2hfdmFsdWU9Z2ZNN05pY25EbHRXVFZVUGcvdkhjUT09JnZhbGlkbWludXRlcz0yMA==|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A146.0)%20Gecko%2F20100101%20Firefox%2F146.0&Referer=https%3A%2F%2Flakatamia.tv%2F" logo= "https://i.imgur.com/HIcqDaY.png"
+name= MEGA url= "https://s2.cystream.net/live/megagr/chunks.m3u8?nimblesessionid=32272499&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjYvMjAyNSA3OjMwOjM0IFBNJmhhc2hfdmFsdWU9bUExdVBJb0ppYTJIb3RocEVEVFczZz09JnZhbGlkbWludXRlcz0yMA==|User-Agent=https%3A%2F%2Fvjs.zencdn.net%2F8.23.4%2Fvideo.min.js&Referer=https%3A%2F%2Flakatamia.tv%2F" logo= "https://i.imgur.com/HIcqDaY.png"
+name= MEGA BUP url= "https://s2.cystream.net/live/megagr/chunks.m3u8?nimblesessionid=32272499&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjYvMjAyNSA3OjMwOjM0IFBNJmhhc2hfdmFsdWU9bUExdVBJb0ppYTJIb3RocEVEVFczZz09JnZhbGlkbWludXRlcz0yMA==|User-Agent=https%3A%2F%2Fvjs.zencdn.net%2F8.23.4%2Fvideo.min.js&Referer=https%3A%2F%2Flakatamia.tv%2F" logo= "https://i.imgur.com/HIcqDaY.png"
 name= MEGANEWS url= "https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S99841657/NU0xOarAMJ5X/chunklist_b3200000.m3u8|user-agent=Mozilla/5.0 (Android 15; Mobile; rv:68.0) Gecko/68.0 Firefox/139.0" logo= "https://www.tovima.com/wp-content/uploads/2025/03/28/mega_news.jpg"
 name= OMEGA url= "http://l1.cloudskep.com/omegatv/omcy/playlist.m3u8|user-agent=ExoPlayer" logo= "https://i.imgur.com/Np7xLfk.png"
 name= SIGMA url= "http://sl2.sigmatv.com/hls/live.m3u8|user-agent=ExoPlayer" logo= "https://i.imgur.com/lFjBmPF.png"
@@ -50,6 +50,7 @@ name= MAD WORLD url= "https://ellastvmax.gotdns.com/freetv/madworldtv/index.m3u8
 name= DIAVATA TV url= "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Diavata.m3u8" logo= "https://i.imgur.com/1DxMmHL.png"
 name= LAMPSI TV url= "https://pro.free.hr:3343/live/l1llive.m3u8" logo= "https://i.imgur.com/jUr8BZA.png"
 name= DIPOLO TV url= "https://channel.streams.ovh:8081/dipolotv/index.m3u8" logo= "https://upload.wikimedia.org/wikipedia/en/f/fc/Thanasis_Veggos.jpg"
+
 
 
 
