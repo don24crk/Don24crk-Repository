@@ -50,8 +50,9 @@ name= MAD WORLD url= "https://ellastvmax.gotdns.com/freetv/madworldtv/index.m3u8
 name= DIAVATA TV url= "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Diavata.m3u8" logo= "https://i.imgur.com/1DxMmHL.png"
 name= LAMPSI TV url= "https://pro.free.hr:3343/live/l1llive.m3u8" logo= "https://i.imgur.com/jUr8BZA.png"
 name= DIPOLO TV url= "https://channel.streams.ovh:8081/dipolotv/index.m3u8" logo= "https://upload.wikimedia.org/wikipedia/en/f/fc/Thanasis_Veggos.jpg"
-name= EXTACY TV KIDS url= "https://pro.free.hr:3343/live/l1llive.m3u8" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmoCbc4lCV9n8Mk5L3pnd9LAouVRsbgR6Vfw&s"
+name= EXTACY TV KIDS url= "https://eu1.servers10.com:8081/8046/index.m3u8" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmoCbc4lCV9n8Mk5L3pnd9LAouVRsbgR6Vfw&s"
 name= EXTACY TV GREEKS url= "https://eu1.servers10.com:8081/8364/index.m3u8" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmoCbc4lCV9n8Mk5L3pnd9LAouVRsbgR6Vfw&s"
+
 
 
 
