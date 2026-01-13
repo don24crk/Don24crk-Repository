@@ -1,3 +1,4 @@
 #EXTM3U
-#EXTVLCOPT:http-user-agent=http-user-agent=https://vjs.zencdn.net/8.16.1/video.min.js
-https://s2.cystream.net/live/megagr/l_484_32349640_133.ts?nimblesessionid=32203277&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjUvMjAyNSA5OjE2OjEzIFBNJmhhc2hfdmFsdWU9UWFpVHJNekJ6ckptejBtRTdsWCtQUT09JnZhbGlkbWludXRlcz0yMA==
+#EXTM3U
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.123 Mobile Safari/537.36 EdgA/141.0.3537.99
+https://s2.cystream.net/live/megagr/chunks.m3u8?nimblesessionid=33548817&wmsAuthSign=c2VydmVyX3RpbWU9MS8xMy8yMDI2IDY6MDE6MzIgUE0maGFzaF92YWx1ZT1HR0VJSUk0eWlQaUdOQmhpVUxwK2xnPT0mdmFsaWRtaW51dGVzPTIw
