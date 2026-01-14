@@ -1,4 +1,4 @@
 #EXTM3U
 #EXTINF:1,ERT1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.123 Mobile Safari/537.36 EdgA/141.0.3537.99
-https://s2.cystream.net/live/ert1/chunks.m3u8?nimblesessionid=33551561&wmsAuthSign=c2VydmVyX3RpbWU9MS8xMy8yMDI2IDY6MjY6MjIgUE0maGFzaF92YWx1ZT04L25PcExrUG0yL0JGSDJRTWVLTXRBPT0mdmFsaWRtaW51dGVzPTIw
+https://ertflix.ascdn.broadpeak.io/ertlive/ert1/clrdef24723b/index.m3u8|ip=212.152.97.110:80
