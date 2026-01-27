@@ -1,2 +1,3 @@
 #EXTM3U
-https://s2.cystream.net/live/ert1/chunks.m3u8?nimblesessionid=32207378&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjUvMjAyNSA5OjU2OjIyIFBNJmhhc2hfdmFsdWU9N3F4UERoOWI0b2lZM2FtT3huVXRNQT09JnZhbGlkbWludXRlcz0yMA==|user-agent=https://vjs.zencdn.net/8.16.1/video.min.js
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:01:FC&stream=671261&extension=ts
