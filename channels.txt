@@ -1,4 +1,4 @@
-name= ERT1 url= "https://raw.githubusercontent.com:443/don24crk/Don24crk-Repository/refs/heads/master/ert1-playlist.m3u8" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_1.png?raw=true"
+name= ERT1 url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ERT1-1.m3u8" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_1.png?raw=true"
 name= ERT2 url= "https://ertflix.siliconweb.com/mpegts/618618_2341557/media_mpegts_0.m3u8" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_2.png?raw=true"
 name= ERT3 url= "https://ertflix.siliconweb.com/mpegts/618618_2341560/media_mpegts_0.m3u8" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_3.png?raw=true"
 name= ERT1 BUP url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ERT1-1.m3u8" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_1.png?raw=true"
@@ -54,6 +54,7 @@ name= LAMPSI TV url= "https://pro.free.hr:3343/live/l1llive.m3u8" logo= "https:/
 name= DIPOLO TV url= "https://channel.streams.ovh:8081/dipolotv/index.m3u8" logo= "https://upload.wikimedia.org/wikipedia/en/f/fc/Thanasis_Veggos.jpg"
 name= EXTACY TV KIDS url= "https://eu1.servers10.com:8081/8046/index.m3u8" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmoCbc4lCV9n8Mk5L3pnd9LAouVRsbgR6Vfw&s"
 name= EXTACY TV GREEKS url= "https://eu1.servers10.com:8081/8364/index.m3u8" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmoCbc4lCV9n8Mk5L3pnd9LAouVRsbgR6Vfw&s"
+
 
 
 
