@@ -1,16 +1,16 @@
-name= ERT1 url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ERT1-1.m3u8" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_1.png?raw=true"
-name= ERT2 url= "https://ertflix.siliconweb.com/mpegts/618618_2341557/media_mpegts_0.m3u8" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_2.png?raw=true"
-name= ERT3 url= "https://ertflix.siliconweb.com/mpegts/618618_2341560/media_mpegts_0.m3u8" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_3.png?raw=true"
+name= ERT1 url= "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT1/default/index.mpd" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_1.png?raw=true"
+name= ERT2 url= "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT2/default/index.mpd" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_2.png?raw=true"
+name= ERT3 url= "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT3/default/index.mpd" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_3.png?raw=true"
 name= ERT1 BUP url= "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT1/default/index.mpd" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_1.png?raw=true"
-name= ERT2 BUP url= "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT2/default/index.mpd"
-name= ERT2 BUP 2 url= "hhttps://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT2/default/index.mpd" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_2.png?raw=true"
+name= ERT2 BUP url= "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT2/default/index.mpd" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_2.png?raw=true"
+name= ERT2 BUP 2 url= "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT2/default/index.mpd" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_2.png?raw=true"
 name= ERT3 BUP url= "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT3/default/index.mpd" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_3.png?raw=true"
 name= ERT3 BUP 2 url= "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT3/default/index.mpd" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_3.png?raw=true"
-name= ERTWORLD url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ERTWORLD%20BUP.strm" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_World.png?raw=true"
+name= ERTWORLD url= "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTWorld/default/index.mpd" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_World.png?raw=true"
 name= ERTWORLD BUP url= "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTWorld/default/index.mpd" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_World.png?raw=true"
-name= ERTNEWS url= "http://195.226.218.163/vid/ertnews/mpeg.2ts" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_NEWS.png?raw=true"
+name= ERTNEWS url= "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews/default/index.mpd" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_NEWS.png?raw=true"
 name= ERTNEWS BUP url= "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews/default/index.mpd" logo= "https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ERT_NEWS.png?raw=true"
-name= ERT KIDS url= "http://195.226.218.163/vid/kidstv-hbbtv/mpeg.2ts" logo= "https://i.imgur.com/RvrQSAs.png"
+name= ERT KIDS url= "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTKids/default/index.mpd" logo= "https://i.imgur.com/RvrQSAs.png"
 name= ERT KIDS BUP url= "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTKids/default/index.mpd" logo= "https://i.imgur.com/RvrQSAs.png"
 name= TILEMOUSIKI url= "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Tilemousiki1.m3u8" logo= "https://africaorigin.net/upload/source/TILEMOUSIKI%20(GR).jpg"
 name= ANT1 url= "https://lcdn.antennaplus.gr/r86d08d448885424196f6cd3ddc5d1489/eu-central-1/eu-central-1/6415884360001/profile_0/chunklist.m3u8" logo= "https://i.imgur.com/GTFFtOR.png"
@@ -58,6 +58,7 @@ name= EXTACY TV KIDS BUP url= "https://eu1.servers10.com:8081/8046/index.m3u8" l
 name= EXTACY TV GREEKS url= "https://eu1.servers10.com:8081/8364/index.m3u8" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmoCbc4lCV9n8Mk5L3pnd9LAouVRsbgR6Vfw&s"
 name= EXTACY TV GREEKS BUP url= "https://eu1.servers10.com:8081/8364/index.m3u8" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmoCbc4lCV9n8Mk5L3pnd9LAouVRsbgR6Vfw&s"
 name= ZEYS url= "https://eu1.servers10.com:8081/8242/index.m3u8" logo= "https://image.roku.com/developer_channels/prod/b8c044abec9d06b397357878d49c161deec735a1058db7cdf24e4a85b5a63f3f.png"
+
 
 
 
