@@ -18,8 +18,8 @@ name= ANT1 BUP url= "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads
 name= ANT1 DRAMA url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ANT1%20DRAMA.strm" logo= "https://i.imgur.com/5QDNhXo.png"
 name= ANT1 COMEDY url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ANT1%20COMEDY.strm" logo= "https://i.imgur.com/V1byeFi.png"
 name= REAL MUSIC TV url= "https://webtv.topwebhost.gr:3302/stream/play.m3u8" logo= "https://i.imgur.com/HmxMZOd.png"
-name= MAKTV url= "https://lcdn.antennaplus.gr/r444865966c0847fca53b9b0c133af7a9/eu-central-1/eu-central-1/6415884360001/profile_0/chunklist.m3u8|user-agent=Mozilla/5.0 (Android 15; Mobile; rv:68.0) Gecko/68.0 Firefox/139.0" logo= "https://i.imgur.com/RVs0GZa.png"
-name= MAKTV BUP url= "https://lcdn.antennaplus.gr/r444865966c0847fca53b9b0c133af7a9/eu-central-1/eu-central-1/6415884360001/profile_0/chunklist.m3u8|user-agent=Mozilla/5.0 (Android 15; Mobile; rv:68.0) Gecko/68.0 Firefox/139.0" logo= "https://i.imgur.com/RVs0GZa.png"
+name= MAKTV url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/MAKTV.strm" logo= "https://i.imgur.com/RVs0GZa.png"
+name= MAKTV BUP url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/MAKTV.strm" logo= "https://i.imgur.com/RVs0GZa.png"
 name= ALPHA TV url= "https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/playlist.m3u8" logo= "https://i.imgur.com/0i4MUcc.png"
 name= ALPHA TV BUP url= "https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/playlist.m3u8" logo= "https://i.imgur.com/0i4MUcc.png"
 name= OPEN TV url= "https://liveopen.siliconweb.com/openTvLive/liveopen/playlist.m3u8|user-agent=https://www.greektv.live/_next/static/chunks/089634ca.9b443f8c61159d97.js" logo= "https://i.imgur.com/cshmF4s.png"
@@ -58,6 +58,7 @@ name= EXTACY TV KIDS BUP url= "https://eu1.servers10.com:8081/8046/index.m3u8" l
 name= EXTACY TV GREEKS url= "https://eu1.servers10.com:8081/8364/index.m3u8" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmoCbc4lCV9n8Mk5L3pnd9LAouVRsbgR6Vfw&s"
 name= EXTACY TV GREEKS BUP url= "https://eu1.servers10.com:8081/8364/index.m3u8" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmoCbc4lCV9n8Mk5L3pnd9LAouVRsbgR6Vfw&s"
 name= ZEYS url= "https://eu1.servers10.com:8081/8242/index.m3u8" logo= "https://image.roku.com/developer_channels/prod/b8c044abec9d06b397357878d49c161deec735a1058db7cdf24e4a85b5a63f3f.png"
+
 
 
 
