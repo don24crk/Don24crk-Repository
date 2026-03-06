@@ -13,11 +13,12 @@ name= Mántepse Ti Káno Ta Vrádia (1984) [Ellinikí Tainía] url= "https://raw
 name= Τα κίτρινα γάντια (1960) url= "https://archive.org/download/ta_20251213/ta%20%CE%BA%CE%AF%CF%84%CF%81%CE%B9%CE%BD%CE%B1%20%CE%B3%CE%AC%CE%BD%CF%84%CE%B9%CE%B1%20.ia.mp4" logo= "https://finosflixweb.eu-central-1.linodeobjects.com/uploaded/trailers/348/cover.jpg"
 name= Kamikázi Agápi Mou (1983) [Ellinikí Tainía] url= "plugin://plugin.video.youtube/play/?video_id=mDSmMCp6LnM" logo= "https://m.media-amazon.com/images/M/MV5BNzZlNWZlN2QtZTI4Yi00NDkwLWIyZjEtNzk1ZGIyOGVlYTYwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
 name= Stathis Psaltis - Trelathiko Politilias url= "plugin://plugin.video.youtube/play/?video_id=0yBbnI90cmo" logo= "https://i.ytimg.com/vi/SsgKBwdtzbY/hqdefault.jpg"
-name= VASIKA KALISPERA SAS - 1982 - DVDRip url= "plugin://plugin.video.dailymotion_com/?url=x8pxbw1&mode=playVideo" logo= "https://i.ytimg.com/vi/_XRM6-jLXCc/hqdefault.jpg"
+name= VASIKA KALISPERA SAS - 1982 - DVDRip url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/greek%20movies/VASIKA%20KALISPERA%20SAS%20-%201982%20-%20DVDRip.strm" logo= "https://i.ytimg.com/vi/_XRM6-jLXCc/hqdefault.jpg"
 name= To pio lampro bouzouki url= "https://archive.org/download/u-1968/%CE%A4%CE%BF%20%CF%80%CE%B9%CE%BF%20%CE%BB%CE%B1%CE%BC%CF%80%CF%81%CF%8C%20%CE%BC%CF%80%CE%BF%CF%85%CE%B6%CE%BF%CF%8D%CE%BA%CE%B9%20%281968%29.ia.mp4" logo= "https://greek-movies.com/icon/movie/%CE%A4%CE%BF%CF%80%CE%B9%CE%BF%CE%BB%CE%B1%CE%BC%CF%80%CF%81%CF%8C%CE%BC%CF%80%CE%BF%CF%85%CE%B6%CE%BF%CF%8D%CE%BA%CE%B9.jpg"
 name= To prósopo tis iméras (1965) url= "https://archive.org/download/u_20251213/%CF%84%CE%BF%20%CF%80%CF%81%CF%8C%CF%83%CF%89%CF%80%CE%BF%20%CF%84%CE%B7%CF%82%20%CE%B7%CE%BC%CE%AD%CF%81%CE%B1%CF%82%20.ia.mp4" logo= "https://greek-movies.com/icon/movie/%CE%A4%CE%BF%CF%80%CF%81%CF%8C%CF%83%CF%89%CF%80%CE%BF%CF%84%CE%B7%CF%82%CE%B7%CE%BC%CE%AD%CF%81%CE%B1%CF%82.jpg"
 name= Maria (2024) url= "https://archive.org/download/maria_202512/maria.ia.mp4" logo= "https://filmpalast.to/files/movies/450/maria-2024.jpg"
 name= Yparho (2024) url= "https://seed305.bitchute.com/bxvMNloXzxuZ/IBbMQBfjZ4xI.mp4" logo= "https://greek-movies.com/icon/movie/%CE%A5%CE%A0%CE%91%CE%A1%CE%A7%CE%A9STELIOS2024.jpg"
+
 
 
 
