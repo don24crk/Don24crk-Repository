@@ -22,9 +22,9 @@ https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTWorld/default/index.mpd
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ERTWORLD" tvg-logo="https://kundenportal.lampert.at/files/uploads/Bilder%20News/ERT1.png",ERTWORLD BUP
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTWorld/default/index.mpd
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="mega" tvg-logo="https://i.imgur.com/HIcqDaY.png",MEGA HD
-https://wow.anixa.tv/live/mega/playlist.m3u8
+https://spark3.smart-tv-data.com/megaHD/megaHD/manifest.mpd?nimblesessionid=3205410
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="mega" tvg-logo="https://i.imgur.com/HIcqDaY.png",MEGA HD BUP
-https://wow.anixa.tv/live/mega/chunklist_w1655961680.m3u8
+https://spark3.smart-tv-data.com/megaHD/megaHD/manifest.mpd?nimblesessionid=3205410
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ant1" tvg-logo="https://i.imgur.com/GTFFtOR.png",ANT1 HD
 https://lcdn.antennaplus.gr/r86d08d448885424196f6cd3ddc5d1489/eu-central-1/eu-central-1/6415884360001/profile_0/chunklist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ant1" tvg-logo="https://i.imgur.com/GTFFtOR.png",ANT1 HD BUP
