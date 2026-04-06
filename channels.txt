@@ -13,7 +13,7 @@ name= ERTNEWS BUP url= "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews/defaul
 name= ERT KIDS url= "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTKids/default/index.mpd" logo= "https://i.imgur.com/RvrQSAs.png"
 name= ERT KIDS BUP url= "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTKids/default/index.mpd" logo= "https://i.imgur.com/RvrQSAs.png"
 name= TILEMOUSIKI url= "http://65.108.62.57:8080/live2/greekmusic.m3u8" logo= "https://africaorigin.net/upload/source/TILEMOUSIKI%20(GR).jpg"
-name= ANT1 url= "https://lcdn.antennaplus.gr/r86d08d448885424196f6cd3ddc5d1489/eu-central-1/eu-central-1/6415884360001/profile_0/chunklist.m3u8" logo= "https://i.imgur.com/GTFFtOR.png"
+name= ANT1 url= "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/antenna.m3u8" logo= "https://i.imgur.com/GTFFtOR.png"
 name= ANT1 BUP url= "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/antenna.m3u8" logo= "https://i.imgur.com/GTFFtOR.png"
 name= ANT1 DRAMA url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ANT1%20DRAMA.strm" logo= "https://i.imgur.com/5QDNhXo.png"
 name= ANT1 COMEDY url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ANT1%20COMEDY.strm" logo= "https://i.imgur.com/V1byeFi.png"
