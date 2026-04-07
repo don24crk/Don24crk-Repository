@@ -1,4 +1,4 @@
 #EXTINF:1,MEGA
 #KODIPROP:inputstream=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-http://15.235.41.196/hls/mega.m3u8
+http://15.235.41.196/hls/mega.m3u8?token=75ab1929b0c20717db1fd855a37a03a6a621fc3f
