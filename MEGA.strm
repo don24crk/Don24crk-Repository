@@ -1,5 +1,4 @@
 #EXTINF:1,MEGA
 #KODIPROP:inputstream=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Roku/DVP-14.6 (14.6.4.9914-CE).
-http://15.235.41.196/hls/mega.m3u8
+http://15.235.41.196/hls/mega.m3u8|user-agent=RTP Play/2.0.26 (Linux;Android 11) ExoPlayerLib/2.11.8
