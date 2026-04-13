@@ -1,3 +1,4 @@
-#EXTINF:1,MEGA
-#EXTVLCOPT:http-user-agent=https://vjs.zencdn.net/8.23.4/video.min.js
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1,MEGATV
 https://spark3.smart-tv-data.com/megaHD/megaHD/manifest.mpd
