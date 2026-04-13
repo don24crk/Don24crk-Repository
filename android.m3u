@@ -22,9 +22,9 @@ https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTWorld/default/index.mpd
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ERTWORLD" tvg-logo="https://kundenportal.lampert.at/files/uploads/Bilder%20News/ERT1.png",ERTWORLD BUP
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTWorld/default/index.mpd
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="mega" tvg-logo="https://i.imgur.com/HIcqDaY.png",MEGA HD
-https://spark3.smart-tv-data.com/megaHD/megaHD/manifest.mpd?nimblesessionid=3215317|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A149.0)%20Gecko%2F20100101%20Firefox%2F149.0&Referer=https%3A%2F%2Fwww.greektv.live%2F
+https://spark3.smart-tv-data.com/megaHD/megaHD/manifest.mpd
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="mega" tvg-logo="https://i.imgur.com/HIcqDaY.png",MEGA HD BUP
-https://spark3.smart-tv-data.com/megaHD/megaHD/manifest.mpd?nimblesessionid=3215317|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A149.0)%20Gecko%2F20100101%20Firefox%2F149.0&Referer=https%3A%2F%2Fwww.greektv.live%2F
+https://spark3.smart-tv-data.com/megaHD/megaHD/manifest.mpd
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ant1" tvg-logo="https://i.imgur.com/GTFFtOR.png",ANT1 HD
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/antenna.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ant1" tvg-logo="https://i.imgur.com/GTFFtOR.png",ANT1 HD BUP
