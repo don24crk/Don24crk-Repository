@@ -1,0 +1,4 @@
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1,STARTV
+https://spark3.smart-tv-data.com/starHD/starHD/manifest.mpd
