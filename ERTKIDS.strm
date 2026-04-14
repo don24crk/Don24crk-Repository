@@ -1,2 +1,4 @@
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1,ERTKIDS
-http://195.226.218.163/vid/kidstv-hbbtv/mpeg.2ts|user-agent=Mozilla/5.0 (Android 15; Mobile; LG-M255; rv:136.0) Gecko/136.0 Firefox/136.0
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTKids/default/index.mpd
