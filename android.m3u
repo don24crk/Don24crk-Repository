@@ -30,17 +30,17 @@ https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/an
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ant1" tvg-logo="https://i.imgur.com/GTFFtOR.png",ANT1 HD BUP
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/antenna.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="alpha" tvg-logo="https://i.imgur.com/0i4MUcc.png",ALPHA HD 
-https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/playlist.m3u8
+https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ALPHA.strm
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="alpha" tvg-logo="https://i.imgur.com/0i4MUcc.png",ALPHA HD BUP
-https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/playlist.m3u8
+https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ALPHA.strm
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="star" tvg-logo="https://i.imgur.com/AazwSEQ.png",STAR HD 
 https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/STAR.strm
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="star" tvg-logo="https://i.imgur.com/AazwSEQ.png",STAR HD BUP 
 https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/STAR.strm
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="skai" tvg-logo="https://i.imgur.com/o2aft6Q.png",SKAI HD 
-https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/SKAI1.m3u8
+https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/SKAI.strm
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="skai" tvg-logo="https://i.imgur.com/o2aft6Q.png",SKAI HD BUP
-https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/SKAI.m3u8
+https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/SKAI.strm
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="open" tvg-logo="https://i.imgur.com/cshmF4s.png",OPEN TV HD
 https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/OPEN.strm
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="open" tvg-logo="https://i.imgur.com/cshmF4s.png",OPEN TV HD BUP
