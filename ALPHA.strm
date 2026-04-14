@@ -1,3 +1,4 @@
-#EXTINF:1,ALPHA 
 #KODIPROP:inputstream=inputstream.adaptive
-http://ip96.uk:8080//live/H645668DH/7565848DHY/316354.ts?username=H645668DH&password=7565848DHY&type=m3u_plus&proxy=93.174.121.131:8080
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1,ALPHATV
+https://spark3.smart-tv-data.com/alphaHD/alphaHD/manifest.mpd
