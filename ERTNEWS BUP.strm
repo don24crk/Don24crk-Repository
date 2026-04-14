@@ -1,2 +1,4 @@
-#EXTINF:-1,ERTNEWS BUP
-https://telmaco-cdn.akamaized.net/ertnews-cc/index.m3u8
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1,ERTNEWS
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews/default/index.mpd
