@@ -1,2 +1,4 @@
-#EXTINF:-1,OPEN
-https://liveopen.siliconweb.com/openTvLive/liveopen/chunks.m3u8|User-Agent=Mozilla%2F5.0+%28Macintosh%3B+Intel+Mac+OS+X+14_7_6%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.4+Safari%2F605.1.15
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1,OPENTV
+https://spark3.smart-tv-data.com/openHD/openHD/manifest.mpd
