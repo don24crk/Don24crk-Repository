@@ -1,4 +1,4 @@
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1,LAMPSITV
 https://neon.streams.gr:8081/lampsitv/tracks-v1a1/mono.m3u8
