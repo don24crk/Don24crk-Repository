@@ -1,0 +1,4 @@
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1,SKAITV
+https://spark3.smart-tv-data.com/skaiHD/skaiHD/manifest.mpd
