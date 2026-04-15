@@ -1,4 +1,4 @@
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mp4
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp4
 #EXTINF:-1,Mantaléna
 https://archive.org/download/20251212_20251212_1556/Μανταλένα.ia.mp4
