@@ -1,2 +1,5 @@
 #EXTINF:-1,TAMTAKO PROCHORA XEVROMISE TI CHORA
-http://www.dailymotion.com/video/x8n5dwz
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=false
+#KODIPROP:mimetype=application/x-mpegURL
+https://cdndirector.dailymotion.com/cdn/manifest/video/x8n5dwz.m3u8?sec=Jxk5LsSD_V4uvWX86qempklKzWogAmPpKcjUc4YzgJwlOLc3uUcJ_YikBKE1p7jDVneltCMOgYE05zddLC86xg&dmTs=462256&dmV1st=aead9aa3-edf8-432b-b9c6-c949e7715d7a
