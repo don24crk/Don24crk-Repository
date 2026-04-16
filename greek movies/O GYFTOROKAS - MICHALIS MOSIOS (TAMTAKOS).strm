@@ -1,2 +1,5 @@
-#EXTINF:-1,O GYFTOROKAS - MICHALIS MOSIOS (TAMTAKOS)
+#EXTINF:-1,O GYFTOROKAS - MICHALIS MOSIOS (TAMTAKOS) 
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=false
+#KODIPROP:mimetype=application/x-mpegURL
 https://www.youtube.com/watch?v=Q04N12x0fqw
