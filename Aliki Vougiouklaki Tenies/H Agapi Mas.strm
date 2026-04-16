@@ -1,4 +1,4 @@
 #KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp4
+#KODIPROP:mimetype=application/ld+json
 #EXTINF:-1,H Agapi Mas
 https://archive.org/download/20251210_20251210_1615/%CE%97%20%CE%B1%CE%B3%CE%AC%CF%80%CE%B7%20%CE%BC%CE%B1%CF%82.ia.mp4
