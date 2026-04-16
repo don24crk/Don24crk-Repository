@@ -1,2 +1,5 @@
-#EXTINF:-1,O... Erastis!!! (1990)
-http://www.dailymotion.com/video/x952s86
+EXTINF:-1,O... Erastis!!! (1990) 
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=false
+#KODIPROP:mimetype=application/x-mpegURL
+https://cdndirector.dailymotion.com/cdn/manifest/video/x952s86.m3u8?sec=7tZzbQCavwORyzfnL_rfyADfjBeaC0FFrfzFLYTQaq-G9DnJyjfit1TdidAf9TH5VqZrzW4laDyosZL_dAPnIQ&dmTs=656933&dmV1st=8ca7a210-b1ad-4aa5-b1b6-d59f3f4f7dc7
