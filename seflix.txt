@@ -40,7 +40,8 @@ name= Markos Seferlis 2025 20 Xronia Delfinário url= "https://archive.org/downl
 name= ΧΑΛΒΑΗ 5-0 (2020) 720p HDTV url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/Seferlis%20Strms%20Dailymotion/%CE%A7%CE%91%CE%9B%CE%92%CE%91%CE%97%205-0%20(2020)%20720p%20HDTV.strm" logo= "https://www.enternity.gr/files/Image/Movies-TV_Series/Xalvai_5_0/Xalvai_5_0_Review_Intro.jpg"
 name= O Kalós, o Kakós kai o Diásimos | A' Méros (Márkos Seferlís - Peroké 2014 ) url= "plugin://plugin.video.youtube/play/?video_id=J6lFwEpEpZ8" logo= "https://www.athinorama.gr/Content/ImagesDatabase/p/750x422/pad/both/lmnts/articles/2503649/kaloskakosfoto.jpg?quality=81&404=default&v=4"
 name= O Kalós, o Kakós kai o Diásimos | B' Méros (Márkos Seferlís - Peroké 2014 ) url= "plugin://plugin.video.youtube/play/?video_id=EsdPDLNmxy4" logo= "https://www.athinorama.gr/Content/ImagesDatabase/p/750x422/pad/both/lmnts/articles/2503649/kaloskakosfoto.jpg?quality=81&404=default&v=4"
-
+name= Markos by Night - Notis Η Επιστροφή part 1 url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/Seferlis%20Strms%20Dailymotion/Markos%20by%20Night%20-%20Notis%20%CE%97%20%CE%95%CF%80%CE%B9%CF%83%CF%84%CF%81%CE%BF%CF%86%CE%AE%20part%201.strm" logo= "https://greek-movies.com/icon/theater/MarkosbyNight-Notis%CE%97%CE%95%CF%80%CE%B9%CF%83%CF%84%CF%81%CE%BF%CF%86%CE%AE2025.jpg"
+name= Markos by Night - Notis Η Επιστροφή part 2 url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/Seferlis%20Strms%20Dailymotion/Markos%20by%20Night%20-%20Notis%20%CE%97%20%CE%95%CF%80%CE%B9%CF%83%CF%84%CF%81%CE%BF%CF%86%CE%AE%20part%202.strm" logo= "https://greek-movies.com/icon/theater/MarkosbyNight-Notis%CE%97%CE%95%CF%80%CE%B9%CF%83%CF%84%CF%81%CE%BF%CF%86%CE%AE2025.jpg"
 
 
 
