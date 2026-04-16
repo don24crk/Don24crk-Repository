@@ -1,2 +1,5 @@
 #EXTINF:-1,Enas Andras me Syneidisi - Nikos Xanthopoulos 1969 Part A
-http://www.dailymotion.com/video/x8myh3u
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=false
+#KODIPROP:mimetype=application/x-mpegURL
+https://cdndirector.dailymotion.com/cdn/manifest/video/x8myh3u.m3u8?sec=9nIKeEq38a_QKAUTginzFfL7FIs9GKnKNv78k5Whb9Ht-jAwUWLyIFT6oX9akerBmuL22El0oeiNppKr_qKasg&dmTs=922&dmV1st=b7e24857-717e-4107-9a27-56efd45caf9b
