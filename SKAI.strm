@@ -1,5 +1,5 @@
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.microsoft.playready
+#KODIPROP:inputstream.adaptive.license_type=com.apple.fps.1_0
 #KODIPROP:inputstream.adaptive.license_key=https://widevine-dash.ezdrm.com/widevine-php/widevine-foreignkey.php?pX=9A657F&token=1W-MeS0qh1Jo5xg5ibJvUw&smil=en2&expires=1778254227
 https://skai-live-drm.siliconweb.com/skaidrm/en2/manifest.mpd
