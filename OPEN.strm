@@ -3,4 +3,4 @@
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream.adaptive.httpproxy=46.198.132.237:51372
-https://s2.cystream.net/galanos/open/chunks.m3u8?nimblesessionid=38628641&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjYgMjoxODoyNSBQTSZoYXNoX3ZhbHVlPXVvM3F0d1RKdlBhcDcvQ2tHb1JYNHc9PSZ2YWxpZG1pbnV0ZXM9MjA=
+http://liveopen.siliconweb.com/openTvLive/liveopen/chunks.m3u8
