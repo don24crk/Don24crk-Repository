@@ -1,4 +1,5 @@
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1,MEGATV
-https://spark3.smart-tv-data.com/megaHD/megaHD/manifest.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:135.0) Gecko/20100101 Firefox/135.0&Accept: /&Accept-Language: en-GB,en;q=0.5&Accept-Encoding: gzip, deflate, br, zstd&Origin: https://lakatamia.tv&connection/: keep-alive&Referer: https://lakatamia.tv/&Sec-Fetch-Dest: empty&Sec-Fetch-Mode: cors&Sec-Fetch-Site: cross-site
+https://s2.cystream.net/live/megagr/chunks.m3u8?nimblesessionid=38627460&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjYgMTI6NDc6NDAgUE0maGFzaF92YWx1ZT1ZOGJmSnRET0F3MG15VlRsUml2M1BRPT0mdmFsaWRtaW51dGVzPTIw
