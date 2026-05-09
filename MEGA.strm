@@ -1,5 +1,5 @@
 #EXTINF:-1,MEGATV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:135.0) Gecko/20100101 Firefox/135.0&Accept: /&Accept-Language: en-GB,en;q=0.5&Accept-Encoding: gzip, deflate, br, zstd&Origin: https://lakatamia.tv&connection/: keep-alive&Referer: https://lakatamia.tv/&Sec-Fetch-Dest: empty&Sec-Fetch-Mode: cors&Sec-Fetch-Site: cross-site
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0&Accept: /&Accept-Language: en-GB,en;q=0.5&Accept-Encoding: gzip, deflate, br, zstd&Origin: https://lakatamia.tv&connection/: keep-alive&Referer: https://lakatamia.tv/&Sec-Fetch-Dest: empty&Sec-Fetch-Mode: cors&Sec-Fetch-Site: cross-site
 https://s2.cystream.net/live/megagr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjYgMTI6NDk6MjQgUE0maGFzaF92YWx1ZT1SWkNRUlJ4ZGNtWWQwMmxvL09XQnZBPT0mdmFsaWRtaW51dGVzPTIw
