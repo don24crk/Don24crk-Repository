@@ -1,5 +1,5 @@
 #EXTINF:-1,TVOPEN
-#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream.adaptive.http_proxy=46.177.145.1:80
