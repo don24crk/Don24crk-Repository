@@ -2,5 +2,5 @@
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream.adaptive.httpproxy=46.177.145.1:80
+#KODIPROP:inputstream.adaptive.http_proxy=46.177.145.1:80
 http://liveopen.siliconweb.com/openTvLive/liveopen/chunks.m3u8
