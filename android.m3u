@@ -78,7 +78,7 @@ http://l1.cloudskep.com/omegatv/omcy/playlist.m3u8|user-agent=ExoPlayer
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="berginacy" tvg-logo="https://i.imgur.com/FovFTow.png",VERGINA TV CY
 http://verginanews.gr:8080/hls_live/stream2.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="smiletvcy" tvg-logo="https://i.imgur.com/8ZCpwfv.png",KIDS TV CY
-https://571561.gvideo.io/videos/571561_R3cPmK5pCrDXz2Zp/master.m3u8|user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.6943.89 Mobile Safari/537.36
+https://571561.gvideo.io/videos/571561_jG2GLITDdUB441/index-s0q3576v1-v1-a1.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="plustv" tvg-logo="https://i.imgur.com/37W0li5.png",PLUS TV CY
 https://github.com/jimgate07/grtv/raw/master/Greek%20iptv.mp4
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="capitaltv" tvg-logo="https://i.imgur.com/AT756qk.png",CAPITAL TV CY
