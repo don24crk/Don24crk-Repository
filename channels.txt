@@ -34,7 +34,7 @@ name= MEGA BUP url= "https://raw.githubusercontent.com/don24crk/Don24crk-Reposit
 name= MEGANEWS url= "https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S99841657/NU0xOarAMJ5X/chunklist_b3200000.m3u8|user-agent=Mozilla/5.0 (Android 15; Mobile; rv:68.0) Gecko/68.0 Firefox/139.0" logo= "https://www.tovima.com/wp-content/uploads/2025/03/28/mega_news.jpg"
 name= OMEGA url= "http://l1.cloudskep.com/omegatv/omcy/playlist.m3u8|user-agent=ExoPlayer" logo= "https://i.imgur.com/Np7xLfk.png"
 name= SIGMA url= "http://sl2.sigmatv.com/hls/live.m3u8|user-agent=ExoPlayer" logo= "https://i.imgur.com/lFjBmPF.png"
-name= SMILE TV url= "https://s1.cystream.net/live/smile/chunks.m3u8|user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.6943.89 Mobile Safari/537.36" logo= "https://i.imgur.com/8ZCpwfv.png"
+name= KIDS TV CY url= "https://571561.gvideo.io/videos/571561_R3cPmK5pCrDXz2Zp/master.m3u8" logo= "https://kidstv.cy/wp-content/uploads/kidstv.cy_.png"
 name= XalastraTV url= "https://gra1.crystalweb.net:1936/xalastratv/xalastratv/chunklist_w1196986479.m3u8" logo= "https://www.greektv.live/_next/image?url=https%3A%2F%2Fraw.githubusercontent.com%2Fnickstamp93%2FGymWorkoutMate%2Fi%2Fapp%2Fsrc%2Fmain%2Fassets%2Fimg%2Fch%2Fxalastra_2.webp&w=48&q=75"
 name= DELTA TV url= "http://81.171.10.42:554/liveD/DStream.sdp/playlist.m3u8" logo= "https://i.imgur.com/YiVVg6n.png"
 name= Baraza TV Greek hits url= "https://eco.streams.ovh:8081/barazatv/index.m3u8" logo= "https://i.imgur.com/NlN4lmc.png"
