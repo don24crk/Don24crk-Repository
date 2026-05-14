@@ -1,6 +1,4 @@
-#EXTINF:-1,Ant1 
-https://spark3.smart-tv-data.com/ant1HD/ant1HD/playlist.m3u8
-
-
-
-
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:-1,ANT1
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/antenna.m3u8
