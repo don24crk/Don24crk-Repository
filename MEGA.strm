@@ -1,5 +1,5 @@
 #EXTINF:-1,MEGATV
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3&Cookie:nimblesessionid=38628170 
-https://s2.cystream.net/live/megagr/chunks.m3u8?nimblesessionid=38628170&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjYgMTo0MTowMiBQTSZoYXNoX3ZhbHVlPUVQNS9wUXdXRCtpczMrOG5QUW5KSUE9PSZ2YWxpZG1pbnV0ZXM9MjA=
+https://spark3.smart-tv-data.com/megaHD/megaHD/manifest.mpd?nimblesessionid=5474153
