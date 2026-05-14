@@ -1,4 +1,4 @@
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1,ERTCOSMOS
-https://01eb71ee94ba4a1caf54da0c74efefb4.msvdn.net/ept_ch3/ept_ch3/mainabr/manifest.mpd
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTCosmos/default/index.m3u8
