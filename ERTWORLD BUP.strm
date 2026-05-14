@@ -1,4 +1,4 @@
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1,ERTCOSMOS
-https://01eb71ee94ba4a1caf54da0c74efefb4.msvdn.net/ept_ch3/ept_ch3/mainabr/manifest.mpd?HomeID=ERT_ANONYMOUS_ACCOUNT_GR&TerminalID=ERT_ANONYMOUS_ACCOUNT_GR_DEFAULT_DEVICE&ip=93.174.121.131&externalSessionId=5e04d017-c160-4998-a105-eeeddc094f06&primaryToken=54c24900680f487d_3d1377a736ce4a81ffecdea946f9816
+https://01eb71ee94ba4a1caf54da0c74efefb4.msvdn.net/ept_ch3/ept_ch3/mainabr/manifest.mpd
