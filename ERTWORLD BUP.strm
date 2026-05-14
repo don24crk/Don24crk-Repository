@@ -1,4 +1,4 @@
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1,ERTWORLD
-https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTWorld/default/index.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=2ts
+#EXTINF:-1,ERTCOSMOS
+http://hbbtv.ert.gr/stream.php/v/vid_ertworld_mpeg.2ts
