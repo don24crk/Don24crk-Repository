@@ -1,5 +1,5 @@
 #EXTINF:-1,TVOPEN
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Lavf/51.14.0
+inputstream.adaptive.stream_headers=User-Agent=Lavf/51.14.0
 https://s2.cystream.net/galanos/open/chunks.m3u8?nimblesessionid=38924336&wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDI2IDQ6NDI6NDQgUE0maGFzaF92YWx1ZT1tRVBkeWd0NTlnWFJYZXlTOFJ4TGdnPT0mdmFsaWRtaW51dGVzPTIw
