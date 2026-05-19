@@ -1,6 +1,5 @@
 #EXTINF:-1,TVOPEN
-#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream.adaptive.http_proxy=46.177.145.1:80
-http://liveopen.siliconweb.com/openTvLive/liveopen/chunks.m3u8
+#EXTVLCOPT:http-user-agent=Lavf/51.14.0
+https://s2.cystream.net/galanos/open/chunks.m3u8?nimblesessionid=38924336&wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDI2IDQ6NDI6NDQgUE0maGFzaF92YWx1ZT1tRVBkeWd0NTlnWFJYZXlTOFJ4TGdnPT0mdmFsaWRtaW51dGVzPTIw
