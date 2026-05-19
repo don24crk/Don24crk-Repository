@@ -1,5 +1,5 @@
 #EXTINF:-1,MEGA
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Lavf/51.14.0
+inputstream.adaptive.stream_headers=User-Agent=Lavf/51.14.0
 https://s2.cystream.net/live/megagr/chunks.m3u8?nimblesessionid=38924026&wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDI2IDQ6Mjk6NTUgUE0maGFzaF92YWx1ZT1xTUJHUHJyS2YzQVV6aldaU05LZllBPT0mdmFsaWRtaW51dGVzPTIw
