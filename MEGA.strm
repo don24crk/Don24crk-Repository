@@ -1,3 +1,3 @@
 #EXTINF:-1,MEGAGR
 #EXTVLCOPT:http-user-agent=Lavf/62.13.101
-http://15.235.41.196/hls/mega.m3u8
+https://s2.cystream.net/live/megagr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMC8yMDI2IDY6MDk6MjcgUE0maGFzaF92YWx1ZT1nRjJENUJYQmlJWENHdGVoYkxmZWtnPT0mdmFsaWRtaW51dGVzPTIw
