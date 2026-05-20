@@ -1,3 +1,4 @@
 #EXTINF:-1,MEGAGR
 #EXTVLCOPT:http-user-agent=Lavf/62.13.101
-https://s2.cystream.net/live/megagr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMC8yMDI2IDY6MDk6MjcgUE0maGFzaF92YWx1ZT1nRjJENUJYQmlJWENHdGVoYkxmZWtnPT0mdmFsaWRtaW51dGVzPTIw
+#EXTVLCOPT:manifest-type=application/x-mpegURL
+https://s2.cystream.net/live/megagr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMC8yMDI2IDY6NDM6NTIgUE0maGFzaF92YWx1ZT0wV3QrVE1lYzNhT25maVAvZnVVaFdRPT0mdmFsaWRtaW51dGVzPTIw
