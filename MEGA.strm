@@ -1,2 +1,2 @@
-#EXTINF:-1,MEGA
-https://s2.cystream.net/live/megagr/chunks.m3u8?nimblesessionid=38924026&wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDI2IDQ6Mjk6NTUgUE0maGFzaF92YWx1ZT1xTUJHUHJyS2YzQVV6aldaU05LZllBPT0mdmFsaWRtaW51dGVzPTIw
+#EXTINF:-1,MEGAGR
+http://15.235.41.196/hls/mega.m3u8|user-agent=Roku/DVP-14.6 (14.6.4.9914-CE)
