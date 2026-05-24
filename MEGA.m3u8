@@ -1,3 +1,4 @@
+#EXTM3U
 mimetype=application/vnd.apple.mpegurl
 manifest_type=hls
 http_proxy_host=s2.cystream.net
