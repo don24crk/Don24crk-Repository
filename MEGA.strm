@@ -1,4 +1,5 @@
 #EXTINF:-1,MEGAGR
-#KODIPROP:inputstream.adaptive.http_proxy_host=127.0.0.1
-#KODIPROP:inputstream.adaptive.http_proxy_port=8081
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 http://15.235.41.196/hls/mega.m3u8
