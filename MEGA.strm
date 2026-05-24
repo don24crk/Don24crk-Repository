@@ -1,5 +1,2 @@
 #EXTINF:-1,MEGAGR
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream.adaptive.manifest_type=hls
 http://15.235.41.196/hls/mega.m3u8
