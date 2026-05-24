@@ -1,2 +1,7 @@
 #EXTINF:-1,MEGAGR
-https://www.megatv.com/live|Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.7778.179 Mobile Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:mimetype=application/x-mpegurl
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.http_proxy_host=127.0.0.1
+#KODIPROP:inputstream.adaptive.http_proxy_port=8081
+http://15.235.41.196/hls/mega.m3u8
