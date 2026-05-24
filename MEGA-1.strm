@@ -1,4 +1,4 @@
-mimetype=application/vnd.apple.mpegurl
+mimetype=video/mp4
 manifest_type=hls
 http_proxy_host=s2.cystream.net
 http_proxy_port=8081
