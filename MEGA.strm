@@ -1,2 +1,7 @@
-#EXTINF:-1,MEGAGR
-http://15.235.41.196/hls/mega.m3u8|User-Agent=Roku/DVP-14.6+(14.6.4.9914-CE)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.http_proxy_host=s2.cystream.net
+#KODIPROP:inputstream.adaptive.http_proxy_port=8081
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.7778.179 Mobile Safari/537.36
+https://s2.cystream.net/live/megagr/chunks.m3u8?nimblesessionid=39076423&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDI2IDU6NTE6MjIgUE0maGFzaF92YWx1ZT1tYUl4T0Nnbng0WnFMZ25NRVorbGhBPT0mdmFsaWRtaW51dGVzPTIw
