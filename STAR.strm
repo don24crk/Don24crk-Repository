@@ -1,7 +1,6 @@
-#KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.http_proxy_host=s2.cystream.net
-#KODIPROP:inputstream.adaptive.http_proxy_port=8081
+#KODIPROP:manifest_type=hls
+#KODIPROP:http_proxy_host=s2.cystream.net
+#KODIPROP:http_proxy_port=8081
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.7778.179 Mobile Safari/537.36
 https://s2.cystream.net/galanos/star/chunks.m3u8?nimblesessionid=39076814&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDI2IDY6MDI6MTAgUE0maGFzaF92YWx1ZT01aHR3TkQ2UU5yU3YzOFRxTGJvdWd3PT0mdmFsaWRtaW51dGVzPTIw
