@@ -1,4 +1,2 @@
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://s2.cystream.net/galanos/star/chunks.m3u8?nimblesessionid=39104351&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNS8yMDI2IDI6MTQ6MTYgUE0maGFzaF92YWx1ZT1SSXExMm5iSjRHOGY4aERBM05MSU53PT0mdmFsaWRtaW51dGVzPTIw|User-Agent=https%3A%2F%2Fvjs.zencdn.net%2F8.16.1%2Fvideo.min.js&Referer=https%3A%2F%2Flakatamia.tv%2F
+#EXTINF:-1,STAR
+https://s2.cystream.net/galanos/star/chunks.m3u8?nimblesessionid=39107454&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNS8yMDI2IDM6NTU6MTMgUE0maGFzaF92YWx1ZT1xZEt4NHp6dUF4bHBWVFBCM2M3QURnPT0mdmFsaWRtaW51dGVzPTIw|User-Agent=Mozilla%2F5.0%20%28Linux%3B%20Android%2010%3B%20K%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F148.0.7778.179%20Mobile%20Safari%2F537.36&Referer=https%3A%2F%2Flakatamia.tv%2F
