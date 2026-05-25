@@ -1,6 +1,6 @@
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.http_proxy_host=s2.cystream.net
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.http_proxy_host=27.0.0.1
 #KODIPROP:inputstream.adaptive.http_proxy_port=442
-https://s2.cystream.net/galanos/open/chunks.m3u8?nimblesessionid=39084615&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDI2IDg6MDM6MTIgUE0maGFzaF92YWx1ZT1EaDZBbkZ1NlUzOWJqTVpVWXRDK0FBPT0mdmFsaWRtaW51dGVzPTIw|User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.7778.179 Mobile Safari/537.36
+https://spark3.smart-tv-data.com/openHD/openHD/manifest.mpd
