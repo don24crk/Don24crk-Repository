@@ -1,6 +1,4 @@
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.http_proxy_host=27.0.0.1
-#KODIPROP:inputstream.adaptive.http_proxy_port=442
 https://spark3.smart-tv-data.com/openHD/openHD/manifest.mpd
