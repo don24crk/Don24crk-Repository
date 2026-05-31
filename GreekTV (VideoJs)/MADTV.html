@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Live Stream</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="Description" lang="en" content="">
+    <meta name="author" content="">
+    <meta name="robots" content="index, follow">
+
+    <link href="https://unpkg.com/video.js@7/dist/video-js.min.css" rel="stylesheet" />
+    <link href="https://unpkg.com/@videojs/themes@1/dist/forest/index.css" rel="stylesheet" />
+    <link rel="stylesheet" href="../../assets/css/donate.css">
+    <link rel="stylesheet" href="../../assets/css/playerpage.css">
+
+
+
+    <script src="https://vjs.zencdn.net/8.23.4/video.min.js"></script>
+
+
+</head>
+
+
+<body>
+    <div class="container">
+
+            <div class="player-container">
+
+
+                <!-- PLAYER -->
+                <div class="video-js-responsive-container vjs-hd">
+                    <video id="live-stream" class="video-js vjs-theme-forest vjs-fluid" controls autoplay preload="auto"
+					poster="https://cdn.britannica.com/49/1049-050-3AD6578E/Flag-Greece.jpg"
+                        data-setup='{}'>
+                        <source src="https://fa723fc1b171.euc13.playlist.live-video.net/v1/playlist/CooG8r1dhxdCNLlUNFi7TYcN7tRgrHBiTEUoVWCzmozfRo4NFAhoU7AqKPWQ8fbcooBgCOYcQPzUTNAT3oLF9nX6TJvcbrEI9uHd8_-lXln4FTLkUnznz2GaTLlRt_wpoqAIcnlnhmfGj1ohGRAH3UaTbPR7SaxUqxwniFK-bJwm5Q90Z1FseBwBx-_BJec0LOmiRszAQa5XxGIae5e2zy5o4NRHPmv9cjmhYM_1mQ6Z74-vduKMtos4L6Eo21bFXqdL5OvXE692Zs4gNo6N4BbHOSyOm-RE42_U3c4G0PmdUqZ9zplyvmvVnd6tjDGCcSW4zIcef6zPvlDhTOHPOf2JEdUsO8S0Z82gZnskiH6l1BLAqvp8SUDV3JYNQ0qwOGXXRJNJ2MieDSmQ8OTgS7UHYePsHR8YMi6qJsZyhGhGEMsAAYnY6dvB59k1THzhDc6A_YCPOVaOJPmO5reKLs2W9M65v97p6uijbPjU37WnGoopw7scxfeZw4mjKMj050qgLCX7wCXJuH41z1L4bAx0Mh4nC5HhaPJPftwcTf4NGWeo3-2HF0G5Py4zQCmoh2bqm9n6YgwUgFPu-lvQZCe_ddZmUgtgS5F4kmUxrFMSnFVOAeDAkQtvjLU7yJiSUDffOoF5jA1gWVJdsc4_J_VuOxyF2vLkQ5VfljgNBrFybkMk-B3hAVqpB0wfAScTSVj2lFX6z9HhNOr0K7kYRChlWUmx78qfysXl6yLoYMHCY5VYEWVWhl7UPqm2kitTBOWqF8b1O7M8PdqGyiexefzxCFgo8f1Dki8ZRRfWOBzwJcN4Y2K_Ah-jKeD572p2h9_i3WbpIixHG1RkQiAiXL7b6tgvGMTszK-Z6x20zqGPMCg2q38GPsKw_s3WQrltfP-P8Y5i4HZSo_uAhDur-6GK1ONKuVs538vNpLEutWcvYRrmOeLU9M3rZLBG7TasJzE3IopYU8Fu0OHEWuX6ehE_bwk0cCN_6YowZUIWYo2XNClTM0b7NcDktf2zdgaq4QAl1EObrrsi-MtHgxoMaYX2KtqwzbDWshL2IAEqCWV1LXdlc3QtMjChDw.m3u8"
+                            type="application/x-mpegURL">
+                    </video>
+                </div>
+
+                <script>
+                    const player = videojs('live-stream', {
+                        liveui: true,
+                        fluid: true,
+						Allow origin: true,
+						withCredentials: true,
+                        aspectRatio: '16:9'
+                    });
+                    player.on('error', () => {
+                        console.error('An error occurred:', player.error());
+                    });
+                </script>
+        </div>
+    </div>
+</body>
+
+</html>
+
+				

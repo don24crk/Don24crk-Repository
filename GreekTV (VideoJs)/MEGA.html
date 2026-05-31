@@ -1,0 +1,19 @@
+<link href="https://unpkg.com/video.js@7/dist/video-js.min.css" rel="stylesheet">
+<script src="https://vjs.zencdn.net/8.23.4/video.min.js"></script>
+<script src="https://github.com/bilibili/flv.js"></script>
+<script src="https://github.com/bilibili/flv.js/blob/master/src/player/flv-player.js"></script>
+<video id="videojs-flvjs-player" class="video-js vjs-default-skin" controls>
+  <source src="http://127.0.0.1:50199/mega.flv?ws=d3NzOi8vYW1zNC1lZGdlLTAzLmNkbi52aW5kcmFsLmNvbS9zdWJzY3JpYmU_Y2hhbm5lbElkPWFsdGVyZWdvbWVkaWFfbWVnYXR2MV9jaV82Y2M0OTBjNy1lNWM2LTQ4NmItYWNmMC05YmI5YzIwZmE2NzAmYXVkaW8uY29kZWM9YWFjJmF1ZGlvLmJpdFJhdGU9MTI4MDAwJnZpZGVvLmNvZGVjPWgyNjQmdmlkZW8ud2lkdGg9MTI4MCZ2aWRlby5oZWlnaHQ9NzIwJnZpZGVvLmJpdFJhdGU9MzAwMDAwMCZidXJzdE1zPTIwMDA=&origin=https%3A//www.megatv.com" type='video/x-flv'>
+</video>
+<script>
+  // Setting the techOrder is necessary in 5.x
+  // In 6.x techs are added automatically
+  videojs('videojs-flvjs-player', {
+    // 5.x only:
+    // techOrder: ['html5', 'flvjs']
+  });
+</script>
+
+
+
+				
