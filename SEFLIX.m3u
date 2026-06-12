@@ -1,93 +1,94 @@
 #EXTM3U
 #EXTINF:-1,Penínta Apochróseis to Greece! (Márkos Seferlís - Delfinário 2015)
-plugin://plugin.video.dailymotion_com/?url=x8g1gzn&mode=playVideo 
+https://www.dailymotion.com/video/x7v7jmb
 tvg-logo= https://www.happydeals.gr/image_deals/deals/2015/0903/14412662693013.jpg
 
-#EXTINF:-1,Markos Seferlis 2025 Greece the Musicult
-plugin://plugin.video.dailymotion_com/?url=x8t8rl2&mode=playVideo 
-tvg-logo= https://i.ytimg.com/vi/EHf3jUOMZIc/maxresdefault.jpg
+#EXTINF:-1,Penínta Apochróseis to Greece! (Márkos Seferlís - Delfinário 2015) part2
+https://www.dailymotion.com/video/x7v7jma
+tvg-logo= https://www.happydeals.gr/image_deals/deals/2015/0903/14412662693013.jpg
 
-#EXTINF:-1,Markos Seferlis 2025 Greece the Musicult part 2
-plugin://plugin.video.dailymotion_com/?url=x8t8swm&mode=playVideo 
+
+#EXTINF:-1,Markos Seferlis 2025 Greece the Musicult
+https://ok.ru/video/13987161049628
 tvg-logo= https://i.ytimg.com/vi/EHf3jUOMZIc/maxresdefault.jpg
 
 #EXTINF:-1,Dettolmi kai Goiteía Part A 
-https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/Seferlis Strms Dailymotion/Dettolmi kai Goiteía Part A.strm
+https://www.dailymotion.com/video/x8ydkpc
 tvg-logo= "https://www.webmusic.gr/wp-content/uploads/2020/06/seferlis-1.jpg
 
 #EXTINF:-1,Dettolmi kai Goiteía Part B
-https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/Seferlis Strms Dailymotion/Dettolmi kai Goiteía Part B.strm
-tvg-logo= https://www.webmusic.gr/wp-content/uploads/2020/06/seferlis-1.jpg
+https://www.dailymotion.com/video/x8yo2dq
+tvg-logo= "https://www.webmusic.gr/wp-content/uploads/2020/06/seferlis-1.jpg"
 
 #EXTINF:-1,ZITEITAI SEF TIS KOMODIAS Márkos Seferlís 
-https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/Seferlis Strms Dailymotion/ZITEITAI SEF TIS KOMODIAS Márkos Seferlís - Delfinário 2019.strm
-tvg-logo= https://s1.dmcdn.net/v/XUVP41dLCpgtXgcD0/x1080
+https://www.dailymotion.com/video/x9adwzo
+tvg-logo= "https://s1.dmcdn.net/v/XUVP41dLCpgtXgcD0/x1080"
 
 #EXTINF:-1,ZITEITAI SEF TIS KOMODIAS Márkos Seferlís part 2
-https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/Seferlis Strms Dailymotion/ZITEITAI SEF TIS KOMODIAS Márkos Seferlís - Delfinário 2019 - meros b.strm
-tvg-logo= https://s1.dmcdn.net/v/XUVP41dLCpgtXgcD0/x1080
+https://www.dailymotion.com/video/x9adwzm
+tvg-logo= "https://s1.dmcdn.net/v/XUVP41dLCpgtXgcD0/x1080"
 
 #EXTINF:-1,Práktor 00 leftá
-https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/Seferlis Strms Dailymotion/Práktor 00 leftá - Part A.strm
-tvg-logo= https://greek-movies.com/icon/theater/%CE%A0%CF%81%CE%AC%CE%BA%CF%84%CF%89%CF%8100%CE%BB%CE%B5%CF%86%CF%84%CE%AC2022.jpg
+https://www.dailymotion.com/video/x8guiwf
+tvg-logo= "https://greek-movies.com/icon/theater/%CE%A0%CF%81%CE%AC%CE%BA%CF%84%CF%89%CF%8100%CE%BB%CE%B5%CF%86%CF%84%CE%AC2022.jpg"
 
 #EXTINF:-1,Práktor 00 leftá part 2
-https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/Seferlis Strms Dailymotion/Práktor 00 leftá - Part B.strm
-tvg-logo= https://greek-movies.com/icon/theater/%CE%A0%CF%81%CE%AC%CE%BA%CF%84%CF%89%CF%8100%CE%BB%CE%B5%CF%86%CF%84%CE%AC2022.jpg
+https://www.dailymotion.com/video/x8gt70w
+tvg-logo= "https://greek-movies.com/icon/theater/%CE%A0%CF%81%CE%AC%CE%BA%CF%84%CF%89%CF%8100%CE%BB%CE%B5%CF%86%CF%84%CE%AC2022.jpg"
 
 #EXTINF:-1,Allou Fun Mark - Márkos Seferlís Théatro Delfinário
-https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/Seferlis Strms Dailymotion/allou fun mark part a.strm
-tvg-logo= https://i.ytimg.com/vi/dMrCqEG-neM/sddefault.jpg
+https://www.dailymotion.com/video/x8xkzoa
+tvg-logo= "https://i.ytimg.com/vi/dMrCqEG-neM/sddefault.jpg"
 
 #EXTINF:-1,Allou Fun Mark - Márkos Seferlís Théatro Delfinário part 2
-https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/Seferlis Strms Dailymotion/allou fun mark part b.strm
-tvg-logo= https://i.ytimg.com/vi/dMrCqEG-neM/sddefault.jpg
+https://www.dailymotion.com/video/x8xkzoc
+tvg-logo= "https://i.ytimg.com/vi/dMrCqEG-neM/sddefault.jpg"
 
 #EXTINF:-1,Agápi móno
-plugin://plugin.video.youtube/play/?video_id=LFF65Ay3aNY 
-tvg-logo= https://i.ytimg.com/vi/LFF65Ay3aNY/maxresdefault.jpg
+plugin://plugin.video.youtube/play/?video_id=2AEIPDIT4GU
+tvg-logo= "https://i.ytimg.com/vi/LFF65Ay3aNY/maxresdefault.jpg"
 
 #EXTINF:-1,Xrónia gámou part 1
-https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/Seferlis Strms Dailymotion/10 xronia gamou part 1.strm
-tvg-logo= https://cosmopoliti.com/wp-content/uploads/2019/02/51672195_10156311222093687_3350911296538148864_n.jpg
+https://www.dailymotion.com/video/x95buey
+tvg-logo= "https://cosmopoliti.com/wp-content/uploads/2019/02/51672195_10156311222093687_3350911296538148864_n.jpg"
 
 #EXTINF:-1,10 Xrónia gámou part 2
-https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/Seferlis Strms Dailymotion/10 xronia gamou part 2.strm
-tvg-logo= https://cosmopoliti.com/wp-content/uploads/2019/02/51672195_10156311222093687_3350911296538148864_n.jpg
+https://www.dailymotion.com/video/x95buew
+tvg-logo= "https://cosmopoliti.com/wp-content/uploads/2019/02/51672195_10156311222093687_3350911296538148864_n.jpg"
 
 #EXTINF:-1,Állos gia Survivor Márkos Seferlís - Delfinário 2017
 plugin://plugin.video.youtube/play/?video_id=t4URBaERibQ
-tvg-logo= https://www.happydeals.gr/image_deals/deals/2017/0907/15047824448486.jpg
+tvg-logo= "https://www.happydeals.gr/image_deals/deals/2017/0907/15047824448486.jpg"
 
 #EXTINF:-1,Markos Seferlis 2025 MAMMA MIA
-https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/Seferlis Strms Dailymotion/Markos Seferlis 2025 MAMMA MIA.strm
-tvg-logo= https://i.ytimg.com/vi/TtJVsBNDFCk/maxresdefault.jpg
+https://www.dailymotion.com/video/x8wqjb2
+tvg-logo= "https://i.ytimg.com/vi/TtJVsBNDFCk/maxresdefault.jpg"
 
 #EXTINF:-1,Mrs.Doubtfire (Márkos Seferlís - Théatro Peroké 2010/2011)
 plugin://plugin.video.youtube/play/?video_id=glzTEUUC7gQ
-tvg-logo= https://i.ytimg.com/vi/glzTEUUC7gQ/mqdefault.jpg
+tvg-logo= "https://i.ytimg.com/vi/glzTEUUC7gQ/mqdefault.jpg"
 
 #EXTINF:-1,Márkos Seferlís Daddy Cool 2010
 plugin://plugin.video.youtube/play/?video_id=G-qOSlIdl78
 tvg-logo= https://i.ytimg.com/vi/Rmr-ODiDtMM/hqdefault.jpg
 
 #EXTINF:-1,Márkos Seferlís - Delfinário 2025 Des ta re Elláda óla aftá
-plugin://plugin.video.youtube/play/?video_id=UYX3raDOWj8
+https://ok.ru/video/14530336524828
 tvg-logo= https://www.comedyfactory.gr/wp-content/uploads/2024/01/NEW_SLIDER.jpeg
 
 #EXTINF:-1,akyvérnito karávi i patrída mas Márkos Seferlís
-https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/Seferlis Strms Dailymotion/akyvérnito karávi i patrída mas Márkos Seferlís Part A.strm
-tvg-logo= https://www.agon.gr/wp-content/uploads/2023/09/seferlis-akyvernito-960x676.jpg
+https://www.dailymotion.com/video/x99jzy2
+tvg-logo= "https://www.agon.gr/wp-content/uploads/2023/09/seferlis-akyvernito-960x676.jpg"
 
 #EXTINF:-1,akyvernito karavi i patrida mas Markos Seferlis (Part B) tvg-tvg-logo="https://www.agon.gr/wp-content/uploads/2023/09/seferlis-akyvernito-960x676.jpg"
-https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/Seferlis Strms Dailymotion/akyvernito karavi i patrida mas Markos Seferlis (Part B).strm
+https://www.dailymotion.com/video/x99k0pm
 
 #EXTINF:-1,Markos Seferlis 2025 Me Parésyre To Révma
-https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/Seferlis Strms Dailymotion/Markos Seferlis 2025 Me Parésyre To Révma.strm
+https://www.dailymotion.com/video/x8wvaq0
 logo= https://cosmopoliti.com/wp-content/uploads/2023/01/BANNER_816X465.jpg
 
 #EXTINF:-1,Markos Seferlis 2025 Me Parésyre To Révma part 2
-https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/Seferlis Strms Dailymotion/Markos Seferlis 2025 Me Parésyre To Révma Part B.strm
+https://www.dailymotion.com/video/x8ulm0a
 logo= https://cosmopoliti.com/wp-content/uploads/2023/01/BANNER_816X465.jpg
 
 #EXTINF:-1,Márkos Seferlís - Tróei Story 30 Chrónia tóra
@@ -103,19 +104,19 @@ plugin://plugin.video.youtube/play/?video_id=5jiPu3y9mRw
 logo= https://markosseferlis.gr/wp-content/uploads/2024/05/Pasok-Mou-Sorry-Poster11.jpg
 
 #EXTINF:-1,Peter Panic Seferlis Part A
-https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/Seferlis Strms Dailymotion/Peter Panic Part A.strm
+https://www.dailymotion.com/video/x91qr20
 logo= https://www.ogdoo.gr/media/k2/items/cache/e96c5c3a7c7d097c1e271309ba841d4a_M.jpg
 
 #EXTINF:-1,Peter Panic Seferlis Part B
-https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/Seferlis Strms Dailymotion/Peter Panic Part B.strm
+https://www.dailymotion.com/video/x9236p0
 logo= https://www.ogdoo.gr/media/k2/items/cache/e96c5c3a7c7d097c1e271309ba841d4a_M.jpg
 
 #EXTINF:-1,Peter Panic Seferlis Part C
-https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/Seferlis Strms Dailymotion/Peter Panic Part C.strm
+https://www.dailymotion.com/video/x92ldbw
 logo= https://www.ogdoo.gr/media/k2/items/cache/e96c5c3a7c7d097c1e271309ba841d4a_M.jpg
 
 #EXTINF:-1,Peter Panic Seferlis Part D
-https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/Seferlis Strms Dailymotion/Peter Panic Part D.strm
+https://www.dailymotion.com/video/x92ldby
 logo= https://www.ogdoo.gr/media/k2/items/cache/e96c5c3a7c7d097c1e271309ba841d4a_M.jpg
 
 #EXTINF:-1,Black Friday kai 13 2025 márkos seferlís
@@ -135,7 +136,7 @@ plugin://plugin.video.youtube/play/?video_id=0uxkxQ-GhnQ
 logo= https://i.ytimg.com/vi/0uxkxQ-GhnQ/hqdefault.jpg
 
 #EXTINF:-1,Fame Zori (Márkos Seferlís - Théatro Athiná 2004/2005)
-https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/Seferlis Strms Dailymotion/Fame Zori Part A.strm
+https://www.dailymotion.com/video/xa1i7p6
 logo= https://m.media-amazon.com/images/M/MV5BOGJiMTRlN2MtYzJlOS00ZTI5LWExNGUtNzIxMDNjM2UxNGM5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg
 
 #EXTINF:-1,Apáta ton plisíon sou - Márkos Seferlís (Théatro Kaloutá 2000)
@@ -151,18 +152,17 @@ https://ia801707.us.archive.org/26/items/20_20251213/20 χρόνια δελφι�
 logo= https://i.ytimg.com/vi/aQ6QUkFvVXg/sddefault.jpg
 
 #EXTINF:-1,ΧΑΛΒΑΗ 5-0 (2020) 720p HDTV
-https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/Seferlis Strms Dailymotion/ΧΑΛΒΑΗ 5-0 (2020) 720p HDTV.strm
+https://www.dailymotion.com/video/x8mpynk
 logo= https://www.enternity.gr/files/Image/Movies-TV_Series/Xalvai_5_0/Xalvai_5_0_Review_Intro.jpg
 
 #EXTINF:-1,O Kalós, o Kakós kai o Diásimos | A' Méros (Márkos Seferlís - Peroké 2014 )
-https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/Seferlis Strms Dailymotion/Markos Seferlís [At The Theatre] - O Kalos, o Kakos kai o Diasimos (A' Meros).strm
+https://www.dailymotion.com/video/x9cxy3k
 logo= https://www.athinorama.gr/Content/ImagesDatabase/p/750x422/pad/both/lmnts/articles/2503649/kaloskakosfoto.jpg?quality=81&404=default&v=4
 
 #EXTINF:-1,Markos by Night - Notis Η Επιστροφή part 1
-https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/Seferlis Strms Dailymotion/Markos by Night - Notis Η Επιστροφή part 1.strm
+https://www.dailymotion.com/video/xa20sys
 logo= https://greek-movies.com/icon/theater/MarkosbyNight-Notis%CE%97%CE%95%CF%80%CE%B9%CF%83%CF%84%CF%81%CE%BF%CF%86%CE%AE2025.jpg
 
 #EXTINF:-1,Markos by Night - Notis Η Επιστροφή part 2
-https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/Seferlis Strms Dailymotion/Markos by Night - Notis Η Επιστροφή part 2.strm
+https://www.dailymotion.com/video/xa20syu
 logo= https://greek-movies.com/icon/theater/MarkosbyNight-Notis%CE%97%CE%95%CF%80%CE%B9%CF%83%CF%84%CF%81%CE%BF%CF%86%CE%AE2025.jpg
-
