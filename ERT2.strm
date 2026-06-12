@@ -1,4 +1,4 @@
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1,ERT2
-https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT2/default/index.mpd
+https://ert-live.ascdn.broadpeak.io/bpk-tv/ERT2/drm/index.mpd
