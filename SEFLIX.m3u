@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1,Penínta Apochróseis to Greece! (Márkos Seferlís - Delfinário 2015)
-https://www.dailymotion.com/video/x7v7jmb
+plugin://plugin.video.dailymotion_com/?url=%x7v7jmb%&mode=playVideo
 tvg-logo= https://www.happydeals.gr/image_deals/deals/2015/0903/14412662693013.jpg
 
 #EXTINF:-1,Penínta Apochróseis to Greece! (Márkos Seferlís - Delfinário 2015) part2
-https://www.dailymotion.com/video/x7v7jma
+plugin://plugin.video.dailymotion_com/?url=%x7v7jma%&mode=playVideo
 tvg-logo= https://www.happydeals.gr/image_deals/deals/2015/0903/14412662693013.jpg
 
 
@@ -13,35 +13,35 @@ https://ok.ru/video/13987161049628
 tvg-logo= https://i.ytimg.com/vi/EHf3jUOMZIc/maxresdefault.jpg
 
 #EXTINF:-1,Dettolmi kai Goiteía Part A 
-https://www.dailymotion.com/video/x8ydkpc
+plugin://plugin.video.dailymotion_com/?url=%x8ydkpc%&mode=playVideo
 tvg-logo= "https://www.webmusic.gr/wp-content/uploads/2020/06/seferlis-1.jpg
 
 #EXTINF:-1,Dettolmi kai Goiteía Part B
-https://www.dailymotion.com/video/x8yo2dq
+plugin://plugin.video.dailymotion_com/?url=%x8yo2dq%&mode=playVideo
 tvg-logo= "https://www.webmusic.gr/wp-content/uploads/2020/06/seferlis-1.jpg"
 
 #EXTINF:-1,ZITEITAI SEF TIS KOMODIAS Márkos Seferlís 
-https://www.dailymotion.com/video/x9adwzo
+plugin://plugin.video.dailymotion_com/?url=%x9adwzo%&mode=playVideo
 tvg-logo= "https://s1.dmcdn.net/v/XUVP41dLCpgtXgcD0/x1080"
 
 #EXTINF:-1,ZITEITAI SEF TIS KOMODIAS Márkos Seferlís part 2
-https://www.dailymotion.com/video/x9adwzm
+plugin://plugin.video.dailymotion_com/?url=%x9adwzm%&mode=playVideo
 tvg-logo= "https://s1.dmcdn.net/v/XUVP41dLCpgtXgcD0/x1080"
 
 #EXTINF:-1,Práktor 00 leftá
-https://www.dailymotion.com/video/x8guiwf
+plugin://plugin.video.dailymotion_com/?url=%x8guiwf%&mode=playVideo
 tvg-logo= "https://greek-movies.com/icon/theater/%CE%A0%CF%81%CE%AC%CE%BA%CF%84%CF%89%CF%8100%CE%BB%CE%B5%CF%86%CF%84%CE%AC2022.jpg"
 
 #EXTINF:-1,Práktor 00 leftá part 2
-https://www.dailymotion.com/video/x8gt70w
+plugin://plugin.video.dailymotion_com/?url=%x8gt70w%&mode=playVideo
 tvg-logo= "https://greek-movies.com/icon/theater/%CE%A0%CF%81%CE%AC%CE%BA%CF%84%CF%89%CF%8100%CE%BB%CE%B5%CF%86%CF%84%CE%AC2022.jpg"
 
 #EXTINF:-1,Allou Fun Mark - Márkos Seferlís Théatro Delfinário
-https://www.dailymotion.com/video/x8xkzoa
+plugin://plugin.video.dailymotion_com/?url=%x8xkzoa%&mode=playVideo
 tvg-logo= "https://i.ytimg.com/vi/dMrCqEG-neM/sddefault.jpg"
 
 #EXTINF:-1,Allou Fun Mark - Márkos Seferlís Théatro Delfinário part 2
-https://www.dailymotion.com/video/x8xkzoc
+plugin://plugin.video.dailymotion_com/?url=%x8xkzoc%&mode=playVideo
 tvg-logo= "https://i.ytimg.com/vi/dMrCqEG-neM/sddefault.jpg"
 
 #EXTINF:-1,Agápi móno
@@ -49,11 +49,11 @@ plugin://plugin.video.youtube/play/?video_id=2AEIPDIT4GU
 tvg-logo= "https://i.ytimg.com/vi/LFF65Ay3aNY/maxresdefault.jpg"
 
 #EXTINF:-1,Xrónia gámou part 1
-https://www.dailymotion.com/video/x95buey
+plugin://plugin.video.dailymotion_com/?url=%x95buey%&mode=playVideo
 tvg-logo= "https://cosmopoliti.com/wp-content/uploads/2019/02/51672195_10156311222093687_3350911296538148864_n.jpg"
 
 #EXTINF:-1,10 Xrónia gámou part 2
-https://www.dailymotion.com/video/x95buew
+plugin://plugin.video.dailymotion_com/?url=%x95buew%&mode=playVideo
 tvg-logo= "https://cosmopoliti.com/wp-content/uploads/2019/02/51672195_10156311222093687_3350911296538148864_n.jpg"
 
 #EXTINF:-1,Állos gia Survivor Márkos Seferlís - Delfinário 2017
@@ -61,7 +61,7 @@ plugin://plugin.video.youtube/play/?video_id=t4URBaERibQ
 tvg-logo= "https://www.happydeals.gr/image_deals/deals/2017/0907/15047824448486.jpg"
 
 #EXTINF:-1,Markos Seferlis 2025 MAMMA MIA
-https://www.dailymotion.com/video/x8wqjb2
+plugin://plugin.video.dailymotion_com/?url=%x8wqjb2%&mode=playVideo
 tvg-logo= "https://i.ytimg.com/vi/TtJVsBNDFCk/maxresdefault.jpg"
 
 #EXTINF:-1,Mrs.Doubtfire (Márkos Seferlís - Théatro Peroké 2010/2011)
@@ -77,18 +77,18 @@ https://ok.ru/video/14530336524828
 tvg-logo= https://www.comedyfactory.gr/wp-content/uploads/2024/01/NEW_SLIDER.jpeg
 
 #EXTINF:-1,akyvérnito karávi i patrída mas Márkos Seferlís
-https://www.dailymotion.com/video/x99jzy2
+plugin://plugin.video.dailymotion_com/?url=%x99jzy2%&mode=playVideo
 tvg-logo= "https://www.agon.gr/wp-content/uploads/2023/09/seferlis-akyvernito-960x676.jpg"
 
 #EXTINF:-1,akyvernito karavi i patrida mas Markos Seferlis (Part B) tvg-tvg-logo="https://www.agon.gr/wp-content/uploads/2023/09/seferlis-akyvernito-960x676.jpg"
-https://www.dailymotion.com/video/x99k0pm
+plugin://plugin.video.dailymotion_com/?url=%x99k0pm%&mode=playVideo
 
 #EXTINF:-1,Markos Seferlis 2025 Me Parésyre To Révma
-https://www.dailymotion.com/video/x8wvaq0
+plugin://plugin.video.dailymotion_com/?url=%x8wvaq0%&mode=playVideo
 logo= https://cosmopoliti.com/wp-content/uploads/2023/01/BANNER_816X465.jpg
 
 #EXTINF:-1,Markos Seferlis 2025 Me Parésyre To Révma part 2
-https://www.dailymotion.com/video/x8ulm0a
+plugin://plugin.video.dailymotion_com/?url=%x8ulm0a%&mode=playVideo
 logo= https://cosmopoliti.com/wp-content/uploads/2023/01/BANNER_816X465.jpg
 
 #EXTINF:-1,Márkos Seferlís - Tróei Story 30 Chrónia tóra
@@ -136,7 +136,7 @@ plugin://plugin.video.youtube/play/?video_id=0uxkxQ-GhnQ
 logo= https://i.ytimg.com/vi/0uxkxQ-GhnQ/hqdefault.jpg
 
 #EXTINF:-1,Fame Zori (Márkos Seferlís - Théatro Athiná 2004/2005)
-https://www.dailymotion.com/video/xa1i7p6
+plugin://plugin.video.dailymotion_com/?url=%xa1i7p6%&mode=playVideo
 logo= https://m.media-amazon.com/images/M/MV5BOGJiMTRlN2MtYzJlOS00ZTI5LWExNGUtNzIxMDNjM2UxNGM5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg
 
 #EXTINF:-1,Apáta ton plisíon sou - Márkos Seferlís (Théatro Kaloutá 2000)
@@ -152,17 +152,17 @@ https://ia801707.us.archive.org/26/items/20_20251213/20 χρόνια δελφι�
 logo= https://i.ytimg.com/vi/aQ6QUkFvVXg/sddefault.jpg
 
 #EXTINF:-1,ΧΑΛΒΑΗ 5-0 (2020) 720p HDTV
-https://www.dailymotion.com/video/x8mpynk
+plugin://plugin.video.dailymotion_com/?url=%x8mpynk%&mode=playVideo
 logo= https://www.enternity.gr/files/Image/Movies-TV_Series/Xalvai_5_0/Xalvai_5_0_Review_Intro.jpg
 
 #EXTINF:-1,O Kalós, o Kakós kai o Diásimos | A' Méros (Márkos Seferlís - Peroké 2014 )
-https://www.dailymotion.com/video/x9cxy3k
+plugin://plugin.video.dailymotion_com/?url=%x9cxy3k%&mode=playVideo
 logo= https://www.athinorama.gr/Content/ImagesDatabase/p/750x422/pad/both/lmnts/articles/2503649/kaloskakosfoto.jpg?quality=81&404=default&v=4
 
 #EXTINF:-1,Markos by Night - Notis Η Επιστροφή part 1
-https://www.dailymotion.com/video/xa20sys
+plugin://plugin.video.dailymotion_com/?url=%xa20sys%&mode=playVideo
 logo= https://greek-movies.com/icon/theater/MarkosbyNight-Notis%CE%97%CE%95%CF%80%CE%B9%CF%83%CF%84%CF%81%CE%BF%CF%86%CE%AE2025.jpg
 
 #EXTINF:-1,Markos by Night - Notis Η Επιστροφή part 2
-https://www.dailymotion.com/video/xa20syu
+plugin://plugin.video.dailymotion_com/?url=%xa20syu%&mode=playVideo
 logo= https://greek-movies.com/icon/theater/MarkosbyNight-Notis%CE%97%CE%95%CF%80%CE%B9%CF%83%CF%84%CF%81%CE%BF%CF%86%CE%AE2025.jpg
