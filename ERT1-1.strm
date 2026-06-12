@@ -1,4 +1,4 @@
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:mimetype=application/x-mpegurl
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ERT1.m3u8
+#KODIPROP:mimetype=application/mpd+xml
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://ert-live.ascdn.broadpeak.io/bpk-tv/ERT1/drm/index.mpd
