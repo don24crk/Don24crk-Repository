@@ -1,14 +1,14 @@
 #EXTM3U url-tvg="https://ext.greektv.app/epg/epg.xml"
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert1" tvg-logo="https://i.imgur.com/oh9E9sK.png",ERT1 HD
-https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERT1/drm/index.mpd?token=1ae7aeaeb5134f8eb5fd11f2cf134e2c|user-agent=https://www.greektv.live/_next/static/chunks/webpack-8661a3233ce97ad1.js
+https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERT1/drm/index.mpd?token=1ae7aeaeb5134f8eb5fd11f2cf134e2c|user-agent=ExoPlayer
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert1" tvg-logo="https://i.imgur.com/oh9E9sK.png",ERT1 HD BUP
-https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERT1/drm/index.mpd?token=1ae7aeaeb5134f8eb5fd11f2cf134e2c|user-agent=https://www.greektv.live/_next/static/chunks/webpack-8661a3233ce97ad1.js
+https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERT1/drm/index.mpd?token=1ae7aeaeb5134f8eb5fd11f2cf134e2c|user-agent=ExoPlayer
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert1" tvg-logo="https://i.imgur.com/oh9E9sK.png",ERT1 HD BUP 2
-https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERT1/drm/index.mpd?token=1ae7aeaeb5134f8eb5fd11f2cf134e2c|user-agent=https://www.greektv.live/_next/static/chunks/webpack-8661a3233ce97ad1.js
+https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERT1/drm/index.mpd?token=1ae7aeaeb5134f8eb5fd11f2cf134e2c|user-agent=ExoPlayer
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert2" tvg-logo="https://i.imgur.com/ndZMSTX.png",ERT2 HD
-https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERT2/drm/index.mpd?token=1ae7aeaeb5134f8eb5fd11f2cf134e2c|user-agent=https://www.greektv.live/_next/static/chunks/webpack-8661a3233ce97ad1.js
+https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERT2/drm/index.mpd?token=1ae7aeaeb5134f8eb5fd11f2cf134e2c|user-agent=ExoPlayer
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert2" tvg-logo="https://i.imgur.com/ndZMSTX.png",ERT2 HD BUP
-https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERT2/drm/index.mpd?token=1ae7aeaeb5134f8eb5fd11f2cf134e2c|user-agent=https://www.greektv.live/_next/static/chunks/webpack-8661a3233ce97ad1.js
+https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERT2/drm/index.mpd?token=1ae7aeaeb5134f8eb5fd11f2cf134e2c|user-agent=ExoPlayer
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert3" tvg-logo="https://i.imgur.com/oKxPmQJ.png",ERT3 HD 
 https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERT3/default/index.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert3" tvg-logo="https://i.imgur.com/oKxPmQJ.png",ERT3 HD BUP
@@ -66,15 +66,15 @@ http://l6.cloudskep.com/rikct/rik2/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="rikhd" tvg-logo="https://i.imgur.com/1fhdPve.png",RIK HD CY
 http://l6.cloudskep.com/rikct/rikhd/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="sigma" tvg-logo="https://i.imgur.com/lFjBmPF.png",SIGMA CY
-http://sl2.sigmatv.com/hls/live.m3u8|user-agent=ExoPlayer
+http://sl2.sigmatv.com/hls/live.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="sigma" tvg-logo="https://i.imgur.com/lFjBmPF.png",SIGMA CY BUP
-http://sl2.sigmatv.com/hls/live.m3u8|user-agent=ExoPlayer
+http://sl2.sigmatv.com/hls/live.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="ant1cy" tvg-logo="https://i.imgur.com/oy02hGv.png",ANT1 CY
 http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="alphacy" tvg-logo="https://i.imgur.com/1jU8bGa.png",ALPHA CY
 http://l4.cloudskep.com/alphacyp/acy/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="omega" tvg-logo="https://i.imgur.com/Np7xLfk.png",OMEGA CY
-http://l1.cloudskep.com/omegatv/omcy/playlist.m3u8|user-agent=ExoPlayer
+http://l1.cloudskep.com/omegatv/omcy/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="berginacy" tvg-logo="https://i.imgur.com/FovFTow.png",VERGINA TV CY
 http://verginanews.gr:8080/hls_live/stream2.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="smiletvcy" tvg-logo="https://i.imgur.com/8ZCpwfv.png",KIDS TV CY
