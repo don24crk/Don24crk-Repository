@@ -3,5 +3,5 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/mpd+xml
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|726916a29a0a349cb828c34503087528:8011d97516cf5853846112834cb9bd8f
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey=726916a29a0a349cb828c34503087528:8011d97516cf5853846112834cb9bd8f
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT1/drm/index.mpd
