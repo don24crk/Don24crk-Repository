@@ -2,7 +2,5 @@
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=video/mp4
-listitem.setProperty('inputstream.adaptive.drm_legacy', 'org.w3.clearkey')
-# KeyId's provided by property:
-listitem.setProperty('inputstream.adaptive.drm_legacy', 'org.w3.clearkey|8011d97516cf5853846112834cb9bd8f:726916a29a0a349cb828c34503087528
-https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT1/drm/index.mpd')
+#KODIPROP:inputstream.adaptive.drm_legacy=8011d97516cf5853846112834cb9bd8f:726916a29a0a349cb828c34503087528
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT1/drm/index.mpd
