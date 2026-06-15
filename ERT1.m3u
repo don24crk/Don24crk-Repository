@@ -1,8 +1,6 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXTINF:10.0,
+#EXTINF:1,ERT1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=UjA4MTEkZDk3NTE2Y2Y1ODUzODQ2MTEyODM0Y2I5YmQ4Zjo3MjkxNmFhOWEwYTM0OWNiODI4YzM0NTAzMDg3NTI4
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=500000,RESOLUTION=640x360
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT1/drm/index.mpd
