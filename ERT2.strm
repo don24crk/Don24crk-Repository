@@ -1,5 +1,5 @@
 #EXTINF:-1,ERT2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d1c6dde5bf386fbd5be76f3af1d6fc75f7fbe9a79ad38f1b:736dbd7f9f5ce5c6bcdbadf6f76f3be9e777d3a71c775d74
+#KODIPROP:inputstream.adaptive.license_key={"0cbd5b84b71b52868db8dff76aea048b": "c229f59c5ca8263292876ed306ccd110"}
 https://ert-live.ascdn.broadpeak.io/bpk-tv/ERT2/drm/index.mpd
