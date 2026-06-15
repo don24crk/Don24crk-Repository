@@ -1,5 +1,5 @@
+#EXTINF:-1,ERT1
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:mimetype=application/mpd+xml
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key="8011d97516cf5853846112834cb9bd8f":"726916a29a0a349cb828c34503087528"
-https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERT1/drm/index.mpd
+#KODIPROP:inputstream.adaptive.drm_legacy.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8011d97516cf5853846112834cb9bd8f:726916a29a0a349cb828c34503087528
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT1/drm/index.mpd
