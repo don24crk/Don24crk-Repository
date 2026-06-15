@@ -1,5 +1,5 @@
 #EXTINF:-1,ERT1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"f34d7577def9d7a71fe7ce77f38eb5d76f37e1c6fd6ddf1f","k":"ef6ebdd7a6b6f5ad1adf8f5c6fcdbc737e39d37d3cef9dbc"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=f34d7577def9d7a71fe7ce77f38eb5d76f37e1c6fd6ddf1f:ef6ebdd7a6b6f5ad1adf8f5c6fcdbc737e39d37d3cef9dbc
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT1/drm/index.mpd
