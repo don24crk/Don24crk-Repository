@@ -1,2 +1,5 @@
 #EXTINF:-1,ERT1
-https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT1/drm/index.mpd|inputstream.adaptive.manifest_type=mpd&inputstream.adaptive.license_type=clearkey&inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"cmkWopoKNJy4KMNFAwh1KA","kid":"gBHZdRbPWFOEYRKDTLm9jw"}],"type":"temporary"}
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gBHZdRbPWFOEYRKDTLm9jw","k":"cmkWopoKNJy4KMNFAwh1KA"}],"type":"temporary"}
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT1/drm/index.mpd
