@@ -1,7 +1,7 @@
 #EXTM3U
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/mpd+xml
+#KODIPROP:mimetype=video/mp4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey=8011d97516cf5853846112834cb9bd8f:726916a29a0a349cb828c34503087528
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT1/drm/index.mpd
