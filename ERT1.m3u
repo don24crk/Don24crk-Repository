@@ -1,7 +1,6 @@
-clearKeys = {
-    "8011d97516cf5853846112834cb9bd8f": "726916a29a0a349cb828c34503087528"
-}
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=640x360
+#EXTINF1,ERT1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJlbmMiOiJBMTI4Q0JDLUhTMjU2IiwiYWxnIjoiZGlyIn0..SttMJAK8fLcAzLN5AlWlmw.YEsgemnELCT3nOw_Kp-zF0-oa66y3e7FKSpXaHBQcGIcAcqy_SsgcEpHcvpG2zIJGexD_sJ0_djZPuVsbHqpO-qofCfwscwI68r2pif06AY.iWLgJ1Qlbk-erPwpAe38DA
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT1/drm/index.mpd
