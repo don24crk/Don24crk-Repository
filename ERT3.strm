@@ -1,4 +1,6 @@
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1,ERT3
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:mimetype=application/mpd+xml
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERT3/drm/index.mpd
