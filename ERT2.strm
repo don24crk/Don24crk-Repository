@@ -1,5 +1,5 @@
 #EXTINF:-1,ERT2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|0cbd5b84b71b52868db8dff76aea048b:c229f59c5ca8263292876ed306ccd110
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT2/drm/index.mpd
