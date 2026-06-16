@@ -1,7 +1,0 @@
-#EXTM3U
-#EXTINF1,ERT1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=eyJlbmMiOiJBMTI4Q0JDLUhTMjU2IiwiYWxnIjoiZGlyIn0..SttMJAK8fLcAzLN5AlWlmw.YEsgemnELCT3nOw_Kp-zF0-oa66y3e7FKSpXaHBQcGIcAcqy_SsgcEpHcvpG2zIJGexD_sJ0_djZPuVsbHqpO-qofCfwscwI68r2pif06AY.iWLgJ1Qlbk-erPwpAe38DA
-https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT1/drm/index.mpd
