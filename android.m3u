@@ -1,14 +1,13 @@
 #EXTM3U url-tvg="https://ext.greektv.app/epg/epg.xml"
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert1" tvg-logo="https://i.imgur.com/oh9E9sK.png",ERT1 HD
-https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ERT1.strm|user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.7827.116 Mobile Safari/537.36
+https://01eb71ee94ba4a1caf54da0c74efefb4.msvdn.net/ept_ch1/ept_ch1/mainabr/playlist.m3u8|User-Agent=Mozilla%2F5.0%20%28Linux%3B%20Android%2010%3B%20K%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F149.0.7827.116%20Mobile%20Safari%2F537.36&Referer=https%3A%2F%2Fwww.greektv.live%2F
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert1" tvg-logo="https://i.imgur.com/oh9E9sK.png",ERT1 HD BUP
-https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ERT1.strm|user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.7827.116 Mobile Safari/537.36
+https://01eb71ee94ba4a1caf54da0c74efefb4.msvdn.net/ept_ch1/ept_ch1/mainabr/playlist.m3u8|User-Agent=Mozilla%2F5.0%20%28Linux%3B%20Android%2010%3B%20K%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F149.0.7827.116%20Mobile%20Safari%2F537.36&Referer=https%3A%2F%2Fwww.greektv.live%2F
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert1" tvg-logo="https://i.imgur.com/oh9E9sK.png",ERT1 HD BUP 2
-https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ERT1.strm|user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.7827.116 Mobile Safari/537.36
+https://01eb71ee94ba4a1caf54da0c74efefb4.msvdn.net/ept_ch1/ept_ch1/mainabr/playlist.m3u8|User-Agent=Mozilla%2F5.0%20%28Linux%3B%20Android%2010%3B%20K%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F149.0.7827.116%20Mobile%20Safari%2F537.36&Referer=https%3A%2F%2Fwww.greektv.live%2F
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert2" tvg-logo="https://i.imgur.com/ndZMSTX.png",ERT2 HD
-https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ERT2.strm|user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.7827.116 Mobile Safari/537.36
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert2" tvg-logo="https://i.imgur.com/ndZMSTX.png",ERT2 HD BUP
-https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ERT2.strm|user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.7827.116 Mobile Safari/537.36
+https://01eb71ee94ba4a1caf54da0c74efefb4.msvdn.net/ept_ch2/ept_ch2/mainabr/playlist.m3u8|User-Agent=Mozilla%2F5.0%20%28Linux%3B%20Android%2010%3B%20K%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F149.0.7827.116%20Mobile%20Safari%2F537.36&Referer=https%3A%2F%2Fwww.greektv.live%2F
+https://01eb71ee94ba4a1caf54da0c74efefb4.msvdn.net/ept_ch2/ept_ch2/mainabr/playlist.m3u8|User-Agent=Mozilla%2F5.0%20%28Linux%3B%20Android%2010%3B%20K%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F149.0.7827.116%20Mobile%20Safari%2F537.36&Referer=https%3A%2F%2Fwww.greektv.live%2F
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert3" tvg-logo="https://i.imgur.com/oKxPmQJ.png",ERT3 HD 
 https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERT3/default/index.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert3" tvg-logo="https://i.imgur.com/oKxPmQJ.png",ERT3 HD BUP
