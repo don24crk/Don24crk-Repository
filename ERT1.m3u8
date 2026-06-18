@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-VERSION:1
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-AACL-128",NAME="English",AUTOSELECT="YES",URI="https://01eb71ee94ba4a1caf54da0c74efefb4.msvdn.net/ept_ch1/ept_ch1/mainabr/ept_ch1/ch1_720b/audio.m3u8" best",CHANNELS="2"
+#EXT-X-STREAM-INF:BANDWIDTH=3138338,CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=25,AUDIO="audio"
+https://01eb71ee94ba4a1caf54da0c74efefb4.msvdn.net/ept_ch1/ept_ch1/mainabr/ept_ch1/ch1_720b/video.m3u8
