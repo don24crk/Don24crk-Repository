@@ -1,4 +1,2 @@
 #EXTINF:-1,akyvernito karavi i patrida mas Markos Seferlis (Part A)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:mimetype=video/mp4
-https://www.dailymotion.com/video/x99jzy2
+plugin://plugin.video.dailymotion_com/?url=%x99jzy2%&mode=playVideo
