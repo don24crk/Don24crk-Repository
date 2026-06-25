@@ -1,4 +1,2 @@
 #EXTINF:-1,O... Erastis!!! (1990) 
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp4
-https://www.dailymotion.com/video/x952s86
+plugin://plugin.video.dailymotion_com/?url=%x952s86%&mode=playVideo
