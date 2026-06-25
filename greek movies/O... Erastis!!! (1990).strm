@@ -1,5 +1,4 @@
 #EXTINF:-1,O... Erastis!!! (1990) 
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_mode=adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=video/mp4
 https://www.dailymotion.com/video/x952s86
