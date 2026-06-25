@@ -1,4 +1,2 @@
 #EXTINF:-1,Dettolmi kai Goiteia Part B
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:mimetype=video/mp4
-https://www.dailymotion.com/video/x8yo2dq
+plugin://plugin.video.dailymotion_com/?url=%x8yo2dq%&mode=playVideo
