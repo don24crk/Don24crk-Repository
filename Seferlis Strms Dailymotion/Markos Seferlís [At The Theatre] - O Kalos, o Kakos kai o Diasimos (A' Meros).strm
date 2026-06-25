@@ -1,4 +1,2 @@
 #EXTINF:-1,Markos Seferlís [At The Theatre] - O Kalos, o Kakos kai o Diasimos (A' Meros)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:mimetype=video/mp4
-https://www.dailymotion.com/video/x9cxy3k
+plugin://plugin.video.dailymotion_com/?url=%x9cxy3k%&mode=playVideo
