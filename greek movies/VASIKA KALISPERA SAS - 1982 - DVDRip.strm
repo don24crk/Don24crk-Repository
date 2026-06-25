@@ -1,4 +1,2 @@
 #EXTINF:-1,VASIKA KALISPERA SAS - 1982 - DVDRip
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp4
-https://www.dailymotion.com/video/x8e86xb
+plugin://plugin.video.dailymotion_com/?url=%x8e86xb%&mode=playVideo
