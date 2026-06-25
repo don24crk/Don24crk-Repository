@@ -1,4 +1,2 @@
 #EXTINF:-1,ZITEITAI SEF TIS KOMODIAS Markos Seferlis (Part B)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:mimetype=video/mp4
-https://www.dailymotion.com/video/x9adwzm
+plugin://plugin.video.dailymotion_com/?url=%x9adwzm%&mode=playVideo
