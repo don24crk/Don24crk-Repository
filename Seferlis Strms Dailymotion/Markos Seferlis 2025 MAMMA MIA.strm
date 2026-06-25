@@ -1,4 +1,2 @@
 #EXTINF:-1,Markos Seferlis 2025 MAMMA MIA
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:mimetype=video/mp4
-https://www.dailymotion.com/video/x8wqjb2
+plugin://plugin.video.dailymotion_com/?url=%x8wqjb2%&mode=playVideo
