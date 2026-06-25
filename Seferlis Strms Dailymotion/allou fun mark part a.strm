@@ -1,4 +1,2 @@
 #EXTINF:-1,allou fun mark part a
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:mimetype=video/mp4
-https://www.dailymotion.com/video/x8xkzoa
+plugin://plugin.video.dailymotion_com/?url=%x8xkzoa%&mode=playVideo
