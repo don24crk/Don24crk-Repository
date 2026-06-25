@@ -1,2 +1,5 @@
 #EXTINF:-1,O Tamtakos zei
-plugin://plugin.video.dailymotion_com/?url=%x8noruy%&mode=playVideo
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_mode=adaptive
+https://www.dailymotion.com/video/x8noruy
