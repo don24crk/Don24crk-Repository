@@ -1,4 +1,2 @@
 #EXTINF:-1,Enas Andras me Syneidisi - Nikos Xanthopoulos 1969 Part B
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp4
-https://www.dailymotion.com/video/x8myh3v
+plugin://plugin.video.dailymotion_com/?url=%x8myh3v%&mode=playVideo
