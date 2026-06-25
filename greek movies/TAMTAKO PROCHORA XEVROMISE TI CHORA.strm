@@ -1,4 +1,2 @@
 #EXTINF:-1,TAMTAKO PROCHORA XEVROMISE TI CHORA
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp4
-https://www.dailymotion.com/video/x8n5dwz
+plugin://plugin.video.dailymotion_com/?url=%x8n5dwz%&mode=playVideo
