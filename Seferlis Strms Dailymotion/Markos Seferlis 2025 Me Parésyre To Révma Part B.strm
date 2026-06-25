@@ -1,4 +1,2 @@
 #EXTINF:-1,Markos Seferlis 2025 Me Paresyre To Revma (Part B)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:mimetype=video/mp4
-https://www.dailymotion.com/video/x8ulm0a
+plugin://plugin.video.dailymotion_com/?url=%x8ulm0a%&mode=playVideo
