@@ -1,4 +1,2 @@
 #EXTINF:-1,Stathis Psaltis - Kleftroni ke tsentelman
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp4
-https://www.dailymotion.com/video/x8mpynh
+plugin://plugin.video.dailymotion_com/?url=%x8mpynh%&mode=playVideo
