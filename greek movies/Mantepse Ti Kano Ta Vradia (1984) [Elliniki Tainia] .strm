@@ -1,4 +1,2 @@
 #EXTINF:-1,Mantepse Ti Kano Ta Vradia (1984) [Elliniki Tainia] 
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp4
-https://www.dailymotion.com/video/x8ms2t5
+plugin://plugin.video.dailymotion_com/?url=%x8ms2t5%&mode=playVideo
