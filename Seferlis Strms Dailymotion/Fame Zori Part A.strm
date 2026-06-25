@@ -1,4 +1,2 @@
 #EXTINF:-1,Fame Zori Part 
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:mimetype=video/mp4
-https://www.dailymotion.com/video/xa1i7p6
+plugin://plugin.video.dailymotion_com/?url=%xa1i7p6%&mode=playVideo
