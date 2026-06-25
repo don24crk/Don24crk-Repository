@@ -1,4 +1,2 @@
 #EXTINF:-1,Peter Panic Part C
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:mimetype=video/mp4
-https://www.dailymotion.com/video/x92ldbw
+plugin://plugin.video.dailymotion_com/?url=%x92ldbw%&mode=playVideo
