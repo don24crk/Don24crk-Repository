@@ -1,4 +1,2 @@
 #EXTINF:-1,50 αποχρώσεις του Greece part 1
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:mimetype=video/mp4
-https://www.dailymotion.com/video/x7v7jmb
+plugin://plugin.video.dailymotion_com/?url=%x7v7jmb%&mode=playVideo
