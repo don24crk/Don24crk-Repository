@@ -1,2 +1,5 @@
 #EXTINF:-1,Praktor 00 lefta
-plugin://plugin.video.dailymotion_com/?url=%x8guiwf%&mode=playVideo
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_mode=adaptive
+https://www.dailymotion.com/video/x8guiwf
