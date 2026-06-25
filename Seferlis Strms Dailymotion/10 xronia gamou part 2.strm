@@ -1,4 +1,2 @@
 #EXTINF:-1,10 xronia gamou part 2
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:mimetype=video/mp4
-https://www.dailymotion.com/video/x95buew
+plugin://plugin.video.dailymotion_com/?url=%x95buew%&mode=playVideo
