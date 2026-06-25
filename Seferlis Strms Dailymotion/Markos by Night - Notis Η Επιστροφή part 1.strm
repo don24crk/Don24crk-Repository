@@ -1,4 +1,2 @@
 #EXTINF:-1,Markos by Night - Notis Η Επιστροφή part 1
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:mimetype=video/mp4
-https://www.dailymotion.com/video/xa20sys
+plugin://plugin.video.dailymotion_com/?url=%xa20sys%&mode=playVideo
