@@ -1,4 +1,4 @@
 #EXTINF:-1,ΧΑΛΒΑΗ 5-0 (2020) 720p HDTV
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mp4
-https://www.dailymotion.com/video/x8mpynk
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://vod3.cf.dmcdn.net/sec2(7vOoncxU9p5mccQCAhNmDCpuz-nwVmrqEMxHJAlbEnGWfmQW7nZa9CZ27k1HWaad2BhyNAUZS3mBMQWd5ORmLo8bMIbdGhE0kB9lwp24YXnU4nMOsK5VKLSH8-FxgS9CkhpbarYqWAPjM7szDhxLtavs7D-MTpz64mi-UrfWj1Fn56ni6TTz8BPBkg7_n-j9)/video/272/298/521892272_mp4_h264_aac_hd_6.m3u8#cell=cf3
