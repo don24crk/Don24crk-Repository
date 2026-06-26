@@ -1,4 +1,4 @@
 #EXTINF:-1,Markos by Night - Notis Η Επιστροφή part 2
 #KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:inputstream.ffmpegdirect.mime_type=video/mp4
+#KODIPROP:inputstream.ffmpegdirect.mime_type=video/x-mpegURL
 https://www.dailymotion.com/video/xa20syu
