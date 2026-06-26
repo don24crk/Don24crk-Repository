@@ -1,4 +1,5 @@
 #EXTINF:-1,10 xronia gamou part 2
 #KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.7827.199 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://vod3.cf.dmcdn.net/sec2(lRlPw0jrEbg5tXCYX5-tIjr2VDTqv5dEMy9hep80Jvo55AJ2c6004W1bjj648ozsymtx4vPbThRnzDPwXrIIlKUnnvMvJmTOk5KFJg3VXF1I1udNfxhZo8UlYisrTgQcTb1_u1xJgYYObGFUJZnIeQhvVYm8qQlUFxrHFjCdLRZd8uLXvqtH6nRLxgsVOrnZ)/video/692/641/553146296_mp4_h264_aac_fhd_2.m3u8#cell=cf3
+https://www.dailymotion.com/video/x95buew
