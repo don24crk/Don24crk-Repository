@@ -1,4 +1,5 @@
 #EXTINF:-1,50 αποχρώσεις του Greece part 1
 #KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.7827.199 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://vod3.cf.dmcdn.net/sec2(Ia2J7AYOyd3bWUTCZatkpR2fCFQqCpdziLgSXbG2ZYs5mk-KuLAnr2--DbHkDFtijQbzhtmEevaklaKRLkB_k40hPv8w4ef2_yCJLLmvr5xbbgyzo_So4nEBJvYCpB9uvhEbkP_PIPSqu1c3rGeO-dgMSUDfkb7m-xr5uG9mGr0)/video/743/386/475683347_mp4_h264_aac_hq.m3u8#cell=cf3
+plugin://plugin.video.dailymotion_com/?url=x8g1gzn&mode=playVideo
