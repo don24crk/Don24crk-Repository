@@ -1,4 +1,3 @@
 #EXTINF:-1,Markos by Night - Notis Η Επιστροφή part 2
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://vod3.cf.dmcdn.net/sec2(kuInF9QqMd7s0g8VQupmgE1Mbr4p-nqRCIJE8aHNgPnhvsYKekdXYEUdFw36wF3ytrkF5fWa7FJBzcMVN6VfaNxEXDTdfgr4_2pFafftibggk0JTykHqdEcRPbfJyAz34zyVaIQDUfEInGyeoKu4wXEjyjE4zIwmiqcv3Y9pJVv9GuqL3EcLQRTTqzEwzim6TOjemTWpWeEIQkcYQt7tBw)/video/fmp4/608058534/av1_aac_fhd/4/manifest.m3u8#cell=cf3
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+https://www.dailymotion.com/video/xa20syu
