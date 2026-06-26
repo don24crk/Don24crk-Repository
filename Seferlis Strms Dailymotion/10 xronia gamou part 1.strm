@@ -1,4 +1,5 @@
 #EXTINF:-1,10 xronia gamou part 1
 #KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.7827.199 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://vod3.cf.dmcdn.net/sec2(wZPmLkZ4LQG_rp-B2gEh26R4onQJzwNIf1R9qYYsG2FYWifM9Lycsnm5y7tpwz9_jfJBkXR_e6Wo7_Ni7EqyExfDehx_nycK6qUTFCfoM06aRYMf7nen2tNZPgN9z_ooAnWhbmhdo7g-q53K9Xr6Hs8lY0rptszBHwufY5XLSI16dPhENsKwCV2vuzKAXH2T)/video/892/641/553146298_mp4_h264_aac_fhd_2.m3u8#cell=cf3
+https://vod3.cf.dmcdn.net/sec2(w80Dwf78HlGORW_GwINNFelpBSIfTBlrW-aUerpMHNqrBDGJU679qFhYMtbVsVCgfInUJC-ydXED6KvUkF8oczoEMmptlyd1fKtHdqIqU3SuTauhv7gHg_TXniuyZEsgLkyDAW7Oa8eeuuEASPRD5N4Z3Ubdr3teOlvjp93V4buVJojAj7irRmdCsUp2bvEA)/video/892/641/553146298_mp4_h264_aac_fhd_2.m3u8#cell=cf3
