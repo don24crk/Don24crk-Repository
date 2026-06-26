@@ -1,31 +1,5 @@
 #EXTINF:-1,MEGAGR
-import requests
-
-url = "https://static.cloudflareinsights.com/beacon.min.js/v833ccba57c9e4d2798f2e76cebdd09a11778172276447"
-headers = {
-    "Integrity": "sha512-57MDmcccJXYtNnH+ZiBwzC4jb2rvgVCEokYN+L/nLlmO8rfYT/gIpW2A569iJ/3b+0UEasghjuZH/ma3wIs/EQ==",
-    "Crossorigin": "anonymous"
-}
-params = {
-    "version": "2024.11.0",
-    "token": "1ae7aeaeb5134f8eb5fd11f2cf134e2c",
-    "r": 1,
-    "server_timing": {
-        "name": {
-            "cfCacheStatus": True,
-            "cfEdge": True,
-            "cfExtPri": True,
-            "cfL4": True,
-            "cfOrigin": True,
-            "cfSpeedBrain": True
-        },
-        "location_startswith": None
-    }
-}
-
-response = requests.get(url, headers=headers)
-script_content = response.text
-
-print(script_content)
-
-https://spark3.smart-tv-data.com/megaHD/megaHD/manifest.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.7827.199 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+ttps://s2.cystream.net/live/megagr/chunks.m3u8?nimblesessionid=40285266&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNi8yMDI2IDg6NDU6MTYgUE0maGFzaF92YWx1ZT1QSXBTeloyd3ovT3lTMFpxN00yWExBPT0mdmFsaWRtaW51dGVzPTIw
