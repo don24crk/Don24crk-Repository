@@ -1,4 +1,5 @@
 #EXTINF:-1,Markos by Night - Notis Η Επιστροφή part 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://geo.dailymotion.com/player.html?video=xa20syu
+https://www.dailymotion.com/video/xa20syu
