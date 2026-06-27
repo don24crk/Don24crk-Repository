@@ -1,4 +1,5 @@
 #EXTINF:-1,TAMTAKOS O MARANTONA TIS AGIAS VARVARAS
 #KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.7827.199 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://vod3.cf.dmcdn.net/sec2(qVxaJIJPP2CrFo9pub8kWN8dxMLVB57Wk4g_lK2Ji0evGIMcTE4dj74gpdMrJ4ztNYn6s-TBzEXDjBN0VB2furz5gbcHMbZVhHTBPLoZMVzKPrqOge9mfcjD7BP6n4KMGI5_IO1p_3QSFIRYl7UOhvJUWHCWeeKRexGBuySfb0Pw36r1aATx7jpPKcso9OT4)/video/733/554/522455337_mp4_h264_aac_hq_5.m3u8#cell=cf3
+plugin://plugin.video.dailymotion_com/?url=x8n2149&mode=playVideo
