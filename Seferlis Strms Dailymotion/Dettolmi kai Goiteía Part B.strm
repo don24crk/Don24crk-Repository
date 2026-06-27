@@ -1,4 +1,5 @@
 #EXTINF:-1,Dettolmi kai Goiteia Part B
 #KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.7827.199 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://vod3.cf.dmcdn.net/sec2(-cxvazj2NQUflBOWDw42f6IYTxmAHgkdNovzGzaWI5bojFqQ0VqQOWc5am8lPYiO_bQQKNmZiGJnBdLNdk6Z8T4iug14CCXbnTTVXEz_OESK-X7QHrltty1Xan0LVsSv2Eodhrwb48sYXvM6eKLhiAKBj_hP9U2VefQY5MC7mCOAo7YTeYjlTHTbcyn__wuV)/video/281/959/541959182_mp4_h264_aac_hd_2.m3u8#cell=cf3
+plugin://plugin.video.dailymotion_com/?url=x8yo2dq&mode=playVideo
