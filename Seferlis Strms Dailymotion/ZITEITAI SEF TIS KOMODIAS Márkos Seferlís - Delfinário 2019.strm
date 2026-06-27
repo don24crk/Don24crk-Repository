@@ -1,4 +1,5 @@
 #EXTINF:-1,ZITEITAI SEF TIS KOMODIAS Markos Seferlis (Part A)
 #KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.7827.199 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://vod3.cf.dmcdn.net/sec2(o31EaWEl_GKiKe4D_p5X4NlzjA3LUknzufjZe4bHPyH95Wu_Usr9tzhEV5Ys3b1oK3GpSWp99UWDUGoKzxlvPhWWiXwN3qpqUq74TADSiwISZdemhHYg0YJZNLgZcVPl3DFLoyF_3hjAybUbtKOHRy5H0tDABnEqbjogk5wS1j_XXYhY3PeyQMED3dH70m-u)/video/820/146/561641028_mp4_h264_aac_hd_2.m3u8#cell=cf3
+plugin://plugin.video.dailymotion_com/?url=x9adwzo&mode=playVideo
