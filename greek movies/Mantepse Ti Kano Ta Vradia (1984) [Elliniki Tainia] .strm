@@ -1,4 +1,5 @@
 #EXTINF:-1,Mantepse Ti Kano Ta Vradia (1984) [Elliniki Tainia] 
 #KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.7827.199 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://vod3.cf.dmcdn.net/sec2(1qzCniwhTxZDABzApfhRdCrKXdxejpCh2fxeq5CRlAROgIx2xrJapxHF0UqfsII32pXCCBenvJ6-jgtnGlE_FDj0U0qVX2mxx_MX8Y191pqbAe6103yh_ffwxEEHTPjrPNAVtgJB_Vo1zpb1sCcCW2OhgkAorqVmj5MKt9hPrXNQLChecui7OHLrjRYO2kdg)/video/969/099/521990969_mp4_h264_aac_hd_6.m3u8#cell=cf3
+plugin://plugin.video.dailymotion_com/?url=x8ms2t5&mode=playVideo
