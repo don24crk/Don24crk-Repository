@@ -1,4 +1,5 @@
 #EXTINF:-1,O Tamtakos zei
 #KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.7827.199 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://vod3.cf.dmcdn.net/sec2(FxWAVlVgBQ3YD-oZ3yvvmrNdl4EDCkr30LZo9UDfDP2-UmlszZPtK-lsSsTWtoO--8xG3TRn34Nvo48LYatDVWuPkNLHOmy2bI8SrnEmLUYTiF_kkm0jk1zeRhpcFNBpnle7qnnCKf7EzjbWeK7ebeOV0k1n-0swRLWGc2dELduXwLBG5HOoh2UHQvSSRRCf)/video/624/615/523516426_mp4_h264_aac_hq_7.m3u8#cell=cf3
+plugin://plugin.video.dailymotion_com/?url=x8noruy&mode=playVideo
