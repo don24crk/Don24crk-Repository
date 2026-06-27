@@ -2,4 +2,4 @@
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.7827.199 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://vod3.cf.dmcdn.net/sec2(w80Dwf78HlGORW_GwINNFelpBSIfTBlrW-aUerpMHNqrBDGJU679qFhYMtbVsVCgfInUJC-ydXED6KvUkF8oczoEMmptlyd1fKtHdqIqU3SuTauhv7gHg_TXniuyZEsgLkyDAW7Oa8eeuuEASPRD5N4Z3Ubdr3teOlvjp93V4buVJojAj7irRmdCsUp2bvEA)/video/892/641/553146298_mp4_h264_aac_fhd_2.m3u8#cell=cf3
+plugin://plugin.video.dailymotion_com/?url=x95buey&mode=playVideo
