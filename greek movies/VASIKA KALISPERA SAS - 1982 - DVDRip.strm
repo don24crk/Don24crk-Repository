@@ -1,4 +1,5 @@
 #EXTINF:-1,VASIKA KALISPERA SAS - 1982 - DVDRip
 #KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.7827.199 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://vod3.cf.dmcdn.net/sec2(q1gvxTo8-9J332_jPacnXin-SGJEIqHZ_a9YL6Tjl7DzB3bb-ozPe8SNvnVur-_M0qD6ZAfR87Vets3F7SXGWoVhAQ3DHlG2989UmZLD0yd5I5V2HymJA1RegFoDpMomzeoKz-hx8OS1amDK93JCkmcn3xH5-Z_ZY_raW67NuC0)/video/552/626/507626255_mp4_h264_aac_hq.m3u8#cell=cf3
+plugin://plugin.video.dailymotion_com/?url=x8pxbw1&mode=playVideo
