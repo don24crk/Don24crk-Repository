@@ -1,4 +1,5 @@
 #EXTINF:-1,TAMTAKO PROCHORA XEVROMISE TI CHORA
 #KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.7827.199 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://vod3.cf.dmcdn.net/sec2(0s5B2S8AWpTvDDuW8YAo0m3VmklDqQmeyPUcMzBML7UzvvSsyYxhXK0uJTNiIAQJCYPiikW-LJW6d0LvAiLmpqjeE_ygx-WSvAewOcPJwMjn5WucYkTtv2kRsa09u-4cHp7TRBbP3fhy4XZ9OOcLFB5obqShzUCn5WsD9w80yOV_0JzCm-HLmiJcqRreMlbA)/video/198/116/522611891_mp4_h264_aac_hq_5.m3u8#cell=cf3
+plugin://plugin.video.dailymotion_com/?url=x8n5dwz&mode=playVideo
