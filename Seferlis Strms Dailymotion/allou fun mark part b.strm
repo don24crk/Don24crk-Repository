@@ -1,4 +1,5 @@
 #EXTINF:-1,allou fun mark part b
 #KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.7827.199 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://vod3.cf.dmcdn.net/sec2(ioM6GI4MY1CMBU0F_3ZhcqPkxb9tgQr33OXTWhLmVawg4x_EuKRR3Vs76J84E8lQO25iuYUdmFkIAvcdgKwLBsBHZI27AxJi4OEMSSev3BxlalmD9MmekyvS9pFVkHJZhakV8eJ2q6WbR-AY1xJU8tV-McVtICU6jG5F-GhACCAYtel5hnzzZkZl2Ca0UTHp)/video/290/631/540136092_mp4_h264_aac_hd_8.m3u8#cell=cf3
+plugin://plugin.video.dailymotion_com/?url=x8xkzoc&mode=playVideo
