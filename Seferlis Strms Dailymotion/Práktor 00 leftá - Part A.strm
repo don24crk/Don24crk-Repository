@@ -1,4 +1,5 @@
 #EXTINF:-1,Praktor 00 lefta
 #KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.7827.199 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://vod3.cf.dmcdn.net/sec2(Lqmo-HCW0TnQwVOdsQjCAMs3o1dSDRb2B8nqBlCcaU277V9jiKyANLbM3OttWWxQFXTyGagwyIHLbT7rS-S_ZHlO8WZGhUwGoqMPKH-qWgtiKzB9ue-PK1Nch_q99JUrQFzr7ydb-FtRfh9dytSXNn0JoSRs2kz6PSEedk33XlxiwUzwgi_nt55WAMn4OFun)/video/934/720/512027439_mp4_h264_aac_fhd_hfr.m3u8#cell=cf3
+plugin://plugin.video.dailymotion_com/?url=x8guiwf&mode=playVideo
