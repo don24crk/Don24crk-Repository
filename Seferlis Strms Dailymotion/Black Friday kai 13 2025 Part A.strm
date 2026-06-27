@@ -1,4 +1,5 @@
 #EXTINF:-1,Black Friday kai 13 2025 Part A
 #KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.7827.199 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://vod3.cf.dmcdn.net/sec2(pEBECIGnHzkCaDAhBFfvUdcBdecePhMtbFv6cFUnGVlOuMTiSgQCwRkkRsYsSqO12VNi3Xd_HwSVlwQW3cV7w83qMu2GflFObEOGQpxapF1SLgMJl26EMXEzBZDeUnUhvcu0c084hUdsq4gJcYqdbUd5DrepS4wzirr8q0r2FL2iGk-tXZgSIaFXa20hM4Gv)/video/297/760/544067792_mp4_h264_aac_hd_2.m3u8#cell=cf3
+plugin://plugin.video.dailymotion_com/?url=x8zx9e8&mode=playVideo
