@@ -1,5 +1,5 @@
 #EXTINF:-1,MEGAGR
 #KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:inputstream.ffmpegdirect.mime_type=x-flv
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 10; Google Pixel 4 Build/QQ3A.200805.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.127 Mobile Safari/537.36
-http://127.0.0.1:50199/mega.flv?ws=d3NzOi8vYW1zNC1lZGdlLTAzLmNkbi52aW5kcmFsLmNvbS9zdWJzY3JpYmU_Y2hhbm5lbElkPWFsdGVyZWdvbWVkaWFfbWVnYXR2MV9jaV82Y2M0OTBjNy1lNWM2LTQ4NmItYWNmMC05YmI5YzIwZmE2NzAmYXVkaW8uY29kZWM9YWFjJmF1ZGlvLmJpdFJhdGU9MTI4MDAwJnZpZGVvLmNvZGVjPWgyNjQmdmlkZW8ud2lkdGg9MTI4MCZ2aWRlby5oZWlnaHQ9NzIwJnZpZGVvLmJpdFJhdGU9MzAwMDAwMCZidXJzdE1zPTIwMDA=
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 10; Google Pixel 4 Build/QQ3A.200805.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.127 Mobile Safari/537.36
+https://s2.cystream.net/live/megagr/chunks.m3u8?nimblesessionid=40481618&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yLzIwMjYgMzoyNjoxNiBQTSZoYXNoX3ZhbHVlPXlVV1NZQS9LSS8zYUl6aTlLbkpZRXc9PSZ2YWxpZG1pbnV0ZXM9MjA=
