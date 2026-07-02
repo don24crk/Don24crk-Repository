@@ -1,5 +1,5 @@
 #EXTINF:-1,MEGATV
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mp4
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|testkey
-https://spark3.smart-tv-data.com/megaHD/megaHD/manifest.mpd
+https://spark3.smart-tv-data.com/megaHD/megaHD/manifest.mpd?nimblesessionid=6116748
