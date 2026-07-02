@@ -1,5 +1,6 @@
 #EXTINF:-1,MEGATV
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mp4
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|testkey
-https://spark3.smart-tv-data.com/megaHD/megaHD/manifest.mpd?nimblesessionid=6116748
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 10; Google Pixel 4 Build/QQ3A.200805.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.127 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=widevine
+https://s2.cystream.net/live/megagr/chunks.m3u8?nimblesessionid=40485010&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yLzIwMjYgNToxOToxMSBQTSZoYXNoX3ZhbHVlPXZqQWpmWFNSNkVxbSt3cmFYRU5Td2c9PSZ2YWxpZG1pbnV0ZXM9MjA=
