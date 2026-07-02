@@ -1,6 +1,5 @@
 #EXTINF:-1,MEGAGR
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 10; Google Pixel 4 Build/QQ3A.200805.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.127 Mobile Safari/537.36
 https://s2.cystream.net/live/megagr/chunks.m3u8?nimblesessionid=40481618&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yLzIwMjYgMzoyNjoxNiBQTSZoYXNoX3ZhbHVlPXlVV1NZQS9LSS8zYUl6aTlLbkpZRXc9PSZ2YWxpZG1pbnV0ZXM9MjA=
