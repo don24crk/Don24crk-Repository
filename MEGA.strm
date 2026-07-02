@@ -1,5 +1,5 @@
-#EXTINF:-1,MEGAGR
+#EXTINF:-1,ERT1
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 10; Google Pixel 4 Build/QQ3A.200805.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.127 Mobile Safari/537.36
-https://lakatamia.tv/app/chans/gr/mega.php
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|edef8ba979d64acea3c827dcd51d21ed:9a04f07998404286ab92e65be0885f95
+https://spark3.smart-tv-data.com/megaHD/megaHD/manifest.mpd?nimblesessionid=6116748
