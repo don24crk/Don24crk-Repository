@@ -22,9 +22,9 @@ https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ERTCOSMOS" tvg-logo="https://hephaestuswien.com/wp-content/uploads/2026/05/ERT-COSMOS-1000-%CF%87-563.png",ERTCOSMOS BUP
 https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ERTWORLD%20BUP.strm
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="mega" tvg-logo="https://i.imgur.com/HIcqDaY.png",MEGA HD
-https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/MEGA.m3u8
+http://127.0.0.1:50199/mega.flv?ws=d3NzOi8vbHV4MS1lZGdlLTAxLmNkbi52aW5kcmFsLmNvbS9zdWJzY3JpYmU_Y2hhbm5lbElkPWFsdGVyZWdvbWVkaWFfbWVnYXR2MV9jaV82Y2M0OTBjNy1lNWM2LTQ4NmItYWNmMC05YmI5YzIwZmE2NzAmYXVkaW8uY29kZWM9YWFjJmF1ZGlvLmJpdFJhdGU9MTI4MDAwJnZpZGVvLmNvZGVjPWgyNjQmdmlkZW8ud2lkdGg9MTI4MCZ2aWRlby5oZWlnaHQ9NzIwJnZpZGVvLmJpdFJhdGU9MzAwMDAwMCZidXJzdE1zPTIwMDA=&origin=https%3A//www.megatv.com
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="mega" tvg-logo="https://i.imgur.com/HIcqDaY.png",MEGA HD BUP
-https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/MEGA.m3u8
+http://127.0.0.1:50199/mega.flv?ws=d3NzOi8vbHV4MS1lZGdlLTAxLmNkbi52aW5kcmFsLmNvbS9zdWJzY3JpYmU_Y2hhbm5lbElkPWFsdGVyZWdvbWVkaWFfbWVnYXR2MV9jaV82Y2M0OTBjNy1lNWM2LTQ4NmItYWNmMC05YmI5YzIwZmE2NzAmYXVkaW8uY29kZWM9YWFjJmF1ZGlvLmJpdFJhdGU9MTI4MDAwJnZpZGVvLmNvZGVjPWgyNjQmdmlkZW8ud2lkdGg9MTI4MCZ2aWRlby5oZWlnaHQ9NzIwJnZpZGVvLmJpdFJhdGU9MzAwMDAwMCZidXJzdE1zPTIwMDA=&origin=https%3A//www.megatv.com
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ant1" tvg-logo="https://i.imgur.com/GTFFtOR.png",ANT1 HD
 https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ANT1.strm
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ant1" tvg-logo="https://i.imgur.com/GTFFtOR.png",ANT1 HD BUP
