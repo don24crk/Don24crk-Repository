@@ -1,5 +1,0 @@
-#EXTM3U
-#EXTINF:-1,MEGAGR
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:inputstream.ffmpegdirect.mime_type=video/x-flv
-http://127.0.0.1:50199/mega.flv?ws=d3NzOi8vYW1zNC1lZGdlLTAzLmNkbi52aW5kcmFsLmNvbS9zdWJzY3JpYmU_Y2hhbm5lbElkPWFsdGVyZWdvbWVkaWFfbWVnYXR2MV9jaV82Y2M0OTBjNy1lNWM2LTQ4NmItYWNmMC05YmI5YzIwZmE2NzAmYXVkaW8uY29kZWM9YWFjJmF1ZGlvLmJpdFJhdGU9MTI4MDAwJnZpZGVvLmNvZGVjPWgyNjQmdmlkZW8ud2lkdGg9MTI4MCZ2aWRlby5oZWlnaHQ9NzIwJnZpZGVvLmJpdFJhdGU9MzAwMDAwMCZidXJzdE1zPTIwMDA=&origin=https%3A//www.megatv.com
