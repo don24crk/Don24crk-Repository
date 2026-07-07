@@ -60,9 +60,9 @@ https://livestar.siliconweb.com/media/star4/star4newhd.m3u8
 #EXTINF:01,STAR INTERNATIONAL 
 https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8 
 #EXTINF:01,MEGA 
-https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/MEGAGR.strm
+http://127.0.0.1:50199/mega.flv?ws=d3NzOi8vbHV4MS1lZGdlLTAxLmNkbi52aW5kcmFsLmNvbS9zdWJzY3JpYmU_Y2hhbm5lbElkPWFsdGVyZWdvbWVkaWFfbWVnYXR2MV9jaV82Y2M0OTBjNy1lNWM2LTQ4NmItYWNmMC05YmI5YzIwZmE2NzAmYXVkaW8uY29kZWM9YWFjJmF1ZGlvLmJpdFJhdGU9MTI4MDAwJnZpZGVvLmNvZGVjPWgyNjQmdmlkZW8ud2lkdGg9MTI4MCZ2aWRlby5oZWlnaHQ9NzIwJnZpZGVvLmJpdFJhdGU9MzAwMDAwMCZidXJzdE1zPTIwMDA=&origin=https%3A//www.megatv.com
 #EXTINF:01,MEGA BUP 
-https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/MEGAGR.strm
+http://127.0.0.1:50199/mega.flv?ws=d3NzOi8vbHV4MS1lZGdlLTAxLmNkbi52aW5kcmFsLmNvbS9zdWJzY3JpYmU_Y2hhbm5lbElkPWFsdGVyZWdvbWVkaWFfbWVnYXR2MV9jaV82Y2M0OTBjNy1lNWM2LTQ4NmItYWNmMC05YmI5YzIwZmE2NzAmYXVkaW8uY29kZWM9YWFjJmF1ZGlvLmJpdFJhdGU9MTI4MDAwJnZpZGVvLmNvZGVjPWgyNjQmdmlkZW8ud2lkdGg9MTI4MCZ2aWRlby5oZWlnaHQ9NzIwJnZpZGVvLmJpdFJhdGU9MzAwMDAwMCZidXJzdE1zPTIwMDA=&origin=https%3A//www.megatv.com
 #EXTINF:01,MEGANEWS 
 https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S99841657/NU0xOarAMJ5X/chunklist_b3200000.m3u8
 #EXTINF:01,OMEGA 
