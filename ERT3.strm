@@ -1,4 +1,4 @@
 #EXTINF:-1,ERT3
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 https://ert-live.ascdn.broadpeak.io/bpk-tv/ERT3/default/index.m3u8
