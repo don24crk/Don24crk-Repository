@@ -1,5 +1,4 @@
 #EXTINF:-1,ERT3
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|074F980584505CD08290A4793E9D898F:393731373837303738353636383430336533360a
-https://ert-live.siliconweb.com/bpk-tv/ERT3/drm/index.mpd
+https://ert-live.ascdn.broadpeak.io/bpk-tv/ERT3/default/index.m3u8
