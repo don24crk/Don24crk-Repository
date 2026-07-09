@@ -1,0 +1,5 @@
+#EXTINF:-1,ALPHATV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_params=token=https://anacon.org
+https://s2.cystream.net/live/alphagr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny85LzIwMjYgMzozNzoyOCBQTSZoYXNoX3ZhbHVlPUh3ejRGNkR2ejdjTHRkTmFacm45VFE9PSZ2YWxpZG1pbnV0ZXM9MjA=
