@@ -1,0 +1,103 @@
+#EXTM3U
+#EXTINF:01,ERT1 
+https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ERT1.strm 
+#EXTINF:01,ERT2 
+https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ERT2.strm 
+#EXTINF:01,ERT3
+https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERT3/default/index.m3u8 
+#EXTINF:01,ERT1 BUP 
+https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ERT1.strm 
+#EXTINF:01,ERT2 BUP 
+https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ERT2.strm 
+#EXTINF:01,ERT2 BUP 2 
+https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ERT2.strm 
+#EXTINF:01,ERT3 BUP 
+https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERT3/default/index.m3u8
+#EXTINF:01,ERT3 BUP 2 
+https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERT3/default/ERT3-audio_208000_gre=206000-video=6176000.m3u8 
+#EXTINF:01,ERTCOSMOS 
+https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ERTWORLD%20BUP.strm 
+#EXTINF:01,ERTCOSMOS BUP 
+https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ERTWORLD%20BUP.strm 
+#EXTINF:01,ERTNEWS 
+https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ERTNEWS%20BUP.strm 
+#EXTINF:01,ERTNEWS BUP 
+https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ERTNEWS%20BUP.strm 
+#EXTINF:01,ERT KIDS 
+https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ERTKIDS.strm 
+#EXTINF:01,ERT KIDS BUP 
+https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ERTKIDS.strm 
+#EXTINF:01,ANT1 
+https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ANT1.strm 
+#EXTINF:01,ANT1 BUP 
+https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ANT1.strm 
+#EXTINF:01,ANT1 DRAMA 
+https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ANT1%20DRAMA.strm 
+#EXTINF:01,ANT1 COMEDY 
+https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ANT1%20COMEDY.strm 
+#EXTINF:01,REAL MUSIC TV 
+https://webtv.topwebhost.gr:3302/stream/play.m3u8 
+#EXTINF:01,MAKTV 
+https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/MAKTV.strm 
+#EXTINF:01,MAKTV BUP 
+https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/MAKTV.strm 
+#EXTINF:01,ALPHA TV 
+https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/alphatvlive/live_source/playlist.m3u8 
+#EXTINF:01,ALPHA TV BUP 
+https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/alphatvlive/live_source/chunks.m3u8 
+#EXTINF:01,OPEN TV 
+https://liveopen.siliconweb.com/openTvLive/liveopen/playlist.m3u8 
+#EXTINF:01,OPEN TV BUP 
+https://liveopen.siliconweb.com/openTvLive/liveopen/chunks.m3u8 
+#EXTINF:01,SKAI TV 
+https://skai-live.siliconweb.com/media/cambria4/index_media_bitrate2000K_avc1_mp4a.m3u8 
+#EXTINF:01,SKAI TV BUP 
+https://skai-live.siliconweb.com/media/cambria4/index_media_bitrate2000K_avc1_mp4a.m3u8 
+#EXTINF:01,STAR TV 
+https://livestar.siliconweb.com/media/star4/star4newhd.m3u8 
+#EXTINF:01,STAR TV BUP 
+https://livestar.siliconweb.com/media/star4/star4newhd.m3u8 
+#EXTINF:01,STAR INTERNATIONAL 
+https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8 
+#EXTINF:01,MEGA 
+http://127.0.0.1:50199/mega.flv?ws=d3NzOi8vbHV4MS1lZGdlLTAxLmNkbi52aW5kcmFsLmNvbS9zdWJzY3JpYmU_Y2hhbm5lbElkPWFsdGVyZWdvbWVkaWFfbWVnYXR2MV9jaV82Y2M0OTBjNy1lNWM2LTQ4NmItYWNmMC05YmI5YzIwZmE2NzAmYXVkaW8uY29kZWM9YWFjJmF1ZGlvLmJpdFJhdGU9MTI4MDAwJnZpZGVvLmNvZGVjPWgyNjQmdmlkZW8ud2lkdGg9MTI4MCZ2aWRlby5oZWlnaHQ9NzIwJnZpZGVvLmJpdFJhdGU9MzAwMDAwMCZidXJzdE1zPTIwMDA=&origin=https%3A//www.megatv.com
+#EXTINF:01,MEGA BUP 
+http://127.0.0.1:50199/mega.flv?ws=d3NzOi8vbHV4MS1lZGdlLTAxLmNkbi52aW5kcmFsLmNvbS9zdWJzY3JpYmU_Y2hhbm5lbElkPWFsdGVyZWdvbWVkaWFfbWVnYXR2MV9jaV82Y2M0OTBjNy1lNWM2LTQ4NmItYWNmMC05YmI5YzIwZmE2NzAmYXVkaW8uY29kZWM9YWFjJmF1ZGlvLmJpdFJhdGU9MTI4MDAwJnZpZGVvLmNvZGVjPWgyNjQmdmlkZW8ud2lkdGg9MTI4MCZ2aWRlby5oZWlnaHQ9NzIwJnZpZGVvLmJpdFJhdGU9MzAwMDAwMCZidXJzdE1zPTIwMDA=&origin=https%3A//www.megatv.com
+#EXTINF:01,MEGANEWS 
+https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S99841657/NU0xOarAMJ5X/chunklist_b3200000.m3u8
+#EXTINF:01,OMEGA 
+http://l1.cloudskep.com/omegatv/omcy/playlist.m3u8 
+#EXTINF:01,SIGMA 
+http://sl2.sigmatv.com/hls/live.m3u8 
+#EXTINF:01,XALASTRATV 
+https://alpha.streamhub.gr/tv/hls/MWAF31fK8gUQ74QsNYoZI1Ld9NPtyrzm/playlist.m3u8 
+#EXTINF:01,DELTA TV 
+http://81.171.10.42:554/liveD/DStream.sdp/playlist.m3u8 
+#EXTINF:01,BARAZA TV GREEK HITS 
+https://eco.streams.ovh:8081/barazatv/index.m3u8 
+#EXTINF:01,BARAZA TV LAIKA 
+https://gra1.crystalweb.net:1936/barazatv/barazatv/playlist.m3u8 
+#EXTINF:01,NET TV TORONTO 
+https://eu1.streams.gr:8081/netvtoronto/index.m3u8
+#EXTINF:01,CINEMA CLASSICS 
+https://tv.mediacp.eu:8081/cinemaclassics/index.m3u8 
+#EXTINF:01,IONIAN TV 
+https://stream.ioniantv.gr/ionian/live_abr/ionian/live_1080p/chunks.m3u8 
+#EXTINF:01,ELLAS WORLD 
+https://ellastvmax.ath.cx/freetv/promo/index.m3u8 
+#EXTINF:01,VILLAGE WORLD 
+https://ellastvmax.gotdns.com/freetv/village-world/index.m3u8 
+#EXTINF:01,MAD TV 
+https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/MADTV.strm
+#EXTINF:01,MAD TV BUP 
+https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/MADTV.strm
+#EXTINF:01,MAD WORLD 
+https://ellastvmax.gotdns.com/freetv/madworldtv/index.m3u8 
+#EXTINF:01,DIAVATA TV 
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Diavata.m3u8 
+#EXTINF:01,LAMPSI TV 
+https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/LAMPSITV.strm 
+#EXTINF:01,DIPOLO TV 
+https://channel.streams.ovh:8081/dipolotv/index.m3u8 
+#EXTINF:01,DIPOLO TV 2 
+https://mcv2.streams.gr/stream/dipolotv/index.m3u8 
