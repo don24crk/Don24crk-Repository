@@ -2,5 +2,5 @@
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_params=token=https%3A%2F%2Fanacon.org
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0%20%28X11%3B%20Ubuntu%3B%20Linux%20x86_64%3B%20rv%3A135.0%29%20Gecko%2F20100101%20Firefox%2F135.0
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=https://vjs.zencdn.net/8.16.1/video.min.js
 https://s2.cystream.net/live/ert1/chunks.m3u8?nimblesessionid=40748853&wmsAuthSign=c2VydmVyX3RpbWU9Ny85LzIwMjYgNDoxMDozMyBQTSZoYXNoX3ZhbHVlPWdzMDh2RHhQQWVsb2h1eVBYbXRubkE9PSZ2YWxpZG1pbnV0ZXM9MjA=
