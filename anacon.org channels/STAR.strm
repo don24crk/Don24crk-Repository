@@ -2,4 +2,4 @@
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_params=token=https://lakatamia.tv
-https://s2.cystream.net/galanos/star/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny85LzIwMjYgMzo0OTowOSBQTSZoYXNoX3ZhbHVlPVJnNVFvYXJqMmlUSXo0ZUJxWkJQMnc9PSZ2YWxpZG1pbnV0ZXM9MjA=
+https://s2.cystream.net/galanos/star/chunks.m3u8?nimblesessionid=40749201&wmsAuthSign=c2VydmVyX3RpbWU9Ny85LzIwMjYgNDoxNzowOCBQTSZoYXNoX3ZhbHVlPTRIWFpiR2NqOTBxVkV6RVhaSkRZcUE9PSZ2YWxpZG1pbnV0ZXM9MjA=
