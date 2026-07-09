@@ -2,5 +2,5 @@
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_params=token=https://anacon.org
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.64 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:135.0) Gecko/20100101 Firefox/135.0
 https://s2.cystream.net/live/ert1/chunks.m3u8?nimblesessionid=40748853&wmsAuthSign=c2VydmVyX3RpbWU9Ny85LzIwMjYgNDoxMDozMyBQTSZoYXNoX3ZhbHVlPWdzMDh2RHhQQWVsb2h1eVBYbXRubkE9PSZ2YWxpZG1pbnV0ZXM9MjA=
