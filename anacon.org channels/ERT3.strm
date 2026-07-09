@@ -2,4 +2,4 @@
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_params=token=https://anacon.org
-https://s2.cystream.net/live/ert3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny85LzIwMjYgMzo0NjowOSBQTSZoYXNoX3ZhbHVlPUN5Q3Y3Ynd1VEh2WXA1bTlxNGM1b1E9PSZ2YWxpZG1pbnV0ZXM9MjA=
+https://s2.cystream.net/live/ert3/chunks.m3u8?nimblesessionid=40748928&wmsAuthSign=c2VydmVyX3RpbWU9Ny85LzIwMjYgNDoxMjoxMiBQTSZoYXNoX3ZhbHVlPXZvWXRVbzU3bDVqWDlmcmFsNW1LaXc9PSZ2YWxpZG1pbnV0ZXM9MjA=
