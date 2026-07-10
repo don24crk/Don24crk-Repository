@@ -88,9 +88,9 @@ https://ellastvmax.ath.cx/freetv/promo/index.m3u8
 #EXTINF:01,VILLAGE WORLD 
 https://ellastvmax.gotdns.com/freetv/village-world/index.m3u8 
 #EXTINF:01,MAD TV 
-https://prod-fastly-eu-west-3.video.pscp.tv/Transcoding/v1/hls/NZE7ScNZUbzmPdxLtNXalXyI7YuLAKUJA4hUL116N7daq3UqDj_vQpeNddpEBeXm_Dv1o896YOorfL8R82cgTQ/transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDMwXzEwIiwiSGVpZ2h0IjoxMDgwLCJLYnBzIjo1NTAwLCJXaWR0aCI6MTkyMH0.OImMZabKYJ0cs9CnIapU-4aBk6KNBiJxi1hh-6l4BZ4/dynamic_playlist.m3u8?type=live
+https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/MADTV.strm
 #EXTINF:01,MAD TV BUP 
-https://prod-fastly-eu-west-3.video.pscp.tv/Transcoding/v1/hls/NZE7ScNZUbzmPdxLtNXalXyI7YuLAKUJA4hUL116N7daq3UqDj_vQpeNddpEBeXm_Dv1o896YOorfL8R82cgTQ/transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDMwXzEwIiwiSGVpZ2h0IjoxMDgwLCJLYnBzIjo1NTAwLCJXaWR0aCI6MTkyMH0.OImMZabKYJ0cs9CnIapU-4aBk6KNBiJxi1hh-6l4BZ4/dynamic_playlist.m3u8?type=live
+https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/MADTV.strm
 #EXTINF:01,MAD WORLD 
 https://ellastvmax.gotdns.com/freetv/madworldtv/index.m3u8 
 #EXTINF:01,DIAVATA TV 
