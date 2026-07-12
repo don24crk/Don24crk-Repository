@@ -67,6 +67,7 @@ name= Dunki url= "https://dn711007.ca.archive.org/0/items/dunki_202501/Dunki.mp4
 name= Koyla - Glut der Rache url= "https://dn710609.ca.archive.org/0/items/glut-der-rache/Glut%20der%20Rache.mp4" logo= "https://m.media-amazon.com/images/I/619IuF5ZcVL._AC_UF894,1000_QL80_.jpg"
 name= Dil Se - Vom Ganzen Herzen url= "plugin://plugin.video.youtube/play/?video_id=MqHtvccRbOg" logo= "https://m.media-amazon.com/images/I/61ZfKTpT0IL._AC_UF894,1000_QL80_.jpg"
 name= Devdas – Flamme Unserer Liebe url= "plugin://plugin.video.youtube/play/?video_id=LEzImzYidOI" logo= "https://images.justwatch.com/poster/313450413/s718/Devdas-Flamme-unserer-Liebe.jpg"
+name= To Hell and Back - The Kane Hodder Story url= "https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/To%20Hell%20and%20Back%20-%20The%20Kane%20Hodder%20Story.strm" logo= "https://play-lh.googleusercontent.com/dIRcdNtdNcnAkYDcAlQNEBpIQ8wZ3-bleVDDS5uLTZaqigdZLkHKjk4nOmlJft8lNmN7pBykkHoIyF6B4CeT=w240-h480-rw"
 
 
 
