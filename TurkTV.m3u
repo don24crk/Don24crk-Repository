@@ -4,40 +4,40 @@
 https://dogus.daioncdn.net/startv/startv_720p.m3u8?token=Z2FDM2FhdjhqRE5uaDhqRGFYMmUrS1gxZnVTN2t0REtBK2NidEh5Ym5BST0=&sid=7xcev19leqnj&app=1740db13-3ee9-4858-8d2c-b1a9cfaa3718&ce=3
 #EXTINF:1,EUROSTAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
-https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/TurkTV%20Yayin%20Canli/EUROSTAR.m3u8
+https://dogusdyg-eurostar.lg.mncdn.com/dogusdyg_eurostar/live_1080p3000000kbps/index.m3u8?st=JtHAxPMQyZxrMcd1bIp5RA&e=1784479683
 #EXTINF:1,A2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
-https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/TurkTV%20Yayin%20Canli/a2tv.m3u8
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8
 #EXTINF:1,ATV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
-http://89.187.191.41:80/ATV-HD-TR/tracks-v1a1/mono.ts.m3u8
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
 #EXTINF:1,ATV AVRUPA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
-https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/TurkTV%20Yayin%20Canli/atvavrupa.m3u8
+https://trkvz-live.ercdn.net/atvavrupa/atvavrupa_576p.m3u8?st=7XjI0KcZ_KE_TDPigMcGjw&e=1784438555
 #EXTINF:1,TRT1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
-http://ch-4k-top.org:80/play/live.php?mac=00%3A1A%3A79%3A01%3A70%3A82&stream=10790&extension=ts
+https://trt.daioncdn.net/trt-1/master_1440p.m3u8?&sid=8lbc4rhg5t0c&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
 #EXTINF:1,TRT2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48841
+https://tv-trt2.medya.trt.com.tr/master.m3u8
 #EXTINF:1,TV8.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48862
+https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?&sid=8lbca86oh7ch&app=bf58ab52-4865-4c81-b223-26b41009801e&ce=3
 #EXTINF:1,TV8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48859
+https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?&sid=8lbccaas0rlp&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
 #EXTINF:1,TV8INT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48861
+https://tgn.bozztv.com/gin-dvrfl05/gin-tv8int/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOC8yMDI2IDQ6NTM6NDQgUE0maGFzaF92YWx1ZT1WVG1NYVBLOEk3REZUOHo0T2JNRDJ3PT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjI=
 #EXTINF:1,SHOWTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48849
+https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?ex=1664766175&st=RBzhSuGauna0OGld-DJUVA&tv=1&sid=8lbcinc4l469&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&ce=3
 #EXTINF:1,SHOWTÜRK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48850
+https://ciner-live.ercdn.net/showturk/showturk_720p.m3u8?e=1784400820&st=6s1Z4Hfxu3QBwbU5w_qwIw&tv=1
 #EXTINF:1,SHOWMAX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48867
+https://ciner-live.ercdn.net/showmax/showmax_720p.m3u8?e=1784400975&st=bWqRZAIxlJEJxFfWcjjaUw&tv=1
 #EXTINF:1,NOWTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
 http://116.202.238.88/FOXTV_TR/index.m3u8
@@ -70,13 +70,13 @@ https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
 #EXTINF:1,AHaber
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
-https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/TurkTV%20Yayin%20Canli/ahaberhd-Degesel.m3u8
+https://trkvz-live.ercdn.net/ahaberhd/ahaberhd_720p.m3u8?st=x_US08-Kb93x1k8a3XtLgQ&e=1784439042
 #EXTINF:1,Canli24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
 https://turkmedya-live.ercdn.net/tv24/tv24_1080p.m3u8
 #EXTINF:1,CNNTÜRK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
-https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/TurkTV%20Yayin%20Canli/CNNT%C3%BCrk.m3u8
+https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8?&live=true&app=com.cnnturk&st=OiIxOTu-KHBgIKMNhe1CDA&e=1784404683
 #EXTINF:1,TRT Müzik
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
 https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
@@ -88,10 +88,10 @@ https://tv-trtcocuk.medya.trt.com.tr/master_1440.m3u8
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:1,MINIKA Çocuk
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
-https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/TurkTV%20Yayin%20Canli/minikacocuk.m3u8
+https://trkvz-live.ercdn.net/minikagococuk/minikagococuk_576p.m3u8?st=sD_-M5j7_sEBwUHTcH3vpQ&e=1784439145
 #EXTINF:1,MINIKA GO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
-https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/TurkTV%20Yayin%20Canli/minikago.m3u8
+https://trkvz-live.ercdn.net/minikago/minikago_576p.m3u8?st=ESqgyHLv2iv_f9gRgn7GNQ&e=1784439191
 #EXTINF:1,N-TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
 http://dygvideo.dygdigital.com/live/hls/ntv4puhu?m3u8
@@ -100,10 +100,10 @@ http://dygvideo.dygdigital.com/live/hls/ntv4puhu?m3u8
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8
 #EXTINF:1,FBTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
-http://ch-4k-top.org:80/play/live.php?mac=00%3A1A%3A79%3A01%3A70%3A82&stream=314796&extension=ts
+https://fbtv.fenerbahce.org/fenerbahcetv.stream/chunklist.m3u8
 #EXTINF:1,TRT SPOR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
-http://ch-4k-top.org:80/play/live.php?mac=00%3A1A%3A79%3A01%3A70%3A82&stream=170679&extension=ts
+https://tv-trtspor1.medya.trt.com.tr/master.m3u8
 #EXTINF:1,Şunal TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
 plugin://plugin.video.youtube/play/?video_id=pdyq7lixkPI
@@ -112,10 +112,10 @@ plugin://plugin.video.youtube/play/?video_id=pdyq7lixkPI
 plugin://plugin.video.youtube/play/?video_id=_pRHXDSK8sA
 #EXTINF:1,DMAX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
-http://ch-4k-top.org:80/play/live.php?mac=00%3A1A%3A79%3A01%3A70%3A82&stream=170683&extension=ts
+https://dogus.daioncdn.net/dmax/dmax.m3u8?ce=3&app=5a02c599-d17e-4982-9b04-090934d51af7&token=VzU2NlpxcWlYTFAvdTZjdnJUMVcvMVJxdkkrNGZERTFaRnppc1dGLytVST0=
 #EXTINF:1,TLC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48872
+https://yayin2.canlitv.fun/live/tlc.stream/chunklist_w997795253.m3u8?hash=44aef68022b61dd79d325244c1f49642
 
 
 
