@@ -1,20 +1,20 @@
 #EXTM3U
 #EXTINF:01,ERT1 
-https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/anacon.org%20channels/ERT1.strm 
+https://01eb71ee94ba4a1caf54da0c74efefb4.msvdn.net/ept_ch1/ept_ch1/mainabr/playlist.m3u8
 #EXTINF:01,ERT2 
-https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/anacon.org%20channels/ERT2.strm
+https://01eb71ee94ba4a1caf54da0c74efefb4.msvdn.net/ept_ch2/ept_ch2/mainabr/ept_ch2/ch2_1080/video.m3u8
 #EXTINF:01,ERT3
-https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/anacon.org%20channels/ERT3.strm
+https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ERT3.strm
 #EXTINF:01,ERT1 BUP 
-https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/anacon.org%20channels/ERT1.strm
+https://01eb71ee94ba4a1caf54da0c74efefb4.msvdn.net/ept_ch1/ept_ch1/mainabr/playlist.m3u8
 #EXTINF:01,ERT2 BUP 
-https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/anacon.org%20channels/ERT2.strm
+https://01eb71ee94ba4a1caf54da0c74efefb4.msvdn.net/ept_ch2/ept_ch2/mainabr/ept_ch2/ch2_1080/video.m3u8
 #EXTINF:01,ERT2 BUP 2 
-https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/anacon.org%20channels/ERT2.strm 
+https://01eb71ee94ba4a1caf54da0c74efefb4.msvdn.net/ept_ch2/ept_ch2/mainabr/ept_ch2/ch2_1080/video.m3u8
 #EXTINF:01,ERT3 BUP 
-https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/anacon.org%20channels/ERT3.strm
+https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ERT3.strm
 #EXTINF:01,ERT3 BUP 2 
-https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/anacon.org%20channels/ERT3.strm
+https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ERT3.strm
 #EXTINF:01,ERTCOSMOS 
 https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ERTWORLD%20BUP.strm 
 #EXTINF:01,ERTCOSMOS BUP 
@@ -28,9 +28,9 @@ https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master
 #EXTINF:01,ERT KIDS BUP 
 https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ERTKIDS.strm 
 #EXTINF:01,ANT1 
-https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/anacon.org%20channels/ANT1.strm
+https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ANT1.strm
 #EXTINF:01,ANT1 BUP 
-https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/anacon.org%20channels/ANT1.strm
+https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ANT1.strm
 #EXTINF:01,ANT1 DRAMA 
 https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ANT1%20DRAMA.strm 
 #EXTINF:01,ANT1 COMEDY 
@@ -42,27 +42,27 @@ https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master
 #EXTINF:01,MAKTV BUP 
 https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/MAKTV.strm 
 #EXTINF:01,ALPHA TV 
-https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/anacon.org%20channels/ALPHATV.strm
+https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/alphatvlive/live_source/playlist.m3u8
 #EXTINF:01,ALPHA TV BUP 
-https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/anacon.org%20channels/ALPHATV.strm
+https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/alphatvlive/live_source/chunks.m3u8
 #EXTINF:01,OPEN TV 
-https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/anacon.org%20channels/OPEN.strm 
+https://liveopen.siliconweb.com/openTvLive/liveopen/playlist.m3u8 
 #EXTINF:01,OPEN TV BUP 
-https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/anacon.org%20channels/OPEN.strm
+https://liveopen.siliconweb.com/openTvLive/liveopen/chunks.m3u8
 #EXTINF:01,SKAI TV 
-https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/anacon.org%20channels/SKAI.strm 
+https://skai-live.siliconweb.com/media/cambria4/index_media_bitrate2000K_avc1_mp4a.m3u8
 #EXTINF:01,SKAI TV BUP 
-https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/anacon.org%20channels/SKAI.strm 
+https://skai-live.siliconweb.com/media/cambria4/index_media_bitrate2000K_avc1_mp4a.m3u8 
 #EXTINF:01,STAR TV 
-https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/anacon.org%20channels/STAR.strm 
+https://livestar.siliconweb.com/media/star4/star4newhd.m3u8
 #EXTINF:01,STAR TV BUP 
-https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/anacon.org%20channels/STAR.strm
+https://livestar.siliconweb.com/media/star4/star4newhd.m3u8
 #EXTINF:01,STAR INTERNATIONAL 
 https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8 
 #EXTINF:01,MEGA 
-https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/anacon.org%20channels/MEGA.strm
+http://127.0.0.1:50199/mega.flv?ws=d3NzOi8vbHV4MS1lZGdlLTAxLmNkbi52aW5kcmFsLmNvbS9zdWJzY3JpYmU_Y2hhbm5lbElkPWFsdGVyZWdvbWVkaWFfbWVnYXR2MV9jaV82Y2M0OTBjNy1lNWM2LTQ4NmItYWNmMC05YmI5YzIwZmE2NzAmYXVkaW8uY29kZWM9YWFjJmF1ZGlvLmJpdFJhdGU9MTI4MDAwJnZpZGVvLmNvZGVjPWgyNjQmdmlkZW8ud2lkdGg9MTI4MCZ2aWRlby5oZWlnaHQ9NzIwJnZpZGVvLmJpdFJhdGU9MzAwMDAwMCZidXJzdE1zPTIwMDA=&origin=https%3A//www.megatv.com
 #EXTINF:01,MEGA BUP 
-https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/anacon.org%20channels/MEGA.strm
+http://127.0.0.1:50199/mega.flv?ws=d3NzOi8vbHV4MS1lZGdlLTAxLmNkbi52aW5kcmFsLmNvbS9zdWJzY3JpYmU_Y2hhbm5lbElkPWFsdGVyZWdvbWVkaWFfbWVnYXR2MV9jaV82Y2M0OTBjNy1lNWM2LTQ4NmItYWNmMC05YmI5YzIwZmE2NzAmYXVkaW8uY29kZWM9YWFjJmF1ZGlvLmJpdFJhdGU9MTI4MDAwJnZpZGVvLmNvZGVjPWgyNjQmdmlkZW8ud2lkdGg9MTI4MCZ2aWRlby5oZWlnaHQ9NzIwJnZpZGVvLmJpdFJhdGU9MzAwMDAwMCZidXJzdE1zPTIwMDA=&origin=https%3A//www.megatv.com
 #EXTINF:01,MEGANEWS 
 https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S99841657/NU0xOarAMJ5X/chunklist_b3200000.m3u8
 #EXTINF:01,OMEGA 
