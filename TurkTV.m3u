@@ -13,7 +13,7 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
 #EXTINF:1,ATV AVRUPA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
-https://ziyaret.canlitv.me/atvavrupa.m3u8?tkn=BifiU-iWJ2JKQMghXu_71g&tms=1784474561&hst=www.canlitv.me&ip=91.0.37.53&utkn=269ab634980cc08b1aeb272a2789d429&ch=atvavrupa-canli
+https://trkvz-live.ercdn.net/atvavrupa/atvavrupa.m3u8?st=DFVJxT17Hl8FjTVCIuyTbw&e=1784514031
 #EXTINF:1,TRT1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
 https://trt.daioncdn.net/trt-1/master_1440p.m3u8?&sid=8lbc4rhg5t0c&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
@@ -28,31 +28,30 @@ https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?&sid=8lbca86oh7ch&app=bf58
 https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?&sid=8lbccaas0rlp&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
 #EXTINF:1,TV8INT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
-https://tgn.bozztv.com/gin-dvrfl05/gin-tv8int/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOC8yMDI2IDQ6NTM6NDQgUE0maGFzaF92YWx1ZT1WVG1NYVBLOEk3REZUOHo0T2JNRDJ3PT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjI=
+https://tgn.bozztv.com/gin-dvrfl05/gin-tv8int/tracks-v1a1/mono.m3u8?nimblesessionid=1716234827&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDI2IDE6NTU6NDAgUE0maGFzaF92YWx1ZT1Mdnl3V3plWHlhMlZhdVlZbVBSWmhRPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjI=
 #EXTINF:1,SHOWTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
-https://keban.canlitv.me/showtv720.m3u8?tkn=D_wtjbNYzdL7-4zpzimM3A&tms=1784474714&hst=www.canlitv.me&ip=91.0.37.53&utkn=269ab634980cc08b1aeb272a2789d429&ch=showtv-canli-izle
+https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&st=RBzhSuGauna0OGld-DJUVA&e=1664766175&tv=1&ppid=d1cc00a8b9fc616eb109a114c77f74b8
 #EXTINF:1,SHOWTÜRK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
-https://keban.canlitv.me/showturk.m3u8?tkn=BVojePFNCFLUk5uXleaH2Q&tms=1784474798&hst=www.canlitv.me&ip=91.0.37.53&utkn=269ab634980cc08b1aeb272a2789d429&ch=show-turk-canli-hd
+https://ciner-live.ercdn.net/showturk/playlist.m3u8?e=1784476840&st=tWEs2dpBSJfyYxobFjxjBw&tv=1
 #EXTINF:1,SHOWMAX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
-https://cdn509.canlitv.me/showmax.m3u8?tkn=5BOqeTatT_02M1RBMIHZCw&tms=1784474830&hst=www.canlitv.me&ip=91.0.37.53&utkn=269ab634980cc08b1aeb272a2789d429&ch=show-max-canli-hd
+https://ciner-live.ercdn.net/showmax/playlist.m3u8?e=1784476893&st=ciNTcCZhl9qqGJJxfLXp1Q&tv=1
 #EXTINF:1,NOWTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
-https://bademli.canlitv.me/foxtv.m3u8?tkn=I7q3DGRwC1r8n44V-7mjIQ&tms=1784474860&hst=www.canlitv.me&ip=91.0.37.53&utkn=269ab634980cc08b1aeb272a2789d429&ch=nowtvcanlihd-izle
+https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=wIiEI79b8GRGCjmuUvODiw&e=1784484137
 #EXTINF:1,KANAL7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
-https://keban.canlitv.me/kanal7.m3u8?tkn=8fz77Yi2NcabhIF5Q-dybg&tms=1784474895&hst=www.canlitv.me&ip=91.0.37.53&utkn=269ab634980cc08b1aeb272a2789d429&ch=kanal7canli-hd-izle
-#EXTINF:1,KANAL7-Avrupa
+https://kanal7.daioncdn.net/kanal7/kanal7.m3u8?app=f99587ad-1637-494d-8255-da35b09d17a1&ce=3&ppid=6c55d678f9bcb48146e7abd5a55473b8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
 https://livetv.radyotvonline.net/kanal7live/kanal7avr/chunklist.m3u8
 #EXTINF:1,360 TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
-https://nimri.canlitv.me/360tv.m3u8?tkn=4YUuUV4eqYlkOJrjda_bmQ&tms=1784475035&hst=www.canlitv.me&ip=91.0.37.53&utkn=269ab634980cc08b1aeb272a2789d429&ch=tv360-canli-hd
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:1,TEVE2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
-https://demiroren.daioncdn.net/teve2/teve2_1080p.m3u8?&sid=8le7fcl6t8te&app=6aab838a-437e-4a1b-bbd0-e30f79cdbbbd&ce=3
+https://demiroren.daioncdn.net/teve2/teve2.m3u8?ce=3&app=6aab838a-437e-4a1b-bbd0-e30f79cdbbbd&ppid=23ae315f276a08283feb597445261d76&gdpr=1&gdpr_consent=CQnmMMAQnmMMAEsACBTRCoFoAP_gAEPgACaIMOIB7C7cbWFDaLJ3ILsEUABP55gAbsAwBAJAkgABzJMQYBwChGEYBAyKNiACiBIAoGQBAAFlGAAAAUAAIIABIABMKAwQIBBIJCAAiEEBAEJQCAgpGooAEQCBwmAEBEAAkBgFiBKI2EgCCAhDCBCBSAAEAAAAAQAIAQEgQhMAEUAAQCxEkApAkAAAEkEICADcBAAAADAAABEABBAQMgQgSSQHCAICABCABDAIIAAAiwgEBAiAAAiAJAAAAAAIAEQEgABAIABBhxAPYXbjawobRYK5BdgggAL_PMADdgGAIBIEEAAOZJCDAGAUowiQIERRgQAAQIAFAiAIAAlIgEAAAgAABAAJAAJgAGCBAIJAAQAEAQgKAgKAAEBIVFAAiAQOAwAgIgAECEAkAJQGwkAQQIEYQIQKQAAgAAAACAAACAkCEJgAgwAGASIEgFIEgAAAkgBAAAbgoAAAAYAAAIgAIICBgCECACA4QAAQAIQAIQBBAAAkUEAAIkQAAAQBIAAAAABAAiIkAAIBAAIAAA.IMOIB7C7cbWFDaLJ3ILsEUABf55gAbsAwBAJAkgABzJMQYBwClGEaBAyKNiACiBIAoGQBAAFtGAgAAUAAIIABIABMKAwQIBBIJCAAiGEBQEJQCAgpGooAEQCBwmAEBEAAkRgFiBKI2EgCCBhjCBCBSAAEAAAAAQAIAQEgQhMAEWAAwCxEkApAkAAAEkEICADcFAAAADAAABEABBAQMgQgSSQHCAICABCABDAIIAAEiwgEBEiAAAiAJAAAAAAIAEREgABAIAB.f_gAAAAAAAA&addtl_consent=2~55.61.70.89.108.122.144.149.161.196.211.230.272.313.385.442.445.469.491.494.495.540.550.576.723.827.839.931.981.986.1003.1025.1029.1031.1033.1047.1067.1092.1097.1126.1205.1215.1230.1301.1342.1345.1419.1516.1548.1558.1598.1659.1677.1678.1682.1697.1716.1725.1782.1786.1794.1832.1838.1843.1911.1917.1942.1944.1962.2008.2039.2068.2074.2109.2124.2133.2135.2223.2224.2234.2278.2295.2312.2370.2373.2377.2416.2427.2440.2461.2472.2510.2517.2559.2567.2568.2569.2571.2572.2575.2577.2583.2604.2642.2643.2645.2650.2651.2657.2677.2767.2778.2784.2813.2822.2833.2865.2869.2874.2878.2886.2887.2898.2900.2916.2920.2949.2963.2973.2979.2981.3005.3012.3017.3018.3019.3023.3053.3055.3095.3112.3126.3135.3137.3172.3173.3177.3182.3214.3223.3253.3290.3292.3293.3296.3299.3316.3324.3331.4131.5231.13731.15731.16831.23031.27831.28031.30532.33931.40632.41531.45931.49332.56831~dv.
 #EXTINF:1,Kral POP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
 http://dygvideo.dygdigital.com/live/hls/kralpop/playlist.m3u8
