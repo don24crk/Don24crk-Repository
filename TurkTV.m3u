@@ -16,10 +16,10 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
 https://trkvz-live.ercdn.net/atvavrupa/atvavrupa.m3u8?st=DFVJxT17Hl8FjTVCIuyTbw&e=1784514031
 #EXTINF:1,TRT1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
-https://trt.daioncdn.net/trt-1/master_1440p.m3u8?&sid=8lbc4rhg5t0c&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
+https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:1,TRT2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
-https://tv-trt2.medya.trt.com.tr/master.m3u8
+https://tv-trt2.medya.trt.com.tr/master_720.m3u8
 #EXTINF:1,TV8.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
 https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?&sid=8lbca86oh7ch&app=bf58ab52-4865-4c81-b223-26b41009801e&ce=3
@@ -102,7 +102,7 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8
 https://fbtv.fenerbahce.org/fenerbahcetv.stream/chunklist.m3u8
 #EXTINF:1,TRT SPOR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
-https://trt.daioncdn.net/trtspor/master.m3u8?app=web&ppid=65ef93d207396f44cafa34885f98dab7
+https://trt.daioncdn.net/trtspor/master_720p.m3u8?&sid=8leotl4kdohh&app=71ff325a-50b6-48f4-8a67-3daa89386c24&ce=2
 #EXTINF:1,Şunal TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
 plugin://plugin.video.youtube/play/?video_id=pdyq7lixkPI
