@@ -76,7 +76,7 @@ https://trkvz-live.ercdn.net/ahaberhd/ahaberhd_720p.m3u8?st=x_US08-Kb93x1k8a3XtL
 https://turkmedya-live.ercdn.net/tv24/tv24_1080p.m3u8
 #EXTINF:1,CNNTÜRK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
-https://tgn.bozztv.com/gin-dvrfl05/gin-cnn-turk/tracks-v1a1/mono.m3u8?nimblesessionid=1716132903&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDI2IDEyOjIxOjAzIFBNJmhhc2hfdmFsdWU9cDZxSThac1B1cnhkMGtRaTRwb3NDUT09JnZhbGlkbWludXRlcz0xNDQwJnN0cm1fbGVuPTI0
+https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/playlist.m3u8?&live=true&app=com.cnnturk&st=m1AV00Z3kQkHaCgxqfGQZQ&e=1784475854
 #EXTINF:1,TRT Müzik
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
 https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
@@ -103,7 +103,7 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8
 https://fbtv.fenerbahce.org/fenerbahcetv.stream/chunklist.m3u8
 #EXTINF:1,TRT SPOR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
-https://tgn.bozztv.com/gin-dvrfl05/gin-trtspor/tracks-v1a1/mono.m3u8?nimblesessionid=1716134569&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDI2IDEyOjIyOjQ1IFBNJmhhc2hfdmFsdWU9Y3lGSzV3S1k4QjFXSE1iTzhlTGxkUT09JnZhbGlkbWludXRlcz0xNDQwJnN0cm1fbGVuPTIz
+https://trt.daioncdn.net/trtspor/master.m3u8?app=web&ppid=65ef93d207396f44cafa34885f98dab7
 #EXTINF:1,Şunal TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
 plugin://plugin.video.youtube/play/?video_id=pdyq7lixkPI
@@ -116,7 +116,6 @@ https://yayin2.canlitv.fun/live/tlc.stream/chunklist_w1596121288.m3u8?hash=44aef
 #EXTINF:1,DMAX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
 https://yayin2.canlitv.fun/live/dmax.stream/chunklist_w1622749643.m3u8?hash=44aef68022b61dd79d325244c1f49642
-
 
 
 
