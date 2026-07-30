@@ -1,46 +1,46 @@
 #EXTM3U
 #EXTINF:01,ERT1 
-https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ERT1.strm
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT1/drm/index.mpd
 #EXTINF:01,ERT2 
-https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ERT2.strm
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT2/drm/index.mpd
 #EXTINF:01,ERT3
-https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ERT3.strm
+https://ert-live.ascdn.broadpeak.io/bpk-tv/ERT3/default/index.m3u8
 #EXTINF:01,ERT1 BUP 
-https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ERT1.strm
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT1/drm/index.mpd
 #EXTINF:01,ERT2 BUP 
-https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ERT2.strm
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT2/drm/index.mpd
 #EXTINF:01,ERT2 BUP 2 
-https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ERT2.strm
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT2/drm/index.mpd
 #EXTINF:01,ERT3 BUP 
-https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ERT3.strm
+https://ert-live.ascdn.broadpeak.io/bpk-tv/ERT3/default/index.m3u8
 #EXTINF:01,ERT3 BUP 2 
-https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ERT3.strm
+https://ert-live.ascdn.broadpeak.io/bpk-tv/ERT3/default/index.m3u8
 #EXTINF:01,ERTCOSMOS 
-https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ERTWORLD%20BUP.strm 
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTCosmos/default/index.m3u8
 #EXTINF:01,ERTCOSMOS BUP 
-https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ERTWORLD%20BUP.strm 
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTCosmos/default/index.m3u8
 #EXTINF:01,ERTNEWS 
-https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ERTNEWS%20BUP.strm 
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews/default/index.mpd
 #EXTINF:01,ERTNEWS BUP 
-https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ERTNEWS%20BUP.strm 
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews/default/index.mpd 
 #EXTINF:01,ERT KIDS 
-https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ERTKIDS.strm 
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTKids/default/index.mpd
 #EXTINF:01,ERT KIDS BUP 
-https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ERTKIDS.strm 
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTKids/default/index.mpd
 #EXTINF:01,ANT1 
-https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ANT1.strm
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/antenna.m3u8
 #EXTINF:01,ANT1 BUP 
-https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ANT1.strm
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/antenna.m3u8
 #EXTINF:01,ANT1 DRAMA 
-https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ANT1%20DRAMA.strm 
+https://mcdn.antennaplus.gr/live/media0/Drama/HLS/Drama.m3u8
 #EXTINF:01,ANT1 COMEDY 
-https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/ANT1%20COMEDY.strm 
+https://mcdn.antennaplus.gr/live/media0/Comedy/HLS/Comedy.m3u8
 #EXTINF:01,REAL MUSIC TV 
 https://webtv.topwebhost.gr:3302/stream/play.m3u8 
 #EXTINF:01,MAKTV 
-https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/MAKTV.strm 
+https://mcdn.antennaplus.gr/live/media0/MAK/HLS/MAK.m3u8
 #EXTINF:01,MAKTV BUP 
-https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/MAKTV.strm 
+https://mcdn.antennaplus.gr/live/media0/MAK/HLS/MAK.m3u8
 #EXTINF:01,ALPHA TV 
 https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/alphatvlive/live_source/playlist.m3u8
 #EXTINF:01,ALPHA TV BUP 
@@ -88,15 +88,15 @@ https://ellastvmax.ath.cx/freetv/promo/index.m3u8
 #EXTINF:01,VILLAGE WORLD 
 https://ellastvmax.gotdns.com/freetv/village-world/index.m3u8 
 #EXTINF:01,MAD TV 
-https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/MADTV.strm
+https://prod-fastly-eu-west-3.video.pscp.tv/Transcoding/v1/hls/NZE7ScNZUbzmPdxLtNXalXyI7YuLAKUJA4hUL116N7daq3UqDj_vQpeNddpEBeXm_Dv1o896YOorfL8R82cgTQ/transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDMwXzEwIiwiSGVpZ2h0IjoxMDgwLCJLYnBzIjo1NTAwLCJXaWR0aCI6MTkyMH0.OImMZabKYJ0cs9CnIapU-4aBk6KNBiJxi1hh-6l4BZ4/dynamic_playlist.m3u8?type=live
 #EXTINF:01,MAD TV BUP 
-https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/MADTV.strm
+https://prod-fastly-eu-west-3.video.pscp.tv/Transcoding/v1/hls/NZE7ScNZUbzmPdxLtNXalXyI7YuLAKUJA4hUL116N7daq3UqDj_vQpeNddpEBeXm_Dv1o896YOorfL8R82cgTQ/transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDMwXzEwIiwiSGVpZ2h0IjoxMDgwLCJLYnBzIjo1NTAwLCJXaWR0aCI6MTkyMH0.OImMZabKYJ0cs9CnIapU-4aBk6KNBiJxi1hh-6l4BZ4/dynamic_playlist.m3u8?type=live
 #EXTINF:01,MAD WORLD 
 https://ellastvmax.gotdns.com/freetv/madworldtv/index.m3u8 
 #EXTINF:01,DIAVATA TV 
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Diavata.m3u8 
 #EXTINF:01,LAMPSI TV 
-https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/LAMPSITV.strm 
+https://neon.streams.gr:8081/lampsitv/tracks-v1a1/mono.m3u8
 #EXTINF:01,NICKELODEON
 http://185.102.171.218/Nickelodeon/index.m3u8
 #EXTINF:01,PANIKTV
