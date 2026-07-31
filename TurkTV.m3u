@@ -1,18 +1,18 @@
 #EXTM3U
 #EXTINF:1,STARTV
-http://dygvideo.dygdigital.com/live/hls/stardai?m3u8
+https://dygvideo.dygdigital.com/live/hls/startv4puhu/live.m3u8
 #EXTINF:1,EUROSTAR
-https://dogusdyg-eurostar.lg.mncdn.com/dogusdyg_eurostar/live_1080p3000000kbps/index.m3u8?st=r0mgtN72-PSVkPUOIhvNuQ&e=1785607287
+https://dogusdyg-eurostar.lg.mncdn.com/dogusdyg_eurostar/live_1080p3000000kbps/index.m3u8?st=g3qB080NLO2u6LxySkCbvw&e=1785610587
 #EXTINF:1,A2
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8
 #EXTINF:1,ATV
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8
 #EXTINF:1,ATV AVRUPA
-https://trkvz-live.ercdn.net/atvavrupa/atvavrupa.m3u8?st=2UgsVcPhOTJyiyfA0zdIrw&e=1785566140
+https://trkvz-live.ercdn.net/atvavrupa/atvavrupa.m3u8?st=As75JCCkLmGwma5AQPtbWA&e=1785569484
 #EXTINF:1,TRT1
-https://tv-trt1-esdai.medya.trt.com.tr/master.m3u8
+https://tvizle.tr/api/proxy?url=https%3A%2F%2Ftv-trt1.medya.trt.com.tr%2Fmaster.m3u8
 #EXTINF:1,TRT2
-https://tv-trt2.medya.trt.com.tr/master.m3u8
+https://tvizle.tr/api/proxy?url=https%3A%2F%2Ftv-trt2.medya.trt.com.tr%2Fmaster.m3u8
 #EXTINF:1,TV8.5
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk.m3u8
 #EXTINF:1,TV8
@@ -62,7 +62,7 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_72
 #EXTINF:1,MINIKA GO
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_720p.m3u8
 #EXTINF:1,N-TV
-http://dygvideo.dygdigital.com/live/hls/ntv4puhu?m3u8
+http://dygvideo.dygdigital.com/live/hls/puhuntvdai?m3u8
 #EXTINF:1,A Spor
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8
 #EXTINF:1,FBTV
