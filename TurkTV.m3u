@@ -1,52 +1,52 @@
 #EXTM3U
 #EXTINF:1,STARTV
-https://dogus.daioncdn.net/startv/startv_720p.m3u8?token=Z2FDM2FhdjhqRE5uaDhqRGFYMmUrS1gxZnVTN2t0REtBK2NidEh5Ym5BST0=&sid=7xcev19leqnj&app=1740db13-3ee9-4858-8d2c-b1a9cfaa3718&ce=3
+http://dygvideo.dygdigital.com/live/hls/stardai?m3u8
 #EXTINF:1,EUROSTAR
-https://dogusdyg-eurostar.lg.mncdn.com/dogusdyg_eurostar/live_1080p3000000kbps/index.m3u8?st=JtHAxPMQyZxrMcd1bIp5RA&e=1784479683
+https://dogusdyg-eurostar.lg.mncdn.com/dogusdyg_eurostar/live_1080p3000000kbps/index.m3u8?st=r0mgtN72-PSVkPUOIhvNuQ&e=1785607287
 #EXTINF:1,A2
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8
 #EXTINF:1,ATV
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
 #EXTINF:1,ATV AVRUPA
-https://trkvz-live.ercdn.net/atvavrupa/atvavrupa.m3u8?st=DFVJxT17Hl8FjTVCIuyTbw&e=1784514031
+https://trkvz-live.ercdn.net/atvavrupa/atvavrupa.m3u8?st=2UgsVcPhOTJyiyfA0zdIrw&e=1785566140
 #EXTINF:1,TRT1
-https://tv-trt1.medya.trt.com.tr/master_720.m3u8
+https://tv-trt1-esdai.medya.trt.com.tr/master.m3u8
 #EXTINF:1,TRT2
-https://tv-trt2.medya.trt.com.tr/master_720.m3u8
+https://tv-trt2.medya.trt.com.tr/master.m3u8
 #EXTINF:1,TV8.5
-https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?&sid=8lbca86oh7ch&app=bf58ab52-4865-4c81-b223-26b41009801e&ce=3
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk.m3u8
 #EXTINF:1,TV8
-https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?&sid=8lbccaas0rlp&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8
 #EXTINF:1,TV8INT
 https://tgn.bozztv.com/gin-dvrfl05/gin-tv8int/tracks-v1a1/mono.m3u8?nimblesessionid=1716234827&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDI2IDE6NTU6NDAgUE0maGFzaF92YWx1ZT1Mdnl3V3plWHlhMlZhdVlZbVBSWmhRPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjI=
 #EXTINF:1,SHOWTV
-https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&st=RBzhSuGauna0OGld-DJUVA&e=1664766175&tv=1&ppid=d1cc00a8b9fc616eb109a114c77f74b8
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
 #EXTINF:1,SHOWTÜRK
-https://ciner-live.ercdn.net/showturk/playlist.m3u8?e=1784476840&st=tWEs2dpBSJfyYxobFjxjBw&tv=1
+https://ciner-live.ercdn.net/showturk/playlist.m3u8?e=1785527336&st=rjSMAiNpVNnzqZgMGRN4nw&tv=1
 #EXTINF:1,SHOWMAX
-https://ciner-live.ercdn.net/showmax/playlist.m3u8?e=1784476893&st=ciNTcCZhl9qqGJJxfLXp1Q&tv=1
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax.m3u8
 #EXTINF:1,NOWTV
-https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=wIiEI79b8GRGCjmuUvODiw&e=1784484137
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 #EXTINF:1,KANAL7
-https://kanal7.daioncdn.net/kanal7/kanal7.m3u8?app=f99587ad-1637-494d-8255-da35b09d17a1&ce=3&ppid=6c55d678f9bcb48146e7abd5a55473b8
+https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 #EXTINF:1,KANAL7 Avrupa
 https://livetv.radyotvonline.net/kanal7live/kanal7avr/chunklist.m3u8
 #EXTINF:1,360 TV
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:1,TEVE2
-https://demiroren.daioncdn.net/teve2/teve2.m3u8?ce=3&app=6aab838a-437e-4a1b-bbd0-e30f79cdbbbd&ppid=23ae315f276a08283feb597445261d76&gdpr=1&gdpr_consent=CQnmMMAQnmMMAEsACBTRCoFoAP_gAEPgACaIMOIB7C7cbWFDaLJ3ILsEUABP55gAbsAwBAJAkgABzJMQYBwChGEYBAyKNiACiBIAoGQBAAFlGAAAAUAAIIABIABMKAwQIBBIJCAAiEEBAEJQCAgpGooAEQCBwmAEBEAAkBgFiBKI2EgCCAhDCBCBSAAEAAAAAQAIAQEgQhMAEUAAQCxEkApAkAAAEkEICADcBAAAADAAABEABBAQMgQgSSQHCAICABCABDAIIAAAiwgEBAiAAAiAJAAAAAAIAEQEgABAIABBhxAPYXbjawobRYK5BdgggAL_PMADdgGAIBIEEAAOZJCDAGAUowiQIERRgQAAQIAFAiAIAAlIgEAAAgAABAAJAAJgAGCBAIJAAQAEAQgKAgKAAEBIVFAAiAQOAwAgIgAECEAkAJQGwkAQQIEYQIQKQAAgAAAACAAACAkCEJgAgwAGASIEgFIEgAAAkgBAAAbgoAAAAYAAAIgAIICBgCECACA4QAAQAIQAIQBBAAAkUEAAIkQAAAQBIAAAAABAAiIkAAIBAAIAAA.IMOIB7C7cbWFDaLJ3ILsEUABf55gAbsAwBAJAkgABzJMQYBwClGEaBAyKNiACiBIAoGQBAAFtGAgAAUAAIIABIABMKAwQIBBIJCAAiGEBQEJQCAgpGooAEQCBwmAEBEAAkRgFiBKI2EgCCBhjCBCBSAAEAAAAAQAIAQEgQhMAEWAAwCxEkApAkAAAEkEICADcFAAAADAAABEABBAQMgQgSSQHCAICABCABDAIIAAEiwgEBEiAAAiAJAAAAAAIAEREgABAIAB.f_gAAAAAAAA&addtl_consent=2~55.61.70.89.108.122.144.149.161.196.211.230.272.313.385.442.445.469.491.494.495.540.550.576.723.827.839.931.981.986.1003.1025.1029.1031.1033.1047.1067.1092.1097.1126.1205.1215.1230.1301.1342.1345.1419.1516.1548.1558.1598.1659.1677.1678.1682.1697.1716.1725.1782.1786.1794.1832.1838.1843.1911.1917.1942.1944.1962.2008.2039.2068.2074.2109.2124.2133.2135.2223.2224.2234.2278.2295.2312.2370.2373.2377.2416.2427.2440.2461.2472.2510.2517.2559.2567.2568.2569.2571.2572.2575.2577.2583.2604.2642.2643.2645.2650.2651.2657.2677.2767.2778.2784.2813.2822.2833.2865.2869.2874.2878.2886.2887.2898.2900.2916.2920.2949.2963.2973.2979.2981.3005.3012.3017.3018.3019.3023.3053.3055.3095.3112.3126.3135.3137.3172.3173.3177.3182.3214.3223.3253.3290.3292.3293.3296.3299.3316.3324.3331.4131.5231.13731.15731.16831.23031.27831.28031.30532.33931.40632.41531.45931.49332.56831~dv.
+https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/teve2/teve2.m3u8
 #EXTINF:1,Kral POP
 http://dygvideo.dygdigital.com/live/hls/kralpop/playlist.m3u8
 #EXTINF:1,PowerTürk
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlists.m3u8
 #EXTINF:1,Dream Türk
-https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/track_4_1250/playlist.m3u8?&live=true&app=com.dreamturk&st=GDE31XXu9PNbVot1TNWT6A&e=1743187099
+https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
 #EXTINF:1,Kanal D
 https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
 #EXTINF:1,Euro D
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
 #EXTINF:1,AHaber
-https://trkvz-live.ercdn.net/ahaberhd/ahaberhd_720p.m3u8?st=x_US08-Kb93x1k8a3XtLgQ&e=1784439042
+https://trkvz-live.ercdn.net/ahaberhd/ahaberhd.m3u8
 #EXTINF:1,Canli24
 https://turkmedya-live.ercdn.net/tv24/tv24_1080p.m3u8
 #EXTINF:1,CNNTÜRK
