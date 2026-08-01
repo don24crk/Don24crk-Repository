@@ -75,9 +75,9 @@ plugin://plugin.video.youtube/play/?video_id=tWWFY5lf1U0
 #EXTINF:1,Şaban TV
 plugin://plugin.video.youtube/play/?video_id=mq4GiHzxZwk
 #EXTINF:1,TLC
-https://tinyurl.com/turktlc
+https://tvizle.tr/api/proxy?url=https%3A%2F%2Ftinyurl.com%2Fturktlc
 #EXTINF:1,DMAX
-https://tinyurl.com/turkdmax
+https://tvizle.tr/api/proxy?url=https%3A%2F%2Ftinyurl.com%2Fturkdmax
 
 
 
