@@ -2,13 +2,13 @@
 #EXTINF:1,STARTV
 https://dygvideo.dygdigital.com/live/hls/startv4puhu/live.m3u8
 #EXTINF:1,EUROSTAR
-https://dogusdyg-eurostar.lg.mncdn.com/dogusdyg_eurostar/live.m3u8?st=3xnFKKO3hDZHaJ-NlVq3Xw&e=1785695370|user-agent=VLC/3.0.20 Lavf/58.76.100
+https://dogusdyg-eurostar.lg.mncdn.com/dogusdyg_eurostar/live.m3u8?st=3xnFKKO3hDZHaJ-NlVq3Xw&e=1785695370|user-agent=https://im.haberturk.com/assets/hopeplayer/alpha/hope-video-loader.min.js
 #EXTINF:1,A2
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8
 #EXTINF:1,ATV
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8
 #EXTINF:1,ATV AVRUPA
-https://trkvz-live.ercdn.net/atvavrupa/atvavrupa.m3u8?st=TQCYygY3PoY_G1lq_eZ0Ug&e=1785645483|user-agent=VLC/3.0.20 Lavf/58.76.100
+https://trkvz-live.ercdn.net/atvavrupa/atvavrupa.m3u8?st=TQCYygY3PoY_G1lq_eZ0Ug&e=1785645483|user-agent=https://im.haberturk.com/assets/hopeplayer/alpha/hope-video-loader.min.js
 #EXTINF:1,A2
 #EXTINF:1,TRT1
 https://tvizle.tr/api/proxy?url=https%3A%2F%2Ftv-trt1.medya.trt.com.tr%2Fmaster.m3u8
@@ -23,7 +23,7 @@ https://tgn.bozztv.com/gin-dvrfl05/gin-tv8int/tracks-v1a1/mono.m3u8?nimblesessio
 #EXTINF:1,SHOWTV
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
 #EXTINF:1,SHOWTÜRK
-https://ciner-live.ercdn.net/showturk/showturk_720p.m3u8?e=1785610453&st=3C5U0TUylO4zdhy7oere8A&tv=1|user-agent=VLC/3.0.20 Lavf/58.76.100
+https://ciner-live.ercdn.net/showturk/showturk_720p.m3u8?e=1785610453&st=3C5U0TUylO4zdhy7oere8A&tv=1|user-agent=https://im.haberturk.com/assets/hopeplayer/alpha/hope-video-loader.min.js
 #EXTINF:1,SHOWMAX
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax.m3u8
 #EXTINF:1,NOWTV
@@ -51,7 +51,7 @@ https://trkvz-live.ercdn.net/ahaberhd/ahaberhd.m3u8
 #EXTINF:1,Canli24
 https://turkmedya-live.ercdn.net/tv24/tv24_1080p.m3u8
 #EXTINF:1,CNNTÜRK
-https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/playlist.m3u8?&live=true&app=com.cnnturk&st=wMYVzHFJN0JKwnJviwsc8w&e=1785614226|user-agent=VLC/3.0.20 Lavf/58.76.100
+https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/playlist.m3u8?&live=true&app=com.cnnturk&st=wMYVzHFJN0JKwnJviwsc8w&e=1785614226|user-agent=https://im.haberturk.com/assets/hopeplayer/alpha/hope-video-loader.min.js
 #EXTINF:1,TRT Müzik
 https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
 #EXTINF:1,TRT Çocuk
@@ -63,7 +63,7 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_72
 #EXTINF:1,MINIKA GO
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_720p.m3u8
 #EXTINF:1,N-TV
-https://dogus.daioncdn.net/ntv/ntv_1080p.m3u8?token=dkZ6blhaMnppSnFOMjNtU0hiM290TTNkb2hJRkpmUkxCTTAyaGZqTlJhbz0=&sid=8mpb9r5yu3u1&app=7c4bb802-0c41-409e-8cd2-799984995694&ce=3|user-agent=VLC/3.0.20 Lavf/58.76.100
+https://dogus.daioncdn.net/ntv/ntv_1080p.m3u8?token=dkZ6blhaMnppSnFOMjNtU0hiM290TTNkb2hJRkpmUkxCTTAyaGZqTlJhbz0=&sid=8mpb9r5yu3u1&app=7c4bb802-0c41-409e-8cd2-799984995694&ce=3|user-agent=https://im.haberturk.com/assets/hopeplayer/alpha/hope-video-loader.min.js
 #EXTINF:1,A Spor
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8
 #EXTINF:1,FBTV
@@ -75,9 +75,9 @@ plugin://plugin.video.youtube/play/?video_id=tWWFY5lf1U0
 #EXTINF:1,Şaban TV
 plugin://plugin.video.youtube/play/?video_id=mq4GiHzxZwk
 #EXTINF:1,TLC
-https://dogus.daioncdn.net/tlc/tlc_720p.m3u8?token=dFhxOWk3MDE0RUFMbzNaVklFWjNIS2xuczBwL3AzZjl3cUk2V0dkcFNFMD0=&sid=8mpld84eli1c&app=1aca0aa1-06e3-41ff-a8e5-38d7df475469&ce=3
+https://dogus.daioncdn.net/tlc/tlc_720p.m3u8?token=dFhxOWk3MDE0RUFMbzNaVklFWjNIS2xuczBwL3AzZjl3cUk2V0dkcFNFMD0=&sid=8mpld84eli1c&app=1aca0aa1-06e3-41ff-a8e5-38d7df475469&ce=3|user-agent=https://im.haberturk.com/assets/hopeplayer/alpha/hope-video-loader.min.js
 #EXTINF:1,DMAX
-https://dogus.daioncdn.net/dmax/dmax_720p.m3u8?token=YXI4aWU4eXY2NEpGSWZLcUlCY05rL3JvRW9tcytmLy9YV1R3Q0N5UFZaND0=&sid=8mpli0yeoctf&app=5a02c599-d17e-4982-9b04-090934d51af7&ce=3
+https://dogus.daioncdn.net/dmax/dmax_720p.m3u8?token=YXI4aWU4eXY2NEpGSWZLcUlCY05rL3JvRW9tcytmLy9YV1R3Q0N5UFZaND0=&sid=8mpli0yeoctf&app=5a02c599-d17e-4982-9b04-090934d51af7&ce=3|user-agent=https://im.haberturk.com/assets/hopeplayer/alpha/hope-video-loader.min.js
 
 
 
