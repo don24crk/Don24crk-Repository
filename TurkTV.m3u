@@ -2,13 +2,13 @@
 #EXTINF:1,STARTV
 https://dygvideo.dygdigital.com/live/hls/startv4puhu/live.m3u8
 #EXTINF:1,EUROSTAR
-https://tvizle.tr/api/proxy?url=https%3A%2F%2Fdogusdyg-eurostar.lg.mncdn.com%2Fdogusdyg_eurostar%2Flive.m3u8%3Fst%3D0o_Lu5tEPX684LNZDwcKdQ%26e%3D1785683110
+https://tvizle.tr/api/proxy?url=https://dogusdyg-eurostar.lg.mncdn.com/dogusdyg_eurostar/live_1080p3000000kbps/index.m3u8?st=0o_Lu5tEPX684LNZDwcKdQ&e=1785683110
 #EXTINF:1,A2
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8
 #EXTINF:1,ATV
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8
 #EXTINF:1,ATV AVRUPA
-https://tvizle.tr/api/proxy?url=https%3A%2F%2Fplugin://plugin.video.youtube/play/?video_id=7e9GkX0MmTs
+plugin://plugin.video.youtube/play/?video_id=7e9GkX0MmTs
 #EXTINF:1,TRT1
 https://tvizle.tr/api/proxy?url=https%3A%2F%2Ftv-trt1.medya.trt.com.tr%2Fmaster.m3u8
 #EXTINF:1,TRT2
@@ -22,7 +22,7 @@ https://tgn.bozztv.com/gin-dvrfl05/gin-tv8int/tracks-v1a1/mono.m3u8?nimblesessio
 #EXTINF:1,SHOWTV
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
 #EXTINF:1,SHOWTÜRK
-https://tvizle.tr/api/proxy?url=https%3A%2F%2Fplugin://plugin.video.youtube/play/?video_id=cbgKyiqOljQ
+plugin://plugin.video.youtube/play/?video_id=cbgKyiqOljQ
 #EXTINF:1,SHOWMAX
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax.m3u8
 #EXTINF:1,NOWTV
@@ -50,7 +50,7 @@ https://trkvz-live.ercdn.net/ahaberhd/ahaberhd.m3u8
 #EXTINF:1,Canli24
 https://turkmedya-live.ercdn.net/tv24/tv24_1080p.m3u8
 #EXTINF:1,CNNTÜRK
-https://tvizle.tr/api/proxy?url=https%3A%2F%2Fplugin://plugin.video.youtube/play/?video_id=H3Rc_gfk27s
+plugin://plugin.video.youtube/play/?video_id=H3Rc_gfk27s
 #EXTINF:1,TRT Müzik
 https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
 #EXTINF:1,TRT Çocuk
@@ -62,7 +62,7 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_72
 #EXTINF:1,MINIKA GO
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_720p.m3u8
 #EXTINF:1,N-TV
-https://tvizle.tr/api/proxy?url=https%3A%2F%2Fplugin://plugin.video.youtube/play/?video_id=pqq5c6k70kk
+plugin://plugin.video.youtube/play/?video_id=pqq5c6k70kk
 #EXTINF:1,A Spor
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8
 #EXTINF:1,FBTV
@@ -70,13 +70,12 @@ https://fbtv.fenerbahce.org/fenerbahcetv.stream/chunklist.m3u8
 #EXTINF:1,TRT SPOR
 https://tvizle.tr/api/proxy?url=https%3A%2F%2Ftv-trtspor1.medya.trt.com.tr/master.m3u8
 #EXTINF:1,Şunal TV
-https://tvizle.tr/api/proxy?url=https%3A%2F%2Fplugin://plugin.video.youtube/play/?video_id=tWWFY5lf1U0
+plugin://plugin.video.youtube/play/?video_id=tWWFY5lf1U0
 #EXTINF:1,Şaban TV
-https://tvizle.tr/api/proxy?url=https%3A%2F%2Fplugin://plugin.video.youtube/play/?video_id=mq4GiHzxZwk
+plugin://plugin.video.youtube/play/?video_id=mq4GiHzxZwk
 #EXTINF:1,TLC
-https://tvizle.tr/api/proxy?url=https%3A%2F%2Fdogus.daioncdn.net%2Ftlc%2Ftlc_720p.m3u8%3Ftoken%3DOFpwNFFtcXlGbytOMkFyTUZsRm16di9wVUpqdFBjaUx6cWtDZ09KQzRRZz0%3D%26sid%3D8mp0rmbtihk2%26app%3D1aca0aa1-06e3-41ff-a8e5-38d7df475469%26ce%3D3
-#EXTINF:1,DMAX
-https://tvizle.tr/api/proxy?url=https%3A%2F%2Fdogus.daioncdn.net%2Fdmax%2Fdmax_720p.m3u8%3Ftoken%3Dak81RjFVUnFOYk51Q1hrdGh1enFTQ21mR05KQjYvTE5sZC9TdFFZY2tsbz0%3D%26sid%3D8mozzkm43pz9%26app%3D5a02c599-d17e-4982-9b04-090934d51af7%26ce%3D3
+https%3A%2F%2Fdogus.daioncdn.net%2Fdogus.daioncdn.net/tlc/tlc_720p.m3u8?token=OFpwNFFtcXlGbytOMkFyTUZsRm16di9wVUpqdFBjaUx6cWtDZ09KQzRRZz0=&sid=8mp0rmbtihk2&app=1aca0aa1-06e3-41ff-a8e5-38d7df475469&ce=3
+https%3A%2F%2Fdogus.daioncdn.net%2Fhttps://dogus.daioncdn.net/dmax/dmax_720p.m3u8?token=ak81RjFVUnFOYk51Q1hrdGh1enFTQ21mR05KQjYvTE5sZC9TdFFZY2tsbz0=&sid=8mozzkm43pz9&app=5a02c599-d17e-4982-9b04-090934d51af7&ce=3
 
 
 
