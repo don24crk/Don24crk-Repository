@@ -9,7 +9,6 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8
 #EXTINF:1,ATV AVRUPA
 plugin://plugin.video.youtube/play/?video_id=7e9GkX0MmTs
-#EXTINF:1,A2
 #EXTINF:1,TRT1
 https://tvizle.tr/api/proxy?url=https%3A%2F%2Ftv-trt1.medya.trt.com.tr%2Fmaster.m3u8
 #EXTINF:1,TRT2
@@ -78,10 +77,3 @@ plugin://plugin.video.youtube/play/?video_id=mq4GiHzxZwk
 https://tvizle.tr/api/proxy?url=https%3A%2F%2Ftinyurl.com%2Fturktlc
 #EXTINF:1,DMAX
 https://tvizle.tr/api/proxy?url=https%3A%2F%2Ftinyurl.com%2Fturkdmax
-
-
-
-
-
-
-
