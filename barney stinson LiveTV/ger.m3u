@@ -28,7 +28,7 @@ https://s6.hopslan.com/rtl2q/index.m3u8
 #EXTINF:1,RTLNITRO
 https://s6.hopslan.com/nitro1/index.m3u8
 #EXTINF:1,RTLUP
-https://tvizle.tr/api/proxy?url=https%3A%2F%2Fx.canlitvapp.com%2Fd-rtlu%2Ftracks-v1a1%2Fmono.m3u8%3Ftoken%3D7bc529cd18c192e694576bb4637d2a7b0d77e4c9-df99a155487a6d568045f00a184519db-1785786338-1785785438
+https://x.canlitvapp.com/d-rtlu/tracks-v1a1/mono.m3u8?token=7bc529cd18c192e694576bb4637d2a7b0d77e4c9-df99a155487a6d568045f00a184519db-1785786338-1785785438
 #EXTINF:1,SAT1
 https://s6.hopslan.com/sat1z/index.m3u8
 #EXTINF:1,SAT1GOLD
