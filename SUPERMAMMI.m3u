@@ -1,0 +1,26 @@
+#EXTM3U
+#EXTINF:-1,Super Mammi Episode 1
+plugin://plugin.video.youtube/play/?video_id=S1cT4lLcS4k
+tvg-logo= "https://i.ytimg.com/vi/S1cT4lLcS4k/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCZJljNpSkCMCFsL1TcdtKNul0eZg"
+
+#EXTINF:-1,Super Mammi Episode 2
+plugin://plugin.video.youtube/play/?video_id=AWntVb9tZPs
+tvg-logo= "https://i.ytimg.com/vi/S1cT4lLcS4k/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCZJljNpSkCMCFsL1TcdtKNul0eZg"
+
+
+#EXTINF:-1,Super Mammi Episode 3
+plugin://plugin.video.youtube/play/?video_id=ruQe1n0WigE
+tvg-logo= "https://i.ytimg.com/vi/S1cT4lLcS4k/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCZJljNpSkCMCFsL1TcdtKNul0eZg"
+
+#EXTINF:-1,Super Mammi Episode 4
+plugin://plugin.video.youtube/play/?video_id=GjLmylwtC90
+tvg-logo= "https://i.ytimg.com/vi/S1cT4lLcS4k/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCZJljNpSkCMCFsL1TcdtKNul0eZg"
+
+#EXTINF:-1,Super Mammi Episode 8
+plugin://plugin.video.youtube/play/?video_id=an3HcCnACCg
+tvg-logo= "https://i.ytimg.com/vi/S1cT4lLcS4k/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCZJljNpSkCMCFsL1TcdtKNul0eZg"
+
+#EXTINF:-1,Super Mammi Episode 12 
+plugin://plugin.video.youtube/play/?video_id=2JslSw38XeU
+tvg-logo= "https://i.ytimg.com/vi/S1cT4lLcS4k/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCZJljNpSkCMCFsL1TcdtKNul0eZg"
+
