@@ -1,465 +1,233 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="7SMusic.in@SD",7S Music (576p)
-https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8
-#EXTINF:-1 tvg-id="9XJalwa.in@SD",9X Jalwa (1080p)
-https://b.jsrdn.com/strm/channels/9xjalwa/master.m3u8
-#EXTINF:-1 tvg-id="9XJalwa.in@SD",9X Jalwa (576p)
-https://mumt03.tangotv.in/Dsly5z3H9XJALWA/index.m3u8
-#EXTINF:-1 tvg-id="9XJhakaas.in@SD",9X Jhakaas (1080p)
-https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-id="9XJhakaas.in@SD",9X Jhakaas (576p)
-https://mumt03.tangotv.in/Dsly5z3H9XJHAKAAS/index.m3u8
-#EXTINF:-1 tvg-id="9XTashan.in@SD",9X Tashan (1080p)
-https://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/playlist/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-id="9XTashan.in@SD",9X Tashan (576p)
-https://mumt01.tangotv.in/O5aw8Zn39XTASHAN/index.m3u8
-#EXTINF:-1 tvg-id="9XTashan.in@SD",9X Tashan
-https://cdn-2.pishow.tv/live/1613/master.m3u8
-#EXTINF:-1 tvg-id="9XM.in@SD",9XM (1080p)
-https://9xjio.wiseplayout.com/9XM/master.m3u8
-#EXTINF:-1 tvg-id="9XM.in@SD",9XM (1080p)
-https://epiconvh.akamaized.net/live/9XM/master.m3u8
-#EXTINF:-1 tvg-id="9XM.in@SD",9XM (576p)
-https://b.jsrdn.com/strm/channels/9xm/master.m3u8
-#EXTINF:-1 tvg-id="9XM.in@SD",9XM (576p)
-https://mumt01.tangotv.in/O5aw8Zn39XM/index.m3u8
-#EXTINF:-1 tvg-id="10TV.in@SD",10 TV (720p)
-https://mumbai-edge.smartplaytv.in/10TV/index.m3u8
-#EXTINF:-1 tvg-id="22ScopeNews.in@SD",22Scope News (1080p)
-https://thelegitpro.in/HDlive/22scope/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="24News.in@SD",24 News (576p)
-https://mumt07.tangotv.in/zHjX9OFlTWENTYFOURNEWS/index.m3u8
-#EXTINF:-1 tvg-id="24News.in@SD",24 News (396p)
-https://segment.yuppcdn.net/110322/channel24/playlist.m3u8
-#EXTINF:-1 tvg-id="Andflix.in@HD",&flix HD (1080p)
-http://103.72.101.252:8080/live/1322.m3u8
-#EXTINF:-1 tvg-id="Andpictures.in@SD",&pictures (720p)
-https://trs1.aynaott.com/andpictureshd/index.m3u8
-#EXTINF:-1 tvg-id="Andpictures.in@HD",&pictures HD (1080p)
-http://103.72.101.252:8080/live/185.m3u8
-#EXTINF:-1 tvg-id="AndTV.in@International",&TV International (1080p)
-https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8
-#EXTINF:-1 tvg-id="AndxplorHD.in@HD",&xplor HD (1080p)
-http://149.71.34.166:8000/play/a001/index.m3u8
-#EXTINF:-1 tvg-id="AadinathTV.in@SD",Aadinath TV (396p)
-#EXTVLCOPT:http-referrer=https://keralive.com/
-https://keralive.com/yupp/tv.php?c=aadinath-tv&e=.m3u8
-#EXTINF:-1 tvg-id="AajTak.in@SD",Aaj Tak (1080p)
-http://103.213.31.109:90/AajtakHD/playlist.m3u8
-#EXTINF:-1 tvg-id="AajTak.in@SD",Aaj Tak (720p)
-https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-791258/master.m3u8
-#EXTINF:-1 tvg-id="AajTak.in@SD",Aaj Tak (720p)
-https://feeds.intoday.in/aajtak/api/master.m3u8
-#EXTINF:-1 tvg-id="AajTak.in@SD",Aaj Tak (404p)
-https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_404p/chunks.m3u8
-#EXTINF:-1 tvg-id="AajTak.in@HD",Aaj Tak HD (1080p)
-https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
-#EXTINF:-1 tvg-id="AajTak.in@HD",Aaj Tak HD (1080p)
-https://livehub-voidnet.onrender.com/cluster/streamcore/in/AAJTAK_REDIS.m3u8
-#EXTINF:-1 tvg-id="AakaashAath.in@SD",Aakaash Aath (576p)
-https://mumt03.tangotv.in/Dsly5z3HAAKASHAATH/index.m3u8
-#EXTINF:-1 tvg-id="AakaashAath.in@SD",Aakaash Aath (576p)
-https://trs1.aynaott.com/aakaashBangla/index.m3u8
-#EXTINF:-1 tvg-id="AamarBangla.in@SD",Aamar Bangla (720p)
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="AaryaaTV.in@SD",Aaryaa TV (1080p)
-https://stream.ottlive.co.in/aryatvtamil/index.m3u8
-#EXTINF:-1 tvg-id="AaseervathamTV.in@SD",Aaseervatham TV (576p)
-https://mumt04.tangotv.in/m18aqlK4AASEERVATHAMTV/index.m3u8
-#EXTINF:-1 tvg-id="Aastha.in@SD",Aastha (720p)
-http://103.213.31.109:90/AasthaSD/playlist.m3u8
-#EXTINF:-1 tvg-id="Aastha.in@HD",Aastha (720p)
-https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/index.m3u8
-#EXTINF:-1 tvg-id="Aastha.in@SD",Aastha
-https://cdn-1.pishow.tv/live/1454/master.m3u8
-#EXTINF:-1 tvg-id="AasthaBhajan.in@SD",Aastha Bhajan (576p)
-https://mumt05.tangotv.in/87NeALx2AASTHABHAJAN/index.m3u8
-#EXTINF:-1 tvg-id="AasthaBhajan.in@SD",Aastha Bhajan (480p)
-https://aasthaott.akamaized.net/110923/smil:bhajan.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AasthaGujarati.in@SD",Aastha Gujarati (576p)
-https://mumt04.tangotv.in/m18aqlK4AASTHAGUJARATI/index.m3u8
-#EXTINF:-1 tvg-id="AasthaGujarati.in@SD",Aastha Gujarati (480p)
-https://aasthaott.akamaized.net/110923/smil:aasthagujrati.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AasthaKannada.in@SD",Aastha Kannada (480p)
-https://aasthaott.akamaized.net/110923/smil:aasthakannada.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AasthaKannada.in@SD",Aastha Kannada
-https://cdn-3.pishow.tv/live/234/master.m3u8
-#EXTINF:-1 tvg-id="AasthaPrime1.in@SD",Aastha Prime 1 (720p)
-https://aasthaott.akamaized.net/110923/smil:aasthaprime1.smil/master.m3u8
-#EXTINF:-1 tvg-id="AasthaTamil.in@SD",Aastha Tamil (480p)
-https://aasthaott.akamaized.net/110923/smil:aasthatamil.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AasthaTelugu.in@SD",Aastha Telugu (480p)
-https://aasthaott.akamaized.net/110923/smil:aasthatelugu.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AasthaTelugu.in@SD",Aastha Telugu
-https://cdn-1.pishow.tv/live/262/master.m3u8
-#EXTINF:-1 tvg-id="AathavanTV.uk@SD",Aathavan TV (720p) [Not 24/7]
-http://45.77.66.224:1935/athavantv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="ABNAndhraJyoti.in@SD",ABN Andhra Jyoti (720p)
-https://mumbai-edge.smartplaytv.in/ABNAJ/index.m3u8
-#EXTINF:-1 tvg-id="ABPAnanda.in@SD",ABP Ananda (1080p)
-https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ananda-livetv/master.m3u8
-#EXTINF:-1 tvg-id="ABPAsmita.in@SD",ABP Asmita (1080p)
-https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/asmita-livetv/master.m3u8
-#EXTINF:-1 tvg-id="ABPGanga.in@SD",ABP Ganga (1080p)
-https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ganga-livetv/master.m3u8
-#EXTINF:-1 tvg-id="ABPMajha.in@SD",ABP Majha (360p)
-https://yupprestreamliveus.akamaized.net/vglive-sk-355289/majha/master.m3u8
-#EXTINF:-1 tvg-id="ABPNews.in@SD",ABP News (1080p)
-https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-472500/abpnews/master.m3u8
-#EXTINF:-1 tvg-id="ABPNews.in@SD",ABP News (1080p)
-https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/abpnews-livetv/master.m3u8
-#EXTINF:-1 tvg-id="ABPNews.in@SD",ABP News (720p)
-http://103.213.31.109:90/ABPNews/playlist.m3u8
-#EXTINF:-1 tvg-id="AdhyatmTV.in@SD",Adhyatm TV (720p)
-https://mumbai-edge.smartplaytv.in/AdhyatmTV/index.m3u8
-#EXTINF:-1 tvg-id="AKDCalcuttaNews.in@SD",AKD Calcutta News (1080p)
-https://live.legitpro.co.in/cnnnews/index.m3u8
-#EXTINF:-1 tvg-id="AllTimeMovies.in@SD",All Time Movies (576p)
-https://mumt03.tangotv.in/Dsly5z3HALLTIMEMOVIES/index.m3u8
-#EXTINF:-1 tvg-id="AllTimeMovies.in@SD",All Time Movies (576p)
-https://trs1.aynaott.com/Dhinchaak/index.m3u8
-#EXTINF:-1 tvg-id="AmarUjala.in@SD",AmarUjala (1080p)
-https://amarujala.ottlive.co.in/amarujala/index.m3u8
-#EXTINF:-1 tvg-id="AmritaTV.in@SD",Amrita TV (720p)
-https://ddash74r36xqp.cloudfront.net/master.m3u8
-#EXTINF:-1 tvg-id="AnandTV.in@SD",Anand TV (1080p)
-https://live.legitpro.co.in/anandtv/index.m3u8
-#EXTINF:-1 tvg-id="AnandaBarta.in@SD",Ananda Barta (720p)
-https://account19.livebox.co.in/Anandabarta2hls/live.m3u8
-#EXTINF:-1 tvg-id="ANBNews.in@SD",ANB News (720p)
-https://server.livelegitpro.in:9899/anbnews/anbnews/index.m3u8
-#EXTINF:-1 tvg-id="ANBNews.in@SD",ANB News (576p)
-https://trs1.aynaott.com/ANB_News/index.m3u8
-#EXTINF:-1 tvg-id="AndyHaryana.in@SD",Andy Haryana (576p)
-https://mumt03.tangotv.in/Dsly5z3HANDYHARYANA/index.m3u8
-#EXTINF:-1 tvg-id="AngelTV.in@India",Angel TV (720p)
-https://janya-digimix.akamaized.net/vglive-sk-394914/india/ngrp:angelindia_all/playlist.m3u8
-#EXTINF:-1 tvg-id="AngelTV.in@Africa",Angel TV Africa (720p)
-https://janya-digimix.akamaized.net/vglive-sk-904559/africa/ngrp:angelafrica_all/playlist.m3u8
-#EXTINF:-1 tvg-id="AngelTV.in@America",Angel TV America (720p)
-https://janya-digimix.akamaized.net/vglive-sk-374850/america/ngrp:angelamerica_all/playlist.m3u8
-#EXTINF:-1 tvg-id="AngelTV.in@Arabia",Angel TV Arabia (720p)
-https://janya-digimix.akamaized.net/vglive-sk-213167/arabia/ngrp:angelarabia_all/playlist.m3u8
-#EXTINF:-1 tvg-id="AngelTV.in@Australia",Angel TV Australia (720p)
-https://janya-digimix.akamaized.net/vglive-sk-310787/australia/ngrp:angelaustralia_all/playlist.m3u8
-#EXTINF:-1 tvg-id="AngelTV.in@Chinese",Angel TV Chinese (720p)
-https://janya-digimix.akamaized.net/vglive-sk-999451/chinese/ngrp:angelchinese_all/playlist.m3u8
-#EXTINF:-1 tvg-id="AngelTV.in@Europe",Angel TV Europe (720p)
-https://janya-digimix.akamaized.net/vglive-sk-512011/europe/ngrp:angeleurope_all/playlist.m3u8
-#EXTINF:-1 tvg-id="AngelTV.in@FarEast",Angel TV FarEast (720p)
-https://janya-digimix.akamaized.net/vglive-sk-438760/fareast/ngrp:angelfareast_all/playlist.m3u8
-#EXTINF:-1 tvg-id="AngelTV.in@Hebrew",Angel TV Hebrew (720p)
-https://janya-digimix.akamaized.net/vglive-sk-150533/hebrew/ngrp:angelhebrew_all/playlist.m3u8
-#EXTINF:-1 tvg-id="AngelTV.in@IndoChina",Angel TV Indo-China (720p)
-https://janya-digimix.akamaized.net/vglive-sk-703035/indochina/ngrp:angelindochina_all/playlist.m3u8
-#EXTINF:-1 tvg-id="AngelTV.in@Indonesia",Angel TV Indonesia (720p)
-https://janya-digimix.akamaized.net/vglive-sk-234616/indonesia/ngrp:angelindonesia_all/playlist.m3u8
-#EXTINF:-1 tvg-id="AngelTV.in@Nepal",Angel TV Nepal (720p)
-https://janya-digimix.akamaized.net/vglive-sk-109639/nepali/ngrp:angelnepali_all/playlist.m3u8
-#EXTINF:-1 tvg-id="AngelTV.in@Portuguese",Angel TV Portuguese (720p)
-https://janya-digimix.akamaized.net/vglive-sk-382409/portuese/ngrp:angelportuguese_all/playlist.m3u8
-#EXTINF:-1 tvg-id="AngelTV.in@Russian",Angel TV Russian (720p)
-https://janya-digimix.akamaized.net/vglive-sk-955415/russia/ngrp:angelrussia_all/playlist.m3u8
-#EXTINF:-1 tvg-id="AngelTV.in@Spanish",Angel TV Spanish (720p)
-https://janya-digimix.akamaized.net/vglive-sk-351398/spanish/ngrp:angelspanish_all/playlist.m3u8
-#EXTINF:-1 tvg-id="AnjanTV.in@SD",Anjan TV (720p)
-https://anjan.vstream.online/anjanorg/ngrp:anjan_hdall/playlist.m3u8
-#EXTINF:-1 tvg-id="AnjanTV.in@SD",Anjan TV (576p)
-https://trs1.aynaott.com/AnjanTV/index.m3u8
-#EXTINF:-1 tvg-id="AnmolCinema.in@SD",Anmol Cinema (576p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-http://103.175.73.12:8080/live/271/271_0.m3u8
-#EXTINF:-1 tvg-id="AnmolCinema2.in@SD",Anmol Cinema 2 (576p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-http://103.175.73.12:8080/live/257/257_0.m3u8
-#EXTINF:-1 tvg-id="AnmolTV.in@SD",Anmol TV (576p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-http://103.175.73.12:8080/live/256/256_0.m3u8
-#EXTINF:-1 tvg-id="ApnaPunjabTV.ca@SD",Apna Punjab TV (720p)
-https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/playlist.m3u8
-#EXTINF:-1 tvg-id="ArputharYesuTV.in@SD",Arputhar Yesu TV (720p)
-https://arputharyesutv.arputharyesutv.com/live/md/index.m3u8
-#EXTINF:-1 tvg-id="ArputharYesuTV.in@SD",Arputhar Yesu TV (576p)
-https://account33.livebox.co.in/jesushelpshls/live.m3u8
-#EXTINF:-1 tvg-id="AryanTVNational.in@SD",Aryan TV National (576p)
-https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8
-#EXTINF:-1 tvg-id="Asianet.in@SD",Asianet (576p)
-#EXTVLCOPT:http-referrer=https://tulnit.com
-https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starasianet1_live_https/index.m3u8
-#EXTINF:-1 tvg-id="AsianetMiddleEast.in@SD",Asianet Middle East (576p)
-https://mumt03.tangotv.in/Dsly5z3HASIANETMIDDLEEAST/index.m3u8
-#EXTINF:-1 tvg-id="AsianetMovies.in@SD",Asianet Movies (576p)
-#EXTVLCOPT:http-referrer=https://tulnit.com
-https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetmovies_live_https/index.m3u8
-#EXTINF:-1 tvg-id="AsianetMovies.in@HD",Asianet Movies HD (1080p)
-http://149.71.34.166:8000/play/a06e/index.m3u8
-#EXTINF:-1 tvg-id="AsianetNews.in@SD",Asianet News (1080p)
-https://amg13737-amg13737c1-amgplt0016.playout.now3.amagi.tv/playlist/amg13737-amg13737c1-amgplt0016/playlist.m3u8
-#EXTINF:-1 tvg-id="AsianetNews.in@SD",Asianet News (1080p)
-https://asianet-samsung.vgcdn.net/ptnr-monitoring/vglive-sk-906908/playlist.m3u8
-#EXTINF:-1 tvg-id="AsianetNews.in@SD",Asianet News (360p)
-https://asianetnews.vgcdn.net/vglive-sk-917600/playlist.m3u8
-#EXTINF:-1 tvg-id="AsianetPlus.in@SD",Asianet Plus (396p)
-#EXTVLCOPT:http-referrer=https://tulnit.com
-https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetplus_live_https/index.m3u8
-#EXTINF:-1 tvg-id="AsianetSuvarnaNews.in@SD",Asianet Suvarna News (1080p) [Not 24/7]
-https://asianetnews.vgcdn.net/vglive-sk-335835/playlist.m3u8
-#EXTINF:-1 tvg-id="AssamTalks.in@SD",Assam Talks (576p)
-https://trs1.aynaott.com/AssamTalks/index.m3u8
-#EXTINF:-1 tvg-id="AwaazIndiaTV.in@SD",Awaaz India TV (720p) [Not 24/7]
-https://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8
-#EXTINF:-1 tvg-id="AyushTV.in@SD",Ayush TV (360p) [Not 24/7]
-https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
-#EXTINF:-1 tvg-id="AyushTV.in@SD",Ayush TV
-https://cdn-6.pishow.tv/live/221/master.m3u8
-#EXTINF:-1 tvg-id="B4UBhojpuri.in@SD",B4U Bhojpuri (1080p)
-https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8
-#EXTINF:-1 tvg-id="B4UBhojpuri.in@SD",B4U Bhojpuri (720p)
-http://103.213.31.109:90/B4UBhojpuri/playlist.m3u8
-#EXTINF:-1 tvg-id="B4UHitz.in@SD",B4U Hitz (576p)
-http://115.42.65.142:9981/stream/channelid/1099703605
-#EXTINF:-1 tvg-id="B4UKadak.in@SD",B4U Kadak (1080p) [Geo-blocked]
-https://amg00877-b4unew-amg00877c4-lg-in-5452.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="B4UKadak.in@SD",B4U Kadak (1080p) [Not 24/7]
-https://cdnb4u.wiseplayout.com/B4U_Kadak/master.m3u8
-#EXTINF:-1 tvg-id="B4UKadak.in@SD",B4U Kadak (720p)
-http://103.213.31.109:90/B4UKadak/playlist.m3u8
-#EXTINF:-1 tvg-id="B4UKadak.in@SD",B4U Kadak (576p)
-https://trs1.aynaott.com/B4U_Kadak/index.m3u8
-#EXTINF:-1 tvg-id="B4UKadak.in@SD",B4U Kadak
-https://cdn-2.pishow.tv/live/227/master.m3u8
-#EXTINF:-1 tvg-id="B4UMovies.in@India",B4U Movies (1080p) [Geo-blocked]
-https://amg00877-b4unew-amg00877c2-lg-in-5260.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="B4UMovies.in@India",B4U Movies (720p)
-http://103.213.31.109:90/B4UMovies/playlist.m3u8
-#EXTINF:-1 tvg-id="B4UMovies.in@India",B4U Movies
-https://cdn-2.pishow.tv/live/419/master.m3u8
-#EXTINF:-1 tvg-id="B4UMusic.in@India",B4U Music (576p)
-https://cdn-2.pishow.tv/live/415/master.m3u8
-#EXTINF:-1 tvg-id="BalleBalle.in@SD",Balle Balle (720p)
-https://mcncdndigital.com/balleballetv/index.m3u8
-#EXTINF:-1 tvg-id="BalleBalle.in@SD",Balle Balle
-https://cdn-4.pishow.tv/live/987/master.m3u8
-#EXTINF:-1 tvg-id="BansalNews.in@SD",Bansal News (720p)
-https://8yzmq2gbdvax-hls-live.wmncdn.net/bansalnewstv1/live1.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Bharat24.in@SD",Bharat24 (1080p)
-#EXTVLCOPT:http-referrer=https://cdn.ottlive.co.in/bharat24/embed.html
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0
-https://cdn.ottlive.co.in/bharat24/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="BharatExpress.in@SD",Bharat Express (480p)
-https://stream1.livebox.co.in/VCAREhls/live.m3u8
-#EXTINF:-1 tvg-id="BharatExpress.in@SD",Bharat Express
-https://cdn-2.pishow.tv/live/1139/master.m3u8
-#EXTINF:-1 tvg-id="BharatSamachar.in@SD",Bharat Samachar (576p)
-https://trs1.aynaott.com/BharatSamachar/index.m3u8
-#EXTINF:-1 tvg-id="BharatSamachar.in@SD",Bharat Samachar (480p)
-https://idvd.multitvsolution.com/idvo/bharatsamachar.m3u8
-#EXTINF:-1 tvg-id="BharatSamachar.in@SD",Bharat Samachar (396p)
-https://d1msejlow1t3l4.cloudfront.net/fta/bharatsamachar/playlist.m3u8
-#EXTINF:-1 tvg-id="BhojpuriCinema.in@SD",Bhojpuri Cinema (720p)
-http://103.213.31.109:90/BhojpuriCinema/playlist.m3u8
-#EXTINF:-1 tvg-id="BhojpuriCinema.in@SD",Bhojpuri Cinema (720p)
-https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-id="BhojpuriCinema.in@SD",Bhojpuri Cinema
-https://cdn-4.pishow.tv/live/1033/master.m3u8
-#EXTINF:-1 tvg-id="BigMagic.in@SD",Big Magic (576p)
-https://mumt05.tangotv.in/87NeALx2BIGMAGIC/index.m3u8
-#EXTINF:-1 tvg-id="BigTV24x7.in@SD",Big TV 24x7 (576i)
-https://d2gvyg6lvauoko.cloudfront.net/230226/bigtvmalyalam/chunks.m3u8
-#EXTINF:-1 tvg-id="BigTV24x7.in@SD",Big TV 24x7 (576i)
-https://d2gvyg6lvauoko.cloudfront.net/230226/bigtvmalyalam/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
-#EXTINF:-1 tvg-id="BTTV.in@SD",BT TV (720p)
-https://feeds.intoday.in/bttv/itgd.m3u8
-#EXTINF:-1 tvg-id="CCV.in@SD",CCV (480p)
-https://5a1178b42cc03.streamlock.net/8212/8212/playlist.m3u8
-#EXTINF:-1 tvg-id="ChannelDivya.in@SD",Channel Divya (1080p)
-https://vg-pitaaratvlive.akamaized.net/v1/vglive-sk-906482/playlist.m3u8
-#EXTINF:-1 tvg-id="ChannelWIN.in@SD",Channel WIN (576p)
-https://trs1.aynaott.com/ChannelWin/index.m3u8
-#EXTINF:-1 tvg-id="ChannelY.ca@SD",Channel Y (720p) [Not 24/7]
-http://cdn19.live247stream.com/channely/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ChardiklaGurbaaniTV.in@SD",Chardikla Gurbaani TV (1080p)
-https://chardikalatimestv.gigabitcdn.net/in-chardikala/chardikala-gurbani-tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ChardiklaTimeTV.in@SD",Chardikla Time TV (1080p)
-https://chardikalagurbanitv.gigabitcdn.net/in-chardikala/chardikala-timetv/playlist.m3u8
-#EXTINF:-1 tvg-id="ChardiklaTimeTV.in@SD",Chardikla Time TV
-https://cdn-4.pishow.tv/live/1627/master.m3u8
-#EXTINF:-1 tvg-id="ChardiklaTimeTVNorthAmerica.in@SD",Chardikla Time TV North America (1080p)
-https://chardikalanorthamerica.gigabitcdn.net/in-chardikala/chardikala-north-usa/playlist.m3u8
-#EXTINF:-1 tvg-id="CNBCAwaaz.in@SD",CNBC Awaaz (1080p)
-https://n18syndication.akamaized.net/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/master.m3u8
-#EXTINF:-1 tvg-id="CNBCBajar.in@SD",CNBC Bajar (1080p)
-https://n18syndication.akamaized.net/bpk-tv/CNBC_Bazaar_NW18_MOB/output01/master.m3u8
-#EXTINF:-1 tvg-id="CNBCTV18.in@SD",CNBC TV18 (1080p)
-https://n18syndication.akamaized.net/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3u8
-#EXTINF:-1 tvg-id="CNBCTV18PrimeHD.in@SD",CNBC TV18 Prime HD (1080p)
-https://n18syndication.akamaized.net/bpk-tv/CNBC_Tv18_Prime_HD_NW18_MOB/output01/index.m3u8
-#EXTINF:-1 tvg-id="CnewsBharat.in@SD",Cnews Bharat (720p)
-https://legitpro.co.in/cnews/cnews/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="ColorsBanglaCinema.in@SD",Colors Bangla Cinema (576p)
-http://103.72.101.252:8080/live/1657.m3u8
-#EXTINF:-1 tvg-id="ColorsBangla.in@HD",Colors Bangla HD (1080p)
-http://103.72.101.252:8080/live/756.m3u8
-#EXTINF:-1 tvg-id="ColorsBangla.in@HD",Colors Bangla HD (1080p)
-http://103.229.254.25:7001/play/a0ds/index.m3u8
-#EXTINF:-1 tvg-id="ColorsBangla.in@HD",Colors Bangla HD (720p)
-https://trs1.aynaott.com/colorsbangla/index.m3u8
-#EXTINF:-1 tvg-id="ColorsCineplex.in@SD",Colors Cineplex (576p)
-http://103.122.249.134:8000/play/a058
-#EXTINF:-1 tvg-id="ColorsCineplexBollywood.in@SD",Colors Cineplex Bollywood (576p)
-http://103.72.101.252:8080/live/1763.m3u8
-#EXTINF:-1 tvg-id="ColorsCineplexBollywood.in@SD",Colors Cineplex Bollywood (564p)
-http://103.213.31.109:90/CineplxBollywood/playlist.m3u8
-#EXTINF:-1 tvg-id="ColorsCineplex.in@HD",Colors Cineplex HD (1080p)
-http://149.71.34.166:8000/play/a00b/index.m3u8
-#EXTINF:-1 tvg-id="ColorsCineplexSuperhits.in@SD",Colors Cineplex Superhits (576p)
-http://103.72.101.252:8080/live/1450.m3u8
-#EXTINF:-1 tvg-id="ColorsGujarati.in@SD",Colors Gujarati (1080p)
-http://103.72.101.252:8080/live/196.m3u8
-#EXTINF:-1 tvg-id="ColorsGujaratiCinema.in@SD",Colors Gujarati Cinema (360p)
-http://103.72.101.252:8080/live/1324.m3u8
-#EXTINF:-1 tvg-id="ColorsInfinity.in@HD",Colors Infinity HD (1080p)
-http://149.71.34.166:8002/play/a01d/index.m3u8
-#EXTINF:-1 tvg-id="ColorsKannada.in@SD",Colors Kannada (576p)
-http://103.72.101.252:8080/live/1370.m3u8
-#EXTINF:-1 tvg-id="ColorsKannadaCinema.in@SD",Colors Kannada Cinema (576p)
-http://103.72.101.252:8080/live/1632.m3u8
-#EXTINF:-1 tvg-id="ColorsKannada.in@HD",Colors Kannada HD (1080p)
-http://103.72.101.252:8080/live/757.m3u8
-#EXTINF:-1 tvg-id="ColorsMarathi.in@SD",Colors Marathi (576p)
-http://103.72.101.252:8080/live/1326.m3u8
-#EXTINF:-1 tvg-id="ColorsMarathi.in@HD",Colors Marathi HD (1080p)
-http://103.72.101.252:8080/live/755.m3u8
-#EXTINF:-1 tvg-id="",Colors Rishtey Asia (1080p)
-http://103.72.101.252:8080/live/279.m3u8
-#EXTINF:-1 tvg-id="ColorsSuper.in@SD",Colors Super (1080p)
-http://103.72.101.252:8080/live/785.m3u8
-#EXTINF:-1 tvg-id="ColorsTamil.in@HD",Colors Tamil HD (1080p)
-http://103.72.101.252:8080/live/429.m3u8
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/StrangeDrVN/epg/public/guide.xml.gz"
+#EXTINF:-1 tvg-id="",35MM (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; ONEPLUS A6003) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.187 Mobile Safari/537.36 EdgA/150.0.4078.96
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/35mm/index.m3u8?ads.vf=qqy_QVwkdkC
+#EXTINF:-1 tvg-id="",Aaj Ki Khabar (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; ONEPLUS A6003) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.187 Mobile Safari/537.36 EdgA/150.0.4078.96
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/aaj-ki-khabar/index.m3u8?ads.vf=aDW1W_0t2nW
+#EXTINF:-1 tvg-id="AmarUjala.in@SD",Amar Ujala (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; ONEPLUS A6003) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.187 Mobile Safari/537.36 EdgA/150.0.4078.96
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/amar-ujala/index.m3u8?ads.vf=d9C-dTw7fve
+#EXTINF:-1 tvg-id="AnandTV.in@SD",Anand Tv (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; ONEPLUS A6003) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.187 Mobile Safari/537.36 EdgA/150.0.4078.96
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/anand-tv/index.m3u8?ads.vf=OKNb9KN8NqS
+#EXTINF:-1 tvg-id="ArgusNews.in@SD",Argus News (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; ONEPLUS A6003) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.187 Mobile Safari/537.36 EdgA/150.0.4078.96
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/argus-news/index.m3u8?ads.vf=IvskZqDOz5G
+#EXTINF:-1 tvg-id="",Atmadarshan Tv (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; ONEPLUS A6003) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.187 Mobile Safari/537.36 EdgA/150.0.4078.96
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/atmadarshan-tv/index.m3u8?ads.vf=7uUA7ZPQxdm
+#EXTINF:-1 tvg-id="",AWE Plus (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; ONEPLUS A6003) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.187 Mobile Safari/537.36 EdgA/150.0.4078.96
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/awe-encore/playlist.m3u8?ads.vf=JS9U64wz-A8
+#EXTINF:-1 tvg-id="BalleBalle.in@SD",Balle Balle (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; ONEPLUS A6003) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.187 Mobile Safari/537.36 EdgA/150.0.4078.96
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/balle-balle/index.m3u8?ads.vf=b8WZfP1_RIy
+#EXTINF:-1 tvg-id="BhakthiSiri.in@SD",Bhakthi Siri (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; ONEPLUS A6003) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.187 Mobile Safari/537.36 EdgA/150.0.4078.96
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bhakthi-siri/index.m3u8?ads.vf=gdvNYWzRJii
+#EXTINF:-1 tvg-id="Bharat24.in@SD",Bharat 24 (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; ONEPLUS A6003) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.187 Mobile Safari/537.36 EdgA/150.0.4078.96
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bharat-24/index.m3u8?ads.vf=FQLn2P7KyXm
+#EXTINF:-1 tvg-id="BharatExpress.in@SD",Bharat Express (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; ONEPLUS A6003) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.187 Mobile Safari/537.36 EdgA/150.0.4078.96
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bharat-express/index.m3u8?ads.vf=rc4w_mtwL4W
+#EXTINF:-1 tvg-id="",Bleav Football (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; ONEPLUS A6003) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.187 Mobile Safari/537.36 EdgA/150.0.4078.96
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bleav-football/playlist.m3u8?ads.vf=MSzrK3wFsnu
+#EXTINF:-1 tvg-id="",Bollywood Masala (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; ONEPLUS A6003) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.187 Mobile Safari/537.36 EdgA/150.0.4078.96
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-masala/index.m3u8?ads.vf=SyLjWbscWiy
+#EXTINF:-1 tvg-id="",CJC Television Network (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; ONEPLUS A6003) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.187 Mobile Safari/537.36 EdgA/150.0.4078.96
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cjc-television-network/55e06661da359ab51bbb2d563521f4b2.m3u8?ads.vf=MyS88Juu55G
+#EXTINF:-1 tvg-id="",CN News (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; ONEPLUS A6003) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.187 Mobile Safari/537.36 EdgA/150.0.4078.96
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cn-news/index.m3u8?ads.vf=VKCO5qOgIx8
+#EXTINF:-1 tvg-id="",Comercio TV (1080p)
+https://amg00082-amg00082c1-distrotv-us-7248.playouts.now.amagi.tv/playlist/amg00082-tarima-comercio-distrotvus/playlist.m3u8
+#EXTINF:-1 tvg-id="TheCowboyChannelCanada.ca@SD",Cowboy Channel (1080p)
+https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-distrotvus/playlist.m3u8
+#EXTINF:-1 tvg-id="",crema.tv (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; ONEPLUS A6003) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.187 Mobile Safari/537.36 EdgA/150.0.4078.96
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/crematv/master.m3u8?ads.vf=bp0PeePtcrO
+#EXTINF:-1 tvg-id="",Crime & Evidence (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; ONEPLUS A6003) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.187 Mobile Safari/537.36 EdgA/150.0.4078.96
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/crime-and-evidence/video.m3u8?ads.vf=8-m_qjKZTGu
 #EXTINF:-1 tvg-id="CTVNAKDPlus.in@SD",CTVN AKD Plus (1080p)
-https://live.legitpro.co.in/ctvnakdplus/index.m3u8
-#EXTINF:-1 tvg-id="Dangal2.in@SD",Dangal 2 (720p)
-http://103.213.31.109:90/Dangal2/playlist.m3u8
-#EXTINF:-1 tvg-id="Dangal2.in@SD",Dangal 2 (720p)
-https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-id="Dangal2.in@SD",Dangal 2 (576p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-http://103.175.73.12:8080/live/18/18_0.m3u8
-#EXTINF:-1 tvg-id="Dangal2.in@SD",Dangal 2 (576p)
-https://trs1.aynaott.com/Dangal2/index.m3u8
-#EXTINF:-1 tvg-id="DangalTV.in@SD",Dangal TV (720p)
-http://103.213.31.109:90/Dangal/playlist.m3u8
-#EXTINF:-1 tvg-id="DangalTV.in@SD",Dangal TV (720p)
-https://live-dangal.akamaized.net/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-id="DangalTV.in@SD",Dangal TV (576p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-http://103.175.73.12:8080/live/17/17_0.m3u8
-#EXTINF:-1 tvg-id="DangalTV.in@SD",Dangal TV (576p)
-https://trs1.aynaott.com/Dangal/index.m3u8
-#EXTINF:-1 tvg-id="DDArunPrabha.in@SD",DD Arun Prabha
-https://cdn-4.pishow.tv/live/32/master.m3u8
-#EXTINF:-1 tvg-id="DDBangla.in@SD",DD Bangla
-https://cdn-4.pishow.tv/live/37/master.m3u8
-#EXTINF:-1 tvg-id="DDBharati.in@SD",DD Bharati (720p)
-http://103.213.31.109:90/DDBharati/playlist.m3u8
-#EXTINF:-1 tvg-id="DDChandana.in@SD",DD Chandana
-https://cdn-3.pishow.tv/live/28/master.m3u8
-#EXTINF:-1 tvg-id="DDIndia.in@SD",DD India (720p)
-http://103.213.31.109:90/DDIndia/playlist.m3u8
-#EXTINF:-1 tvg-id="DDIndia.in@SD",DD India (720p)
-https://d2gvyg6lvauoko.cloudfront.net/230226/ddindia/chunks.m3u8
-#EXTINF:-1 tvg-id="DDJharkhand.in@SD",DD Jharkhand
-https://cdn-1.pishow.tv/live/1617/master.m3u8
-#EXTINF:-1 tvg-id="DDKashir.in@SD",DD Kashir
-https://cdn-6.pishow.tv/live/16/master.m3u8
-#EXTINF:-1 tvg-id="DDMalayalam.in@SD",DD Malayalam
-https://cdn-3.pishow.tv/live/27/master.m3u8
-#EXTINF:-1 tvg-id="DDNational.in@HD",DD National HD (576p)
-https://mumt01.tangotv.in/O5aw8Zn3DDNATIONALHD/index.m3u8
-#EXTINF:-1 tvg-id="DDNews.in@SD",DD News
-https://cdn-2.pishow.tv/live/12/master.m3u8
-#EXTINF:-1 tvg-id="DDPunjabi.in@SD",DD Punjabi
-https://cdn-4.pishow.tv/live/24/master.m3u8
-#EXTINF:-1 tvg-id="DDSahyadri.in@SD",DD Sahyadri
-https://cdn-3.pishow.tv/live/30/master.m3u8
-#EXTINF:-1 tvg-id="DDSports.in@SD",DD Sports SD (720p)
-http://103.213.31.109:90/ZeeAnmolCinema2/playlist.m3u8
-#EXTINF:-1 tvg-id="DDSports.in@SD",DD Sports SD (576p)
-https://trs1.aynaott.com/ddsports/index.m3u8
-#EXTINF:-1 tvg-id="DDTamil.in@SD",DD Tamil
-https://cdn-2.pishow.tv/live/26/master.m3u8
-#EXTINF:-1 tvg-id="DesiChannel.in@SD",Desi Channel (720p)
-https://livestream.unlimitedcdn.com/agm-dc/desi-channel/index.m3u8
-#EXTINF:-1 tvg-id="DharmSandesh.in@SD",Dharm Sandesh
-https://cdn-2.pishow.tv/live/1455/master.m3u8
-#EXTINF:-1 tvg-id="DharsanTV.in@SD",Dharsan TV (720p)
-https://cable91tataplay.akamaized.net/live/dharshantv/index.m3u8
-#EXTINF:-1 tvg-id="DheeranTV.in@SD",Dheeran TV (576p)
-https://live.we2live.in/dheerantv/dheerantv/playlist.m3u8
-#EXTINF:-1 tvg-id="DigiShala.in@SD",Digi Shala (576p)
-http://103.72.101.252:8080/live/1227.m3u8
-#EXTINF:-1 tvg-id="DishBuzz.in@SD",Dish Buzz (720p)
-http://217.20.112.199:8080/animalplanet/index.m3u8
-#EXTINF:-1 tvg-id="DisneyInternationalHD.in@SD",Disney International HD (1080p)
-http://149.71.34.166:8002/play/a01p/index.m3u8
-#EXTINF:-1 tvg-id="DisneyJunior.in@SD",Disney Junior (576p)
-http://149.71.34.166:8000/play/a00l/index.m3u8
-#EXTINF:-1 tvg-id="DivyavaniTV.in@SD",Divyavani TV (576p)
-https://mumbai-edge.smartplaytv.in/Divyavani/index.m3u8
-#EXTINF:-1 tvg-id="DY365.in@SD",DY 365 (360p)
-https://cdn.smartstream.video/smartstream-us/dy365/dy365/playlist.m3u8
-#EXTINF:-1 tvg-id="E24.in@SD",E 24 (576p)
-https://trs1.aynaott.com/e24/index.m3u8
-#EXTINF:-1 tvg-id="EVidya1.in@SD",E-Vidya 1 (576p)
-http://103.72.101.252:8080/live/400.m3u8
-#EXTINF:-1 tvg-id="EVidya2.in@SD",E-Vidya 2 (576p)
-http://103.72.101.252:8080/live/402.m3u8
-#EXTINF:-1 tvg-id="EVidya3.in@SD",E-Vidya 3 (576p)
-http://103.72.101.252:8080/live/405.m3u8
-#EXTINF:-1 tvg-id="EVidya4.in@SD",E-Vidya 4 (576p)
-http://103.72.101.252:8080/live/406.m3u8
-#EXTINF:-1 tvg-id="EVidya5.in@SD",E-Vidya 5 (576p)
-http://103.72.101.252:8080/live/407.m3u8
-#EXTINF:-1 tvg-id="EVidya6.in@SD",E-Vidya 6 (576p)
-http://103.72.101.252:8080/live/408.m3u8
-#EXTINF:-1 tvg-id="EVidya7.in@SD",E-Vidya 7 (576p)
-http://103.72.101.252:8080/live/404.m3u8
-#EXTINF:-1 tvg-id="EVidya8.in@SD",E-Vidya 8 (576p)
-http://103.72.101.252:8080/live/409.m3u8
-#EXTINF:-1 tvg-id="EVidya9.in@SD",E-Vidya 9 (576p)
-http://103.72.101.252:8080/live/410.m3u8
-#EXTINF:-1 tvg-id="EVidya10.in@SD",E-Vidya 10 (576p)
-http://103.72.101.252:8080/live/411.m3u8
-#EXTINF:-1 tvg-id="EVidya11.in@SD",E-Vidya 11 (576p)
-http://103.72.101.252:8080/live/1410.m3u8
-#EXTINF:-1 tvg-id="EVidya12.in@SD",E-Vidya 12 (576p)
-http://103.72.101.252:8080/live/1532.m3u8
-#EXTINF:-1 tvg-id="EETTV.in@SD",EET TV (1080p) [Not 24/7]
-https://live.streamjo.com/eetlive/eettv.m3u8
-#EXTINF:-1 tvg-id="Enterr10Bangla.in@SD",Enterr 10 Bangla (720p) [Not 24/7]
-https://live-bangla.akamaized.net/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-id="Enterr10Bangla.in@SD",Enterr 10 Bangla
-https://cdn-4.pishow.tv/live/241/master.m3u8
-#EXTINF:-1 tvg-id="EpicBharat.in@SD",Epic Bharat (576p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-http://103.175.73.12:8080/live/471/master.m3u8
-#EXTINF:-1 tvg-id="EpicBhojpuri.in@SD",Epic Bhojpuri (576p)
-https://mumt01.tangotv.in/O5aw8Zn3EPICBHOJPURI/index.m3u8
-#EXTINF:-1 tvg-id="EpicMusic.in@SD",Epic Music (576p)
-https://mumt04.tangotv.in/m18aqlK4EPICMUSIC/index.m3u8
-#EXTINF:-1 tvg-id="EpicTV.in@SD",Epic TV (576p)
-http://149.71.34.166:8000/play/a00m/index.m3u8
-#EXTINF:-1 tvg-id="EpicTV.in@Digital",Epic TV Digital (1080p)
-https://cc-czbq30x55knit.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-czbq30x55knit/DIYC/PMSL/IN10/Epic_TV_IN_B/Epic_TV_IN_B.m3u8
-#EXTINF:-1 tvg-id="ETNow.in@SD",ET Now (720p) [Geo-blocked]
-#EXTVLCOPT:http-referrer=https://www.timesnownews.com/
-https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/etnow/etnow_master.m3u8
-#EXTINF:-1 tvg-id="ETNowSwadesh.in@SD",ET Now Swadesh (720p)
-https://d32gxr3r1ksq2p.cloudfront.net/master.m3u8
-#EXTINF:-1 tvg-id="ETVAndhraPradesh.in@SD",ETV Andhra Pradesh (1080p)
-https://d1g35elx8qnif3.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_AP_H264_cloud_in/index.m3u8
-#EXTINF:-1 tvg-id="ETVCinema.in@HD",ETV Cinema HD (1080p)
-https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8
-#EXTINF:-1 tvg-id="ETVComedy.in@HD",ETV Comedy (1080p)
-https://cc-wie8j8y69d2uy.akamaized.net/WWBI/Amagi/ETV_Comedy_IN/playlist.m3u8
-#EXTINF:-1 tvg-id="ETVJosh.in@HD",ETV Josh (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; ONEPLUS A6003) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.187 Mobile Safari/537.36 EdgA/150.0.4078.96
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/ctvn-akd-plus/index.m3u8?ads.vf=VuEjxV-h6Xe
+#EXTINF:-1 tvg-id="",DA News Plus (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; ONEPLUS A6003) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.187 Mobile Safari/537.36 EdgA/150.0.4078.96
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/da-news-plus/index.m3u8?ads.vf=AyISeWRaL8G
+#EXTINF:-1 tvg-id="DaystarTVEspanol.us@SD",Daystar Español (720p)
+https://live-mcl.cdn01.net/smarttv/64wj6m6d8/playlist.m3u8
+#EXTINF:-1 tvg-id="DaystarTV.us@SD",Daystar TV (1080p)
+https://live-mcl.cdn01.net/smarttv/48vy43564/playlist.m3u8
+#EXTINF:-1 tvg-id="DeFianceMedia.pr@SD",DeFiance Media (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; ONEPLUS A6003) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.187 Mobile Safari/537.36 EdgA/150.0.4078.96
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/defiance-media/playlist.m3u8?ads.vf=vUI6YpdKlAm
+#EXTINF:-1 tvg-id="DroneTV.us@SD",DroneTV (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; ONEPLUS A6003) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.187 Mobile Safari/537.36 EdgA/150.0.4078.96
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/dronetv/playlist.m3u8?ads.vf=CdxJHukE0Om
+#EXTINF:-1 tvg-id="",FEVA MUSIC (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; ONEPLUS A6003) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.187 Mobile Safari/537.36 EdgA/150.0.4078.96
+https://dmecgxuzr2ywk.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-FEVAMusic/417.m3u8?ads.vf=tnxM2v6NH4m
+#EXTINF:-1 tvg-id="FEVATV.ca@SD",FEVA TV (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; ONEPLUS A6003) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.187 Mobile Safari/537.36 EdgA/150.0.4078.96
+https://d21x3vavxu7p2x.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-FEVATV/416.m3u8?ads.vf=nn5CUAdOxVu
+#EXTINF:-1 tvg-id="",FloRacing 24/7 (1080p)
+https://amg02278-amg02278c1-distrotv-us-7534.playouts.now.amagi.tv/playlist/amg02278-flosports-floracing24x7-distrotvus/playlist.m3u8
+#EXTINF:-1 tvg-id="FUELTV.pt@EMEA",FUEL TV (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; ONEPLUS A6003) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.187 Mobile Safari/537.36 EdgA/150.0.4078.96
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/fuel-tv-ww/playlist.m3u8?ads.vf=rPs_7NoEsnu
+#EXTINF:-1 tvg-id="",Garv Punjab Gurbani (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; ONEPLUS A6003) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.187 Mobile Safari/537.36 EdgA/150.0.4078.96
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/garv-punjab-gurbani/index.m3u8?ads.vf=3s3toJC4g3i
+#EXTINF:-1 tvg-id="GTCPunjabi.in@SD",GTC Punjabi (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; ONEPLUS A6003) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.187 Mobile Safari/537.36 EdgA/150.0.4078.96
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/gtc-punjabi/index.m3u8?ads.vf=lZ1whEtKSKO
+#EXTINF:-1 tvg-id="GujaratFirst.in@SD",Gujarat First (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; ONEPLUS A6003) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.187 Mobile Safari/537.36 EdgA/150.0.4078.96
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/gujarat-first/index.m3u8?ads.vf=aXdXji5fkdu
+#EXTINF:-1 tvg-id="GustoTV.ca@SD",Gusto TV (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; ONEPLUS A6003) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.187 Mobile Safari/537.36 EdgA/150.0.4078.96
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/gusto-tv/playlist.m3u8?ads.vf=kWp29zpXm1y
+#EXTINF:-1 tvg-id="HardKnocks.ca@SD",Hard Knocks (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; ONEPLUS A6003) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.187 Mobile Safari/537.36 EdgA/150.0.4078.96
+https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8?ads.vf=6pOF6kgy418
+#EXTINF:-1 tvg-id="HumorMill.us@SD",Humor Mill (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; ONEPLUS A6003) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.187 Mobile Safari/537.36 EdgA/150.0.4078.96
+https://damkf751d85s1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HumorMill-DistroTV/152.m3u8?ads.vf=3I7CXmxz7vK
+#EXTINF:-1 tvg-id="",In Touch+ (1080p)
+https://amg01540-amg01540c2-distrotv-us-8133.playouts.now.amagi.tv/playlist/amg01540-apexmediafast-intouchplus-distrotvus/playlist.m3u8
+#EXTINF:-1 tvg-id="",India Daily 24x7 (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; ONEPLUS A6003) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.187 Mobile Safari/537.36 EdgA/150.0.4078.96
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/india-daily-24x7/index.m3u8?ads.vf=gZKszyLINNq
+#EXTINF:-1 tvg-id="",Indian News (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; ONEPLUS A6003) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.187 Mobile Safari/537.36 EdgA/150.0.4078.96
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/news-flash/index.m3u8?ads.vf=CP27TXRaa-O
+#EXTINF:-1 tvg-id="",Janataa TV Kannada (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; ONEPLUS A6003) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.187 Mobile Safari/537.36 EdgA/150.0.4078.96
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/janataa-tv-kannada/index.m3u8?ads.vf=CVzrhUWs7jq
+#EXTINF:-1 tvg-id="",Kalyan TV (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; ONEPLUS A6003) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.187 Mobile Safari/537.36 EdgA/150.0.4078.96
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kalyan-tv/index.m3u8?ads.vf=N97igK1qjJK
+#EXTINF:-1 tvg-id="",Kartavya TV (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; ONEPLUS A6003) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.187 Mobile Safari/537.36 EdgA/150.0.4078.96
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kartavya-tv/index.m3u8?ads.vf=JNOFwoi1DXW
+#EXTINF:-1 tvg-id="KolkataTV.in@SD",Kolkata Tv (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; ONEPLUS A6003) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.187 Mobile Safari/537.36 EdgA/150.0.4078.96
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kolkata-tv/index.m3u8?ads.vf=XQ97azbjCMq
+#EXTINF:-1 tvg-id="KTVBangla.in@SD",KTV Bangla (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; ONEPLUS A6003) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.187 Mobile Safari/537.36 EdgA/150.0.4078.96
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tribe-tv/index.m3u8?ads.vf=n-PW1kNShHi
+#EXTINF:-1 tvg-id="",Lakshya TV (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; ONEPLUS A6003) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.187 Mobile Safari/537.36 EdgA/150.0.4078.96
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/lakshya-tv/index.m3u8?ads.vf=o5tDPMkI440
+#EXTINF:-1 tvg-id="LivingIndiaNews.in@SD",Living India News (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; ONEPLUS A6003) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.187 Mobile Safari/537.36 EdgA/150.0.4078.96
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/living-india-news/index.m3u8?ads.vf=wbLu_BTM9ES
+#EXTINF:-1 tvg-id="LoneStar.us@US",Lone Star (1080p)
+https://cineverse.g-mana.live/media/901011e7-9149-48cb-aabc-9218760e54fe/master.m3u8
+#EXTINF:-1 tvg-id="",Mahua Khabar (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; ONEPLUS A6003) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.187 Mobile Safari/537.36 EdgA/150.0.4078.96
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mahua-khabar/index.m3u8?ads.vf=cjpu5dTXKAu
+#EXTINF:-1 tvg-id="",Mahua Play (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; ONEPLUS A6003) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.187 Mobile Safari/537.36 EdgA/150.0.4078.96
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mahua-play/index.m3u8?ads.vf=ss7qHgRK8R8
+#EXTINF:-1 tvg-id="",Mediacorp Entertainment – English (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; ONEPLUS A6003) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.187 Mobile Safari/537.36 EdgA/150.0.4078.96
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-english/manifest.m3u8?ads.vf=g48qoh_qHLS
+#EXTINF:-1 tvg-id="",Mediacorp Entertainment – Tamil (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; ONEPLUS A6003) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.187 Mobile Safari/537.36 EdgA/150.0.4078.96
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-tamil/manifest.m3u8?ads.vf=7NuondEN9pK
+#EXTINF:-1 tvg-id="MunsifTV.in@SD",Munsif Tv (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; ONEPLUS A6003) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.187 Mobile Safari/537.36 EdgA/150.0.4078.96
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/munsif-tv/index.m3u8?ads.vf=bgM_sblbBYC
+#EXTINF:-1 tvg-id="",Nakshatra Digital Tv (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; ONEPLUS A6003) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.187 Mobile Safari/537.36 EdgA/150.0.4078.96
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/nakshatra-digital-tv/index.m3u8?ads.vf=PjzI-khWYCe
+#EXTINF:-1 tvg-id="",Namma Bangalore (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; ONEPLUS A6003) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.187 Mobile Safari/537.36 EdgA/150.0.4078.96
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/namma-bangalore/index.m3u8?ads.vf=eSzAQfnJzCG
+#EXTINF:-1 tvg-id="",News Marathi 24X7 (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; ONEPLUS A6003) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.187 Mobile Safari/537.36 EdgA/150.0.4078.96
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/news-marathi-24x7/index.m3u8?ads.vf=frkc_BsxnRO
+#EXTINF:-1 tvg-id="Novocomedy.fr@SD",Novo Comedy (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; ONEPLUS A6003) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.187 Mobile Safari/537.36 EdgA/150.0.4078.96
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/novo-comedy/video.m3u8?ads.vf=CMRSFvusYbe
+#EXTINF:-1 tvg-id="OANPlus.us@SD",OAN Plus (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; ONEPLUS A6003) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.187 Mobile Safari/537.36 EdgA/150.0.4078.96
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/oan-encore/playlist.m3u8?ads.vf=SVKVXmuK18W
+#EXTINF:-1 tvg-id="",OurVinyl (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; ONEPLUS A6003) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.187 Mobile Safari/537.36 EdgA/150.0.4078.96
+https://d2bs6p84qq6krv.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-OurVinyl/459.m3u8?ads.vf=aJG-o6ZGH4y
+#EXTINF:-1 tvg-id="OutdoorChannel.us@SD",Outdoor Channel (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; ONEPLUS A6003) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.187 Mobile Safari/537.36 EdgA/150.0.4078.96
+https://d3ehdya3kqqd52.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-OutdoorChannelV2/455.m3u8?ads.vf=z_DyaXIqL6G
+#EXTINF:-1 tvg-id="OutsideTV.us@SD",Outside (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; ONEPLUS A6003) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.187 Mobile Safari/537.36 EdgA/150.0.4078.96
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/outsidetv/playlist.m3u8?ads.vf=_zniV8aeQY4
+#EXTINF:-1 tvg-id="PrathamKhabar24x7.in@SD",Pratham Khabar 24x7 (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; ONEPLUS A6003) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.187 Mobile Safari/537.36 EdgA/150.0.4078.96
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pratham-khabar-24x7/index.m3u8?ads.vf=BVw-POiR-D8
+#EXTINF:-1 tvg-id="PrimeAsiaTV.ca@SD",Prime Asia Tv (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; ONEPLUS A6003) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.187 Mobile Safari/537.36 EdgA/150.0.4078.96
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/prime-asia-tv/index.m3u8?ads.vf=VB6jQQgalOa
+#EXTINF:-1 tvg-id="PunjabiHits.in@SD",Punjabi Hits (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; ONEPLUS A6003) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.187 Mobile Safari/537.36 EdgA/150.0.4078.96
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/punjabi-hits/index.m3u8?ads.vf=QAmA4r77J0G
+#EXTINF:-1 tvg-id="",Punjabi Shorts (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; ONEPLUS A6003) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.187 Mobile Safari/537.36 EdgA/150.0.4078.96
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/punjabi-shorts/index.m3u8?ads.vf=CaFQYzV2DFe
+#EXTINF:-1 tvg-id="RightNowTV.us@SD",Right Now Tv (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; ONEPLUS A6003) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.187 Mobile Safari/537.36 EdgA/150.0.4078.96
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/right-now-tv/playlist.m3u8?ads.vf=XXIrbw6_Odq
+#EXTINF:-1 tvg-id="RongeenTV.in@SD",Rongeen Tv (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; ONEPLUS A6003) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.187 Mobile Safari/537.36 EdgA/150.0.4078.96
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/rongeen-tv/index.m3u8?ads.vf=omZ-ScCp1GC
+#EXTINF:-1 tvg-id="",Rozana Spokesman (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; ONEPLUS A6003) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.187 Mobile Safari/537.36 EdgA/150.0.4078.96
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/rozana-spokesman/index.m3u8?ads.vf=yPcCYlpkop4
+#EXTINF:-1 tvg-id="",Schwab Network (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; ONEPLUS A6003) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.187 Mobile Safari/537.36 EdgA/150.0.4078.96
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tdameritrade/playlist.m3u8?ads.vf=rcQ6ACe-b5m
+#EXTINF:-1 tvg-id="",Sports First TV (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; ONEPLUS A6003) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.187 Mobile Safari/537.36 EdgA/150.0.4078.96
+https://d2396zb8liu8hs.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-SportsFirstTV/409.m3u8?ads.vf=IqoHUzAjl6S
+#EXTINF:-1 tvg-id="SudarshanNews.in@SD",Sudarshan News (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; ONEPLUS A6003) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.187 Mobile Safari/537.36 EdgA/150.0.4078.96
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sudarshan-news/index.m3u8?ads.vf=6ZWahdKAvmG
+#EXTINF:-1 tvg-id="",Sundrani Tv (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; ONEPLUS A6003) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.187 Mobile Safari/537.36 EdgA/150.0.4078.96
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sundrani-tv/index.m3u8?ads.vf=4YyM2llS7-K
+#EXTINF:-1 tvg-id="",Swar Shree (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; ONEPLUS A6003) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.187 Mobile Safari/537.36 EdgA/150.0.4078.96
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/swar-shree/index.m3u8?ads.vf=N85canAP53y
+#EXTINF:-1 tvg-id="TabbarHits.in@SD",Tabbar Hits (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; ONEPLUS A6003) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.187 Mobile Safari/537.36 EdgA/150.0.4078.96
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tabbar-hits/index.m3u8?ads.vf=n1xb6TPm9sa
+#EXTINF:-1 tvg-id="",Tara Tv (360p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; ONEPLUS A6003) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.187 Mobile Safari/537.36 EdgA/150.0.4078.96
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tara-tv/index.m3u8?ads.vf=OAsEepvGJaK
+#EXTINF:-1 tvg-id="",The Unmute (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; ONEPLUS A6003) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.187 Mobile Safari/537.36 EdgA/150.0.4078.96
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/the-unmute/index.m3u8?ads.vf=jq2nZx1sYrK
+#EXTINF:-1 tvg-id="",Top News Marathi (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; ONEPLUS A6003) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.187 Mobile Safari/537.36 EdgA/150.0.4078.96
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/top-news-marathi/index.m3u8?ads.vf=9nH59SigbNW
+#EXTINF:-1 tvg-id="",Unleashed by DOGTV (1080p)
+https://amg26269-amg26269c2-distrotv-us-8939.playouts.now.amagi.tv/playlist/amg26269-dogtv-unleashedbydogtv-distrotvus/playlist.m3u8
+#EXTINF:-1 tvg-id="",Vande Bharat News (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; ONEPLUS A6003) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.187 Mobile Safari/537.36 EdgA/150.0.4078.96
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/vande-bharat-news/index.m3u8?ads.vf=FOrCnxHlHG8
+#EXTINF:-1 tvg-id="",WFN: World Fishing Network (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; ONEPLUS A6003) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.187 Mobile Safari/537.36 EdgA/150.0.4078.96
+https://d3b3ldcvgsu291.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-WFN/477.m3u8?ads.vf=mDHh59pDPYW
+#EXTINF:-1 tvg-id="",World Punjabi Tv (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; ONEPLUS A6003) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.187 Mobile Safari/537.36 EdgA/150.0.4078.96
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/world-punjabi-tv/index.m3u8?ads.vf=9V4G7iab_c0
+#EXTINF:-1 tvg-id="",Zoomer TV (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; ONEPLUS A6003) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.187 Mobile Safari/537.36 EdgA/150.0.4078.96
+https://dq126dsoud56d.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Zoomer-DistroTV/316.m3u8?ads.vf=DoYjaTaR5sC
