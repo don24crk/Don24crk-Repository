@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 fanart-image="https://i.pinimg.com/736x/33/01/c9/3301c9a82adac20eb33eef337b57562d.jpg",TÜRKÇE dublaj HİNT FİLMİ KABHİ KHUSHİ KABHİE GHAM Bir Shahrukh khan klasiği EN KALİTELİSİ BU!,fanartimage="https://i.pinimg.com/736x/33/01/c9/3301c9a82adac20eb33eef337b57562d.jpg"
-plugin://plugin.video.youtube/play/?video_id=Ap8ina2ElB0
-#EXTINF:-1 fanart-image="https://i.pinimg.com/736x/33/01/c9/3301c9a82adac20eb33eef337b57562d.jpg",Aşk Treni - Chennai Express 2013 | Bollywood Hint Filmi (Türkçe Dublaj),fanartimage="https://i.pinimg.com/736x/33/01/c9/3301c9a82adac20eb33eef337b57562d.jpg"
-plugin://plugin.video.youtube/play/?video_id=sJecuzKWwiI
-#EXTINF:-1 fanart-image="https://i.pinimg.com/736x/33/01/c9/3301c9a82adac20eb33eef337b57562d.jpg",DEVDAS turkce dublaj,fanartimage="https://i.pinimg.com/736x/33/01/c9/3301c9a82adac20eb33eef337b57562d.jpg"
-plugin://plugin.video.youtube/play/?video_id=7QrLYledtJI
-#EXTINF:-1 fanart-image="https://i.pinimg.com/736x/33/01/c9/3301c9a82adac20eb33eef337b57562d.jpg",Uyanık İkizler (Hint filmi, Türkçe dublaj),fanartimage="https://i.pinimg.com/736x/33/01/c9/3301c9a82adac20eb33eef337b57562d.jpg"
-plugin://plugin.video.youtube/play/?video_id=6G1szFST3LM
+#EXTINF:1fanartimage="https://i.pinimg.com/736x/33/01/c9/3301c9a82adac20eb33eef337b57562d.jpg",TÜRKÇE dublaj HİNT FİLMİ KABHİ KHUSHİ KABHİE GHAM Bir Shahrukh khan klasiği EN KALİTELİSİ BU! 
+https://www.youtube.com/watch?v=Ap8ina2ElB0
+#EXTINF:1fanartimage="https://i.pinimg.com/736x/33/01/c9/3301c9a82adac20eb33eef337b57562d.jpg",Aşk Treni - Chennai Express 2013 | Bollywood Hint Filmi (Türkçe Dublaj) 
+https://www.youtube.com/watch?v=sJecuzKWwiI
+#EXTINF:1fanartimage="https://i.pinimg.com/736x/33/01/c9/3301c9a82adac20eb33eef337b57562d.jpg",DEVDAS turkce dublaj 
+https://www.youtube.com/watch?v=7QrLYledtJI
+#EXTINF:1fanartimage="https://i.pinimg.com/736x/33/01/c9/3301c9a82adac20eb33eef337b57562d.jpg",Uyanık İkizler (Hint filmi, Türkçe dublaj) 
+https://www.youtube.com/watch?v=6G1szFST3LM
