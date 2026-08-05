@@ -2,13 +2,13 @@
 #EXTINF:1,STARTV
 https://dygvideo.dygdigital.com/live/hls/startv4puhu/live.m3u8
 #EXTINF:1,EUROSTAR
-plugin://plugin.video.youtube/play/?video_id=82O6yOy_XwE
+https://www.youtube.com/watch?v=82O6yOy_XwE
 #EXTINF:1,A2
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8
 #EXTINF:1,ATV
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8
 #EXTINF:1,ATV AVRUPA
-plugin://plugin.video.youtube/play/?video_id=7e9GkX0MmTs
+https://www.youtube.com/watch?v=7e9GkX0MmTs
 #EXTINF:1,TRT1
 https://tvizle.tr/api/proxy?url=https%3A%2F%2Ftv-trt1.medya.trt.com.tr%2Fmaster.m3u8
 #EXTINF:1,TRT2
@@ -22,7 +22,7 @@ https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk.m3u8
 #EXTINF:1,SHOWTV
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
 #EXTINF:1,SHOWTÜRK
-plugin://plugin.video.youtube/play/?video_id=cbgKyiqOljQ
+https://www.youtube.com/watch?v=cbgKyiqOljQ
 #EXTINF:1,SHOWMAX
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax.m3u8
 #EXTINF:1,NOWTV
@@ -50,7 +50,7 @@ https://trkvz-live.ercdn.net/ahaberhd/ahaberhd.m3u8
 #EXTINF:1,CANLI24
 https://turkmedya-live.ercdn.net/tv24/tv24_1080p.m3u8
 #EXTINF:1,CNNTÜRK
-plugin://plugin.video.youtube/play/?video_id=6N8_r2uwLEc
+https://www.youtube.com/watch?v=6N8_r2uwLEc
 #EXTINF:1,TRT Müzik
 https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
 #EXTINF:1,TRT Çocuk
@@ -62,7 +62,7 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_72
 #EXTINF:1,MINIKA GO
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_720p.m3u8
 #EXTINF:1,N-TV
-plugin://plugin.video.youtube/play/?video_id=pqq5c6k70kk
+https://www.youtube.com/watch?v=pqq5c6k70kk
 #EXTINF:1,A Spor
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8
 #EXTINF:1,FBTV
@@ -70,9 +70,9 @@ https://fbtv.fenerbahce.org/fenerbahcetv.stream/chunklist.m3u8
 #EXTINF:1,TRT SPOR
 https://tvizle.tr/api/proxy?url=https%3A%2F%2Ftv-trtspor1.medya.trt.com.tr/master.m3u8
 #EXTINF:1,Şunal TV
-plugin://plugin.video.youtube/play/?video_id=tWWFY5lf1U0
+https://www.youtube.com/watch?v=tWWFY5lf1U0
 #EXTINF:1,Şaban TV
-plugin://plugin.video.youtube/play/?video_id=mq4GiHzxZwk
+https://www.youtube.com/watch?v=mq4GiHzxZwk
 #EXTINF:1,TLC
 https://tvizle.tr/api/proxy?url=https%3A%2F%2Ftinyurl.com%2Fturktlc
 #EXTINF:1,DMAX
