@@ -22,7 +22,7 @@ https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8
 #EXTINF:-1 tvg-id="Show TV" tvg-name="Show TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/q0jrHyZ/show.png" fanart-image="https://i.pinimg.com/736x/33/01/c9/3301c9a82adac20eb33eef337b57562d.jpg",Show TV
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
 #EXTINF:-1 tvg-id="Show Türk" tvg-name="Show Türk" tvg-language="Turkish" tvg-logo="https://www.ariasat.de/out/pictures/generated/product/1/540_340_75/showturk.png" fanart-image="https://i.pinimg.com/736x/33/01/c9/3301c9a82adac20eb33eef337b57562d.jpg",Show Türk
-https://ciner-live.ercdn.net/showturk/showturk_720p.m3u8?e=1786133130&st=4l9xUaFsIPsZxOUU06ASXQ&tv=1|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A153.0)%20Gecko%2F20100101%20Firefox%2F153.0&Referer=https%3A%2F%2Fwww.showturk.com.tr%2F
+https://ciner-live.ercdn.net/showturk/playlist.m3u8?e=1786150306&st=Z12aloDyVh7twwYt6XWxDA&tv=1|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A153.0)%20Gecko%2F20100101%20Firefox%2F153.0&Referer=https%3A%2F%2Fwww.showturk.com.tr%2F
 #EXTINF:-1 tvg-id="Show Max" tvg-name="Show Max" tvg-language="Turkish" tvg-logo="https://i.ibb.co/gWMPdrc/showmax.png" fanart-image="https://i.pinimg.com/736x/33/01/c9/3301c9a82adac20eb33eef337b57562d.jpg",Show Max
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax.m3u8
 #EXTINF:-1 tvg-id="NOWTV" tvg-name="NOWTV" tvg-language="Turkish" tvg-logo="https://images.seeklogo.com/logo-png/51/1/now-tv-turkey-logo-png_seeklogo-519520.png" fanart-image="https://i.pinimg.com/736x/33/01/c9/3301c9a82adac20eb33eef337b57562d.jpg",NOWTV
@@ -62,7 +62,7 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_72
 #EXTINF:-1 tvg-id="Minika Go" tvg-name="Minika Go" tvg-language="Turkish" tvg-logo="https://i.ibb.co/cQM08hH/minikago.png" fanart-image="https://i.pinimg.com/736x/33/01/c9/3301c9a82adac20eb33eef337b57562d.jpg",Minika Go
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_720p.m3u8
 #EXTINF:-1 tvg-id="NTV" tvg-name="NTV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/YWsrfZx/ntv.png" fanart-image="https://i.pinimg.com/736x/33/01/c9/3301c9a82adac20eb33eef337b57562d.jpg",NTV
-https://dogus.daioncdn.net/ntv/ntv_1080p.m3u8?token=REwrRjlwWnNlM09mQVhtVXlVTTdLcWM2UmQ2VVBURUk3RGo2RU1xRzQxQT0=&sid=8navmtn9ybai&app=7c4bb802-0c41-409e-8cd2-799984995694&ce=3|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A153.0)%20Gecko%2F20100101%20Firefox%2F153.0&Referer=https%3A%2F%2Fpuhutv.com%2F
+https://tvizle.tr/api/proxy?url=https%3A%2F%2Fdogus.daioncdn.net%2Fntv%2Fntv.m3u8%3Fapp%3Dntv_web
 #EXTINF:-1 tvg-id="a Spor" tvg-name="a Spor" tvg-language="Turkish" tvg-logo="https://i.ibb.co/SJ3BGgP/aspor.png" fanart-image="https://i.pinimg.com/736x/33/01/c9/3301c9a82adac20eb33eef337b57562d.jpg",a Spor
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8
 #EXTINF:-1 tvg-id="FBTV" tvg-name="FBTV" tvg-language="Turkish" tvg-logo="https://pbs.twimg.com/profile_images/1988157905476952064/tpNs_gzD_400x400.jpg" fanart-image="https://i.pinimg.com/736x/33/01/c9/3301c9a82adac20eb33eef337b57562d.jpg",FBTV
