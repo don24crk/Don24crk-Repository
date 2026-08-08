@@ -22,7 +22,7 @@ https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8
 #EXTINF:-1 tvg-id="Show TV" tvg-name="Show TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/q0jrHyZ/show.png" fanart-image="https://i.pinimg.com/736x/33/01/c9/3301c9a82adac20eb33eef337b57562d.jpg",Show TV
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
 #EXTINF:-1 tvg-id="Show Türk" tvg-name="Show Türk" tvg-language="Turkish" tvg-logo="https://www.ariasat.de/out/pictures/generated/product/1/540_340_75/showturk.png" fanart-image="https://i.pinimg.com/736x/33/01/c9/3301c9a82adac20eb33eef337b57562d.jpg",Show Türk
-https://ciner-live.ercdn.net/showturk/playlist.m3u8?e=1786150306&st=Z12aloDyVh7twwYt6XWxDA&tv=1|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A153.0)%20Gecko%2F20100101%20Firefox%2F153.0&Referer=https%3A%2F%2Fwww.showturk.com.tr%2F
+https://www.youtube.com/watch?v=cbgKyiqOljQ
 #EXTINF:-1 tvg-id="Show Max" tvg-name="Show Max" tvg-language="Turkish" tvg-logo="https://i.ibb.co/gWMPdrc/showmax.png" fanart-image="https://i.pinimg.com/736x/33/01/c9/3301c9a82adac20eb33eef337b57562d.jpg",Show Max
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax.m3u8
 #EXTINF:-1 tvg-id="NOWTV" tvg-name="NOWTV" tvg-language="Turkish" tvg-logo="https://images.seeklogo.com/logo-png/51/1/now-tv-turkey-logo-png_seeklogo-519520.png" fanart-image="https://i.pinimg.com/736x/33/01/c9/3301c9a82adac20eb33eef337b57562d.jpg",NOWTV
@@ -50,7 +50,7 @@ https://trkvz-live.ercdn.net/ahaberhd/ahaberhd.m3u8
 #EXTINF:-1 tvg-id="24 TV" tvg-name="24 TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/2v2W5g1/24.png" fanart-image="https://i.pinimg.com/736x/33/01/c9/3301c9a82adac20eb33eef337b57562d.jpg",24 TV
 https://turkmedya-live.ercdn.net/tv24/tv24_1080p.m3u8
 #EXTINF:-1 tvg-id="CNN TÜRK" tvg-name="CNN TÜRK" tvg-language="Turkish" tvg-logo="https://i.ibb.co/5W0L35x/cnnturk.png" fanart-image="https://i.pinimg.com/736x/33/01/c9/3301c9a82adac20eb33eef337b57562d.jpg",CNN Türk
-https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/playlist.m3u8?&live=true&app=com.cnnturk&st=ZBOKpp22N-ICsf2PedYwig&e=1786154286|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A153.0)%20Gecko%2F20100101%20Firefox%2F153.0&Referer=https%3A%2F%2Fwww.cnnturk.com%2F
+https://www.youtube.com/watch?v=6N8_r2uwLEc
 #EXTINF:-1 tvg-id="TRT Müzik" tvg-name="TRT Müzik" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/TRT_M%C3%BCzik_kurumsal_logo.png" fanart-image="https://i.pinimg.com/736x/33/01/c9/3301c9a82adac20eb33eef337b57562d.jpg",TRT Müzik
 https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="TRT Çocuk" tvg-name="TRT Çocuk" tvg-language="Turkish" tvg-logo="https://i.ibb.co/cQs3vjD/trtcocuk.png" fanart-image="https://i.pinimg.com/736x/33/01/c9/3301c9a82adac20eb33eef337b57562d.jpg",TRT Çocuk
