@@ -87,9 +87,9 @@ https://stream.ioniantv.gr/ionian/live_abr/ionian/live_1080p/chunks.m3u8
 https://ellastvmax.ath.cx/freetv/promo/index.m3u8 
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/WftpxK2.png" fanart-image="https://wallpapers4screen.com/Uploads/19-7-2022/40083/thumb2-4k-greece-flag-stone-texture-flag-of-greece-stone-background.jpg",VILLAGE WORLD 
 https://ellastvmax.gotdns.com/freetv/village-world/index.m3u8 
-#EXTINF:-1 group-title="ΑΤΤΙΚΗ" tvg-name="madtv" tvg-logo="https://i.imgur.com/G0iN2tt.png" fanart-image="https://wallpapers4screen.com/Uploads/19-7-2022/40083/thumb2-4k-greece-flag-stone-texture-flag-of-greece-stone-background.jpg",MAD TV 
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-name="madtv" tvg-logo="https://i.imgur.com/G0iN2tt.png" fanart-image="https://wallpapers4screen.com/Uploads/19-7-2022/40083/thumb2-4k-greece-flag-stone-texture-flag-of-greece-stone-background.jpg",MAD TV 
 https://ellastvmax.gotdns.com/freetv/madworldtv/index.m3u8 
-#EXTINF:-1 group-title="ΑΤΤΙΚΗ" tvg-name="madtv bup" tvg-logo="https://i.imgur.com/G0iN2tt.png" fanart-image="https://wallpapers4screen.com/Uploads/19-7-2022/40083/thumb2-4k-greece-flag-stone-texture-flag-of-greece-stone-background.jpg",MAD TV BUP 
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-name="madtv bup" tvg-logo="https://i.imgur.com/G0iN2tt.png" fanart-image="https://wallpapers4screen.com/Uploads/19-7-2022/40083/thumb2-4k-greece-flag-stone-texture-flag-of-greece-stone-background.jpg",MAD TV BUP 
 https://ellastvmax.gotdns.com/freetv/madworldtv/index.m3u8 
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-name="madworld" tvg-logo="https://i.imgur.com/zoS5RWU.png" fanart-image="https://wallpapers4screen.com/Uploads/19-7-2022/40083/thumb2-4k-greece-flag-stone-texture-flag-of-greece-stone-background.jpg",MAD WORLD 
 https://ellastvmax.gotdns.com/freetv/madworldtv/index.m3u8 
