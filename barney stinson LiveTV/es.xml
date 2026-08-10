@@ -1,28 +1,3 @@
-Zu den Hauptinhalten springen
-Hilfe zur Barrierefreiheit
-KI‑Modus
-Alle
-Bilder
-Videos
-News
-Mehr
-Anmelden
-write a epg-guide for https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/barney%20stinson%20LiveTV/es.m3u
-Die Erstellung eines EPG-Guides erfordert den direkten Inhalt der M3U-Datei, da automatisierter Zugriff auf Raw-GitHub-Links blockiert ist. Für eine funktionierende XMLTV-Datei wird der Inhalt der #EXTINF-Zeilen benötigt, um tvg-ids für die Zuordnung der Programmdaten zu nutzen. Für gängige spanische Sender können auch etablierte, quelloffene EPG-Quellen wie iptv-org/epg auf GitHub in IPTV-Playern verwendet werden, sofern die IDs übereinstimmen. 
-Bitte stellen Sie den Textinhalt der M3U-Datei bereit, um ein maßgeschneidertes EPG-Grundgerüst zu erstellen. 
-KI-Antworten können Fehler enthalten. Weitere Informationen
-
-    GitHub
-    iptv-org/epg: Utilities for downloading the ... - GitHub
-    Create and run container ... By default, the guide will be downloaded every day at 00:00 UTC and saved to the /epg/public/guide.xm...
-    YouTube
-    How to Add EPG to IPTV Easily | Complete Beginner Guide - YouTube
-    14.04.2026 — step one get your EPG. URL your IPv provider usually gives you an EPG link along with your playlist or M3U URL if not you can find...
-    ArchWiki
-    Iptv.org EPG Grabber - ArchWiki
-    29.06.2026 — Iptv.org EPG Grabber Iptv.org EPG Grabber is a nodejs/html application with utilities for downloading the EPG for thousands of TV ...
-
-write me a epg-guide for #EXTM3U
 #EXTINF:-1 tvg-id="3CatCameresdeltemps.es@SD",3Cat Càmeres del temps (1080p)
 https://directes-tv-int.3catdirectes.cat/live-content/beauties-hls/master.m3u8
 #EXTINF:-1 tvg-id="3CatElbunquer.es@SD",3Cat El búnquer (1080p)
@@ -330,16 +305,3 @@ xml
   </programme>
 
 </tv>
-
-Verwende Code mit Vorsicht.
-💡 Hinweise zur Nutzung
-
-    Zeitzone anpassen: Die Einträge nutzen das Format +0200 (Mitteleuropäische Sommerzeit). Falls nötig, passen Sie den Offset an Ihren IPTV-Player an.
-    Daten-Erweiterung: Da sich TV-Programme täglich ändern, nutzen kommerzielle oder quelloffene Setups automatisierte Skripte (Grabber), um diese XML-Daten jede Nacht frisch aus dem Netz zu ziehen.
-    Automatische Alternative: Wenn Sie ein fertiges EPG für spanische Sender suchen, können Sie in Ihrem Player direkt die XML-URL von bekannten Community-Projekten hinterlegen, wie zum Beispiel:
-    https://githubusercontent.com (Hierbei müssen ggf. die tvg-ids in Ihrer M3U leicht angepasst werden, damit sie übereinstimmen).
-
-Möchten Sie, dass ich für bestimmte andere Sender aus Ihrer Liste weitere Programmdetails hinzufüge, oder benötigen Sie Hilfe beim Anpassen der M3U-Datei für einen externen EPG-Dienst?
-KI-Antworten können Fehler enthalten. Weitere Informationen
-Antwort des KI-Modus ist fertig
-Frage dazu stellen 
