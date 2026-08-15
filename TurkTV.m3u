@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1, tvg-id="Star TV (TR)" tvg-name="Star TV (TR)" tvg-language="Turkish" tvg-logo="https://i.ibb.co/VwWRn5D/star.png" fanart-image="https://i.pinimg.com/736x/33/01/c9/3301c9a82adac20eb33eef337b57562d.jpg",Star TV
-https://dygvideo.dygdigital.com/live/hls/startv4puhu/live.m3u8
+https://www.youtube.com/watch?v=82O6yOy_XwE
 #EXTINF:-1, tvg-id="EuroStar" tvg-name="EuroStar" tvg-language="Turkish" tvg-logo="https://i.ibb.co/r4SLvnN/eurostar.png" fanart-image="https://i.pinimg.com/736x/33/01/c9/3301c9a82adac20eb33eef337b57562d.jpg",EuroStar
 https://www.youtube.com/watch?v=82O6yOy_XwE
 #EXTINF:-1, tvg-id="A2 (TR)" tvg-name="A2 (TR)" tvg-language="Turkish" tvg-logo="https://i.ibb.co/Y2fyvM7/a2.png" fanart-image="https://i.pinimg.com/736x/33/01/c9/3301c9a82adac20eb33eef337b57562d.jpg",A2
