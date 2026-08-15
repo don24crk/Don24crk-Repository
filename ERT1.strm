@@ -2,5 +2,5 @@
 #KODIPROP:inputstream=inputstream.helper
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.drm=org.w3.clearkey|gBHZdRbPWFOEYRKDTLm9jw:cmkWopoKNJy4KMNFAwh1KA
+#KODIPROP:inputstream.helper.drm_legacy=org.w3.clearkey|gBHZdRbPWFOEYRKDTLm9jw:cmkWopoKNJy4KMNFAwh1KA
 https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERT1/drm/index.mpd
