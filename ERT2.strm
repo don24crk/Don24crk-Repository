@@ -1,5 +1,5 @@
 #EXTINF:-1,ERT2
-#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream=inputstream.helper
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.drm=org.w3.clearkey|DL1bhLcbUoaNuN_3auoEiw:win1nFyoJjKSh27TBszREA
