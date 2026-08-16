@@ -54,7 +54,7 @@ https://www.youtube.com/watch?v=6N8_r2uwLEc
 #EXTINF:-1 tvg-id="TRT Müzik" tvg-name="TRT Müzik" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/TRT_M%C3%BCzik_kurumsal_logo.png" fanart-image="https://i.pinimg.com/736x/33/01/c9/3301c9a82adac20eb33eef337b57562d.jpg",TRT Müzik
 https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="TRT Çocuk" tvg-name="TRT Çocuk" tvg-language="Turkish" tvg-logo="https://i.ibb.co/cQs3vjD/trtcocuk.png" fanart-image="https://i.pinimg.com/736x/33/01/c9/3301c9a82adac20eb33eef337b57562d.jpg",TRT Çocuk
-https://tvizle.tr/api/proxy?url=https%3A%2F%2Ftv-trtcocuk.medya.trt.com.tr%2Fmaster_1080.m3u8
+https://tvizle.tr/api/proxy?url=https%3A%2F%2Ftv-trtcocuk.medya.trt.com.tr%2Fmaster_720.m3u8
 #EXTINF:-1 tvg-id="TRT Diyanet Çocuk" tvg-name="TRT Diyanet Çocuk" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TRT_Diyanet_%C3%87ocuk_logo.svg/960px-TRT_Diyanet_%C3%87ocuk_logo.svg.png" fanart-image="https://i.pinimg.com/736x/33/01/c9/3301c9a82adac20eb33eef337b57562d.jpg",TRT Diyanet Çocuk
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="Minika Çocuk" tvg-name="Minika Çocuk" tvg-language="Turkish" tvg-logo="https://i.ibb.co/3RVSssb/minikacocuk.png" fanart-image="https://i.pinimg.com/736x/33/01/c9/3301c9a82adac20eb33eef337b57562d.jpg",Minika Çocuk
