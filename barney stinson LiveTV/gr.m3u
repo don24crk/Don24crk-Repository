@@ -16,17 +16,17 @@ https://ert-live.ascdn.broadpeak.io/bpk-tv/ERT3/default/index.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert3 bup2" tvg-logo="https://i.imgur.com/oKxPmQJ.png" fanart-image="https://wallpapers4screen.com/Uploads/19-7-2022/40083/thumb2-4k-greece-flag-stone-texture-flag-of-greece-stone-background.jpg",ERT3 BUP2
 https://ert-live.ascdn.broadpeak.io/bpk-tv/ERT3/default/index.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="ertcosmos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/ERT_Cosmos_Logo_2026.svg/3840px-ERT_Cosmos_Logo_2026.svg.png" fanart-image="https://wallpapers4screen.com/Uploads/19-7-2022/40083/thumb2-4k-greece-flag-stone-texture-flag-of-greece-stone-background.jpg",ERTCOSMOS 
-https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTCosmos/default/index.m3u8
+https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERTCosmos/default/ERTCosmos-audio_142800_gre=140800-video=5154400.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="ertcosmos bup" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/ERT_Cosmos_Logo_2026.svg/3840px-ERT_Cosmos_Logo_2026.svg.png" fanart-image="https://wallpapers4screen.com/Uploads/19-7-2022/40083/thumb2-4k-greece-flag-stone-texture-flag-of-greece-stone-background.jpg",ERTCOSMOS BUP 
-https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTCosmos/default/index.m3u8
+https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERTCosmos/default/ERTCosmos-audio_142800_gre=140800-video=5154400.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ertnews" tvg-logo="https://i.imgur.com/pMia7tN.png" fanart-image="https://wallpapers4screen.com/Uploads/19-7-2022/40083/thumb2-4k-greece-flag-stone-texture-flag-of-greece-stone-background.jpg",ERT NEWS
-https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews/default/index.mpd
+https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERTNews/default/index.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ertnews bup" tvg-logo="https://i.imgur.com/pMia7tN.png" fanart-image="https://wallpapers4screen.com/Uploads/19-7-2022/40083/thumb2-4k-greece-flag-stone-texture-flag-of-greece-stone-background.jpg",ERT NEWS BUP 
-https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews/default/index.mpd 
+https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERTNews/default/index.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-name="ertkids" tvg-logo="https://i.imgur.com/RvrQSAs.png" fanart-image="https://wallpapers4screen.com/Uploads/19-7-2022/40083/thumb2-4k-greece-flag-stone-texture-flag-of-greece-stone-background.jpg",ERT KIDS  
-https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTKids/default/index.mpd
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/ErtKids.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-name="ertkids bup" tvg-logo="https://i.imgur.com/RvrQSAs.png" fanart-image="https://wallpapers4screen.com/Uploads/19-7-2022/40083/thumb2-4k-greece-flag-stone-texture-flag-of-greece-stone-background.jpg",ERT KIDS BUP 
-https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTKids/default/index.mpd
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/ErtKids.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ant1" tvg-logo="https://i.imgur.com/GTFFtOR.png" fanart-image="https://wallpapers4screen.com/Uploads/19-7-2022/40083/thumb2-4k-greece-flag-stone-texture-flag-of-greece-stone-background.jpg",ANT1 HD 
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/antenna.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ant1 bup" tvg-logo="https://i.imgur.com/GTFFtOR.png" fanart-image="https://wallpapers4screen.com/Uploads/19-7-2022/40083/thumb2-4k-greece-flag-stone-texture-flag-of-greece-stone-background.jpg",ANT1 BUP
