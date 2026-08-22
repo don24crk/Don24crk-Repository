@@ -6,11 +6,11 @@ https://01eb71ee94ba4a1caf54da0c74efefb4.msvdn.net/ept_ch2/ept_ch2/mainabr/playl
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert3" tvg-logo="https://i.imgur.com/oKxPmQJ.png" fanart-image="https://wallpapers4screen.com/Uploads/19-7-2022/40083/thumb2-4k-greece-flag-stone-texture-flag-of-greece-stone-background.jpg",ERT3 HD 
 https://ert-live.ascdn.broadpeak.io/bpk-tv/ERT3/default/index.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert1 bup" tvg-logo="https://i.imgur.com/oh9E9sK.png" fanart-image="https://wallpapers4screen.com/Uploads/19-7-2022/40083/thumb2-4k-greece-flag-stone-texture-flag-of-greece-stone-background.jpg",ERT1 BUP
-https://01eb71ee94ba4a1caf54da0c74efefb4.msvdn.net/ept_ch1/ept_ch1/mainabr/playlist.m3u8
+https://s2.cystream.net/live/ert1/chunks.m3u8?nimblesessionid=42845018&wmsAuthSign=c2VydmVyX3RpbWU9OC8yMi8yMDI2IDc6MjU6MjUgUE0maGFzaF92YWx1ZT1xNHFuM0xDZ3diYWFlTmpvbno3QzBBPT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert2 bup" tvg-logo="https://i.imgur.com/ZpUEkeq.png" fanart-image="https://wallpapers4screen.com/Uploads/19-7-2022/40083/thumb2-4k-greece-flag-stone-texture-flag-of-greece-stone-background.jpg",ERT2 SPOR BUP 
-https://01eb71ee94ba4a1caf54da0c74efefb4.msvdn.net/ept_ch2/ept_ch2/mainabr/playlist.m3u8
+https://s2.cystream.net/live/ert2/chunks.m3u8?nimblesessionid=42845086&wmsAuthSign=c2VydmVyX3RpbWU9OC8yMi8yMDI2IDc6MjY6MjMgUE0maGFzaF92YWx1ZT1GVDB1Qk1ZRm9vcVlIT1V2N0tZUkFBPT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert2 bup2" tvg-logo="https://i.imgur.com/ZpUEkeq.png" fanart-image="https://wallpapers4screen.com/Uploads/19-7-2022/40083/thumb2-4k-greece-flag-stone-texture-flag-of-greece-stone-background.jpg",ERT2 SPOR BUP2
-https://01eb71ee94ba4a1caf54da0c74efefb4.msvdn.net/ept_ch2/ept_ch2/mainabr/playlist.m3u8
+https://s2.cystream.net/live/ert2/chunks.m3u8?nimblesessionid=42845086&wmsAuthSign=c2VydmVyX3RpbWU9OC8yMi8yMDI2IDc6MjY6MjMgUE0maGFzaF92YWx1ZT1GVDB1Qk1ZRm9vcVlIT1V2N0tZUkFBPT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert3 bup" tvg-logo="https://i.imgur.com/oKxPmQJ.png" fanart-image="https://wallpapers4screen.com/Uploads/19-7-2022/40083/thumb2-4k-greece-flag-stone-texture-flag-of-greece-stone-background.jpg",ERT3 BUP 
 https://ert-live.ascdn.broadpeak.io/bpk-tv/ERT3/default/index.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert3 bup2" tvg-logo="https://i.imgur.com/oKxPmQJ.png" fanart-image="https://wallpapers4screen.com/Uploads/19-7-2022/40083/thumb2-4k-greece-flag-stone-texture-flag-of-greece-stone-background.jpg",ERT3 BUP2
