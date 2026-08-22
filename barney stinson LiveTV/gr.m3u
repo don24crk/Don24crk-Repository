@@ -56,7 +56,7 @@ https://skai-live.siliconweb.com/media/cambria4/index_media_bitrate2000K_avc1_mp
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="star" tvg-logo="https://i.imgur.com/AazwSEQ.png" fanart-image="https://wallpapers4screen.com/Uploads/19-7-2022/40083/thumb2-4k-greece-flag-stone-texture-flag-of-greece-stone-background.jpg",STAR HD 
 https://livestar.siliconweb.com/media/star4/star4newhd.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="star bup" tvg-logo="https://i.imgur.com/AazwSEQ.png" fanart-image="https://wallpapers4screen.com/Uploads/19-7-2022/40083/thumb2-4k-greece-flag-stone-texture-flag-of-greece-stone-background.jpg",STAR HD BUP 
-https://livestar.siliconweb.com/media/star4/star4newhd.m3u8
+https://s2.cystream.net/galanos/star/chunks.m3u8?nimblesessionid=42844595&wmsAuthSign=c2VydmVyX3RpbWU9OC8yMi8yMDI2IDc6MTg6NDggUE0maGFzaF92YWx1ZT1CTzJseER5TktobnduVWNVQUpXay9BPT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="https://i.imgur.com/AazwSEQ.png" fanart-image="https://wallpapers4screen.com/Uploads/19-7-2022/40083/thumb2-4k-greece-flag-stone-texture-flag-of-greece-stone-background.jpg",STAR INTERNATIONAL  
 https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8 
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="mega" tvg-logo="https://i.imgur.com/HIcqDaY.png" fanart-image="https://wallpapers4screen.com/Uploads/19-7-2022/40083/thumb2-4k-greece-flag-stone-texture-flag-of-greece-stone-background.jpg",MEGA HD 
