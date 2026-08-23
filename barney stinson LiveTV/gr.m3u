@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://ext.greektv.app/epg/epg.xml.gz"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/barney%20stinson%20LiveTV/gr.xml"
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert1" tvg-logo="https://i.imgur.com/oh9E9sK.png" fanart-image="https://wallpapers4screen.com/Uploads/19-7-2022/40083/thumb2-4k-greece-flag-stone-texture-flag-of-greece-stone-background.jpg",ERT1 HD
 https://01eb71ee94ba4a1caf54da0c74efefb4.msvdn.net/ept_ch1/ept_ch1/mainabr/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert2" tvg-logo="https://i.imgur.com/ZpUEkeq.png" fanart-image="https://wallpapers4screen.com/Uploads/19-7-2022/40083/thumb2-4k-greece-flag-stone-texture-flag-of-greece-stone-background.jpg",ERT2 SPOR HD 
