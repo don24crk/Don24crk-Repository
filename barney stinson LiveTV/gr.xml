@@ -1,401 +1,192 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<playlist version="1">
-    <channelList>
-        <channel>
-            <title>ERT1 HD</title>
-            <stream_url>https://01eb71ee94ba4a1caf54da0c74efefb4.msvdn.net/ept_ch1/ept_ch1/mainabr/playlist.m3u8</stream_url>
-            <logo>https://i.imgur.com/oh9E9sK.png</logo>
-            <fanart>https://wallpapers4screen.com/Uploads/19-7-2022/40083/thumb2-4k-greece-flag-stone-texture-flag-of-greece-stone-background.jpg</fanart>
-            <category>ΠΑΝΕΛΛΑΔΙΚΑ</category>
-            <tvg_name>ert1</tvg_name>
-        </channel>
-        <channel>
-            <title>ERT2 SPOR HD</title>
-            <stream_url>https://01eb71ee94ba4a1caf54da0c74efefb4.msvdn.net/ept_ch2/ept_ch2/mainabr/playlist.m3u8</stream_url>
-            <logo>https://i.imgur.com/ZpUEkeq.png</logo>
-            <fanart>https://wallpapers4screen.com/Uploads/19-7-2022/40083/thumb2-4k-greece-flag-stone-texture-flag-of-greece-stone-background.jpg</fanart>
-            <category>ΠΑΝΕΛΛΑΔΙΚΑ</category>
-            <tvg_name>ert2</tvg_name>
-        </channel>
-        <channel>
-            <title>ERT3 HD</title>
-            <stream_url>https://ert-live.ascdn.broadpeak.io/bpk-tv/ERT3/default/index.m3u8</stream_url>
-            <logo>https://i.imgur.com/oKxPmQJ.png</logo>
-            <fanart>https://wallpapers4screen.com/Uploads/19-7-2022/40083/thumb2-4k-greece-flag-stone-texture-flag-of-greece-stone-background.jpg</fanart>
-            <category>ΠΑΝΕΛΛΑΔΙΚΑ</category>
-            <tvg_name>ert3</tvg_name>
-        </channel>
-        <channel>
-            <title>ERT1 BUP</title>
-            <stream_url>https://s2.cystream.net/live/ert1/chunks.m3u8?nimblesessionid=42872048&amp;wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDM6MDg6NDggUE0maGFzaF92YWx1ZT1aV2dMV1NDMzAwUTd0Nnk5aG5vV3RBPT0mdmFsaWRtaW51dGVzPTIw</stream_url>
-            <logo>https://i.imgur.com/oh9E9sK.png</logo>
-            <fanart>https://wallpapers4screen.com/Uploads/19-7-2022/40083/thumb2-4k-greece-flag-stone-texture-flag-of-greece-stone-background.jpg</fanart>
-            <category>ΠΑΝΕΛΛΑΔΙΚΑ</category>
-            <tvg_name>ert1 bup</tvg_name>
-        </channel>
-        <channel>
-            <title>ERT2 SPOR BUP</title>
-            <stream_url>https://s2.cystream.net/live/ert2/chunks.m3u8?nimblesessionid=42872110&amp;wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDM6MTA6MTIgUE0maGFzaF92YWx1ZT01VytUNlJZYnM3UHBQOUdhRjFYSENnPT0mdmFsaWRtaW51dGVzPTIw</stream_url>
-            <logo>https://i.imgur.com/ZpUEkeq.png</logo>
-            <fanart>https://wallpapers4screen.com/Uploads/19-7-2022/40083/thumb2-4k-greece-flag-stone-texture-flag-of-greece-stone-background.jpg</fanart>
-            <category>ΠΑΝΕΛΛΑΔΙΚΑ</category>
-            <tvg_name>ert2 bup</tvg_name>
-        </channel>
-        <channel>
-            <title>ERT2 SPOR BUP2</title>
-            <stream_url>https://s2.cystream.net/live/ert2/chunks.m3u8?nimblesessionid=42872110&amp;wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDM6MTA6MTIgUE0maGFzaF92YWx1ZT01VytUNlJZYnM3UHBQOUdhRjFYSENnPT0mdmFsaWRtaW51dGVzPTIw</stream_url>
-            <logo>https://i.imgur.com/ZpUEkeq.png</logo>
-            <fanart>https://wallpapers4screen.com/Uploads/19-7-2022/40083/thumb2-4k-greece-flag-stone-texture-flag-of-greece-stone-background.jpg</fanart>
-            <category>ΠΑΝΕΛΛΑΔΙΚΑ</category>
-            <tvg_name>ert2 bup2</tvg_name>
-        </channel>
-        <channel>
-            <title>ERT3 BUP</title>
-            <stream_url>https://ert-live.ascdn.broadpeak.io/bpk-tv/ERT3/default/index.m3u8</stream_url>
-            <logo>https://i.imgur.com/oKxPmQJ.png</logo>
-            <fanart>https://wallpapers4screen.com/Uploads/19-7-2022/40083/thumb2-4k-greece-flag-stone-texture-flag-of-greece-stone-background.jpg</fanart>
-            <category>ΠΑΝΕΛΛΑΔΙΚΑ</category>
-            <tvg_name>ert3 bup</tvg_name>
-        </channel>
-        <channel>
-            <title>ERT3 BUP2</title>
-            <stream_url>https://ert-live.ascdn.broadpeak.io/bpk-tv/ERT3/default/index.m3u8</stream_url>
-            <logo>https://i.imgur.com/oKxPmQJ.png</logo>
-            <fanart>https://wallpapers4screen.com/Uploads/19-7-2022/40083/thumb2-4k-greece-flag-stone-texture-flag-of-greece-stone-background.jpg</fanart>
-            <category>ΠΑΝΕΛΛΑΔΙΚΑ</category>
-            <tvg_name>ert3 bup2</tvg_name>
-        </channel>
-        <channel>
-            <title>ERTCOSMOS</title>
-            <stream_url>https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERTCosmos/default/ERTCosmos-audio_142800_gre=140800-video=5154400.m3u8</stream_url>
-            <logo>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/ERT_Cosmos_Logo_2026.svg/3840px-ERT_Cosmos_Logo_2026.svg.png</logo>
-            <fanart>https://wallpapers4screen.com/Uploads/19-7-2022/40083/thumb2-4k-greece-flag-stone-texture-flag-of-greece-stone-background.jpg</fanart>
-            <category>ΔΙΕΘΝΗ ΔΙΚΤΥΑ</category>
-            <tvg_name>ertcosmos</tvg_name>
-        </channel>
-        <channel>
-            <title>ERTCOSMOS BUP</title>
-            <stream_url>https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERTCosmos/default/ERTCosmos-audio_142800_gre=140800-video=5154400.m3u8</stream_url>
-            <logo>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/ERT_Cosmos_Logo_2026.svg/3840px-ERT_Cosmos_Logo_2026.svg.png</logo>
-            <fanart>https://wallpapers4screen.com/Uploads/19-7-2022/40083/thumb2-4k-greece-flag-stone-texture-flag-of-greece-stone-background.jpg</fanart>
-            <category>ΔΙΕΘΝΗ ΔΙΚΤΥΑ</category>
-            <tvg_name>ertcosmos bup</tvg_name>
-        </channel>
-        <channel>
-            <title>ERT NEWS</title>
-            <stream_url>https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERTNews/default/index.m3u8</stream_url>
-            <logo>https://i.imgur.com/pMia7tN.png</logo>
-            <fanart>https://wallpapers4screen.com/Uploads/19-7-2022/40083/thumb2-4k-greece-flag-stone-texture-flag-of-greece-stone-background.jpg</fanart>
-            <category>ΠΑΝΕΛΛΑΔΙΚΑ</category>
-            <tvg_name>ertnews</tvg_name>
-        </channel>
-        <channel>
-            <title>ERT NEWS BUP</title>
-            <stream_url>https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERTNews/default/index.m3u8</stream_url>
-            <logo>https://i.imgur.com/pMia7tN.png</logo>
-            <fanart>https://wallpapers4screen.com/Uploads/19-7-2022/40083/thumb2-4k-greece-flag-stone-texture-flag-of-greece-stone-background.jpg</fanart>
-            <category>ΠΑΝΕΛΛΑΔΙΚΑ</category>
-            <tvg_name>ertnews bup</tvg_name>
-        </channel>
-        <channel>
-            <title>ERT KIDS</title>
-            <stream_url>https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/ErtKids.m3u8</stream_url>
-            <logo>https://i.imgur.com/RvrQSAs.png</logo>
-            <fanart>https://wallpapers4screen.com/Uploads/19-7-2022/40083/thumb2-4k-greece-flag-stone-texture-flag-of-greece-stone-background.jpg</fanart>
-            <category>ΠΑΙΔΙΚΑ</category>
-            <tvg_name>ertkids</tvg_name>
-        </channel>
-        <channel>
-            <title>ERT KIDS BUP</title>
-            <stream_url>https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/ErtKids.m3u8</stream_url>
-            <logo>https://i.imgur.com/RvrQSAs.png</logo>
-            <fanart>https://wallpapers4screen.com/Uploads/19-7-2022/40083/thumb2-4k-greece-flag-stone-texture-flag-of-greece-stone-background.jpg</fanart>
-            <category>ΠΑΙΔΙΚΑ</category>
-            <tvg_name>ertkids bup</tvg_name>
-        </channel>
-        <channel>
-            <title>ANT1 HD</title>
-            <stream_url>https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/antenna.m3u8</stream_url>
-            <logo>https://i.imgur.com/GTFFtOR.png</logo>
-            <fanart>https://wallpapers4screen.com/Uploads/19-7-2022/40083/thumb2-4k-greece-flag-stone-texture-flag-of-greece-stone-background.jpg</fanart>
-            <category>ΠΑΝΕΛΛΑΔΙΚΑ</category>
-            <tvg_name>ant1</tvg_name>
-        </channel>
-        <channel>
-            <title>ANT1 BUP</title>
-            <stream_url>https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/antenna.m3u8</stream_url>
-            <logo>https://i.imgur.com/GTFFtOR.png</logo>
-            <fanart>https://wallpapers4screen.com/Uploads/19-7-2022/40083/thumb2-4k-greece-flag-stone-texture-flag-of-greece-stone-background.jpg</fanart>
-            <category>ΠΑΝΕΛΛΑΔΙΚΑ</category>
-            <tvg_name>ant1 bup</tvg_name>
-        </channel>
-        <channel>
-            <title>ANT1 DRAMA</title>
-            <stream_url>https://mcdn.antennaplus.gr/live/media0/Drama/HLS/Drama.m3u8</stream_url>
-            <logo>https://i.imgur.com/5QDNhXo.png</logo>
-            <fanart>https://wallpapers4screen.com/Uploads/19-7-2022/40083/thumb2-4k-greece-flag-stone-texture-flag-of-greece-stone-background.jpg</fanart>
-            <category>WEB TV</category>
-            <tvg_name>Ant1 Drama</tvg_name>
-        </channel>
-        <channel>
-            <title>ANT1 COMEDY</title>
-            <stream_url>https://mcdn.antennaplus.gr/live/media0/Comedy/HLS/Comedy.m3u8</stream_url>
-            <logo>https://i.imgur.com/V1byeFi.png</logo>
-            <fanart>https://wallpapers4screen.com/Uploads/19-7-2022/40083/thumb2-4k-greece-flag-stone-texture-flag-of-greece-stone-background.jpg</fanart>
-            <category>WEB TV</category>
-            <tvg_name>Ant1 Comedy</tvg_name>
-        </channel>
-        <channel>
-            <title>REAL MUSIC TV</title>
-            <stream_url>https://webtv.topwebhost.gr:3302/stream/play.m3u8</stream_url>
-            <logo>https://i.imgur.com/HmxMZOd.png</logo>
-            <fanart>https://wallpapers4screen.com/Uploads/19-7-2022/40083/thumb2-4k-greece-flag-stone-texture-flag-of-greece-stone-background.jpg</fanart>
-            <category>ΜΟΥΣΙΚΗ</category>
-        </channel>
-        <channel>
-            <title>MAK. HD</title>
-            <stream_url>https://mcdn.antennaplus.gr/live/media0/MAK/HLS/MAK.m3u8</stream_url>
-            <logo>https://i.imgur.com/RVs0GZa.png</logo>
-            <fanart>https://wallpapers4screen.com/Uploads/19-7-2022/40083/thumb2-4k-greece-flag-stone-texture-flag-of-greece-stone-background.jpg</fanart>
-            <category>ΠΑΝΕΛΛΑΔΙΚΑ</category>
-            <tvg_name>mtv</tvg_name>
-        </channel>
-        <channel>
-            <title>MAK. HD BUP</title>
-            <stream_url>https://mcdn.antennaplus.gr/live/media0/MAK/HLS/MAK.m3u8</stream_url>
-            <logo>https://i.imgur.com/RVs0GZa.png</logo>
-            <fanart>https://wallpapers4screen.com/Uploads/19-7-2022/40083/thumb2-4k-greece-flag-stone-texture-flag-of-greece-stone-background.jpg</fanart>
-            <category>ΠΑΝΕΛΛΑΔΙΚΑ</category>
-            <tvg_name>mtv bup</tvg_name>
-        </channel>
-        <channel>
-            <title>ALPHA HD</title>
-            <stream_url>https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/alphatvlive/live_source/playlist.m3u8</stream_url>
-            <logo>https://i.imgur.com/0i4MUcc.png</logo>
-            <fanart>https://wallpapers4screen.com/Uploads/19-7-2022/40083/thumb2-4k-greece-flag-stone-texture-flag-of-greece-stone-background.jpg</fanart>
-            <category>ΠΑΝΕΛΛΑΔΙΚΑ</category>
-            <tvg_name>alpha</tvg_name>
-        </channel>
-        <channel>
-            <title>ALPHA BUP</title>
-            <stream_url>https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/alphatvlive/live_source/chunks.m3u8</stream_url>
-            <logo>https://i.imgur.com/0i4MUcc.png</logo>
-            <fanart>https://wallpapers4screen.com/Uploads/19-7-2022/40083/thumb2-4k-greece-flag-stone-texture-flag-of-greece-stone-background.jpg</fanart>
-            <category>ΠΑΝΕΛΛΑΔΙΚΑ</category>
-            <tvg_name>alpha bup</tvg_name>
-        </channel>
-        <channel>
-            <title>OPEN TV HD</title>
-            <stream_url>https://liveopen.siliconweb.com/openTvLive/liveopen/playlist.m3u8</stream_url>
-            <logo>https://i.imgur.com/cshmF4s.png</logo>
-            <fanart>https://wallpapers4screen.com/Uploads/19-7-2022/40083/thumb2-4k-greece-flag-stone-texture-flag-of-greece-stone-background.jpg</fanart>
-            <category>ΠΑΝΕΛΛΑΔΙΚΑ</category>
-            <tvg_name>open</tvg_name>
-        </channel>
-        <channel>
-            <title>OPEN TV HD BUP</title>
-            <stream_url>https://liveopen.siliconweb.com/openTvLive/liveopen/chunks.m3u8</stream_url>
-            <logo>https://i.imgur.com/cshmF4s.png</logo>
-            <fanart>https://wallpapers4screen.com/Uploads/19-7-2022/40083/thumb2-4k-greece-flag-stone-texture-flag-of-greece-stone-background.jpg</fanart>
-            <category>ΠΑΝΕΛΛΑΔΙΚΑ</category>
-            <tvg_name>open bup</tvg_name>
-        </channel>
-        <channel>
-            <title>SKAI HD</title>
-            <stream_url>https://skai-live.siliconweb.com/media/cambria4/index_media_bitrate2000K_avc1_mp4a.m3u8</stream_url>
-            <logo>https://i.imgur.com/o2aft6Q.png</logo>
-            <fanart>https://wallpapers4screen.com/Uploads/19-7-2022/40083/thumb2-4k-greece-flag-stone-texture-flag-of-greece-stone-background.jpg</fanart>
-            <category>ΠΑΝΕΛΛΑΔΙΚΑ</category>
-            <tvg_name>skai</tvg_name>
-        </channel>
-        <channel>
-            <title>SKAI HD BUP</title>
-            <stream_url>https://skai-live.siliconweb.com/media/cambria4/index_media_bitrate2000K_avc1_mp4a.m3u8</stream_url>
-            <logo>https://i.imgur.com/o2aft6Q.png</logo>
-            <fanart>https://wallpapers4screen.com/Uploads/19-7-2022/40083/thumb2-4k-greece-flag-stone-texture-flag-of-greece-stone-background.jpg</fanart>
-            <category>ΠΑΝΕΛΛΑΔΙΚΑ</category>
-            <tvg_name>skai bup</tvg_name>
-        </channel>
-        <channel>
-            <title>STAR HD</title>
-            <stream_url>https://livestar.siliconweb.com/media/star4/star4newhd.m3u8</stream_url>
-            <logo>https://i.imgur.com/AazwSEQ.png</logo>
-            <fanart>https://wallpapers4screen.com/Uploads/19-7-2022/40083/thumb2-4k-greece-flag-stone-texture-flag-of-greece-stone-background.jpg</fanart>
-            <category>ΠΑΝΕΛΛΑΔΙΚΑ</category>
-            <tvg_name>star</tvg_name>
-        </channel>
-        <channel>
-            <title>STAR HD BUP</title>
-            <stream_url>https://s2.cystream.net/galanos/star/chunks.m3u8?nimblesessionid=42872143&amp;wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDM6MTE6MTggUE0maGFzaF92YWx1ZT1MUUd1V3FPVWpYbVFqcU1UK3pwSGpRPT0mdmFsaWRtaW51dGVzPTIw</stream_url>
-            <logo>https://i.imgur.com/AazwSEQ.png</logo>
-            <fanart>https://wallpapers4screen.com/Uploads/19-7-2022/40083/thumb2-4k-greece-flag-stone-texture-flag-of-greece-stone-background.jpg</fanart>
-            <category>ΠΑΝΕΛΛΑΔΙΚΑ</category>
-            <tvg_name>star bup</tvg_name>
-        </channel>
-        <channel>
-            <title>STAR INTERNATIONAL</title>
-            <stream_url>https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8</stream_url>
-            <logo>https://i.imgur.com/AazwSEQ.png</logo>
-            <fanart>https://wallpapers4screen.com/Uploads/19-7-2022/40083/thumb2-4k-greece-flag-stone-texture-flag-of-greece-stone-background.jpg</fanart>
-            <category>ΔΙΕΘΝΗ ΔΙΚΤΥΑ</category>
-        </channel>
-        <channel>
-            <title>MEGA HD</title>
-            <stream_url>https://s2.cystream.net/live/megagr/chunks.m3u8?nimblesessionid=42872195&amp;wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDM6MTI6NDEgUE0maGFzaF92YWx1ZT1jT1MrU1JRWDRMNmRBQ0tPU09aMFNBPT0mdmFsaWRtaW51dGVzPTIw</stream_url>
-            <logo>https://i.imgur.com/HIcqDaY.png</logo>
-            <fanart>https://wallpapers4screen.com/Uploads/19-7-2022/40083/thumb2-4k-greece-flag-stone-texture-flag-of-greece-stone-background.jpg</fanart>
-            <category>ΠΑΝΕΛΛΑΔΙΚΑ</category>
-            <tvg_name>mega</tvg_name>
-        </channel>
-        <channel>
-            <title>MEGA HD BUP</title>
-            <stream_url>https://s2.cystream.net/live/megagr/chunks.m3u8?nimblesessionid=42872195&amp;wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDM6MTI6NDEgUE0maGFzaF92YWx1ZT1jT1MrU1JRWDRMNmRBQ0tPU09aMFNBPT0mdmFsaWRtaW51dGVzPTIw</stream_url>
-            <logo>https://i.imgur.com/HIcqDaY.png</logo>
-            <fanart>https://wallpapers4screen.com/Uploads/19-7-2022/40083/thumb2-4k-greece-flag-stone-texture-flag-of-greece-stone-background.jpg</fanart>
-            <category>ΠΑΝΕΛΛΑΔΙΚΑ</category>
-            <tvg_name>mega bup</tvg_name>
-        </channel>
-        <channel>
-            <title>MEGA NEWS</title>
-            <stream_url>https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S99841657/NU0xOarAMJ5X/chunklist_b3200000.m3u8</stream_url>
-            <logo>https://i.imgur.com/owoR8Xi.png</logo>
-            <fanart>https://wallpapers4screen.com/Uploads/19-7-2022/40083/thumb2-4k-greece-flag-stone-texture-flag-of-greece-stone-background.jpg</fanart>
-            <category>HYBRID</category>
-        </channel>
-        <channel>
-            <title>OMEGA CY</title>
-            <stream_url>https://l1.cloudskep.com/omegatv/omcy/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDM6MDM6MjAgUE0maGFzaF92YWx1ZT1JdWlWY04zeXVPZWk3a055VWpwdUtRPT0mdmFsaWRtaW51dGVzPTY2MA==</stream_url>
-            <logo>https://i.imgur.com/Np7xLfk.png</logo>
-            <fanart>https://wallpapers4screen.com/Uploads/19-7-2022/40083/thumb2-4k-greece-flag-stone-texture-flag-of-greece-stone-background.jpg</fanart>
-            <category>ΠΑΓΚΥΠΡΙΑ</category>
-            <tvg_name>omega</tvg_name>
-        </channel>
-        <channel>
-            <title>SIGMA CY</title>
-            <stream_url>http://sl2.sigmatv.com/hls/live.m3u8</stream_url>
-            <logo>https://i.imgur.com/lFjBmPF.png</logo>
-            <fanart>https://wallpapers4screen.com/Uploads/19-7-2022/40083/thumb2-4k-greece-flag-stone-texture-flag-of-greece-stone-background.jpg</fanart>
-            <category>ΠΑΓΚΥΠΡΙΑ</category>
-            <tvg_name>sigma</tvg_name>
-        </channel>
-        <channel>
-            <title>XALASTRA TV</title>
-            <stream_url>https://alpha.streamhub.gr/tv/hls/MWAF31fK8gUQ74QsNYoZI1Ld9NPtyrzm/playlist.m3u8</stream_url>
-            <logo>https://i.imgur.com/XTtvsef.png</logo>
-            <fanart>https://wallpapers4screen.com/Uploads/19-7-2022/40083/thumb2-4k-greece-flag-stone-texture-flag-of-greece-stone-background.jpg</fanart>
-            <category>WEB TV</category>
-        </channel>
-        <channel>
-            <title>DELTA TV</title>
-            <stream_url>http://81.171.10.42:554/liveD/DStream.sdp/playlist.m3u8</stream_url>
-            <logo>https://i.imgur.com/YiVVg6n.png</logo>
-            <fanart>https://wallpapers4screen.com/Uploads/19-7-2022/40083/thumb2-4k-greece-flag-stone-texture-flag-of-greece-stone-background.jpg</fanart>
-            <category>ΑΝ.ΜΑΚ θΡΑΚΗ</category>
-            <tvg_name>deltatv</tvg_name>
-        </channel>
-        <channel>
-            <title>BARAZA TV HD Greek Hits</title>
-            <stream_url>https://eco.streams.ovh:8081/barazatv/index.m3u8</stream_url>
-            <logo>https://i.imgur.com/NlN4lmc.png</logo>
-            <fanart>https://wallpapers4screen.com/Uploads/19-7-2022/40083/thumb2-4k-greece-flag-stone-texture-flag-of-greece-stone-background.jpg</fanart>
-            <category>ΜΟΥΣΙΚΗ</category>
-        </channel>
-        <channel>
-            <title>BARAZA LAIKA</title>
-            <stream_url>https://gra1.crystalweb.net:1936/barazatv/barazatv/playlist.m3u8</stream_url>
-            <logo>https://i.imgur.com/NlN4lmc.png</logo>
-            <fanart>https://wallpapers4screen.com/Uploads/19-7-2022/40083/thumb2-4k-greece-flag-stone-texture-flag-of-greece-stone-background.jpg</fanart>
-            <category>ΜΟΥΣΙΚΗ</category>
-        </channel>
-        <channel>
-            <title>NET TV TORONTO HD</title>
-            <stream_url>https://eu1.streams.gr:8081/netvtoronto/index.m3u8</stream_url>
-            <logo>https://i.imgur.com/Lzkw32k.png</logo>
-            <fanart>https://wallpapers4screen.com/Uploads/19-7-2022/40083/thumb2-4k-greece-flag-stone-texture-flag-of-greece-stone-background.jpg</fanart>
-            <category>CINEMA</category>
-        </channel>
-        <channel>
-            <title>CINEMA CLASSICS</title>
-            <stream_url>https://tv.mediacp.eu:8081/cinemaclassics/index.m3u8</stream_url>
-            <logo>https://i.imgur.com/6STBhNL.png</logo>
-            <fanart>https://wallpapers4screen.com/Uploads/19-7-2022/40083/thumb2-4k-greece-flag-stone-texture-flag-of-greece-stone-background.jpg</fanart>
-            <category>CINEMA</category>
-        </channel>
-        <channel>
-            <title>IONIAN CHANNEL</title>
-            <stream_url>https://stream.ioniantv.gr/ionian/live_abr/ionian/live_1080p/chunks.m3u8</stream_url>
-            <logo>https://i.imgur.com/lzKsdsH.png</logo>
-            <fanart>https://wallpapers4screen.com/Uploads/19-7-2022/40083/thumb2-4k-greece-flag-stone-texture-flag-of-greece-stone-background.jpg</fanart>
-            <category>ΠΕΛΟΠΟΝΝΗΣΟΥ</category>
-            <tvg_name>ionian</tvg_name>
-        </channel>
-        <channel>
-            <title>ELLAS WORLD</title>
-            <stream_url>https://ellastvmax.ath.cx/freetv/promo/index.m3u8</stream_url>
-            <logo>https://i.imgur.com/3Gy3JyZ.png</logo>
-            <fanart>https://wallpapers4screen.com/Uploads/19-7-2022/40083/thumb2-4k-greece-flag-stone-texture-flag-of-greece-stone-background.jpg</fanart>
-            <category>WEB TV</category>
-        </channel>
-        <channel>
-            <title>VILLAGE WORLD</title>
-            <stream_url>https://ellastvmax.gotdns.com/freetv/village-world/index.m3u8</stream_url>
-            <logo>https://i.imgur.com/WftpxK2.png</logo>
-            <fanart>https://wallpapers4screen.com/Uploads/19-7-2022/40083/thumb2-4k-greece-flag-stone-texture-flag-of-greece-stone-background.jpg</fanart>
-            <category>CINEMA</category>
-        </channel>
-        <channel>
-            <title>MAD TV</title>
-            <stream_url>https://fa723fc1b171.euc13.playlist.live-video.net/v1/playlist/CqoSkMcnW9edS-2dRCUsTUZ825GdgIos40q3SD7vn3gexEcUVMBrJOHzZAHo7z3kzPFRJE30NS0R2IHItOOs2eYqcGUYi2VLl1hVO3pl4Ajh1HISPVMMc37N8Pjmu9ck44NUDc0i7eivXWXmrQMFOlsWg1ihmEeftnffuW6opbyO7Uv3Qp1OXk_wRLRpZV-kDMtNyafgkkdvYCvEyzvtf64WsyzRn2AkvdtQkQt5PPsz3LWQz6O-6PAED1okDlmaR443oduA0B52ADqgqGAmrwP4310b0QMuo4jxytZQJbYm_q0K7YdShPMgsDJf3Kn7l8_JysouGQvKvz1nE1qdC81nyVuAEsQBeQq1cKZfQj5g3ytqm6fxAg1eSlzTlQTL4oNS7jJyIhV9lEJ74wlvHhf4uAovrg3AyG7usOx6PdqF-38DpHSaySYBxCqqReDc2m_KUf8_0cLf3dpb7EiUOrz0gzX_oD2CFWRX3n_YcwDAEGVUR5svCxkL_qSjS6Ncqld0HUPZHfVmquj-URHC0wr4Q1pjmB9n04ZNBdD2f5e6Q8GYB0TCqjdTrbZCbikvJrm66Qjc4GfjcT0dLkD6AVqUpttbk2IFBXSYFCIcWsdhBYOqDYe_q9XLK4dhKTyF3RNaC1Ul2S3cqCFDQ__2W27Ifb5uQgDZOxbUoEofa18C03LebQy03osIy5IN4_MtSXpchPP8Ap6sxf8TYvPoTybGSc-SIGfyqzRIlFJGYzbHuuzgMeyhvQtp8dgsW_IYIJ-3XfVGsqVTngxxMAwjn5BB5nGDeK9lyRBYkVRCrb2IbGYp1uFDdIaaPZ2J4EQKEftqXWcIxDajKv-VvsY1lEQnA7w--hxQ5_YlAGocIt003U_cqx5AkBwEl29HHAcoYF-Tlp7B2Z9KJdzJv6ITOZO0zjYHuxlqfYbCSP-CVHmL7EcxsNyuS3YgcaSBr6FJGHVnyMMeq13fwSidqpR8QCyZRTHKpcpoJ5hXoTbRtiuuGF-YVAL7qQTXsrvYxIwVVmHTjUiczuL_Gf5yx7Om2KPe9gcrJCoTPB8mGnvYaUFJoax-kvCIJGIkQ8MUT4-0TXCT3CH7CIah1kjsvUh6swRce770TaGOVgcLpnWp2idZmfb9ZKtdbwo-QpvhsbFCuHweh3bYOwvqHq1WItNmBnqI7YDBPKyIaPY1QTEHuMhuWb8eVPw4DeCQpbZUwLCFFuFGU9oe3rvlv9qC1DavDJ7H2y_AfDpSSNHLMi8Ft6YgSNtuNybphfCw4i6A_OjaNLJUTFvkNE1KYvy0RM-kjXis45jIkpvgZMuVhfpNDQLIxLlhoizPd5Gwpb-2gpn7oMHCM1mNZ89WTuG8ZXDn0SpozCYnxqMMF983HUPkq5M9gCHNG2OHFxn5edugdLQcBbGwYf2KDLuK0W_yxnHveTELTkBpM19Q7HTokIu_og9EI66VG1-gMiC2B1nwENksK-pXM8bmStu3Jlpj7g7q_JOT2A7KcZ53un2SmnU8gsDSQvON0aq1jSfXLFcvJfqY450ugKqWceyvXYT4CDLoHc0syTSWBM8RY-IRnh5e8mOSOjUvocwLij8DQeSO-bZ9HxLqdjrAcnosFH3lsnkx2psqx44WsweqpMUpbBDhf6a8W6ye8tizcnoT2dCmvay3JBiOnlzDvrpgIa72UkMepbobqs4ThnYMqo3Vi-v6dDaBa1UHUlscT1vXA6rm7mSOncfHSFZSZxAnIMBl0HptPZevI6PJq6RqoMyzYuhjHInuyy-vhGqHm3Nf4LV_Z0rOEPR53-EPrvT1p20FdPIYjj1gqxdywenDRGrYhEpWHbKKbqOasf1ExoW1sFWAZ3IP2UGdmTfBvozBpFXS-CXT845Fy8fO3hnmkLA4HoiW2t7O8NG5ZTOPDCOCUxm4bqQo0ankrxB4Hu6EFeiKSXsMSJgNHClkf9AyILe09UNWfUmvX04tZLlILZ5HAIJ7B0iFW0yHV5DdfSPFgpytLGdmqfOaMQe3YgtlwpEu3pAfzGf6dFuKhF9eXlc_5W9qAG9A6Xj85KjQdenRDKSy3ABLNnt3LvAAPkkYL_-vVs4NgeYiLEsPiKb1W4W91l8JWvHdvN_3AycoId0VSxxg4i8137X2NnGTXMvjDCIEpEHWbl-DcYLlyIYkZYylOGs5kVRhhXXnoTGpxjmqqIOQHiu0LKr0MGoQsIJDbOwb_cuknphl-koI45Zy1H6I5UapSZrgCIpiRUN6KHVEwtLFniR7p5wrzDAshIksJ0DmT0uVRTijJeX0x0vf-4sXDkN89zWrMabgbSUmVqQT_s0Hg91KgOmiiquhodi9QtXrKWmVKXphcFs8sorfxXNMoro8OntpVgULIfPQFWrRz_xrCopv7kjvgt0dpkKSbfP2PJRoTFPFOMIlhCFFWLw6oyT1p-fjNz0dO5_AKAmn0AiBfNKjS-Fds4Lrzw8YTnnIDvCOhEAxBtUerV_FKFN5MU_ZD0sBMZ8V64xbaahismqK6fWSpTVwLuc8G7_Bwo4FQsXDsLuKe18Snds0R006he52RrUon2M9-9xYYRh2FY9dK3IF1OBZ2WdPvOXecNjJM6l1VVs7vuGbWV3bAflLGzwxZGvMp9VOBkgIDtyH4Z1tZ4d2OCKsUBHOHcJMP-uep3X2opXa4MT_FkRVD6C-0bXcbZ30vgkogpRJ-b_eRPFkeLMJoPlC6JYBtYRIoEXGt_wr9lpAWwRf1rUi3Nz69lRs_-bPvMMsw66aDViQRLmXe9X9qxzxoDB_RICs39s4FvqZUj3lXgpRs_XLLZrF2lXR79Esz6k2mgh5Tox2LnbaR5KKQ9gfqmGmyhqbDne5SKXyE3KmhebZKB9lzFrHgbk13mVpBN0ibLTSXiUwWz_eCqtrzsuN_3LBuf5vYuvh6rFCT1RLdXqqsPM1JyvaDw60nIH06rtI5V3RsEHfTTgvNwa90PZERGlADERb2ujpFnSlucc5YXCUQylYWL3M07h8yJ7adiaR-RiWI6nLgTUjnLtawZ-Ov3zxLGLJe5znOg7rSwh9JAFYE2i2cKyP2p8DDpZqfIEyW7SwUY5Jb8l9uFosCc9HXfWxWr2n3tBsMM96j0nOoEKcbdczEqbbjpewGgwN-m-C-z1X4lbyTkwgASoJZXUtd2VzdC0yMPUP.m3u8</stream_url>
-            <logo>https://i.imgur.com/G0iN2tt.png</logo>
-            <fanart>https://wallpapers4screen.com/Uploads/19-7-2022/40083/thumb2-4k-greece-flag-stone-texture-flag-of-greece-stone-background.jpg</fanart>
-            <category>ΜΟΥΣΙΚΗ</category>
-            <tvg_name>madtv</tvg_name>
-        </channel>
-        <channel>
-            <title>MAD TV BUP</title>
-            <stream_url>https://fa723fc1b171.euc13.playlist.live-video.net/v1/playlist/CqoSkMcnW9edS-2dRCUsTUZ825GdgIos40q3SD7vn3gexEcUVMBrJOHzZAHo7z3kzPFRJE30NS0R2IHItOOs2eYqcGUYi2VLl1hVO3pl4Ajh1HISPVMMc37N8Pjmu9ck44NUDc0i7eivXWXmrQMFOlsWg1ihmEeftnffuW6opbyO7Uv3Qp1OXk_wRLRpZV-kDMtNyafgkkdvYCvEyzvtf64WsyzRn2AkvdtQkQt5PPsz3LWQz6O-6PAED1okDlmaR443oduA0B52ADqgqGAmrwP4310b0QMuo4jxytZQJbYm_q0K7YdShPMgsDJf3Kn7l8_JysouGQvKvz1nE1qdC81nyVuAEsQBeQq1cKZfQj5g3ytqm6fxAg1eSlzTlQTL4oNS7jJyIhV9lEJ74wlvHhf4uAovrg3AyG7usOx6PdqF-38DpHSaySYBxCqqReDc2m_KUf8_0cLf3dpb7EiUOrz0gzX_oD2CFWRX3n_YcwDAEGVUR5svCxkL_qSjS6Ncqld0HUPZHfVmquj-URHC0wr4Q1pjmB9n04ZNBdD2f5e6Q8GYB0TCqjdTrbZCbikvJrm66Qjc4GfjcT0dLkD6AVqUpttbk2IFBXSYFCIcWsdhBYOqDYe_q9XLK4dhKTyF3RNaC1Ul2S3cqCFDQ__2W27Ifb5uQgDZOxbUoEofa18C03LebQy03osIy5IN4_MtSXpchPP8Ap6sxf8TYvPoTybGSc-SIGfyqzRIlFJGYzbHuuzgMeyhvQtp8dgsW_IYIJ-3XfVGsqVTngxxMAwjn5BB5nGDeK9lyRBYkVRCrb2IbGYp1uFDdIaaPZ2J4EQKEftqXWcIxDajKv-VvsY1lEQnA7w--hxQ5_YlAGocIt003U_cqx5AkBwEl29HHAcoYF-Tlp7B2Z9KJdzJv6ITOZO0zjYHuxlqfYbCSP-CVHmL7EcxsNyuS3YgcaSBr6FJGHVnyMMeq13fwSidqpR8QCyZRTHKpcpoJ5hXoTbRtiuuGF-YVAL7qQTXsrvYxIwVVmHTjUiczuL_Gf5yx7Om2KPe9gcrJCoTPB8mGnvYaUFJoax-kvCIJGIkQ8MUT4-0TXCT3CH7CIah1kjsvUh6swRce770TaGOVgcLpnWp2idZmfb9ZKtdbwo-QpvhsbFCuHweh3bYOwvqHq1WItNmBnqI7YDBPKyIaPY1QTEHuMhuWb8eVPw4DeCQpbZUwLCFFuFGU9oe3rvlv9qC1DavDJ7H2y_AfDpSSNHLMi8Ft6YgSNtuNybphfCw4i6A_OjaNLJUTFvkNE1KYvy0RM-kjXis45jIkpvgZMuVhfpNDQLIxLlhoizPd5Gwpb-2gpn7oMHCM1mNZ89WTuG8ZXDn0SpozCYnxqMMF983HUPkq5M9gCHNG2OHFxn5edugdLQcBbGwYf2KDLuK0W_yxnHveTELTkBpM19Q7HTokIu_og9EI66VG1-gMiC2B1nwENksK-pXM8bmStu3Jlpj7g7q_JOT2A7KcZ53un2SmnU8gsDSQvON0aq1jSfXLFcvJfqY450ugKqWceyvXYT4CDLoHc0syTSWBM8RY-IRnh5e8mOSOjUvocwLij8DQeSO-bZ9HxLqdjrAcnosFH3lsnkx2psqx44WsweqpMUpbBDhf6a8W6ye8tizcnoT2dCmvay3JBiOnlzDvrpgIa72UkMepbobqs4ThnYMqo3Vi-v6dDaBa1UHUlscT1vXA6rm7mSOncfHSFZSZxAnIMBl0HptPZevI6PJq6RqoMyzYuhjHInuyy-vhGqHm3Nf4LV_Z0rOEPR53-EPrvT1p20FdPIYjj1gqxdywenDRGrYhEpWHbKKbqOasf1ExoW1sFWAZ3IP2UGdmTfBvozBpFXS-CXT845Fy8fO3hnmkLA4HoiW2t7O8NG5ZTOPDCOCUxm4bqQo0ankrxB4Hu6EFeiKSXsMSJgNHClkf9AyILe09UNWfUmvX04tZLlILZ5HAIJ7B0iFW0yHV5DdfSPFgpytLGdmqfOaMQe3YgtlwpEu3pAfzGf6dFuKhF9eXlc_5W9qAG9A6Xj85KjQdenRDKSy3ABLNnt3LvAAPkkYL_-vVs4NgeYiLEsPiKb1W4W91l8JWvHdvN_3AycoId0VSxxg4i8137X2NnGTXMvjDCIEpEHWbl-DcYLlyIYkZYylOGs5kVRhhXXnoTGpxjmqqIOQHiu0LKr0MGoQsIJDbOwb_cuknphl-koI45Zy1H6I5UapSZrgCIpiRUN6KHVEwtLFniR7p5wrzDAshIksJ0DmT0uVRTijJeX0x0vf-4sXDkN89zWrMabgbSUmVqQT_s0Hg91KgOmiiquhodi9QtXrKWmVKXphcFs8sorfxXNMoro8OntpVgULIfPQFWrRz_xrCopv7kjvgt0dpkKSbfP2PJRoTFPFOMIlhCFFWLw6oyT1p-fjNz0dO5_AKAmn0AiBfNKjS-Fds4Lrzw8YTnnIDvCOhEAxBtUerV_FKFN5MU_ZD0sBMZ8V64xbaahismqK6fWSpTVwLuc8G7_Bwo4FQsXDsLuKe18Snds0R006he52RrUon2M9-9xYYRh2FY9dK3IF1OBZ2WdPvOXecNjJM6l1VVs7vuGbWV3bAflLGzwxZGvMp9VOBkgIDtyH4Z1tZ4d2OCKsUBHOHcJMP-uep3X2opXa4MT_FkRVD6C-0bXcbZ30vgkogpRJ-b_eRPFkeLMJoPlC6JYBtYRIoEXGt_wr9lpAWwRf1rUi3Nz69lRs_-bPvMMsw66aDViQRLmXe9X9qxzxoDB_RICs39s4FvqZUj3lXgpRs_XLLZrF2lXR79Esz6k2mgh5Tox2LnbaR5KKQ9gfqmGmyhqbDne5SKXyE3KmhebZKB9lzFrHgbk13mVpBN0ibLTSXiUwWz_eCqtrzsuN_3LBuf5vYuvh6rFCT1RLdXqqsPM1JyvaDw60nIH06rtI5V3RsEHfTTgvNwa90PZERGlADERb2ujpFnSlucc5YXCUQylYWL3M07h8yJ7adiaR-RiWI6nLgTUjnLtawZ-Ov3zxLGLJe5znOg7rSwh9JAFYE2i2cKyP2p8DDpZqfIEyW7SwUY5Jb8l9uFosCc9HXfWxWr2n3tBsMM96j0nOoEKcbdczEqbbjpewGgwN-m-C-z1X4lbyTkwgASoJZXUtd2VzdC0yMPUP.m3u8</stream_url>
-            <logo>https://i.imgur.com/G0iN2tt.png</logo>
-            <fanart>https://wallpapers4screen.com/Uploads/19-7-2022/40083/thumb2-4k-greece-flag-stone-texture-flag-of-greece-stone-background.jpg</fanart>
-            <category>ΜΟΥΣΙΚΗ</category>
-            <tvg_name>madtv bup</tvg_name>
-        </channel>
-        <channel>
-            <title>MAD WORLD</title>
-            <stream_url>https://ellastvmax.gotdns.com/freetv/madworldtv/index.m3u8</stream_url>
-            <logo>https://i.imgur.com/zoS5RWU.png</logo>
-            <fanart>https://wallpapers4screen.com/Uploads/19-7-2022/40083/thumb2-4k-greece-flag-stone-texture-flag-of-greece-stone-background.jpg</fanart>
-            <category>ΜΟΥΣΙΚΗ</category>
-            <tvg_name>madworld</tvg_name>
-        </channel>
-        <channel>
-            <title>DIAVATA TV HD</title>
-            <stream_url>https://183.bozztv.com/giatv/giatv-diavatatvonline/diavatatvonline/playlist.m3u8</stream_url>
-            <logo>https://i.imgur.com/1DxMmHL.png</logo>
-            <fanart>https://wallpapers4screen.com/Uploads/19-7-2022/40083/thumb2-4k-greece-flag-stone-texture-flag-of-greece-stone-background.jpg</fanart>
-            <category>WEB TV</category>
-        </channel>
-        <channel>
-            <title>LAMPSI TV</title>
-            <stream_url>https://neon.streams.gr:8081/lampsitv/tracks-v1a1/mono.m3u8</stream_url>
-            <logo>https://i.imgur.com/jUr8BZA.png</logo>
-            <fanart>https://wallpapers4screen.com/Uploads/19-7-2022/40083/thumb2-4k-greece-flag-stone-texture-flag-of-greece-stone-background.jpg</fanart>
-            <category>WEB TV</category>
-        </channel>
-        <channel>
-            <title>PANIK TV</title>
-            <stream_url>https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8</stream_url>
-            <logo>https://i.imgur.com/Xb4XJfz.png</logo>
-            <fanart>https://wallpapers4screen.com/Uploads/19-7-2022/40083/thumb2-4k-greece-flag-stone-texture-flag-of-greece-stone-background.jpg</fanart>
-            <category>ΜΟΥΣΙΚΗ</category>
-            <tvg_name>PanikTV</tvg_name>
-        </channel>
-        <channel>
-            <title>OPEN ECLESSIA</title>
-            <stream_url>https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8</stream_url>
-            <logo>https://static.wikia.nocookie.net/logopedia/images/7/7c/Opentv.png/revision/latest/scale-to-width-down/250?cb=20181204104231/Xb4XJfz.png</logo>
-            <fanart>https://wallpapers4screen.com/Uploads/19-7-2022/40083/thumb2-4k-greece-flag-stone-texture-flag-of-greece-stone-background.jpg</fanart>
-            <category>EKKLISIA</category>
-            <tvg_name>openEcclessia</tvg_name>
-        </channel>
-    </channelList>
-</playlist>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+
+<tv generator-info-name="Custom M3U to XMLTV Generator" generator-info-url="https://github.com">
+  <!-- Unique Channels Derived from M3U -->
+  <channel id="ert1">
+    <display-name>ERT1 HD</display-name>
+    <icon src="https://i.imgur.com/oh9E9sK.png"/>
+  </channel>
+
+  <channel id="ert2">
+    <display-name>ERT2 SPOR HD</display-name>
+    <icon src="https://i.imgur.com/ZpUEkeq.png"/>
+  </channel>
+
+  <channel id="ert3">
+    <display-name>ERT3 HD</display-name>
+    <icon src="https://i.imgur.com/oKxPmQJ.png"/>
+  </channel>
+
+  <channel id="ertcosmos">
+    <display-name>ERTCOSMOS</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/ERT_Cosmos_Logo_2026.svg/3840px-ERT_Cosmos_Logo_2026.svg.png"/>
+  </channel>
+
+  <channel id="ertnews">
+    <display-name>ERT NEWS</display-name>
+    <icon src="https://i.imgur.com/pMia7tN.png"/>
+  </channel>
+
+  <channel id="ertkids">
+    <display-name>ERT KIDS</display-name>
+    <icon src="https://i.imgur.com/RvrQSAs.png"/>
+  </channel>
+
+  <channel id="ant1">
+    <display-name>ANT1 HD</display-name>
+    <icon src="https://i.imgur.com/GTFFtOR.png"/>
+  </channel>
+
+  <channel id="Ant1 Drama">
+    <display-name>ANT1 DRAMA</display-name>
+    <icon src="https://i.imgur.com/5QDNhXo.png"/>
+  </channel>
+
+  <channel id="Ant1 Comedy">
+    <display-name>ANT1 COMEDY</display-name>
+    <icon src="https://i.imgur.com/V1byeFi.png"/>
+  </channel>
+
+  <channel id="realmusictv">
+    <display-name>REAL MUSIC TV</display-name>
+    <icon src="https://i.imgur.com/HmxMZOd.png"/>
+  </channel>
+
+  <channel id="mtv">
+    <display-name>MAK. HD</display-name>
+    <icon src="https://i.imgur.com/RVs0GZa.png"/>
+  </channel>
+
+  <channel id="alpha">
+    <display-name>ALPHA HD</display-name>
+    <icon src="https://i.imgur.com/0i4MUcc.png"/>
+  </channel>
+
+  <channel id="open">
+    <display-name>OPEN TV HD</display-name>
+    <icon src="https://i.imgur.com/cshmF4s.png"/>
+  </channel>
+
+  <channel id="skai">
+    <display-name>SKAI HD</display-name>
+    <icon src="https://i.imgur.com/o2aft6Q.png"/>
+  </channel>
+
+  <channel id="star">
+    <display-name>STAR HD</display-name>
+    <icon src="https://i.imgur.com/AazwSEQ.png"/>
+  </channel>
+
+  <channel id="starinternational">
+    <display-name>STAR INTERNATIONAL</display-name>
+    <icon src="https://i.imgur.com/AazwSEQ.png"/>
+  </channel>
+
+  <channel id="mega">
+    <display-name>MEGA HD</display-name>
+    <icon src="https://i.imgur.com/HIcqDaY.png"/>
+  </channel>
+
+  <channel id="meganews">
+    <display-name>MEGA NEWS</display-name>
+    <icon src="https://i.imgur.com/owoR8Xi.png"/>
+  </channel>
+
+  <channel id="omega">
+    <display-name>OMEGA CY</display-name>
+    <icon src="https://i.imgur.com/Np7xLfk.png"/>
+  </channel>
+
+  <channel id="sigma">
+    <display-name>SIGMA CY</display-name>
+    <icon src="https://i.imgur.com/lFjBmPF.png"/>
+  </channel>
+
+  <channel id="xalastratv">
+    <display-name>XALASTRA TV</display-name>
+    <icon src="https://i.imgur.com/XTtvsef.png"/>
+  </channel>
+
+  <channel id="deltatv">
+    <display-name>DELTA TV</display-name>
+    <icon src="https://i.imgur.com/YiVVg6n.png"/>
+  </channel>
+
+  <channel id="barazatv">
+    <display-name>BARAZA TV HD Greek Hits</display-name>
+    <icon src="https://i.imgur.com/NlN4lmc.png"/>
+  </channel>
+
+  <channel id="barazalaika">
+    <display-name>BARAZA LAIKA</display-name>
+    <icon src="https://i.imgur.com/NlN4lmc.png"/>
+  </channel>
+
+  <channel id="nettvtoronto">
+    <display-name>NET TV TORONTO HD</display-name>
+    <icon src="https://i.imgur.com/Lzkw32k.png"/>
+  </channel>
+
+  <channel id="cinemaclassics">
+    <display-name>CINEMA CLASSICS</display-name>
+    <icon src="https://i.imgur.com/6STBhNL.png"/>
+  </channel>
+
+  <channel id="ionian">
+    <display-name>IONIAN CHANNEL</display-name>
+    <icon src="https://i.imgur.com/lzKsdsH.png"/>
+  </channel>
+
+  <channel id="ellasworld">
+    <display-name>ELLAS WORLD</display-name>
+    <icon src="https://i.imgur.com/3Gy3JyZ.png"/>
+  </channel>
+
+  <channel id="villageworld">
+    <display-name>VILLAGE WORLD</display-name>
+    <icon src="https://i.imgur.com/WftpxK2.png"/>
+  </channel>
+
+  <channel id="madtv">
+    <display-name>MAD TV</display-name>
+    <icon src="https://i.imgur.com/G0iN2tt.png"/>
+  </channel>
+
+  <channel id="madworld">
+    <display-name>MAD WORLD</display-name>
+    <icon src="https://i.imgur.com/zoS5RWU.png"/>
+  </channel>
+
+  <channel id="diavatatv">
+    <display-name>DIAVATA TV HD</display-name>
+    <icon src="https://i.imgur.com/1DxMmHL.png"/>
+  </channel>
+
+  <channel id="lampsitv">
+    <display-name>LAMPSI TV</display-name>
+    <icon src="https://i.imgur.com/jUr8BZA.png"/>
+  </channel>
+
+  <channel id="PanikTV">
+    <display-name>PANIK TV</display-name>
+    <icon src="https://i.imgur.com/Xb4XJfz.png"/>
+  </channel>
+
+  <channel id="openEcclessia">
+    <display-name>OPEN ECLESSIA</display-name>
+    <icon src="https://static.wikia.nocookie.net/logopedia/images/7/7c/Opentv.png/revision/latest/scale-to-width-down/250?cb=20181204104231/Xb4XJfz.png"/>
+  </channel>
+
+  <!-- Sample Program Placeholders (Adjust start/stop timestamps as needed) -->
+  <programme start="20260823000000 +0000" stop="20260823235959 +0000" channel="ert1">
+    <title lang="el">Ζωντανό Πρόγραμμα ERT1</title>
+    <desc lang="el">Συνεχής ροή προγράμματος ERT1 HD.</desc>
+  </programme>
+
+  <programme start="20260823000000 +0000" stop="20260823235959 +0000" channel="ant1">
+    <title lang="el">Ζωντανό Πρόγραμμα ANT1</title>
+    <desc lang="el">Συνεχής ροή προγράμματος ANT1 HD.</desc>
+  </programme>
+
+</tv>
