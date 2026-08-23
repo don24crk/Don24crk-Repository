@@ -3,22 +3,22 @@
 
 <tv generator-info-name="Custom M3U to XMLTV Generator" generator-info-url="https://github.com">
   <!-- Unique Channels Derived from M3U -->
-  <channel id="ert1">
+  <channel id="https://tvepg.eu/en/greece/c/ert1">
     <display-name>ERT1 HD</display-name>
     <icon src="https://i.imgur.com/oh9E9sK.png"/>
   </channel>
 
-  <channel id="ert2">
+  <channel id="https://tvepg.eu/en/greece/c/ert2">
     <display-name>ERT2 SPOR HD</display-name>
     <icon src="https://i.imgur.com/ZpUEkeq.png"/>
   </channel>
 
-  <channel id="ert3">
+  <channel id="https://tvepg.eu/en/greece/c/ert3">
     <display-name>ERT3 HD</display-name>
     <icon src="https://i.imgur.com/oKxPmQJ.png"/>
   </channel>
 
-  <channel id="ertcosmos">
+  <channel id="https://tvepg.eu/en/greece/c/ert-world">
     <display-name>ERTCOSMOS</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/ERT_Cosmos_Logo_2026.svg/3840px-ERT_Cosmos_Logo_2026.svg.png"/>
   </channel>
@@ -33,7 +33,7 @@
     <icon src="https://i.imgur.com/RvrQSAs.png"/>
   </channel>
 
-  <channel id="ant1">
+  <channel id="https://tvepg.eu/en/greece/c/ant1#now">
     <display-name>ANT1 HD</display-name>
     <icon src="https://i.imgur.com/GTFFtOR.png"/>
   </channel>
@@ -53,27 +53,27 @@
     <icon src="https://i.imgur.com/HmxMZOd.png"/>
   </channel>
 
-  <channel id="mtv">
+  <channel id="https://tvepg.eu/en/greece/c/makedonia-tv#now">
     <display-name>MAK. HD</display-name>
     <icon src="https://i.imgur.com/RVs0GZa.png"/>
   </channel>
 
-  <channel id="alpha">
+  <channel id="https://tvepg.eu/en/greece/c/alphatv#now">
     <display-name>ALPHA HD</display-name>
     <icon src="https://i.imgur.com/0i4MUcc.png"/>
   </channel>
 
-  <channel id="open">
+  <channel id="https://tvepg.eu/en/greece/c/open-beyond#now">
     <display-name>OPEN TV HD</display-name>
     <icon src="https://i.imgur.com/cshmF4s.png"/>
   </channel>
 
-  <channel id="skai">
+  <channel id="https://tvepg.eu/en/greece/c/skai#now">
     <display-name>SKAI HD</display-name>
     <icon src="https://i.imgur.com/o2aft6Q.png"/>
   </channel>
 
-  <channel id="star">
+  <channel id="https://tvepg.eu/en/greece/c/star#now">
     <display-name>STAR HD</display-name>
     <icon src="https://i.imgur.com/AazwSEQ.png"/>
   </channel>
@@ -83,7 +83,7 @@
     <icon src="https://i.imgur.com/AazwSEQ.png"/>
   </channel>
 
-  <channel id="mega">
+  <channel id="https://tvepg.eu/en/greece/c/mega-tv#now">
     <display-name>MEGA HD</display-name>
     <icon src="https://i.imgur.com/HIcqDaY.png"/>
   </channel>
@@ -148,7 +148,7 @@
     <icon src="https://i.imgur.com/WftpxK2.png"/>
   </channel>
 
-  <channel id="madtv">
+  <channel id="https://tvepg.eu/en/greece/c/mad#now">
     <display-name>MAD TV</display-name>
     <icon src="https://i.imgur.com/G0iN2tt.png"/>
   </channel>
