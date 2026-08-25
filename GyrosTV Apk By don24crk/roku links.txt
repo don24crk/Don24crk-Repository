@@ -1,0 +1,14 @@
+roku links
+
+HTTP/1.1
+User-Agent: Roku/DVP-14.6 (14.6.4.9914-CE)
+Connection: Keep-Alive
+Accept-Encoding: gzip
+
+http://137.184.128.60/hls/ert1.m3u8
+http://147.182.143.104/hls/open.m3u8
+http://51.79.103.218/hls/alpha.m3u8
+http://15.235.41.165/hls/antenna.m3u8
+http://147.182.143.104/hls/ert3.m3u8
+http://15.235.41.196/hls/mega.m3u8
+
