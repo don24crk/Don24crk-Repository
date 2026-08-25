@@ -6,7 +6,7 @@ https://01eb71ee94ba4a1caf54da0c74efefb4.msvdn.net/ept_ch2/ept_ch2/mainabr/playl
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert3" tvg-logo="https://i.imgur.com/oKxPmQJ.png" fanart-image="https://wallpapers4screen.com/Uploads/19-7-2022/40083/thumb2-4k-greece-flag-stone-texture-flag-of-greece-stone-background.jpg",ERT3 HD 
 https://ert-live.ascdn.broadpeak.io/bpk-tv/ERT3/default/index.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert1 bup" tvg-logo="https://i.imgur.com/oh9E9sK.png" fanart-image="https://wallpapers4screen.com/Uploads/19-7-2022/40083/thumb2-4k-greece-flag-stone-texture-flag-of-greece-stone-background.jpg",ERT1 BUP
-https://s2.cystream.net/galanos/star/chunks.m3u8?nimblesessionid=42938820&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDI2IDY6NTE6MTMgUE0maGFzaF92YWx1ZT1QUndQWUZhZUpjYU9ER1FTMDBnVWNRPT0mdmFsaWRtaW51dGVzPTIw
+https://s2.cystream.net/live/ert1/chunks.m3u8?nimblesessionid=42941151&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDI2IDg6MDA6NTIgUE0maGFzaF92YWx1ZT1JVjlTRStrZ0NXWCtnZHRQNUs0NXVnPT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert2 bup" tvg-logo="https://i.imgur.com/ZpUEkeq.png" fanart-image="https://wallpapers4screen.com/Uploads/19-7-2022/40083/thumb2-4k-greece-flag-stone-texture-flag-of-greece-stone-background.jpg",ERT2 SPOR BUP 
 https://s2.cystream.net/live/ert2/chunks.m3u8?nimblesessionid=42940933&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDI2IDc6NTQ6MjggUE0maGFzaF92YWx1ZT1hZk43eHZpVTB0UUxmdUxPRDdUR25RPT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert2 bup2" tvg-logo="https://i.imgur.com/ZpUEkeq.png" fanart-image="https://wallpapers4screen.com/Uploads/19-7-2022/40083/thumb2-4k-greece-flag-stone-texture-flag-of-greece-stone-background.jpg",ERT2 SPOR BUP2
