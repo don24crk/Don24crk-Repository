@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF:-1,THESSALIATV
-#EXTVLCOPT:http-referrer=https://www.thessaliatv.gr/live
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.7977.76 Mobile Safari/537.36
+#KODIPROP:http-referrer=https://www.thessaliatv.gr/live
+#KODIPROP:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.7977.76 Mobile Safari/537.36
 https://thessaliachannel.gr:3850/live/thesstvlive.m3u8
