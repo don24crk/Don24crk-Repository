@@ -1,3 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://githubusercontent.com" group-title="Panhellenic",MEGA (GreekTV Edge)
-plugin://plugin.video.GreekTV/?action=play&url=http%3A%2F%2F15.235.41.196%2Fhls%2Fmega.m3u8%7CUser-Agent%3DMozilla%2F5.0%2520%28Linux%3B%2520Android%252010%3B%2520K%29%2520AppleWebKit%2F537.36%2520%28KHTML%2C%2520like%2520Gecko%29%2520Chrome%2F150.0.0.0%2520Mobile%2520Safari%2F537.36%2520EdgA%2F150.0.0.0
+#EXTINF:-1 tvg-logo="https://githubusercontent.com" group-title="Panhellenic",MEGA HD (Clearkey)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ef914cbddc27fbf47c4b24610a571a1:9196400b74c70c98f7d2da6aaac7e242
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36 EdgA/150.0.0.0
+https://spark3.smart-tv-data.com/megaHD/megaHD/manifest.mpd
