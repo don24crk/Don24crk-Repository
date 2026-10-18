@@ -1,3 +1,3 @@
 #EXTINF:-1,Mega TV
 #EXTVLCOPT:http-user-agent=Roku/DVP-14.6 (14.6.4.9914-CE)
-http://15.235.41.196:80/hls/mega.m3u8|User-Agent=Roku%2FDVP-14.6%20%2814.6.4.9914-CE%29&x-roku-reserved-dev-id=75ab1929b0c20717db1fd855a37a03a6a621fc3f&Accept-Encoding=identity
+http://15.235.41.196:80/hls/mega.m3u8|User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F130.0.0.0%20Safari%2F537.36&x-roku-reserved-dev-id=75ab1929b0c20717db1fd855a37a03a6a621fc3f&Accept-Encoding=identity
