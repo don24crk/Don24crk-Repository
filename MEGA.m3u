@@ -1,9 +1,3 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://githubusercontent.com" group-title="Panhellenic",MEGA HD (greektv.live Web-Fix)
-#KODIPROP:contentlookup=False
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7ef914cbddc27fbf47c4b24610a571a1:9196400b74c70c98f7d2da6aaac7e242
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36 EdgA/150.0.0.0&Referer=https://greektv.live
-https://spark3.smart-tv-data.com/megaHD/megaHD/manifest.mpd|User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36 EdgA/150.0.0.0&Referer=https://www.greektv.live/
+#EXTINF:-1,Mega TV
+#EXTVLCOPT:http-user-agent=Roku/DVP-14.6 (14.6.4.9914-CE)
+http://15.235.41.196:80/hls/mega.m3u8|User-Agent=Roku%2FDVP-14.6%20%2814.6.4.9914-CE%29&x-roku-reserved-dev-id=75ab1929b0c20717db1fd855a37a03a6a621fc3f&Accept-Encoding=identity
